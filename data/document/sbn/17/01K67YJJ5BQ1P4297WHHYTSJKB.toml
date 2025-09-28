@@ -1,8 +1,11 @@
 id = "01K67YJJ5BQ1P4297WHHYTSJKB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01406"
+
+[meta]
 bill_number = 1406
 congress = 17
-canonical = "SBN-01406"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1406", "https://web.senate.gov.ph/lisdata/2578322150!.pdf",]
 title = "MANDATING THE DEPARTMENT OF HEALTH TO PROVIDE ONE (1) HEALTH WORKER IN EVERY BARANGAY"
 date_filed = "2017-03-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO PROVIDE AT LEAST ONE 
 scope = "National"
 subjects = [ "Barangay Health Worker", "Department of Health (DOH)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2017-03-16"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/2/2017"
+date = "2017-05-02"
 
 [[committees]]
 name = "Health and Demography"

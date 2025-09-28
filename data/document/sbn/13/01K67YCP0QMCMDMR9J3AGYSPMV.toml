@@ -1,8 +1,11 @@
 id = "01K67YCP0QMCMDMR9J3AGYSPMV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01153"
+
+[meta]
 bill_number = 1153
 congress = 13
-canonical = "SBN-01153"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1153", "https://web.senate.gov.ph/lisdata/23681661!.pdf",]
 title = "PHILIPPINE CEREALS RESEARCH, DEVELOPMENT AND EXTENSION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE CEREALS RESEARCH, DEVELOPMENT A
 scope = "National"
 subjects = [ "Cereals Research/Dev`T & Extension Act", "Philcereal (Establishment)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on AGRICULTURE AND FOOD; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Agriculture and Food"

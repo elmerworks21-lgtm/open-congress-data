@@ -1,8 +1,11 @@
 id = "01K67YJCJRNAJ4TNA4F7KN9A4R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00460"
+
+[meta]
 bill_number = 460
 congress = 16
-canonical = "SBN-00460"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-460", "https://web.senate.gov.ph/lisdata/1632613566!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE (TOLLWAY OPERATIONS)"
 date_filed = "2013-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING TOLLWAY OPERATIONS FROM THE TWELVE PERCENT (12%) 
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Value-Added Tax (VAT)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-04"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2013"
+date = "2013-08-05"
 
 [[committees]]
 name = "Ways and Means"

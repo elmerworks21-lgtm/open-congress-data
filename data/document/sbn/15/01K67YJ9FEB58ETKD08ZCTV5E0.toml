@@ -1,8 +1,11 @@
 id = "01K67YJ9FEB58ETKD08ZCTV5E0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03090"
+
+[meta]
 bill_number = 3090
 congress = 15
-canonical = "SBN-03090"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3090", "https://web.senate.gov.ph/lisdata/1266510644!.pdf",]
 title = "PUBLIC-PRIVATE PARTNERSHIP IN INFRASTRUCTURE DEVELOPMENT ACT OF 2012"
 date_filed = "2011-12-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENHANCING THE PUBLIC PRIVATE PARTNERSHIP (PPP) IN INFRASTRU
 scope = "National"
 subjects = [ "Infrastuctures",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2011-12-15"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS and PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2012"
+date = "2012-01-16"
 
 [[committees]]
 name = "Economic Affairs"

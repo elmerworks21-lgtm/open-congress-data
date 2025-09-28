@@ -1,8 +1,11 @@
 id = "01K67YJJPE4RJTD88P507MN0VV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02052"
+
+[meta]
 bill_number = 2052
 congress = 17
-canonical = "SBN-02052"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2052", "https://web.senate.gov.ph/lisdata/2874625236!.pdf",]
 title = "R&D ACT OF 2018"
 date_filed = "2018-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A RESEARCH AND DEVELOPMENT COUNCIL OF THE PHILIPPI
 scope = "National"
 subjects = [ "Research and Development Council",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-03"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-08"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/8/2018"
+date = "2018-10-08"
 
 [[committees]]
 name = "Science and Technology"

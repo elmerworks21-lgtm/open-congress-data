@@ -1,8 +1,11 @@
 id = "01K67YCP7APSBRJJY994Y9JF0T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01516"
+
+[meta]
 bill_number = 1516
 congress = 13
-canonical = "SBN-01516"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1516", "https://web.senate.gov.ph/lisdata/27312097!.pdf",]
 title = "JUDICIAL RIGHT TO KNOW ACT"
 date_filed = "2004-07-27"
@@ -10,17 +13,18 @@ long_title = "THE JUDICIAL RIGHT TO KNOW ACT"
 scope = "National"
 subjects = [ "Judicial Right to Know Act", "Sub Judice Rule, Elimination", "Gag Order/Courtroom Hearings",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-27"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-15"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2004"
+date = "2004-09-15"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJWHWN9XW3W1CC96REB7B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02354"
+
+[meta]
 bill_number = 2354
 congress = 19
-canonical = "SBN-02354"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2354", "https://web.senate.gov.ph/lisdata/4221838407!.pdf",]
 title = "APPRENTICESHIP TRAINING SYSTEM ACT"
 date_filed = "2023-07-25"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR A REVISED NATIONAL APPRENTICESHIP PROGRAM, CL
 scope = "National"
 subjects = [ "Apprentice/Apprenticeship", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-25"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-21"
 action = "Returned and submitted jointly by the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and WAYS AND MEANS per Committee Report No. 171, recommending that it be substituted by SBN-2491;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "SUBSTITUTED BY SBN-2491 UNDER COMMITTEE REPORT NO. 171."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/22/2023"
+date = "2023-11-22"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

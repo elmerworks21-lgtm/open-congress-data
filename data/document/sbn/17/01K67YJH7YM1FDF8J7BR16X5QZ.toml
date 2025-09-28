@@ -1,8 +1,11 @@
 id = "01K67YJH7YM1FDF8J7BR16X5QZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00153"
+
+[meta]
 bill_number = 153
 congress = 17
-canonical = "SBN-00153"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-153", "https://web.senate.gov.ph/lisdata/2357520203!.pdf",]
 title = "TRAIN PROTECTION ACT"
 date_filed = "2016-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE CRIME OF ROBBERY OF TRAIN IMPLEMENTS, CLASSIFY
 scope = "National"
 subjects = [ "Train Protection Act", "Heinous Crimes", "Theft and Robbery",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2016"
+date = "2016-08-01"
 
 [[committees]]
 name = "Public Services"

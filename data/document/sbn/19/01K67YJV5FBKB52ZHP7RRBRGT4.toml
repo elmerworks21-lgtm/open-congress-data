@@ -1,8 +1,11 @@
 id = "01K67YJV5FBKB52ZHP7RRBRGT4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00431"
+
+[meta]
 bill_number = 431
 congress = 19
-canonical = "SBN-00431"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-431", "https://web.senate.gov.ph/lisdata/3819234630!.pdf",]
 title = "AMENDING R.A NO. 9263 (BFP AND BJMP PROFESSIONALIZATION ACT OF 2004), AS AMENDED"
 date_filed = "2022-07-12"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR THE RANK CLASSIFICATION AND ORGANIZATION OF K
 scope = "National"
 subjects = [ "Rank Classification", "Bureau of Fire Protection", "Bureau of Jail Management and Penology",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-05"
 action = "Returned and submitted jointly by the Committees on PUBLIC ORDER AND DANGEROUS DRUGS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, LOCAL GOVERNMENT and FINANCE per Committee Report No. 212, recommending that it be substituted by SBN-2586;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-05"
 action = "SUBSTITUTED BY SBN-2586 UNDER COMMITTEE REPORT NO. 212."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/5/2024"
+date = "2024-03-05"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

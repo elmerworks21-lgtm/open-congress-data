@@ -1,24 +1,28 @@
 id = "01K67YM6SDYXN5PZ7WSFNSBYSM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09091"
+
+[meta]
 bill_number = 9091
 congress = 17
-canonical = "HBN-09091"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-9091", "https://web.senate.gov.ph/lisdata/3000026703!.pdf",]
 title = "BISLIG SPECIAL ECONOMIC ZONE ACT"
 long_title = "AN ACT ESTABLISHING THE SPECIAL ECONOMIC ZONE IN THE CITY OF BISLIG, PROVINCE OF SURIGAO DEL SUR, CREATING FOR THIS PURPOSE THE BISLIG SPECIAL ECONOMIC ZONE AUTHORITY, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Special Economic Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Economic Affairs"

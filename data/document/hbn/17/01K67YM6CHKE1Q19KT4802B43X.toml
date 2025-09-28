@@ -1,24 +1,28 @@
 id = "01K67YM6CHKE1Q19KT4802B43X"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07512"
+
+[meta]
 bill_number = 7512
 congress = 17
-canonical = "HBN-07512"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7512", "https://web.senate.gov.ph/lisdata/2824024558!.pdf",]
 title = "BARANGAY INTEGRATED DEVELOPMENT APPROACH FOR NUTRITION IMPROVEMENT (BIDANI) ACT"
 long_title = "AN ACT ESTABLISHING THE BARANGAY INTEGRATED DEVELOPMENT APPROACH FOR NUTRITION IMPROVEMENT (BIDANI) OF THE RURAL POOR AS LINKAGE PROGRAM FOR ALL STATE UNIVERSITIES AND COLLEGES (SUCS) AND COMMUNITY COLLEGES AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Nutrition", "Barangay Development Program", "State Colleges and Universities (SCUS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2018"
+date = "2018-08-06"
 
 [[committees]]
 name = "Health and Demography"

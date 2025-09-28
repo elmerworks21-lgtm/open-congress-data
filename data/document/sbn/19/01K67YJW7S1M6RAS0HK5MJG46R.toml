@@ -1,8 +1,11 @@
 id = "01K67YJW7S1M6RAS0HK5MJG46R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01935"
+
+[meta]
 bill_number = 1935
 congress = 19
-canonical = "SBN-01935"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1935", "https://web.senate.gov.ph/lisdata/4092637293!.pdf",]
 title = "PAMPANGA STATE AGRICULTURAL UNIVERSITY-FLORIDABLANCA CAMPUS"
 date_filed = "2023-02-28"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING IN THE MUNICIPALITY OF FLORIDABLANCA, PROVINCE
 scope = "Local"
 subjects = [ "State Universities and Colleges (SUCS)", "Schools, Establishment",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-28"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-01"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-06-19"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE per Committee Report No. 96, recommending that it be considered in HBN-6128;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-26"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-26"
 action = "CONSIDERED IN HBN-6128 UNDER COMMITTEE REPORT NO. 96."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/26/2023"
+date = "2023-07-26"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

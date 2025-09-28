@@ -1,8 +1,11 @@
 id = "01K67YJ7WHWT7BWF3XF229N9RK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01043"
+
+[meta]
 bill_number = 1043
 congress = 15
-canonical = "SBN-01043"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1043", "https://web.senate.gov.ph/lisdata/85397094!.pdf",]
 title = "GUN REPLICAS REGULATION ACT"
 date_filed = "2010-07-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT REGULATING THE MANUFACTURE AND SALES OF GUN REPLICAS, PROVI
 scope = "National"
 subjects = [ "Firearms (Gun Replicas)",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-08"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-23"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS and TRADE AND COMMERCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2010"
+date = "2010-08-23"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

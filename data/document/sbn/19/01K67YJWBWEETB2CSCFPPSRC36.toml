@@ -1,8 +1,11 @@
 id = "01K67YJWBWEETB2CSCFPPSRC36"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02104"
+
+[meta]
 bill_number = 2104
 congress = 19
-canonical = "SBN-02104"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2104", "https://web.senate.gov.ph/lisdata/4146637754!.pdf",]
 title = "EASTERN VISAYAS REGIONAL MEDICAL CENTER CATARMAN SATELLITE HOSPITAL"
 date_filed = "2023-04-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A FIFTY (SO)-BED SATELLITE HOSPITAL OF THE EAS
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-04-26"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2023"
+date = "2023-05-09"
 
 [[committees]]
 name = "Rules"

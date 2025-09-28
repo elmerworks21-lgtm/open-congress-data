@@ -1,8 +1,11 @@
 id = "01K67YJJKT6682WHRGG1637FC1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01957"
+
+[meta]
 bill_number = 1957
 congress = 17
-canonical = "SBN-01957"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1957", "https://web.senate.gov.ph/lisdata/2847224824!.pdf",]
 title = "PROVIDING FOR BURIAL WITH HONORS TO OVERSEAS FILIPINO WORKERS"
 date_filed = "2018-08-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR BURIAL WITH HONORS TO OVERSEAS FILIPINO WORKE
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)", "Flag and Heraldic Code (R.A.No. 8491)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-29"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-03"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2018"
+date = "2018-09-03"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJQ1CWMY0B2RT0QRNW0XB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00970"
+
+[meta]
 bill_number = 970
 congress = 18
-canonical = "SBN-00970"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-970", "https://web.senate.gov.ph/lisdata/3136928263!.pdf",]
 title = "INCREASING HAZARD PAY TO CIVILIAN DOCTORS AND NURSES OF THE AFPMMC"
 date_filed = "2019-08-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE HAZARD PAY OF ALL PERSONNEL OF THE ARMED FOR
 scope = "National"
 subjects = [ "Armed Forces of the Philippines Memorial Medical Center (AFPmmc)", "Hazard Pay", "Doctors/Physicians/Dentists", "Nurses/Nursing",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-27"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on National Defense and Security; and the Committee on Peace, Unification and Reconciliation, SBN-970 shall now be referred to the Committee on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2019"
+date = "2019-08-28"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

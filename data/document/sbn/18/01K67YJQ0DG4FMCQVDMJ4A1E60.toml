@@ -1,8 +1,11 @@
 id = "01K67YJQ0DG4FMCQVDMJ4A1E60"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00923"
+
+[meta]
 bill_number = 923
 congress = 18
-canonical = "SBN-00923"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-923", "https://web.senate.gov.ph/lisdata/3130228200!.pdf",]
 title = "GSIS COVERAGE OF BARANGAY OFFICIALS ACT"
 date_filed = "2019-08-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE INCLUSION OF BARANGAY OFFICIALS WITHIN THE CO
 scope = "National"
 subjects = [ "Barangay Officials", "Government Service Insurance System (GSIS)",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-19"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2019"
+date = "2019-08-20"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

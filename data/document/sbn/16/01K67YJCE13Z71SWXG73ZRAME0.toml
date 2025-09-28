@@ -1,8 +1,11 @@
 id = "01K67YJCE13Z71SWXG73ZRAME0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00229"
+
+[meta]
 bill_number = 229
 congress = 16
-canonical = "SBN-00229"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-229", "https://web.senate.gov.ph/lisdata/1607713315!.pdf",]
 title = "LABOR CODE (PROVIDING SEATS PROPER FOR WOMEN ASSIGNED IN SALES)"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING OWNERS AND/OR OPERATORS OF MALLS, DEPARTMENT STOR
 scope = "National"
 subjects = [ "Women", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-30"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2013"
+date = "2013-07-30"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

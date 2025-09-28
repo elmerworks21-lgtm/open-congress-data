@@ -1,24 +1,28 @@
 id = "01K67YKWX8NK4QBD941BCX4TAY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06089"
+
+[meta]
 bill_number = 6089
 congress = 14
-canonical = "HBN-06089"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6089", "https://web.senate.gov.ph/lisdata/1323811810!.pdf",]
 title = "BAYBAYIN - CAHIGAM - MAHANADIONG TAYSAN NATIONAL ROAD"
 long_title = "AN ACT CONVERTING THE BAYBAYIN - CAHIGAM - MAHANADIONG TAYSAN PROVINCIAL ROAD IN THE MUNICIPALITY OF ROSARIO, PROVINCE OF BATANGAS INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-12-10"
 action = "Filed in the Senate requesting for concurrence by Representative MARK LIANDRO L. MENDOZA as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/14/2009"
+date = "2009-12-14"
 
 [[committees]]
 name = "Public Works"

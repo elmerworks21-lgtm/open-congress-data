@@ -1,8 +1,11 @@
 id = "01K67YJQXF0VDZ8BGMR1KAGH38"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02137"
+
+[meta]
 bill_number = 2137
 congress = 18
-canonical = "SBN-02137"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2137", "https://web.senate.gov.ph/lisdata/3491831741!.pdf",]
 title = "COUNTERFEIT PHARMACEUTICAL PRODUCTS PREVENTION ACT"
 date_filed = "2021-04-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE REGULATORY SYSTEM IN THE COUNTRY TO COMBA
 scope = "National"
 subjects = [ "Counterfeit Medicines",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-19"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Health and Demography"

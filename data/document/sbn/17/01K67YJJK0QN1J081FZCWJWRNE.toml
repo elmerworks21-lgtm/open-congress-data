@@ -1,8 +1,11 @@
 id = "01K67YJJK0QN1J081FZCWJWRNE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01919"
+
+[meta]
 bill_number = 1919
 congress = 17
-canonical = "SBN-01919"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1919", "https://web.senate.gov.ph/lisdata/2829324613!.pdf",]
 title = "CARLOS HILADO MEMORIAL STATE UNIVERSITY"
 date_filed = "2018-08-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT CONVERTING THE CARLOS HILADO MEMORIAL STATE COLLEGE IN THE 
 scope = "National"
 subjects = [ "State Colleges and Universities (SCUS)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-07"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, WAYS AND MEANS and FINANCE per Committee Report No. 618, recommending that it be considered in HBN-8732;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "CONSIDERED IN HBN-8732 UNDER COMMITTEE REPORT NO. 618."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/30/2019"
+date = "2019-01-30"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJWC0J67QFP8380E7RD9S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02109"
+
+[meta]
 bill_number = 2109
 congress = 19
-canonical = "SBN-02109"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2109", "https://web.senate.gov.ph/lisdata/4148837774!.pdf",]
 title = "AMENDING R.A. NO. 10361 (BATAS KASAMBAHAY)"
 date_filed = "2023-05-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING GREATER RESPONSIBILITY AND ACCOUNTABILITY FROM
 scope = "National"
 subjects = [ "Batas Kasambahay (R.A.No. 10361)", "Domestic Workers", "Private Employment Agencies (PEA)",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-03"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-10"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2023"
+date = "2023-05-10"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

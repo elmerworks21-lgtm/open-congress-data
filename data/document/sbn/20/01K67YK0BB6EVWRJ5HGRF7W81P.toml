@@ -1,8 +1,11 @@
 id = "01K67YK0BB6EVWRJ5HGRF7W81P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00931"
+
+[meta]
 bill_number = 931
 congress = 20
-canonical = "SBN-00931"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-931", "https://web.senate.gov.ph/lisdata/4755043557!.pdf",]
 title = "ENHANCING CREDIT SUPPORT TO MICRO, SMALL AND MEDIUM ENTERPRISES"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENHANCING CREDIT SUPPORT TO MICRO, SMALL AND MEDIUM ENTERPR
 scope = "National"
 subjects = [ "Magna Carta for Micro, Small and Medium-Scale Enterprises",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and ECONOMIC AFFAIRS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

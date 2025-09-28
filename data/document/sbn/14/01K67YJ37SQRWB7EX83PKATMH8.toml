@@ -1,8 +1,11 @@
 id = "01K67YJ37SQRWB7EX83PKATMH8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03367"
+
+[meta]
 bill_number = 3367
 congress = 14
-canonical = "SBN-03367"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3367", "https://web.senate.gov.ph/lisdata/1200010557!.pdf",]
 title = "ENFORCED OR INVOLUNTARY DISAPPEARANCE ACT OF 2009"
 date_filed = "2009-07-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT DEFINING AND PENALIZING THE CRIME OF ENFORCED OR INVOLUNTAR
 scope = "National"
 subjects = [ "Involuntary Disappearance", "Enforced Disappearance",]
 authors_raw = "Pangilinan, Francis N., Escudero, Francis \"Chiz\" G., Madrigal, M. A., Defensor Santiago, Miriam, Villar, Manny, Pimentel Jr., Aquilino Q., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-07-30"
 action = "Prepared and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS, CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and FINANCE with Senator(s) FRANCIS N. PANGILINAN, FRANCIS 'CHIZ' G. ESCUDERO, M. A. MADRIGAL, MIRIAM DEFENSOR SANTIAGO, MANNY VILLAR, AQUILINO Q. PIMENTEL JR. and EDGARDO J. ANGARA as author(s) per Committee Report No. 546, recommending its approval in substitution of SBN-264, 1307, 1489, 2107 and 2578, taking into consideration HBN-5886 and the Privilege Speech of Senator Aquino Q. Pimentel Jr., entitled: 'Disappearances of People', delivered on April 28, 2009 as well as the interpellation that ensued thereon;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-11"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "8/11/2009"
+date = "2009-08-11"
 
 [[committees]]
 name = "Justice and Human Rights"

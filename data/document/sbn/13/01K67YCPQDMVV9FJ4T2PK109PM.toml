@@ -1,8 +1,11 @@
 id = "01K67YCPQDMVV9FJ4T2PK109PM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02315"
+
+[meta]
 bill_number = 2315
 congress = 13
-canonical = "SBN-02315"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2315", "https://web.senate.gov.ph/lisdata/54414499!.pdf",]
 title = "NATIONAL LIBRARY OF THE PHILIPPINES"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER CHANGING THE NOMENCLATURE OF THE NATIONAL LIBRARY I
 scope = "National"
 subjects = [ "National Library of the Philippines (Amendments)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Education, Arts and Culture"

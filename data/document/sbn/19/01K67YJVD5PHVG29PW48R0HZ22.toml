@@ -1,8 +1,11 @@
 id = "01K67YJVD5PHVG29PW48R0HZ22"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00787"
+
+[meta]
 bill_number = 787
 congress = 19
-canonical = "SBN-00787"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-787", "https://web.senate.gov.ph/lisdata/3860135055!.pdf",]
 title = "BANNING A NO PERMIT, NO EXAM POLICY ACT"
 date_filed = "2022-07-21"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROHIBITING A 'NO PERMIT, NO EXAM' POLICY OR ANY SUCH POLIC
 scope = "National"
 subjects = [ "No Permit, No Exam Policy", "Students", "Educational Institutions",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-21"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-06"
 action = "Transferred from the Committee on Basic Education to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION as primary committee and from the Committee on Higher, Technical and Vocational Education to the Committee on BASIC EDUCATION as secondary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-10-03"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and BASIC EDUCATION per Committee Report No. 6, recommending that it be substituted by SBN-1359;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-10-07"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-07"
 action = "SUBSTITUTED BY SBN-1359 UNDER COMMITTEE REPORT NO. 6, WHICH BECAME REPUBLIC ACT NO. 11984 ON MARCH 11, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/7/2022"
+date = "2022-11-07"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

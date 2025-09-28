@@ -1,8 +1,11 @@
 id = "01K67YCNNE0BQFN64YSB8DGJZ8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00531"
+
+[meta]
 bill_number = 531
 congress = 13
-canonical = "SBN-00531"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-531", "https://web.senate.gov.ph/lisdata/16881019!.pdf",]
 title = "HOT MEALS FOR HUNGRY LEARNERS ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING IN THE DEPARTMENT OF EDUCATION A NATIONAL SCHO
 scope = "National"
 subjects = [ "Hot Meals for Hungry Learners Act", "Elementary School Children/Grade Pupils", "Nutrition (Nat. School Feeding Program)", "Dept. of Education (DepEd)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Education, Arts and Culture"

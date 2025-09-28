@@ -1,8 +1,11 @@
 id = "01K67YCNTA9ADMNCAMBBKFZWWZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00812"
+
+[meta]
 bill_number = 812
 congress = 13
-canonical = "SBN-00812"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-812", "https://web.senate.gov.ph/lisdata/20081463!.pdf",]
 title = "CULTURAL PROPERTIES PRESERVATION AND PROTECTION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 5 OF REPUBLIC ACT NUMBER FORTY EIGHT HUNDR
 scope = "National"
 subjects = [ "Cultural Properties Preservation",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Education, Arts and Culture"

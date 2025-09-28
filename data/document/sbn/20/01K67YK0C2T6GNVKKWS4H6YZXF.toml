@@ -1,8 +1,11 @@
 id = "01K67YK0C2T6GNVKKWS4H6YZXF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00968"
+
+[meta]
 bill_number = 968
 congress = 20
-canonical = "SBN-00968"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-968", "https://web.senate.gov.ph/lisdata/4748543489!.pdf",]
 title = "PENSIONADO ACT"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AN ADVANCED STUDIES DEVELOPMENT PROGRAM FOR EXCEPT
 scope = "National"
 subjects = [ "Pensionado", "Commission on Higher Education (CHED)", "Advanced Studies Development Program",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

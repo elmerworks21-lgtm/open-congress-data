@@ -1,24 +1,28 @@
 id = "01K67YM6JTJN6VYF6N0SGJK257"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08590"
+
+[meta]
 bill_number = 8590
 congress = 17
-canonical = "HBN-08590"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8590", "https://web.senate.gov.ph/lisdata/2914625727!.pdf",]
 title = "NATIONAL HIJAB DAY"
 long_title = "AN ACT DECLARING THE FIRST DAY OF FEBRUARY OF EVERY YEAR AS 'NATIONAL HIJAB DAY’"
 scope = "National"
 subjects = [ "Hijab", "Muslim",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-10"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2018"
+date = "2018-12-10"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

@@ -1,8 +1,11 @@
 id = "01K67YJZYSXVDXKA1Z7SH6BZB4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00257"
+
+[meta]
 bill_number = 257
 congress = 20
-canonical = "SBN-00257"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-257", "https://web.senate.gov.ph/lisdata/4673442739!.pdf",]
 title = "BAYANING ATLETANG PINOY ACT"
 date_filed = "2025-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING DISTINCTIVE HONORS AND PRIVILEGES TO NATIONAL ATHL
 scope = "National"
 subjects = [ "National Athletes",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-08"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-05"
 action = "Read on First Reading and Referred to the Committees on SPORTS; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2025"
+date = "2025-08-05"
 
 [[committees]]
 name = "Sports"

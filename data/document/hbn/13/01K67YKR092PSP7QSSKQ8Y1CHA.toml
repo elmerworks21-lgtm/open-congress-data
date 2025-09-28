@@ -1,24 +1,28 @@
 id = "01K67YKR092PSP7QSSKQ8Y1CHA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04642"
+
+[meta]
 bill_number = 4642
 congress = 13
-canonical = "HBN-04642"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4642", "https://web.senate.gov.ph/lisdata/53214419!.pdf",]
 title = "ZAMBOANGA DEL NORTE ELECTRIC COOPERATIVE INC. (PENALTY CONDONATION)"
 long_title = "AN ACT CONDONING THE INTEREST OF THE FUEL COMPENSATING CHARGE/INCREMENTAL COST CHARGE (FCC/ICC) OF ZAMBOANGA DEL NORTE ELECTRIC COOPERATIVE, INC. (ZANECO) CHARGE BY THE NATIONAL POWER CORPORATION"
 scope = "National"
 subjects = [ "Zamboanga Del Norte Electric Cooperative Inc. (Zaneco)", "Penalty Condonation (Zaneco; Fuel Cost Charge)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-05-31"
 action = "Filed in the Senate requesting for concurrence by Representatives ALIPIO 'TIKBONG' V. BADELLES, EDGAR L. VALDEZ, ERNESTO 'ERNIE' C. PABLO, SONNY ROSE A. MADAMBA, ROSELLER L. BARINAGA, CESAR G. JALOSJOS and CECILIA G. JALOSJOS-CARREON as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2006"
+date = "2006-06-05"
 
 [[committees]]
 name = "Energy"

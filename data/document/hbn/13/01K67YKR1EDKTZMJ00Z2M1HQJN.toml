@@ -1,24 +1,28 @@
 id = "01K67YKR1EDKTZMJ00Z2M1HQJN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04809"
+
+[meta]
 bill_number = 4809
 congress = 13
-canonical = "HBN-04809"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4809", "https://web.senate.gov.ph/lisdata/44523790!.pdf",]
 title = "AGRICULTURAL LAND; NAVAL, BILIRAN"
 long_title = "AN ACT DECLARING AS AGRICULTURAL LAND OPEN TO DISPOSITION CERTAIN PARCELS OF LAND OF THE PUBLIC DOMAIN LOCATED IN THE MUNICIPALITY OF NAVAL, PROVINCE OF BILIRAN"
 scope = "Local"
 subjects = [ "Agricultural Land (Naval, Biliran)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representatives GERARDO J. ESPINA JR., LEOVIGILDO B. BANAAG, BELMA A. CABILAO and HERMINIA M. RAMIRO as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-18"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/18/2006"
+date = "2006-01-18"
 
 [[committees]]
 name = "Environment and Natural Resources"

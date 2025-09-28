@@ -1,8 +1,11 @@
 id = "01K67YCNSJTR1S4CHEVWPFZXFR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00769"
+
+[meta]
 bill_number = 769
 congress = 13
-canonical = "SBN-00769"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-769", "https://web.senate.gov.ph/lisdata/19591383!.pdf",]
 title = "MATERNITY LEAVE BENEFITS REGARDLESS OF MARITAL STATUS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING MATERNITY LEAVE BENEFITS REGARDLESS OF MARITAL ST
 scope = "National"
 subjects = [ "Maternity Leave Benefits", "Labor Code/Pd 442/Article 133",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

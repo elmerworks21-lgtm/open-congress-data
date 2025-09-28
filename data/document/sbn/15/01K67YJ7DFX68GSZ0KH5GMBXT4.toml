@@ -1,8 +1,11 @@
 id = "01K67YJ7DFX68GSZ0KH5GMBXT4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00298"
+
+[meta]
 bill_number = 298
 congress = 15
-canonical = "SBN-00298"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-298", "https://web.senate.gov.ph/lisdata/79006328!.pdf",]
 title = "CODE OF CONDUCT AND ETHICAL STANDARDS FOR PUBLIC OFFICIALS AND EMPLOYEES"
 date_filed = "2010-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR STIFFER PENALTIES AGAINST PUBLIC OFFICIALS AN
 scope = "National"
 subjects = [ "Code of Conduct and Ethical Standards (R.A.No. 6713)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-03"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2010"
+date = "2010-08-03"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

@@ -1,8 +1,11 @@
 id = "01K67YJD3W9GAJ22TTQJXBXK5W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01287"
+
+[meta]
 bill_number = 1287
 congress = 16
-canonical = "SBN-01287"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1287", "https://web.senate.gov.ph/lisdata/1735514593!.pdf",]
 title = "JUDICIAL AND BAR COUNCIL (JBC)"
 date_filed = "2013-08-15"
@@ -10,33 +13,34 @@ long_title = "AN ACT LIMITING THE TERM OF OFFICE OF THE REGULAR MEMBERS OF THE J
 scope = "National"
 subjects = [ "Judicial and Bar Council (JBC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-15"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-02"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-22"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 78, recommending that it be substituted by SBN-2419;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-23"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-23"
 action = "SUBSTITUTED BY SBN-2419 UNDER C.R. NO. 78, WHICH WAS VETOED BY PRESIDENT RODRIGO R. DUTERTE ON JULY 20, 2016."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/22/2014"
+date = "2014-09-22"
 
 [[committees]]
 name = "Justice and Human Rights"

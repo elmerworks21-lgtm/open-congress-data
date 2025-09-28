@@ -1,8 +1,11 @@
 id = "01K67YCP8AF9T6B27KQ4NJVHRJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01574"
+
+[meta]
 bill_number = 1574
 congress = 13
-canonical = "SBN-01574"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1574", "https://web.senate.gov.ph/lisdata/27912166!.pdf",]
 title = "MATCHING FILIPINO WOMEN FOR MARRIAGE TO FOREIGN NATIONALS"
 date_filed = "2004-08-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT BROADENING THE SCOPE OF UNLAWFUL PRACTICES OF MATCHING FILI
 scope = "National"
 subjects = [ "Marriage(Filipino Women/Foreign National", "Mail-Order Bride (R.A.No. 6955)", "Computer/Internet E-Mail Order Bride",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-02"
 action = "Introduced by Senator BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

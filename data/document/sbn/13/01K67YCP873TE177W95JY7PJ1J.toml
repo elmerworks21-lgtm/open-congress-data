@@ -1,8 +1,11 @@
 id = "01K67YCP873TE177W95JY7PJ1J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01568"
+
+[meta]
 bill_number = 1568
 congress = 13
-canonical = "SBN-01568"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1568", "https://web.senate.gov.ph/lisdata/27852160!.pdf",]
 title = "HUMANITIES EXCELLENCE AND TEACHER TRAINING ACT"
 date_filed = "2004-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING A NATIONAL PROGRAM FOR IMPROVING THE QUALITY OF I
 scope = "National"
 subjects = [ "Teacher Training (Humanities Excellence)", "Schools (Elementary/Secondary Schools)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Education, Arts and Culture"

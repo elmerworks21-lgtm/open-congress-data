@@ -1,8 +1,11 @@
 id = "01K67YCNE27806VJ18YFX67F6F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00130"
+
+[meta]
 bill_number = 130
 congress = 13
-canonical = "SBN-00130"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-130", "https://web.senate.gov.ph/lisdata/12651024!.pdf",]
 title = "PROHIBITING ACQUISITION OF ASSETS IN THE NAME OF DUMMIES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6713, ALSO KNOWN AS AN ACT ESTABL
 scope = "National"
 subjects = [ "Code of Conduct/Ethical Standard(RA 6713", "Government Officials/Employees", "Ill-Gotten Wealth (Use of Dummies)", "Assets/Real Property (Use of Dummies)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

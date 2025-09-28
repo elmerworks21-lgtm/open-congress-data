@@ -1,8 +1,11 @@
 id = "01K67YJCHAZWX8G50459AD2BB7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00392"
+
+[meta]
 bill_number = 392
 congress = 16
-canonical = "SBN-00392"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-392", "https://web.senate.gov.ph/lisdata/1625413483!.pdf",]
 title = "PRESIDENTIAL RECORDS ACT"
 date_filed = "2013-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MANAGEMENT, CUSTODY, AND ACCESS TO PRESID
 scope = "National"
 subjects = [ "President of the Philippines",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Public Information and Mass Media"

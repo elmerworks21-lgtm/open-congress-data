@@ -1,8 +1,11 @@
 id = "01K67YJDEPRPZ17JM9P7TY6EWP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01816"
+
+[meta]
 bill_number = 1816
 congress = 16
-canonical = "SBN-01816"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1816", "https://web.senate.gov.ph/lisdata/1801615249!.pdf",]
 title = "AMENDING ART. 867 SO THAT IT WOULD REFER TO ART. 870, CIVIL CODE OF THE PHILIPPINES"
 date_filed = "2013-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 386, ALSO KNOWN AS THE CIVIL CODE
 scope = "National"
 subjects = [ "Civil Code of the Philippines",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-22"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, FAMILY RELATIONS AND GENDER EQUALITY; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/22/2013"
+date = "2013-10-22"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

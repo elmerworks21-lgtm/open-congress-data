@@ -1,8 +1,11 @@
 id = "01K67YJ0T1WX5XHRBAM71RX5HX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00120"
+
+[meta]
 bill_number = 120
 congress = 14
-canonical = "SBN-00120"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-120", "https://web.senate.gov.ph/lisdata/42003602!.pdf",]
 title = "MAGNA CARTA FOR PHILIPPINE BUSINESS"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE RIGHTS AND DUTIES OF ENTREPRENEURS, THE COMMIT
 scope = "National"
 subjects = [ "Magna Carta for Philippine Business", "Business/Entrepreneurship", "Presidential Commission for Business Concerns, Creation",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; ECONOMIC AFFAIRS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2007"
+date = "2007-07-30"
 
 [[committees]]
 name = "Trade and Commerce"

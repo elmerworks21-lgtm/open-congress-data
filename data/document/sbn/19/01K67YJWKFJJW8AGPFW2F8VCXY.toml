@@ -1,8 +1,11 @@
 id = "01K67YJWKFJJW8AGPFW2F8VCXY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02422"
+
+[meta]
 bill_number = 2422
 congress = 19
-canonical = "SBN-02422"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2422", "https://web.senate.gov.ph/lisdata/4252638693!.pdf",]
 title = "MANDATORY APPOINTMENT OF BUILDING OFFICIAL IN PROVINCES, CITIES AND MUNICIPALITIES"
 date_filed = "2023-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR MANDATORY APPOINTMENT OF BUILDING OFFICIAL IN
 scope = "National"
 subjects = [ "Building Official", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-23"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-29"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2023"
+date = "2023-08-29"
 
 [[committees]]
 name = "Local Government"

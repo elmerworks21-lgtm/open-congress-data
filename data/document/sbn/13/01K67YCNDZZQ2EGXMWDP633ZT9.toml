@@ -1,8 +1,11 @@
 id = "01K67YCNDZZQ2EGXMWDP633ZT9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00125"
+
+[meta]
 bill_number = 125
 congress = 13
-canonical = "SBN-00125"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-125", "https://web.senate.gov.ph/lisdata/12601011!.pdf",]
 title = "ANTI-INCEST ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "ANTI-INCEST ACT"
 scope = "National"
 subjects = [ "Anti-Incest Act", "Family Code (Art. 37/38; E.O.No. 209)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

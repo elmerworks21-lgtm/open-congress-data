@@ -1,32 +1,36 @@
 id = "01K67YKZNV8SWEHSB1YGNERZVQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03551"
+
+[meta]
 bill_number = 3551
 congress = 15
-canonical = "HBN-03551"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-3551", "https://web.senate.gov.ph/lisdata/113959712!.pdf",]
 title = "FISH PORT AND COLD STORAGE (MUNICIPALITY OF LAVEZARES, PROVINCE OF NORTHERN SAMAR)"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A FISH PORT AND COLD STORAGE IN THE MUNICIPALITY OF LAVEZARES, PROVINCE OF NORTHERN SAMAR AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Fish Port",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-22"
 action = "Motion of Senator Sotto III to transfer this measure from the Committee on PUBLIC WORKS to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-09-06"
 action = "Transferred back to the Committee on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2011"
+date = "2011-09-06"
 
 [[committees]]
 name = "Public Works"

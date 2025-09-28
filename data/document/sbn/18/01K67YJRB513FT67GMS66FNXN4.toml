@@ -1,8 +1,11 @@
 id = "01K67YJRB513FT67GMS66FNXN4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02521"
+
+[meta]
 bill_number = 2521
 congress = 18
-canonical = "SBN-02521"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2521", "https://web.senate.gov.ph/lisdata/3757033947!.pdf",]
 title = "NEW OMNIBUS ELECTION CODE OF 2022"
 date_filed = "2022-05-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE NEW OMNIBUS ELECTION CODE OF 2022"
 scope = "National"
 subjects = [ "New Omnibus Election Code",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-05-23"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Read on First Reading and Referred to the Committees on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Constitutional Amendments and Revision of Codes"

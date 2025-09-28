@@ -1,24 +1,28 @@
 id = "01K67YM6FE4NJ64QBEYNFR8T9C"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08140"
+
+[meta]
 bill_number = 8140
 congress = 17
-canonical = "HBN-08140"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8140", "https://web.senate.gov.ph/lisdata/2858224970!.pdf",]
 title = "PROVINCIAL OFFICE OF THE COMMISSION ON HIGHER EDUCATION (NEGROS OCCIDENTAL)"
 long_title = "AN ACT ESTABLISHING A PROVINCIAL OFFICE OF THE COMMISSION ON HIGHER EDUCATION (CHED) IN THE PROVINCE OF NEGROS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Commission on Higher Education (CHED)",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-09-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-12"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/12/2018"
+date = "2018-09-12"
 
 [[committees]]
 name = "Education, Arts and Culture"

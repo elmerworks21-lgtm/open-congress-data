@@ -1,8 +1,11 @@
 id = "01K67YJQHFEAF8MVR899RF7DTA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01644"
+
+[meta]
 bill_number = 1644
 congress = 18
-canonical = "SBN-01644"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1644", "https://web.senate.gov.ph/lisdata/3309429920!.pdf",]
 title = "HEALTHCARE FRONTLINE WORKERS WELFARE ACT"
 date_filed = "2020-06-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PROTECTION AND ADVANCING THE WELFARE OF H
 scope = "National"
 subjects = [ "Healthcare Frontline Workers", "Covid-19", "Pandemic",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-06-29"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2020"
+date = "2020-08-03"
 
 [[committees]]
 name = "Health and Demography"

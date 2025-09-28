@@ -1,8 +1,11 @@
 id = "01K67YCPMWRVMFPC7NH679858Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02196"
+
+[meta]
 bill_number = 2196
 congress = 13
-canonical = "SBN-02196"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2196", "https://web.senate.gov.ph/lisdata/44933639!.pdf",]
 title = "COMPENSATION ADJUSTMENT FOR NATIONAL GOVERNMENT EMPLOYEES"
 date_filed = "2006-01-23"
@@ -10,57 +13,58 @@ long_title = "AN ACT APPROPRIATING THE SUM OF THIRTEEN BILLION ONE HUNDRED MILLI
 scope = "National"
 subjects = [ "Compensation Adjustment (National Government Employees)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2006-01-23"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-24"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-28"
 action = "Returned and submitted jointly by the Committee(s) on FINANCE; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 53, recommending approval of HBN-5013 without amendment, taking into consideration SBN-2196;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-28"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-28"
 action = "CONSIDERED IN HBN-5013."
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-08"
 action = "Senate requested the House of Representatives for a conference on the disagreeing provisions of SBN-2196 and HBN-5013, designating Senators Villar, Recto and Jinggoy Ejercito Estrada as its conferees;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-20"
 action = "House of Representatives agreed to a conference on the disagreeing provisions of both Bills, designating Representatives Salceda, Nograles, Lapus, Locsin, Jr., Barinaga, Nepomuceno, Javier, Remulla (J.C.), Defensor, Mariano, Magtubo, and Remulla (G.) as its conferees on March 14, 2006;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-23"
 action = "Senate designated Senators Drilon, Flavier and Pimentel, Jr. as additional conferees;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Conference Committee Report submitted to the Senate, recommending the approval of HBN-5013 with the attached copy of the substitute bill as reconciled;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Sponsorship speech of Senator Drilon on the Conference Committee Report;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Conference Committee Report approved by the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-05"
 action = "Conference Committee Report Approved by the House of Representatives;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/28/2006"
+date = "2006-02-28"
 
 [[committees]]
 name = "Finance"

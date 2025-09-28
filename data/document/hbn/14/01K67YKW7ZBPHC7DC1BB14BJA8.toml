@@ -1,24 +1,28 @@
 id = "01K67YKW7ZBPHC7DC1BB14BJA8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04490"
+
+[meta]
 bill_number = 4490
 congress = 14
-canonical = "HBN-04490"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4490", "https://web.senate.gov.ph/lisdata/84487644!.pdf",]
 title = "LA PAZ - CONCEPCION ROAD"
 long_title = "AN ACT CONVERTING THE LA PAZ - CONCEPCION ROAD IN THE MUNICIPALITIES OF LA PAZ AND CONCEPCION, PROVINCE OF TARLAC INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representatives PRIETO-TEODORO and LAPUS as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2008"
+date = "2008-09-17"
 
 [[committees]]
 name = "Public Works"

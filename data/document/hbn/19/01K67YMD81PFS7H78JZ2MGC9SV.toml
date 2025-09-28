@@ -1,24 +1,28 @@
 id = "01K67YMD81PFS7H78JZ2MGC9SV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07718"
+
+[meta]
 bill_number = 7718
 congress = 19
-canonical = "HBN-07718"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7718", "https://web.senate.gov.ph/lisdata/4168637965!.pdf",]
 title = "CRIME OF ILLEGAL RECRUITMENT COMMITTED BY A SYNDICATE (AMENDING PD NO. 442)"
 long_title = "AN ACT REDEFINING THE CRIME OF ILLEGAL RECRUITMENT COMMITTED BY A SYNDICATE, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, AS AMENDED, AND REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT OF 1995, AS AMENDED"
 scope = "National"
 subjects = [ "Illegal Recruitment",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Read on First Reading and Referred to the Committee on MIGRANT WORKERS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Migrant Workers"

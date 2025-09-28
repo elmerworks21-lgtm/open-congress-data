@@ -1,8 +1,11 @@
 id = "01K67YJHSCPJFGYAQRSA4197R0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00929"
+
+[meta]
 bill_number = 929
 congress = 17
-canonical = "SBN-00929"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-929", "https://web.senate.gov.ph/lisdata/2448621070!.pdf",]
 title = "INTEGRATED PUBLIC SCHOOLS ACT OF 2016"
 date_filed = "2016-08-01"
@@ -10,25 +13,26 @@ long_title = "AN ACT ENSURING ACCESS TO SECONDARY EDUCATION BY CONVERTING ALL PU
 scope = "National"
 subjects = [ "Schools, Conversion", "Secondary Education",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-06-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

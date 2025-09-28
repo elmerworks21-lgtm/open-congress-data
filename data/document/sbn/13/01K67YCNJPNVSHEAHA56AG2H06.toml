@@ -1,8 +1,11 @@
 id = "01K67YCNJPNVSHEAHA56AG2H06"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00380"
+
+[meta]
 bill_number = 380
 congress = 13
-canonical = "SBN-00380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-380", "https://web.senate.gov.ph/lisdata/1537838!.pdf",]
 title = "APPRENTICESHIP ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING TITLE II OF BOOK II OF THE LABOR CODE OF THE PHILI
 scope = "National"
 subjects = [ "Apprenticeship Act of 2004", "Labor Code of the Phil.(Title II/Book II",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSME¥A;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

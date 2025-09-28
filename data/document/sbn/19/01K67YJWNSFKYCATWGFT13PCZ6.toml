@@ -1,8 +1,11 @@
 id = "01K67YJWNSFKYCATWGFT13PCZ6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02500"
+
+[meta]
 bill_number = 2500
 congress = 19
-canonical = "SBN-02500"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2500", "https://web.senate.gov.ph/lisdata/4308539182!.pdf",]
 title = "COMPREHENSIVE RENAL REPLACEMENT THERAPY ACT"
 date_filed = "2023-11-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE PROVISION OF COMPREHENSIVE RENAL REPLACEMENT 
 scope = "National"
 subjects = [ "Renal Replacement Therapy Act", "Philippine Health Insurance Corporation (Philhealth/Phic)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2023-11-29"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/29/2023"
+date = "2023-11-29"
 
 [[committees]]
 name = "Health and Demography"

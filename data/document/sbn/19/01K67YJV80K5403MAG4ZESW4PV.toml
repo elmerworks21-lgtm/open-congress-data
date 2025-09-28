@@ -1,8 +1,11 @@
 id = "01K67YJV80K5403MAG4ZESW4PV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00549"
+
+[meta]
 bill_number = 549
 congress = 19
-canonical = "SBN-00549"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-549", "https://web.senate.gov.ph/lisdata/3832634765!.pdf",]
 title = "OPEN EXTRACTIVES DATA ACT OF 2022"
 date_filed = "2022-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPROVING THE DISCLOSURE AND TRANSPARENCY OF THE EXTRACTIVE
 scope = "National"
 subjects = [ "Open Extractives Data", "Extractive Industries",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-16"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; PUBLIC INFORMATION AND MASS MEDIA and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2022"
+date = "2022-08-16"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

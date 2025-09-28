@@ -1,40 +1,44 @@
 id = "01K67YM9RKFVNCX64DDWQVQEM8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09560"
+
+[meta]
 bill_number = 9560
 congress = 18
-canonical = "HBN-09560"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9560", "https://web.senate.gov.ph/lisdata/3580932282!.pdf",]
 title = "PHILIPPINE CENTER FOR DISEASE PREVENTION AND CONTROL (CDC) ACT"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PUBLIC HEALTH EMERGENCY PREPAREDNESS AND RESPONSE CAPABILITIES, ESTABLISHING FOR THIS PURPOSE THE CENTER FOR DISEASE PREVENTION AND CONTROL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Philippine Center for Disease Control and Prevention",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-07-29"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-02"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-10-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Returned jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 586, recommending that it be considered in SBN-2505;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "CONSIDERED IN SBN-2505 UNDER COMMITTEE REPORT NO. 586."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/2/2022"
+date = "2022-02-02"
 
 [[committees]]
 name = "Health and Demography"

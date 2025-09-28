@@ -1,8 +1,11 @@
 id = "01K67YJ2FAZZ7H0RK84C8Z3BAA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02300"
+
+[meta]
 bill_number = 2300
 congress = 14
-canonical = "SBN-02300"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2300", "https://web.senate.gov.ph/lisdata/74236594!.pdf",]
 title = "SALARY GRADE LEVEL INCREASE TO PUBLIC SCHOOL TEACHERS"
 date_filed = "2008-05-20"
@@ -10,29 +13,30 @@ long_title = "AN ACT INCREASING THE SALARY GRADE OF PUBLIC SCHOOL TEACHERS FROM 
 scope = "National"
 subjects = [ "Public School Teachers",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-20"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-20"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE per Committee Report No. 77, recommending that it be substituted by SBN-2408;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "SUBSTITUTED BY SBN-2408."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/11/2008"
+date = "2008-06-11"
 
 [[committees]]
 name = "Education, Arts and Culture"

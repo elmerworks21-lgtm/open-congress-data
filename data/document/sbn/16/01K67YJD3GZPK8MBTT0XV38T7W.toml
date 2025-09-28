@@ -1,8 +1,11 @@
 id = "01K67YJD3GZPK8MBTT0XV38T7W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01270"
+
+[meta]
 bill_number = 1270
 congress = 16
-canonical = "SBN-01270"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1270", "https://web.senate.gov.ph/lisdata/1734414582!.pdf",]
 title = "LOCAL FOOTWEAR INDUSTRY COMPETITIVENESS ACT OF 2013"
 date_filed = "2013-08-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A COMPREHENSIVE PROGRAM TO REVIVE THE LOCAL FO
 scope = "National"
 subjects = [ "Footwear Industry",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-13"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2013"
+date = "2013-09-02"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

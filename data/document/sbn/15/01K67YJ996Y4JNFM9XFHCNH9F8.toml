@@ -1,8 +1,11 @@
 id = "01K67YJ996Y4JNFM9XFHCNH9F8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02898"
+
+[meta]
 bill_number = 2898
 congress = 15
-canonical = "SBN-02898"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2898", "https://web.senate.gov.ph/lisdata/118139964!.pdf",]
 title = "CHARITY SWEEPSTAKES, HORSE RACES AND LOTTERIES"
 date_filed = "2011-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTIONS 6 AND 11 OF REPUBLIC ACT NO. 1169, AS AME
 scope = "National"
 subjects = [ "Horse Racing", "Lottery", "Philippine Charity Sweepstakes Office (PCSO)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2011-07-21"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2011"
+date = "2011-08-03"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

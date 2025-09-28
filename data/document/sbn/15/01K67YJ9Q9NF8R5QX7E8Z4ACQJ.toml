@@ -1,8 +1,11 @@
 id = "01K67YJ9Q9NF8R5QX7E8Z4ACQJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03404"
+
+[meta]
 bill_number = 3404
 congress = 15
-canonical = "SBN-03404"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3404", "https://web.senate.gov.ph/lisdata/1568612918!.pdf",]
 title = "FRATERNITIES AND SORORITIES SCHOOL ORGANIZATIONS"
 date_filed = "2013-02-06"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8049 AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Hazing",]
 authors_raw = "Defensor Santiago, Miriam, Sotto III, Vicente C., Villar, Manny B., Lapid, Manuel \"Lito\" M., Legarda, Loren B., Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Prepared and submitted jointly by the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS, CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and JUSTICE AND HUMAN RIGHTS with Senator(s) MIRIAM DEFENSOR SANTIAGO, VICENTE C. SOTTO III, MANNY B. VILLAR, MANUEL 'LITO' M. LAPID, LOREN B. LEGARDA and GREGORIO B. HONASAN II as author(s) per Committee Report No. 762, recommending its approval in substitution of SBNos. 1803, 2257 and 3131, SRNos. 222, 727, 830 and 832, and the Privilege Speech of Sen. Legarda on the Death of Marc Andre Marcos, delivered on 6 August 2012;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Sponsor: Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

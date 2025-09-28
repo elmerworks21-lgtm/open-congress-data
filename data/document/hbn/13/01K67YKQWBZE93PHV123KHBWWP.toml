@@ -1,24 +1,28 @@
 id = "01K67YKQWBZE93PHV123KHBWWP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04118"
+
+[meta]
 bill_number = 4118
 congress = 13
-canonical = "HBN-04118"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4118", "https://web.senate.gov.ph/lisdata/36693116!.pdf",]
 title = "TUBOD - MAGSAYSAY - TANGKAL - KOLAMBUGAN NATIONAL ROAD (LANAO DEL NORTE)"
 long_title = "AN ACT CONVERTING THE TUBOD – MAGSAYSAY – TANGKAL – KOLAMBUGAN PROVINCIAL ROAD, PROVINCE OF LANAO DEL NORTE INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion (Lanao Del Norte)", "Tubod - Magsaysay - Tangkal - Kolambugan National Road (Lanao Del Norte)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-02"
 action = "Filed in the Senate requesting for concurrence by Representative ABDULLAH D. DIMAPORO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2005"
+date = "2005-08-10"
 
 [[committees]]
 name = "Public Works"

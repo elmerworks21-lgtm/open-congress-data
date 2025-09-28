@@ -1,8 +1,11 @@
 id = "01K67YJJAKXZ6ZACRVPPKA6A0J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01588"
+
+[meta]
 bill_number = 1588
 congress = 17
-canonical = "SBN-01588"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1588", "https://web.senate.gov.ph/lisdata/2674622971!.pdf",]
 title = "AMENDING R.A. NO. 8424 (TAX REFORM ACT OF 1997)"
 date_filed = "2017-09-14"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE ‘T
 scope = "National"
 subjects = [ "Tax Reform Act", "Alcoholic Beverages", "Taxes (Excise Tax)",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2017-09-14"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-18"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 164, recommending that it be substituted by SBN-1592;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "SUBSTITUTED BY SBN-1592 UNDER COMMITTEE REPORT NO. 164."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/20/2017"
+date = "2017-09-20"
 
 [[committees]]
 name = "Ways and Means"

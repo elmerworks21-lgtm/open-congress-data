@@ -1,8 +1,11 @@
 id = "01K67YJZWVFFGRK6SW2E2QR27Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00157"
+
+[meta]
 bill_number = 157
 congress = 20
-canonical = "SBN-00157"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-157", "https://web.senate.gov.ph/lisdata/4663442638!.pdf",]
 title = "THE ANTI-CONFLICT OF INTEREST IN PUBLIC UTILITIES ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING ELECTED PUBLIC OFFICIALS AND THEIR IMMEDIATE FA
 scope = "National"
 subjects = [ "Anti-Conflict of Interest in Public Utilities",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

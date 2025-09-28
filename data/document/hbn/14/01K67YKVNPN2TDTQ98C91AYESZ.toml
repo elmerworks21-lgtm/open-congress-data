@@ -1,44 +1,48 @@
 id = "01K67YKVNPN2TDTQ98C91AYESZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00239"
+
+[meta]
 bill_number = 239
 congress = 14
-canonical = "HBN-00239"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-239", "https://web.senate.gov.ph/lisdata/88338033!.pdf",]
 title = "J.R. BORJA CITY MEMORIAL HOSPITAL"
 long_title = "AN ACT PROVIDING FOR THE UPGRADE AND MODERNIZATION OF THE J.R. BORJA CITY MEMORIAL HOSPITAL AS AN EXTENSION HOSPITAL OF THE NORTHERN MINDANAO MEDICAL CENTER IN CAGAYAN DE ORO CITY, PROVINCE OF MISAMIS ORIENTAL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Conversion", "Upgrading",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-06"
 action = "Filed in the Senate requesting for concurrence by Representatives ISIDRO S. RODRIGUEZ JR., ARTHUR Y. PINGOY JR. and REYNALDO S. UY as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-07"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 458, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Sponsor: Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-17"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-17"
 action = "Upon motion of Senator LOREN B. LEGARDA, the Body approved the insertion of her omnibus speech on all local health bills into the Journal and Record of the Senate;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "8/17/2009"
+date = "2009-08-17"
 
 [[committees]]
 name = "Health and Demography"

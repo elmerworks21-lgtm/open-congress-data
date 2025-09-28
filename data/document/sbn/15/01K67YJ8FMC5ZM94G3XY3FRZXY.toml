@@ -1,8 +1,11 @@
 id = "01K67YJ8FMC5ZM94G3XY3FRZXY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01989"
+
+[meta]
 bill_number = 1989
 congress = 15
-canonical = "SBN-01989"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1989", "https://web.senate.gov.ph/lisdata/96708111!.pdf",]
 title = "DEPARTMENT OF FISHERIES AND AQUATIC RESOURCES ACT OF 2010"
 date_filed = "2010-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A DEPARTMENT OF FISHERIES AND AQUATIC RESOURCES, P
 scope = "National"
 subjects = [ "Department of Fisheries and Aquatic Resources",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-26"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-14"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2010"
+date = "2010-09-14"
 
 [[committees]]
 name = "Agriculture and Food"

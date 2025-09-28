@@ -1,8 +1,11 @@
 id = "01K67YK03HSA79YNS7T21R7ZDP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00514"
+
+[meta]
 bill_number = 514
 congress = 20
-canonical = "SBN-00514"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-514", "https://web.senate.gov.ph/lisdata/4706843068!.pdf",]
 title = "AMENDING R.A. NO. 10931 (UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION ACT)"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 7 OF REPUBLIC ACT NO. 10931, OTHERWISE KNO
 scope = "National"
 subjects = [ "Universal Access to Quality Tertiary Education",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

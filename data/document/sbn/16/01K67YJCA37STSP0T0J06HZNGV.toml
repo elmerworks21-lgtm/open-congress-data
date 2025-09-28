@@ -1,8 +1,11 @@
 id = "01K67YJCA37STSP0T0J06HZNGV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00042"
+
+[meta]
 bill_number = 42
 congress = 16
-canonical = "SBN-00042"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-42", "https://web.senate.gov.ph/lisdata/1585113083!.pdf",]
 title = "TELECOMMUNICATIONS SERVICE STANDARDS ACT"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING TELECOMMUNICATIONS SERVICE STANDARDS AND FOR O
 scope = "National"
 subjects = [ "Telecommunications Service Standards",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator SERGIO R. OSMENA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-23"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2013"
+date = "2013-07-23"
 
 [[committees]]
 name = "Public Services"

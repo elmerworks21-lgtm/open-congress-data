@@ -1,24 +1,28 @@
 id = "01K67YM35E0TS8WSV4MKKMAVAP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05906"
+
+[meta]
 bill_number = 5906
 congress = 16
-canonical = "HBN-05906"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5906", "https://web.senate.gov.ph/lisdata/2208618795!.pdf",]
 title = "PRESCRIPTION FOR CERTAIN OFFENSES"
 long_title = "AN ACT ESTABLISHING THE PERIODS OF PRESCRIPTION FOR CERTAIN OFFENSES PUNISHABLE BY SPECIAL ACTS AND VIOLATIONS OF LOCAL ORDINANCES, AND FURTHER PROVIDING THE PERIOD WHEN PRESCRIPTION SHALL BEGIN TO RUN, REPEALING FOR THE PURPOSE ACT NO. 3326, AS AMENDED"
 scope = "National"
 subjects = [ "Republic Act (R.A.No. 3326)",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-08-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-01"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2015"
+date = "2015-09-01"
 
 [[committees]]
 name = "Justice and Human Rights"

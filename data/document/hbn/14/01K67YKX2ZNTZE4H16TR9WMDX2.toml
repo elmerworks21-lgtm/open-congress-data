@@ -1,24 +1,28 @@
 id = "01K67YKX2ZNTZE4H16TR9WMDX2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06926"
+
+[meta]
 bill_number = 6926
 congress = 14
-canonical = "HBN-06926"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6926", "https://web.senate.gov.ph/lisdata/1308811709!.pdf",]
 title = "OMNIBUS ELECTION CODE"
 long_title = "AN ACT AMENDING PERTINENT PROVISIONS OF BATAS PAMBANSA BILANG 881, OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE AS AMENDED"
 scope = "National"
 subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-11-17"
 action = "Filed in the Senate requesting for concurrence by Representatives ARNULFO P. FUENTEBELLA and RAUL V. DEL MAR as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-01"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/1/2009"
+date = "2009-12-01"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

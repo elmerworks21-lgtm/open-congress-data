@@ -1,8 +1,11 @@
 id = "01K67YK085E9XEH4QGX84ZHCBC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00760"
+
+[meta]
 bill_number = 760
 congress = 20
-canonical = "SBN-00760"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-760", "https://web.senate.gov.ph/lisdata/4729843297!.pdf",]
 title = "ENHANCED STARTUP LAW"
 date_filed = "2025-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11337, OTHERWISE KNOWN AS THE 'IN
 scope = "National"
 subjects = [ "Startup Ecosystem", "Enhanced Startup Law",]
 authors_raw = "Aquino, Bam"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-29"
 action = "Introduced by Senator BAM AQUINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY; TRADE, COMMERCE AND ENTREPRENEURSHIP; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Science and Technology"

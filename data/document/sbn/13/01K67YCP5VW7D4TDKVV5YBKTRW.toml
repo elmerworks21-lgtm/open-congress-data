@@ -1,8 +1,11 @@
 id = "01K67YCP5VW7D4TDKVV5YBKTRW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01429"
+
+[meta]
 bill_number = 1429
 congress = 13
-canonical = "SBN-01429"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1429", "https://web.senate.gov.ph/lisdata/26442008!.pdf",]
 title = "AMENDING ARTICLES 204, 205 AND 207 OF THE REVISED PENAL CODE"
 date_filed = "2004-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING THE PENAL CODE, ARTICLES 204, 205 AND 207"
 scope = "National"
 subjects = [ "Revised Penal Code (Art. 204", "205", "207)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

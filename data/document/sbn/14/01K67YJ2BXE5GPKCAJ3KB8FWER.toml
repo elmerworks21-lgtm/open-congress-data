@@ -1,8 +1,11 @@
 id = "01K67YJ2BXE5GPKCAJ3KB8FWER"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02148"
+
+[meta]
 bill_number = 2148
 congress = 14
-canonical = "SBN-02148"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2148", "https://web.senate.gov.ph/lisdata/70736316!.pdf",]
 title = "CRIME OF PLUNDER (REDUCING THE MINIMUM AMOUNT TO 25 MILLION PESOS)"
 date_filed = "2008-03-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 12 OF REPUBLIC ACT NO. 7659, AS AMENDED, O
 scope = "National"
 subjects = [ "Plunder",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-03-31"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-21"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/21/2008"
+date = "2008-04-21"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,24 +1,28 @@
 id = "01K67YM6KJZRVP8FKWS7F2S2VZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08659"
+
+[meta]
 bill_number = 8659
 congress = 17
-canonical = "HBN-08659"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8659", "https://web.senate.gov.ph/lisdata/2928125896!.pdf",]
 title = "RTC ADDITIONAL BRANCHES (DAVAO DEL NORTE/COMPOSTELA VALLEY)"
 long_title = "AN ACT CREATING FOUR (4) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE ELEVENTH JUDICIAL REGION AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(L) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED"
 scope = "Local"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/21/2019"
+date = "2019-01-21"
 
 [[committees]]
 name = "Justice and Human Rights"

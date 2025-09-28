@@ -1,24 +1,28 @@
 id = "01K67YKRCVJ7RT9R1D9KHN1QN8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05888"
+
+[meta]
 bill_number = 5888
 congress = 13
-canonical = "HBN-05888"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5888", "https://web.senate.gov.ph/lisdata/67565542!.pdf",]
 title = "REYNALDO A. CALALAY AVENUE (QUEZON CITY)"
 long_title = "AN ACT RENAMING DEL MONTE AVENUE IN QUEZON CITY AS REYNALDO A. CALALAY AVENUE"
 scope = "Local"
 subjects = [ "Roads, Naming (Quezon City)", "Reynaldo A. Calalay Avenue (Quezon City)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives VINCENT 'BINGBONG' P. CRISOLOGO and MARY ANN L. SUSANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Public Works"

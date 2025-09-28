@@ -1,24 +1,28 @@
 id = "01K67YMDPCBVT2Q2KN660YN3J1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10312"
+
+[meta]
 bill_number = 10312
 congress = 19
-canonical = "HBN-10312"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10312", "https://web.senate.gov.ph/lisdata/4416840151!.pdf",]
 title = "DISCOUNT ON THE PURCHASE OF GOODS AND SERVICES OF SENIOR CITIZENS AND PERSONS WITH DISABILITIES"
 long_title = "AN ACT ENHANCING THE DISCOUNT ON THE PURCHASE OF GOODS AND SERVICES OF SENIOR CITIZENS AND PERSONS WITH DISABILITIES"
 scope = "National"
 subjects = [ "Senior Citizen and Pwd Discounts",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2024"
+date = "2024-07-31"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

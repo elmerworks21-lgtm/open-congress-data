@@ -1,8 +1,11 @@
 id = "01K67YJCM71M4DPVYXR6H2D83H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00529"
+
+[meta]
 bill_number = 529
 congress = 16
-canonical = "SBN-00529"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-529", "https://web.senate.gov.ph/lisdata/1642113662!.pdf",]
 title = "FISCAL INCENTIVES TO MEDIA ENTITIES"
 date_filed = "2013-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FISCAL INCENTIVES TO MEDIA ENTITIES DEVOTING AIR T
 scope = "National"
 subjects = [ "Fiscal Incentives", "Broadcast Media/Broadcasting System",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; EDUCATION, ARTS AND CULTURE and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2013"
+date = "2013-08-06"
 
 [[committees]]
 name = "Public Information and Mass Media"

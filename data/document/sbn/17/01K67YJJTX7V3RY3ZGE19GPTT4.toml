@@ -1,8 +1,11 @@
 id = "01K67YJJTX7V3RY3ZGE19GPTT4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02204"
+
+[meta]
 bill_number = 2204
 congress = 17
-canonical = "SBN-02204"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2204", "https://web.senate.gov.ph/lisdata/2956226250!.pdf",]
 title = "ANTI-TERRORISM ACT OF 2019"
 date_filed = "2019-02-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 9372, OTHER
 scope = "National"
 subjects = [ "Terrorism",]
 authors_raw = "Gordon, Richard J., Honasan II, Gregorio B., Sotto III, Vicente C., Lacson, Panfilo M., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-04"
 action = "Prepared and submitted jointly by the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS, JUSTICE AND HUMAN RIGHTS, NATIONAL DEFENSE AND SECURITY and FINANCE with Senator(s) RICHARD J. GORDON, GREGORIO B. HONASAN II, VICENTE C. SOTTO III, PANFILO M. LACSON and LOREN B. LEGARDA as author(s) per Committee Report No. 638, recommending its approval in substitution of SBNos. 1134, 1396, 1715 and 1956;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Sponsor: Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Sponsorship speech of Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Co-sponsorship speech of Senator RICHARD J. GORDON;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/6/2019"
+date = "2019-02-06"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

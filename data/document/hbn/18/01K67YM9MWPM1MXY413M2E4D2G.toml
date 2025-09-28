@@ -1,24 +1,28 @@
 id = "01K67YM9MWPM1MXY413M2E4D2G"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09072"
+
+[meta]
 bill_number = 9072
 congress = 18
-canonical = "HBN-09072"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9072", "https://web.senate.gov.ph/lisdata/3517232054!.pdf",]
 title = "FREE ANNUAL MEDICAL CHECK-UP ACT"
 long_title = "AN ACT PROVIDING FOR A FREE ANNUAL MEDICAL CHECK-UP FOR FILIPINOS AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Free Annual Medical Check-Up Act", "Medical Assistance/Dental Assistance",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/3/2021"
+date = "2021-06-03"
 
 [[committees]]
 name = "Health and Demography"

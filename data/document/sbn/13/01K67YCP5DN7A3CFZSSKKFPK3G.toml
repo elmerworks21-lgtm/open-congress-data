@@ -1,8 +1,11 @@
 id = "01K67YCP5DN7A3CFZSSKKFPK3G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01404"
+
+[meta]
 bill_number = 1404
 congress = 13
-canonical = "SBN-01404"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1404", "https://web.senate.gov.ph/lisdata/26191983!.pdf",]
 title = "AMENDING R.A.NO. 910 RE RETIREMENT OF JUSTICES AND JUDGES"
 date_filed = "2004-07-07"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO AMEND SECTIONS ONE, TWO, THREE-A OF REPUBLIC ACT NO. 910
 scope = "National"
 subjects = [ "Justices/Judges Retirement (R.A.No. 910)", "Judiciary",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-07"
 action = "Introduced by Senator PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-05"
 action = "Returned and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS, CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE per Committee Report No. 242, recommending that it be substituted by SBN-2591;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-05"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-05"
 action = "SUBSTITUTED BY SBN-2591."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/5/2007"
+date = "2007-02-05"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJ1E9CYDVTECNYV4QVW8Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01084"
+
+[meta]
 bill_number = 1084
 congress = 14
-canonical = "SBN-01084"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1084", "https://web.senate.gov.ph/lisdata/53644733!.pdf",]
 title = "ALLOWING FARMER-BENEFICIARES WITH CLOA TO USE THEIR FARMLANDS AS COLLATERAL TO THEIR LOANS"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOWING THE TITLING OF LANDS COVERED BY A CERTIFICATE OF L
 scope = "National"
 subjects = [ "Certificate of Land Ownership Award (CLOA)", "Comprehensive Agrarian Reform Program (CARP)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on AGRARIAN REFORM; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Agrarian Reform"

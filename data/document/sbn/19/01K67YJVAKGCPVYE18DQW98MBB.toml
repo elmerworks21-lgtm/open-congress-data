@@ -1,8 +1,11 @@
 id = "01K67YJVAKGCPVYE18DQW98MBB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00666"
+
+[meta]
 bill_number = 666
 congress = 19
-canonical = "SBN-00666"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-666", "https://web.senate.gov.ph/lisdata/3855335007!.pdf",]
 title = "INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHILIPPINE NATIONAL POLICE (PNP) OFFICERS"
 date_filed = "2022-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE RECRUITMENT QUOTA REQUIREMENT OF FEMALE PHIL
 scope = "National"
 subjects = [ "Philippine National Police (PNP)", "Philippine National Police Reform and Reorganization Act of 1998 (R.A.No. 8551)", "Philippine National Police Regular Recruitment Program",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2022"
+date = "2022-08-23"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

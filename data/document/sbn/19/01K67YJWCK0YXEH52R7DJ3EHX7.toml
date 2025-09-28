@@ -1,8 +1,11 @@
 id = "01K67YJWCK0YXEH52R7DJ3EHX7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02135"
+
+[meta]
 bill_number = 2135
 congress = 19
-canonical = "SBN-02135"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2135", "https://web.senate.gov.ph/lisdata/4151837805!.pdf",]
 title = "BARANGAY GREENING AND FOREST LAND REHABILITATION AND PROTECTION ACT"
 date_filed = "2023-05-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO PROMOTE GREENING AND FORESTLAND REHABILITATION AND PROTE
 scope = "National"
 subjects = [ "Barangays", "Climate Change", "Forest Land Rehabilitation",]
 authors_raw = "Legarda, Loren B., Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "Letter from Senator CYNTHIA A. VILLAR conveying her intention to be a co-author of SBN-2135, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2023"
+date = "2023-05-10"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

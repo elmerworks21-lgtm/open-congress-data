@@ -1,8 +1,11 @@
 id = "01K67YJEEEPZJ2R8HP1YGP9A2F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02983"
+
+[meta]
 bill_number = 2983
 congress = 16
-canonical = "SBN-02983"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2983", "https://web.senate.gov.ph/lisdata/2237019089!.pdf",]
 title = "FOREST LANDS LIMITS ACT OF 2015"
 date_filed = "2015-10-06"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR THE DELINEATION OF THE SPECIFIC FOREST LANDS 
 scope = "National"
 subjects = [ "Forest Land", "Forest Limits",]
 authors_raw = "Escudero, Francis \"Chiz\" G., Recto, Ralph G., Ejercito, Joseph Victor G., Legarda, Loren B., Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2015-10-06"
 action = "Prepared and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, LOCAL GOVERNMENT and FINANCE with Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, RALPH G. RECTO, JOSEPH VICTOR G. EJERCITO, LOREN B. LEGARDA and FERDINAND 'BONGBONG' R. MARCOS as author(s) per Committee Report No. 284, recommending its approval in substitution of SBNos. 604, 786, 1101 and 1900, taking into consideration HBN-4988;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-10-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-10-06"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-04"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-04"
 action = "Sponsorship speech of Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-11"
 action = "Interpellation of Senator JUAN PONCE ENRILE;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "11/4/2015"
+date = "2015-11-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

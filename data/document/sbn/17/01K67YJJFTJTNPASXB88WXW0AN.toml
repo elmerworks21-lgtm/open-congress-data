@@ -1,8 +1,11 @@
 id = "01K67YJJFTJTNPASXB88WXW0AN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01777"
+
+[meta]
 bill_number = 1777
 congress = 17
-canonical = "SBN-01777"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1777", "https://web.senate.gov.ph/lisdata/2778824054!.pdf",]
 title = "FAIR ELECTION ACT (LOWER RATES OF POLITICAL PROPAGANDA)"
 date_filed = "2018-04-04"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9006, OTHERWISE KNOWN AS THE FAIR
 scope = "National"
 subjects = [ "Fair Elections Act (R.A.No. 9006)", "Political Propaganda", "Elections/Electoral Reforms",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2018-04-04"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-16"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-05"
 action = "Returned and submitted jointly by the Committees on ELECTORAL REFORMS AND PEOPLES PARTICIPATION and PUBLIC INFORMATION AND MASS MEDIA per Committee Report No. 436, recommending that it be substituted by SBN-1985;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-10"
 action = "SUBSTITUTED BY SBN-1985 UNDER COMMITTEE REPORT NO. 436, WHICH BECAME R.A.NO. 11207 ON FEBRUARY 14, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/10/2018"
+date = "2018-09-10"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

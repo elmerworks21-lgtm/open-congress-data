@@ -1,8 +1,11 @@
 id = "01K67YJPKKKPCAHQBP121SKWHG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00326"
+
+[meta]
 bill_number = 326
 congress = 18
-canonical = "SBN-00326"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-326", "https://web.senate.gov.ph/lisdata/3061127467!.pdf",]
 title = "DIRECT REMITTANCE TO THE HOST LGUS OF ITS FORTY PERCENT (40%) SHARE FROM NATIONAL WEALTH"
 date_filed = "2019-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING THE DIRECT REMITTANCE TO THE HOST LOCAL GOVERNMEN
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Local Government Code (R.A.No. 7160)", "Remittance", "National Wealth",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-10"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Local Government"

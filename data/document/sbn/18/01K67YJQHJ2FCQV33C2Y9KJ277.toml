@@ -1,8 +1,11 @@
 id = "01K67YJQHJ2FCQV33C2Y9KJ277"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01649"
+
+[meta]
 bill_number = 1649
 congress = 18
-canonical = "SBN-01649"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1649", "https://web.senate.gov.ph/lisdata/3309929925!.pdf",]
 title = "THE BUREAU OF IMMIGRATION MODERNIZATION ACT OF 2019"
 date_filed = "2020-07-02"
@@ -10,41 +13,42 @@ long_title = "AN ACT MODERNIZING THE BUREAU OF IMMIGRATION, DEFINING ITS POWERS 
 scope = "National"
 subjects = [ "Bureau of Immigration",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2020-07-02"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-03"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Returned and submitted jointly by the Committees on JUSTICE AND HUMAN RIGHTS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 579, recommending that it be substituted by SBN-2500;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "SUBSTITUTED BY SBN-2500 UNDER COMMITTEE REPORT NO. 579."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/31/2022"
+date = "2022-01-31"
 
 [[committees]]
 name = "Justice and Human Rights"

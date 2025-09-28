@@ -1,8 +1,11 @@
 id = "01K67YK02069D82MNB7FEF5DWT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00431"
+
+[meta]
 bill_number = 431
 congress = 20
-canonical = "SBN-00431"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-431", "https://web.senate.gov.ph/lisdata/4694442947!.pdf",]
 title = "MASUSTANSYANG PAGKAIN PARA SA BATANG PILIPINO ACT"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11037 OTHERWISE KNOWN AS THE 'MAS
 scope = "Local"
 subjects = [ "Masustansyang Pagkain Para Sa Batang Pilipino", "Feeding Program",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Basic Education"

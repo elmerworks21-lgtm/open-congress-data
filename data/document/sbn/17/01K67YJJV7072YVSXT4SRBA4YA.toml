@@ -1,8 +1,11 @@
 id = "01K67YJJV7072YVSXT4SRBA4YA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02221"
+
+[meta]
 bill_number = 2221
 congress = 17
-canonical = "SBN-02221"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2221", "https://web.senate.gov.ph/lisdata/2987126557!.pdf",]
 title = "MARINDUQUE SPORTS ACADEMY AND TRAINING CENTER"
 date_filed = "2019-05-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE MARINDUQUE SPORTS ACADEMY AND TRAINING CEN
 scope = "National"
 subjects = [ "Sports Academy",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-09"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-21"
 action = "Read on First Reading and Referred to the Committee(s) on SPORTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/21/2019"
+date = "2019-05-21"
 
 [[committees]]
 name = "Sports"

@@ -1,8 +1,11 @@
 id = "01K67YCPC0X30ZDAB6TQEPSKXB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01771"
+
+[meta]
 bill_number = 1771
 congress = 13
-canonical = "SBN-01771"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1771", "https://web.senate.gov.ph/lisdata/29922555!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSION"
 date_filed = "2004-09-15"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO RATIONALIZE THE COMPOSITION AND FUNCTIONS OF THE NATIONA
 scope = "National"
 subjects = [ "National Labor Relations Commission/Nlrc", "Labor Code (Pd 442; Art. 213/214/215/216",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-15"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-02"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 27, recommending that it be substituted by SBN-2035;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-06"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-06"
 action = "SUBSTITUTED BY SBN-1204, which became R.A. No. 9347."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/2/2005"
+date = "2005-06-02"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

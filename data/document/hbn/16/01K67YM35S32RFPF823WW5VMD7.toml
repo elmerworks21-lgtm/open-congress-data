@@ -1,24 +1,28 @@
 id = "01K67YM35S32RFPF823WW5VMD7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05956"
+
+[meta]
 bill_number = 5956
 congress = 16
-canonical = "HBN-05956"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5956", "https://web.senate.gov.ph/lisdata/2209318809!.pdf",]
 title = "PHILIPPINE HEALTH INSURANCE CORPORATION"
 long_title = "AN ACT MANDATING THE PHILIPPINE HEALTH INSURANCE CORPORATION TO INCREASE THE COVERAGE FOR DIALYSIS TREATMENT OF MEMBERS OF THE NATIONAL HEALTH INSURANCE PROGRAM TO NINETY (90) SESSIONS PER YEAR"
 scope = "National"
 subjects = [ "Philippine Health Insurance Corporation (Philhealth)", "Dialysis Treatment",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-08-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2015"
+date = "2015-09-01"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

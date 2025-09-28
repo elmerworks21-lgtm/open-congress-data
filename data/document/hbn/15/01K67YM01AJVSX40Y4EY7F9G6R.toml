@@ -1,60 +1,64 @@
 id = "01K67YM01AJVSX40Y4EY7F9G6R"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05466"
+
+[meta]
 bill_number = 5466
 congress = 15
-canonical = "HBN-05466"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-5466", "https://web.senate.gov.ph/lisdata/1362811610!.pdf",]
 title = "NASUGBU - TERNATE ROAD (BATANGAS)"
 long_title = "AN ACT CONVERTING THE NASUGBU - TERNATE ROAD WHICH CONNECTS THE PROVINCE OF CAVITE AND THE MUNICIPALITY OF NASUGBU, BATANGAS VIA BARANGAYS PAPAYA, CALAYO, BALAYTIGUE, NATIPUAN AND WAWA IN THE MUNICIPALITY OF NASUGBU, BATANGAS INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Roads, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-06-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-04"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC WORKS and FINANCE per Committee Report No. 729, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Sponsors: Senator(s) RAMON A. REVILLA JR., FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Sponsorship speech of Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Period of amendment closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Approved on Second Reading without Amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-07"
 action = "Printed copies were distributed to the Senators;"
 
 [[status]]
 status = "Approved on Second Reading, Without Amendments"
-date = "2/6/2013"
+date = "2013-02-06"
 
 [[committees]]
 name = "Public Works"

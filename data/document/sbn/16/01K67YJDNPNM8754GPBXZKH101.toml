@@ -1,8 +1,11 @@
 id = "01K67YJDNPNM8754GPBXZKH101"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02150"
+
+[meta]
 bill_number = 2150
 congress = 16
-canonical = "SBN-02150"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2150", "https://web.senate.gov.ph/lisdata/1882115948!.pdf",]
 title = "ELECTRIC, HYBRID AND OTHER ALTERNATIVE FUEL VEHICLES PROMOTIONS ACT OF 2014"
 date_filed = "2014-03-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING THE MAINSTREAM USE OF ELECTRIC, HYBRID AND OTHER 
 scope = "National"
 subjects = [ "Hybrid Cars", "Motor Vehicles",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2014-03-03"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-04"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/4/2014"
+date = "2014-03-04"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YCNH54PA1C4MXJT7G48BK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00293"
+
+[meta]
 bill_number = 293
 congress = 13
-canonical = "SBN-00293"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-293", "https://web.senate.gov.ph/lisdata/1450724!.pdf",]
 title = "NULLIFYING LAND TITLES NOT YET CLASSIFIED AS ALIENABLE"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT DIRECTING THE SECRETARY OF ENVIRONMENT AND NATURAL RESOURCE
 scope = "National"
 subjects = [ "Alienable/Disposable Land (Land Title)", "Land Title Nullification (Forest Zones)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

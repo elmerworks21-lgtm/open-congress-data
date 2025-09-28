@@ -1,8 +1,11 @@
 id = "01K67YJJ2C163KMEG4KA528QAH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01301"
+
+[meta]
 bill_number = 1301
 congress = 17
-canonical = "SBN-01301"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1301", "https://web.senate.gov.ph/lisdata/2528221801!.pdf",]
 title = "NATIONAL FAITH DAY"
 date_filed = "2017-01-19"
@@ -10,29 +13,30 @@ long_title = "AN ACT DECLARING THE LAST MONDAY OF JANUARY AS THE NATIONAL FAITH 
 scope = "National"
 subjects = [ "Faith Academy", "Holidays (Special Non-Working)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2017-01-19"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-23"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-12"
 action = "Returned and submitted by the Committee on EDUCATION, ARTS AND CULTURE per Committee Report No. 212, recommending that it be considered in SBN-1270;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-13"
 action = "CONSIDERED IN SBN-1270 UNDER COMMITTEE REPORT NO. 212, WHICH BECAME R.A.NO. 11163 ON DECEMBER 20, 2018."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/13/2017"
+date = "2017-12-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

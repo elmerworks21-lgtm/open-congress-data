@@ -1,8 +1,11 @@
 id = "01K67YJ0SA3J242P6Q29GPDHV9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00088"
+
+[meta]
 bill_number = 88
 congress = 14
-canonical = "SBN-00088"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-88", "https://web.senate.gov.ph/lisdata/41503558!.pdf",]
 title = "TOURISM ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,37 +13,38 @@ long_title = "AN ACT DECLARING A NATIONAL POLICY FOR TOURISM AS AN ENGINE OF INV
 scope = "National"
 subjects = [ "Tourism Development Advisory Council, Creation",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-28"
 action = "Returned and submitted jointly by the Committee(s) on TOURISM, CIVIL SERVICE AND GOVERNMENT REORGANIZATION, WAYS AND MEANS, FINANCE, GAMES, AMUSEMENT AND SPORTS and PUBLIC WORKS per Committee Report No. 45, recommending that it be substituted by SBN-2213;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-29"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-29"
 action = "SUBSTITUTED BY SBN-2213 WHICH BECAME R.A.NO. 9593."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "4/29/2008"
+date = "2008-04-29"
 
 [[committees]]
 name = "Tourism"

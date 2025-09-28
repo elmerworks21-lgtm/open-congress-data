@@ -1,8 +1,11 @@
 id = "01K67YJV5FBKB52ZHP7RRBRGT3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00430"
+
+[meta]
 bill_number = 430
 congress = 19
-canonical = "SBN-00430"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-430", "https://web.senate.gov.ph/lisdata/3819134629!.pdf",]
 title = "TODA ACT"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF TRICYCLE DRIVERS AND OPERATO
 scope = "National"
 subjects = [ "Tricycles/Pedicabs", "Drivers/Operators", "Magna Carta for Tricycle Drivers and Operators",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2022"
+date = "2022-08-10"
 
 [[committees]]
 name = "Public Services"

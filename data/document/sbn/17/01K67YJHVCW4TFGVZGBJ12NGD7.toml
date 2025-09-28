@@ -1,8 +1,11 @@
 id = "01K67YJHVCW4TFGVZGBJ12NGD7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01021"
+
+[meta]
 bill_number = 1021
 congress = 17
-canonical = "SBN-01021"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1021", "https://web.senate.gov.ph/lisdata/2459921178!.pdf",]
 title = "PHILHEALTH PREMIUM SUBSIDY FOR ALL PERSONS WITH DISABILITY"
 date_filed = "2016-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING PHILHEALTH PREMIUM SUBSIDY FOR ALL PERSONS WITH D
 scope = "National"
 subjects = [ "Philippine Health Insurance Corporation (Philhealth/Phic)", "Persons with Disabilities (PWDS)", "Magna Carta for Persons with Disability (R.A.No. 7277)",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-15"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-17"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2016"
+date = "2016-08-17"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

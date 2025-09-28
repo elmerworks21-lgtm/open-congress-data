@@ -1,8 +1,11 @@
 id = "01K67YCNV37NJ20ANXV19193YS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00857"
+
+[meta]
 bill_number = 857
 congress = 13
-canonical = "SBN-00857"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-857", "https://web.senate.gov.ph/lisdata/20551546!.pdf",]
 title = "BAKERY INDUSTRY DEVELOPMENT ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE BAKERY INDUSTRY DEVELOPMENT BOARD AS ATTACHED 
 scope = "National"
 subjects = [ "Bakery Industry Development Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2004"
+date = "2004-08-30"
 
 [[committees]]
 name = "Trade and Commerce"

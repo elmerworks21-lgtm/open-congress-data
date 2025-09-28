@@ -1,8 +1,11 @@
 id = "01K67YJ2CMZRQANSEPZHAQW5N4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02179"
+
+[meta]
 bill_number = 2179
 congress = 14
-canonical = "SBN-02179"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2179", "https://web.senate.gov.ph/lisdata/71356369!.pdf",]
 title = "P125.00 DAILY-ACROSS-THE-BOARD WAGE INCREASE ACT"
 date_filed = "2008-04-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A P125.00 DAILY ACROSS-THE-BOARD INCREASE IN 
 scope = "National"
 subjects = [ "Across the Board Wage Increase (P125.00)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-21"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-22"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/22/2008"
+date = "2008-04-22"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

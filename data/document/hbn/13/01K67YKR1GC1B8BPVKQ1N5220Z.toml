@@ -1,24 +1,28 @@
 id = "01K67YKR1GC1B8BPVKQ1N5220Z"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04814"
+
+[meta]
 bill_number = 4814
 congress = 13
-canonical = "HBN-04814"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4814", "https://web.senate.gov.ph/lisdata/46423815!.pdf",]
 title = "BALILI NATIONAL HIGH SCHOOL"
 long_title = "AN ACT SEPARATING THE LEPANTO NATIONAL HIGH SCHOOL - BALILI ANNEX IN BARANGAY \\BALILI, MUNICIAPALITY OF MANKAYAN, PROVINCE OF BENGUET FROM THE LEPANTO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BALILI NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Balili National High School (Benguet)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representatives SAMUEL M. DANGWA, EDMUNDO O. REYES JR., ROLANDO G. ANDAYA JR. and EULOGIO 'AMANG' R. MAGSAYSAY, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/18/2006"
+date = "2006-01-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

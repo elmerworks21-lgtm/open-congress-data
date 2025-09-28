@@ -1,28 +1,32 @@
 id = "01K67YM0FTDFW995H093JVVCZY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06595"
+
+[meta]
 bill_number = 6595
 congress = 15
-canonical = "HBN-06595"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6595", "https://web.senate.gov.ph/lisdata/1568412993!.pdf",]
 title = "DISTRICT OFFICE OF THE LTO (CITY OF BACOOR)"
 long_title = "AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE CITY OF BACOOR, CAVITE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 
 [[committees]]
 name = "Public Services"

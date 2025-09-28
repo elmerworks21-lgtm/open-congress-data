@@ -1,8 +1,11 @@
 id = "01K67YCPRD9YXR2M4C92HDC0A4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02377"
+
+[meta]
 bill_number = 2377
 congress = 13
-canonical = "SBN-02377"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2377", "https://web.senate.gov.ph/lisdata/55634598!.pdf",]
 title = "PUBLIC HEALTH WORKERS COMPENSATION STRUCTURE"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE STANDARDIZATION OF THE RATES OF COMPENSAT
 scope = "National"
 subjects = [ "Public Health Workers (Compensation Structure)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

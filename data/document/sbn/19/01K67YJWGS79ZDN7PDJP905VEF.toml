@@ -1,8 +1,11 @@
 id = "01K67YJWGS79ZDN7PDJP905VEF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02303"
+
+[meta]
 bill_number = 2303
 congress = 19
-canonical = "SBN-02303"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2303", "https://web.senate.gov.ph/lisdata/4209138283!.pdf",]
 title = "LINE WORKERS INSURANCE AND BENEFITS ACT"
 date_filed = "2023-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING MANDATORY INSURANCE COVERAGE AND OTHER BENEFITS F
 scope = "National"
 subjects = [ "Electrical Line Workers/Linemen", "Insurance", "Benefits and Incentives",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-12"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-01"
 action = "Read on First Reading and Referred to the Committees on ENERGY and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2023"
+date = "2023-08-01"
 
 [[committees]]
 name = "Energy"

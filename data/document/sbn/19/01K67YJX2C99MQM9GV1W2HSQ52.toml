@@ -1,8 +1,11 @@
 id = "01K67YJX2C99MQM9GV1W2HSQ52"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02947"
+
+[meta]
 bill_number = 2947
 congress = 19
-canonical = "SBN-02947"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2947", "https://web.senate.gov.ph/lisdata/4576341730!.pdf",]
 title = "NATIONAL LINEWORKER APPRECIATION DAY ACT"
 date_filed = "2025-01-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROCLAIMING THE FIRST MONDAY OF AUGUST EVERY YEAR AS LINEWO
 scope = "National"
 subjects = [ "Line Workers", "National Lineworker Appreciation Day",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2025-01-23"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Read on First Reading and Referred to the Committee on ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/27/2025"
+date = "2025-01-27"
 
 [[committees]]
 name = "Energy"

@@ -1,8 +1,11 @@
 id = "01K67YJWK170ZVC6JS2N7SRD90"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02405"
+
+[meta]
 bill_number = 2405
 congress = 19
-canonical = "SBN-02405"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2405", "https://web.senate.gov.ph/lisdata/4244438628!.pdf",]
 title = "UPGRADING AND CREATING ADDITIONAL POSITIONS IN THE OFFICE OF THE GOVERNMENT CORPORATE COUNSEL"
 date_filed = "2023-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING AND CREATING ADDITIONAL POSITIONS IN THE OFFICE O
 scope = "National"
 subjects = [ "Office of the Government Corporate Counsel",]
 authors_raw = "Angara, Sonny, Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-15"
 action = "Introduced by Senators SONNY ANGARA and JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-16"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2023"
+date = "2023-08-16"
 
 [[committees]]
 name = "Justice and Human Rights"

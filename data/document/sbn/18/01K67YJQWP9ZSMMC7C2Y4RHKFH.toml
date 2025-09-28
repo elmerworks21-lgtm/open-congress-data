@@ -1,8 +1,11 @@
 id = "01K67YJQWP9ZSMMC7C2Y4RHKFH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02105"
+
+[meta]
 bill_number = 2105
 congress = 18
-canonical = "SBN-02105"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2105", "https://web.senate.gov.ph/lisdata/3468231677!.pdf",]
 title = "FISCAL AND MONETARY REPORT ACT"
 date_filed = "2021-03-15"
@@ -10,21 +13,22 @@ long_title = "AN ACT MANDATING THE SECRETARIES OF THE DEPARTMENT OF FINANCE, NAT
 scope = "National"
 subjects = [ "Bangko Sentral Ng Pilipinas (BSP)", "Fiscal and Monetary Report",]
 authors_raw = "Revilla Jr., Ramon Bong, Recto, Ralph G., Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-15"
 action = "Prepared and submitted jointly by the Committees on ECONOMIC AFFAIRS and FINANCE with Senators RAMON BONG REVILLA JR., RALPH G. RECTO and IMEE R. MARCOS as authors per Committee Report No. 205, recommending its approval in substitution of SBNos. 432, 476 and 477;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-15"
 action = "Sponsor: Senator IMEE R. MARCOS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "3/15/2021"
+date = "2021-03-15"
 
 [[committees]]
 name = "Economic Affairs"

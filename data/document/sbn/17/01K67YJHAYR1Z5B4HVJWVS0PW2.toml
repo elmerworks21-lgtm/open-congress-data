@@ -1,8 +1,11 @@
 id = "01K67YJHAYR1Z5B4HVJWVS0PW2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00282"
+
+[meta]
 bill_number = 282
 congress = 17
-canonical = "SBN-00282"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-282", "https://web.senate.gov.ph/lisdata/2371920364!.pdf",]
 title = "COMBAT DUTY PAY OF ALL COMMISSIONED AND NON-COMMISSIONED PERSONNEL"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE COMBAT DUTY PAY OF ALL COMMISSIONED AND NON-
 scope = "National"
 subjects = [ "Philippine National Police (PNP)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

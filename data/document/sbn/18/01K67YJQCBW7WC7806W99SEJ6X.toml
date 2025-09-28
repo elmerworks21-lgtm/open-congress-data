@@ -1,8 +1,11 @@
 id = "01K67YJQCBW7WC7806W99SEJ6X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01421"
+
+[meta]
 bill_number = 1421
 congress = 18
-canonical = "SBN-01421"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1421", "https://web.senate.gov.ph/lisdata/3252729398!.pdf",]
 title = "PUHUNAN, TULUNGAN, KAUNLARAN (PTK) ACT OF 2020"
 date_filed = "2020-04-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING MICROFINANCE PROGRAMS AND ACCESS TO CAPI
 scope = "National"
 subjects = [ "Micro, Small and Medium Enterprises (Msmes)", "Covid-19",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2020-04-16"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-04"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; ECONOMIC AFFAIRS; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/4/2020"
+date = "2020-05-04"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

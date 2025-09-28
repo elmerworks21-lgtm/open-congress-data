@@ -1,8 +1,11 @@
 id = "01K67YJVXY3HE1VKEJ2VREQ585"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01504"
+
+[meta]
 bill_number = 1504
 congress = 19
-canonical = "SBN-01504"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1504", "https://web.senate.gov.ph/lisdata/3985936170!.pdf",]
 title = "PRE-HOSPITAL EMERGENCY CARE ACT"
 date_filed = "2022-11-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING A PRE-HOSPITAL EMERGENCY CARE SYSTEM, PR
 scope = "National"
 subjects = [ "Pre-Hospital Emergency Care System",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-14"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2022"
+date = "2022-11-22"
 
 [[committees]]
 name = "Health and Demography"

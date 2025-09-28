@@ -1,8 +1,11 @@
 id = "01K67YCPYSBJSVQ331JCZWFD9E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02664"
+
+[meta]
 bill_number = 2664
 congress = 13
-canonical = "SBN-02664"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2664", "https://web.senate.gov.ph/lisdata/71845779!.pdf",]
 title = "MANDATORY INFLUENZA VACCINE PROGRAM OF 2007"
 date_filed = "2007-06-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PROGRAM REQUIRING GENERAL HOSPITALS WITH NEO
 scope = "National"
 subjects = [ "Vaccines (Influenza Virus; Neonatal Intensive Care Units)", "Influenza Virus (Vaccines; General Hospitals)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-05"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-06"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/6/2007"
+date = "2007-06-06"
 
 [[committees]]
 name = "Health and Demography"

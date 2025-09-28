@@ -1,24 +1,28 @@
 id = "01K67YMDTWJ9WAANZFRR9X4XMR"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10958"
+
+[meta]
 bill_number = 10958
 congress = 19
-canonical = "HBN-10958"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10958", "https://web.senate.gov.ph/lisdata/4533141224!.pdf",]
 title = "BIRTH ANNIVERSARY OF DR. JOSE P. RIZAL (JUNE 19)"
 long_title = "AN ACT DECLARING JUNE 19 OF EVERY YEAR AS A SPECIAL WORKING HOLIDAY IN HONOR OF THE BIRTH ANNIVERSARY OF THE NATIONAL HERO, DR. JOSE P. RIZAL"
 scope = "National"
 subjects = [ "Holidays (Special Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-11-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-26"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and CULTURE AND THE ARTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/26/2024"
+date = "2024-11-26"
 
 [[committees]]
 name = "Basic Education"

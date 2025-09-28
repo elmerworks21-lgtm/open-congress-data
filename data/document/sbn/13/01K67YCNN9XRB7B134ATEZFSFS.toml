@@ -1,8 +1,11 @@
 id = "01K67YCNN9XRB7B134ATEZFSFS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00521"
+
+[meta]
 bill_number = 521
 congress = 13
-canonical = "SBN-00521"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-521", "https://web.senate.gov.ph/lisdata/1678998!.pdf",]
 title = "PHILIPPINE EXPORT CREDIT GUARANTEE"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE EXPORT CREDIT GUARANTEE CORPORATION
 scope = "National"
 subjects = [ "Phil. Export Credit Guarantee (Pecgc)", "Merger (Philguarantee and Gfsme)", "Small and Medium Enterprises",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

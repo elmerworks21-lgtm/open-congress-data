@@ -1,8 +1,11 @@
 id = "01K67YJHS8P59Z3F7V5HBMFYNT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00923"
+
+[meta]
 bill_number = 923
 congress = 17
-canonical = "SBN-00923"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-923", "https://web.senate.gov.ph/lisdata/2447921064!.pdf",]
 title = "LOWERING THE TAX RATE ON CAPITAL GAINS FROM THE SALES,EXCHANGE OR OTHER DISPOSITION OF REAL PROPERTY"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT LOWERING THE TAX RATE ON CAPITAL GAINS FROM THE SALES, EXCH
 scope = "National"
 subjects = [ "Taxes/Taxation", "National Internal Revenue Code (NIRC)", "Real Property",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Ways and Means"

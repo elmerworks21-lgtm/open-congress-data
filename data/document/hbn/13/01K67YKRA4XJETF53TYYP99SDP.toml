@@ -1,24 +1,28 @@
 id = "01K67YKRA4XJETF53TYYP99SDP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05590"
+
+[meta]
 bill_number = 5590
 congress = 13
-canonical = "HBN-05590"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5590", "https://web.senate.gov.ph/lisdata/62615190!.pdf",]
 title = "SAN VICENTE NATIONAL HIGH SCHOOL (SARANGANI)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY SAN VICENTE, MUNICIPALITY OF GLAN, PROVINCE OF SARANGANI TO BE KNOWN AS THE SAN VICENTE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Sarangani)", "San Vicente National High School (Sarangani)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-30"
 action = "Filed in the Senate requesting for concurrence by Representatives ERWIN L. CHIONGBIAN, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2006"
+date = "2006-11-07"
 
 [[committees]]
 name = "Education, Arts and Culture"

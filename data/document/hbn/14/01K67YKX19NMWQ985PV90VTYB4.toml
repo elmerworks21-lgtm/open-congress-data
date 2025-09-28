@@ -1,24 +1,28 @@
 id = "01K67YKX19NMWQ985PV90VTYB4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06562"
+
+[meta]
 bill_number = 6562
 congress = 14
-canonical = "HBN-06562"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6562", "https://web.senate.gov.ph/lisdata/1248411164!.pdf",]
 title = "CAANAWAN NATIONAL HIGH SCHOOL"
 long_title = "AN ACT SEPARATING THE CONSTANCIO PADILLA NATIONAL HIGH SCHOOL – CAANAWAN ANNEX IN BARANGAY CAANAWAN, CITY OF SAN JOSE, PROVINCE OF NUEVA ECIJA FROM THE CONSTANCIO PADILLA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS CAANAWAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-15"
 action = "Filed in the Senate requesting for concurrence by Representatives JOSEPH F. VIOLAGO, DEL R. DE GUZMAN and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2009"
+date = "2009-09-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

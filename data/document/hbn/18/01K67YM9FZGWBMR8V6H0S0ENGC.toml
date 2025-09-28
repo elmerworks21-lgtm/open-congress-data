@@ -1,24 +1,28 @@
 id = "01K67YM9FZGWBMR8V6H0S0ENGC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08259"
+
+[meta]
 bill_number = 8259
 congress = 18
-canonical = "HBN-08259"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8259", "https://web.senate.gov.ph/lisdata/3442231235!.pdf",]
 title = "HANDOG SA MGA BAYANING LUMABAN KONTRA COVID-19 ACT"
 long_title = "AN ACT PROVIDING INCOME TAX RELIEF TO MEDICAL FRONTLINERS FOR TAXABLE YEAR TWO THOUSAND TWENTY"
 scope = "Local"
 subjects = [ "Taxes (Individual Income Tax)", "Medical Frontliners", "Tax Incentives",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-03"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/3/2021"
+date = "2021-02-03"
 
 [[committees]]
 name = "Ways and Means"

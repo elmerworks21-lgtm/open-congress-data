@@ -1,8 +1,11 @@
 id = "01K67YJWJRDJTFW3JQVPK8NARE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02391"
+
+[meta]
 bill_number = 2391
 congress = 19
-canonical = "SBN-02391"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2391", "https://web.senate.gov.ph/lisdata/4230638495!.pdf",]
 title = "PUBLIC LAND TRANSPORTATION WORKERS DAY ACT"
 date_filed = "2023-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING MAY 8 AS THE PUBLIC LAND TRANSPORTATION WORKERS D
 scope = "National"
 subjects = [ "Public Land Transportation Workers",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-07"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-08"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2023"
+date = "2023-08-08"
 
 [[committees]]
 name = "Public Services"

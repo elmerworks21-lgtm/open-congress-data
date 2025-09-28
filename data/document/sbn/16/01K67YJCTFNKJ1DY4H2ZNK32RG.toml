@@ -1,8 +1,11 @@
 id = "01K67YJCTFNKJ1DY4H2ZNK32RG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00840"
+
+[meta]
 bill_number = 840
 congress = 16
-canonical = "SBN-00840"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-840", "https://web.senate.gov.ph/lisdata/1681914055!.pdf",]
 title = "INDIRECT EMPLOYERS IN JOB CONTRACTING"
 date_filed = "2013-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE LIABILITIES OF INDIRECT EMPLOYERS IN JOB CONT
 scope = "National"
 subjects = [ "Job Contracting", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-17"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-12"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2013"
+date = "2013-08-12"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

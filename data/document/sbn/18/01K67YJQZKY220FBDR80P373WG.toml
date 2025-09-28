@@ -1,8 +1,11 @@
 id = "01K67YJQZKY220FBDR80P373WG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02221"
+
+[meta]
 bill_number = 2221
 congress = 18
-canonical = "SBN-02221"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2221", "https://web.senate.gov.ph/lisdata/3506031906!.pdf",]
 title = "PHILIPPINE CITIZENSHIP TO ELIZABETH EDER ZOBEL DE AYALA"
 date_filed = "2021-05-24"
@@ -10,45 +13,46 @@ long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO ELIZABETH EDER ZOBEL DE 
 scope = "National"
 subjects = [ "Citizenship",]
 authors_raw = "Drilon, Franklin M., Zubiri, Juan Miguel \"Migz\" F., Hontiveros, Risa, Gordon, Richard J., Recto, Ralph G., Angara, Sonny, Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2021-05-24"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-25"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-25"
 action = "Senators JUAN MIGUEL 'MIGZ' F. ZUBIRI and RISA HONTIVEROS were made co-authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-26"
 action = "Senators RICHARD J. GORDON, RALPH G. RECTO, SONNY ANGARA and JOEL VILLANUEVA were made co-authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Transferred from the Committee on RULES to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-10-26"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-08"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 331, recommending that it be considered in HBN-9376;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-08"
 action = "CONSIDERED IN HBN-9376 UNDER COMMITTEE REPORT NO. 331, WHICH BECAME R.A. NO. 11660 ON MARCH 24, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/8/2021"
+date = "2021-11-08"
 
 [[committees]]
 name = "Justice and Human Rights"

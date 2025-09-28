@@ -1,24 +1,28 @@
 id = "01K67YMDJ4WWCSNNTM0QRA88FF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09647"
+
+[meta]
 bill_number = 9647
 congress = 19
-canonical = "HBN-09647"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9647", "https://web.senate.gov.ph/lisdata/4334639453!.pdf",]
 title = "RENAMING MOTOR VEHICLE USER’S CHARGE INTO MOTOR VEHICLE ROAD USER’S TAX"
 long_title = "AN ACT RENAMING MOTOR VEHICLE USER’S CHARGE INTO MOTOR VEHICLE ROAD USER’S TAX AND INCREASING THE RATES FOR PUBLIC UTILITY VEHICLE MODERNIZATION AND ROAD SAFETY PROGRAMS, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 8794, ENTITLED 'AN ACT IMPOSING A MOTOR VEHICLE USER’S CHARGE ON OWNERS OF ALL TYPES OF MOTOR VEHICLES AND FOR OTHER PURPOSES,' AS AMENDED BY REPUBLIC ACT NO. 11239"
 scope = "National"
 subjects = [ "Road Users Tax", "Motor Vehicles Users Charge (MVUC)",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-12-13"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-29"
 action = "Read on First Reading and Referred to the Committees on WAYS AND MEANS and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2024"
+date = "2024-01-29"
 
 [[committees]]
 name = "Ways and Means"

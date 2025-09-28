@@ -1,8 +1,11 @@
 id = "01K67YJ1KQMNM1TQBBRZKTXBHH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01355"
+
+[meta]
 bill_number = 1355
 congress = 14
-canonical = "SBN-01355"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1355", "https://web.senate.gov.ph/lisdata/56554976!.pdf",]
 title = "VIOLENCE AGAINST WOMEN RESEARCH ACT OF 2007"
 date_filed = "2007-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A TASK FORCE TO RECOMMEND A UNIFORM STRATEGY T
 scope = "National"
 subjects = [ "Violence Against Women Research",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-24"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2007"
+date = "2007-09-11"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

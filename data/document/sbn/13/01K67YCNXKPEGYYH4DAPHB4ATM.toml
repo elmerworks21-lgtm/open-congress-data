@@ -1,8 +1,11 @@
 id = "01K67YCNXKPEGYYH4DAPHB4ATM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00989"
+
+[meta]
 bill_number = 989
 congress = 13
-canonical = "SBN-00989"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-989", "https://web.senate.gov.ph/lisdata/21931721!.pdf",]
 title = "GRAFT & CORRUPTION ACT, AMEND. RE PRESCRIPTION OF OFFENSES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 11 OF REPUBLIC ACT NUMBERED 3019, OTHERWIS
 scope = "National"
 subjects = [ "Graft and Corruption Act, Amendments", "RA 3019 (Prescriptive Period)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

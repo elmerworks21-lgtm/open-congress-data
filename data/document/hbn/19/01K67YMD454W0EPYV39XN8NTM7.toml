@@ -1,24 +1,28 @@
 id = "01K67YMD454W0EPYV39XN8NTM7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06934"
+
+[meta]
 bill_number = 6934
 congress = 19
-canonical = "HBN-06934"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6934", "https://web.senate.gov.ph/lisdata/4088637247!.pdf",]
 title = "BIEN UNIDO DOUBLE BARRIER REEF (BIEN UNIDO, BOHOL) A TOURISM DESTINATION"
 long_title = "AN ACT DECLARING THE BIEN UNIDO DOUBLE BARRIER REEF AND ITS IMMEDIATE UNDERWATER ENVIRONS IN THE MUNICIPALITY OF BIEN UNIDO, PROVINCE OF BOHOL, A TOURISM DESTINATION"
 scope = "Local"
 subjects = [ "Tourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-23"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-01"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/1/2023"
+date = "2023-03-01"
 
 [[committees]]
 name = "Tourism"

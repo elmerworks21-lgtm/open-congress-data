@@ -1,8 +1,11 @@
 id = "01K67YJ1JNENWWB21VZYSZ8G85"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01300"
+
+[meta]
 bill_number = 1300
 congress = 14
-canonical = "SBN-01300"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1300", "https://web.senate.gov.ph/lisdata/56004912!.pdf",]
 title = "PROVIDING THAT 40% OF 5 NOMINEES FOR REGISTERED PARTY-LIST ORGANIZATION ARE WOMEN"
 date_filed = "2007-07-18"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING REPUBLIC ACT SEVENTY-NINE FORTY-ONE, OTHERWISE KNO
 scope = "National"
 subjects = [ "Party List System (RA 7971)", "Womens Sectoral Representation",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

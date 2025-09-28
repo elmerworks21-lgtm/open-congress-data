@@ -1,8 +1,11 @@
 id = "01K67YJCHTAQRVZ907N5TSJ055"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00417"
+
+[meta]
 bill_number = 417
 congress = 16
-canonical = "SBN-00417"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-417", "https://web.senate.gov.ph/lisdata/1630713545!.pdf",]
 title = "PALLIATIVE AND END OF LIFE CARE ACT OF 2013"
 date_filed = "2013-07-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING PALLIATIVE AND END OF LIFE CARE, APPROPRIATING FU
 scope = "National"
 subjects = [ "Palliative Care", "Leave of Absence (Family/Medical Leave)",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-02"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, WAYS AND MEANS and FINANCE per Committee Report No. 467, recommending that it be substituted by SBN-3210;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-02"
 action = "SUBSTITUTED BY SBN-3210 UNDER C.R. NO. 467."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/2/2016"
+date = "2016-02-02"
 
 [[committees]]
 name = "Health and Demography"

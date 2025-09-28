@@ -1,8 +1,11 @@
 id = "01K67YCNCC7K2D0DP3QCDBF0TD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00037"
+
+[meta]
 bill_number = 37
 congress = 13
-canonical = "SBN-00037"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-37", "https://web.senate.gov.ph/lisdata/1171590!.pdf",]
 title = "REWARD TO INFORMERS OF VIOLATIONS OF ILL-GOTTEN WEALTH ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A GRANT OF REWARD TO INFORMERS OF VIOLATIONS 
 scope = "National"
 subjects = [ "Ill-Gotten Wealth (RA 7080/1379)", "Informers (Reward; Ill-Gotten Wealth)",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YCNDP50591ZFKN5Y97Q4C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00107"
+
+[meta]
 bill_number = 107
 congress = 13
-canonical = "SBN-00107"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-107", "https://web.senate.gov.ph/lisdata/1235978!.pdf",]
 title = "MATURE AND OLDER WORKERS ACT"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISH A JOB TRAINING PROGRAM FOR MATURE OR OLDER WORKER
 scope = "National"
 subjects = [ "Mature and Older Workers Act", "Equal Employment (Mature/Older Workers)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-11"
 action = "Senator Angara was made a coauthor on motion of Senator Luisa 'Loi' P. Ejercito Estrada;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YJR1S4F98PPY0H66RGR96"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02315"
+
+[meta]
 bill_number = 2315
 congress = 18
-canonical = "SBN-02315"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2315", "https://web.senate.gov.ph/lisdata/3546932191!.pdf",]
 title = "FALSIFICATION OF MEDICAL CERTIFICATES IN TIMES OF NATIONAL HEALTH EMERGENCIES"
 date_filed = "2021-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE PENALTIES FOR THE FALSIFICATION OF MEDICAL C
 scope = "National"
 subjects = [ "Fake Documents", "Medical Certificates", "Testing for Covid-19", "Emergency (Public Health Emergency)", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2021-07-12"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2021"
+date = "2021-07-28"
 
 [[committees]]
 name = "Justice and Human Rights"

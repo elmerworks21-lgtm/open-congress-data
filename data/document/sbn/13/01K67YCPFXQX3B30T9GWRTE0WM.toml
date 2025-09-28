@@ -1,8 +1,11 @@
 id = "01K67YCPFXQX3B30T9GWRTE0WM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01952"
+
+[meta]
 bill_number = 1952
 congress = 13
-canonical = "SBN-01952"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1952", "https://web.senate.gov.ph/lisdata/32682432!.pdf",]
 title = "GRANTING PHILIPPINE CITIZENSHIP TO MAHMOUD A.M. ASFOUR"
 date_filed = "2005-05-25"
@@ -10,105 +13,106 @@ long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO MAHMOUD A.M. ASFOUR"
 scope = "National"
 subjects = [ "Filipino Citizenship (Mahmoud Asfour)", "Mahmoud A.M. Asfour",]
 authors_raw = "Enrile, Juan Ponce, Madrigal, M. A., Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-08"
 action = "Introduced by Senators ENRILE, M.A. MADRIGAL and RAMON 'BONG' REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-09"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-24"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 26, recommending its approval without amendment, taking into consideration HBN-2659;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-24"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-24"
 action = "Sponsors: Senator(s) JOKER P. ARROYO, JUAN PONCE ENRILE, M. A. MADRIGAL and RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-25"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-25"
 action = "Sponsorship speech of Senator(s) JOKER P. ARROYO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-25"
 action = "Co-sponsorship speech of Senator(s) JUAN PONCE ENRILE and AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-25"
 action = "Interpellation of Senator(s) SERGIO R. OSMENA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-30"
 action = "Interpellation of Senator(s) AQUILINO Q. PIMENTEL JR., MAR ROXAS and FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-31"
 action = "Interpellation of Senator(s) MIRIAM DEFENSOR SANTIAGO and AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-31"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-31"
 action = "Period of amendment closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-31"
 action = "Approved on Second Reading without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-31"
 action = "Printed Copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-06"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-06"
 action = "In favor: (19) JOKER P. ARROYO, RODOLFO G. BIAZON, COMPANERA PIA S. CAYETANO, FRANKLIN M. DRILON, JINGGOY P. EJERCITO-ESTRADA, LUISA 'LOI' P. EJERCITO ESTRADA, JUAN PONCE ENRILE, JUAN M. FLAVIER, MANUEL 'LITO' M. LAPID, ALFREDO S. LIM, M. A. MADRIGAL, RAMON B. MAGSAYSAY JR., SERGIO R. OSMENA III, FRANCIS N. PANGILINAN, AQUILINO Q. PIMENTEL JR., RALPH G. RECTO, RAMON A. REVILLA JR., MAR ROXAS and MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-06"
 action = "Against: (1) MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-06"
 action = "Abstention: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-07"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-14"
 action = "Enrolled Copy of the consolidated version of HBN-2659 and SBN-1952 sent to the Senate for the Signature of the Senate President and the Senate Secretary;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-23"
 action = "Enrolled Copy of the consolidated version of HBN-2659 and HBN-1952 sent back to the House of Representatives which was already signed by Senate President Drilon and the Acting Senate Secretary Reyes;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-07-28"
 action = "Consolidated with HBN-2659 which was approved and signed into law by the President of the Philippines and became (See: O. B. dated August 16, 2005);"
 
-[[legislative_history]]
+[[history]]
 date = "2005-07-28"
 action = "REPUBLIC ACT NO. 9338"
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "7/28/2005"
+date = "2005-07-28"
 
 [[committees]]
 name = "Justice and Human Rights"

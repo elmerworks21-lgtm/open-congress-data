@@ -1,8 +1,11 @@
 id = "01K67YJWFC1ATG209SCMB6V8AC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02242"
+
+[meta]
 bill_number = 2242
 congress = 19
-canonical = "SBN-02242"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2242", "https://web.senate.gov.ph/lisdata/4181838091!.pdf",]
 title = "CREATING FIVE (5) ADDITIONAL BRANCHES OF THE RTC, IN ROSARIO AND SAN JUAN, BATANGAS"
 date_filed = "2023-05-24"
@@ -10,37 +13,38 @@ long_title = "AN ACT CREATING FIVE (5) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL
 scope = "National"
 subjects = [ "Courts (Rtc/Mtc, Additional Branch)", "Courts (Rtc/Mtc, Creation)", "Judiciary Reorganization Act (Batas Pambansa Blg. 129)",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-24"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-29"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-07"
 action = "Returned and submitted jointly by the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 225, recommending that it be substituted by HBN-8254;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-07"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-11"
 action = "CONSIDERED IN HBN-8254 UNDER COMMITTEE REPORT NO. 225, WHICH BECAME REPUBLIC ACT NO. 12114 ON DECEMBER 13, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/11/2024"
+date = "2024-03-11"
 
 [[committees]]
 name = "Justice and Human Rights"

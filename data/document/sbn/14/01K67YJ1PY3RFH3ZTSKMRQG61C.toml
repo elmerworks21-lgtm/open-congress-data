@@ -1,8 +1,11 @@
 id = "01K67YJ1PY3RFH3ZTSKMRQG61C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01508"
+
+[meta]
 bill_number = 1508
 congress = 14
-canonical = "SBN-01508"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1508", "https://web.senate.gov.ph/lisdata/58195181!.pdf",]
 title = "SAFE HAVENS FOR CHILDREN ACT OF 2007"
 date_filed = "2007-09-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE GRANTS TO LOCAL GOVERNMENT UNITS FOR SUPERVISED 
 scope = "National"
 subjects = [ "Local Government Units (LGUS)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-18"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/18/2007"
+date = "2007-09-18"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

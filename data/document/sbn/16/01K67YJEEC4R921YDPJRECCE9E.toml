@@ -1,8 +1,11 @@
 id = "01K67YJEEC4R921YDPJRECCE9E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02981"
+
+[meta]
 bill_number = 2981
 congress = 16
-canonical = "SBN-02981"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2981", "https://web.senate.gov.ph/lisdata/2236619085!.pdf",]
 title = "BATANES RESPONSIBLE TOURISM ACT"
 date_filed = "2015-10-05"
@@ -10,29 +13,30 @@ long_title = "AN ACT DECLARING THE PROVINCE OF BATANES AS A RESPONSIBLE, COMMUNI
 scope = "National"
 subjects = [ "Tourism (Ecotourism Zone", "Site)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2015-10-05"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-10-06"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and TOURISM;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-27"
 action = "Returned and submitted by the Committees on Environment and Natural Resources; and Tourism, per Committee Report No. 443, recommending that it be considered in HBN-6152;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-01"
 action = "CONSIDERED IN HBN-6152 UNDER C.R. NO. 443, WHICH BECAME R.A.NO. 10866 ON JUNE 23, 2016."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/1/2016"
+date = "2016-02-01"
 
 [[committees]]
 name = "Environment and Natural Resources"

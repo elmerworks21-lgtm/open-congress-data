@@ -1,8 +1,11 @@
 id = "01K67YCNP5W0STF6C5B0M7MSP7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00573"
+
+[meta]
 bill_number = 573
 congress = 13
-canonical = "SBN-00573"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-573", "https://web.senate.gov.ph/lisdata/17281095!.pdf",]
 title = "TICKET COLLECTION/FUND-RAISING ACTIVITY IN SCHOOLS BAN"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE SALE OF TICKETS, COLLECTION OF CONTRIBUTION
 scope = "National"
 subjects = [ "Ticket Collection/Solicitation (Schools)", "Schools (Fund-Raising Activity Ban)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-11"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2004"
+date = "2004-08-11"
 
 [[committees]]
 name = "Education, Arts and Culture"

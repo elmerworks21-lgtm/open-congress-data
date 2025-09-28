@@ -1,8 +1,11 @@
 id = "01K67YJ18R3833A5XQB1D6F3KB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00819"
+
+[meta]
 bill_number = 819
 congress = 14
-canonical = "SBN-00819"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-819", "https://web.senate.gov.ph/lisdata/50474436!.pdf",]
 title = "FAIR CREDIT BILLING ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A FAIR CREDIT BILLING SYSTEM, AND FOR OTHER PU
 scope = "National"
 subjects = [ "Fair Credit Billing",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Trade and Commerce"

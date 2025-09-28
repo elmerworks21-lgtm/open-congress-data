@@ -1,24 +1,28 @@
 id = "01K67YMD5ND6TXKYDFGCXKFPJ2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07324"
+
+[meta]
 bill_number = 7324
 congress = 19
-canonical = "HBN-07324"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7324", "https://web.senate.gov.ph/lisdata/4131937643!.pdf",]
 title = "PANIQUI TARLAC ECO-FARM"
 long_title = "AN ACT ESTABLISHING THE PANIQUI TARLAC ECO-FARM AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Eco-Farm",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2023"
+date = "2023-05-09"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

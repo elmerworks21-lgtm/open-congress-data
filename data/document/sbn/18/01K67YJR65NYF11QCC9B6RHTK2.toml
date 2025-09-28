@@ -1,8 +1,11 @@
 id = "01K67YJR65NYF11QCC9B6RHTK2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02362"
+
+[meta]
 bill_number = 2362
 congress = 18
-canonical = "SBN-02362"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2362", "https://web.senate.gov.ph/lisdata/3601032447!.pdf",]
 title = "MT. BUSA-MAKIMA (MBMKMPL) PROTECTED LANDSCAPE ACT OF 2021"
 date_filed = "2021-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING MT. BUSA-MAKIMA, LOCATED IN THE MUNICIPALITIES
 scope = "National"
 subjects = [ "Protected Area/Protected Landscape", "National Integrated Protected Areas System (Nipas), R.A.No. 7586",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2021-08-23"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-25"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/25/2021"
+date = "2021-08-25"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

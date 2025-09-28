@@ -1,24 +1,28 @@
 id = "01K67YKR044QDTYWFYZ87W8GFJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04601"
+
+[meta]
 bill_number = 4601
 congress = 13
-canonical = "HBN-04601"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4601", "https://web.senate.gov.ph/lisdata/42803582!.pdf",]
 title = "CAMP GENERAL LICERIO GERONIMO"
 long_title = "AN ACT RENAMING THE HILLTOP RIZAL PNP COMMAND IN TAYTAY, RIZAL AS CAMP GENERAL LICERIO GERONIMO"
 scope = "Local"
 subjects = [ "Camp General Licerio Geronimo (Renaming, Hilltop Rizal PNP Command)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-11-23"
 action = "Filed in the Senate requesting for concurrence by Representative MICHAEL JOHN 'JACK' R. DUAVIT, et. al. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-29"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND ILLEGAL DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/29/2005"
+date = "2005-11-29"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

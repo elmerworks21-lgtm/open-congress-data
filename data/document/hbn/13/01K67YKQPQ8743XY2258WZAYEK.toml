@@ -1,24 +1,28 @@
 id = "01K67YKQPQ8743XY2258WZAYEK"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00522"
+
+[meta]
 bill_number = 522
 congress = 13
-canonical = "HBN-00522"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-522", "https://web.senate.gov.ph/lisdata/50344112!.pdf",]
 title = "LAOANG NATIONAL HIGH SCHOOL (NORTHERN SAMAR)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY GUILAOANGI, MUNICIPALITY OF LAOANG, PROVINCE OF NORTHERN SAMAR TO BE KNOWN AS THE LAOANG NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Northern Samar)", "Laoang National High School (Northern Samar)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives ROMUALDO T. VICENCIO, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and ROLANDO G. ANDAYA JR., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2006"
+date = "2006-05-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

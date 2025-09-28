@@ -1,8 +1,11 @@
 id = "01K67YJ7E51Y598RCNQJG0SE8N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00333"
+
+[meta]
 bill_number = 333
 congress = 15
-canonical = "SBN-00333"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-333", "https://web.senate.gov.ph/lisdata/77266442!.pdf",]
 title = "AUTHORIZING GOVERNMENT HOSPITALS TO UTILIZE THEIR INCOME FOR OPERATING EXPENSES"
 date_filed = "2010-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUTHORIZING GOVERNMENT HOSPITALS UNDER THE DEPARTMENT OF HE
 scope = "National"
 subjects = [ "Hospitals (Government Hospitals)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2010"
+date = "2010-08-03"
 
 [[committees]]
 name = "Health and Demography"

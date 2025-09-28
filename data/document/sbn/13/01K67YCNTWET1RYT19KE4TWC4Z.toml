@@ -1,8 +1,11 @@
 id = "01K67YCNTWET1RYT19KE4TWC4Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00844"
+
+[meta]
 bill_number = 844
 congress = 13
-canonical = "SBN-00844"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-844", "https://web.senate.gov.ph/lisdata/20421524!.pdf",]
 title = "BARANGAY TANOD MEMBERS ADDITIONAL BENEFITS AND INCENTIVES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING THE BENEFITS AND INCENTIVES OF BARANGAY TANOD MEM
 scope = "National"
 subjects = [ "Barangay Tanod Benefits", "Incentives",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Local Government"

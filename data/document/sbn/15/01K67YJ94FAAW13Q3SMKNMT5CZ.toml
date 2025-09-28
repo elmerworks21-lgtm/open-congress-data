@@ -1,8 +1,11 @@
 id = "01K67YJ94FAAW13Q3SMKNMT5CZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02722"
+
+[meta]
 bill_number = 2722
 congress = 15
-canonical = "SBN-02722"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2722", "https://web.senate.gov.ph/lisdata/108849283!.pdf",]
 title = "MEDICAL TECHNOLOGY ACT OF 2011"
 date_filed = "2011-02-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING AND MODERNIZING THE PRACTICE OF MEDICAL TECHNOLO
 scope = "National"
 subjects = [ "Medical Technology",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2011-02-28"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-01"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/1/2011"
+date = "2011-03-01"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

@@ -1,8 +1,11 @@
 id = "01K67YJHHB0C96AJQPFFW1RDVT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00549"
+
+[meta]
 bill_number = 549
 congress = 17
-canonical = "SBN-00549"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-549", "https://web.senate.gov.ph/lisdata/2399520571!.pdf",]
 title = "AMENDING SECTION 2 OF REPUBLIC ACT NO. 1827"
 date_filed = "2016-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 2 OF REPUBLIC ACT NO. 1827 SO AS TO IMPOSE
 scope = "National"
 subjects = [ "Lobbying",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

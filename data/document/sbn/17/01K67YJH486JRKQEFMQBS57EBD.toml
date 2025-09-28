@@ -1,8 +1,11 @@
 id = "01K67YJH486JRKQEFMQBS57EBD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00002"
+
+[meta]
 bill_number = 2
 congress = 17
-canonical = "SBN-00002"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2", "https://web.senate.gov.ph/lisdata/2341520000!.pdf",]
 title = "14TH MONTH PAY LAW"
 date_filed = "2016-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT REQUIRING EMPLOYERS IN THE PRIVATE SECTOR TO PAY 14TH MONTH
 scope = "National"
 subjects = [ "14th Month Pay", "Private Sector Employees",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Upon motion of Senator Drilon, the Chair also referred SBN-2 to the Committee on Trade, Commerce and Entrepreneurship as the secondary committee;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/26/2016"
+date = "2016-07-26"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

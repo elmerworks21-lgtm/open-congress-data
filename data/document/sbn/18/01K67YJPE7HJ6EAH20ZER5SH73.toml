@@ -1,8 +1,11 @@
 id = "01K67YJPE7HJ6EAH20ZER5SH73"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00089"
+
+[meta]
 bill_number = 89
 congress = 18
-canonical = "SBN-00089"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-89", "https://web.senate.gov.ph/lisdata/3032827157!.pdf",]
 title = "INCREASING THE NUMBER OF RAYS OF THE SUN ON THE PHILIPPINE FLAG"
 date_filed = "2019-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE NUMBER OF RAYS OF THE SUN ON THE PHILIPPINE 
 scope = "National"
 subjects = [ "Flag and Heraldic Code (R.A.No. 8491)",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Transferred from the Committee on Education, Arts and Culture to the Committee on BASIC EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

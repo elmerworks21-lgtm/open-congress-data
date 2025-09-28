@@ -1,8 +1,11 @@
 id = "01K67YJR7P9AH1KH7MR85MZXJ8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02406"
+
+[meta]
 bill_number = 2406
 congress = 18
-canonical = "SBN-02406"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2406", "https://web.senate.gov.ph/lisdata/3628232646!.pdf",]
 title = "HEALTH WORKERS ALLOWANCE AND BENEFITS ACT"
 date_filed = "2021-09-20"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR ALLOWANCES AND BENEFITS FOR HEALTH WORKERS DU
 scope = "National"
 subjects = [ "Healthcare Workers", "Benefits and Incentives",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-20"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-20"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE; HEALTH AND DEMOGRAPHY and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Returned and submitted jointly by the Committees on FINANCE, HEALTH AND DEMOGRAPHY and WAYS AND MEANS per Committee Report No. 325, recommending that it be substituted by SBN-2421;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "SUBSTITUTED BY SBN-2421 UNDER COMMITTEE REPORT NO. 325, WHICH BECAME REPUBLIC ACT NO. 11712 ON APRIL 27, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/29/2021"
+date = "2021-09-29"
 
 [[committees]]
 name = "Finance"

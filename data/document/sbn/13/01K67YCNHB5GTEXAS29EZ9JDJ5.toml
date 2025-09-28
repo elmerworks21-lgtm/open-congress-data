@@ -1,8 +1,11 @@
 id = "01K67YCNHB5GTEXAS29EZ9JDJ5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00304"
+
+[meta]
 bill_number = 304
 congress = 13
-canonical = "SBN-00304"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-304", "https://web.senate.gov.ph/lisdata/1461754!.pdf",]
 title = "SPORTS COMPETITION REVERTED BACK TO DEPT. OF EDUCATION"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REPEALING SECTION 9, CHAPTER 3 OF REPUBLIC ACT NO. 9155, OT
 scope = "National"
 subjects = [ "Governance of Basic Education (RA 9155)", "Sports Competition (Back to DepEd)", "Dept. of Education (DepEd)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

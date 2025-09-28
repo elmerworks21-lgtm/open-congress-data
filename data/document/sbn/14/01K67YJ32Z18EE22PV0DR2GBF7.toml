@@ -1,8 +1,11 @@
 id = "01K67YJ32Z18EE22PV0DR2GBF7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03164"
+
+[meta]
 bill_number = 3164
 congress = 14
-canonical = "SBN-03164"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3164", "https://web.senate.gov.ph/lisdata/108099586!.pdf",]
 title = "PASONANCA NATURAL PARK ACT OF 2009"
 date_filed = "2009-04-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE PASONANCA WATERSHED FOREST RESERVE SITUATE
 scope = "Local"
 subjects = [ "Protected Area", "Landscape", "Seascape",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2009-04-16"
 action = "Introduced by Senator 'COMPANERA' PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-20"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/20/2009"
+date = "2009-04-20"
 
 [[committees]]
 name = "Environment and Natural Resources"

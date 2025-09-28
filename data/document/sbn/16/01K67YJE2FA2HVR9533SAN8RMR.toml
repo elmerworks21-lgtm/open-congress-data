@@ -1,8 +1,11 @@
 id = "01K67YJE2FA2HVR9533SAN8RMR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02681"
+
+[meta]
 bill_number = 2681
 congress = 16
-canonical = "SBN-02681"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2681", "https://web.senate.gov.ph/lisdata/2072617826!.pdf",]
 title = "SOCIAL MEDIA PRIVACY ACT"
 date_filed = "2015-03-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING EMPLOYERS FROM COMPELLING EMPLOYEES AND APPLICA
 scope = "National"
 subjects = [ "Social Media",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-03-09"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-10"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/10/2015"
+date = "2015-03-10"
 
 [[committees]]
 name = "Justice and Human Rights"

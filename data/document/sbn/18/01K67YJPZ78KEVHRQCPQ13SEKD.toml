@@ -1,8 +1,11 @@
 id = "01K67YJPZ78KEVHRQCPQ13SEKD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00867"
+
+[meta]
 bill_number = 867
 congress = 18
-canonical = "SBN-00867"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-867", "https://web.senate.gov.ph/lisdata/3125428152!.pdf",]
 title = "JUST AND HUMANE PUBLIC UTILITY VEHICLES MODERNIZATION ACT"
 date_filed = "2019-08-05"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR A JUST AND HUMANE PUBLIC UTILITY VEHICLE (PUV
 scope = "National"
 subjects = [ "Public Utility Vehicles",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-05"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2019"
+date = "2019-08-19"
 
 [[committees]]
 name = "Public Services"

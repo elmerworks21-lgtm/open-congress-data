@@ -1,8 +1,11 @@
 id = "01K67YJ3DYJ0S8JZCCV7SFEKE5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03577"
+
+[meta]
 bill_number = 3577
 congress = 14
-canonical = "SBN-03577"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3577", "https://web.senate.gov.ph/lisdata/1356511973!.pdf",]
 title = "STOCK MARKET COMPETITIVENESS ACT (SMARTCA)"
 date_filed = "2010-02-01"
@@ -10,17 +13,18 @@ long_title = "STOCK MARKET COMPETITIVENESS ACT"
 scope = "National"
 subjects = [ "Stock Market",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2010-02-01"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/2/2010"
+date = "2010-02-02"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

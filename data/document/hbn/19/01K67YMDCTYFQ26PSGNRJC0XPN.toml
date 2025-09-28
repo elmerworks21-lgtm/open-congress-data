@@ -1,24 +1,28 @@
 id = "01K67YMDCTYFQ26PSGNRJC0XPN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08495"
+
+[meta]
 bill_number = 8495
 congress = 19
-canonical = "HBN-08495"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8495", "https://web.senate.gov.ph/lisdata/4248738657!.pdf",]
 title = "STRENGTHENING LOCAL SPORTS PROGRAMS"
 long_title = "AN ACT STRENGTHENING LOCAL SPORTS PROGRAMS TO DEVELOP YOUNG ATHLETES AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Sports Development Program",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-30"
 action = "Read on First Reading and Referred to the Committees on YOUTH; SPORTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2023"
+date = "2023-08-30"
 
 [[committees]]
 name = "Youth"

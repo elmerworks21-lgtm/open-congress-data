@@ -1,8 +1,11 @@
 id = "01K67YJJDKZZMXMXAZNA569CW4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01693"
+
+[meta]
 bill_number = 1693
 congress = 17
-canonical = "SBN-01693"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1693", "https://web.senate.gov.ph/lisdata/2733823570!.pdf",]
 title = "CREATING THE BATAAN HIGH SCHOOL FOR THE ARTS"
 date_filed = "2018-02-13"
@@ -10,29 +13,30 @@ long_title = "AN ACT CREATING THE BATAAN HIGH SCHOOL FOR THE ARTS AND APPROPRIAT
 scope = "National"
 subjects = [ "Schools, Establishment",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-02-13"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-14"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-17"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, WAYS AND MEANS and FINANCE per Committee Report No. 443, recommending that it be considered in HBN-7784;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-18"
 action = "CONSIDERED IN HBN-7784 UNDER COMMITTEE REPORT NO. 443, WHICH BECAME R.A.NO. 11190 ON JANUARY 10, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/18/2018"
+date = "2018-09-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

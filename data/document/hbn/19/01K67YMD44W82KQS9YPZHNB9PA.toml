@@ -1,24 +1,28 @@
 id = "01K67YMD44W82KQS9YPZHNB9PA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06933"
+
+[meta]
 bill_number = 6933
 congress = 19
-canonical = "HBN-06933"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6933", "https://web.senate.gov.ph/lisdata/4273138872!.pdf",]
 title = "PROVINCE OF PAMPANGA AS THE ''CHRISTMAS CAPITAL OF THE PHILIPPINES''"
 long_title = "AN ACT DECLARING THE PROVINCE OF PAMPANGA AS THE ''CHRISTMAS CAPITAL OF THE PHILIPPINES''"
 scope = "Local"
 subjects = [ "Christmas Products", "Christmas Capital of the Philippines",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-19"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-25"
 action = "Read on First Reading and Referred to the Committee on TOURISM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/25/2023"
+date = "2023-09-25"
 
 [[committees]]
 name = "Tourism"

@@ -1,8 +1,11 @@
 id = "01K67YJDF8P11JZE5QAFMNT9HD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01841"
+
+[meta]
 bill_number = 1841
 congress = 16
-canonical = "SBN-01841"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1841", "https://web.senate.gov.ph/lisdata/1804715280!.pdf",]
 title = "ANTI-ANIMAL CRUSH VIDEOS ACT"
 date_filed = "2013-10-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING THE CREATION AND DISTRIBUTION OF ANIMAL CRUSH VI
 scope = "National"
 subjects = [ "Animal Welfare",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-23"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/23/2013"
+date = "2013-10-23"
 
 [[committees]]
 name = "Public Information and Mass Media"

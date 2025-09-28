@@ -1,8 +1,11 @@
 id = "01K67YJZT4A9MBYCKXCPCJ6R16"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00021"
+
+[meta]
 bill_number = 21
 congress = 20
-canonical = "SBN-00021"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-21", "https://web.senate.gov.ph/lisdata/4649542498!.pdf",]
 title = "VAPES AND HTPS REGULATION ACT"
 date_filed = "2025-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE MANUFACTURE, IMPORTATION, SALE, DISTRIBUTION
 scope = "National"
 subjects = [ "Vapes and Htps Regulation", "Vaporized Nicotine Products/Vape",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-02"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Health and Demography"

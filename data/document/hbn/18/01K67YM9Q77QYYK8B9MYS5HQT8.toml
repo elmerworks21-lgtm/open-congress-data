@@ -1,24 +1,28 @@
 id = "01K67YM9Q77QYYK8B9MYS5HQT8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09407"
+
+[meta]
 bill_number = 9407
 congress = 18
-canonical = "HBN-09407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9407", "https://web.senate.gov.ph/lisdata/3523632094!.pdf",]
 title = "RTC (SAN MIGUEL, ZAMBOANGA DEL SUR)"
 long_title = "AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE NINTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF ZAMBOANGA DEL SUR, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(J) OF BATAS PAMBANSA BLG. 129, AS AMENDED, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980'"
 scope = "National"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2021"
+date = "2021-07-28"
 
 [[committees]]
 name = "Justice and Human Rights"

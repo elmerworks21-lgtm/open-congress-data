@@ -1,8 +1,11 @@
 id = "01K67YJWCMY2DME2VQPRJJGFMK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02136"
+
+[meta]
 bill_number = 2136
 congress = 19
-canonical = "SBN-02136"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2136", "https://web.senate.gov.ph/lisdata/4151937865!.pdf",]
 title = "NATIONAL FARMER'S DAY"
 date_filed = "2023-05-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING JANUARY TWENTY-TWO OF EVERY YEAR AS A SPECIAL WOR
 scope = "National"
 subjects = [ "Farmers", "Holidays (Special Working)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-10"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2023"
+date = "2023-05-10"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

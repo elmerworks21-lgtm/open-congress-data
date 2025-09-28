@@ -1,24 +1,28 @@
 id = "01K67YKW5TWZPTE83JWG2E3KQC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04392"
+
+[meta]
 bill_number = 4392
 congress = 14
-canonical = "HBN-04392"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4392", "https://web.senate.gov.ph/lisdata/82477470!.pdf",]
 title = "TOMAS OPPUS PROVINCIAL ROAD (SOUTHERN LEYTE)"
 long_title = "AN ACT CONVERTING THE TOMAS OPPUS PROVINCIAL ROAD IN MAASIN CITY, PROVINCE OF SOUTHERN LEYTE INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-21"
 action = "Filed in the Senate requesting for concurrence by Representative ROGER G. MERCADO, as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2008"
+date = "2008-09-02"
 
 [[committees]]
 name = "Public Works"

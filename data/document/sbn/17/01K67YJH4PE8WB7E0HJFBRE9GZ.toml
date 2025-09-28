@@ -1,8 +1,11 @@
 id = "01K67YJH4PE8WB7E0HJFBRE9GZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00016"
+
+[meta]
 bill_number = 16
 congress = 17
-canonical = "SBN-00016"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-16", "https://web.senate.gov.ph/lisdata/2342920014!.pdf",]
 title = "THE NEW CENTRAL BANK ACT"
 date_filed = "2016-06-30"
@@ -10,41 +13,42 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7653, OTHERWISE KNOWN AS THE NEW 
 scope = "National"
 subjects = [ "New Central Bank Act", "Bangko Sentral Ng Pilipinas (BSP)",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-17"
 action = "Returned and submitted jointly by the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and WAYS AND MEANS per Committee Report No. 26, recommending that it be substituted by SBN-1297;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-23"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-23"
 action = "SUBSTITUTED BY SBN-1297 UNDER COMMITTEE REPORT NO. 26, WHICH BECAME R.A.NO. 11211 ON FEBRUARY 14, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/23/2017"
+date = "2017-01-23"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

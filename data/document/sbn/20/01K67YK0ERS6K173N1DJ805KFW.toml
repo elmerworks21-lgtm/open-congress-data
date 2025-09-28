@@ -1,8 +1,11 @@
 id = "01K67YK0ERS6K173N1DJ805KFW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01110"
+
+[meta]
 bill_number = 1110
 congress = 20
-canonical = "SBN-01110"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1110", "https://web.senate.gov.ph/lisdata/4764443661!.pdf",]
 title = "BILL OR RIGHTS OF PASSENGERS OF TAXIS, TOURIST CAR TRANSPORT SERVICES AND OTHER VECHICLES FOR HIRE"
 date_filed = "2025-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE RIGHTS OF PASSENGERS OF TAXIS, TOURIST CAR
 scope = "National"
 subjects = [ "Rights of Passengers of Transport Services for Hire",]
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator WIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Public Services"

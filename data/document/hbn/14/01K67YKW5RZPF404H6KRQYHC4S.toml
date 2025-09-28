@@ -1,24 +1,28 @@
 id = "01K67YKW5RZPF404H6KRQYHC4S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04388"
+
+[meta]
 bill_number = 4388
 congress = 14
-canonical = "HBN-04388"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4388", "https://web.senate.gov.ph/lisdata/82407466!.pdf",]
 title = "TAGUIMA - PAN-AY DIOT PROVINCIAL ROAD"
 long_title = "AN ACT CONVERTING THE TAGUIMA - PAN-AY DIOT PROVINCIAL ROAD IN THE MUNICIPALITY OF TUDELA, PROVINCE OF MISAMIS OCCIDENTAL INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-21"
 action = "Filed in the Senate requesting for concurrence by Representative HERMINIA M. RAMIRO, as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2008"
+date = "2008-09-02"
 
 [[committees]]
 name = "Public Works"

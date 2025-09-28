@@ -1,24 +1,28 @@
 id = "01K67YM9BAEC1EEDG8KZCX0BNA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07725"
+
+[meta]
 bill_number = 7725
 congress = 18
-canonical = "HBN-07725"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7725", "https://web.senate.gov.ph/lisdata/3518632060!.pdf",]
 title = "PARKING OPERATIONS AND FEES REGULATION ACT"
 long_title = "AN ACT REGULATING THE OPERATIONS AND IMPOSITION OF FEES FOR THE USE OF PARKING SPACES AND PARKING FACILITIES IN VARIOUS ESTABLISHMENTS SUCH AS TO ACCOMMODATION, COMMERCIAL SERVICES, FOOD SERVICES, HEALTH SERVICES, RETAIL SERVICES, EDUCATIONAL INSTITUTIONS INCLUDING INDEPENDENT PARKING ENTERPRISES AND PRESCRIBING PENALTIES FOR VIOLATIONS THEREOF"
 scope = "National"
 subjects = [ "Parking Operations and Fees Regulation",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-03"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/3/2021"
+date = "2021-06-03"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,25 +1,29 @@
 id = "01K67YJ29RNZ5TNZEQ580MYQ99"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02052"
+
+[meta]
 bill_number = 2052
 congress = 14
-canonical = "SBN-02052"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2052", "https://web.senate.gov.ph/lisdata/67876016!.pdf",]
 title = "ACADEMIC HONESTY ACT OF 2008"
 date_filed = "2008-02-05"
 long_title = "AN ACT PROHIBITING THE UNLAWFUL SALE AND PURCHASE OF DISSERTATIONS, THESES, TERM PAPERS, ESSAYS, REPORTS, OR ANY OTHER ASSIGNMENTS"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-05"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-05"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2008"
+date = "2008-02-05"
 
 [[committees]]
 name = "Education, Arts and Culture"

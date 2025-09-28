@@ -1,18 +1,22 @@
 id = "01K67YMDXSEESW9A9REH7HT6Q3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11382"
+
+[meta]
 bill_number = 11382
 congress = 19
-canonical = "HBN-11382"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11382", "https://web.senate.gov.ph/lisdata/4639342395!.pdf",]
 title = "MTC IN THE ELEVENTH JUDICIAL REGION (KORONADAL, SOUTH COTABATO)"
 long_title = "AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COURT IN CITIES IN THE ELEVENTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF KORONADAL, PROVINCE OF SOUTH COTABATO, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED"
 scope = "Local"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-06-09"
 action = "Sent to the Senate requesting for concurrence;"
 
 [[status]]
 status = "Pending First Reading"
-date = "6/9/2025"
+date = "2025-06-09"
 

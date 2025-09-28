@@ -1,8 +1,11 @@
 id = "01K67YJ2D7PTHTMXV5KJD5SJ7N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02205"
+
+[meta]
 bill_number = 2205
 congress = 14
-canonical = "SBN-02205"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2205", "https://web.senate.gov.ph/lisdata/71816411!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSION AND LABOR ARBITERS"
 date_filed = "2008-04-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING RELIEFS FROM AN EXECUTION OF FINAL DECISIONS 
 scope = "National"
 subjects = [ "Labor Arbiters", "National Labor Relations Commission (NLRC)", "Labor Code (Article 223 and 224, Pd 442)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-28"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-29"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/29/2008"
+date = "2008-04-29"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

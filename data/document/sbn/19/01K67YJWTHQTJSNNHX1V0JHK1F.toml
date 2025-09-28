@@ -1,8 +1,11 @@
 id = "01K67YJWTHQTJSNNHX1V0JHK1F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02672"
+
+[meta]
 bill_number = 2672
 congress = 19
-canonical = "SBN-02672"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2672", "https://web.senate.gov.ph/lisdata/4408740063!.pdf",]
 title = "QUANTITATIVE IMPORT RESTRICTION ON RICE (AMENDMENTS)"
 date_filed = "2024-05-15"
@@ -10,37 +13,38 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11203 OR 'AN ACT LIBERALIZING THE
 scope = "National"
 subjects = [ "Rice Importation/Rice Import Duty", "National Food Authority (NFA)", "Quantitative Import Restrictions",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-15"
 action = "Introduced by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-15"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-06-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "Returned and submitted jointly by the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM, FINANCE, PUBLIC INFORMATION AND MASS MEDIA and WAYS AND MEANS per Committee Report No. 282, recommending that it be substituted by SBN-2779;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "SUBSTITUTED BY SBN-2779 UNDER COMMITTEE REPORT NO. 282."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/13/2024"
+date = "2024-08-13"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

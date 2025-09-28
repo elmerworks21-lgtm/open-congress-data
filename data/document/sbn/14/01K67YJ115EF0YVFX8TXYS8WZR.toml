@@ -1,8 +1,11 @@
 id = "01K67YJ115EF0YVFX8TXYS8WZR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00442"
+
+[meta]
 bill_number = 442
 congress = 14
-canonical = "SBN-00442"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-442", "https://web.senate.gov.ph/lisdata/46203970!.pdf",]
 title = "NATIONAL PEACE POLICY ACT OF 2007"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING A NATIONAL PEACE POLICY THEREBY CREATING A COMMIS
 scope = "National"
 subjects = [ "National Peace Policy", "Commission on Peace",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on PEACE, UNIFICATION AND RECONCILIATION; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Peace, Unification and Reconciliation"

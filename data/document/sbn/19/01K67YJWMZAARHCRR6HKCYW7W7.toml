@@ -1,8 +1,11 @@
 id = "01K67YJWMZAARHCRR6HKCYW7W7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02468"
+
+[meta]
 bill_number = 2468
 congress = 19
-canonical = "SBN-02468"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2468", "https://web.senate.gov.ph/lisdata/4287538997!.pdf",]
 title = "DEPARTMENT OF ECONOMIC PLANNING AND DEVELOPMENT"
 date_filed = "2023-10-18"
@@ -10,37 +13,38 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF ECONOMIC PLANNING AND DEVELOPMEN
 scope = "National"
 subjects = [ "Department of Economic Planning and Development",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-10-18"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-07"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-14"
 action = "Returned and submitted jointly by the Committees on ECONOMIC AFFAIRS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 346, recommending that it be substituted by SBN-2878;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-25"
 action = "SUBSTITUTED BY SBN-2878 UNDER COMMITTEE REPORT NO. 346 WHICH BECAME REPUBLIC ACT NO. 12145 ON APRIL 10, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/25/2024"
+date = "2024-11-25"
 
 [[committees]]
 name = "Economic Affairs"

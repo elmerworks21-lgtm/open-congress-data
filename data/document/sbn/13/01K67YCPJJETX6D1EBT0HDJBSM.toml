@@ -1,8 +1,11 @@
 id = "01K67YCPJJETX6D1EBT0HDJBSM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02079"
+
+[meta]
 bill_number = 2079
 congress = 13
-canonical = "SBN-02079"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2079", "https://web.senate.gov.ph/lisdata/36983296!.pdf",]
 title = "PROHIBITING CANDIDATES FROM ACCEPTING ILLEGAL/JUETENG MONEY"
 date_filed = "2005-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING CANDIDATES, POLITICAL PARTIES AND PARTY-LIST GR
 scope = "National"
 subjects = [ "Jueteng", "Illegal Gambling",]
 authors_raw = "Lim, Alfredo S."
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-10"
 action = "Introduced by Senator ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-15"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2005"
+date = "2005-08-15"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

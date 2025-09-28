@@ -1,8 +1,11 @@
 id = "01K67YJ0R6115BB4CJC49AY380"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00041"
+
+[meta]
 bill_number = 41
 congress = 14
-canonical = "SBN-00041"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-41", "https://web.senate.gov.ph/lisdata/40893481!.pdf",]
 title = "SECRECY OF BANK DEPOSIT LAW, AMENDMENTS"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO AMEND SECTION 2 OF REPUBLIC ACT NO. 1405 OTHERWISE KNOWN
 scope = "National"
 subjects = [ "Bank Secrecy", "Secrecy of Bank Deposit (RA 1405)", "Government Officials and Employees",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-24"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2007"
+date = "2007-07-24"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

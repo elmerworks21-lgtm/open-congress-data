@@ -1,8 +1,11 @@
 id = "01K67YJCPQ9C4NHQHBXKKBB33P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00653"
+
+[meta]
 bill_number = 653
 congress = 16
-canonical = "SBN-00653"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-653", "https://web.senate.gov.ph/lisdata/1658613824!.pdf",]
 title = "INFANT MORTALITY INITIATIVE ACT OF 2013"
 date_filed = "2013-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH AN INFANT MORTALITY PROGRAM TO REDUCE THE RATE
 scope = "National"
 subjects = [ "Infant Mortality Program",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Health and Demography"

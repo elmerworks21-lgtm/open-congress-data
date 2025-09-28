@@ -1,8 +1,11 @@
 id = "01K67YK01JRR96SHA3T6Y9K16K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00407"
+
+[meta]
 bill_number = 407
 congress = 20
-canonical = "SBN-00407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-407", "https://web.senate.gov.ph/lisdata/4689942905!.pdf",]
 title = "NATIONAL ATHLETES AND COACHES BENEFITS AND INCENTIVES ACT"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 8 OF REPUBLIC ACT NO. 10699, ENTITLED 'THE
 scope = "National"
 subjects = [ "National Athletes and Coaches Benefits and Incentives Act (R.A. No. 10699)",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on SPORTS; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Sports"

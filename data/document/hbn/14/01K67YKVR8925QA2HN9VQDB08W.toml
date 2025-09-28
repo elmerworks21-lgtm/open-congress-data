@@ -1,24 +1,28 @@
 id = "01K67YKVR8925QA2HN9VQDB08W"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02215"
+
+[meta]
 bill_number = 2215
 congress = 14
-canonical = "HBN-02215"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-2215", "https://web.senate.gov.ph/lisdata/111929907!.pdf",]
 title = "ECOTOURISM ZONE (MALAPASCUA, PROVINCE OF CEBU)"
 long_title = "AN ACT DECLARING THE ISLAND OF MALAPASCUA, PROVINCE OF CEBU AS AN ECOTOURISM ZONE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Ecotourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-12"
 action = "Filed in the Senate requesting for concurrence by Representatives BENHUR L. SALIMBANGON and GILBERTO C. TEODORO JR., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2009"
+date = "2009-05-13"
 
 [[committees]]
 name = "Environment and Natural Resources"

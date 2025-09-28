@@ -1,25 +1,29 @@
 id = "01K67YJ1NRG1GEPP4GZ2JR6MN4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01449"
+
+[meta]
 bill_number = 1449
 congress = 14
-canonical = "SBN-01449"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1449", "https://web.senate.gov.ph/lisdata/57555116!.pdf",]
 title = "DELETING CONFIRMATION REQUIREMENT FOR FOREIGN SERVICE OFFICERS (LATERAL ENTRY)"
 date_filed = "2007-08-14"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7157, OTHERWISE KNOWN AS THE ‘PHILIPPINE FOREIGN SERVICE ACT OF 1991,’ TITLE III, SECTION 30, BY DELETING THE REQUIREMENT OF CONFIRMATION BY THE COMMISSION ON APPOINTMENT OF FOREIGN SERVICE OFFICERS WHO JOIN THE FOREIGN SERVICE THROUGH LATERAL ENTRY"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-08-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-17"
 action = "Read on First Reading and Referred to the Committee on FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2007"
+date = "2007-09-17"
 
 [[committees]]
 name = "Foreign Relations"

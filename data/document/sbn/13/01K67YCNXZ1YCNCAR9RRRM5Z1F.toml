@@ -1,8 +1,11 @@
 id = "01K67YCNXZ1YCNCAR9RRRM5Z1F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01009"
+
+[meta]
 bill_number = 1009
 congress = 13
-canonical = "SBN-01009"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1009", "https://web.senate.gov.ph/lisdata/22171286!.pdf",]
 title = "CHILDREN'S MEDIA PROTECTION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT LIMITING EXPOSURE OF CHILDREN TO VIOLENT PROGRAMMING ON TEL
 scope = "National"
 subjects = [ "Children`S Media Protection Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Public Information and Mass Media"

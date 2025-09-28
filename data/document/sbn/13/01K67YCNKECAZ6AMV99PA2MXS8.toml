@@ -1,8 +1,11 @@
 id = "01K67YCNKECAZ6AMV99PA2MXS8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00422"
+
+[meta]
 bill_number = 422
 congress = 13
-canonical = "SBN-00422"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-422", "https://web.senate.gov.ph/lisdata/1578880!.pdf",]
 title = "COMPULSORY REGISTRATION OF HEAVY EQUIPMENT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE COMPULSORY REGISTRATION OF HEAVY EQUIPMEN
 scope = "National"
 subjects = [ "Heavy Equipment Compulsory Registration",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC WORKS; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Public Works"

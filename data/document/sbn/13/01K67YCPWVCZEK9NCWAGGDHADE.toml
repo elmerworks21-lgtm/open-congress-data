@@ -1,8 +1,11 @@
 id = "01K67YCPWVCZEK9NCWAGGDHADE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02588"
+
+[meta]
 bill_number = 2588
 congress = 13
-canonical = "SBN-02588"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2588", "https://web.senate.gov.ph/lisdata/68335593!.pdf",]
 title = "ANTI-CHILD PORNOGRAPHY ACT"
 date_filed = "2007-01-31"
@@ -10,45 +13,46 @@ long_title = "AN ACT PROHIBITING CHILD PORNOGRAPHY, IMPOSING PENALTIES FOR THE C
 scope = "National"
 subjects = [ "Anti-Child Pornography", "Children/Youth (Internet Pornography)",]
 authors_raw = "Madrigal, M. A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-31"
 action = "Introduced by Senator M. A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-06"
 action = "Referred primarily to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS on motion of Senator Pangilinan;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "Returned by the Committee on Youth, Women and Family Relations per Committee Report No. 259, recommending its approval without amendment, taking into consideration SRN-92;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "Sponsor: Senator M. A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Assigned for consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Sponsorship speech of Senator(s) M. A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Senator Revilla, Jr. was made as coauthor;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/8/2007"
+date = "2007-02-08"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

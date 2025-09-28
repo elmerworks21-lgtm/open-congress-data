@@ -1,8 +1,11 @@
 id = "01K67YCNNY32QF5FQPS8A05B7Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00561"
+
+[meta]
 bill_number = 561
 congress = 13
-canonical = "SBN-00561"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-561", "https://web.senate.gov.ph/lisdata/17171070!.pdf",]
 title = "PHIL. CENTER FOR STUDIES ON INDIGENOUS CULTURAL COMMUNITIES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AND ESTABLISHING THE CENTER FOR STUDIES ON INDIGEN
 scope = "National"
 subjects = [ "Center for Studies on Indigenous Com.", "University of the Phil. (U.P.)", "Cultural Communities",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-11"
 action = "Read on First Reading and referred to the Committee(s) on CULTURAL COMMUNITIES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2004"
+date = "2004-08-11"
 
 [[committees]]
 name = "Cultural Communities"

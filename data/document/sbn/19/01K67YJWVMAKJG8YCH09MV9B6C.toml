@@ -1,8 +1,11 @@
 id = "01K67YJWVMAKJG8YCH09MV9B6C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02719"
+
+[meta]
 bill_number = 2719
 congress = 19
-canonical = "SBN-02719"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2719", "https://web.senate.gov.ph/lisdata/4428740244!.pdf",]
 title = "EXEMPTING BIR FROM R.A. NO. 6758 (THE COMPENSATION AND POSITION CLASSIFICATION ACT OF 1989)"
 date_filed = "2024-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING THE BUREAU OF INTERNAL REVENUE FROM THE COVERAGE 
 scope = "National"
 subjects = [ "Bureau of Internal Revenue (BIR)", "Compensation and Position Classification System", "Salary Standardization",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-03"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Read on First Reading and Referred to the Committees on WAYS AND MEANS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2024"
+date = "2024-07-30"
 
 [[committees]]
 name = "Ways and Means"

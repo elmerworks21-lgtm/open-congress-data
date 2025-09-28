@@ -1,8 +1,11 @@
 id = "01K67YJ2CNPM3NSVV7PSA0BMHS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02180"
+
+[meta]
 bill_number = 2180
 congress = 14
-canonical = "SBN-02180"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2180", "https://web.senate.gov.ph/lisdata/71366370!.pdf",]
 title = "ANTI CABLE TELEVISION AND CABLE INTERNET PILFERAGE ACT OF 2008"
 date_filed = "2008-04-21"
@@ -10,45 +13,46 @@ long_title = "AN ACT PROHIBITING AND PENALIZING THE PILFERAGE AND THEFT, UNAUTHO
 scope = "National"
 subjects = [ "Cable Television",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-21"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-22"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-05"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-11"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA and JUSTICE AND HUMAN RIGHTS per Committee Report No. 742, recommending that it be substituted by SBN-3530;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-11"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-11"
 action = "SUBSTITUTED BY SBN-3530."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/11/2009"
+date = "2009-11-11"
 
 [[committees]]
 name = "Public Information and Mass Media"

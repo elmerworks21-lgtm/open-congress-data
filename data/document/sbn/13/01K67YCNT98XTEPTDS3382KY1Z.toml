@@ -1,8 +1,11 @@
 id = "01K67YCNT98XTEPTDS3382KY1Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00810"
+
+[meta]
 bill_number = 810
 congress = 13
-canonical = "SBN-00810"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-810", "https://web.senate.gov.ph/lisdata/20061460!.pdf",]
 title = "ALLOWING MARRIED/LEGALLY SEPARATED WOMEN TO USE MAIDEN NAME"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOWING MARRIED OR LEGALLY SEPARATED WOMEN TO USE THEIR MA
 scope = "National"
 subjects = [ "Women (Married/Legally Separated)", "Family Code (Use of Maiden Name; Women)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

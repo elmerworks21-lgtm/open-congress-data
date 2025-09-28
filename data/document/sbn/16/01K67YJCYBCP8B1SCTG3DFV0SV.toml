@@ -1,8 +1,11 @@
 id = "01K67YJCYBCP8B1SCTG3DFV0SV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01021"
+
+[meta]
 bill_number = 1021
 congress = 16
-canonical = "SBN-01021"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1021", "https://web.senate.gov.ph/lisdata/1701514356!.pdf",]
 title = "INSTITUTIONALIZED PERSONS PROTECTION ACT OF 2013"
 date_filed = "2013-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING WHO ARE INSTITUTIONALIZED PERSONS AND PENALIZING T
 scope = "National"
 subjects = [ "Institutionalized Persons",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-22"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

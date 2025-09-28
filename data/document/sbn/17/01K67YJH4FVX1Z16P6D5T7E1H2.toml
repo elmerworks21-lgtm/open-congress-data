@@ -1,8 +1,11 @@
 id = "01K67YJH4FVX1Z16P6D5T7E1H2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00010"
+
+[meta]
 bill_number = 10
 congress = 17
-canonical = "SBN-00010"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-10", "https://web.senate.gov.ph/lisdata/2342320008!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE OF 1997"
 date_filed = "2016-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING TAX RELIEF TO PUBLIC SCHOOL TEACHERS BY EXEMPTING
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Tax Exemption", "Teachers",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/26/2016"
+date = "2016-07-26"
 
 [[committees]]
 name = "Ways and Means"

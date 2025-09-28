@@ -1,8 +1,11 @@
 id = "01K67YJQNBJH57C4TX2TYHCT9R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01823"
+
+[meta]
 bill_number = 1823
 congress = 18
-canonical = "SBN-01823"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1823", "https://web.senate.gov.ph/lisdata/3351130338!.pdf",]
 title = "SAN MIGUEL AEROCITY INC."
 date_filed = "2020-09-14"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING SAN MIGUEL AEROCITY INC. A FRANCHISE TO CONSTRUCT,
 scope = "Local"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-14"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-15"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-29"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC SERVICES and WAYS AND MEANS per Committee Report No. 128, recommending that it be considered in HBN-7507;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-29"
 action = "CONSIDERED IN HBN-7507 UNDER COMMITTEE REPORT NO. 128."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/29/2020"
+date = "2020-09-29"
 
 [[committees]]
 name = "Public Services"

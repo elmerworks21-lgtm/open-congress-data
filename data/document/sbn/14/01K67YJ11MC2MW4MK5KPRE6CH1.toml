@@ -1,8 +1,11 @@
 id = "01K67YJ11MC2MW4MK5KPRE6CH1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00464"
+
+[meta]
 bill_number = 464
 congress = 14
-canonical = "SBN-00464"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-464", "https://web.senate.gov.ph/lisdata/46693993!.pdf",]
 title = "SYSTEM OF REGISTRATION AND AUTHENTICATION OF CULTURAL PROPERTIES BY THE NATIONAL MUSEUM"
 date_filed = "2007-07-02"
@@ -10,37 +13,38 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED FORTY EI
 scope = "National"
 subjects = [ "Cultural Properties Preservation and Protection (RA 4846)", "National Museum",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, FINANCE, FOREIGN RELATIONS, URBAN PLANNING, HOUSING AND RESETTLEMENT and WAYS AND MEANS per Committee Report No. 244, recommending that it be substituted by SBN-3014;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "SUBSTITUTED BY SBN-3014, WHICH BECAME R.A.NO. 10066."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/26/2009"
+date = "2009-01-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

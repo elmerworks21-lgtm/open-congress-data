@@ -1,48 +1,52 @@
 id = "01K67YM2XVN9S4WRCJMT710N37"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05014"
+
+[meta]
 bill_number = 5014
 congress = 16
-canonical = "HBN-05014"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5014", "https://web.senate.gov.ph/lisdata/2004717163!.pdf",]
 title = "METALLURGICAL ENGINEERING ACT"
 long_title = "AN ACT REGULATING THE PRACTICE OF METALLURGICAL ENGINEERING IN THE PHILIPPINES, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1536, OTHERWISE KNOWN AS THE METALLURGICAL ENGINEERING LAW OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Metallurgical Engineering",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-11-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-11-18"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-17"
 action = "House of Representatives adopted SBN-2103 as an amendment to HBN-5014 on August 10, 2015;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-09"
 action = "Enrolled copies of the consolidated version of SBN-2103 and HBN-5014, sent to the House of Representatives for the signature of the Speaker and the Secretary General;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-16"
 action = "Enrolled copies of SBN-2103 which was adopted as an amendment to HBN-5014 received by the Senate which were signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-21"
 action = "Enrolled copies of the consolidated version of SBN-2103 and HBN-5014, sent to the Office of the President of the Philippines, through PLLO, for the signature and approval of His Excellency, President Benigno S. Aquino III;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-23"
 action = "Consolidated with SBN-2103 which was Approved and Signed into Law by the President of the Philippines, His Excellency President Benigno S. Aquino III on October 20, 2015 and became;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-23"
 action = "REPUBLIC ACT NO. 10688."
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "10/20/2015"
+date = "2015-10-20"
 
 [[committees]]
 name = "Rules"

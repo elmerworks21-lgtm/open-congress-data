@@ -1,8 +1,11 @@
 id = "01K67YJJNKF6E90KARQWM21EEJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02018"
+
+[meta]
 bill_number = 2018
 congress = 17
-canonical = "SBN-02018"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2018", "https://web.senate.gov.ph/lisdata/2866225115!.pdf",]
 title = "AMENDING SEC.3 OF R.A. NO. 6552 ( REALTY INSTALLMENT BUYER PROTECTION ACT)"
 date_filed = "2018-09-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT CLARIFYING THE RIGHTS OF BUYERS ENTITLED TO RECEIVE REFUND 
 scope = "National"
 subjects = [ "Real Property", "Realty Installment Buyer Protection Act (R.A.No. 6552)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2018-09-19"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-24"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/24/2018"
+date = "2018-09-24"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

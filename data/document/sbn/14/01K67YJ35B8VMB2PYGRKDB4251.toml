@@ -1,8 +1,11 @@
 id = "01K67YJ35B8VMB2PYGRKDB4251"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03272"
+
+[meta]
 bill_number = 3272
 congress = 14
-canonical = "SBN-03272"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3272", "https://web.senate.gov.ph/lisdata/113369999!.pdf",]
 title = "HEALTH INFORMATION TECHNOLOGY (HIT) ACT OF 2009"
 date_filed = "2009-05-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING THE MECHANISMS FOR THE PROMOTION AND UTILIZATIO
 scope = "National"
 subjects = [ "Healthcare Services/Health Care Delivery System", "Health Information Technology (HIT)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-25"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-25"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/25/2009"
+date = "2009-05-25"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJR9SYC4QCSX0WWY4FJPB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02467"
+
+[meta]
 bill_number = 2467
 congress = 18
-canonical = "SBN-02467"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2467", "https://web.senate.gov.ph/lisdata/3683933216!.pdf",]
 title = "MEDIA AND ENTERTAINMENT WORKERS' WELFARE ACT"
 date_filed = "2021-12-15"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING ENHANCED PROTECTION, SECURITY AND BENEFITS FOR ME
 scope = "National"
 subjects = [ "Media Practitioners",]
 authors_raw = "Sotto III, Vicente C., Revilla Jr., Ramon Bong, Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-15"
 action = "Prepared and submitted jointly by the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and PUBLIC INFORMATION AND MASS MEDIA with Senators VICENTE C. SOTTO III, RAMON BONG REVILLA JR. and JOEL VILLANUEVA as authors per Committee Report No. 405, recommending its approval in substitution of SBNos. 1820, and 2021, taking into consideration HBN-8140;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Sponsor: Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Sponsorship speech delivered by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Co-sponsorship speech of Senator RAMON BONG REVILLA JR.;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "12/15/2021"
+date = "2021-12-15"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

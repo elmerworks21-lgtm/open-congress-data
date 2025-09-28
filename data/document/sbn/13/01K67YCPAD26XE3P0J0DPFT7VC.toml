@@ -1,8 +1,11 @@
 id = "01K67YCPAD26XE3P0J0DPFT7VC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01690"
+
+[meta]
 bill_number = 1690
 congress = 13
-canonical = "SBN-01690"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1690", "https://web.senate.gov.ph/lisdata/29372474!.pdf",]
 title = "IMPORTED PRODUCE LABELING ACT"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE COUNTRY OF ORIGIN LABELING OF PERISHABLE AGRICUL
 scope = "National"
 subjects = [ "Imported Produce Labeling Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Agriculture and Food"

@@ -1,8 +1,11 @@
 id = "01K67YJ7DTPNWC7YDRFCMVWHQ9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00315"
+
+[meta]
 bill_number = 315
 congress = 15
-canonical = "SBN-00315"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-315", "https://web.senate.gov.ph/lisdata/76996424!.pdf",]
 title = "PHILIPPINE NATIONAL MARITIME MUSEUM ACT"
 date_filed = "2010-07-06"
@@ -10,25 +13,26 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE NATIONAL MARITIME MUSEUM, APPRO
 scope = "National"
 subjects = [ "Philippine National Maritime Museum",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-02-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2010"
+date = "2010-08-03"
 
 [[committees]]
 name = "Education, Arts and Culture"

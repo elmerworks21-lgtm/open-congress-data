@@ -1,8 +1,11 @@
 id = "01K67YCPSA4XBYH1W4TPB9H36H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02430"
+
+[meta]
 bill_number = 2430
 congress = 13
-canonical = "SBN-02430"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2430", "https://web.senate.gov.ph/lisdata/57374736!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS REPATRIATION FUND"
 date_filed = "2006-08-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE MIGR
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFWS)", "Repatriation Fund (OFWS)",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2006-08-02"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2006"
+date = "2006-08-02"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

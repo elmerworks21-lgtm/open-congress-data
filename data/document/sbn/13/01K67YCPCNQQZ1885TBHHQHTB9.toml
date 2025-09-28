@@ -1,8 +1,11 @@
 id = "01K67YCPCNQQZ1885TBHHQHTB9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01808"
+
+[meta]
 bill_number = 1808
 congress = 13
-canonical = "SBN-01808"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1808", "https://web.senate.gov.ph/lisdata/30312207!.pdf",]
 title = "BUILDERS AND CONTRACTORS OF BOT PROJECTS COMPENSATION SYSTEM"
 date_filed = "2004-09-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A SYSTEM OF COMPENSATION TO BUILDERS AND CONT
 scope = "National"
 subjects = [ "Builders/Contractors (Bot Projects)", "Build-Operate-Transfer (BOT)",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-23"
 action = "Introduced by Senator MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-25"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/25/2004"
+date = "2004-10-25"
 
 [[committees]]
 name = "Public Works"

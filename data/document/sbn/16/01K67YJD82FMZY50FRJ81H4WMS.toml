@@ -1,8 +1,11 @@
 id = "01K67YJD82FMZY50FRJ81H4WMS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01497"
+
+[meta]
 bill_number = 1497
 congress = 16
-canonical = "SBN-01497"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1497", "https://web.senate.gov.ph/lisdata/1759514829!.pdf",]
 title = "IDENTITY OF HIRED FOREIGN CONSULTANTS"
 date_filed = "2013-09-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT REQUIRING ALL BRANCHES, SUBDIVISIONS, INSTRUMENTALITIES, AN
 scope = "National"
 subjects = [ "Government-Owned And-Controlled Corporations (GOCC)", "Foreign Consultants", "Government Agencies",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-04"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-09"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2013"
+date = "2013-09-09"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

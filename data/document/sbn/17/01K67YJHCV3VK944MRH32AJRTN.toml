@@ -1,8 +1,11 @@
 id = "01K67YJHCV3VK944MRH32AJRTN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00369"
+
+[meta]
 bill_number = 369
 congress = 17
-canonical = "SBN-00369"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-369", "https://web.senate.gov.ph/lisdata/2380720470!.pdf",]
 title = "CRIMINAL INVESTIGATION ACT OF 2016"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING A CRIMINAL INVESTIGATION SYSTEM, REPEALI
 scope = "National"
 subjects = [ "Preliminary Investigation",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Justice and Human Rights"

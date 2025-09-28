@@ -1,8 +1,11 @@
 id = "01K67YJPD18Q61G3QCPFGN87QX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00036"
+
+[meta]
 bill_number = 36
 congress = 18
-canonical = "SBN-00036"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-36", "https://web.senate.gov.ph/lisdata/3025227085!.pdf",]
 title = "RAINWATER RUNOFF"
 date_filed = "2019-07-01"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR THE MANAGEMENT, CONTROL, REGULATION, AND UTIL
 scope = "National"
 subjects = [ "Rainwater", "Water Resources Management", "Water/Water Supply",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-11-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Public Works"

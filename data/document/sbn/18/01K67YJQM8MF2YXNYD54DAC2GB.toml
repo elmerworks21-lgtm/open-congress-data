@@ -1,8 +1,11 @@
 id = "01K67YJQM8MF2YXNYD54DAC2GB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01778"
+
+[meta]
 bill_number = 1778
 congress = 18
-canonical = "SBN-01778"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1778", "https://web.senate.gov.ph/lisdata/3334430181!.pdf",]
 title = "ENHANCING THE REGULATION ON EMPLOYMENT OF FOREIGN NATIONALS"
 date_filed = "2020-08-19"
@@ -10,37 +13,38 @@ long_title = "AN ACT ENHANCING THE REGULATION ON EMPLOYMENT OF FOREIGN NATIONALS
 scope = "National"
 subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Foreigners/Alien",]
 authors_raw = "Villanueva, Joel, Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2020-08-19"
 action = "Introduced by Senators JOEL VILLANUEVA and RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-19"
 action = "Returned and submitted by the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT per Committee Report No. 105, recommending its approval in substitution of SBNos. 343 and 458;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-24"
 action = "Sponsor: Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-25"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-25"
 action = "Sponsorship speech of Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-25"
 action = "Co-sponsorship speech of Senator RAMON BONG REVILLA JR.;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "8/25/2020"
+date = "2020-08-25"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

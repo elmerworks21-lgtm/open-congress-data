@@ -1,8 +1,11 @@
 id = "01K67YK0C2T6GNVKKWS4H6YZXG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00969"
+
+[meta]
 bill_number = 969
 congress = 20
-canonical = "SBN-00969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-969", "https://web.senate.gov.ph/lisdata/4748443488!.pdf",]
 title = "ESTABLISHING GREATER RESPONSIBILITY AND ACCOUNTABILITY FROM PRIVATE EMPLOYMENT AGENCIES"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING GREATER RESPONSIBILITY AND ACCOUNTABILITY FROM
 scope = "National"
 subjects = [ "Batas Kasambahay (R.A.No. 10361)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

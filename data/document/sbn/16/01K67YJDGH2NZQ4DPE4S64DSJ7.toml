@@ -1,8 +1,11 @@
 id = "01K67YJDGH2NZQ4DPE4S64DSJ7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01908"
+
+[meta]
 bill_number = 1908
 congress = 16
-canonical = "SBN-01908"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1908", "https://web.senate.gov.ph/lisdata/1822815418!.pdf",]
 title = "HOLIDAY: CHINESE NEW YEAR"
 date_filed = "2013-11-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE CHINESE NEW YEAR A SPECIAL NON-WORKING PUBLIC
 scope = "National"
 subjects = [ "Holidays (Non-Working)", "Chinese New Year",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-07"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-11-25"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2013"
+date = "2013-11-25"
 
 [[committees]]
 name = "Education, Arts and Culture"

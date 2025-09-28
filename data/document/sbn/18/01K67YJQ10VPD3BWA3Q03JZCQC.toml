@@ -1,8 +1,11 @@
 id = "01K67YJQ10VPD3BWA3Q03JZCQC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00952"
+
+[meta]
 bill_number = 952
 congress = 18
-canonical = "SBN-00952"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-952", "https://web.senate.gov.ph/lisdata/3134828243!.pdf",]
 title = "AMENDING R.A. NO. 7743 (ESTABLISHMENT OF LIBRARIES AND BARANGAY READING CENTERS)"
 date_filed = "2019-08-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7743, OTHERWISE KNOWN AS ‘AN AC
 scope = "National"
 subjects = [ "Library", "District Library", "Barangay Reading Centers",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-20"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-27"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2019"
+date = "2019-08-27"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YK0BHC42ZY4VK4N4VC472"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00941"
+
+[meta]
 bill_number = 941
 congress = 20
-canonical = "SBN-00941"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-941", "https://web.senate.gov.ph/lisdata/4755643563!.pdf",]
 title = "AMENDING R.A. NO. 6727 (WAGE RATIONALIZATION ACT)"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE INSPECTION FUNCTION OF THE DEPARTMENT OF 
 scope = "National"
 subjects = [ "Wage", "Wage Rationalization", "Department of Labor and Employment (DOLE)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

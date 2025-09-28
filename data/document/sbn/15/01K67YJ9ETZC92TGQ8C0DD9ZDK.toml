@@ -1,8 +1,11 @@
 id = "01K67YJ9ETZC92TGQ8C0DD9ZDK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03064"
+
+[meta]
 bill_number = 3064
 congress = 15
-canonical = "SBN-03064"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3064", "https://web.senate.gov.ph/lisdata/1248210495!.pdf",]
 title = "PREVENTIVE IMPRISONMENT"
 date_filed = "2011-11-17"
@@ -10,105 +13,106 @@ long_title = "AN ACT AMENDING ARTICLES 29, 94, 97, 98 AND 99 OF ACT NO. 3815, AS
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815", "Amendments)",]
 authors_raw = "Honasan II, Gregorio B., Villar, Manny B., Escudero, Francis \"Chiz\" G., Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2011-11-17"
 action = "Prepared and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS with Senator(s) GREGORIO B. HONASAN II, MANNY B. VILLAR, FRANCIS 'CHIZ' G. ESCUDERO and MIRIAM DEFENSOR SANTIAGO as author(s) per Committee Report No. 82, recommending its approval in substitution of SBNos. 116, 1151, 1295, 2115, 2363, 2374, 2423 and 2462, taking into consideration HBN-417;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-21"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-15"
 action = "Motion of Senator Escudero to consolidate HBN-1219 to SBN-3064 per Committee Report No. 82;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-15"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-15"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Interpellation of Senator(s) MIRIAM DEFENSOR SANTIAGO, and ARROYO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-17"
 action = "Period of committee amendment closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-17"
 action = "Period of individual amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-17"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-17"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-23"
 action = "Printed copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-05"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-05"
 action = "In favor: (17) EDGARDO J. ANGARA, JOKER P. ARROYO, MIRIAM DEFENSOR SANTIAGO, FRANKLIN M. DRILON, JINGGOY P. EJERCITO-ESTRADA, JUAN PONCE ENRILE, FRANCIS 'CHIZ' G. ESCUDERO, GREGORIO B. HONASAN II, PANFILO M. LACSON, MANUEL 'LITO' M. LAPID, SERGIO R. OSMENA III, FRANCIS N. PANGILINAN, AQUILINO KOKO III L. PIMENTEL, RALPH G. RECTO, RAMON A. REVILLA JR., VICENTE C. SOTTO III and ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-05"
 action = "Against: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-05"
 action = "Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-08"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-04"
 action = "House of Representatives adopted SBN-3064 as an amendment to HBN-417 on January 28, 2013;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-04"
 action = "Enrolled copies of the consolidated version of SBN-3064 and HBN-417, sent to the House of Representatives for the signature of the Speaker and the Secretary General;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-29"
 action = "Enrolled copies of the consolidated version of SBN-3064 and HBN-417, received by the Senate already signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-30"
 action = "Enrolled copies of the consolidated version of SBN-3064 and HBN-417, sent to the Office of the President of the Philippines, through PLLO, for the signature and approval of His Excellency, President Benigno S. Aquino III;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-05-29"
 action = "Approved and signed into law, in consolidation with HBN-417, by the President of the Philippines, His Excellency President Benigno S. Aquino III, and became"
 
-[[legislative_history]]
+[[history]]
 date = "2013-05-29"
 action = "REPUBLIC ACT NO. 10592."
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "5/29/2013"
+date = "2013-05-29"
 
 [[committees]]
 name = "Justice and Human Rights"

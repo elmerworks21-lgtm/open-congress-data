@@ -1,8 +1,11 @@
 id = "01K67YCNQSP2B6G3N71P6XAQAD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00667"
+
+[meta]
 bill_number = 667
 congress = 13
-canonical = "SBN-00667"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-667", "https://web.senate.gov.ph/lisdata/18531228!.pdf",]
 title = "AUTOMATIC ADJUSTMENT OF MONTHLY PENSION OF RETIRED PERSONNEL"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR AUTOMATIC ADJUSTMENT OF THE BASIC MONTHLY PEN
 scope = "National"
 subjects = [ "Retired Personnel (Gsis; Pension)", "Automatic Adjustment (Pension; Retired)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

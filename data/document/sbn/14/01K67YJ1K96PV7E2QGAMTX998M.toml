@@ -1,8 +1,11 @@
 id = "01K67YJ1K96PV7E2QGAMTX998M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01332"
+
+[meta]
 bill_number = 1332
 congress = 14
-canonical = "SBN-01332"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1332", "https://web.senate.gov.ph/lisdata/56325019!.pdf",]
 title = "UNFUNDED MANDATE REFORM ACT"
 date_filed = "2007-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT CURBING THE PRACTICE OF IMPOSING UNFUNDED MANDATES ON LOCAL
 scope = "National"
 subjects = [ "Unfunded Mandate Reform Act", "Local Government Units (LGUS)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-24"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2007"
+date = "2007-09-11"
 
 [[committees]]
 name = "Local Government"

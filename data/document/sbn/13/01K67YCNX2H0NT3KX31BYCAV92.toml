@@ -1,8 +1,11 @@
 id = "01K67YCNX2H0NT3KX31BYCAV92"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00968"
+
+[meta]
 bill_number = 968
 congress = 13
-canonical = "SBN-00968"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-968", "https://web.senate.gov.ph/lisdata/21721699!.pdf",]
 title = "INDIGENT CHILDREN FREE MEDICAL AND DENTAL SERVICE ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE THE GIVING OF FREE MEDICAL AND DENTAL SERVICE TO
 scope = "National"
 subjects = [ "Indigent Children", "Free Medical/Dental Service",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Health and Demography"

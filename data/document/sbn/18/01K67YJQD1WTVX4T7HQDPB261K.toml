@@ -1,8 +1,11 @@
 id = "01K67YJQD1WTVX4T7HQDPB261K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01454"
+
+[meta]
 bill_number = 1454
 congress = 18
-canonical = "SBN-01454"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1454", "https://web.senate.gov.ph/lisdata/3261229477!.pdf",]
 title = "AMENDING R.A. NO. 7581 (PRICE ACT)"
 date_filed = "2020-04-27"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7581, AS AMENDED, OTHERWISE KNOWN
 scope = "National"
 subjects = [ "Price Act", "Covid-19",]
 authors_raw = "Villanueva, Joel, Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2020-04-27"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-04"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-29"
 action = "Letter from Senator CYNTHIA A. VILLAR dated June 1, 2020, conveying her intention to be a co-author of SBN-1454, recieved by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/4/2020"
+date = "2020-05-04"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

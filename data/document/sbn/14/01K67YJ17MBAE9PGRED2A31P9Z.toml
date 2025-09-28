@@ -1,8 +1,11 @@
 id = "01K67YJ17MBAE9PGRED2A31P9Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00761"
+
+[meta]
 bill_number = 761
 congress = 14
-canonical = "SBN-00761"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-761", "https://web.senate.gov.ph/lisdata/49854374!.pdf",]
 title = "EXPANDED BREASTFEEDING PROMOTION ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,33 +13,34 @@ long_title = "AN ACT EXPANDING THE PROMOTION OF BREASTFEEDING, AMENDING FOR THE 
 scope = "National"
 subjects = [ "Breastfeeding",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator COMPANERA PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT, WAYS AND MEANS, YOUTH, WOMEN AND FAMILY RELATIONS and FINANCE per Committee Report No. 14, recommending that it be substituted by SBN-1698;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "SUBSTITUTED BY SBN-1698, WHICH BECAME R.A.NO. 10028."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/3/2007"
+date = "2007-10-03"
 
 [[committees]]
 name = "Health and Demography"

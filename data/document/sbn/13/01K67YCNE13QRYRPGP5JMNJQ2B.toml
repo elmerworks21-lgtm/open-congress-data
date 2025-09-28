@@ -1,8 +1,11 @@
 id = "01K67YCNE13QRYRPGP5JMNJQ2B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00128"
+
+[meta]
 bill_number = 128
 congress = 13
-canonical = "SBN-00128"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-128", "https://web.senate.gov.ph/lisdata/12631020!.pdf",]
 title = "PHILIPPINE NORMAL UNIVERSITY (PNU) MODERNIZATION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ELEVATING THE PHILIPPINE NORMAL UNIVERSITY TO BECOME THE CO
 scope = "National"
 subjects = [ "Philippine Normal University (PNU)", "Teacher Training and Development",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committe(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJ93ZC8P3Z40GQSQTMRNV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02699"
+
+[meta]
 bill_number = 2699
 congress = 15
-canonical = "SBN-02699"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2699", "https://web.senate.gov.ph/lisdata/107729209!.pdf",]
 title = "CIVIL SERVICE HOUSING PROGRAM OF 2011"
 date_filed = "2011-02-14"
@@ -10,25 +13,26 @@ long_title = "AN ACT ESTABLISHING A NATIONAL HOUSING PROGRAM FOR GOVERNMENT EMPL
 scope = "National"
 subjects = [ "Housing Projects", "Government Employees",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2011-02-14"
 action = "Introduced by Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-02-15"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/15/2011"
+date = "2011-02-15"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

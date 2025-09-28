@@ -1,8 +1,11 @@
 id = "01K67YJPWRK29QW7Q2NDD38Y8J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00750"
+
+[meta]
 bill_number = 750
 congress = 18
-canonical = "SBN-00750"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-750", "https://web.senate.gov.ph/lisdata/3108627984!.pdf",]
 title = "COOPERATIVE FARMING"
 date_filed = "2019-07-24"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROMOTING CORPORATIVE FARMING AND PROVIDING INCENTIVES FOR 
 scope = "National"
 subjects = [ "Cooperative Farming",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; AGRARIAN REFORM; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform, SBN-750 shall now be referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2019"
+date = "2019-09-09"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

@@ -1,8 +1,11 @@
 id = "01K67YJJV0RPERJT16G048X60V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02209"
+
+[meta]
 bill_number = 2209
 congress = 17
-canonical = "SBN-02209"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2209", "https://web.senate.gov.ph/lisdata/2962826341!.pdf",]
 title = "INCREASING THE BED CAPACITY OF BICOL MEDICAL CENTER"
 date_filed = "2019-02-06"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE BED CAPACITY OF BICOL MEDICAL CENTER FROM FI
 scope = "National"
 subjects = [ "Hospitals, Increase Bed Capacity",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-06"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-03-30"
 action = "(Pursuant to paragraph g, Sec. 7, Rule V of the Rules of the Senate, SBN-2209 with pertinent documents transmitted to the Archives for safekeeping and preservation on November 18, 2020)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/8/2019"
+date = "2019-02-08"
 
 [[committees]]
 name = "Health and Demography"

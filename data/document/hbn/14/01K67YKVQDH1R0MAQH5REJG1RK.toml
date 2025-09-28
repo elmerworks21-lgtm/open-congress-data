@@ -1,24 +1,28 @@
 id = "01K67YKVQDH1R0MAQH5REJG1RK"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-01632"
+
+[meta]
 bill_number = 1632
 congress = 14
-canonical = "HBN-01632"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-1632", "https://web.senate.gov.ph/lisdata/81777411!.pdf",]
 title = "BARANGAY HALANG - REAL ROAD (LAGUNA)"
 long_title = "AN ACT CONVERTING THE BARANGAY HALANG - REAL ROAD IN THE CITY OF CALAMBA, PROVINCE OF LAGUNA INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-21"
 action = "Filed in the Senate requesting for concurrence by Representative JUSTIN 'TIMMY' SB. CHIPECO, as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2008"
+date = "2008-09-01"
 
 [[committees]]
 name = "Public Works"

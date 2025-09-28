@@ -1,8 +1,11 @@
 id = "01K67YJ2TASWWHQBW38Y1YWTSP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02784"
+
+[meta]
 bill_number = 2784
 congress = 14
-canonical = "SBN-02784"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2784", "https://web.senate.gov.ph/lisdata/92198918!.pdf",]
 title = "JUDICIARY REORGANIZATION ACT (MUNTINLUPA CITY)"
 date_filed = "2008-11-11"
@@ -10,29 +13,30 @@ long_title = "“AN ACT CREATING FIVE ADDITIONAL BRANCHES OF THE REGIONAL TRIAL 
 scope = "Local"
 subjects = [ "Courts (Regional Trial Courts)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-11"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-22"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-03"
 action = "Returned and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 840, recommending that it be substituted by SBN-3585;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-31"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-31"
 action = "SUBSTITUTED BY SBN-3585."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/31/2010"
+date = "2010-05-31"
 
 [[committees]]
 name = "Justice and Human Rights"

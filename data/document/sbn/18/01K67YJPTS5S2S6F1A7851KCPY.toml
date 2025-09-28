@@ -1,8 +1,11 @@
 id = "01K67YJPTS5S2S6F1A7851KCPY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00663"
+
+[meta]
 bill_number = 663
 congress = 18
-canonical = "SBN-00663"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-663", "https://web.senate.gov.ph/lisdata/3102727924!.pdf",]
 title = "REQUIRING PUBLIC OFFICIALS AND EMPLOYEES TO SUBMIT A WRITTEN PERMISSION IN FAVOR OF THE OMBUDSMAN"
 date_filed = "2019-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING PUBLIC OFFICIALS AND EMPLOYEES TO SUBMIT A WRITTE
 scope = "National"
 subjects = [ "Bank Deposits/Bank Accounts", "Waiver", "Ombudsman", "Government Official/Public Official", "Government Employees",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Justice and Human Rights"

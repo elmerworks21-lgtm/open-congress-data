@@ -1,8 +1,11 @@
 id = "01K67YJCG6FP0BDJ09GQ63WN82"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00333"
+
+[meta]
 bill_number = 333
 congress = 16
-canonical = "SBN-00333"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-333", "https://web.senate.gov.ph/lisdata/1620413432!.pdf",]
 title = "REPEALING ART. 133 OF THE REVISED PENAL CODE"
 date_filed = "2013-07-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT REPEALING FOR THIS PURPOSE ARTICLE 133 OF ACT NO. 3815, AS 
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-11"
 action = "Change of Committee Referral from the Committee on Constitutional Amendments, Revision of Codes and Laws to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Justice and Human Rights"

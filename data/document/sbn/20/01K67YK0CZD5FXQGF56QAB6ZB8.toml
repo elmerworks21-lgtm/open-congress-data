@@ -1,8 +1,11 @@
 id = "01K67YK0CZD5FXQGF56QAB6ZB8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01015"
+
+[meta]
 bill_number = 1015
 congress = 20
-canonical = "SBN-01015"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1015", "https://web.senate.gov.ph/lisdata/4759243606!.pdf",]
 title = "INDIGENOUS CULTURAL COMMUNITIES AND INDIGENOUS PEOPLES (ICCS/IPS)"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT RECOGNIZING THE INDIGENOUS CULTURAL COMMUNITIES AND INDIGEN
 scope = "National"
 subjects = [ "Indigenous Cultural Communities", "Indigenous People",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-02"
 action = "Read on First Reading and Referred to the Committees on CULTURAL COMMUNITIES AND MUSLIM AFFAIRS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2025"
+date = "2025-09-02"
 
 [[committees]]
 name = "Cultural Communities and Muslim Affairs"

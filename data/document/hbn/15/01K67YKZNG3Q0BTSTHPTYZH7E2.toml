@@ -1,24 +1,28 @@
 id = "01K67YKZNG3Q0BTSTHPTYZH7E2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03483"
+
+[meta]
 bill_number = 3483
 congress = 15
-canonical = "HBN-03483"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-3483", "https://web.senate.gov.ph/lisdata/1512212791!.pdf",]
 title = "ARINGAY NATIONAL HIGH SCHOOL"
 long_title = "AN ACT SEPARATING THE KABACAN NATIONAL HIGH SCHOOL - ARINGAY ANNEX IN BARANGAY ARINGAY, MUNICIPALITY OF KABACAN, PROVINCE OF NORTH COTABATO FROM THE KABACAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS ARINGAY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-01-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2013"
+date = "2013-02-05"
 
 [[committees]]
 name = "Education, Arts and Culture"

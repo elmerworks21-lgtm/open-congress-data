@@ -1,8 +1,11 @@
 id = "01K67YJHTZWB48DMSA1QPVAJNK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01003"
+
+[meta]
 bill_number = 1003
 congress = 17
-canonical = "SBN-01003"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1003", "https://web.senate.gov.ph/lisdata/2457721160!.pdf",]
 title = "PARKING FEES REGULATION ACT"
 date_filed = "2016-08-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE IMPOSITION OF FEES FOR THE USE OF PARKING SP
 scope = "National"
 subjects = [ "Fees and Charges",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-08"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-17"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2016"
+date = "2016-08-17"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

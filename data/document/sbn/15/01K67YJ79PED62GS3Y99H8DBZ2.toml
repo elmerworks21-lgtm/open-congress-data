@@ -1,8 +1,11 @@
 id = "01K67YJ79PED62GS3Y99H8DBZ2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00118"
+
+[meta]
 bill_number = 118
 congress = 15
-canonical = "SBN-00118"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-118", "https://web.senate.gov.ph/lisdata/75136364!.pdf",]
 title = "PROMPT ACTION ON LETTERS AND REQUEST, UNDER R.A. 6713, CODE OF ETHICAL STANDARD"
 date_filed = "2010-07-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR STIFFER PENALTIES AGAINST PUBLIC OFFICIALS AN
 scope = "National"
 subjects = [ "Code of Conduct and Ethical Standards (R.A.No. 6713)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-05"
 action = "Introduced by Senator SERGIO R. OSMENA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-02"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2010"
+date = "2010-08-02"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

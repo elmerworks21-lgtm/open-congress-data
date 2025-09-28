@@ -1,8 +1,11 @@
 id = "01K67YJPRCN5Z0SM954SX8F78J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00549"
+
+[meta]
 bill_number = 549
 congress = 18
-canonical = "SBN-00549"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-549", "https://web.senate.gov.ph/lisdata/3093227794!.pdf",]
 title = "COCONUT SUGAR RESEARCH AND DEVELOPMENT (R&D) ACT"
 date_filed = "2019-07-16"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING THE ENABLING MECHANISMS FOR RESEARCH AND DEVELOPM
 scope = "National"
 subjects = [ "Coconut Sugar",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-16"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; SCIENCE AND TECHNOLOGY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform, SBN-549 shall now be referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2019"
+date = "2019-08-06"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

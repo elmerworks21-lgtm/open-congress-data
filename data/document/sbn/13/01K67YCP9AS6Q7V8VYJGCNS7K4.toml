@@ -1,8 +1,11 @@
 id = "01K67YCP9AS6Q7V8VYJGCNS7K4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01629"
+
+[meta]
 bill_number = 1629
 congress = 13
-canonical = "SBN-01629"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1629", "https://web.senate.gov.ph/lisdata/28692269!.pdf",]
 title = "SMALL BUSINESS FRANCHISE ACT"
 date_filed = "2004-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING MINIMUM STANDARDS OF FAIR CONDUCT IN FRANCHISE
 scope = "National"
 subjects = [ "Small Business Franchise Act", "Franchise Sales/Franchise Business",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Trade and Commerce"

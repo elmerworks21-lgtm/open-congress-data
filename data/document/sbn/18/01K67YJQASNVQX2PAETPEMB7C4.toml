@@ -1,8 +1,11 @@
 id = "01K67YJQASNVQX2PAETPEMB7C4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01362"
+
+[meta]
 bill_number = 1362
 congress = 18
-canonical = "SBN-01362"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1362", "https://web.senate.gov.ph/lisdata/3237829232!.pdf",]
 title = "SUSTAINABLE DEVELOPMENT FRAMEWORK ACT"
 date_filed = "2020-02-18"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING A FRAMEWORK FOR THE SUSTAINABLE DEVELOPMENT GOALS"
 scope = "National"
 subjects = [ "Sustainable Development Goals",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-18"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-19"
 action = "Read on First Reading and Referred to the Committee on SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-26"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/19/2020"
+date = "2020-02-19"
 
 [[committees]]
 name = "Sustainable Development Goals, Innovation and Futures Thinking"

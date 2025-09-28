@@ -1,8 +1,11 @@
 id = "01K67YJ9JPE81WK3YWAN7CZ3NH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03227"
+
+[meta]
 bill_number = 3227
 congress = 15
-canonical = "SBN-03227"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3227", "https://web.senate.gov.ph/lisdata/1370211495!.pdf",]
 title = "NEDA NEEDS TO APPROVE FEES AND CHARGES IMPOSED BY NATIONAL GOVERNMENT AGENCIES"
 date_filed = "2012-06-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUTHORIZING THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY
 scope = "National"
 subjects = [ "National Economic Development Authority (NEDA)", "Fees and Charges", "Government Agencies", "Government-Owned And-Controlled Corporations (GOCC)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2012-06-25"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-07-24"
 action = "Read on First Reading and Referred to the Committee on ECONOMIC AFFAIRS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2012"
+date = "2012-07-31"
 
 [[committees]]
 name = "Economic Affairs"

@@ -1,8 +1,11 @@
 id = "01K67YJV8SDFTCSZWADDZ012TT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00584"
+
+[meta]
 bill_number = 584
 congress = 19
-canonical = "SBN-00584"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-584", "https://web.senate.gov.ph/lisdata/3836434814!.pdf",]
 title = "INCLUSIVE BUSINESS ACT"
 date_filed = "2022-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMOTE WOMEN'S ECONOMIC EMPOWERMENT THROUGH INCLUSIVE B
 scope = "National"
 subjects = [ "Inclusive Business", "Women", "Private Sector",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-14"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP; WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2022"
+date = "2022-08-17"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

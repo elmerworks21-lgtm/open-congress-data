@@ -1,24 +1,28 @@
 id = "01K67YM5Q8BTZR6V5K4YGXXJDP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03437"
+
+[meta]
 bill_number = 3437
 congress = 17
-canonical = "HBN-03437"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-3437", "https://web.senate.gov.ph/lisdata/2959226288!.pdf",]
 title = "ON-LINE NETWORK ESTABLISHMENT POLICY OF THE PHILIPPINES OR ONE PHILIPPINES ACT"
 long_title = "AN ACT PROVIDING FOR AN ON-LINE NETWORK ESTABLISHMENT POLICY FOR THE PHILIPPINES"
 scope = "National"
 subjects = [ "On-Line Network Establishment (One Philippines)", "Information and Communications Technology (ICT)", "Telecommunications", "Internet Service Providers",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; LOCAL GOVERNMENT; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/6/2019"
+date = "2019-02-06"
 
 [[committees]]
 name = "Science and Technology"

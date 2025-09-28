@@ -1,8 +1,11 @@
 id = "01K67YJZY278AZH7SX4N72FXXK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00221"
+
+[meta]
 bill_number = 221
 congress = 20
-canonical = "SBN-00221"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-221", "https://web.senate.gov.ph/lisdata/4669842703!.pdf",]
 title = "DEPARTMENT OF FISHERIES AND AQUATIC RESOURCES ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF FISHERIES AND AQUATIC RESOURCES,
 scope = "National"
 subjects = [ "Department of Fisheries and Aquatic Resources",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator FRANCIS 'KIKO' PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

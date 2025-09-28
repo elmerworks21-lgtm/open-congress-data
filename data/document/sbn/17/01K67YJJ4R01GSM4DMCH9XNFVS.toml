@@ -1,8 +1,11 @@
 id = "01K67YJJ4R01GSM4DMCH9XNFVS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01388"
+
+[meta]
 bill_number = 1388
 congress = 17
-canonical = "SBN-01388"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1388", "https://web.senate.gov.ph/lisdata/2559222075!.pdf",]
 title = "RECOVERABLE SYSTEM LOSS ACT"
 date_filed = "2017-03-13"
@@ -10,41 +13,42 @@ long_title = "AN ACT REDUCING THE ALLOWABLE SYSTEMS LOSS FROM PRIVATE UTILITY CO
 scope = "National"
 subjects = [ "Recoverable System Loss", "Electric Power Industry Reform Act /Epira (R.A.No. 9136)", "Electric Cooperatives",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2017-03-13"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; and PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-28"
 action = "Returned and submitted jointly by the Committee(s) on ENERGY, PUBLIC SERVICES and WAYS AND MEANS per Committee Report No. 190, recommending that it be substituted by SBN-1623;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-29"
 action = "SUBSTITUTED BY SBN-1623 UNDER COMMITTEE REPORT NO. 190."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/29/2017"
+date = "2017-11-29"
 
 [[committees]]
 name = "Energy"

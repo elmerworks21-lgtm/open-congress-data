@@ -1,8 +1,11 @@
 id = "01K67YJHS7GS7ACZT0PPMWJ4VZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00921"
+
+[meta]
 bill_number = 921
 congress = 17
-canonical = "SBN-00921"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-921", "https://web.senate.gov.ph/lisdata/2447721062!.pdf",]
 title = "LEARNING MATERIALS PUBLISHED IN DIGITAL OR ELECTRONIC FORMAT EXEMPT FROM VALUE-ADDED TAX"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING BOOKS, NEWSPAPERS, MAGAZINES, JOURNALS, REVIEWS, 
 scope = "National"
 subjects = [ "Taxes (Value-Added Tax / Vat)", "Electronic Publication", "Digital Education", "Books (E-Book)", "Tax Exemption",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJPNE96N7F92P3TRS9KNN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00409"
+
+[meta]
 bill_number = 409
 congress = 18
-canonical = "SBN-00409"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-409", "https://web.senate.gov.ph/lisdata/3074027592!.pdf",]
 title = "MOTORCYCLES-FOR-HIRE ACT"
 date_filed = "2019-07-11"
@@ -10,33 +13,34 @@ long_title = "AN ACT RECOGNIZING MOTORCYCLES AS PUBLIC UTILITY VEHICLES, AMENDIN
 scope = "National"
 subjects = [ "Motorcycle", "Public Utility Vehicles", "Land Transportation and Traffic Code (R.A.No. 4136)", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-11"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-12"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC SERVICES and LOCAL GOVERNMENT per Committee Report No. 46, recommending that it be substituted by SBN-1341;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-17"
 action = "SUBSTITUTED BY SBN-1341 UNDER COMMITTEE REPORT NO. 46."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/17/2020"
+date = "2020-02-17"
 
 [[committees]]
 name = "Public Services"

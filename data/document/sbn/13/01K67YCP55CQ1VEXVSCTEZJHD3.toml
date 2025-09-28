@@ -1,8 +1,11 @@
 id = "01K67YCP55CQ1VEXVSCTEZJHD3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01394"
+
+[meta]
 bill_number = 1394
 congress = 13
-canonical = "SBN-01394"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1394", "https://web.senate.gov.ph/lisdata/26061973!.pdf",]
 title = "BFAD EMPOWERMENT ACT OF 2004"
 date_filed = "2004-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE CAPABILITY OF THE BUREAU OF FOOD AND DRUG
 scope = "National"
 subjects = [ "Bureau of Food and Drugs (BFAD)", "Bfad Empowerment Act", "Testing Laboratories/Field Offices",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Health and Demography"

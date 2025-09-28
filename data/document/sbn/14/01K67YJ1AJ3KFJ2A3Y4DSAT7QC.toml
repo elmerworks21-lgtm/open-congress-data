@@ -1,8 +1,11 @@
 id = "01K67YJ1AJ3KFJ2A3Y4DSAT7QC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00902"
+
+[meta]
 bill_number = 902
 congress = 14
-canonical = "SBN-00902"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-902", "https://web.senate.gov.ph/lisdata/51604528!.pdf",]
 title = "CORDILLERA TERRACES AUTHORITY OF 2007"
 date_filed = "2007-07-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING THE CORDILLERA TERRACES AUTHORITY, DEFINING ITS PO
 scope = "National"
 subjects = [ "Cordillera Terraces Authority",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; LOCAL GOVERNMENT; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-03"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

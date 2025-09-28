@@ -1,8 +1,11 @@
 id = "01K67YCNHNE67WQYYNX3NGS7Y8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00321"
+
+[meta]
 bill_number = 321
 congress = 13
-canonical = "SBN-00321"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-321", "https://web.senate.gov.ph/lisdata/1478773!.pdf",]
 title = "PENALIZING PREGNANT MOTHERS WHO TAKE COCACINE/ILLEGAL DRUGS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING MOTHERS WHO TAKE COCAINE OR OTHER ILLEGAL DRUGS 
 scope = "National"
 subjects = [ "Expectant Mothers (Penalizing;Illeg.Drug", "Revised Penal Code (RA 3815; Art.255/264", "Pregnancy",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

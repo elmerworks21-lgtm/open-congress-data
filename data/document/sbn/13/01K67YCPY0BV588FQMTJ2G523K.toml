@@ -1,8 +1,11 @@
 id = "01K67YCPY0BV588FQMTJ2G523K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02619"
+
+[meta]
 bill_number = 2619
 congress = 13
-canonical = "SBN-02619"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2619", "https://web.senate.gov.ph/lisdata/69755728!.pdf",]
 title = "GOCCS ACCOUNTABILITY ACT OF 2007"
 date_filed = "2007-02-20"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO ENSURE THE ACCOUNTABILITY OF GOVERNMENT-OWNED OR CONTROL
 scope = "National"
 subjects = [ "Government Owned/Controlled Corp. (GOCC)", "GOCCs Accountability",]
 authors_raw = "Gordon, Richard \"Dick\" J., Osmena III, Sergio R., Flavier, Juan M., Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-02-20"
 action = "Prepared and submitted jointly by the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES, EDUCATION, ARTS AND CULTURE and FINANCE with Senator(s) RICHARD DICK GORDON, SERGIO R. OSMENA III, JUAN M. FLAVIER and FRANKLIN M. DRILON as author(s) per Committee Report No. 307, recommending its approval in substitution of SBN-2222, taking into consideration SBNos. 486 and 487;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-20"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-20"
 action = "Sponsors: Senator(s) RICHARD 'DICK' J. GORDON, JUAN M. FLAVIER, FRANKLIN M. DRILON and SERGIO R. OSMENA III;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "2/20/2007"
+date = "2007-02-20"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

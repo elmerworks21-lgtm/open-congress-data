@@ -1,8 +1,11 @@
 id = "01K67YJ16TRK24BFK1R79GGREB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00721"
+
+[meta]
 bill_number = 721
 congress = 14
-canonical = "SBN-00721"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-721", "https://web.senate.gov.ph/lisdata/49434327!.pdf",]
 title = "EMPLOYEES RIGHT TO KNOW ACT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING EMPLOYERS TO INFORM THEIR EMPLOYEES OF THEIR RIGH
 scope = "National"
 subjects = [ "Employees Right to Know",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2007"
+date = "2007-08-29"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

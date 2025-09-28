@@ -1,8 +1,11 @@
 id = "01K67YJQ0GDJE6RB9TDZB2FMHW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00927"
+
+[meta]
 bill_number = 927
 congress = 18
-canonical = "SBN-00927"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-927", "https://web.senate.gov.ph/lisdata/3131128210!.pdf",]
 title = "CITIZEN SERVICE ACT OF 2019"
 date_filed = "2019-08-20"
@@ -10,25 +13,26 @@ long_title = "AN ACT REQUIRING BASIC CITIZEN SERVICE TRAINING ESTABLISHING THE C
 scope = "National"
 subjects = [ "Citizen Service Corps", "Citizen Service Commission", "Citizen Service Training Course",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-20"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Transferred from the Committee on Higher, Technical and Vocational Education to the Committee on BASIC EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on National Defense and Security; and the Committee on Peace, Unification and Reconciliation, SBN-927 shall now be referred to the Committee on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2019"
+date = "2019-08-20"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

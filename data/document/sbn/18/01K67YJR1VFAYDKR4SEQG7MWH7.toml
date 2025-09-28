@@ -1,8 +1,11 @@
 id = "01K67YJR1VFAYDKR4SEQG7MWH7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02318"
+
+[meta]
 bill_number = 2318
 congress = 18
-canonical = "SBN-02318"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2318", "https://web.senate.gov.ph/lisdata/3548232217!.pdf",]
 title = "AGRICULTURE INFORMATION SYSTEM ACT"
 date_filed = "2021-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE AGRICULTURE INFORMATION SYSTEM IN ALL CITI
 scope = "National"
 subjects = [ "Agriculture Information System",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2021-07-13"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2021"
+date = "2021-07-28"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

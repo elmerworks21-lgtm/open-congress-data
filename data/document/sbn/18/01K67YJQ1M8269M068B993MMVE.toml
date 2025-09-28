@@ -1,8 +1,11 @@
 id = "01K67YJQ1M8269M068B993MMVE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00982"
+
+[meta]
 bill_number = 982
 congress = 18
-canonical = "SBN-00982"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-982", "https://web.senate.gov.ph/lisdata/3139028284!.pdf",]
 title = "ORDER OF PRESIDENTIAL SUCCESSION"
 date_filed = "2019-08-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING THE ORDER OF PRESIDENTIAL SUCCESSION"
 scope = "National"
 subjects = [ "Succession", "President of the Philippines",]
 authors_raw = "Lacson, Panfilo \"Ping\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-28"
 action = "Introduced by Senator PANFILO 'PING' M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-28"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2019"
+date = "2019-08-28"
 
 [[committees]]
 name = "Constitutional Amendments and Revision of Codes"

@@ -1,8 +1,11 @@
 id = "01K67YJW3AXMBFYAKR9MJ6K0T5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01741"
+
+[meta]
 bill_number = 1741
 congress = 19
-canonical = "SBN-01741"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1741", "https://web.senate.gov.ph/lisdata/4046836875!.pdf",]
 title = "MAYOYAO, FUGAO PROVINCE TESDA TRAINING AND ASSESSMENT CENTER ACT"
 date_filed = "2023-01-23"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATIONAL AND SKILLS DEVELOPMENT
 scope = "Local"
 subjects = [ "Tesda Training and Assessment Center",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-23"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-30"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2023"
+date = "2023-01-30"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

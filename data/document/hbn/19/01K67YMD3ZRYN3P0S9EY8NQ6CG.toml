@@ -1,48 +1,52 @@
 id = "01K67YMD3ZRYN3P0S9EY8NQ6CG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06772"
+
+[meta]
 bill_number = 6772
 congress = 19
-canonical = "HBN-06772"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6772", "https://web.senate.gov.ph/lisdata/4129437616!.pdf",]
 title = "AMENDING UNIVERSAL HEALTH CARE ACT (R.A. NO. 11223)"
 long_title = "AN ACT GRANTING THE PRESIDENT OF THE PHILIPPINES THE POWER TO SUSPEND AND ADJUST THE PERIOD OF IMPLEMENTATION OF THE SCHEDULED INCREASE OF PREMIUM RATES FOR DIRECT CONTRIBUTORS OF THE PHILIPPINE HEALTH INSURANCE CORPORATION, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE ''UNIVERSAL HEALTH CARE ACT''"
 scope = "National"
 subjects = [ "Universal Health Care",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-15"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY (upon the recommendation of its Subcommittee on Amendments to R.A. No. 11223 or Universal Health Care Act); MIGRANT WORKERS and FINANCE per Committee Report No. 245, recommending that it be considered in SBN-2620;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "CONSIDERED IN SBN-2620 UNDER COMMITTEE REPORT NO. 245."
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "House of Representatives designated Representatives Gato Jr., Quimbo, Acidre, Vergara, Garin, Tan and Libanan as conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-2620 and HBN-6772, HBN-11357 on February 3, 2025;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "Senate designated Senators Ejercito, Go, Cayetano (P.), Dela Rosa and Hontiveros to the Bicameral Conference Committee on the disagreeing provisions of SBN-2620 and HBN-6772;"
 
 [[status]]
 status = "Pending Conference Committee"
-date = "2/3/2025"
+date = "2025-02-03"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,24 +1,28 @@
 id = "01K67YKR1D6BGYPQGCWZBEZEWB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04808"
+
+[meta]
 bill_number = 4808
 congress = 13
-canonical = "HBN-04808"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4808", "https://web.senate.gov.ph/lisdata/50044983!.pdf",]
 title = "BRGY. COMBADO AGRICULTURAL LAND (SOUTHERN LEYTE)"
 long_title = "AN ACT DECLARING CERTAIN PARCELS OF LAND OF THE PUBLIC DOMAIN LOCATED IN BARANGAY COMBADO, MAASIN CITY, PROVINCE OF SOUTHERN LEYTE AS AGRICULTURAL LAND OPEN TO DISPOSITION"
 scope = "Local"
 subjects = [ "Buffer Zones (Brgy. Combado Agricultural Land)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives ROGER G. MERCADO, LEOVIGILDO B. BANAAG, BELMA A. CABILAO and HERMINIA M. RAMIRO as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-17"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2006"
+date = "2006-05-17"
 
 [[committees]]
 name = "Environment and Natural Resources"

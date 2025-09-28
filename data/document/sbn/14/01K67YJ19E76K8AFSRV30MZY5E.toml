@@ -1,8 +1,11 @@
 id = "01K67YJ19E76K8AFSRV30MZY5E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00852"
+
+[meta]
 bill_number = 852
 congress = 14
-canonical = "SBN-00852"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-852", "https://web.senate.gov.ph/lisdata/50954469!.pdf",]
 title = "NATIONAL PROTECTION AND PRESERVATION OF MANGROVE FOREST ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR THE PRESERVATION, REFORESTATION, FORESTATION 
 scope = "National"
 subjects = [ "Mangrove Forest Protection", "Forest Conservation/Forest Protection",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

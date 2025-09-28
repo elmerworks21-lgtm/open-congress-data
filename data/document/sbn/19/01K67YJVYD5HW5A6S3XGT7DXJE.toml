@@ -1,8 +1,11 @@
 id = "01K67YJVYD5HW5A6S3XGT7DXJE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01526"
+
+[meta]
 bill_number = 1526
 congress = 19
-canonical = "SBN-01526"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1526", "https://web.senate.gov.ph/lisdata/3991936348!.pdf",]
 title = "UPGRADING THE POSITION OF SANITATION INSPECTOR"
 date_filed = "2022-11-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING THE POSITION OF SANITATION INSPECTOR TO THE NEXT 
 scope = "National"
 subjects = [ "Sanitation",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-23"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/28/2022"
+date = "2022-11-28"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

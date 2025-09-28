@@ -1,24 +1,28 @@
 id = "01K67YKWZ0QPF25VSX88HD5X8T"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06320"
+
+[meta]
 bill_number = 6320
 congress = 14
-canonical = "HBN-06320"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6320", "https://web.senate.gov.ph/lisdata/1260111288!.pdf",]
 title = "ANTI-ELECTRICITY AND ELECTRIC TRANSMISSION LINES/MATERIALS PILFERAGE ACT"
 long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED SEVENTY-EIGHT THIRTY-TWO, AS AMENDED, OTHERWISE KNOWN AS THE ANTI-ELECTRICITY AND ELECTRIC TRANSMISSION LINES/MATERIALS PILFERAGE ACT OF 1994"
 scope = "National"
 subjects = [ "Anti-Electricity and Electric Transmission Pilferage",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-24"
 action = "Filed in the Senate requesting for concurrence by Representatives JUAN MIGUEL MACAPAGAL-ARROYO, EDGAR L. VALDEZ, JURDIN JESUS M. ROMUALDO, ERIC D. SINGSON and GIORGIDI B. AGGABAO, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-28"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2009"
+date = "2009-09-28"
 
 [[committees]]
 name = "Public Services"

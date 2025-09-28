@@ -1,8 +1,11 @@
 id = "01K67YCP43QNF36J5ZE1XKVDB6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01336"
+
+[meta]
 bill_number = 1336
 congress = 13
-canonical = "SBN-01336"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1336", "https://web.senate.gov.ph/lisdata/25431915!.pdf",]
 title = "EXCLUDING OVERTIME FROM COMPENSATION GROSS INCOME"
 date_filed = "2004-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXCLUDING OVERTIME PAY FROM THE COMPUTATION OF COMPENSATION
 scope = "National"
 subjects = [ "Overtime Pay/Compensation Gross Income", "Taxes (Taxable Income Exclusion/R.A.8424", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Ways and Means"

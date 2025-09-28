@@ -1,8 +1,11 @@
 id = "01K67YJQZGNWDDZAZYF7BZC060"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02219"
+
+[meta]
 bill_number = 2219
 congress = 18
-canonical = "SBN-02219"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2219", "https://web.senate.gov.ph/lisdata/3505531885!.pdf",]
 title = "NET-METERING PROGRAM (RENEWABLE ENERGY)"
 date_filed = "2021-05-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENHANCING THE IMPLEMENTATION OF THE NET-METERING PROGRAM, A
 scope = "National"
 subjects = [ "Renewable Energy", "Energy Regulatory Commission",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2021-05-24"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-24"
 action = "Read on First Reading and Referred to the Committee on ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/24/2021"
+date = "2021-05-24"
 
 [[committees]]
 name = "Energy"

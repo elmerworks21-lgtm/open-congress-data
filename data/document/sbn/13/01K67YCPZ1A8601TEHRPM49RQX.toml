@@ -1,8 +1,11 @@
 id = "01K67YCPZ1A8601TEHRPM49RQX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02680"
+
+[meta]
 bill_number = 2680
 congress = 13
-canonical = "SBN-02680"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2680", "https://web.senate.gov.ph/lisdata/72415834!.pdf",]
 title = "RETAIL FOOD STORE NOTICE OF DATE OF PACKAGING ACT"
 date_filed = "2007-06-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING RETAIL FOOD STORES TO POST CONSPICUOUSLY NOTICES 
 scope = "National"
 subjects = [ "Packaging Date Notice (Retail Food Store)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-06"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-06"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/6/2007"
+date = "2007-06-06"
 
 [[committees]]
 name = "Trade and Commerce"

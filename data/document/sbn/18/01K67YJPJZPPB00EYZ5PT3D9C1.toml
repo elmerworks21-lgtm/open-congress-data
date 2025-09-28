@@ -1,8 +1,11 @@
 id = "01K67YJPJZPPB00EYZ5PT3D9C1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00297"
+
+[meta]
 bill_number = 297
 congress = 18
-canonical = "SBN-00297"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-297", "https://web.senate.gov.ph/lisdata/3051927319!.pdf",]
 title = "LOWERING THE AGE COVERED BY THE SENIOR CITIZEN'S ACT FROM 60 TO 56 YEARS OLD"
 date_filed = "2019-07-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXPANDING THE COVERAGE OF THE SENIOR CITIZENS' ACT, AMENDIN
 scope = "National"
 subjects = [ "Senior Citizen", "Elderly",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-08"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2019"
+date = "2019-07-29"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

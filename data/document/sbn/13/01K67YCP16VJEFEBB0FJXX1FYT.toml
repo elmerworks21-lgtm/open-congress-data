@@ -1,8 +1,11 @@
 id = "01K67YCP16VJEFEBB0FJXX1FYT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01178"
+
+[meta]
 bill_number = 1178
 congress = 13
-canonical = "SBN-01178"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1178", "https://web.senate.gov.ph/lisdata/23921758!.pdf",]
 title = "BASES CONVERSION AND DEVELOPMENT ACT (AMENDMENTS)"
 date_filed = "2004-06-30"
@@ -10,25 +13,26 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7227, OTHERWISE KNOWN AS THE 'BAS
 scope = "National"
 subjects = [ "Bases Conversion and Development Act", "Military Bases Development (RA 7227)",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; NATIONAL DEFENSE AND SECURITY; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

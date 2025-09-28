@@ -1,8 +1,11 @@
 id = "01K67YJJT058N393QGHKT80HTW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02169"
+
+[meta]
 bill_number = 2169
 congress = 17
-canonical = "SBN-02169"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2169", "https://web.senate.gov.ph/lisdata/2936925969!.pdf",]
 title = "GREATER BAGUIO-BENGUET DEVELOPMENT AUTHORITY ACT OF 2019"
 date_filed = "2019-01-22"
@@ -10,29 +13,30 @@ long_title = "AN ACT CREATING THE GREATER BAGUIO-BENGUET DEVELOPMENT AUTHORITY, 
 scope = "National"
 subjects = [ "Greater Baguio-Benguet Development Authority",]
 authors_raw = "Recto, Ralph G., Gordon, Richard J., Gatchalian, Sherwin T., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-22"
 action = "Prepared and submitted jointly by the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES, ECONOMIC AFFAIRS and FINANCE with Senator(s) RALPH G. RECTO, RICHARD J. GORDON, SHERWIN T. GATCHALIAN and LOREN B. LEGARDA as author(s) per Committee Report No. 557, recommending its approval in substitution of SBN-1692, taking into consideration HBN-6974;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-22"
 action = "Sponsor: Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-22"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-22"
 action = "Sponsorship speech of Senator RICHARD J. GORDON;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "1/22/2019"
+date = "2019-01-22"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

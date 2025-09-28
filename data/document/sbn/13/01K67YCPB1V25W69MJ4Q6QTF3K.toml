@@ -1,8 +1,11 @@
 id = "01K67YCPB1V25W69MJ4Q6QTF3K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01726"
+
+[meta]
 bill_number = 1726
 congress = 13
-canonical = "SBN-01726"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1726", "https://web.senate.gov.ph/lisdata/29252510!.pdf",]
 title = "OMBUDSMAN - 10% SHARE IN THE FORFEITED PROPERTY"
 date_filed = "2004-08-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE A PERCENTAGE OF THE VALUE OF FORFEITED PROPERTIE
 scope = "National"
 subjects = [ "Ombudsman (Percentage Share)", "Forfeiture Law (Forfeited Properties)", "R.A.No. 1379 (Sec. 6)",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-17"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Justice and Human Rights"

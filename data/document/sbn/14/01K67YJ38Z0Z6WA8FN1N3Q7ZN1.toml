@@ -1,8 +1,11 @@
 id = "01K67YJ38Z0Z6WA8FN1N3Q7ZN1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03407"
+
+[meta]
 bill_number = 3407
 congress = 14
-canonical = "SBN-03407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3407", "https://web.senate.gov.ph/lisdata/1227710797!.pdf",]
 title = "SEX OFFENDERS SCHOOL ACCESS PROHIBITION ACT"
 date_filed = "2009-08-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROTECT THE SAFETY, MORAL, AND WELL-BEING OF SCHOOLCHILD
 scope = "National"
 subjects = [ "Sex Offenders",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-25"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-26"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/26/2009"
+date = "2009-08-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

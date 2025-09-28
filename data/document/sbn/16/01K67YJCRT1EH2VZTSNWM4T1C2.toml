@@ -1,8 +1,11 @@
 id = "01K67YJCRT1EH2VZTSNWM4T1C2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00755"
+
+[meta]
 bill_number = 755
 congress = 16
-canonical = "SBN-00755"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-755", "https://web.senate.gov.ph/lisdata/1670013936!.pdf",]
 title = "EMERGENCY HEALTH POWERS ACT"
 date_filed = "2013-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE PUBLIC HEALTH EMERGENCY COUNCIL, PROVIDING
 scope = "National"
 subjects = [ "Emergency (Public Health Emergency Council)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-15"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-12"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2013"
+date = "2013-08-12"
 
 [[committees]]
 name = "Health and Demography"

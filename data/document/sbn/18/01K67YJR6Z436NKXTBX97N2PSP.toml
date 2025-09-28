@@ -1,8 +1,11 @@
 id = "01K67YJR6Z436NKXTBX97N2PSP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02380"
+
+[meta]
 bill_number = 2380
 congress = 18
-canonical = "SBN-02380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2380", "https://web.senate.gov.ph/lisdata/3611732541!.pdf",]
 title = "BANK ACCOUNT, E-WALLET, AND OTHER FINANCIAL ACCOUNTS REGULATION ACT"
 date_filed = "2021-09-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE USE OF BANK ACCOUNTS, E-WALLETS, AND OTHER F
 scope = "National"
 subjects = [ "Bank Deposits/Bank Accounts", "E-Wallet",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-06"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-06"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2021"
+date = "2021-09-06"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

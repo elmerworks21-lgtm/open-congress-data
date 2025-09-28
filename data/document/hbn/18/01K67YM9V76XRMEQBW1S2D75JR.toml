@@ -1,24 +1,28 @@
 id = "01K67YM9V76XRMEQBW1S2D75JR"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09992"
+
+[meta]
 bill_number = 9992
 congress = 18
-canonical = "HBN-09992"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9992", "https://web.senate.gov.ph/lisdata/3622132672!.pdf",]
 title = "RTC IN THE FIFTH JUDICIAL REGION (LABO, CAMARINES NORTE)"
 long_title = "AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE FIFTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF LABO, PROVINCE OF CAMARINES NORTE, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14 (F) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED"
 scope = "National"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-20"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2021"
+date = "2021-09-20"
 
 [[committees]]
 name = "Justice and Human Rights"

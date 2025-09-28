@@ -1,24 +1,28 @@
 id = "01K67YKVR7BKDYG4X88VHD6G95"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02210"
+
+[meta]
 bill_number = 2210
 congress = 14
-canonical = "HBN-02210"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-2210", "https://web.senate.gov.ph/lisdata/88458045!.pdf",]
 title = "MULTIPURPOSE FISHERY BREEDING FARMS AND HATCHERIES"
 long_title = "AN ACT ESTABLISHING MULTIPURPOSE FISHERY BREEDING FARMS AND HATCHERIES FOR THE PRODUCTION/MULTIPLICATION OF CRABS, SHRIMPS AND LOBSTERS IN THE CITY OF BISLIG AND THE MUNICIPALITIES OF HINATUAN AND LINGIG, PROVINCE OF SURIGAO DEL SUR AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Aquatic Research", "Experimental Breeding Station", "Fishery Farms", "Hatcheries",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-06"
 action = "Filed in the Senate requesting for concurrence by Representative FLORENCIO C. GARAY as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-07"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/7/2008"
+date = "2008-10-07"
 
 [[committees]]
 name = "Agriculture and Food"

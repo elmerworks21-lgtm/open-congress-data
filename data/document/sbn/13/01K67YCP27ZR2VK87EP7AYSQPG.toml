@@ -1,8 +1,11 @@
 id = "01K67YCP27ZR2VK87EP7AYSQPG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01236"
+
+[meta]
 bill_number = 1236
 congress = 13
-canonical = "SBN-01236"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1236", "https://web.senate.gov.ph/lisdata/11171815!.pdf",]
 title = "LATERAL ATTRITION IN REVENUE-GENERATING AGENCIES OF GOVT."
 date_filed = "2004-07-06"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR THE OPTIMUM PERFORMANCE IN REVENUE COLLECTION
 scope = "National"
 subjects = [ "Lateral Attrition", "Revenue-Generating Agencies", "Bureau of Customs (BOC)", "Bureau of Internal Revenue (BIR)", "Land Transportation Office (LTO)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-12-07"
 action = "Returned by the Committee on Ways and Means, per Committee Report No. 9, recommending that it be substituted by SBN-1871;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-12-07"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-12-07"
 action = "SUBSTITUTED BY SBN-1871, WHICH BECAME R.A.NO. 9335."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/7/2004"
+date = "2004-12-07"
 
 [[committees]]
 name = "Ways and Means"

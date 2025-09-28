@@ -1,8 +1,11 @@
 id = "01K67YJQ5JH36E5WM1V52Y7MF3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01149"
+
+[meta]
 bill_number = 1149
 congress = 18
-canonical = "SBN-01149"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1149", "https://web.senate.gov.ph/lisdata/3181628676!.pdf",]
 title = "PHILIPPINE ARBITRATION COMMISSION ACT OF 2019"
 date_filed = "2019-11-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE ARBITRATION COMMISSION AND INSTITUT
 scope = "National"
 subjects = [ "Philippine Arbitration Commission", "Arbitration Case",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-11-05"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-06"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/6/2019"
+date = "2019-11-06"
 
 [[committees]]
 name = "Justice and Human Rights"

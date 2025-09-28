@@ -1,8 +1,11 @@
 id = "01K67YJX2RSATJXMNJ37V4XG82"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02964"
+
+[meta]
 bill_number = 2964
 congress = 19
-canonical = "SBN-02964"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2964", "https://web.senate.gov.ph/lisdata/4578841773!.pdf",]
 title = "PHILHEALTH MEMBER RECOGNITION PROGRAM (PMRP)"
 date_filed = "2025-01-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER AMENDING THE REPUBLIC ACT NO. 7875, OTHERWISE KNOWN
 scope = "National"
 subjects = [ "National Health Insurance",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-01-27"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-28"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/28/2025"
+date = "2025-01-28"
 
 [[committees]]
 name = "Health and Demography"

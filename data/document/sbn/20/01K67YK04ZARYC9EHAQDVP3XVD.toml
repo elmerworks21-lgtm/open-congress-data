@@ -1,8 +1,11 @@
 id = "01K67YK04ZARYC9EHAQDVP3XVD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00589"
+
+[meta]
 bill_number = 589
 congress = 20
-canonical = "SBN-00589"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-589", "https://web.senate.gov.ph/lisdata/4718343183!.pdf",]
 title = "GREEN LANE FOR STRATEGIC INVESTMENTS ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING GREEN LANES FOR PURPOSES OF STREAMLINING THE P
 scope = "National"
 subjects = [ "Green Lane for Strategic Investments",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

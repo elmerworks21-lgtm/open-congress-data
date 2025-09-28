@@ -1,8 +1,11 @@
 id = "01K67YCP2VJEGBK9FX7D5PW3GD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01272"
+
+[meta]
 bill_number = 1272
 congress = 13
-canonical = "SBN-01272"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1272", "https://web.senate.gov.ph/lisdata/24821851!.pdf",]
 title = "REVISING FORMAT OF C.E.FORM NO. 13 (CERTIFICATES OF VOTES)"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE PREPARATION AND ISSUANCE OF THE CERTIFICATE O
 scope = "National"
 subjects = [ "Certificates of Votes (C.E.Form No. 13)", "Omnibus Election Code (R.A. No. 6646)", "Elections/Electoral Reforms",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2004"
+date = "2004-08-13"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

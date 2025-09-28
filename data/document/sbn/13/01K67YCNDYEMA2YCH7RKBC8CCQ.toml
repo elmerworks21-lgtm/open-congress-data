@@ -1,8 +1,11 @@
 id = "01K67YCNDYEMA2YCH7RKBC8CCQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00123"
+
+[meta]
 bill_number = 123
 congress = 13
-canonical = "SBN-00123"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-123", "https://web.senate.gov.ph/lisdata/12581009!.pdf",]
 title = "FAMILY CODE, ARTICLE 73 (LEGITIMATE PROFESSION)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING EXECUTIVE ORDER NO. 209, ALSO KNOWN AS THE FAMILY 
 scope = "National"
 subjects = [ "Family Code (Article 73)", "Spouses (Legitimate Profession)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

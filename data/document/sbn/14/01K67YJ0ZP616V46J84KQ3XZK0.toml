@@ -1,8 +1,11 @@
 id = "01K67YJ0ZP616V46J84KQ3XZK0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00371"
+
+[meta]
 bill_number = 371
 congress = 14
-canonical = "SBN-00371"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-371", "https://web.senate.gov.ph/lisdata/45383881!.pdf",]
 title = "BIO-ORGANIC FARMING"
 date_filed = "2007-07-02"
@@ -10,45 +13,46 @@ long_title = "AN ACT PROVIDING FOR THE PROMOTION OF BIO-ORGANIC FARMING IN THE P
 scope = "National"
 subjects = [ "Bio-Organic Farming",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-19"
 action = "Returned and submitted jointly by the Committee(s) on AGRICULTURE AND FOOD and FINANCE per Committee Report No. 408, recommending that it be substituted by SBN-3264;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-20"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-20"
 action = "SUBSTITUTED BY SBN-3264, WHICH BECAME R.A.NO. 10068."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/20/2009"
+date = "2009-05-20"
 
 [[committees]]
 name = "Agriculture and Food"

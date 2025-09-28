@@ -1,8 +1,11 @@
 id = "01K67YJDTTBZQD3KVV099G9S2F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02357"
+
+[meta]
 bill_number = 2357
 congress = 16
-canonical = "SBN-02357"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2357", "https://web.senate.gov.ph/lisdata/1964216767!.pdf",]
 title = "PHILIPPINE AGRICULTURAL AND BIOSYSTEMS ENGINEERING ACT OF 2014"
 date_filed = "2014-08-13"
@@ -10,29 +13,30 @@ long_title = "AN ACT STRENGTHENING, MODERNIZING AND INTERNATIONALLY ALIGNING THE
 scope = "National"
 subjects = [ "Philippine Agricultural Engineering",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2014-08-13"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-13"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-15"
 action = "Returned and submitted by the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 82, recommending that it be substituted by SBN-2434;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-21"
 action = "SUBSTITUTED BY SBN-2434 UNDER C.R. NO. 82;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/21/2014"
+date = "2014-10-21"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

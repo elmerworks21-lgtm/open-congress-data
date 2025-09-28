@@ -1,8 +1,11 @@
 id = "01K67YJW65A31SMD7X4R3S99BZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01859"
+
+[meta]
 bill_number = 1859
 congress = 19
-canonical = "SBN-01859"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1859", "https://web.senate.gov.ph/lisdata/4071037105!.pdf",]
 title = "NATIONAL EDUCATION SUPPORT PERSONNEL DAY ACT"
 date_filed = "2023-02-09"
@@ -10,33 +13,34 @@ long_title = "AN ACT DESIGNATING THE SIXTEENTH DAY OF MAY OF EVERY YEAR A SPECIA
 scope = "National"
 subjects = [ "National Education Support Personnel Day", "Holidays (Special Working)",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-09"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-13"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-04"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-05"
 action = "Returned and submitted jointly by the Committees on BASIC EDUCATION, HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE per Committee Report No. 345, recommending that it be substituted by SBN-2872;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-12"
 action = "SUBSTITUTED BY SBN-2872 UNDER COMMITTEE REPORT NO. 345, WHICH BECAME REPUBLIC ACT NO. 12178 ON APRIL 15, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/12/2024"
+date = "2024-11-12"
 
 [[committees]]
 name = "Basic Education"

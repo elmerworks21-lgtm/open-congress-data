@@ -1,24 +1,28 @@
 id = "01K67YMDW4AXZXB9BE72G4BCHC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11173"
+
+[meta]
 bill_number = 11173
 congress = 19
-canonical = "HBN-11173"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11173", "https://web.senate.gov.ph/lisdata/4564441579!.pdf",]
 title = "SILAWA FALLS (JARO, LEYTE) AN ECOTOURISM SITE"
 long_title = "AN ACT DECLARING SILAWA FALLS, LOCATED IN BARANGAY VILLA CONZOILO, MUNICIPALITY OF JARO, PROVINCE OF LEYTE, AN ECOTOURISM SITE"
 scope = "Local"
 subjects = [ "Ecotourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-12-19"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-14"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/14/2025"
+date = "2025-01-14"
 
 [[committees]]
 name = "Tourism"

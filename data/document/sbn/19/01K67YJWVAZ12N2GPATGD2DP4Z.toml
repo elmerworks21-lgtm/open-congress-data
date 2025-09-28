@@ -1,8 +1,11 @@
 id = "01K67YJWVAZ12N2GPATGD2DP4Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02705"
+
+[meta]
 bill_number = 2705
 congress = 19
-canonical = "SBN-02705"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2705", "https://web.senate.gov.ph/lisdata/4421240188!.pdf",]
 title = "AMENDING SEC. 108 OF R.A. NO. 8550 (THE PHILIPPINE FISHERIES CODE OF THE 1998)"
 date_filed = "2024-06-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE ESTABLISHMENT OF FISHERFOLK RESETTLEMENT AREA
 scope = "National"
 subjects = [ "Philippine Fisheries Code (R.A.No. 8550)",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2024-06-04"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-29"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2024"
+date = "2024-07-29"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

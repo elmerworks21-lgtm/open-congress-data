@@ -1,8 +1,11 @@
 id = "01K67YJ2DQJ3AKZJSDV95XES4M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02226"
+
+[meta]
 bill_number = 2226
 congress = 14
-canonical = "SBN-02226"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2226", "https://web.senate.gov.ph/lisdata/72086445!.pdf",]
 title = "LOCAL GOVERNMENT CODE (SEC. 294, R.A. NO. 7160)"
 date_filed = "2008-04-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUTHORIZING LOCAL GOVERNMENT UNITS TO APPLY THE SHARE OF TH
 scope = "National"
 subjects = [ "Indigenous Resources/Solar Energy", "Local Government Code (RA 7160; Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-30"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/30/2008"
+date = "2008-04-30"
 
 [[committees]]
 name = "Local Government"

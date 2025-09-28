@@ -1,24 +1,28 @@
 id = "01K67YM5ZCTDF46G92NCMRP3JQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05647"
+
+[meta]
 bill_number = 5647
 congress = 17
-canonical = "HBN-05647"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5647", "https://web.senate.gov.ph/lisdata/2621122546!.pdf",]
 title = "FISH PORT (MUNICIPALITY OF SAN FERNANDO, ISLAND OF TICAO, PROVINCE OF MASBATE)"
 long_title = "AN ACT ESTABLISHING A FISH PORT IN THE MUNICIPALITY OF SAN FERNANDO, IN THE ISLAND OF TICAO, PROVINCE OF MASBATE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Fish Port",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-05-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2017"
+date = "2017-07-25"
 
 [[committees]]
 name = "Agriculture and Food"

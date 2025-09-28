@@ -1,56 +1,60 @@
 id = "01K67YM2V57GYZZSQGXXSNPE56"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04544"
+
+[meta]
 bill_number = 4544
 congress = 16
-canonical = "HBN-04544"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4544", "https://web.senate.gov.ph/lisdata/1948716600!.pdf",]
 title = "REVISED ANTI-CARNAPPING ACT"
 long_title = "AN ACT PROVIDING FOR A REVISED ANTI-CARNAPPING ACT, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 6539, OTHERWISE KNOWN AS THE ANTI-CARNAPPING ACT OF 1972"
 scope = "National"
 subjects = [ "Anti-Carnapping",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-06-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-02"
 action = "Returned jointly by the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS, PUBLIC SERVICES and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES per Committee Report No. 170, recommending that it be considered in SBN-2794;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-03"
 action = "CONSIDERED IN SBN-2794 UNDER C.R. NO. 170."
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Letter from the House of Representatives informing the Senate that it adopted SBN-2794 as an amendment to HBN-4544 on May 23, 2016;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-16"
 action = "Enrolled copies of SBN-2794 which was adopted as an amendment to HBN-4544, sent to the Office of the President of the Philippines through PLLO, for the signature and approval of His Excellency President Benigno S. Aquino III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-30"
 action = "Consolidated with SBN-2794, which was lapsed into Law on July 17, 2016 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-30"
 action = "REPUBLIC ACT NO. 10883."
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "6/30/2016"
+date = "2016-06-30"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

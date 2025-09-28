@@ -1,8 +1,11 @@
 id = "01K67YJQ97AJPBPXX6W7WQHN07"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01303"
+
+[meta]
 bill_number = 1303
 congress = 18
-canonical = "SBN-01303"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1303", "https://web.senate.gov.ph/lisdata/3227429120!.pdf",]
 title = "SCIENCE FOR CHANGE PROGRAM (SCP) ACT OF 2020"
 date_filed = "2020-01-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE SCIENCE FOR CHANGE PROGRAM"
 scope = "National"
 subjects = [ "Science and Technology",]
 authors_raw = "Lacson, Panfilo \"Ping\" M., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2020-01-30"
 action = "Introduced by Senator PANFILO 'PING' M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-03"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-28"
 action = "Letter of Senator JOEL VILLANUEVA dated July 27, 2020, conveying his intention to be made co-author of SBN-1303, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/3/2020"
+date = "2020-02-03"
 
 [[committees]]
 name = "Science and Technology"

@@ -1,24 +1,28 @@
 id = "01K67YM6QQKBDZJB7G2MHXGKZ3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08956"
+
+[meta]
 bill_number = 8956
 congress = 17
-canonical = "HBN-08956"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8956", "https://web.senate.gov.ph/lisdata/2967126378!.pdf",]
 title = "CONGRESSMAN NARCISO DOLAR MONFORT HIGHWAY"
 long_title = "AN ACT RENAMING THE ILOILO-DUMANGAS COASTAL ROAD TRAVERSING BARANGAYS TICUD AND JINACTACAN IN THE DISTRICT OF LA PAZ AND BARANGAYS BALABAGO AND BITO-ON IN THE DISTRICT OF JARO, BOTH IN ILOILO CITY, BARANGAYS CAMANGAY AND NABITASAN IN THE MUNICIPALITY OF LEGANES, BARANGAY TUBIGAN IN THE MUNICIPALITY OF ZARRAGA, BARANGAY TALAUGUIS UP TO DUMANGAS PORT IN BARANGAY NALU-UYAN IN THE MUNICIPALITY OF DUMANGAS, ALL IN THE PROVINCE OF ILOILO, AS CONGRESSMAN NARCISO DOLAR MONFORT HIGHWAY"
 scope = "Local"
 subjects = [ "Roads, Change of Name", "Renaming",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-07"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-20"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/20/2019"
+date = "2019-05-20"
 
 [[committees]]
 name = "Public Works"

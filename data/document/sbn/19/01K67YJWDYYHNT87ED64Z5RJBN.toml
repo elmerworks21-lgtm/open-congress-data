@@ -1,8 +1,11 @@
 id = "01K67YJWDYYHNT87ED64Z5RJBN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02191"
+
+[meta]
 bill_number = 2191
 congress = 19
-canonical = "SBN-02191"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2191", "https://web.senate.gov.ph/lisdata/4165537945!.pdf",]
 title = "GERIATRIC HEALTH ACT"
 date_filed = "2023-05-15"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE NATIONAL CENTER FOR GERIATRIC HEALTH AND R
 scope = "National"
 subjects = [ "Geriatric Health", "Regional Specialty Center",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-15"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Health and Demography"

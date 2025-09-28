@@ -1,8 +1,11 @@
 id = "01K67YJTW6Q24CPWXSSWFS2NY1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00023"
+
+[meta]
 bill_number = 23
 congress = 19
-canonical = "SBN-00023"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-23", "https://web.senate.gov.ph/lisdata/3772434166!.pdf",]
 title = "PANTAWID MAGSASAKANG PILIPINO ACT"
 date_filed = "2022-07-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING DIRECT FINANCIAL ASSISTANCE TO FILIPINO RICE FARM
 scope = "National"
 subjects = [ "Pantawid Magsasakang Pilipino Program", "Farmers",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-05"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

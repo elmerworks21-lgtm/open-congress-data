@@ -1,8 +1,11 @@
 id = "01K67YJ3BVS350CECYC9P137N3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03512"
+
+[meta]
 bill_number = 3512
 congress = 14
-canonical = "SBN-03512"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3512", "https://web.senate.gov.ph/lisdata/1289111555!.pdf",]
 title = "OFFICE COMPUTER ERGONOMICS ACT OF 2009"
 date_filed = "2009-11-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING OFFICE ERGONOMICS STANDARDS TO ADDRESS THE HEALTH 
 scope = "National"
 subjects = [ "Computer Ergonomics", "Office Ergonomic",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-11-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/10/2009"
+date = "2009-11-10"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

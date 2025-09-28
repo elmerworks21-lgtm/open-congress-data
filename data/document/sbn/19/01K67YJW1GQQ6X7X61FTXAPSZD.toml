@@ -1,8 +1,11 @@
 id = "01K67YJW1GQQ6X7X61FTXAPSZD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01660"
+
+[meta]
 bill_number = 1660
 congress = 19
-canonical = "SBN-01660"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1660", "https://web.senate.gov.ph/lisdata/4033636750!.pdf",]
 title = "ASSUMPTION BY THE GOVERNMENT OF VOLUNTARY LAND TRANSFER DEBTS ACT"
 date_filed = "2023-01-12"
@@ -10,29 +13,30 @@ long_title = "AN ACT FULFILLING THE EMANCIPATION OF AGRARIAN REFORM BENEFICIARIE
 scope = "National"
 subjects = [ "Debt Burden Emancipation", "Comprehensive Agrarian Reform Program",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-12"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Returned and submitted jointly by the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM, FINANCE and WAYS AND MEANS per Committee Report No. 24, recommending that it be substituted by SBN-1850;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "SUBSTITUTED BY SBN-1850 UNDER COMMITTEE REPORT NO. 24 WHICH BECAME REPUBLIC ACT NO. 11953 ON JULY 7, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/8/2023"
+date = "2023-02-08"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

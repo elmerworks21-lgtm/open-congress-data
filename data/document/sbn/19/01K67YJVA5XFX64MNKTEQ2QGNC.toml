@@ -1,8 +1,11 @@
 id = "01K67YJVA5XFX64MNKTEQ2QGNC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00645"
+
+[meta]
 bill_number = 645
 congress = 19
-canonical = "SBN-00645"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-645", "https://web.senate.gov.ph/lisdata/3850634961!.pdf",]
 title = "TAX-FREE IMPORTATION OF MEDICAL SUPPLIES AND EQUIPMENT ACT"
 date_filed = "2022-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING THE IMPORTATION OF MEDICAL SUPPLIES AND EQUIPMENT
 scope = "National"
 subjects = [ "Medical Supplies and Equipment", "Taxes (Value-Added Tax / Vat)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-14"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2022"
+date = "2022-08-17"
 
 [[committees]]
 name = "Health and Demography"

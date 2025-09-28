@@ -1,8 +1,11 @@
 id = "01K67YCPC2Z9GF6RQA7J7S21JH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01773"
+
+[meta]
 bill_number = 1773
 congress = 13
-canonical = "SBN-01773"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1773", "https://web.senate.gov.ph/lisdata/29942557!.pdf",]
 title = "NLRC/LABOR ARBITERS (EXECUTION OF FINAL DECISIONS/AWARDS)"
 date_filed = "2004-09-15"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR RELIEF FROM AND EXECUTION OF FINAL DECISIONS 
 scope = "National"
 subjects = [ "National Labor Relations Commission/Nlrc", "Labor Arbiter/Nlrc (Final Decision/Award", "Labor Code (Article 223)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-15"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on first Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-19"
 action = "Returned and submitted by the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT per Committee Report No. 104, recommending that it be substituted by SBN-2467;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-19"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-19"
 action = "SUBSTITUTED BY SBN-2467."
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-31"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-09"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2004"
+date = "2004-09-22"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

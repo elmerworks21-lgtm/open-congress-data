@@ -1,8 +1,11 @@
 id = "01K67YJHSZTDNTFE57DEDZTBZH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00955"
+
+[meta]
 bill_number = 955
 congress = 17
-canonical = "SBN-00955"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-955", "https://web.senate.gov.ph/lisdata/2451321099!.pdf",]
 title = "ACT INCREASING THE HAZARD PAY OF AFP PERSONNEL"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE HAZARD PAY OF ALL PERSONNEL OF THE ARMED FOR
 scope = "National"
 subjects = [ "Armed Forces of the Philippines (AFP)", "Hazard Pay",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "National Defense and Security"

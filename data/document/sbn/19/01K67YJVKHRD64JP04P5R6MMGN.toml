@@ -1,8 +1,11 @@
 id = "01K67YJVKHRD64JP04P5R6MMGN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01060"
+
+[meta]
 bill_number = 1060
 congress = 19
-canonical = "SBN-01060"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1060", "https://web.senate.gov.ph/lisdata/3901435465!.pdf",]
 title = "THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY ACT OF 2022"
 date_filed = "2022-08-08"
@@ -10,41 +13,42 @@ long_title = "AN ACT INSTITUTIONALIZING THE NATIONAL ECONOMIC AND DEVELOPMENT AU
 scope = "National"
 subjects = [ "National Economic Development Authority (NEDA)",]
 authors_raw = "Gatchalian, Win, Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-08"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-06"
 action = "Read on First Reading and Referred to the Committees on ECONOMIC AFFAIRS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-14"
 action = "Returned and submitted jointly by the Committees on ECONOMIC AFFAIRS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 346, recommending that it be substituted by SBN-2878;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-25"
 action = "SUBSTITUTED BY SBN-2878 UNDER COMMITTEE REPORT NO. 346 WHICH BECAME REPUBLIC ACT NO. 12145 ON APRIL 10, 2025."
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-28"
 action = "Letter from Senator LOREN LEGARDA dated November 25, 2024, conveying her intention to co-author of SBN-1060, received by LBIS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/25/2024"
+date = "2024-11-25"
 
 [[committees]]
 name = "Economic Affairs"

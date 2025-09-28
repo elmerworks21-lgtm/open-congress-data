@@ -1,8 +1,11 @@
 id = "01K67YJX2QRC9YJ3R5RQRSDJ3P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02963"
+
+[meta]
 bill_number = 2963
 congress = 19
-canonical = "SBN-02963"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2963", "https://web.senate.gov.ph/lisdata/4578741772!.pdf",]
 title = "NATIONAL PUBLIC SERVICE COLLEGE ACT OF 2025"
 date_filed = "2025-01-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE NATIONAL PUBLIC SERVICE COLLEGE, AND APPRO
 scope = "National"
 subjects = [ "National Public Service College",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-01-27"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-28"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/28/2025"
+date = "2025-01-28"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

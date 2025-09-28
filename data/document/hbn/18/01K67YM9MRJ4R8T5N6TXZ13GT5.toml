@@ -1,23 +1,27 @@
 id = "01K67YM9MRJ4R8T5N6TXZ13GT5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09009"
+
+[meta]
 bill_number = 9009
 congress = 18
-canonical = "HBN-09009"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9009", "https://web.senate.gov.ph/lisdata/3483731672!.pdf",]
 title = "HERMANO PULI SPECIAL NON-WORKING HOLIDAY"
 long_title = "AN ACT DECLARING NOVEMBER 4 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE PROVINCE OF QUEZON IN COMMEMORATION OF THE LIFE AND SERVICE OF REVOLUTIONARY HERO, APOLINARIO DE LA CRUZ, POPULARLY KNOWN AS HERMANO PULI"
 scope = "Local"
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-12"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Local Government"

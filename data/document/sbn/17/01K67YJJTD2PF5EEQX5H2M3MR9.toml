@@ -1,8 +1,11 @@
 id = "01K67YJJTD2PF5EEQX5H2M3MR9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02185"
+
+[meta]
 bill_number = 2185
 congress = 17
-canonical = "SBN-02185"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2185", "https://web.senate.gov.ph/lisdata/2944426111!.pdf",]
 title = "CIVIL SERVICE ELIGIBILITY TO SANGGUNIANG KABATAAN OFFICIALS"
 date_filed = "2019-01-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING THE APPROPRIATE CIVIL SERVICE ELIGIBILITY TO SANGG
 scope = "National"
 subjects = [ "Civil Service Eligibility", "Sangguniang Kabataan (SK)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-28"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2019"
+date = "2019-01-29"
 
 [[committees]]
 name = "Local Government"

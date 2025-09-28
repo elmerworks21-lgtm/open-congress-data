@@ -1,8 +1,11 @@
 id = "01K67YCNCEH0FYEJXAA00KSHGY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00040"
+
+[meta]
 bill_number = 40
 congress = 13
-canonical = "SBN-00040"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-40", "https://web.senate.gov.ph/lisdata/1174593!.pdf",]
 title = "OCCUPATIONAL THERAPY LICENSURE ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE REGISTRATION, LICENSURE AND PRACTICE OF OCCU
 scope = "National"
 subjects = [ "Occupational Therapy Licensure Act",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

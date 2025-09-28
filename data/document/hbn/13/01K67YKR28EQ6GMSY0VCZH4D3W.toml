@@ -1,24 +1,28 @@
 id = "01K67YKR28EQ6GMSY0VCZH4D3W"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04860"
+
+[meta]
 bill_number = 4860
 congress = 13
-canonical = "HBN-04860"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4860", "https://web.senate.gov.ph/lisdata/50104990!.pdf",]
 title = "ZAMBOANGA CITY SECOND DISTRICT ENGINEERING OFFICE"
 long_title = "AN ACT ESTABLISHING THE ZAMBOANGA CITY SECOND DISTRICT ENGINEERING OFFICE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Engineering Office (Zamboanga City Second District)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representative ERICO BASILIO A. FABIAN as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-17"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2006"
+date = "2006-05-17"
 
 [[committees]]
 name = "Public Works"

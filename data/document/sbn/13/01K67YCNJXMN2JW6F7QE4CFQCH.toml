@@ -1,8 +1,11 @@
 id = "01K67YCNJXMN2JW6F7QE4CFQCH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00392"
+
+[meta]
 bill_number = 392
 congress = 13
-canonical = "SBN-00392"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-392", "https://web.senate.gov.ph/lisdata/1549850!.pdf",]
 title = "BASIC MONTHLY PENSION OF RETIRED GSIS AND SSS PERSONNEL"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR AUTOMATIC ADJUSTMENT OF THE BASIC MONTHLY PEN
 scope = "National"
 subjects = [ "Gsis/Sss Retired Personnel (Pension)", "Pension (Automatic Adjustment)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

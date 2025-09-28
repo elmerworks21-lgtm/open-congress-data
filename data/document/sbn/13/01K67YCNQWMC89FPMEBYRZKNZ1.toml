@@ -1,8 +1,11 @@
 id = "01K67YCNQWMC89FPMEBYRZKNZ1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00673"
+
+[meta]
 bill_number = 673
 congress = 13
-canonical = "SBN-00673"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-673", "https://web.senate.gov.ph/lisdata/18591234!.pdf",]
 title = "TRAUMA CENTER ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8505, OTHERWISE KNOWN AS THE RAPE
 scope = "National"
 subjects = [ "Trauma Center Act", "Rape Victim Assistance (RA 8505)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

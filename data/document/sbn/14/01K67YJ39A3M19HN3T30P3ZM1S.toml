@@ -1,8 +1,11 @@
 id = "01K67YJ39A3M19HN3T30P3ZM1S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03423"
+
+[meta]
 bill_number = 3423
 congress = 14
-canonical = "SBN-03423"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3423", "https://web.senate.gov.ph/lisdata/1234211010!.pdf",]
 title = "NATIONAL CONSCIOUSNESS WEEK AGAINST COUNTERFEIT MEDICINES ACT"
 date_filed = "2009-09-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING EVERY THIRD WEEK OF NOVEMBER OF EVERY YEAR AS NAT
 scope = "National"
 subjects = [ "Drugs and Medicines",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-03"
 action = "Introduced by Senator 'COMPANERA' PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2009"
+date = "2009-09-08"
 
 [[committees]]
 name = "Health and Demography"

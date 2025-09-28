@@ -1,8 +1,11 @@
 id = "01K67YJ7FYETDFHEN7GST926MF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00420"
+
+[meta]
 bill_number = 420
 congress = 15
-canonical = "SBN-00420"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-420", "https://web.senate.gov.ph/lisdata/78206672!.pdf",]
 title = "GRANTNG REWARDS TO INFORMERS OF VIOLATIONS OF INTERNAL REVENUE AND CUSTOMS LAWS"
 date_filed = "2010-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONSOLIDATING THE LAWS GRANTING REWARDS TO INFORMERS OF VIO
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-04"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2010"
+date = "2010-08-04"
 
 [[committees]]
 name = "Ways and Means"

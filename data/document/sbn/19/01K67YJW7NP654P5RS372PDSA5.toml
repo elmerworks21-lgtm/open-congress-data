@@ -1,8 +1,11 @@
 id = "01K67YJW7NP654P5RS372PDSA5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01929"
+
+[meta]
 bill_number = 1929
 congress = 19
-canonical = "SBN-01929"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1929", "https://web.senate.gov.ph/lisdata/4090437267!.pdf",]
 title = "CANCER MEDICINE AND TREATMENT FUND FOR FILIPINOS"
 date_filed = "2023-02-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A CANCER MEDICINE AND TREATMENT ASSISTANCE FUN
 scope = "National"
 subjects = [ "Cancer/Cancer Care Centers", "Indigent Persons", "Underprivileged Persons",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-27"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-28"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/28/2023"
+date = "2023-02-28"
 
 [[committees]]
 name = "Health and Demography"

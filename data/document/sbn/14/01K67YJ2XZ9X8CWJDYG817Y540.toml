@@ -1,8 +1,11 @@
 id = "01K67YJ2XZ9X8CWJDYG817Y540"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02941"
+
+[meta]
 bill_number = 2941
 congress = 14
-canonical = "SBN-02941"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2941", "https://web.senate.gov.ph/lisdata/95238630!.pdf",]
 title = "MINDANAO ECONOMIC DEVELOPMENT AUTHORITY (MEDA) ACT OF 2008"
 date_filed = "2008-12-03"
@@ -10,27 +13,28 @@ long_title = "AN ACT CREATING THE MINDANAO ECONOMIC DEVELOPMENT AUTHORITY (MEDA)
 scope = "National"
 subjects = [ "Mindanao Economic Development Authority (MEDA)",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-12-03"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, LOCAL GOVERNMENT and FINANCE per Committee Report No. 717, recommending that it be substituted by SBN-3496;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "SUBSTITUTED BY SBN-3496, WHICH BECAME R.A.NO. 9996."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/14/2009"
+date = "2009-10-14"
 

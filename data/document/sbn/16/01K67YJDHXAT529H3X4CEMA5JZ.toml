@@ -1,8 +1,11 @@
 id = "01K67YJDHXAT529H3X4CEMA5JZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01977"
+
+[meta]
 bill_number = 1977
 congress = 16
-canonical = "SBN-01977"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1977", "https://web.senate.gov.ph/lisdata/1834815523!.pdf",]
 title = "INCLUSION OF REPRESENTATIVES FROM THE PRIVATE SECTOR IN THE NATIONAL FOOD AUTHORITY COUNCIL"
 date_filed = "2013-11-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE INCLUSION OF REPRESENTATIVES FROM THE PRI
 scope = "National"
 subjects = [ "National Food Authority Council",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-27"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-03"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/3/2013"
+date = "2013-12-03"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

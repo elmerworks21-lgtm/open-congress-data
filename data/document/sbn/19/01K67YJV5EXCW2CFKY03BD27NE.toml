@@ -1,8 +1,11 @@
 id = "01K67YJV5EXCW2CFKY03BD27NE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00429"
+
+[meta]
 bill_number = 429
 congress = 19
-canonical = "SBN-00429"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-429", "https://web.senate.gov.ph/lisdata/3819034628!.pdf",]
 title = "SUBSCRIBER IDENTITY MODULE (SIM) CARD REGISTRATION ACT"
 date_filed = "2022-07-12"
@@ -10,41 +13,42 @@ long_title = "AN ACT ERADICATING MOBILE PHONE, INTERNET OR ELECTRONIC COMMUNICAT
 scope = "National"
 subjects = [ "Sim Card Registration",]
 authors_raw = "Dela Rosa, Ronald \"Bato\", Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-08"
 action = "Letter from Senator JOSEPH VICTOR G. EJERCITO, expressing his intention to be a co-author of SBN-429, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-13"
 action = "Returned and submitted jointly by the Committees on PUBLIC SERVICES, TRADE, COMMERCE AND ENTREPRENEURSHIP, SCIENCE AND TECHNOLOGY and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES per Committee Report No. 5, recommending that it be substituted by SBN-1310;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-13"
 action = "SUBSTITUTED BY SBN-1310 UNDER COMMITTEE REPORT NO. 5, WHICH BECAME REPUBLIC ACT NO. 11934 ON OCTOBER 10, 2022."
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-08"
 action = "Conducted ORGANIZATIONAL MEETING/BRIEFING;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/13/2022"
+date = "2022-09-13"
 
 [[committees]]
 name = "Public Services"

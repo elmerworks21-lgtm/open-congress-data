@@ -1,8 +1,11 @@
 id = "01K67YJPCD93ZPPZY9SG8HJS4M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00009"
+
+[meta]
 bill_number = 9
 congress = 18
-canonical = "SBN-00009"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-9", "https://web.senate.gov.ph/lisdata/3022527054!.pdf",]
 title = "ANTI-FALSE CONTENT ACT"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE PUBLICATION AND PROLIFERATION OF FALSE CONT
 scope = "National"
 subjects = [ "Anti-Fake News/Anti-False Content", "Cybercrime",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Public Information and Mass Media"

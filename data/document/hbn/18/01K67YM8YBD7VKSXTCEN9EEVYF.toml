@@ -1,28 +1,32 @@
 id = "01K67YM8YBD7VKSXTCEN9EEVYF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04443"
+
+[meta]
 bill_number = 4443
 congress = 18
-canonical = "HBN-04443"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-4443", "https://web.senate.gov.ph/lisdata/3261129476!.pdf",]
 title = "FISH PORT (PUERTO PRINCESA)"
 long_title = "AN ACT ESTABLISHING A FISH PORT IN BARANGAY MACARASCAS IN THE CITY OF PUERTO PRINCESA AND APPROPRL4TING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Fish Port",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-03-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-04"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM; PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-16"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/4/2020"
+date = "2020-05-04"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

@@ -1,8 +1,11 @@
 id = "01K67YJWTRP2NKRBRD956VRGH1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02682"
+
+[meta]
 bill_number = 2682
 congress = 19
-canonical = "SBN-02682"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2682", "https://web.senate.gov.ph/lisdata/4409840074!.pdf",]
 title = "SULTAN KUDARAT STATE UNIVERSITY COLLEGE OF MEDICINE ACT"
 date_filed = "2024-05-16"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING A COLLEGE OF MEDICINE IN THE SULTAN KUDARAT ST
 scope = "Local"
 subjects = [ "State Universities and Colleges (SUCS)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-16"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-21"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-28"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, WAYS AND MEANS and FINANCE per Committee Report No. 510, recommending that it be considered in HBN-10181;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-28"
 action = "CONSIDERED IN HBN-10181 UNDER COMMITTEE REPORT NO. 510."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/28/2025"
+date = "2025-01-28"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

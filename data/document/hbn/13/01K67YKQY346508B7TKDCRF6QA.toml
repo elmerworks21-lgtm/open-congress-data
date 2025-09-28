@@ -1,24 +1,28 @@
 id = "01K67YKQY346508B7TKDCRF6QA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04411"
+
+[meta]
 bill_number = 4411
 congress = 13
-canonical = "HBN-04411"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4411", "https://web.senate.gov.ph/lisdata/43853712!.pdf",]
 title = "TARLAC SECOND DISTRICT ENGINEERING OFFICE"
 long_title = "AN ACT UPGRADING THE TARLAC SUBDISTRICT ENGINEERING OFFICE INTO A REGULAR DISTRICT ENGINEERING OFFICE TO BE KNOWN AS THE TARLAC SECOND DISTRICT ENGINEERING OFFICE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tarlac Second District Engineering Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-27"
 action = "Filed in the Senate requesting for concurrence by Representative JESLI A. LAPUS as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2006"
+date = "2006-01-16"
 
 [[committees]]
 name = "Public Works"

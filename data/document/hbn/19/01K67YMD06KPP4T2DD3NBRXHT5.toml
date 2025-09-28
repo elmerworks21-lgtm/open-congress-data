@@ -1,24 +1,28 @@
 id = "01K67YMD06KPP4T2DD3NBRXHT5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05959"
+
+[meta]
 bill_number = 5959
 congress = 19
-canonical = "HBN-05959"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-5959", "https://web.senate.gov.ph/lisdata/4005336476!.pdf",]
 title = "NATIONAL SHRINE OF MARY HELP OF CHRISTIANS (PARANAQUE), A TOURISM DESTINATION"
 long_title = "AN ACT DECLARING THE IMMEDIATE ENVIRONS OF THE NATIONAL SHRINE OF MARY HELP OF CHRISTIANS LOCATED IN BARANGAY DON BOSCO, PARAÑAQUE CITY, A TOURISM DESTINATION"
 scope = "Local"
 subjects = [ "Tourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-29"
 action = "Read on First Reading and Referred to the Committees on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/29/2022"
+date = "2022-11-29"
 
 [[committees]]
 name = "Tourism"

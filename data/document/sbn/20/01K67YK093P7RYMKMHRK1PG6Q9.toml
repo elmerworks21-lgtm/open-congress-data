@@ -1,8 +1,11 @@
 id = "01K67YK093P7RYMKMHRK1PG6Q9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00811"
+
+[meta]
 bill_number = 811
 congress = 20
-canonical = "SBN-00811"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-811", "https://web.senate.gov.ph/lisdata/4736043359!.pdf",]
 title = "PLASTAX ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPOSING AN EXCISE TAX ON SPECIFIED TYPES OF SINGLE-USE PLA
 scope = "National"
 subjects = [ "Plastax", "Plastic Bags Tax", "Single-Use Plastic",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Ways and Means"

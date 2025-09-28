@@ -1,8 +1,11 @@
 id = "01K67YJPD3MWDKM32M40J1BGZM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00039"
+
+[meta]
 bill_number = 39
 congress = 18
-canonical = "SBN-00039"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-39", "https://web.senate.gov.ph/lisdata/3025527088!.pdf",]
 title = "CREATING THE DEPARTMENT OF DISASTER AND EMERGENCY MANAGEMENT"
 date_filed = "2019-07-01"
@@ -10,29 +13,30 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER AND EMERGENCY MANAGEMEN
 scope = "National"
 subjects = [ "Department of Disaster and Emergency Management",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on National Defense and Security; and the Committee on Peace, Unification and Reconciliation, SBN-39 shall now be referred to the Committee on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-02"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

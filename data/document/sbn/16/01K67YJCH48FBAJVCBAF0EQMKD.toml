@@ -1,8 +1,11 @@
 id = "01K67YJCH48FBAJVCBAF0EQMKD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00382"
+
+[meta]
 bill_number = 382
 congress = 16
-canonical = "SBN-00382"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-382", "https://web.senate.gov.ph/lisdata/1624413472!.pdf",]
 title = "LOCAL GOVERNMENT ACADEMY ACT OF 2013"
 date_filed = "2013-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE LOCAL GOVERNMENT ACADEMY OF THE PHILIPPINES, P
 scope = "National"
 subjects = [ "Local Government Academy of the Philippines",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Local Government"

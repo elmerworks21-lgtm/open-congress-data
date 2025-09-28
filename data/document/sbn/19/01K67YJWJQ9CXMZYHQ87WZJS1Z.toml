@@ -1,8 +1,11 @@
 id = "01K67YJWJQ9CXMZYHQ87WZJS1Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02390"
+
+[meta]
 bill_number = 2390
 congress = 19
-canonical = "SBN-02390"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2390", "https://web.senate.gov.ph/lisdata/4230538494!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS CREDIT ASSISTANCE ACT OF 2022"
 date_filed = "2023-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A CREDIT ASSISTANCE PROGRAM FOR OVERSEAS FILIP
 scope = "National"
 subjects = [ "Credit Assistance Program", "Overseas Filipino Workers (OFW)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-07"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-08"
 action = "Read on First Reading and Referred to the Committees on MIGRANT WORKERS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2023"
+date = "2023-08-08"
 
 [[committees]]
 name = "Migrant Workers"

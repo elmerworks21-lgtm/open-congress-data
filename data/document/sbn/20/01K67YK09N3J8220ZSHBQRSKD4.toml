@@ -1,8 +1,11 @@
 id = "01K67YK09N3J8220ZSHBQRSKD4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00840"
+
+[meta]
 bill_number = 840
 congress = 20
-canonical = "SBN-00840"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-840", "https://web.senate.gov.ph/lisdata/4740643409!.pdf",]
 title = "PROTECTED GEOGRAPHICAL INDICATIONS ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PROTECTION OF GEOGRAPHICAL INDICATIONS FO
 scope = "National"
 subjects = [ "Protected Geographical Indications",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

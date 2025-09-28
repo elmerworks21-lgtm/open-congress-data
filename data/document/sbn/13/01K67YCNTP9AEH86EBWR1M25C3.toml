@@ -1,8 +1,11 @@
 id = "01K67YCNTP9AEH86EBWR1M25C3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00833"
+
+[meta]
 bill_number = 833
 congress = 13
-canonical = "SBN-00833"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-833", "https://web.senate.gov.ph/lisdata/20311507!.pdf",]
 title = "NATIONAL REFERENCE CARD SYSTEM ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A NATIONAL REFERENCE CARD SYSTEM AND CREATING T
 scope = "National"
 subjects = [ "National Reference Card System Act", "National Registration Coordinating Com.", "Identification System",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committe(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

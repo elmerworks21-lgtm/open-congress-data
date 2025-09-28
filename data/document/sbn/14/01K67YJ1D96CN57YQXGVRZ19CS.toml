@@ -1,8 +1,11 @@
 id = "01K67YJ1D96CN57YQXGVRZ19CS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01035"
+
+[meta]
 bill_number = 1035
 congress = 14
-canonical = "SBN-01035"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1035", "https://web.senate.gov.ph/lisdata/53114690!.pdf",]
 title = "ABOLISHING THE 301 DAYS CRIMINAL PROHIBITION FOR A WIDOW TO REMARRY"
 date_filed = "2007-07-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT ABOLISHING THE THREE HUNDRED AND ONE (301) DAYS CRIMINAL PR
 scope = "National"
 subjects = [ "Revised Penal Code (RA 3815; Amendments)", "Widow (Remarriage)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-01"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-26"
 action = "Returned and submitted jointly by the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and YOUTH, WOMEN AND FAMILY RELATIONS per Committee Report No. 31, recommending that it be substituted by SBN-1988;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-26"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-26"
 action = "SUBSTITUTED BY SBN-1988."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/28/2008"
+date = "2008-01-28"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

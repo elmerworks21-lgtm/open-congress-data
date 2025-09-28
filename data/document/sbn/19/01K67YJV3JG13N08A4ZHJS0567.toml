@@ -1,8 +1,11 @@
 id = "01K67YJV3JG13N08A4ZHJS0567"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00343"
+
+[meta]
 bill_number = 343
 congress = 19
-canonical = "SBN-00343"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-343", "https://web.senate.gov.ph/lisdata/3810134543!.pdf",]
 title = "MAGNA CARTA FOR CHILD DEVELOPMENT WORKERS"
 date_filed = "2022-07-12"
@@ -10,37 +13,38 @@ long_title = "AN ACT INSTITUTING THE MAGNA CARTA FOR CHILD DEVELOPMENT WORKERS A
 scope = "National"
 subjects = [ "Magna Carta for Child Development Workers",]
 authors_raw = "Binay, Maria Lourdes Nancy S., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-28"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Letter from Senator LOREN B. LEGARDA dated July 29, 2024, expressing her intention to co-author SBN-343, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "CONSIDERED IN SBN-2575 UNDER COMMITTEE REPORT NO. 211."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/6/2024"
+date = "2024-08-06"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

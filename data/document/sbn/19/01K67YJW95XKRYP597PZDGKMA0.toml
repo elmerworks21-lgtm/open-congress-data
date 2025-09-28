@@ -1,8 +1,11 @@
 id = "01K67YJW95XKRYP597PZDGKMA0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01995"
+
+[meta]
 bill_number = 1995
 congress = 19
-canonical = "SBN-01995"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1995", "https://web.senate.gov.ph/lisdata/4114937466!.pdf",]
 title = "CREATING BARANGAY BUKAL IN NABUNTURAN, PROVINCE OF DAVAO DE ORO"
 date_filed = "2023-03-14"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY BUKAL IN THE MU
 scope = "Local"
 subjects = [ "Barangay, Creation",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-14"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-14"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/14/2023"
+date = "2023-03-14"
 
 [[committees]]
 name = "Local Government"

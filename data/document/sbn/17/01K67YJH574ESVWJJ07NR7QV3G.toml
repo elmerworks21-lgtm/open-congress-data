@@ -1,8 +1,11 @@
 id = "01K67YJH574ESVWJJ07NR7QV3G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00040"
+
+[meta]
 bill_number = 40
 congress = 17
-canonical = "SBN-00040"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-40", "https://web.senate.gov.ph/lisdata/2345320037!.pdf",]
 title = "THE BUDGET REFORM FOR VILLAGE EMPOWERMENT ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,25 +13,26 @@ long_title = "AN ACT INSTITUTING BUDGET REFORM THAT WILL ENSURE THE EQUITABLE DI
 scope = "National"
 subjects = [ "Budget Reforms", "Village Empowerment", "Local Government Units (LGUS)",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-10"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-06"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/26/2016"
+date = "2016-07-26"
 
 [[committees]]
 name = "Finance"

@@ -1,8 +1,11 @@
 id = "01K67YJ9G73GXNFCH8C0M5Z0JQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03124"
+
+[meta]
 bill_number = 3124
 congress = 15
-canonical = "SBN-03124"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3124", "https://web.senate.gov.ph/lisdata/1282010831!.pdf",]
 title = "ELECTORAL REFORMS LAW"
 date_filed = "2012-02-15"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING SECTION 13 OF REPUBLIC ACT NO. 6646, THE ELECTORAL
 scope = "National"
 subjects = [ "Elections/Electoral Reforms", "Teachers",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2012-02-15"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-02-21"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-08"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-23"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/21/2012"
+date = "2012-02-21"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

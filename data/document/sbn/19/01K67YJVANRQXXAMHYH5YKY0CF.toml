@@ -1,8 +1,11 @@
 id = "01K67YJVANRQXXAMHYH5YKY0CF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00670"
+
+[meta]
 bill_number = 670
 congress = 19
-canonical = "SBN-00670"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-670", "https://web.senate.gov.ph/lisdata/3856435019!.pdf",]
 title = "FISCAL AND MONETARY REPORT ACT"
 date_filed = "2022-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE SECRETARIES OF THE DEPARTMENT OF FINANCE, NAT
 scope = "National"
 subjects = [ "Department of Finance", "National Economic Development Authority (NEDA)", "Department of Budget and Management (DBM)", "Bangko Sentral Ng Pilipinas (BSP)", "Fiscal and Monetary Report",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committees on ECONOMIC AFFAIRS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2022"
+date = "2022-08-23"
 
 [[committees]]
 name = "Economic Affairs"

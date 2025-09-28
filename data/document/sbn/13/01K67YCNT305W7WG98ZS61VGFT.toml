@@ -1,8 +1,11 @@
 id = "01K67YCNT305W7WG98ZS61VGFT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00799"
+
+[meta]
 bill_number = 799
 congress = 13
-canonical = "SBN-00799"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-799", "https://web.senate.gov.ph/lisdata/19891437!.pdf",]
 title = "PHILIPPINE FISHERIES CODE OF 1998, AMENDMENT"
 date_filed = "2004-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED EIGHTY-FIVE HUNDRED AND FIFT
 scope = "National"
 subjects = [ "Phil. Fisheries Code of 1998 (RA 8550)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on AGRICULTURE AND FOOD; and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-23"
 action = "Returned and submitted jointly by the Committee(s) on AGRICULTURE AND FOOD and ENVIRONMENT AND NATURAL RESOURCES per Committee Report No. 177, recommending that it be substituted by SBN-2522;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "SUBSTITUTED BY SBN-2522, WHICH BECAME R.A.NO. 9379."
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/24/2006"
+date = "2006-11-24"
 
 [[committees]]
 name = "Agriculture and Food"

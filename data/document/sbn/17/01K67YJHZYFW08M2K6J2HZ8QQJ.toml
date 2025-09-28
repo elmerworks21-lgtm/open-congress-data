@@ -1,8 +1,11 @@
 id = "01K67YJHZYFW08M2K6J2HZ8QQJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01216"
+
+[meta]
 bill_number = 1216
 congress = 17
-canonical = "SBN-01216"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1216", "https://web.senate.gov.ph/lisdata/2504321578!.pdf",]
 title = "ON-SITE, IN-CITY OR NEAR CITY RESETTLEMENT ACT OF 2016"
 date_filed = "2016-10-19"
@@ -10,37 +13,38 @@ long_title = "AN ACT ESTABLISHING AN ON-SITE, IN-CITY OR NEAR-CITY RESETTLEMENT 
 scope = "National"
 subjects = [ "Resettlement Program", "Urban Development and Housing Act (R.A.No. 7279)", "Local Government Units (LGUS)", "Squatters/Squatting/Informal Settlers",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2016-10-19"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-07"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-01"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Returned and submitted jointly by the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT and LOCAL GOVERNMENT per Committee Report No. 55, recommending that it be substituted by SBN-1393;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-15"
 action = "SUBSTITUTED BY SBN-1393 UNDER COMMITTEE REPORT NO. 55."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/15/2017"
+date = "2017-03-15"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

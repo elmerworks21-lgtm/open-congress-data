@@ -1,8 +1,11 @@
 id = "01K67YCPPX6M5QY99FEJ3HJRBS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02286"
+
+[meta]
 bill_number = 2286
 congress = 13
-canonical = "SBN-02286"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2286", "https://web.senate.gov.ph/lisdata/53894529!.pdf",]
 title = "EMPLOYMENT CONTRACTS FOR EMPLOYEES"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING EMPLOYERS TO FURNISH EMPLOYEES COPIES OF THE EMPL
 scope = "National"
 subjects = [ "Employee Security of Tenure", "Labor Code of the Philippines (Pd 442)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

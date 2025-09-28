@@ -1,18 +1,22 @@
 id = "01K67YMDXFWYEXSJBADHNY1AVH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11356"
+
+[meta]
 bill_number = 11356
 congress = 19
-canonical = "HBN-11356"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11356", "https://web.senate.gov.ph/lisdata/4642242429!.pdf",]
 title = "AMENDING RA NO. 10644 (GO NEGOSYO ACT)"
 long_title = "AN ACT STRENGTHENING THE FUNCTIONS OF THE NEGOSYO CENTERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10644, OTHERWISE KNOWN AS THE 'GO NEGOSYO ACT'"
 scope = "National"
 subjects = [ "Go Negosyo",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-06-11"
 action = "Sent to the Senate requesting for concurrence;"
 
 [[status]]
 status = "Pending First Reading"
-date = "6/11/2025"
+date = "2025-06-11"
 

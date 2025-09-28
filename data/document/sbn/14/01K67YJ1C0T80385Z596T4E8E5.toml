@@ -1,8 +1,11 @@
 id = "01K67YJ1C0T80385Z596T4E8E5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00969"
+
+[meta]
 bill_number = 969
 congress = 14
-canonical = "SBN-00969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-969", "https://web.senate.gov.ph/lisdata/52354601!.pdf",]
 title = "CIGARETTES TOXICITY LEVEL DISCLOSURE"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL CIGARETTE AND CIGAR MANUFACTURERS AND DISTRIB
 scope = "National"
 subjects = [ "Cigars", "Cigarettes",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Health and Demography"

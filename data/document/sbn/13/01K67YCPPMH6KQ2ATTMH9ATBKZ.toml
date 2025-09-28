@@ -1,8 +1,11 @@
 id = "01K67YCPPMH6KQ2ATTMH9ATBKZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02271"
+
+[meta]
 bill_number = 2271
 congress = 13
-canonical = "SBN-02271"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2271", "https://web.senate.gov.ph/lisdata/53744456!.pdf",]
 title = "UNIFORM DESIGN FOR THE OUTLET/REGULATOR OF THE LPG GAS TANKS"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING A UNIFORM OR STANDARD DESIGN FOR THE OUTLET AND
 scope = "National"
 subjects = [ "Lpg Gas Tanks (Uniform", "Standard Design)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/7/2006"
+date = "2006-06-07"
 
 [[committees]]
 name = "Trade and Commerce"

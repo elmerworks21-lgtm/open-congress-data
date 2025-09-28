@@ -1,8 +1,11 @@
 id = "01K67YJD66PZAJFC6R1SCR9EPR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01403"
+
+[meta]
 bill_number = 1403
 congress = 16
-canonical = "SBN-01403"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1403", "https://web.senate.gov.ph/lisdata/1749914735!.pdf",]
 title = "COMPREHENSIVE AGRARIAN REFORM LAW"
 date_filed = "2013-08-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NUMBER SIX THOUSA
 scope = "National"
 subjects = [ "Comprehensive Agrarian Reform Law (Carl; R.A.No. 6657)", "Coconut Farming Land",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-29"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-04"
 action = "Read on First Reading and Referred to the Committee on AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2013"
+date = "2013-09-04"
 
 [[committees]]
 name = "Agrarian Reform"

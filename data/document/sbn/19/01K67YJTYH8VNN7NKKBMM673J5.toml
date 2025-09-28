@@ -1,8 +1,11 @@
 id = "01K67YJTYH8VNN7NKKBMM673J5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00114"
+
+[meta]
 bill_number = 114
 congress = 19
-canonical = "SBN-00114"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-114", "https://web.senate.gov.ph/lisdata/3782234263!.pdf",]
 title = "ENVIRONMENTAL PROTECTION AND ENFORCEMENT BUREAU (EPEB) ACT"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE ENVIRONMENTAL PROTECTION AND ENFORCEMENT BUREA
 scope = "National"
 subjects = [ "Environmental Protection and Enforcement Bureau (EPEB)", "Department of Environment and Natural Resources (DENR)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

@@ -1,8 +1,11 @@
 id = "01K67YCPMN8W66T998GW7NSWQ6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02184"
+
+[meta]
 bill_number = 2184
 congress = 13
-canonical = "SBN-02184"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2184", "https://web.senate.gov.ph/lisdata/44113600!.pdf",]
 title = "PHILIPPINE DENTAL ACT"
 date_filed = "2005-12-19"
@@ -10,37 +13,38 @@ long_title = "AN ACT TO REGULATE THE PRACTICE OF DENTISTRY, DENTAL HYGIENE, AND 
 scope = "National"
 subjects = [ "Philippine Dental Act (Regulation)", "Dental Hygiene/Dental Technology", "Dentistry Act (RA 4419, Amendments)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-19"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Returned and submitted jointly by the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION, HEALTH AND DEMOGRAPHY, CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and FINANCE per Committee Report No. 232, recommending that it be substituted by SBN-2581;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "SUBSTITUTED BY SBN-2581."
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-19"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/31/2007"
+date = "2007-01-31"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

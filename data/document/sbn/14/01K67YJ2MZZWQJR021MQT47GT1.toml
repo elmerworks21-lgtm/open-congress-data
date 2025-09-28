@@ -1,8 +1,11 @@
 id = "01K67YJ2MZZWQJR021MQT47GT1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02538"
+
+[meta]
 bill_number = 2538
 congress = 14
-canonical = "SBN-02538"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2538", "https://web.senate.gov.ph/lisdata/80907311!.pdf",]
 title = "BIKOL BOTANICAL GARDEN"
 date_filed = "2008-08-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH THE BIKOL BOTANICAL GARDEN IN THE PROVINCE OF 
 scope = "Local"
 subjects = [ "Bikol Botanical Garden",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-14"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-19"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2008"
+date = "2008-08-19"
 
 [[committees]]
 name = "Rules"

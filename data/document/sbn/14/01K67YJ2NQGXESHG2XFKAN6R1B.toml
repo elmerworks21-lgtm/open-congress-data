@@ -1,8 +1,11 @@
 id = "01K67YJ2NQGXESHG2XFKAN6R1B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02573"
+
+[meta]
 bill_number = 2573
 congress = 14
-canonical = "SBN-02573"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2573", "https://web.senate.gov.ph/lisdata/81917397!.pdf",]
 title = "MINING ENGINEERING ACT OF 2008"
 date_filed = "2008-08-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE PRACTICE OF MINING ENGINEERING IN THE PHILIP
 scope = "National"
 subjects = [ "Mining Engineering Law of the Philippines (R.A.No. 4274)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-28"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2008"
+date = "2008-09-01"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

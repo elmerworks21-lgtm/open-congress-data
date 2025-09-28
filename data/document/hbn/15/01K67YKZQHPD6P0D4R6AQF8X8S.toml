@@ -1,24 +1,28 @@
 id = "01K67YKZQHPD6P0D4R6AQF8X8S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04094"
+
+[meta]
 bill_number = 4094
 congress = 15
-canonical = "HBN-04094"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4094", "https://web.senate.gov.ph/lisdata/113329638!.pdf",]
 title = "LONE LEGISLATIVE DISTRICT OF THE CITY OF BATANGAS"
 long_title = "AN ACT SEPARATING THE CITY OF BATANGAS FROM THE SECOND LEGISLATIVE DISTRICT OF THE PROVINCE OF BATANGAS TO CONSTITUTE THE LONE LEGISLATIVE DISTRICT OF THE CITY OF BATANGAS"
 scope = "Local"
 subjects = [ "Legislative Districts",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-25"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/25/2011"
+date = "2011-05-25"
 
 [[committees]]
 name = "Local Government"

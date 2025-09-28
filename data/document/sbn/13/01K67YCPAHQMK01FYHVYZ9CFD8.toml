@@ -1,8 +1,11 @@
 id = "01K67YCPAHQMK01FYHVYZ9CFD8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01696"
+
+[meta]
 bill_number = 1696
 congress = 13
-canonical = "SBN-01696"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1696", "https://web.senate.gov.ph/lisdata/29482480!.pdf",]
 title = "RESIDENTIAL LEAD-BASED PAINT HAZARD REDUCTION ACT"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REDUCE LEAD-BASED PAINT HAZARDS IN RESIDENTIAL ENVIRONME
 scope = "National"
 subjects = [ "Residential Lead-Based Paint Hazard",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; ENVIRONMENT AND NATURAL RESOURCES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Health and Demography"

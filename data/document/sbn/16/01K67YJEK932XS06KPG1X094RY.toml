@@ -1,8 +1,11 @@
 id = "01K67YJEK932XS06KPG1X094RY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03210"
+
+[meta]
 bill_number = 3210
 congress = 16
-canonical = "SBN-03210"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3210", "https://web.senate.gov.ph/lisdata/2305919799!.pdf",]
 title = "PALLIATIVE AND HOSPICE CARE"
 date_filed = "2016-02-02"
@@ -10,29 +13,30 @@ long_title = "AN ACT INTEGRATING PALLIATIVE AND HOSPICE CARE INTO THE PHILIPPINE
 scope = "National"
 subjects = [ "Palliative Care",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2016-02-02"
 action = "Prepared and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, WAYS AND MEANS and FINANCE with Senator FERDINAND 'BONGBONG' R. MARCOS as author per Committee Report No. 467, recommending its approval in substitution of SBNos. 417, 1531, 2284 and 3008;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-02"
 action = "Sponsor: Senator TEOFISTO 'TG' GUINGONA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "Sponsorship speech of Senator TEOFISTO 'TG' GUINGONA III;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/3/2016"
+date = "2016-02-03"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YK0F5TG0DBFBECQG9J2N0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01132"
+
+[meta]
 bill_number = 1132
 congress = 20
-canonical = "SBN-01132"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1132", "https://web.senate.gov.ph/lisdata/4769443714!.pdf",]
 title = "NATIONAL GRANDPARENTS DAY ACT"
 date_filed = "2025-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT DESIGNATING THE SECOND SUNDAY OF SEPTEMBER AS THE NATIONAL 
 scope = "National"
 subjects = [ "Grandparents Day",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

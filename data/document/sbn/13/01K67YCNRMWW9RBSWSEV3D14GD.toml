@@ -1,8 +1,11 @@
 id = "01K67YCNRMWW9RBSWSEV3D14GD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00716"
+
+[meta]
 bill_number = 716
 congress = 13
-canonical = "SBN-00716"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-716", "https://web.senate.gov.ph/lisdata/19061289!.pdf",]
 title = "ADDITIONAL REQUIREMENT FOR VEHICLE'S REGISTRATION"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROTECT AND PROMOTE THE HEALTH OF THE PEOPLE THROUGH THE
 scope = "National"
 subjects = [ "Motor Vehicles/Registration Requirement", "Smoke-Belching Vehicles (Pollution)", "Pd No. 1181, Amendments",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-18"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2004"
+date = "2004-08-18"
 
 [[committees]]
 name = "Environment and Natural Resources"

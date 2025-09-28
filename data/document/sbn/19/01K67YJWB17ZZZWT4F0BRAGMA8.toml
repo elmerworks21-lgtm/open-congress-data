@@ -1,8 +1,11 @@
 id = "01K67YJWB17ZZZWT4F0BRAGMA8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02066"
+
+[meta]
 bill_number = 2066
 congress = 19
-canonical = "SBN-02066"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2066", "https://web.senate.gov.ph/lisdata/4138637703!.pdf",]
 title = "CRITICAL INFORMATION INFRASTRUCTURE PROTECTION ACT OF 2022"
 date_filed = "2023-04-12"
@@ -10,33 +13,34 @@ long_title = "AN ACT REQUIRING CRITICAL INFORMATION INFRASTRUCTURE INSTITUTIONS 
 scope = "National"
 subjects = [ "Critical Information Infrastructure Institutions", "Information and Communications Technology (ICT)",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2023-04-12"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-10-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/8/2023"
+date = "2023-05-08"
 
 [[committees]]
 name = "Science and Technology"

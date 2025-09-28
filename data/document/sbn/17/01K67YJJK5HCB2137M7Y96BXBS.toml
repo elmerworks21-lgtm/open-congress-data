@@ -1,8 +1,11 @@
 id = "01K67YJJK5HCB2137M7Y96BXBS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01928"
+
+[meta]
 bill_number = 1928
 congress = 17
-canonical = "SBN-01928"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1928", "https://web.senate.gov.ph/lisdata/2832424665!.pdf",]
 title = "RIGHT TO ADEQUATE FOOD FRAMEWORK ACT OF 2018"
 date_filed = "2018-08-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING A FRAMEWORK FOR THE RIGHT TO ADEQUATE FOOD"
 scope = "National"
 subjects = [ "Right to Adequate Food", "Adequate Food Framework", "Hunger",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-09"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2018"
+date = "2018-08-14"
 
 [[committees]]
 name = "Justice and Human Rights"

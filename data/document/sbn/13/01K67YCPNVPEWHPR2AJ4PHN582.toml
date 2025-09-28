@@ -1,8 +1,11 @@
 id = "01K67YCPNVPEWHPR2AJ4PHN582"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02239"
+
+[meta]
 bill_number = 2239
 congress = 13
-canonical = "SBN-02239"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2239", "https://web.senate.gov.ph/lisdata/48603986!.pdf",]
 title = "STAPLE WIRES ON FOOD ITEMS PROHIBITION ACT OF 2006"
 date_filed = "2006-04-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE USE OF STAPLE WIRES OR ANY OTHER SIMILAR FO
 scope = "National"
 subjects = [ "Staple Wires on Food Items Prohibition", "Food/Food Products (Staple Wires Prohibition)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-03"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-04-04"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/4/2006"
+date = "2006-04-04"
 
 [[committees]]
 name = "Trade and Commerce"

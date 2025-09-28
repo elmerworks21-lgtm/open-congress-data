@@ -1,8 +1,11 @@
 id = "01K67YJ39B5P3CGR5WENMT9A2R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03425"
+
+[meta]
 bill_number = 3425
 congress = 14
-canonical = "SBN-03425"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3425", "https://web.senate.gov.ph/lisdata/1234411014!.pdf",]
 title = "SUSTAINABLE FOREST MANAGEMENT (SFM) ACT OF 2009"
 date_filed = "2009-09-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR SUSTAINABLE FOREST MANAGEMENT"
 scope = "National"
 subjects = [ "Sustainable Forest Management",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-03"
 action = "Introduced by Senator 'COMPANERA' PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-08"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, FINANCE, LOCAL GOVERNMENT and WAYS AND MEANS per Committee Report No. 826, recommending that it be substituted by SBN-3580;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "SUBSTITUTED BY SBN-3580."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/2/2010"
+date = "2010-02-02"
 
 [[committees]]
 name = "Environment and Natural Resources"

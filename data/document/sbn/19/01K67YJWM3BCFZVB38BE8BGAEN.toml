@@ -1,8 +1,11 @@
 id = "01K67YJWM3BCFZVB38BE8BGAEN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02441"
+
+[meta]
 bill_number = 2441
 congress = 19
-canonical = "SBN-02441"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2441", "https://web.senate.gov.ph/lisdata/4270338831!.pdf",]
 title = "FREE COLLEGE ENTRANCE EXAMINATIONS ACT"
 date_filed = "2023-09-14"
@@ -10,105 +13,106 @@ long_title = "AN ACT MANDATING PRIVATE HIGHER EDUCATION INSTITUTIONS TO WAIVE CO
 scope = "National"
 subjects = [ "College Entrance Examination",]
 authors_raw = "Revilla Jr., Ramon Bong, Villar, Mark A., Lapid, Manuel \"Lito\" M., Go, Christopher Lawrence T., Tulfo, Raffy T., Escudero, Francis G., Gatchalian, Win, Villanueva, Joel, Dela Rosa, Ronald \"Bato\", Padilla, Robinhood C., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-14"
 action = "Prepared and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and BASIC EDUCATION with Senators RAMON BONG REVILLA JR., MARK A. VILLAR, MANUEL 'LITO' M. LAPID, CHRISTOPHER LAWRENCE T. GO, RAFFY T. TULFO, FRANCIS G. ESCUDERO and WIN GATCHALIAN as authors per Committee Report No. 122, recommending its approval in substitution of SBNos. 1407, 1672, 1679, 1708, and 2079, taking into consideration HBN-5001;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-18"
 action = "Sponsor: Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-20"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-20"
 action = "Sponsorship speech delivered by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-20"
 action = "Co-sponsorship speech of Senators JOEL VILLANUEVA, CHRISTOPHER LAWRENCE T. GO, RAMON BONG REVILLA JR. and JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-20"
 action = "Manifestation of Senator JOEL VILLANUEVA that he and Senators RONALD 'BATO' DELA ROSA and ROBINHOOD C. PADILLA be made co-authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-20"
 action = "Manifestation of Senator LOREN B. LEGARDA that she be made co-author;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-06"
 action = "Interpellation of Senator AQUILINO 'KOKO' III PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-06"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-06"
 action = "Period of amendment closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-06"
 action = "Approved on Second Reading without Amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-07"
 action = "Printed copies were electronically distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-11"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-11"
 action = "In favor: (20) Senators SONNY ANGARA, MARIA LOURDES NANCY S. BINAY, RONALD 'BATO' DELA ROSA, JOSEPH VICTOR G. EJERCITO, FRANCIS G. ESCUDERO, JINGGOY E. ESTRADA, WIN GATCHALIAN, CHRISTOPHER LAWRENCE T. GO, RISA HONTIVEROS, MANUEL 'LITO' M. LAPID, IMEE R. MARCOS, ROBINHOOD C. PADILLA, AQUILINO 'KOKO' III PIMENTEL, GRACE POE, RAMON BONG REVILLA JR., RAFFY T. TULFO, JOEL VILLANUEVA, MARK A. VILLAR, CYNTHIA A. VILLAR and JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-11"
 action = "Against: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-11"
 action = "Abstention: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-12"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "House of Representatives adopted SBN-2441 as an amendment to HBN-5001 on March 19, 2024;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-30"
 action = "Letter from Senate Secretary Renato N. Bantug Jr., transmitting nine (9) enrolled copies of SBN-2441 and HBN-5001, for the signature of Speaker Martin G. Romualdez and Secretary General Reginald S. Velasco;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-09"
 action = "Letter for Senate Secretary Renato N. Bantug, Jr., returning eight (8) enrolled copies of the consolidated version of SBN-2441 and HBN-5001, which were signed by Speaker Ferdinand Martin G. Romualdez and Secretary General Reginald S. Velasco;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-14"
 action = "Enrolled copies of the consolidated version of SBN-2441 and HBN-5001, sent to the Office of the President through PLLO for the signature of the President of the Philippines, His Excellency, President Ferdinand Romualdez Marcos Jr.;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-02"
 action = "Enacted into law, in consolidation with HBN-5001, without Executive approval pursuant to the provisions of Section 27(1), Article VI of the Constitution on June 14, 2024 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-02"
 action = "REPUBLIC ACT NO. 12006."
 
 [[status]]
 status = "Lapsed Into Law"
-date = "6/14/2024"
+date = "2024-06-14"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

@@ -1,8 +1,11 @@
 id = "01K67YJHSASZAZYFF7DD3X7XM9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00926"
+
+[meta]
 bill_number = 926
 congress = 17
-canonical = "SBN-00926"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-926", "https://web.senate.gov.ph/lisdata/2448321067!.pdf",]
 title = "ESTABLISHING LGBT HELP AND PROTECTION DESKS IN ALL PNP STATIONS"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING LESBIAN, GAY, BISEXUAL, AND TRANSGENDER (LGBT)
 scope = "National"
 subjects = [ "Philippine National Police (PNP)", "Gender Education",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

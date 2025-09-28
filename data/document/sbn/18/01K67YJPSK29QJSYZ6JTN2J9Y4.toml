@@ -1,8 +1,11 @@
 id = "01K67YJPSK29QJSYZ6JTN2J9Y4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00608"
+
+[meta]
 bill_number = 608
 congress = 18
-canonical = "SBN-00608"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-608", "https://web.senate.gov.ph/lisdata/3095027884!.pdf",]
 title = "NO GARAGE, NO CAR ACT"
 date_filed = "2019-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING PROOF OF AVAILABLE PARKING SPACE FROM MOTOR VEHIC
 scope = "National"
 subjects = [ "Motor Vehicles", "Parking Space", "Land Transportation and Traffic Code (R.A.No. 4136)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-18"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Public Services"

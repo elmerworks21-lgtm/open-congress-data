@@ -1,8 +1,11 @@
 id = "01K67YCPW5J6H1RZMFM10JJ9J3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02563"
+
+[meta]
 bill_number = 2563
 congress = 13
-canonical = "SBN-02563"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2563", "https://web.senate.gov.ph/lisdata/66595441!.pdf",]
 title = "RAMON MAGSAYSAY AWARD FOUNDATION (PARCEL OF LAND)"
 date_filed = "2006-12-20"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING SECTIONS 2 AND 3 OF REPUBLIC ACT NO. 2239, OTHERWI
 scope = "National"
 subjects = [ "Ramon Magsaysay Award Foundation (Parcel of Land)",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2006-12-20"
 action = "Introduced by Senator JUAN M. FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-20"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Returned and submitted by the Committee on ENVIRONMENT AND NATURAL RESOURCES per Committee Report No. 237, recommending that it be substituted by SBN-2586;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Submitted said Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "SUBSTITUTED BY SBN-2586."
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-15"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/31/2007"
+date = "2007-01-31"
 
 [[committees]]
 name = "Environment and Natural Resources"

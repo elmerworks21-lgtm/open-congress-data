@@ -1,8 +1,11 @@
 id = "01K67YJTZX9SH7RE9V1P54KFSX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00174"
+
+[meta]
 bill_number = 174
 congress = 19
-canonical = "SBN-00174"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-174", "https://web.senate.gov.ph/lisdata/3788234323!.pdf",]
 title = "EXPANDED PHILIPPINE DISASTER RISK REDUCTION AND MANAGEMENT FRAMEWORK OF 2022"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10121, OTHERWISE KNOWN AS THE ‘
 scope = "National"
 subjects = [ "Disaster Risk Reduction and Management", "Philippine Disaster Risk Reduction and Management Act of 2010 (R.A.No. 10121)",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

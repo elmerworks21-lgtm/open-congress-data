@@ -1,8 +1,11 @@
 id = "01K67YJH79456JMFAQBNRF295J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00126"
+
+[meta]
 bill_number = 126
 congress = 17
-canonical = "SBN-00126"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-126", "https://web.senate.gov.ph/lisdata/2354520160!.pdf",]
 title = "AMENDING THE TAX REFORM ACT OF 1997 ON VAT EXEMPTION OF PETROLEUM PRODUCTS"
 date_filed = "2016-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT CLASSIFYING THE SALE OR IMPORTATION OF PETROLEUM PRODUCTS A
 scope = "National"
 subjects = [ "Taxes (Value-Added Tax / Vat)", "Tax Reform Act", "Petroleum Products",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 164, recommending that it be substituted by SBN-1592;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "SUBSTITUTED BY SBN-1592 UNDER COMMITTEE REPORT NO. 164."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/20/2017"
+date = "2017-09-20"
 
 [[committees]]
 name = "Ways and Means"

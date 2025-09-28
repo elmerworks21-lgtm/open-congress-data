@@ -1,8 +1,11 @@
 id = "01K67YCNW3B5MJ5QXX1G3TKK6R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00912"
+
+[meta]
 bill_number = 912
 congress = 13
-canonical = "SBN-00912"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-912", "https://web.senate.gov.ph/lisdata/21151601!.pdf",]
 title = "SCHOOL CALENDAR ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REVISING THE SCHOOL CALENDAR FOR THE HEALTH, SAFETY AND WEL
 scope = "National"
 subjects = [ "School Calendar Act of 2004",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-31"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2004"
+date = "2004-08-31"
 
 [[committees]]
 name = "Education, Arts and Culture"

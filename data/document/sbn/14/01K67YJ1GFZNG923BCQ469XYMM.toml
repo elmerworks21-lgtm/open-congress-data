@@ -1,8 +1,11 @@
 id = "01K67YJ1GFZNG923BCQ469XYMM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01189"
+
+[meta]
 bill_number = 1189
 congress = 14
-canonical = "SBN-01189"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1189", "https://web.senate.gov.ph/lisdata/54844868!.pdf",]
 title = "DEPARTMENT OF ENERGY EXPANDED POWER"
 date_filed = "2007-07-05"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8479, OTHERWISE KNOWN AS THE DOWN
 scope = "National"
 subjects = [ "Oil Industry Deregulation", "Department of Energy (DOE)",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-05"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Energy"

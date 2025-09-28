@@ -1,8 +1,11 @@
 id = "01K67YJVDEYMQ4DB7GRG66181C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00800"
+
+[meta]
 bill_number = 800
 congress = 19
-canonical = "SBN-00800"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-800", "https://web.senate.gov.ph/lisdata/3851334971!.pdf",]
 title = "DIALYSIS CENTER ACT"
 date_filed = "2022-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT
 scope = "National"
 subjects = [ "Dialysis Center", "Hospitals (Government Hospitals)", "Indigent Persons",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Health and Demography"

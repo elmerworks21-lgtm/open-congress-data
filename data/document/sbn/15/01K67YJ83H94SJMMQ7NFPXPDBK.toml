@@ -1,8 +1,11 @@
 id = "01K67YJ83H94SJMMQ7NFPXPDBK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01380"
+
+[meta]
 bill_number = 1380
 congress = 15
-canonical = "SBN-01380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1380", "https://web.senate.gov.ph/lisdata/89297471!.pdf",]
 title = "NATIONAL RAILWAYS ACT OF 2010"
 date_filed = "2010-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT ACCELERATING THE DEVELOPMENT OF A NATIONAL RAILWAY SYSTEM, 
 scope = "National"
 subjects = [ "National Railway Authority",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-13"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2010"
+date = "2010-08-31"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

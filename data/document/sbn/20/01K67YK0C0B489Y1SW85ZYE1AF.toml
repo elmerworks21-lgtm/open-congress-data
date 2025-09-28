@@ -1,8 +1,11 @@
 id = "01K67YK0C0B489Y1SW85ZYE1AF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00966"
+
+[meta]
 bill_number = 966
 congress = 20
-canonical = "SBN-00966"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-966", "https://web.senate.gov.ph/lisdata/4748843492!.pdf",]
 title = "THE MANGROVE FOREST PROTECTION AND PRESERVATION"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PRESERVATION, REFORESTATION AND SUSTAINAB
 scope = "National"
 subjects = [ "Mangrove Forests", "Forest Reserve",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

@@ -1,8 +1,11 @@
 id = "01K67YJ28RNQKZBZXFB52SPTWX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02011"
+
+[meta]
 bill_number = 2011
 congress = 14
-canonical = "SBN-02011"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2011", "https://web.senate.gov.ph/lisdata/67255963!.pdf",]
 title = "LOCAL WATER UTILITIES ADMINISTRATION CAPITAL STOCK INCREASE"
 date_filed = "2008-01-28"
@@ -10,33 +13,34 @@ long_title = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 198, OTHERWISE KNO
 scope = "National"
 subjects = [ "Local Water Utilities Administration (LWUA)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-28"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; PUBLIC SERVICES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-28"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC WORKS, PUBLIC SERVICES and FINANCE per Committee Report No. 84, recommending that it be substituted by SBN-2486;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "SUBSTITUTED BY SBN-2486."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YJDADVSQCV619BPZH838D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01614"
+
+[meta]
 bill_number = 1614
 congress = 16
-canonical = "SBN-01614"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1614", "https://web.senate.gov.ph/lisdata/1772214975!.pdf",]
 title = "WHISTLEBLOWER PROTECTION, SECURITY AND BENEFIT ACT OF 2013"
 date_filed = "2013-09-10"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR THE PROTECTION, SECURITY AND BENEFITS OF WHIS
 scope = "National"
 subjects = [ "Whistleblowers",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-10"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2013"
+date = "2013-09-17"
 
 [[committees]]
 name = "Justice and Human Rights"

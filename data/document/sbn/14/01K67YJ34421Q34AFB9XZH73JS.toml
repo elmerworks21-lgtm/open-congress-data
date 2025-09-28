@@ -1,8 +1,11 @@
 id = "01K67YJ34421Q34AFB9XZH73JS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03218"
+
+[meta]
 bill_number = 3218
 congress = 14
-canonical = "SBN-03218"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3218", "https://web.senate.gov.ph/lisdata/110909800!.pdf",]
 title = "LOCAL GOVERNMENT CODE (TITLE I, BOOK II OF R.A. NO. 7160)"
 date_filed = "2009-05-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT BROADENING THE SCOPE OF TAXING POWERS OF LOCAL GOVERNMENT U
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Local Government Code (RA 7160; Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-06"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-11"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/11/2009"
+date = "2009-05-11"
 
 [[committees]]
 name = "Local Government"

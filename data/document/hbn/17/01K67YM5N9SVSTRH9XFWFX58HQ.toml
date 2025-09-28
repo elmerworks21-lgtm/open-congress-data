@@ -1,24 +1,28 @@
 id = "01K67YM5N9SVSTRH9XFWFX58HQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-01700"
+
+[meta]
 bill_number = 1700
 congress = 17
-canonical = "HBN-01700"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-1700", "https://web.senate.gov.ph/lisdata/2890425432!.pdf",]
 title = "MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT (AMENDMENTS)"
 long_title = "AN ACT GRANTING THE OVERSEAS FILIPINO WORKERS THE RIGHT TO EQUAL PROTECTION ON MONEY CLAIMS, AMENDING FOR THE PURPOSE THE FIFTH PARAGRAPH OF SECTION 10 OF REPUBLIC ACT NO. 8042, AS AMENDED BY REPUBLIC ACT NO. 10022"
 scope = "National"
 subjects = [ "Migrant Workers and Overseas Filipinos Act of 1995 (R.A.No. 8042)", "Overseas Filipino Workers (OFW)", "Money Claims",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-13"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-14"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/14/2018"
+date = "2018-11-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

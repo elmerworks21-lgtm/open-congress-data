@@ -1,8 +1,11 @@
 id = "01K67YCNF1VE5VT3Y899HSF3FQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00182"
+
+[meta]
 bill_number = 182
 congress = 13
-canonical = "SBN-00182"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-182", "https://web.senate.gov.ph/lisdata/13301130!.pdf",]
 title = "CELL PHONE SUBSCRIBER PROTECTION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH MINIMUM STANDARDS REGARDING THE QUALITY OF WIR
 scope = "National"
 subjects = [ "Cell Phone Subscriber Protection Act", "Wireless Telephone/Cellular Phones", "Nat. Telecommunications Commission (NTC)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES; and TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Public Services"

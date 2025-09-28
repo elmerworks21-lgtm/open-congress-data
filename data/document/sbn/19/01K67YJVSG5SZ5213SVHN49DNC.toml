@@ -1,8 +1,11 @@
 id = "01K67YJVSG5SZ5213SVHN49DNC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01325"
+
+[meta]
 bill_number = 1325
 congress = 19
-canonical = "SBN-01325"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1325", "https://web.senate.gov.ph/lisdata/3943935837!.pdf",]
 title = "RAPID RE-HOUSING PROGRAM ACT"
 date_filed = "2022-09-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING A RAPID RE-HOUSING PROGRAM TO END HOMELE
 scope = "National"
 subjects = [ "Re-Housing Program",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2022-09-19"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-21"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2022"
+date = "2022-09-21"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

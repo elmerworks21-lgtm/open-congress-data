@@ -1,8 +1,11 @@
 id = "01K67YJ2P7QNXQXTY9CTZM5SC0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02595"
+
+[meta]
 bill_number = 2595
 congress = 14
-canonical = "SBN-02595"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2595", "https://web.senate.gov.ph/lisdata/83507552!.pdf",]
 title = "TECHNOLOGY TRANSFER ACT OF 2008"
 date_filed = "2008-09-03"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING THE FRAMEWORK AND SUPPORT SYSTEM FOR THE OWNERSHI
 scope = "National"
 subjects = [ "Technology Transfer", "Intellectual Property Ownership",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-03"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; SCIENCE AND TECHNOLOGY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-26"
 action = "Returned and submitted jointly by the Committee(s) on TRADE AND COMMERCE, SCIENCE AND TECHNOLOGY and FINANCE per Committee Report No. 565, recommending that it be substituted by SBN-3416;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-01"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-01"
 action = "SUBSTITUTED BY SBN-3416, WHICH BECAME R.A.NO. 10055."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/1/2009"
+date = "2009-09-01"
 
 [[committees]]
 name = "Trade and Commerce"

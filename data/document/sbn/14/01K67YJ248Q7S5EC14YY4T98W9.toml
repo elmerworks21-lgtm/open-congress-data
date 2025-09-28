@@ -1,8 +1,11 @@
 id = "01K67YJ248Q7S5EC14YY4T98W9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01831"
+
+[meta]
 bill_number = 1831
 congress = 14
-canonical = "SBN-01831"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1831", "https://web.senate.gov.ph/lisdata/62945621!.pdf",]
 title = "BOARD ON COMPUTER EDUCATION, CREATION"
 date_filed = "2007-11-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INTEGRATE A COMPUTER EDUCATION PROGRAM INTO THE EDUCATIO
 scope = "National"
 subjects = [ "Board on Computer Education",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-11-12"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/13/2007"
+date = "2007-11-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

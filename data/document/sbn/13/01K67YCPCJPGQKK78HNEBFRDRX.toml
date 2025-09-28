@@ -1,8 +1,11 @@
 id = "01K67YCPCJPGQKK78HNEBFRDRX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01803"
+
+[meta]
 bill_number = 1803
 congress = 13
-canonical = "SBN-01803"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1803", "https://web.senate.gov.ph/lisdata/30262198!.pdf",]
 title = "PROVINCIAL GOVERNOR' POWER TO SOLEMNIZE MARRIAGE"
 date_filed = "2004-09-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING EXECUTIVE ORDER NO. 209, OTHERWISE KNOWN AS THE FA
 scope = "National"
 subjects = [ "Family Code (Eo 209, Amendments)", "Marriage (Provincial Governor, Solemnize",]
 authors_raw = "Cayetano, Companera Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-23"
 action = "Introduced by Senator COMPANERA PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-25"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/25/2004"
+date = "2004-10-25"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

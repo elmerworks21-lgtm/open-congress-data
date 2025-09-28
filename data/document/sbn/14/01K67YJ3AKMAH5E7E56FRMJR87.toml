@@ -1,8 +1,11 @@
 id = "01K67YJ3AKMAH5E7E56FRMJR87"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03468"
+
+[meta]
 bill_number = 3468
 congress = 14
-canonical = "SBN-03468"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3468", "https://web.senate.gov.ph/lisdata/1263011314!.pdf",]
 title = "LOCAL GOVERNMENT CODE (R.A. NO. 7160, SEC. 442)"
 date_filed = "2009-10-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 442 OF REPUBLIC ACT NO. 7160, OTHERWISE KN
 scope = "National"
 subjects = [ "Local Government Code (RA 7160", "Amendments)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-05"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-05"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/5/2009"
+date = "2009-10-05"
 
 [[committees]]
 name = "Ways and Means"

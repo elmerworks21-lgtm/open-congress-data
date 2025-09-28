@@ -1,8 +1,11 @@
 id = "01K67YK04Y7ERS7QNRGAH9QCVV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00588"
+
+[meta]
 bill_number = 588
 congress = 20
-canonical = "SBN-00588"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-588", "https://web.senate.gov.ph/lisdata/4718243182!.pdf",]
 title = "EARLY DETECTION AND INTERVENTION SERVICES FOR CHILDREN WITH MENTAL ILLNESS ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE ACCESSIBLE AND AFFORDABLE EAR
 scope = "National"
 subjects = [ "Children and Youth with Special Needs (CYSN)",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Health and Demography"

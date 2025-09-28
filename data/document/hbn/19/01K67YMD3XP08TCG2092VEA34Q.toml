@@ -1,24 +1,28 @@
 id = "01K67YMD3XP08TCG2092VEA34Q"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06715"
+
+[meta]
 bill_number = 6715
 congress = 19
-canonical = "HBN-06715"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6715", "https://web.senate.gov.ph/lisdata/4080837182!.pdf",]
 title = "SUSTAINABLE CITIES AND COMMUNITIES ACT"
 long_title = "AN ACT PROVIDING FOR THE DEVELOPMENT OF SUSTAINABLE CITIES AND COMMUNITIES IN THE COUNTRY"
 scope = "National"
 subjects = [ "Sustainable Cities and Communities",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-22"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT; SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/22/2023"
+date = "2023-02-22"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

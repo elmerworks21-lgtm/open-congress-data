@@ -1,44 +1,48 @@
 id = "01K67YMD1643JBR140H4ZY5APJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06416"
+
+[meta]
 bill_number = 6416
 congress = 19
-canonical = "HBN-06416"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6416", "https://web.senate.gov.ph/lisdata/4020536615!.pdf",]
 title = "UNIVERSITIES AND COLLEGES (SUCS) MENTAL HEALTH SERVICE ACT"
 long_title = "AN ACT STRENGTHENING THE MENTAL HEALTH SERVICES OF STATE UNIVERSITIES AND COLLEGES AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "State Universities and Colleges (SUCS)", "Mental Health",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-11"
 action = "Returned jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 233, recommending that it be considered in SBN-2598;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "CONSIDERED IN SBN-2598 UNDER COMMITTEE REPORT NO. 233."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/13/2024"
+date = "2024-03-13"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

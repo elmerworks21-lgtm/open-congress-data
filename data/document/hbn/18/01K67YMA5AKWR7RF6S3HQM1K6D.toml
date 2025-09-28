@@ -1,23 +1,27 @@
 id = "01K67YMA5AKWR7RF6S3HQM1K6D"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10591"
+
+[meta]
 bill_number = 10591
 congress = 18
-canonical = "HBN-10591"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10591", "https://web.senate.gov.ph/lisdata/3702133357!.pdf",]
 title = "'BENGUET DAY' A SPECIAL NONWORKING HOLIDAY (NOVEMBER 23)"
 long_title = "AN ACT DECLARING NOVEMBER 23 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF BENGUET, TO BE KNOWN AS 'BENGUET DAY' IN COMMEMORATION OF ITS FOUNDING ANNIVERSARY"
 scope = "Local"
-[[legislative_history]]
+
+[[history]]
 date = "2022-01-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-26"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/26/2022"
+date = "2022-01-26"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJWVYDF3GVM128EK2YDXH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02733"
+
+[meta]
 bill_number = 2733
 congress = 19
-canonical = "SBN-02733"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2733", "https://web.senate.gov.ph/lisdata/4433040276!.pdf",]
 title = "AMENDING SEC. 5 (3) OF REPUBLIC ACT NO. 9225 AS CITIZENSHIP RETENTION AND RE-ACQUISITION ACT OF 2003"
 date_filed = "2024-07-17"
@@ -10,25 +13,26 @@ long_title = "AN ACT AMENDING SECTION 5 (3) OF REPUBLIC ACT NO. 9225, OTHERWISE 
 scope = "National"
 subjects = [ "Citizenship Retention (Natural Born Citizen)",]
 authors_raw = "Gatchalian, Win, Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-17"
 action = "Introduced by Senators WIN GATCHALIAN and JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2024"
+date = "2024-07-31"
 
 [[committees]]
 name = "Justice and Human Rights"

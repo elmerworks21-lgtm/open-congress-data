@@ -1,24 +1,28 @@
 id = "01K67YKWYW3HFWAQNWVQHYGV7S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06312"
+
+[meta]
 bill_number = 6312
 congress = 14
-canonical = "HBN-06312"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6312", "https://web.senate.gov.ph/lisdata/1188010441!.pdf",]
 title = "MANDAUE STATE COLLEGE"
 long_title = "AN ACT CONVERTING THE MANDAUE CITY COLLEGE IN THE CITY OF MANDAUE, PROVINCE OF CEBU INTO A STATE COLLEGE TO BE KNOWN AS THE MANDAUE STATE COLLEGE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "State Colleges and Universities (SCUS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-06-23"
 action = "Filed in the Senate requesting for concurrence by Representatives NERISSA CORAZON SOON-RUIZ, CYNTHIA A. VILLAR, JUNIE E. CUA, EXEQUIEL B. JAVIER and JESUS CRISPIN C. REMULLA, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2009"
+date = "2009-07-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJ2FH57B8HN8Q4CM2NV7X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02312"
+
+[meta]
 bill_number = 2312
 congress = 14
-canonical = "SBN-02312"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2312", "https://web.senate.gov.ph/lisdata/74456661!.pdf",]
 title = "BARANGAY HEALTH WORKERS (SEC. 6, R.A. 7883, P3,000.00 HONORARIA)"
 date_filed = "2008-05-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FIXED MONTHLY HONORARIA AND OTHER BENEFITS TO ACCR
 scope = "National"
 subjects = [ "Barangay Health Worker",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-21"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-21"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/21/2008"
+date = "2008-05-21"
 
 [[committees]]
 name = "Health and Demography"

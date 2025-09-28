@@ -1,8 +1,11 @@
 id = "01K67YJR0SZ9FEGPEMSCVWPC0T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02269"
+
+[meta]
 bill_number = 2269
 congress = 18
-canonical = "SBN-02269"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2269", "https://web.senate.gov.ph/lisdata/3520432046!.pdf",]
 title = "‘KWEBA NG HAPON’ IN BARANGAY MANLOCBOC, MUNICIPALITY OF AGUILAR, PANGASINAN"
 date_filed = "2021-06-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING ‘KWEBA NG HAPON’ LOCATED IN BARANGAY MANLOCBO
 scope = "Local"
 subjects = [ "Ecotourism Destination",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-02"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/3/2021"
+date = "2021-06-03"
 
 [[committees]]
 name = "Tourism"

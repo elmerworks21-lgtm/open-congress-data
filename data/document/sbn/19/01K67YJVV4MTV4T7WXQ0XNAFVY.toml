@@ -1,8 +1,11 @@
 id = "01K67YJVV4MTV4T7WXQ0XNAFVY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01394"
+
+[meta]
 bill_number = 1394
 congress = 19
-canonical = "SBN-01394"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1394", "https://web.senate.gov.ph/lisdata/3967335987!.pdf",]
 title = "MODERNIZED NATIONAL MEASUREMENT SYSTEM ACT OF 2022"
 date_filed = "2022-10-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT MODERNIZING THE NATIONAL MEASUREMENT SYSTEM (NMS) OF THE PH
 scope = "National"
 subjects = [ "National Measurement System",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-10-17"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-07"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2022"
+date = "2022-11-07"
 
 [[committees]]
 name = "Science and Technology"

@@ -1,8 +1,11 @@
 id = "01K67YJWM5JMXEV6CH72XD3YFP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02443"
+
+[meta]
 bill_number = 2443
 congress = 19
-canonical = "SBN-02443"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2443", "https://web.senate.gov.ph/lisdata/4270738835!.pdf",]
 title = "DISSOLUTION OF MARRIAGE ACT"
 date_filed = "2023-09-18"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXPANDING THE GROUNDS FOR DISSOLUTION OF MARRIAGE, INSTITUT
 scope = "National"
 subjects = [ "Dissolution of Marriage", "Divorce",]
 authors_raw = "Hontiveros, Risa, Tulfo, Raffy T., Padilla, Robinhood C., Cayetano, Pia S., Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-18"
 action = "Prepared and submitted by the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY with Senators RISA HONTIVEROS, RAFFY T. TULFO, ROBINHOOD C. PADILLA, PIA S. CAYETANO and IMEE R. MARCOS as authors per Committee Report No. 124, recommending its approval in substitution of SBNos. 147, 213, 237, 554, 555,1198 and 2047;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-18"
 action = "Sponsor: Senator RISA HONTIVEROS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "9/18/2023"
+date = "2023-09-18"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

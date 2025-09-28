@@ -1,25 +1,29 @@
 id = "01K67YJ2FB22E17V9ACHZ33ZV4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02302"
+
+[meta]
 bill_number = 2302
 congress = 14
-canonical = "SBN-02302"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2302", "https://web.senate.gov.ph/lisdata/74356651!.pdf",]
 title = "APPOINTMENTS CONFIRMATION ACT OF 2008"
 date_filed = "2008-05-21"
 long_title = "AN ACT SETTING LIMITS ON THE POWER OF THE PRESIDENT TO REAPPOINT BY-PASSED NOMINEES"
 scope = "National"
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-21"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-21"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/21/2008"
+date = "2008-05-21"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

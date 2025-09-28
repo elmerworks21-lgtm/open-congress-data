@@ -1,8 +1,11 @@
 id = "01K67YJPKG8MXEMTC5C64KYSQW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00322"
+
+[meta]
 bill_number = 322
 congress = 18
-canonical = "SBN-00322"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-322", "https://web.senate.gov.ph/lisdata/3060527463!.pdf",]
 title = "PHILIPPINE FILM AND TELEVISION TOURISM ACT OF 2019"
 date_filed = "2019-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A FRAMEWORK FOR FILM AND TELEVISION TOURISM IN
 scope = "National"
 subjects = [ "Philippine Film and Television Tourism", "Film Tourism",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-10"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; TOURISM; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Public Information and Mass Media"

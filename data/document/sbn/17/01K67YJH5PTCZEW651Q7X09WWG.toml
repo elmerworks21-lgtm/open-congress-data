@@ -1,8 +1,11 @@
 id = "01K67YJH5PTCZEW651Q7X09WWG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00059"
+
+[meta]
 bill_number = 59
 congress = 17
-canonical = "SBN-00059"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-59", "https://web.senate.gov.ph/lisdata/2347220080!.pdf",]
 title = "CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES"
 date_filed = "2016-06-30"
@@ -10,37 +13,38 @@ long_title = "AN ACT GRANTING CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES,
 scope = "National"
 subjects = [ "Civil Service Eligibility", "Government Employees (Casual/Contractual)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-10"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-04"
 action = "Returned and submitted by the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION per Committee Report No. 2, recommending that it be substituted by SBN-1184;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-05"
 action = "SUBSTITUTED BY SBN-1184 UNDER CTTE. RPT. NO. 2."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/5/2016"
+date = "2016-10-05"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

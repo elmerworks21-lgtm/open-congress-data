@@ -1,8 +1,11 @@
 id = "01K67YJX3JM6BHAJSV5W6JHB7C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02992"
+
+[meta]
 bill_number = 2992
 congress = 19
-canonical = "SBN-02992"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2992", "https://web.senate.gov.ph/lisdata/4603342042!.pdf",]
 title = "EIGHTH LEGISLATIVE DISTRICT (CREATION, CEBU)"
 date_filed = "2025-03-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AN ADDITIONAL LEGISLATIVE DISTRICT IN THE PROVINCE
 scope = "Local"
 subjects = [ "Legislative Districts",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-03-06"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2025"
+date = "2025-06-02"
 
 [[committees]]
 name = "Rules"

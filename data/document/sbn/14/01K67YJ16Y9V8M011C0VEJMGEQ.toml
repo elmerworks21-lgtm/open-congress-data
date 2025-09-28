@@ -1,8 +1,11 @@
 id = "01K67YJ16Y9V8M011C0VEJMGEQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00728"
+
+[meta]
 bill_number = 728
 congress = 14
-canonical = "SBN-00728"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-728", "https://web.senate.gov.ph/lisdata/49504334!.pdf",]
 title = "INFIDELITY IN THE CUSTODY OF PRISONERS"
 date_filed = "2007-07-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT PRESCRIBING STRICTER PENALTIES ON THE CRIME OF DELIVERING P
 scope = "National"
 subjects = [ "Prisoners", "Custodial Infidelity", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2007"
+date = "2007-08-29"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJZVXFGCBE1637N0N97XJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00114"
+
+[meta]
 bill_number = 114
 congress = 20
-canonical = "SBN-00114"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-114", "https://web.senate.gov.ph/lisdata/4659142595!.pdf",]
 title = "YOUNG FARMERS AND FISHERFOLK CHALLENGE ACT"
 date_filed = "2025-07-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE YOUNG FARMERS AND FISHERFOLK CHALLENGE PRO
 scope = "National"
 subjects = [ "Farmers", "Fisherfolk",]
 authors_raw = "Marcos, Imee R., Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-03"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; YOUTH and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-05"
 action = "Letter from Senator FRANCIS 'KIKO' N. PANGILINAN dated July 30, 2025, conveying his intention to made co-author of SBN-114, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

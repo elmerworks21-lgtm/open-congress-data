@@ -1,8 +1,11 @@
 id = "01K67YJH5WS4EJY7CX9S59TEN0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00065"
+
+[meta]
 bill_number = 65
 congress = 17
-canonical = "SBN-00065"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-65", "https://web.senate.gov.ph/lisdata/2347820089!.pdf",]
 title = "PANTAWID PAMILYANG PILIPINO"
 date_filed = "2016-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT INSTITUTIONALIZING A CONDITIONAL CASH TRANSFER PROGRAM, PRO
 scope = "National"
 subjects = [ "Pantawid Pamilyang Pilipino Program (4PS)", "Conditional Cash Transfer Program", "Poverty Alleviation",]
 authors_raw = "Recto, Ralph G., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-14"
 action = "Letter from Senator JOEL VILLANUEVA dated October 25, 2016, requesting that he be made coauthor of SBN-65, received by the LBIS ;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-29"
 action = "Returned and submitted jointly by the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, ECONOMIC AFFAIRS and FINANCE per Committee Report No. 522, recommending that it be substituted by SBN-2117;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "SUBSTITUTED BY SBN-2117 UNDER COMMITTEE REPORT NO. 522, WHICH BECAME R.A. NO. 11310 ON APRIL 17, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/3/2018"
+date = "2018-12-03"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

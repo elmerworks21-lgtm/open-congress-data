@@ -1,24 +1,28 @@
 id = "01K67YM9ZS6N4QJ0SATTW7GFFD"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10245"
+
+[meta]
 bill_number = 10245
 congress = 18
-canonical = "HBN-10245"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10245", "https://web.senate.gov.ph/lisdata/3665133002!.pdf",]
 title = "EHEALTH SYSTEM AND SERVICES ACT"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE ELECTRONIC HEALTH OR EHEALTH SYSTEM AND SERVICES IN SUPPORT OF UNIVERSAL HEALTH CARE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Ehealth System and Services", "Universal Health Care",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-11-18"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-24"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/24/2021"
+date = "2021-11-24"
 
 [[committees]]
 name = "Health and Demography"

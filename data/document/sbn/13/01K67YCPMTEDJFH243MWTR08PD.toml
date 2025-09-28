@@ -1,8 +1,11 @@
 id = "01K67YCPMTEDJFH243MWTR08PD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02192"
+
+[meta]
 bill_number = 2192
 congress = 13
-canonical = "SBN-02192"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2192", "https://web.senate.gov.ph/lisdata/44343615!.pdf",]
 title = "CHINESE NEW YEAR AS A SPECIAL WORKING HOLIDAY"
 date_filed = "2006-01-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING CHINESE NEW YEAR OF EACH YEAR AS A SPECIAL WORKIN
 scope = "National"
 subjects = [ "Holiday: Chinese New Year",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2006-01-16"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-17"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/17/2006"
+date = "2006-01-17"
 
 [[committees]]
 name = "Education, Arts and Culture"

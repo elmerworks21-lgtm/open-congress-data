@@ -1,8 +1,11 @@
 id = "01K67YJCRDR4M58VNN43929J6G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00735"
+
+[meta]
 bill_number = 735
 congress = 16
-canonical = "SBN-00735"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-735", "https://web.senate.gov.ph/lisdata/1666013899!.pdf",]
 title = "BOOK CITY ACT OF 2013"
 date_filed = "2013-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE LEGAL FRAMEWORK AND MECHANISMS FOR THE CR
 scope = "National"
 subjects = [ "Book Publishing",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-15"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

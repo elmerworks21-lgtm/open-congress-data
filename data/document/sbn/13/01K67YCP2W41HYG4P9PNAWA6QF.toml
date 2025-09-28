@@ -1,8 +1,11 @@
 id = "01K67YCP2W41HYG4P9PNAWA6QF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01274"
+
+[meta]
 bill_number = 1274
 congress = 13
-canonical = "SBN-01274"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1274", "https://web.senate.gov.ph/lisdata/24851853!.pdf",]
 title = "MERGER: BOARD OF PARDONS & PAROLE/PAROLE & PROBATION ADM."
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO AMEND CERTAIN SECTIONS OF TITLE THREE, BOOK FOUR, OF EXE
 scope = "National"
 subjects = [ "Board of Pardons and Parole (Merger)", "Parole and Probation Administration", "Administrative Code (Title III, Book IV)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Justice and Human Rights"

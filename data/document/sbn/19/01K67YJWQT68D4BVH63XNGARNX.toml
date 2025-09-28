@@ -1,8 +1,11 @@
 id = "01K67YJWQT68D4BVH63XNGARNX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02573"
+
+[meta]
 bill_number = 2573
 congress = 19
-canonical = "SBN-02573"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2573", "https://web.senate.gov.ph/lisdata/4356839611!.pdf",]
 title = "CANNABIS MEDICALIZATION ACT OF THE PHILIPPINES"
 date_filed = "2024-02-26"
@@ -10,45 +13,46 @@ long_title = "AN ACT PROVIDING FOR THE MEDICALIZATION OF CANNABIS, EXPANDING ACC
 scope = "National"
 subjects = [ "Marijuana/Cannabis", "Medical Cannabis",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2024-02-26"
 action = "Prepared and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY, SUBCOMMITTEE ON MEDICAL CANNABIS COMPASSIONATE ACCESS ACT OF THE PHILIPPINES, PUBLIC ORDER AND DANGEROUS DRUGS and FINANCE with Senator ROBINHOOD C. PADILLA as author per Committee Report No. 210, recommending its approval in substitution of S. No. 230;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-27"
 action = "Sponsor: Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Sponsorship speech delivered by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Co-sponsorship speech of Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-27"
 action = "Interpellation of Senator AQUILINO 'KOKO' PIMENTEL III;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-25"
 action = "Interpellation of Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Interpellation of Senators AQUILINO 'KOKO' PIMENTEL III and JINGGOY E. ESTRADA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/20/2024"
+date = "2024-03-20"
 
 [[committees]]
 name = "Health and Demography"

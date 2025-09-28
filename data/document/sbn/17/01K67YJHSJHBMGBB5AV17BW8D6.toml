@@ -1,8 +1,11 @@
 id = "01K67YJHSJHBMGBB5AV17BW8D6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00938"
+
+[meta]
 bill_number = 938
 congress = 17
-canonical = "SBN-00938"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-938", "https://web.senate.gov.ph/lisdata/2449621079!.pdf",]
 title = "WHISTLEBLOWER PROTECTION, SECURITY AND BENEFIT ACT OF 2016"
 date_filed = "2016-08-01"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR THE PROTECTION, SECURITY AND BENEFITS OF WHIS
 scope = "National"
 subjects = [ "Whistleblowers",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Justice and Human Rights"

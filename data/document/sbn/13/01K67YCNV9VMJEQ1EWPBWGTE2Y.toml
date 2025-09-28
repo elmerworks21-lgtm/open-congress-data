@@ -1,8 +1,11 @@
 id = "01K67YCNV9VMJEQ1EWPBWGTE2Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00868"
+
+[meta]
 bill_number = 868
 congress = 13
-canonical = "SBN-00868"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-868", "https://web.senate.gov.ph/lisdata/20661556!.pdf",]
 title = "INCREASING THE INTERNAL REVENUE ALLOTMENTS OF LGUS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING THE INTERNAL REVENUE ALLOTMENTS OF LOCAL GOVE
 scope = "National"
 subjects = [ "Local Government Units (LGUs; Ira)", "Internal Revenue Allotments (LGUS)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2004"
+date = "2004-08-30"
 
 [[committees]]
 name = "Local Government"

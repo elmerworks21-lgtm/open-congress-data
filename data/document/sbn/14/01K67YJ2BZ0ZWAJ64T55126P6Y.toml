@@ -1,8 +1,11 @@
 id = "01K67YJ2BZ0ZWAJ64T55126P6Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02150"
+
+[meta]
 bill_number = 2150
 congress = 14
-canonical = "SBN-02150"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2150", "https://web.senate.gov.ph/lisdata/70916334!.pdf",]
 title = "RIGHT OF REPLY"
 date_filed = "2008-04-03"
@@ -10,81 +13,82 @@ long_title = "AN ACT GRANTING THE RIGHT OF REPLY AND PROVIDING PENALTIES FOR VIO
 scope = "National"
 subjects = [ "Right of Reply",]
 authors_raw = "Pimentel Jr., Aquilino Q., Revilla Jr., Ramon A., Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-03"
 action = "Prepared and submitted jointly by the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA and JUSTICE AND HUMAN RIGHTS with Senator(s) AQUILINO Q. PIMENTEL JR., RAMON A. REVILLA JR. and FRANCIS 'CHIZ' G. ESCUDERO as author(s) per Committee Report No. 43, recommending its approval in substitution of SBN-1178;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-21"
 action = "Sponsors: Senator(s) RAMON A. REVILLA JR., FRANCIS 'CHIZ' G. ESCUDERO and AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-23"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-23"
 action = "Sponsorship speech of Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-23"
 action = "Senator Pimentel Jr. manifested that he is a co-sponsor of this measure;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-28"
 action = "Interpellation of Senator(s) LOREN B. LEGARDA and M. A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-07"
 action = "Interpellation of Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-12"
 action = "Interpellation of Senator JOKER P. ARROYO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-04"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-04"
 action = "Period of committee amendments; Period of committee amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Period of individual amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-16"
 action = "Printed copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-29"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-29"
 action = "In favor: (21) Senators Angara, Aquino, Arroyo, Alan Peter Cayetano, Pia Cayetano, Miriam Defensor Santiago, Ejercito Estrada, Enrile, Escudero, Gordon, Honasan, Lacson, Lapid, Legarda, M.A. Madrigal, Pangilinan, Pimentel, Jr., Revilla, Jr., Roxas, Villar, and Zubiri; Against: N o n e; Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-31"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
 [[status]]
 status = "Pending in the House of Representatives"
-date = "7/31/2008"
+date = "2008-07-31"
 
 [[committees]]
 name = "Public Information and Mass Media"

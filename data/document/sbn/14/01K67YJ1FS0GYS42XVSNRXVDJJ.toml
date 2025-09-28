@@ -1,8 +1,11 @@
 id = "01K67YJ1FS0GYS42XVSNRXVDJJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01156"
+
+[meta]
 bill_number = 1156
 congress = 14
-canonical = "SBN-01156"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1156", "https://web.senate.gov.ph/lisdata/54514816!.pdf",]
 title = "INCLUSION OF REPRESENTATIVES FROM PTA, SENIOR CITIZENS AND VETERANS IN THE LOCAL HEALTH BOARD"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING TITLES V AND VI, SECTIONS 102 AND 107 OF R. A. NO.
 scope = "National"
 subjects = [ "Local Health Board", "Local Government Code (RA 7160; Amendments)", "Philippine Teachers Association (PTA)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Local Government"

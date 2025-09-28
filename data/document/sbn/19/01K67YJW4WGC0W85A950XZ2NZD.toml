@@ -1,8 +1,11 @@
 id = "01K67YJW4WGC0W85A950XZ2NZD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01811"
+
+[meta]
 bill_number = 1811
 congress = 19
-canonical = "SBN-01811"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1811", "https://web.senate.gov.ph/lisdata/4057336983!.pdf",]
 title = "AMENDING R.A.NO. 10361 (THE BATAS KASAMBAHAY)"
 date_filed = "2023-01-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING GREATER RESPONSIBILITY AND ACCOUNTABILITY FROM
 scope = "National"
 subjects = [ "Batas Kasambahay (R.A.No. 10361)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-31"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-01"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/1/2023"
+date = "2023-02-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

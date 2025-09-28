@@ -1,8 +1,11 @@
 id = "01K67YJ3C10H8R77NG33B78MJG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03522"
+
+[meta]
 bill_number = 3522
 congress = 14
-canonical = "SBN-03522"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3522", "https://web.senate.gov.ph/lisdata/1296211649!.pdf",]
 title = "ANTI-POLITICAL SIGNS ON GOVERNMENT PROPERTY ACT OF 2009"
 date_filed = "2009-11-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROHIBIT THE POSTING OF POLITICAL SIGNS ON GOVERNMENT PR
 scope = "National"
 subjects = [ "Government Properties",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-11-11"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-16"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/16/2009"
+date = "2009-11-16"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

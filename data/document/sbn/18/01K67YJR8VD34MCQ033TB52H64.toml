@@ -1,8 +1,11 @@
 id = "01K67YJR8VD34MCQ033TB52H64"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02426"
+
+[meta]
 bill_number = 2426
 congress = 18
-canonical = "SBN-02426"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2426", "https://web.senate.gov.ph/lisdata/3651932905!.pdf",]
 title = "PHILIPPINE CITIZENSHIP TO LIANG XI WU"
 date_filed = "2021-10-05"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO LIANG XI WU"
 scope = "National"
 subjects = [ "Citizenship",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2021-10-05"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-08"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-26"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 557, recommending that it be considered in HBN-8269;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-27"
 action = "CONSIDERED IN HBN-8269 UNDER COMMITTEE REPORT NO. 557, WHICH BECAME R.A. NO. 11844 ON JUNE 18, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/27/2022"
+date = "2022-01-27"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,24 +1,28 @@
 id = "01K67YKQRN0ME7Y4NVQMTGFMW5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02744"
+
+[meta]
 bill_number = 2744
 congress = 13
-canonical = "HBN-02744"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-2744", "https://web.senate.gov.ph/lisdata/53464343!.pdf",]
 title = "INDEPENDENT POWER PRODUCERS/GENERATION COMPANIES"
 long_title = "AN ACT REQUIRING ALL INDEPENDENT POWER PRODUCERS, GENERATION COMPANIES OR ENERGY RESOURCE DEVELOPERS TO REMIT THE AMOUNT THEY ARE REQUIRED TO SET ASIDE AS FINANCIAL BENEFIT DIRECTLY TO THE HOST COMMUNITIES"
 scope = "National"
 subjects = [ "Independent Power Producers (IPP)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-05-31"
 action = "Filed in the Senate requesting for concurrence by Representatives HERMILANDO I. MANDANAS, MAURICIO G. DOMOGAN, ALIPIO 'TIKBONG' V. BADELLES, EDGAR L. VALDEZ and LORETTA ANN P. ROSALES as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-01"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/1/2006"
+date = "2006-06-01"
 
 [[committees]]
 name = "Energy"

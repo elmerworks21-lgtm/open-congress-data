@@ -1,8 +1,11 @@
 id = "01K67YCNGCVGTWNCN6XFQJG7HH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00253"
+
+[meta]
 bill_number = 253
 congress = 13
-canonical = "SBN-00253"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-253", "https://web.senate.gov.ph/lisdata/1412672!.pdf",]
 title = "AGRICULTURE EDUCATION ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING AGRICULTURE EDUCATION IN THE PHILIPPINES BY E
 scope = "National"
 subjects = [ "Agriculture Education Act of 2004",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; AGRICULTURE AND FOOD; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

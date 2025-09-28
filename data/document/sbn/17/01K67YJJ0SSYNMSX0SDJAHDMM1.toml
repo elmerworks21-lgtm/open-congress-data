@@ -1,8 +1,11 @@
 id = "01K67YJJ0SSYNMSX0SDJAHDMM1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01253"
+
+[meta]
 bill_number = 1253
 congress = 17
-canonical = "SBN-01253"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1253", "https://web.senate.gov.ph/lisdata/2514021654!.pdf",]
 title = "ELECTRIC COOPERATIVES DISASTER MANAGEMENT FUND"
 date_filed = "2016-11-24"
@@ -10,29 +13,30 @@ long_title = "AN ACT INSTITUTIONALIZING THE ELECTRIC COOPERATIVES DISASTER MANAG
 scope = "National"
 subjects = [ "Electric Cooperatives",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-11-24"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-29"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; COOPERATIVES; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "Returned and submitted jointly by the Committee(s) on ENERGY, COOPERATIVES, WAYS AND MEANS and FINANCE per Committee Report No. 98, recommending that it be substituted by SBN-1461;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-22"
 action = "SUBSTITUTED BY SBN-1461 UNDER COMMITTEE REPORT NO. 98 WHICH BECAME R.A.NO. 11039 ON JUNE 29, 2018."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/22/2017"
+date = "2017-05-22"
 
 [[committees]]
 name = "Energy"

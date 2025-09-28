@@ -1,24 +1,28 @@
 id = "01K67YM0DWMXFKF1FQ4VVC9SRV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06482"
+
+[meta]
 bill_number = 6482
 congress = 15
-canonical = "HBN-06482"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6482", "https://web.senate.gov.ph/lisdata/1416111937!.pdf",]
 title = "REVISED PENAL CODE"
 long_title = "AN ACT PRESCRIBING STRICTER PENALTIES ON THE CRIME OF DELIVERING PRISONERS FROM JAIL AND INFIDELITY IN THE CUSTODY OF PRISONERS, AMENDING FOR THE PURPOSE ARTICLES 156, 223 AND 224 OF ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815; Amendments)", "Custodial Infidelity", "Prisoners/Inmates",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-09-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-08"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/9/2012"
+date = "2012-10-09"
 
 [[committees]]
 name = "Justice and Human Rights"

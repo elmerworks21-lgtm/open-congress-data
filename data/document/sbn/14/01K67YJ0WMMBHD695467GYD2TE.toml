@@ -1,8 +1,11 @@
 id = "01K67YJ0WMMBHD695467GYD2TE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00222"
+
+[meta]
 bill_number = 222
 congress = 14
-canonical = "SBN-00222"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-222", "https://web.senate.gov.ph/lisdata/43223718!.pdf",]
 title = "GREENING ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE URBAN AND COUNTRYSIDE GREENING IN THE PHI
 scope = "National"
 subjects = [ "Greening Act", "Tree Planting",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator LOREN LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2007"
+date = "2007-08-01"
 
 [[committees]]
 name = "Environment and Natural Resources"

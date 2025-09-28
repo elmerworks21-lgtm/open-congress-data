@@ -1,8 +1,11 @@
 id = "01K67YJJ3KEXFXDC9T0MKNBX4P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01343"
+
+[meta]
 bill_number = 1343
 congress = 17
-canonical = "SBN-01343"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1343", "https://web.senate.gov.ph/lisdata/2540921922!.pdf",]
 title = "PENSIONADO ACT OF 2017"
 date_filed = "2017-02-21"
@@ -10,17 +13,18 @@ long_title = "“AN ACT CREATING AN ADVANCED STUDIES DEVELOPMENT PROGRAM FOR EXC
 scope = "National"
 subjects = [ "Pensionado Act",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2017-02-21"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-22"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/22/2017"
+date = "2017-02-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

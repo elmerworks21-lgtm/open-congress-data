@@ -1,8 +1,11 @@
 id = "01K67YJ2BRR4TC345W5SSTKR7S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02140"
+
+[meta]
 bill_number = 2140
 congress = 14
-canonical = "SBN-02140"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2140", "https://web.senate.gov.ph/lisdata/70586300!.pdf",]
 title = "PUBLIC SECTOR WORKERS' ACROSS-THE-BOARD INCREASE COMPENSATION ACT OF 2008"
 date_filed = "2008-03-25"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR A THREE THOUSAND PESOS (P 3,000.00) ACROSS-TH
 scope = "National"
 subjects = [ "Across the Board Wage Increase (P 3,000.00)",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-03-25"
 action = "Introduced by Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-21"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-26"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-26"
 action = "Returned and submitted jointly by the Committee(s) on FINANCE and CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 457, recommending that it be substituted by SJR-26;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-26"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-26"
 action = "SUBSTITUTED BY SJR-26."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/26/2009"
+date = "2009-05-26"
 
 [[committees]]
 name = "Finance"

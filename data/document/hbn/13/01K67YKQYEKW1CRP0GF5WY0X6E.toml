@@ -1,64 +1,68 @@
 id = "01K67YKQYEKW1CRP0GF5WY0X6E"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04435"
+
+[meta]
 bill_number = 4435
 congress = 13
-canonical = "HBN-04435"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4435", "https://web.senate.gov.ph/lisdata/58054829!.pdf",]
 title = "UNAUTHORIZED USE AND POSSESSION OF CIVIL SERVICE EXAMINATION MATERIALS"
 long_title = "AN ACT DECLARING AS UNLAWFUL ANY FORM OF CHEATING IN CIVIL SERVICE EXAMINATIONS, UNAUTHORIZED USE AND POSSESSION OF CIVIL SERVICE COMMISSION (CSC) EXAMINATION-RELATED MATERIALS, AND GRANTING THE COMMISSION EXCLUSIVE JURISDICTION OVER THESE CASES INCLUDING THOSE COMMITTED BY PRIVATE INDIVIDUALS"
 scope = "National"
 subjects = [ "Civil Service Commission (Csc Exam)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-08-14"
 action = "Filed in the Senate requesting for concurrence by Representatives HENEDINA R. ABAD, FRANCIS 'BLUEBOY' L. NEPOMUCENO, MA. MILAGROS 'MITOS' H. MAGSAYSAY, ROSELLER L. BARINAGA, RAUL T. GONZALES JR., ET. AL., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Conducted committee meetings/hearings;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-14"
 action = "Returned by the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 157, recommending that it be considered in SBN-2512;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-14"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-14"
 action = "CONSIDERED IN SBN-2512."
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-05"
 action = "House of Representatives adopted SBN-2512 as an amendment to HBN-4435 on January 31, 2007;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Enrolled copy of the consolidated version of SBN-2512 and HBN-4435, sent to the House of Representatives for the signature of the Speaker and the Secretary General;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-21"
 action = "Enrolled copy of the consolidated version of SBN-2512 and HBN-4435, received by the Senate, already signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-26"
 action = "Enrolled copy of the consolidated version of SBN-2512 and HBN-4435, sent to the Office of the President of the Philippines, for the signature of President Gloria Macapagal Arroyo;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-03-25"
 action = "Consolidated with SBN-2512 which was Approved and Signed into Law by the President of the Philippines, Her Excellency President Gloria Macapagal Arroyo, and became;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-03-25"
 action = "REPUBLIC ACT NO. 9416"
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "3/25/2007"
+date = "2007-03-25"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

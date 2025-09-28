@@ -1,8 +1,11 @@
 id = "01K67YJCTWRT0G54PVXTJRKM8H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00860"
+
+[meta]
 bill_number = 860
 congress = 16
-canonical = "SBN-00860"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-860", "https://web.senate.gov.ph/lisdata/1685514091!.pdf",]
 title = "INTERNATIONAL MONEY TRANSFER DISCLOSURE ACT"
 date_filed = "2013-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE CERTAIN DISCLOSURES IN CONNECTION WITH ANY INTER
 scope = "National"
 subjects = [ "International Money Transfer",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-17"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-13"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2013"
+date = "2013-08-13"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

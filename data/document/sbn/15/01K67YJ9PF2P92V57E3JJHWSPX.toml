@@ -1,8 +1,11 @@
 id = "01K67YJ9PF2P92V57E3JJHWSPX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03374"
+
+[meta]
 bill_number = 3374
 congress = 15
-canonical = "SBN-03374"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3374", "https://web.senate.gov.ph/lisdata/1481412334!.pdf",]
 title = "DECRIMINALIZING LIBEL"
 date_filed = "2012-12-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECRIMINALIZING LIBEL, REPEALING FOR THIS PURPOSE ARTICLE 3
 scope = "National"
 subjects = [ "Libel", "Revised Penal Code (R.A.No. 3815; Amendments)",]
 authors_raw = "Guingona III, Teofisto \"Tg\""
-[[legislative_history]]
+
+[[history]]
 date = "2012-12-18"
 action = "Introduced by Senator TEOFISTO 'TG' GUINGONA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-12-18"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/18/2012"
+date = "2012-12-18"
 
 [[committees]]
 name = "Public Information and Mass Media"

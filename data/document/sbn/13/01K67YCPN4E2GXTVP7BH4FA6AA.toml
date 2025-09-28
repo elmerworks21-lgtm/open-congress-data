@@ -1,8 +1,11 @@
 id = "01K67YCPN4E2GXTVP7BH4FA6AA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02208"
+
+[meta]
 bill_number = 2208
 congress = 13
-canonical = "SBN-02208"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2208", "https://web.senate.gov.ph/lisdata/46103750!.pdf",]
 title = "LAND TRANSPORTATION OFFICE CLASS D DISTRICT OFFICE (ILOILO)"
 date_filed = "2006-02-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A CLASS D DISTRICT OFFICE OF THE LAND TRANSPOR
 scope = "Local"
 subjects = [ "Land Transportation Office (Class D District Office, Iloilo)", "Land Transportation Office (LTO)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-02-13"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-14"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/14/2006"
+date = "2006-02-14"
 
 [[committees]]
 name = "Rules"

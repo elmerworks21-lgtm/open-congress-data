@@ -1,8 +1,11 @@
 id = "01K67YCPDX5NW5TW4D2PH9K4M8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01859"
+
+[meta]
 bill_number = 1859
 congress = 13
-canonical = "SBN-01859"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1859", "https://web.senate.gov.ph/lisdata/31042301!.pdf",]
 title = "AUDITED FINANCIAL STATEMENTS FOR BANK LOANS"
 date_filed = "2004-11-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING AUDITED FINANCIAL STATEMENTS SUBMITTED TO TAX AUT
 scope = "National"
 subjects = [ "General Banking Law of 2000 (RA 8791)", "Financial Statements Audited (Bank Loans", "Banks/Banking (Bank Loans)",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-11-17"
 action = "Introduced by Senator DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-17"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/17/2004"
+date = "2004-11-17"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

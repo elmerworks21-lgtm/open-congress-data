@@ -1,8 +1,11 @@
 id = "01K67YK0GXCQ4ZZCR6W891C7NC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01220"
+
+[meta]
 bill_number = 1220
 congress = 20
-canonical = "SBN-01220"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1220", "https://web.senate.gov.ph/lisdata/4784543863!.pdf",]
 title = "STRENGTHENING THE PHILIPPINE HEALTHCARE SYSTEM"
 date_filed = "2025-08-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE PHILIPPINE HEALTHCARE SYSTEM TO ACHIEVE E
 scope = "National"
 subjects = [ "Universal Health Care", "Public Health Emergency Response",]
 authors_raw = "Villar, Camille A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-20"
 action = "Introduced by Senator CAMILLE A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-15"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; MIGRANT WORKERS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2025"
+date = "2025-09-15"
 
 [[committees]]
 name = "Health and Demography"

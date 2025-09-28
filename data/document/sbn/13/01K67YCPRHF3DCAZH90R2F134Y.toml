@@ -1,8 +1,11 @@
 id = "01K67YCPRHF3DCAZH90R2F134Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02384"
+
+[meta]
 bill_number = 2384
 congress = 13
-canonical = "SBN-02384"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2384", "https://web.senate.gov.ph/lisdata/55704605!.pdf",]
 title = "SCHOOL HEALTH AND NUTRITION MODERNIZATION ACT"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE SCHOOL HEALTH AND NU
 scope = "National"
 subjects = [ "School Health and Nutrition Modernization",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Health and Demography"

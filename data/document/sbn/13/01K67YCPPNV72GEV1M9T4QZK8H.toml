@@ -1,8 +1,11 @@
 id = "01K67YCPPNV72GEV1M9T4QZK8H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02273"
+
+[meta]
 bill_number = 2273
 congress = 13
-canonical = "SBN-02273"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2273", "https://web.senate.gov.ph/lisdata/53764458!.pdf",]
 title = "PANAGAN NATIONAL HIGH SCHOOL (CAMARINES SUR)"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT SEPARATING THE SAN RAMON PILOT HIGH SCHOOL - PANAGAN ANNEX 
 scope = "Local"
 subjects = [ "Schools, Conversion (Camarines Sur)", "Panagan National High School (Camarines Sur)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/7/2006"
+date = "2006-06-07"
 
 [[committees]]
 name = "Education, Arts and Culture"

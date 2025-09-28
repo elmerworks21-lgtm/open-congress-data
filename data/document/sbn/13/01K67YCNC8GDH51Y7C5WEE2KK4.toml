@@ -1,8 +1,11 @@
 id = "01K67YCNC8GDH51Y7C5WEE2KK4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00030"
+
+[meta]
 bill_number = 30
 congress = 13
-canonical = "SBN-00030"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-30", "https://web.senate.gov.ph/lisdata/1163583!.pdf",]
 title = "DEVELOPING GLOBALLY COMPETITIVE SCIENCE/MATHEMATICS TEACHERS"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT DEVELOPING GLOBALLY COMPETITIVE SCIENCE AND MATHEMATICS TEA
 scope = "National"
 subjects = [ "Teachers (Science", "Mathematics)",]
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; SCIENCE AND TECHNOLOGY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Senator Angara was made a coauthor on motion of Senator Flavier;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Education, Arts and Culture"

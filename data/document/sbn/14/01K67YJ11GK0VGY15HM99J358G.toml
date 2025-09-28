@@ -1,8 +1,11 @@
 id = "01K67YJ11GK0VGY15HM99J358G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00459"
+
+[meta]
 bill_number = 459
 congress = 14
-canonical = "SBN-00459"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-459", "https://web.senate.gov.ph/lisdata/46643987!.pdf",]
 title = "PENALIZING MOTHERS TAKING COCAINE/ILLEGAL DRUGS DURING PREGNANCY"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING MOTHERS WHO TAKE COCAINE OR OTHER ILLEGAL DRUGS 
 scope = "National"
 subjects = [ "Pregnant Women (Illegal Drugs/Cocain Users)", "Drug Addiction", "Unborn Child or New-Born, Protection",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

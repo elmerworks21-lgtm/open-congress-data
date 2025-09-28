@@ -1,8 +1,11 @@
 id = "01K67YJZT8BVXDRABXW98YX1N9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00027"
+
+[meta]
 bill_number = 27
 congress = 20
-canonical = "SBN-00027"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-27", "https://web.senate.gov.ph/lisdata/4650142504!.pdf",]
 title = "NATIONAL ATHLETES AND COACHES BENEFITS AND INCENTIVES ACT"
 date_filed = "2025-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING FROM TAXES ALL INCENTIVES, REWARDS, BONUSES, EMOL
 scope = "National"
 subjects = [ "National Athletes and Coaches Benefits and Incentives Act (R.A. No. 10699)", "Tax Exemption",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-02"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on SPORTS and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Sports"

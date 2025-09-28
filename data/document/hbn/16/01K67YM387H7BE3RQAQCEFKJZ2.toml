@@ -1,44 +1,48 @@
 id = "01K67YM387H7BE3RQAQCEFKJZ2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06198"
+
+[meta]
 bill_number = 6198
 congress = 16
-canonical = "HBN-06198"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-6198", "https://web.senate.gov.ph/lisdata/2246919176!.pdf",]
 title = "DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY ACT OF 2015"
 long_title = "AN ACT CREATING THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Department of Information and Communications Technology",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-10-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-04"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-15"
 action = "Senate adopted HBN-6198 as an amendment to SBN-2686; (Transmittal letter received by the House of Representatives on December 17, 2015);"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-20"
 action = "Enrolled copies of HBN-6198, received by the Senate for the signature of Senate Secretary Yabes and Senate President Drilon;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "Enrolled copies of HBN-6198 which was adopted as an amendment to SBN-2686, sent to the House of Representatives already signed by Senate Secretary Yabes and Senate President Drilon;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-26"
 action = "Approved and signed into law, in consolidation with SBN-2686 by the President of the Philippines, His Excellency, President Benigno S. Aquino III on May 23, 2016 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-26"
 action = "REPUBLIC ACT NO. 10844."
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "5/23/2016"
+date = "2016-05-23"
 
 [[committees]]
 name = "Rules"

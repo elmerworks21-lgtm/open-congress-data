@@ -1,8 +1,11 @@
 id = "01K67YJVBBZKJM0PZH4HK5AC4B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00698"
+
+[meta]
 bill_number = 698
 congress = 19
-canonical = "SBN-00698"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-698", "https://web.senate.gov.ph/lisdata/3867435128!.pdf",]
 title = "STREET CHILDREN WELFARE ACT"
 date_filed = "2022-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT ADVANCING THE RIGHTS OF STREET CHILDREN BY STRENGTHENING TH
 scope = "National"
 subjects = [ "Street Children", "Barangay Council for the Protection of Children (BCPC)",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2022"
+date = "2022-08-23"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

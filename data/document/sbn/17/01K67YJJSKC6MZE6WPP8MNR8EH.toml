@@ -1,8 +1,11 @@
 id = "01K67YJJSKC6MZE6WPP8MNR8EH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02153"
+
+[meta]
 bill_number = 2153
 congress = 17
-canonical = "SBN-02153"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2153", "https://web.senate.gov.ph/lisdata/2934225950!.pdf",]
 title = "EMERGENCY RESPONSE EMPLOYEES DISEASE PROTECTION ACT"
 date_filed = "2019-01-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A STUDY AND DEMONSTRATION PROJECTS ON THE CASE
 scope = "National"
 subjects = [ "Emergency Response Employees", "Hepatitis-C",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-16"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-21"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/21/2019"
+date = "2019-01-21"
 
 [[committees]]
 name = "Health and Demography"

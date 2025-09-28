@@ -1,8 +1,11 @@
 id = "01K67YJJ0Y3R8YFSG2DZPDXC1E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01257"
+
+[meta]
 bill_number = 1257
 congress = 17
-canonical = "SBN-01257"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1257", "https://web.senate.gov.ph/lisdata/2514721664!.pdf",]
 title = "FIRST 1,000 DAYS ACT"
 date_filed = "2016-12-01"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO PROTECT FILIPINO PREGNANT AND LACTATING MOTHERS, INFANTS
 scope = "National"
 subjects = [ "Pregnancy", "Maternal/Infant Health", "Nutrition",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-12-01"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-01"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE per Committee Report No. 145, recommending that it be substituted by SBN-1537;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-02"
 action = "SUBSTITUTED BY SBN-1537 UNDER COMMITTEE REPORT NO. 145, WHICH BECAME R.A.NO. 11148 ON NOVEMBER 29, 2018."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/2/2017"
+date = "2017-08-02"
 
 [[committees]]
 name = "Health and Demography"

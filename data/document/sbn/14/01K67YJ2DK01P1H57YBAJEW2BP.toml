@@ -1,8 +1,11 @@
 id = "01K67YJ2DK01P1H57YBAJEW2BP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02219"
+
+[meta]
 bill_number = 2219
 congress = 14
-canonical = "SBN-02219"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2219", "https://web.senate.gov.ph/lisdata/72016437!.pdf",]
 title = "MEDICAL PRACTITIONERS PROTECTION ACT OF 2008"
 date_filed = "2008-04-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A FAIR AND EQUITABLE TERMS FOR THE RELEASE OF
 scope = "National"
 subjects = [ "Medical Practitioners (Physicians, Doctors, Dentists, Nurses, Etc.)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-30"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/30/2008"
+date = "2008-04-30"
 
 [[committees]]
 name = "Health and Demography"

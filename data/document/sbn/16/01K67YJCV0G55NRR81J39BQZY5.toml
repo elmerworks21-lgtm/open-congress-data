@@ -1,8 +1,11 @@
 id = "01K67YJCV0G55NRR81J39BQZY5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00868"
+
+[meta]
 bill_number = 868
 congress = 16
-canonical = "SBN-00868"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-868", "https://web.senate.gov.ph/lisdata/1688214118!.pdf",]
 title = "IGLESIA NI CRISTO (INC) FOUNDING ANNIVERSARY"
 date_filed = "2013-07-17"
@@ -10,33 +13,34 @@ long_title = "AN ACT DECLARING THE TWENTY SEVENTH DAY OF JULY OF EVERY YEAR A SP
 scope = "National"
 subjects = [ "Holidays (Special Working)", "Iglesia Ni Cristo (INC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-17"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-13"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-17"
 action = "Transferred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-04"
 action = "Returned and submitted by the Committee on EDUCATION, ARTS AND CULTURE per Committee Report No. 48, recommending that it be considered in HJR-12;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-04"
 action = "CONSIDERED IN HJR-12 UNDER C.R. NO. 48."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/4/2014"
+date = "2014-06-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

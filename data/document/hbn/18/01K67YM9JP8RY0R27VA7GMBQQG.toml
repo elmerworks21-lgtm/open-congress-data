@@ -1,28 +1,32 @@
 id = "01K67YM9JP8RY0R27VA7GMBQQG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08886"
+
+[meta]
 bill_number = 8886
 congress = 18
-canonical = "HBN-08886"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8886", "https://web.senate.gov.ph/lisdata/3475231605!.pdf",]
 title = "AGUSAN DEL NORTE GENERAL HOSPITAL AND TRAINING CENTER"
 long_title = "AN ACT CONVERTING THE AGUSAN DEL NORTE PROVINCIAL HOSPITAL IN THE CITY OF BUTUAN, PROVINCE OF AGUSAN DEL NORTE, INTO A LEVEL III TEACHING AND TRAINING HOSPITAL TO BE KNOWN AS THE AGUSAN DEL NORTE GENERAL HOSPITAL AND TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-24"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/24/2021"
+date = "2021-03-24"
 
 [[committees]]
 name = "Health and Demography"

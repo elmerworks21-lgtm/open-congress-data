@@ -1,24 +1,28 @@
 id = "01K67YKWECMDBWRRTHP13A2XZ2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04789"
+
+[meta]
 bill_number = 4789
 congress = 14
-canonical = "HBN-04789"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4789", "https://web.senate.gov.ph/lisdata/87588000!.pdf",]
 title = "BULUAN - DAGA - CATABBUGAN - PINUKPUK PROVINCIAL ROAD"
 long_title = "AN ACT CONVERTING THE BULUAN - AGA - CATABBUGAN - PINUKPUK PROVINCIAL ROAD IN THE PROVINCE OF APAYAO INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representative ELIAS C. BULUT JR. as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-30"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/30/2008"
+date = "2008-09-30"
 
 [[committees]]
 name = "Public Works"

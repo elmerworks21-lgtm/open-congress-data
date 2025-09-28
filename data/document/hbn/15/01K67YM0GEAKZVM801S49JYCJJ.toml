@@ -1,24 +1,28 @@
 id = "01K67YM0GEAKZVM801S49JYCJJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06751"
+
+[meta]
 bill_number = 6751
 congress = 15
-canonical = "HBN-06751"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6751", "https://web.senate.gov.ph/lisdata/1513112800!.pdf",]
 title = "REVISED PHILIPPINE HIV AND AIDS POLICY AND PROGRAM ACT"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE COMPREHENSIVE POLICY ON HIV AND AIDS PREVENTION, TREATMENT, CARE AND SUPPORT AND ESTABLISHING THE PHILIPPINE NATIONAL HIV AND AIDS PROGRAM, REVISING FOR THE PURPOSE REPUBLIC ACT NO. 8504, OTHERWISE KNOWN AS THE PHILIPPINE AIDS PREVENTION AND CONTROL ACT OF 1998, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Human Immuno Deficiency Virus (HIV)",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-01-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2013"
+date = "2013-02-05"
 
 [[committees]]
 name = "Health and Demography"

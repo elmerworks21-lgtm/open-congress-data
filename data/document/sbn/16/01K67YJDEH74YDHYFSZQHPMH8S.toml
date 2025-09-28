@@ -1,8 +1,11 @@
 id = "01K67YJDEH74YDHYFSZQHPMH8S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01808"
+
+[meta]
 bill_number = 1808
 congress = 16
-canonical = "SBN-01808"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1808", "https://web.senate.gov.ph/lisdata/1800815241!.pdf",]
 title = "BANNING ON EXPERIMENTS ON CLONING OF HUMAN BEINGS ACT"
 date_filed = "2013-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO BAN EXPERIMENTS ON THE CLONING OF HUMAN BEINGS"
 scope = "National"
 subjects = [ "Cloning",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-22"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/22/2013"
+date = "2013-10-22"
 
 [[committees]]
 name = "Science and Technology"

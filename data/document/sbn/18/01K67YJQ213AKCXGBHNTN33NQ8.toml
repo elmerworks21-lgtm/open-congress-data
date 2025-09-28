@@ -1,8 +1,11 @@
 id = "01K67YJQ213AKCXGBHNTN33NQ8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01000"
+
+[meta]
 bill_number = 1000
 congress = 18
-canonical = "SBN-01000"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1000", "https://web.senate.gov.ph/lisdata/3141628315!.pdf",]
 title = "PARKING SPACE REGULATION ACT OF 2019"
 date_filed = "2019-09-02"
@@ -10,29 +13,30 @@ long_title = "AN ACT REGULATING THE IMPOSITION OF ANY FEE FOR THE USE OF PARKING
 scope = "National"
 subjects = [ "Parking Space",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-09-02"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-04-28"
 action = "Returned and submitted by the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP per Committee Report No. 230, recommending that it be substituted by SBN-2147;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "SUBSTITUTED BY SBN-2147 UNDER COMMITTEE REPORT NO. 230."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

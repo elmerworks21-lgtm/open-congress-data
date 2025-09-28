@@ -1,8 +1,11 @@
 id = "01K67YJR9H05QR8XX62F6R931G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02456"
+
+[meta]
 bill_number = 2456
 congress = 18
-canonical = "SBN-02456"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2456", "https://web.senate.gov.ph/lisdata/3671333093!.pdf",]
 title = "TAX EXEMPTION ON ELECTION HONORARIA AND ALLOWANCES OF POLL WORKERS/TEACHERS"
 date_filed = "2021-11-25"
@@ -10,33 +13,34 @@ long_title = "AN ACT EXEMPTING FROM INCOME TAXATION THE HONORARIA, ALLOWANCE, AN
 scope = "National"
 subjects = [ "Tax Exemption", "Taxes (Individual Income Tax)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2021-11-25"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-01"
 action = "Read on First Reading and Referred to the Committees on WAYS AND MEANS and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-04-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Returned and submitted jointly by the Committees on WAYS AND MEANS and ELECTORAL REFORMS AND PEOPLES PARTICIPATION per Committee Report No. 641, recommending that it be substituted by SBN-2520;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "SUBSTITUTED BY SBN-2520 UNDER COMMITTEE REPORT NO. 641."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Ways and Means"

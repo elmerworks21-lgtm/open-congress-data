@@ -1,37 +1,41 @@
 id = "01K67YJ288P0403MP6NGZSRT6J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01994"
+
+[meta]
 bill_number = 1994
 congress = 14
-canonical = "SBN-01994"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1994", "https://web.senate.gov.ph/lisdata/66995905!.pdf",]
 title = "SINGER'S EQUITY ACT"
 date_filed = "2008-01-14"
 long_title = "AN ACT TO PROTECT, CONSERVE, PROMOTE AND POPULARIZE THE NATION'S HISTORICAL AND CULTURAL HERITAGE AND RESOURCES, AS WELL AS ARTISTIC CREATIONS BY EXACTING A PERFORMANCE FEE FROM FOREIGN PERFORMERS AND ALLOCATING THE PROCEEDS THEREOF TO THE NATIONAL COMMISSION ON CULTURE AND ARTS, AND FOR OTHER PURPOSES."
 scope = "National"
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-14"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, FINANCE, FOREIGN RELATIONS, URBAN PLANNING, HOUSING AND RESETTLEMENT and WAYS AND MEANS per Committee Report No. 244, recommending that it be substituted by SBN-3014;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "SUBSTITUTED BY SBN-3014, WHICH BECAME R.A.NO. 10066."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/26/2009"
+date = "2009-01-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

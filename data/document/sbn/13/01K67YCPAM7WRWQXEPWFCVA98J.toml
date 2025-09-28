@@ -1,8 +1,11 @@
 id = "01K67YCPAM7WRWQXEPWFCVA98J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01703"
+
+[meta]
 bill_number = 1703
 congress = 13
-canonical = "SBN-01703"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1703", "https://web.senate.gov.ph/lisdata/28842487!.pdf",]
 title = "UNDERPRIVILEGED COLLEGE STUDENTS DISCOUNT ACT"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING DISCOUNTS TO UNDERPRIVILEGED COLLEGE STUDENTS ON B
 scope = "National"
 subjects = [ "Underprivileged College Students Disct.", "Discount Privilege",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Education, Arts and Culture"

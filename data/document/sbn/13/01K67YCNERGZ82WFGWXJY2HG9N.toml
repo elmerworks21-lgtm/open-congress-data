@@ -1,8 +1,11 @@
 id = "01K67YCNERGZ82WFGWXJY2HG9N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00168"
+
+[meta]
 bill_number = 168
 congress = 13
-canonical = "SBN-00168"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-168", "https://web.senate.gov.ph/lisdata/13161108!.pdf",]
 title = "PARTY LIST SYSTEM ACT (AMENDMENTS)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT SEVENTY NINE FORTY ONE, OTHERWISE KNO
 scope = "National"
 subjects = [ "Party List System (Amendments; RA 7941)", "Women Sectoral Representation",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

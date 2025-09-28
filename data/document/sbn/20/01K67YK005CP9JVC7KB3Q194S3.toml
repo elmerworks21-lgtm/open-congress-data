@@ -1,8 +1,11 @@
 id = "01K67YK005CP9JVC7KB3Q194S3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00333"
+
+[meta]
 bill_number = 333
 congress = 20
-canonical = "SBN-00333"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-333", "https://web.senate.gov.ph/lisdata/4682242829!.pdf",]
 title = "STUDENT LOAD DISCOUNT ACT"
 date_filed = "2025-07-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE GRANT OF STUDENT LOAD DISCOUNT PRIVI
 scope = "National"
 subjects = [ "Student Load Discount",]
 authors_raw = "Ejercito, Jv"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-09"
 action = "Introduced by Senator JV EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-11"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; PUBLIC SERVICES and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2025"
+date = "2025-08-11"
 
 [[committees]]
 name = "Basic Education"

@@ -1,8 +1,11 @@
 id = "01K67YJ1ZXMZFMQXWD49Q35XXF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01637"
+
+[meta]
 bill_number = 1637
 congress = 14
-canonical = "SBN-01637"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1637", "https://web.senate.gov.ph/lisdata/59985326!.pdf",]
 title = "INCENTIVES TO FILMMAKERS AND ACTORS"
 date_filed = "2007-09-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENCOURAGE THE PRODUCTION OF OUT-STANDING, WORLD-CLASS AND W
 scope = "National"
 subjects = [ "Movie Industry", "Local Film Industry",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-25"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/25/2007"
+date = "2007-09-25"
 
 [[committees]]
 name = "Public Information and Mass Media"

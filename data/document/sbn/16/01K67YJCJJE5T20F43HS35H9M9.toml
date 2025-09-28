@@ -1,8 +1,11 @@
 id = "01K67YJCJJE5T20F43HS35H9M9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00452"
+
+[meta]
 bill_number = 452
 congress = 16
-canonical = "SBN-00452"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-452", "https://web.senate.gov.ph/lisdata/1631013549!.pdf",]
 title = "EXCLUDING 13TH MONTH PAY FROM THE COMPUTATION OF TAXABLE INCOME"
 date_filed = "2013-07-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT EXCLUDING 13TH MONTH PAY AND OTHER BENEFITS FROM THE COMPUT
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income Tax)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-04"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-22"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 84, recommending that it be substituted by SBN-2437;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-17"
 action = "SUBSTITUTED BY SBN-2437 UNDER C.R.NO. 84, WHICH BECAME R.A.NO. 10653 ON FEBRUARY 12, 2015."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/22/2014"
+date = "2014-10-22"
 
 [[committees]]
 name = "Ways and Means"

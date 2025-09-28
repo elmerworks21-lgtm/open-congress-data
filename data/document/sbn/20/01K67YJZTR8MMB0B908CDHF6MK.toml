@@ -1,8 +1,11 @@
 id = "01K67YJZTR8MMB0B908CDHF6MK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00053"
+
+[meta]
 bill_number = 53
 congress = 20
-canonical = "SBN-00053"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-53", "https://web.senate.gov.ph/lisdata/4652742531!.pdf",]
 title = "21ST CENTURY SCHOOL BOARDS ACT"
 date_filed = "2025-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT FURTHERING LOCAL LEADERSHIP AND ACCOUNTABILITY IN BASIC EDU
 scope = "National"
 subjects = [ "21st Century School Boards",]
 authors_raw = "Gatchalian, Win T., Ejercito, Jv"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-02"
 action = "Introduced by Senator WIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT; BASIC EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Letter from Senator JV EJERCITO dated August 13, 2025, conveying his intention to be made co-author of SBN-53, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJWFG3BETDRAM5715K8AP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02245"
+
+[meta]
 bill_number = 2245
 congress = 19
-canonical = "SBN-02245"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2245", "https://web.senate.gov.ph/lisdata/4182038093!.pdf",]
 title = "UPGRADING THE CAMARINES NORTE PROVINCIAL HOSPITAL"
 date_filed = "2023-05-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT ACT UPGRADING THE CAMARINES NORTE PROVINCIAL HOSPITAL IN TH
 scope = "Local"
 subjects = [ "Hospitals, Upgrading", "Department of Health (DOH)",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-24"
 action = "Introduced by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-29"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/29/2023"
+date = "2023-05-29"
 
 [[committees]]
 name = "Rules"

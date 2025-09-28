@@ -1,24 +1,28 @@
 id = "01K67YMDJWFDCAJV42J5D5J7GQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09705"
+
+[meta]
 bill_number = 9705
 congress = 19
-canonical = "HBN-09705"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9705", "https://web.senate.gov.ph/lisdata/4332339432!.pdf",]
 title = "MULTI-SPECIES FRESHWATER FISH HATCHERY (KALAMANSIG, SULTAN KUDARAT)"
 long_title = "AN ACT ESTABLISHING A MULTI-SPECIES FRESHWATER FISH HATCHERY IN THE MUNICIPALITY OF KALAMANSIG, PROVINCE OF SULTAN KUDARAT, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Multi-Species Fish Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-01-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-13"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/13/2024"
+date = "2024-02-13"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

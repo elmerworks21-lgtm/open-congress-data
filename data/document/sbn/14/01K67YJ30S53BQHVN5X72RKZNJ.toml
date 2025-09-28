@@ -1,8 +1,11 @@
 id = "01K67YJ30S53BQHVN5X72RKZNJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03069"
+
+[meta]
 bill_number = 3069
 congress = 14
-canonical = "SBN-03069"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3069", "https://web.senate.gov.ph/lisdata/103469221!.pdf",]
 title = "POOR LITIGANTS EQUALIZATION ACT"
 date_filed = "2009-02-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING POOR LITIGANTS WHO ARE FILIPINO CITIZENS FROM POS
 scope = "National"
 subjects = [ "Poor Litigants",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-16"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-18"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/18/2009"
+date = "2009-02-18"
 
 [[committees]]
 name = "Justice and Human Rights"

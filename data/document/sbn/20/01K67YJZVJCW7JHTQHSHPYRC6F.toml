@@ -1,8 +1,11 @@
 id = "01K67YJZVJCW7JHTQHSHPYRC6F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00096"
+
+[meta]
 bill_number = 96
 congress = 20
-canonical = "SBN-00096"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-96", "https://web.senate.gov.ph/lisdata/4657042574!.pdf",]
 title = "EDUCATIONAL ASSISTANCE FOR CHILDREN AND DEPENDENTS OF FARMERS AND FISHERFOLKS ACT"
 date_filed = "2025-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR EDUCATIONAL ASSISTANCE TO CHILDREN AND DEPEND
 scope = "National"
 subjects = [ "Educational Assistance", "Farmers", "Fisherfolk",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-03"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; BASIC EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

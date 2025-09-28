@@ -1,24 +1,28 @@
 id = "01K67YKWTAND1Y5JV6P3Y5MFEM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05734"
+
+[meta]
 bill_number = 5734
 congress = 14
-canonical = "HBN-05734"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5734", "https://web.senate.gov.ph/lisdata/103129187!.pdf",]
 title = "WESTERN EL NIDO NATIONAL HIGH SCHOOL (PALAWAN)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BAGONG BAYAN, MUNICIPALITY OF EL NIDO, PROVINCE OF PALAWAN TO BE KNOWN AS WESTERN EL NIDO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-16"
 action = "Filed in the Senate requesting for concurrence by Representatives ANTONIO C. ALVAREZ, DEL R. DE GUZMAN, EDCEL C. LAGMAN and JUNIE E. CUA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-17"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/17/2009"
+date = "2009-02-17"
 
 [[committees]]
 name = "Education, Arts and Culture"

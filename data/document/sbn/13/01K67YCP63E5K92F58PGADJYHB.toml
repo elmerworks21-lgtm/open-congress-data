@@ -1,8 +1,11 @@
 id = "01K67YCP63E5K92F58PGADJYHB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01445"
+
+[meta]
 bill_number = 1445
 congress = 13
-canonical = "SBN-01445"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1445", "https://web.senate.gov.ph/lisdata/26602024!.pdf",]
 title = "TIME FOR SCHOOLS ACT"
 date_filed = "2004-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ALLOW EMPLOYEES TO TAKE SCHOOL INVOLVEMENT LEAVE TO PART
 scope = "National"
 subjects = [ "Time for Schools Act", "Leave of Absence (School Activities)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

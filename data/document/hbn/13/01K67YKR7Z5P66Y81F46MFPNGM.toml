@@ -1,24 +1,28 @@
 id = "01K67YKR7Z5P66Y81F46MFPNGM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05334"
+
+[meta]
 bill_number = 5334
 congress = 13
-canonical = "HBN-05334"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5334", "https://web.senate.gov.ph/lisdata/53384437!.pdf",]
 title = "SULU STATE UNIVERSITY"
 long_title = "AN ACT CONVERTING THE SULU STATE COLLEGE IN THE MUNICIPALITY OF JOLO, PROVINCE OF SULU INTO A STATE UNIVERSITY TO BE KNOWN AS THE SULU STATE UNIVERSITY AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "State Colleges/University (SCUS)", "Sulu State University",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-05-31"
 action = "Filed in the Senate requesting for concurrence by Representatives HUSSIN U. AMIN, CYNTHIA A. VILLAR, HARLIN C. ABAYON, JESLI A. LAPUS, JOEY SARTE SALCEDA and ROILO S. GOLEZ as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2006"
+date = "2006-06-05"
 
 [[committees]]
 name = "Education, Arts and Culture"

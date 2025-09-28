@@ -1,8 +1,11 @@
 id = "01K67YCP0EA7X1145BS991J4JJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01137"
+
+[meta]
 bill_number = 1137
 congress = 13
-canonical = "SBN-01137"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1137", "https://web.senate.gov.ph/lisdata/23431632!.pdf",]
 title = "PRIVATE HOSPITAL ASSISTANCE ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A PRIVATE-HOSPITAL DEVELOPMENT PLAN AND PROVID
 scope = "National"
 subjects = [ "Private Hospital Assistance Act",]
 authors_raw = "Pimentel Jr., Aquilino Q., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Senator Angara was made a coauthor on motion of Senator Flavier;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Health and Demography"

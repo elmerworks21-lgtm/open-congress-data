@@ -1,8 +1,11 @@
 id = "01K67YCPH1SE2TS2NTNSE3QJVV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02002"
+
+[meta]
 bill_number = 2002
 congress = 13
-canonical = "SBN-02002"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2002", "https://web.senate.gov.ph/lisdata/34282711!.pdf",]
 title = "WORKING TIME FLEXIBILITATION (PRIVATE SECTOR)"
 date_filed = "2005-05-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A WORKING TIME FLEXIBILITATION IN THE PRIVATE
 scope = "National"
 subjects = [ "Working Time Flexibilization",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2005-05-17"
 action = "Introduced by Senator JUAN M. FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-17"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2005"
+date = "2005-05-17"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

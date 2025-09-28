@@ -1,8 +1,11 @@
 id = "01K67YCNY9TCVMY0QGZ7Y3ZVPV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01025"
+
+[meta]
 bill_number = 1025
 congress = 13
-canonical = "SBN-01025"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1025", "https://web.senate.gov.ph/lisdata/22081318!.pdf",]
 title = "CHILD LEGITIMIZATION BORN TO PARENTS BELOW MARRYING AGE"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE LEGITIMATION OF CHILDREN BORN TO PARENTS 
 scope = "National"
 subjects = [ "Family Code (E.O. 209)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

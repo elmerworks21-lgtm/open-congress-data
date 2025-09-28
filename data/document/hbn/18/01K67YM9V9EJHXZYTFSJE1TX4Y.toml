@@ -1,24 +1,28 @@
 id = "01K67YM9V9EJHXZYTFSJE1TX4Y"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09996"
+
+[meta]
 bill_number = 9996
 congress = 18
-canonical = "HBN-09996"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9996", "https://web.senate.gov.ph/lisdata/3622532676!.pdf",]
 title = "RTC/MTC IN THE FOURTH JUDICIAL REGION (ANTIPOLO, RIZAL)"
 long_title = "AN ACT CREATING TEN (10) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND FIVE (5) ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COURT IN CITIES IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF ANTIPOLO, PROVINCE OF RIZAL, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14 (E) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED"
 scope = "National"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-20"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2021"
+date = "2021-09-20"
 
 [[committees]]
 name = "Justice and Human Rights"

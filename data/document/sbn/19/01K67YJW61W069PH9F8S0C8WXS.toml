@@ -1,8 +1,11 @@
 id = "01K67YJW61W069PH9F8S0C8WXS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01854"
+
+[meta]
 bill_number = 1854
 congress = 19
-canonical = "SBN-01854"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1854", "https://web.senate.gov.ph/lisdata/4070537099!.pdf",]
 title = "DECLARING THE PROVINCE OF SOUTHERN LEYTE A TOURISM ZONE"
 date_filed = "2023-02-08"
@@ -10,37 +13,38 @@ long_title = "AN ACT DECLARING THE PROVINCE OF SOUTHERN LEYTE A TOURISM ZONE"
 scope = "National"
 subjects = [ "Tourism (Ecotourism Zone", "Ecotourism Site)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-08"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-13"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-10"
 action = "[2024]"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-03"
 action = "Returned and submitted jointly by the Committees on TOURISM, ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE per Committee Report No. 582, recommending that it be considered HBN-5598;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-04"
 action = "CONSIDERED IN HBN-5598 UNDER COMMITTEE REPORT NO. 582 WHICH BECAME REPUBLIC ACT NO. 12236 ON AUGUST 29, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/4/2025"
+date = "2025-06-04"
 
 [[committees]]
 name = "Tourism"

@@ -1,8 +1,11 @@
 id = "01K67YJEJZND49XKXRHMF5G0VD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03198"
+
+[meta]
 bill_number = 3198
 congress = 16
-canonical = "SBN-03198"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3198", "https://web.senate.gov.ph/lisdata/2312719866!.pdf",]
 title = "OPERATING ROOM PRIVACY ACT"
 date_filed = "2016-02-01"
@@ -10,19 +13,20 @@ long_title = "AN ACT REQUIRING THE EXPRESS, WRITTEN CONSENT OF A PATIENT OR HIS 
 scope = "National"
 subjects = [ "Patients", "Privacy",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-02-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Motion of the Majority Leader, Senator Alan Peter Compañero S. Cayetano, that the matters appearing in the Reference of Business for todays session be deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "5/30/2016"
+date = "2016-05-30"
 

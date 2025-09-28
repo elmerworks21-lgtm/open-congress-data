@@ -1,8 +1,11 @@
 id = "01K67YJ305GCFY86DMDQ0BFS1E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03039"
+
+[meta]
 bill_number = 3039
 congress = 14
-canonical = "SBN-03039"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3039", "https://web.senate.gov.ph/lisdata/102329110!.pdf",]
 title = "MAGNA CARTA OF AGRICULTURE AND FISHERY DEVELOPMENT WORKERS"
 date_filed = "2009-02-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF AGRICULTURE AND FISHERY DEVE
 scope = "National"
 subjects = [ "Magna Carta of Agriculture and Fishery Development Workers",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-04"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/4/2009"
+date = "2009-02-04"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

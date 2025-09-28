@@ -1,8 +1,11 @@
 id = "01K67YJD05EW0Y3Q39TZ56QSAE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01109"
+
+[meta]
 bill_number = 1109
 congress = 16
-canonical = "SBN-01109"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1109", "https://web.senate.gov.ph/lisdata/1714714385!.pdf",]
 title = "ANTI-MUFFLER MODIFICATION ACT"
 date_filed = "2013-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING MODIFICATION OF MUFFLERS TO INCREASE NOISE EMIT
 scope = "National"
 subjects = [ "Noise Pollution", "Motor Vehicles",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-25"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2013"
+date = "2013-08-27"
 
 [[committees]]
 name = "Public Services"

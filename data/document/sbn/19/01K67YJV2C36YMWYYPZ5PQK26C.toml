@@ -1,8 +1,11 @@
 id = "01K67YJV2C36YMWYYPZ5PQK26C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00287"
+
+[meta]
 bill_number = 287
 congress = 19
-canonical = "SBN-00287"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-287", "https://web.senate.gov.ph/lisdata/3803334474!.pdf",]
 title = "DOH HOSPITAL BED CAPACITY AND SERVICE CAPABILITY RATIONALIZATION ACT"
 date_filed = "2022-07-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT AUTHORIZING THE DEPARTMENT OF HEALTH (DOH) TO SET AND APPRO
 scope = "National"
 subjects = [ "Department of Health (DOH)", "Hospitals, Increase Bed Capacity",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Health and Demography"

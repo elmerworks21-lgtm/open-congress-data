@@ -1,24 +1,28 @@
 id = "01K67YM6PSDXNE01GXHV7PMCT7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08886"
+
+[meta]
 bill_number = 8886
 congress = 17
-canonical = "HBN-08886"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8886", "https://web.senate.gov.ph/lisdata/2963726336!.pdf",]
 title = "LTO DISTRICT OFFICE (MANOLO FORTICH, BUKIDNON)"
 long_title = "AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF MANOLO FORTICH, PROVINCE OF BUKIDNON AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-08"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/8/2019"
+date = "2019-02-08"
 
 [[committees]]
 name = "Public Services"

@@ -1,24 +1,28 @@
 id = "01K67YM6CGCFRWN9VW2F7ZNPH2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07510"
+
+[meta]
 bill_number = 7510
 congress = 17
-canonical = "HBN-07510"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7510", "https://web.senate.gov.ph/lisdata/2804424306!.pdf",]
 title = "PHILIPPINE TOURISM STAMPS ACT"
 long_title = "AN ACT REQUIRING THE PHILIPPINE POSTAL CORPORATION TO PRINT POSTAGE STAMPS DEPICTING PHILIPPINE TOURIST ATTRACTIONS AND DESTINATIONS AND TO AFFIX THESE STAMPS ON OUTGOING MAIL MATTERS TO ATTRACT FOREIGN TOURISTS"
 scope = "National"
 subjects = [ "Postage Stamps", "Philippine Postal Corporation", "Tourism",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-05-29"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2018"
+date = "2018-07-24"
 
 [[committees]]
 name = "Tourism"

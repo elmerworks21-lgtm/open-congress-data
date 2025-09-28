@@ -1,8 +1,11 @@
 id = "01K67YJ9F8B13EE8GZNVJ2Q95M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03081"
+
+[meta]
 bill_number = 3081
 congress = 15
-canonical = "SBN-03081"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3081", "https://web.senate.gov.ph/lisdata/1254410603!.pdf",]
 title = "REQUISITES FOR CREATION OF A MUNICIPALITY"
 date_filed = "2011-12-05"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 450 OF REPUBLIC ACT NO. 7160, OTHERWISE KN
 scope = "National"
 subjects = [ "Municipality, Creation", "Local Government Code, Amendments (R.A.No. 7160)",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-12-05"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-12-05"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/5/2011"
+date = "2011-12-05"
 
 [[committees]]
 name = "Local Government"

@@ -1,64 +1,68 @@
 id = "01K67YKVSVVS55G3SHDJYBC6C2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03323"
+
+[meta]
 bill_number = 3323
 congress = 14
-canonical = "HBN-03323"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-3323", "https://web.senate.gov.ph/lisdata/68616073!.pdf",]
 title = "FILIPINO WORLD WAR II VETERANS EQUITY ACT OF 2007"
 long_title = "AN ACT ALLOWING FILIPINO WORLD WAR II VETERANS TO CONTINUE RECEIVING PHILIPPINE GOVERNMENT PENSIONS AND BENEFITS NOTWITHSTANDING SIMILAR PENSIONS AND BENEFITS PROVIDED BY THE UNITED STATES GOVERNMENT, THEREBY AMENDING REPUBLIC ACT NO. 6948, AS AMENDED"
 scope = "National"
 subjects = [ "Veterans",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-11"
 action = "Filed in the Senate requesting for concurrence by Representatives COSCOLLUELA, VELARDE, GOLEZ, TIENG, DIAZ, PADILLA, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-12"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-05"
 action = "House of Representatives requested the Senate for a conference on the disagreeing provisions of HBN-3323 and SBN-1659, and designated Representatives Diaz, Solis, Roman and Coscolluela as its conferees to the Bicameral Conference Committee, on February 26, 2008;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-05"
 action = "Senate agreed to a conference on the disagreeing provisions of both Bills, and designated Senators Biazon, Gordon and Honasan as its conferees to the Bicameral Conference Committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-10"
 action = "House of Representatives elected Representatives Golez and Belmonte Jr., as additional conferees to the Bicameral Conference Committee on March 4, 2008;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-12"
 action = "Conference Committee Report submitted to the Senate recommending that SBN-1659, in consolidation with HBN-3323 be approved as reconciled;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-12"
 action = "Sponsorship speech of Senator RICHARD 'DICK' J. GORDON on the Conference Committee Report;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-12"
 action = "Conference Committee Report Approved by the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-12"
 action = "Conference Committee Report approved by the House of Representatives;(See: O.B. dated April 21, 2008);"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-03"
 action = "Enrolled copies of the consolidated version of SBN-1659 and HBN-3323, sent to the Office of the President of the Philippines, for the signature and approval of Her Excellency President Gloria Macapagal Arroyo;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-09"
 action = "Consolidated with SBN-1659, which was approved and signed into law by the President of the Philippines, Her Excellency President Gloria Macapagal Arroyo, and became; (See: O.B. dated April 23, 2008);"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-09"
 action = "REPUBLIC ACT NO. 9499."
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "4/9/2008"
+date = "2008-04-09"
 
 [[committees]]
 name = "Rules"

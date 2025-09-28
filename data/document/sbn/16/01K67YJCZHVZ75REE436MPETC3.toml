@@ -1,8 +1,11 @@
 id = "01K67YJCZHVZ75REE436MPETC3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01078"
+
+[meta]
 bill_number = 1078
 congress = 16
-canonical = "SBN-01078"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1078", "https://web.senate.gov.ph/lisdata/1711814345!.pdf",]
 title = "DISASTER AWARENESS AND DISASTER MITIGATION"
 date_filed = "2013-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE TEACHING OF DISASTER AWARENESS AND DISASTER M
 scope = "National"
 subjects = [ "Disaster Awareness", "Mitigation",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-23"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Education, Arts and Culture"

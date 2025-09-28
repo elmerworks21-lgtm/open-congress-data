@@ -1,8 +1,11 @@
 id = "01K67YJ1GJY5A7THHWDWVTJBPW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01195"
+
+[meta]
 bill_number = 1195
 congress = 14
-canonical = "SBN-01195"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1195", "https://web.senate.gov.ph/lisdata/54904889!.pdf",]
 title = "LEGACY OF GENERAL PERSONAL PROPERTY"
 date_filed = "2007-07-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 386, ALSO KNOWN AS THE CIVIL CODE
 scope = "National"
 subjects = [ "Legacy", "Civil Code (R.A.No. 386, Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-05"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

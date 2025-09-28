@@ -1,8 +1,11 @@
 id = "01K67YJDEN43W2Y8GTYJ249VRJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01815"
+
+[meta]
 bill_number = 1815
 congress = 16
-canonical = "SBN-01815"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1815", "https://web.senate.gov.ph/lisdata/1801515248!.pdf",]
 title = "TEACHER TECHNOLOGY ACCESS ACT"
 date_filed = "2013-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR COMPUTER INNOVATIVE ASSISTANCE PROGRAMS TO EL
 scope = "National"
 subjects = [ "Teachers", "Innovations/Innovative Technology",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-22"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/22/2013"
+date = "2013-10-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

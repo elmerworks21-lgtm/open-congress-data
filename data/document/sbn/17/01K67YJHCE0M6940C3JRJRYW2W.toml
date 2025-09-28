@@ -1,8 +1,11 @@
 id = "01K67YJHCE0M6940C3JRJRYW2W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00349"
+
+[meta]
 bill_number = 349
 congress = 17
-canonical = "SBN-00349"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-349", "https://web.senate.gov.ph/lisdata/2378720450!.pdf",]
 title = "INCLUSIVE BUSINESS PROMOTION ACT"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING A NATIONAL STRATEGY FOR PROMOTING INCLUS
 scope = "National"
 subjects = [ "Poverty Alleviation", "Business and Sustain Economic Growth", "Business (Plans and Strategies)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

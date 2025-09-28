@@ -1,8 +1,11 @@
 id = "01K67YJ908X6QJ8BG6GZ7PZQVX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02560"
+
+[meta]
 bill_number = 2560
 congress = 15
-canonical = "SBN-02560"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2560", "https://web.senate.gov.ph/lisdata/102568789!.pdf",]
 title = "LOCAL FILM INDUSTRY DEVELOPMENT ACT OF 2010"
 date_filed = "2010-10-05"
@@ -10,25 +13,26 @@ long_title = "AN ACT TO PROMOTE AND SUPPORT THE DEVELOPMENT AND GROWTH OF THE PH
 scope = "National"
 subjects = [ "Movie Industry", "Philippine Film Commission",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-10-05"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-10-06"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-16"
 action = "Manifestation of Senator SOTTO III, as agreed upon in caucus, that bills filed by Senator Zubiri as sole author would be taken over by the Committee on Rules, while others by their coauthors;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/6/2010"
+date = "2010-10-06"
 
 [[committees]]
 name = "Public Information and Mass Media"

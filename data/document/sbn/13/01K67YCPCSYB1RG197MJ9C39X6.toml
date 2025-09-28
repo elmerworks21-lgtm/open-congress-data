@@ -1,8 +1,11 @@
 id = "01K67YCPCSYB1RG197MJ9C39X6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01815"
+
+[meta]
 bill_number = 1815
 congress = 13
-canonical = "SBN-01815"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1815", "https://web.senate.gov.ph/lisdata/11272224!.pdf",]
 title = "CIGARS AND CIGARETTES TAX INCREASE"
 date_filed = "2004-10-06"
@@ -10,29 +13,30 @@ long_title = "AN ACT FURTHER AMENDING SECTION 145 OF THE NATIONAL INTERNAL REVEN
 scope = "National"
 subjects = [ "Taxes/Taxation (Sin Tax; Cigars)", "Cigars/Cigarettes (Tax Increase)", "National Internal Revenue Code",]
 authors_raw = "Enrile, Juan Ponce"
-[[legislative_history]]
+
+[[history]]
 date = "2004-10-06"
 action = "Introduced by Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-25"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-16"
 action = "Returned by the Committee on Ways and Means per Committee Report No. 5, recommending that it be substituted by SBN-1854;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-17"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-17"
 action = "SUBSTITUTED BY SBN-1854, which became R.A.No. 9334."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/17/2004"
+date = "2004-11-17"
 
 [[committees]]
 name = "Ways and Means"

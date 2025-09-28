@@ -1,26 +1,30 @@
 id = "01K67YM6T64ZMA3Y3PTVM2A624"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09140"
+
+[meta]
 bill_number = 9140
 congress = 17
-canonical = "HBN-09140"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-9140", "https://web.senate.gov.ph/lisdata/3012926888!.pdf",]
 title = "GUINSAUGON ECO-ADVENTURE NATIONAL PARK"
 long_title = "AN ACT DECLARING GUINSAUGON ECO-ADVENTURE PARK LOCATED IN BARANGAY GUINSAUGON, MUNICIPALITY OF ST. BERNARD, PROVINCE OF SOUTHERN LEYTE AS THE GUINSAUGON ECO-ADVENTURE NATIONAL PARK"
 scope = "Local"
 subjects = [ "Parks", "Tourism (Eco-Adventure National Park)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-04"
 action = "Motion of the Majority Leader, Senator Juan Miguel Migz F. Zubiri, that the matters appearing in the Reference of Business for today’s session be deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-04"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/4/2019"
+date = "2019-06-04"
 

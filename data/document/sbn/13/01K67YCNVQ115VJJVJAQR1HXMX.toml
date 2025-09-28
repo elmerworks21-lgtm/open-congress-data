@@ -1,8 +1,11 @@
 id = "01K67YCNVQ115VJJVJAQR1HXMX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00892"
+
+[meta]
 bill_number = 892
 congress = 13
-canonical = "SBN-00892"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-892", "https://web.senate.gov.ph/lisdata/20901580!.pdf",]
 title = "AFP/PNP EDUCATIONAL BENEFITS FOR ORPHANED MINOR CHILDREN"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR EDUCATIONAL BENEFITS FOR THE MINOR CHILDREN O
 scope = "National"
 subjects = [ "Orphaned Minor Children (AFP/PNP Member", "Educational Benefits (AFP/PNP Children)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS; NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2004"
+date = "2004-08-30"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

@@ -1,25 +1,29 @@
 id = "01K67YJ28X52NPDCEPEQT2NVT0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02016"
+
+[meta]
 bill_number = 2016
 congress = 14
-canonical = "SBN-02016"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2016", "https://web.senate.gov.ph/lisdata/67365969!.pdf",]
 title = "VISIT PHILIPPINES ACT OF 2008"
 date_filed = "2008-01-29"
 long_title = "AN ACT TO ESTABLISH AN INTERGOVERNMENTAL TASK FORCE FOR INTERNATIONAL VISITOR ASSISTANCE TO MAKE PHILIPPINES THE PREMIERE TRAVEL AND TOURISM DESTINATION IN THE WORLD"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-30"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2008"
+date = "2008-01-30"
 
 [[committees]]
 name = "Tourism"

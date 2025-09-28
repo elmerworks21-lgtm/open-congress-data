@@ -1,8 +1,11 @@
 id = "01K67YJEDT4Y17ENWHS7M8SVHA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02957"
+
+[meta]
 bill_number = 2957
 congress = 16
-canonical = "SBN-02957"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2957", "https://web.senate.gov.ph/lisdata/2227918993!.pdf",]
 title = "AUTOMATED ELECTION SYSTEM"
 date_filed = "2015-09-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8436, SECTION 6 ALSO KNOWN AS 'AN
 scope = "National"
 subjects = [ "Automated Election System", "Commission on Election (Comelec)", "Elections/Electoral Reforms",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-09-17"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-22"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2015"
+date = "2015-09-22"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

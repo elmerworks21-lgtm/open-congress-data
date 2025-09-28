@@ -1,8 +1,11 @@
 id = "01K67YJQBW8N9389M4H2FE0D83"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01404"
+
+[meta]
 bill_number = 1404
 congress = 18
-canonical = "SBN-01404"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1404", "https://web.senate.gov.ph/lisdata/3250029370!.pdf",]
 title = "PUBLIC EMPLOYMENT AND ENTREPRENEURSHIP OFFICE (PEESO)"
 date_filed = "2020-03-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER AMENDING REPUBLIC ACT NO. 8759, OTHERWISE KNOWN AS 
 scope = "National"
 subjects = [ "Public Employment Service Office (PESO)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2020-03-05"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-11"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/11/2020"
+date = "2020-03-11"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YJ21TXHSBCK57W5PQM2KD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01710"
+
+[meta]
 bill_number = 1710
 congress = 14
-canonical = "SBN-01710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1710", "https://web.senate.gov.ph/lisdata/61335470!.pdf",]
 title = "JUDICIARY INDEPENDENCE ENHANCING ACT OF 2007"
 date_filed = "2007-10-08"
@@ -10,93 +13,94 @@ long_title = "AN ACT BANNING THE RE-APPOINTMENT OF A REGULAR MEMBER OF THE JUDIC
 scope = "National"
 subjects = [ "Judiciary",]
 authors_raw = "Aquino III, Benigno S."
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-08"
 action = "Introduced by Senator BENIGNO S. AQUINO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-17"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 23, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-17"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, BENIGNO S. AQUINO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-17"
 action = "Dissenting: Senator Alan Peter 'Companero' S. Cayetano;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Sponsorship speech of Senator(s) BENIGNO S. AQUINO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Manifestation of Senator(s)FRANCIS N. PANGILINAN and ALAN PETER 'COMPANERO' S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Period of committee amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Period of committee amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Period of individual amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-29"
 action = "Printed Copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-04"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-04"
 action = "In favor: (17) EDGARDO J. ANGARA, BENIGNO S. AQUINO III, 'COMPANERA' PIA S. CAYETANO, ALAN PETER 'COMPANERO' S. CAYETANO, MIRIAM DEFENSOR SANTIAGO, JINGGOY P. EJERCITO-ESTRADA, FRANCIS 'CHIZ' G. ESCUDERO, GREGORIO B. HONASAN II, PANFILO M. LACSON, MANUEL 'LITO' M. LAPID, LOREN B. LEGARDA, M. A. MADRIGAL, FRANCIS N. PANGILINAN, AQUILINO Q. PIMENTEL JR., RAMON A. REVILLA JR., MANNY VILLAR and JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-04"
 action = "Against: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-04"
 action = "Abstention: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-06"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
 [[status]]
 status = "Pending in the House of Representatives"
-date = "2/6/2008"
+date = "2008-02-06"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YK016DM56B5GN814KYF4T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00388"
+
+[meta]
 bill_number = 388
 congress = 20
-canonical = "SBN-00388"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-388", "https://web.senate.gov.ph/lisdata/4688042886!.pdf",]
 title = "PREVENTION OF ADOLESCENT PREGNANCY ACT OF 2025"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A NATIONAL POLICY IN PREVENTING ADOLESCENT PR
 scope = "National"
 subjects = [ "Adolescent Pregnancies", "Teenage Pregnancy",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-12"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2025"
+date = "2025-08-12"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

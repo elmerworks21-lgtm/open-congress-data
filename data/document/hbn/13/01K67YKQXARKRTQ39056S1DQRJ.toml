@@ -1,24 +1,28 @@
 id = "01K67YKQXARKRTQ39056S1DQRJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04244"
+
+[meta]
 bill_number = 4244
 congress = 13
-canonical = "HBN-04244"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4244", "https://web.senate.gov.ph/lisdata/53134350!.pdf",]
 title = "LEGITIMATION OF CHILDREN BORN TO PARENTS BELOW MARRYING AGE"
 long_title = "AN ACT PROVIDING FOR THE LEGITIMATION OF CHILDREN BORN TO PARENTS BELOW MARRYING AGE, AMENDING FOR THE PURPOSE THE FAMILY CODE OF THE PHILIPPINES, AS AMENDED"
 scope = "National"
 subjects = [ "Child Legitimation", "Underage Parents",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-05-31"
 action = "Filed in the Senate requesting for concurrence by Representatives ROBERTO C. CAJES, CYNTHIA A. VILLAR, JUAN EDGARDO M. ANGARA, EDUARDO V. ROQUERO, LIZA L. MAZA, JOEL G. VIRADOR, OSCAR L. GOZOS, TEODORO A. CASINO, CRISPIN B. BELTRAN, RAFAEL V. MARIANO, SATUR C. OCAMPO, ORLANDO A. FUA JR., HUSSIN U. AMIN, EULOGIO 'AMANG' R. MAGSAYSAY, JUSTIN 'TIMMY' SB. CHIPECO, ROZZANO RUFINO B. BIAZON and EDGAR M. CHATTO as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-01"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/1/2006"
+date = "2006-06-01"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

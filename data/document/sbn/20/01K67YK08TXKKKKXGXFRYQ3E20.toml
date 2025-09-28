@@ -1,8 +1,11 @@
 id = "01K67YK08TXKKKKXGXFRYQ3E20"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00795"
+
+[meta]
 bill_number = 795
 congress = 20
-canonical = "SBN-00795"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-795", "https://web.senate.gov.ph/lisdata/4734143340!.pdf",]
 title = "LATE-NIGHT LEARNING HUBS ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE ESTABLISHMENT OF LATE-NIGHT LEARNING
 scope = "National"
 subjects = [ "Late-Night Learning Hubs",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Local Government"

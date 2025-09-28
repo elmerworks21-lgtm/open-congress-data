@@ -1,8 +1,11 @@
 id = "01K67YCNE8D867N5CNTZ0A2QNE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00140"
+
+[meta]
 bill_number = 140
 congress = 13
-canonical = "SBN-00140"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-140", "https://web.senate.gov.ph/lisdata/12751047!.pdf",]
 title = "SALARY-DISBURSING OFFICERS MONEYLENDING ACTIVITIES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING THE ACT OF MONEYLENDING WITH INTEREST BY SALARY-
 scope = "National"
 subjects = [ "Salary-Disbursing Officers (Moneylending", "Moneylending",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

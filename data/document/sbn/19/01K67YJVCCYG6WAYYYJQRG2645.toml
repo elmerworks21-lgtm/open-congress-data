@@ -1,8 +1,11 @@
 id = "01K67YJVCCYG6WAYYYJQRG2645"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00749"
+
+[meta]
 bill_number = 749
 congress = 19
-canonical = "SBN-00749"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-749", "https://web.senate.gov.ph/lisdata/3844534902!.pdf",]
 title = "LOCAL HUMAN SETTLEMENTS AND HOUSING OFFICER ACT OF 2022"
 date_filed = "2022-07-18"
@@ -10,21 +13,22 @@ long_title = "AN ACT MANDATING THE APPOINTMENT OF A HUMAN SETTLEMENTS AND HOUSIN
 scope = "National"
 subjects = [ "Human Settlements and Housing Officer", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-01"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2022"
+date = "2022-08-23"
 
 [[committees]]
 name = "Local Government"

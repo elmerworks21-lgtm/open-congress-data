@@ -1,8 +1,11 @@
 id = "01K67YJ19QTF6MYNE183WC66H8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00864"
+
+[meta]
 bill_number = 864
 congress = 14
-canonical = "SBN-00864"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-864", "https://web.senate.gov.ph/lisdata/51174481!.pdf",]
 title = "BABY-FRIENDLY ESTABLISHMENTS ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT REQUIRING NEW PUBLIC-SERVING AND NEWLY RENOVATED PUBLIC-SER
 scope = "National"
 subjects = [ "Baby-Friendly Establishments",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Health and Demography"

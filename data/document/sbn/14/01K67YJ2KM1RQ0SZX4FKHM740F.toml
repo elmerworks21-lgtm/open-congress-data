@@ -1,8 +1,11 @@
 id = "01K67YJ2KM1RQ0SZX4FKHM740F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02471"
+
+[meta]
 bill_number = 2471
 congress = 14
-canonical = "SBN-02471"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2471", "https://web.senate.gov.ph/lisdata/79407171!.pdf",]
 title = "VIDEO GAME SALE AND RENTAL REGULATION ACT OF 2008"
 date_filed = "2008-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE SALE OR RENTAL OF VIOLENT VIDEO GAMES TO MI
 scope = "National"
 subjects = [ "Video Game Sale", "Rental Regulation",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-24"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Public Information and Mass Media"

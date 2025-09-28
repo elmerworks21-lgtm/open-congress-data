@@ -1,24 +1,28 @@
 id = "01K67YMCXKNXCXQ4ABWT6EJBXN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04921"
+
+[meta]
 bill_number = 4921
 congress = 19
-canonical = "HBN-04921"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-4921", "https://web.senate.gov.ph/lisdata/4591941955!.pdf",]
 title = "RECLASSIFYING AS AGRICULTURAL LAND A PARCEL OF LAND (BAYAMBANG, PANGASINAN)"
 long_title = "AN ACT RECLASSIFYING AS AGRICULTURAL LAND A PARCEL OF LAND OF THE PUBLIC DOMAIN LOCATED IN MANGABUL RESERVATION IN THE MUNICIPALITY OF BAYAMBANG, PROVINCE OF PANGASINAN, FOR THE PURPOSE OF DISTRIBUTING THE SAME TO LONG-TERM FARMERS AND OCCUPANTS THEREOF"
 scope = "Local"
 subjects = [ "Agricultural Land",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-02-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and AGRICULTURE, FOOD AND AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2025"
+date = "2025-02-05"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

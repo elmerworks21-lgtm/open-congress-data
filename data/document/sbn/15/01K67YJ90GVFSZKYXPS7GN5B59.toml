@@ -1,8 +1,11 @@
 id = "01K67YJ90GVFSZKYXPS7GN5B59"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02570"
+
+[meta]
 bill_number = 2570
 congress = 15
-canonical = "SBN-02570"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2570", "https://web.senate.gov.ph/lisdata/103228848!.pdf",]
 title = "PROHIBITING CORPORATIONS BANNED BY THE WORLD BANK FROM PARTICIPATING IN ANY PUBLIC BIDDING"
 date_filed = "2010-10-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING CORPORATIONS, CONSTRUCTION COMPANIES, FIRMS, PA
 scope = "National"
 subjects = [ "Public Bidding",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-10-26"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-11-08"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/8/2010"
+date = "2010-11-08"
 
 [[committees]]
 name = "Economic Affairs"

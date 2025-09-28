@@ -1,8 +1,11 @@
 id = "01K67YJHE6N0K3XSCQNM4Q3SB0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00399"
+
+[meta]
 bill_number = 399
 congress = 17
-canonical = "SBN-00399"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-399", "https://web.senate.gov.ph/lisdata/2426020508!.pdf",]
 title = "BRITISH SCHOOL MANILA"
 date_filed = "2016-07-18"
@@ -10,29 +13,30 @@ long_title = "AN ACT RECOGNIZING THE BRITISH SCHOOL MANILA AS AN EDUCATIONAL INS
 scope = "National"
 subjects = [ "Educational Institutions",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-18"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-31"
 action = "Returned and submitted by the Committee on EDUCATION, ARTS AND CULTURE per Committee Report No. 136, recommending that it be substituted by SBN-1527;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-31"
 action = "SUBSTITUTED BY SBN-1527 UNDER COMMITTEE REPORT NO. 136, WHICH BECAME R.A.NO. 11218 ON FEBRUARY 14, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/31/2017"
+date = "2017-07-31"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,24 +1,28 @@
 id = "01K67YM6EDYZYAZ5K452RNMZX3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07849"
+
+[meta]
 bill_number = 7849
 congress = 17
-canonical = "HBN-07849"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7849", "https://web.senate.gov.ph/lisdata/2891025441!.pdf",]
 title = "INDIGENOUS PEOPLES CIVIL REGISTRATION SYSTEM ACT"
 long_title = "AN ACT PROVIDING FOR A FREE AND CULTURE-SENSITIVE CIVIL REGISTRATION SYSTEM FOR INDIGENOUS PEOPLES"
 scope = "National"
 subjects = [ "Indigenous Cultural Communities", "Civil Registration System",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-13"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-14"
 action = "Read on First Reading and Referred to the Committee(s) on CULTURAL COMMUNITIES; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/14/2018"
+date = "2018-11-14"
 
 [[committees]]
 name = "Cultural Communities"

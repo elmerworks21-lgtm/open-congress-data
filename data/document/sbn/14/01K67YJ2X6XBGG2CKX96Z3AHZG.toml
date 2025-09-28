@@ -1,8 +1,11 @@
 id = "01K67YJ2X6XBGG2CKX96Z3AHZG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02924"
+
+[meta]
 bill_number = 2924
 congress = 14
-canonical = "SBN-02924"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2924", "https://web.senate.gov.ph/lisdata/94938599!.pdf",]
 title = "PAYROLL SERVICES"
 date_filed = "2008-12-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE REGIONALIZATION OF THE DEPARTMENT OF EDUC
 scope = "National"
 subjects = [ "Department of Education Payroll System",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-12-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2008"
+date = "2008-12-10"
 
 [[committees]]
 name = "Education, Arts and Culture"

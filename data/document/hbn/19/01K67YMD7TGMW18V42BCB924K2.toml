@@ -1,24 +1,28 @@
 id = "01K67YMD7TGMW18V42BCB924K2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07639"
+
+[meta]
 bill_number = 7639
 congress = 19
-canonical = "HBN-07639"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7639", "https://web.senate.gov.ph/lisdata/4162937921!.pdf",]
 title = "CANDING ECOTOURISM PARK (SAN CLEMENTE, TARLAC) AN ECOTOURISM SITE"
 long_title = "AN ACT DECLARING THE CANDING ECOTOURISM PARK, LOCATED IN THE MUNICIPALITY OF SAN CLEMENTE, PROVINCE OF TARLAC, AN ECOTOURISM SITE"
 scope = "Local"
 subjects = [ "Ecotourism Sites",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2023"
+date = "2023-05-16"
 
 [[committees]]
 name = "Tourism"

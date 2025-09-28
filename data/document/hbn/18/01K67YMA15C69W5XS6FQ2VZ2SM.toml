@@ -1,24 +1,28 @@
 id = "01K67YMA15C69W5XS6FQ2VZ2SM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10272"
+
+[meta]
 bill_number = 10272
 congress = 18
-canonical = "HBN-10272"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10272", "https://web.senate.gov.ph/lisdata/3641732841!.pdf",]
 title = "STANDARDIZING THE RETIREMENT BENEFITS OF JUSTICES, JUDGES, AND JUDICIARY OFFICIALS"
 long_title = "AN ACT STANDARDIZING THE RETIREMENT BENEFITS OF JUSTICES, JUDGES, AND JUDICIARY OFFICIALS CONFERRED WITH JUDICIAL RANK, SALARY AND PRIVILEGES, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 910, AS AMENDED"
 scope = "National"
 subjects = [ "Retirement Benefits", "Justices, Judges, and Judiciary Officials",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/29/2021"
+date = "2021-09-29"
 
 [[committees]]
 name = "Justice and Human Rights"

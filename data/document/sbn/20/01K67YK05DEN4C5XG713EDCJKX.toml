@@ -1,8 +1,11 @@
 id = "01K67YK05DEN4C5XG713EDCJKX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00613"
+
+[meta]
 bill_number = 613
 congress = 20
-canonical = "SBN-00613"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-613", "https://web.senate.gov.ph/lisdata/4700843010!.pdf",]
 title = "COMPREHENSIVE ANTI-DISCRIMINATION ACT"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF PROTECTED ATTRIB
 scope = "National"
 subjects = [ "Anti-Discrimination",]
 authors_raw = "Padilla, Robinhood"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator ROBINHOOD PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; CULTURAL COMMUNITIES AND MUSLIM AFFAIRS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

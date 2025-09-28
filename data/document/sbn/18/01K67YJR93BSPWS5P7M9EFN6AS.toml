@@ -1,8 +1,11 @@
 id = "01K67YJR93BSPWS5P7M9EFN6AS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02438"
+
+[meta]
 bill_number = 2438
 congress = 18
-canonical = "SBN-02438"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2438", "https://web.senate.gov.ph/lisdata/3656232928!.pdf",]
 title = "OTOP PHILIPPINES ACT OF 2021"
 date_filed = "2021-10-18"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROMOTING THE 'ONE TOWN, ONE PRODUCT' CONCEPT TO ENHANCE IN
 scope = "National"
 subjects = [ "One Town, One Product (OTOP)", "Micro, Small and Medium Enterprises (Msmes)",]
 authors_raw = "Revilla Jr., Ramon Bong, Gatchalian, Win, Pimentel, Aquilino \"Koko\" III"
-[[legislative_history]]
+
+[[history]]
 date = "2021-10-18"
 action = "Prepared and submitted jointly by the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP, LOCAL GOVERNMENT and FINANCE with Senators RAMON BONG REVILLA JR., WIN GATCHALIAN and AQUILINO 'KOKO' III PIMENTEL as authors per Committee Report No. 329, recommending its approval in substitution of SBNos. 1896 and 2366, taking into consideration HBN-9350;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-08"
 action = "Sponsor: Senator AQUILINO 'KOKO' III PIMENTEL;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "11/8/2021"
+date = "2021-11-08"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

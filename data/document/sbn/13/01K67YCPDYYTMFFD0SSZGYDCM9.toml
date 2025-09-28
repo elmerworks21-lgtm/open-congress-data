@@ -1,8 +1,11 @@
 id = "01K67YCPDYYTMFFD0SSZGYDCM9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01861"
+
+[meta]
 bill_number = 1861
 congress = 13
-canonical = "SBN-01861"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1861", "https://web.senate.gov.ph/lisdata/31092304!.pdf",]
 title = "PHILIPPINE COMPREHENSIVE LAW ON LANDMINES"
 date_filed = "2004-11-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A TOTAL BAN ON ANTI-PERSONNEL LANDMINES, FOR 
 scope = "National"
 subjects = [ "Landmines Comprehensive Law", "Anti-Personnel Landmines/Booby-Traps",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-11-24"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-24"
 action = "Read on First Reading and referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/24/2004"
+date = "2004-11-24"
 
 [[committees]]
 name = "National Defense and Security"

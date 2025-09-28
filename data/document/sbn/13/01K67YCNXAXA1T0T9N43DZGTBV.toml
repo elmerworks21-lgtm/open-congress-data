@@ -1,8 +1,11 @@
 id = "01K67YCNXAXA1T0T9N43DZGTBV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00980"
+
+[meta]
 bill_number = 980
 congress = 13
-canonical = "SBN-00980"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-980", "https://web.senate.gov.ph/lisdata/21841712!.pdf",]
 title = "PILOT TRIBAL COMMUNITIES ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PRESCRIBE THE ESTABLISHMENT OF PILOT TRIBAL COMMUNITIES 
 scope = "National"
 subjects = [ "Pilot Tribal Communities Act of 2004",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on CULTURAL COMMUNITIES; URBAN PLANNING, HOUSING AND RESETTLEMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Cultural Communities"

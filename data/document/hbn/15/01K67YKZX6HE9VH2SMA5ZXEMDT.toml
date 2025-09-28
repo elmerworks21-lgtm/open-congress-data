@@ -1,24 +1,28 @@
 id = "01K67YKZX6HE9VH2SMA5ZXEMDT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04791"
+
+[meta]
 bill_number = 4791
 congress = 15
-canonical = "HBN-04791"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4791", "https://web.senate.gov.ph/lisdata/1191710128!.pdf",]
 title = "ANTI- 'NO PERMIT, NO EXAM' ACT OF 2011"
 long_title = "AN ACT PENALIZING THE IMPOSITION OF A NO PERMIT, NO EXAM POLICY OR ANY SUCH POLICY THAT PROHIBITS STUDENTS OF POST-SECONDARY AND HIGHER EDUCATION FROM TAKING THEIR MIDTERM OR FINAL EXAMINATIONS DUE TO UNPAID TUITION AND OTHER SCHOOL FEES"
 scope = "National"
 subjects = [ "Students",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-08-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-17"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2011"
+date = "2011-08-17"
 
 [[committees]]
 name = "Education, Arts and Culture"

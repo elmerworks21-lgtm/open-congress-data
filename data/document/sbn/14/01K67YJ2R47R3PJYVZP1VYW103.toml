@@ -1,8 +1,11 @@
 id = "01K67YJ2R47R3PJYVZP1VYW103"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02680"
+
+[meta]
 bill_number = 2680
 congress = 14
-canonical = "SBN-02680"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2680", "https://web.senate.gov.ph/lisdata/90648244!.pdf",]
 title = "LIABILITY OF OWNER FOR DOG BITES"
 date_filed = "2008-10-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT IN RELATION TO THE LIABILITY OF OWNERS FOR DOG BITES"
 scope = "National"
 subjects = [ "Dog Bites",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-11"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/11/2008"
+date = "2008-11-11"
 
 [[committees]]
 name = "Health and Demography"

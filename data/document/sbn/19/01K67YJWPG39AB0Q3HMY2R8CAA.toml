@@ -1,8 +1,11 @@
 id = "01K67YJWPG39AB0Q3HMY2R8CAA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02530"
+
+[meta]
 bill_number = 2530
 congress = 19
-canonical = "SBN-02530"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2530", "https://web.senate.gov.ph/lisdata/4340839488!.pdf",]
 title = "PHILIPPINE COAST GUARD MODERNIZATION ACT"
 date_filed = "2024-02-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT MODERNIZING THE PHILIPPINE COAST GUARD, CREATING FOR THE PU
 scope = "National"
 subjects = [ "Philippine Coast Guard", "Philippine Coast Guard Modernization Trust Fund",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2024-02-06"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-07"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/7/2024"
+date = "2024-02-07"
 
 [[committees]]
 name = "Public Services"

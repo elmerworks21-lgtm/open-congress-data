@@ -1,8 +1,11 @@
 id = "01K67YJVY915HFX9YZM61GK671"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01519"
+
+[meta]
 bill_number = 1519
 congress = 19
-canonical = "SBN-01519"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1519", "https://web.senate.gov.ph/lisdata/3990436341!.pdf",]
 title = "PHILIPPINE CITIZENSHIP TO JUSTIN DONTA BROWNLEE"
 date_filed = "2022-11-21"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO JUSTIN DONTA BROWNLEE"
 scope = "Local"
 subjects = [ "Philippine Citizenship",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-21"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-29"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 13, recommending that it be considered in HBN-6224;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-29"
 action = "CONSIDERED IN HBN-6224 UNDER COMMITTEE REPORT NO. 13."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/29/2022"
+date = "2022-11-29"
 
 [[committees]]
 name = "Justice and Human Rights"

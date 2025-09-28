@@ -1,24 +1,28 @@
 id = "01K67YKW82MA691CK2WV4HHEM9"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04496"
+
+[meta]
 bill_number = 4496
 congress = 14
-canonical = "HBN-04496"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4496", "https://web.senate.gov.ph/lisdata/84587650!.pdf",]
 title = "CUMADCAD - MACALAYA PROVINCIAL ROAD"
 long_title = "AN ACT CONVERTING THE CUMADCAD - MACALAYA PROVINCIAL ROAD IN THE MUNICIPALITY OF CASTILLA, PROVINCE OF SORSOGON INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representative SALVADOR H. ESCUDERO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2008"
+date = "2008-09-17"
 
 [[committees]]
 name = "Public Works"

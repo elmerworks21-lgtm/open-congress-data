@@ -1,8 +1,11 @@
 id = "01K67YJD0GT7B4ARJ1RRB301M9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01126"
+
+[meta]
 bill_number = 1126
 congress = 16
-canonical = "SBN-01126"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1126", "https://web.senate.gov.ph/lisdata/1715414392!.pdf",]
 title = "PROSTATE CANCER PUBLIC AWARENESS ACT"
 date_filed = "2013-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PROGRAM FOR PUBLIC EDUCATION ON PROSTATE CAN
 scope = "National"
 subjects = [ "Prostate Cancer",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-29"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-27"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2013"
+date = "2013-08-27"
 
 [[committees]]
 name = "Health and Demography"

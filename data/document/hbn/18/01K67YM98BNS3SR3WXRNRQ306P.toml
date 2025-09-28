@@ -1,24 +1,28 @@
 id = "01K67YM98BNS3SR3WXRNRQ306P"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07174"
+
+[meta]
 bill_number = 7174
 congress = 18
-canonical = "HBN-07174"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7174", "https://web.senate.gov.ph/lisdata/3460931418!.pdf",]
 title = "BAWAL BILLBOARD TUWING BAGYO ACT"
 long_title = "AN ACT PROHIBITING THE ACTIVE USE AND DISPLAY OF COMMERCIAL BILLBOARDS DURING TYPHOONS"
 scope = "National"
 subjects = [ "Billboards", "Public Safety", "Typhoon",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-08"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/8/2021"
+date = "2021-03-08"
 
 [[committees]]
 name = "Public Works"

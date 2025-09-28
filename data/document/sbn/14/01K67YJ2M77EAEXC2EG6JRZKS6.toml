@@ -1,8 +1,11 @@
 id = "01K67YJ2M77EAEXC2EG6JRZKS6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02499"
+
+[meta]
 bill_number = 2499
 congress = 14
-canonical = "SBN-02499"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2499", "https://web.senate.gov.ph/lisdata/79347228!.pdf",]
 title = "CRIME OF INCRIMINATORY MACHINATION"
 date_filed = "2008-07-31"
@@ -10,37 +13,38 @@ long_title = "AN ACT AMENDING ARTICLES 363 AND 364 OF ACT NO. 3815 OTHERWISE KNO
 scope = "National"
 subjects = [ "Crime of Incriminatory Machination", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Legarda, Loren B., Escudero, Francis \"Chiz\" G., Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-31"
 action = "Prepared and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS with Senator(s) LOREN B. LEGARDA, FRANCIS 'CHIZ' G. ESCUDERO and RICHARD 'DICK' J. GORDON as author(s) per Committee Report No. 89, recommending its approval in substitution of SBN-943;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Upon her request Senator LOREN B. LEGARDA was made cosponsor of the Bill;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Cosponsorship speech of Senator LOREN LEGARDA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "11/19/2008"
+date = "2008-11-19"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJ7C4BE51TN9SM009FH9Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00233"
+
+[meta]
 bill_number = 233
 congress = 15
-canonical = "SBN-00233"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-233", "https://web.senate.gov.ph/lisdata/76336156!.pdf",]
 title = "ANTI-CORRUPTION MONTH ACT"
 date_filed = "2010-07-06"
@@ -10,33 +13,34 @@ long_title = "AN ACT DECLARING OCTOBER OF EVERY YEAR AS ‘ANTI-CORRUPTION MONTH
 scope = "National"
 subjects = [ "Anti-Corruption",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-03"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-12-18"
 action = "Returned and submitted by the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 556, recommending that it be substituted by SBN-3376;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-12-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-12-18"
 action = "SUBSTITUTED BY SBN-3376 under Committee Report No. 556, which became REPUBLIC ACT NO. 10589 on May 27, 2013."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/18/2012"
+date = "2012-12-18"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

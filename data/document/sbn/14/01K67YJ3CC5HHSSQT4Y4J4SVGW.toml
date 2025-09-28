@@ -1,8 +1,11 @@
 id = "01K67YJ3CC5HHSSQT4Y4J4SVGW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03537"
+
+[meta]
 bill_number = 3537
 congress = 14
-canonical = "SBN-03537"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3537", "https://web.senate.gov.ph/lisdata/1309711716!.pdf",]
 title = "FIRE EXTINGUISHERS, SMOKE ALARMS, HEAT SENSORS AND CARBON MONOXIDE DETECTORS"
 date_filed = "2009-11-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING THE SALE OF FIRE EXTINGUISHERS, SMOKE ALARMS, HEA
 scope = "National"
 subjects = [ "Fire Extinguishers/Smoke Alarms", "Tax Exemption",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-11-18"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-01"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/1/2009"
+date = "2009-12-01"
 
 [[committees]]
 name = "Ways and Means"

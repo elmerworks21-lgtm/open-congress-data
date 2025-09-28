@@ -1,8 +1,11 @@
 id = "01K67YJ2GA90F2DC6SF9PAECXG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02345"
+
+[meta]
 bill_number = 2345
 congress = 14
-canonical = "SBN-02345"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2345", "https://web.senate.gov.ph/lisdata/75136725!.pdf",]
 title = "OBSCENE PICTURES PROHIBITION"
 date_filed = "2008-05-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE PUBLIC EXHIBITION OR DISPLAY OF OBSCENE AND
 scope = "National"
 subjects = [ "Pornography", "Obscenity",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-28"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2008"
+date = "2008-06-02"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YJDQPBZGJ742XZNCP96HQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02232"
+
+[meta]
 bill_number = 2232
 congress = 16
-canonical = "SBN-02232"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2232", "https://web.senate.gov.ph/lisdata/1912716251!.pdf",]
 title = "FREE METRO MANILA WIFI ACT OF 2014"
 date_filed = "2014-05-19"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FREE PUBLIC WIRELESS INTERNET ACCESS IN PUBLIC BU
 scope = "National"
 subjects = [ "Internet Service Providers",]
 authors_raw = "Recto, Ralph G., Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2014-05-19"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-20"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-17"
 action = "Letter of Senator CYNTHIA A. VILLAR dated June 4, 2014, requesting that she be made a coauthor of this Bill, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-15"
 action = "Returned and submitted jointly by the Committee(s) on SCIENCE AND TECHNOLOGY and FINANCE per Committee Report No. 185, recommending that it be substituted by SBN-2845;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-07-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-07-28"
 action = "SUBSTITUTED BY SBN-2845 UNDER C.R. NO. 185."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/28/2015"
+date = "2015-07-28"
 
 [[committees]]
 name = "Science and Technology"

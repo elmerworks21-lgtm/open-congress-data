@@ -1,8 +1,11 @@
 id = "01K67YCPSG5CFCGQF5T66K82SD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02441"
+
+[meta]
 bill_number = 2441
 congress = 13
-canonical = "SBN-02441"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2441", "https://web.senate.gov.ph/lisdata/58194796!.pdf",]
 title = "CLEAR SIDEWALKS ACT OF 2006"
 date_filed = "2006-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE USE OF SIDEWALKS FOR COMMERCIAL AND OTHER PU
 scope = "National"
 subjects = [ "Clear Sidewalks Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2006-08-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-16"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2006"
+date = "2006-08-16"
 
 [[committees]]
 name = "Local Government"

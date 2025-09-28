@@ -1,8 +1,11 @@
 id = "01K67YJPVMV9WDMMDQ79ZYVTZ9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00703"
+
+[meta]
 bill_number = 703
 congress = 18
-canonical = "SBN-00703"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-703", "https://web.senate.gov.ph/lisdata/3101827942!.pdf",]
 title = "CAMPUS SAFETY AND SECURITY ACT"
 date_filed = "2019-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING HIGHER EDUCATION INSTITUTIONS AND TECHNICAL VOCAT
 scope = "National"
 subjects = [ "Campus Safety",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-23"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; and PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

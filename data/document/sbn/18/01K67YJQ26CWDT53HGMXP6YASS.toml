@@ -1,8 +1,11 @@
 id = "01K67YJQ26CWDT53HGMXP6YASS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01006"
+
+[meta]
 bill_number = 1006
 congress = 18
-canonical = "SBN-01006"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1006", "https://web.senate.gov.ph/lisdata/3142728326!.pdf",]
 title = "SALARY STANDARDIZATION LAW V"
 date_filed = "2019-09-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT INCREASING THE SALARY SCHEDULE OF CIVILIAN PERSONNEL IN THE
 scope = "National"
 subjects = [ "Salary Standardization", "Government Employees",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-09-04"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-09"
 action = "Returned and submitted jointly by the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 26, recommending that it be substituted by SBN-1219;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-10"
 action = "SUBSTITUTED BY SBN-1219, UNDER COMMITTEE REPORT NO. 26, WHICH BECAME R.A. NO. 11466 ON JANUARY 8, 2020."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/10/2019"
+date = "2019-12-10"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

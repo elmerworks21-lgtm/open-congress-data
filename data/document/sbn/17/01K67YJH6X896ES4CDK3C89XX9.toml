@@ -1,8 +1,11 @@
 id = "01K67YJH6X896ES4CDK3C89XX9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00111"
+
+[meta]
 bill_number = 111
 congress = 17
-canonical = "SBN-00111"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-111", "https://web.senate.gov.ph/lisdata/2352620144!.pdf",]
 title = "FRAMEWORK ACT ON THE RIGHT TO ADEQUATE FOOD"
 date_filed = "2016-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING A FRAMEWORK FOR THE RIGHT TO ADEQUATE FOOD"
 scope = "National"
 subjects = [ "Food Security",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2016"
+date = "2016-08-01"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YCNPWAWSX7G3AZ748HWPJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00614"
+
+[meta]
 bill_number = 614
 congress = 13
-canonical = "SBN-00614"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-614", "https://web.senate.gov.ph/lisdata/18001175!.pdf",]
 title = "MOBILE HEALTH CARE SERVICES ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR THE USE OF MOBILE UNITS SERVING MEDICAL, DIA
 scope = "National"
 subjects = [ "Mobile Health Care Services Act",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-16"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2004"
+date = "2004-08-16"
 
 [[committees]]
 name = "Health and Demography"

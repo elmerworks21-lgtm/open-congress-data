@@ -1,8 +1,11 @@
 id = "01K67YJPFB77FW33XHGZNJ9HVD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00138"
+
+[meta]
 bill_number = 138
 congress = 18
-canonical = "SBN-00138"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-138", "https://web.senate.gov.ph/lisdata/3039627237!.pdf",]
 title = "RIGHT TO ADEQUATE FOOD FRAMEWORK ACT"
 date_filed = "2019-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENSURING THE AVAILABILITY, ADEQUACY, ACCESSIBILITY AND SAFE
 scope = "National"
 subjects = [ "Adequate Food Framework",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Justice and Human Rights"

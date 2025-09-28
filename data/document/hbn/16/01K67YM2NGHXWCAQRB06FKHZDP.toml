@@ -1,40 +1,44 @@
 id = "01K67YM2NGHXWCAQRB06FKHZDP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02698"
+
+[meta]
 bill_number = 2698
 congress = 16
-canonical = "HBN-02698"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-2698", "https://web.senate.gov.ph/lisdata/1976816874!.pdf",]
 title = "TALAINGOD CULTURAL HERITAGE VILLAGE (DAVAO DEL NORTE)"
 long_title = "AN ACT DECLARING THE MUNICIPALITY OF TALAINGOD, DAVAO DEL NORTE AS AN ECO-CULTURAL TOURISM ZONE, ESTABLISHING FOR THE PURPOSE THE TALAINGOD CULTURAL HERITAGE VILLAGE, PROVIDING FOR ITS DEVELOPMENT AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism Zone", "Heritage Sites/Cultural Property",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-09-01"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-23"
 action = "Motion of Senator Aquino to change the primary committee referral from the Committee on Tourism to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-25"
 action = "Returned jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, TOURISM and FINANCE per Committee Report No. 381, recommending that it be considered in SBN-2308;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-26"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-26"
 action = "CONSIDERED IN SBN-2308 UNDER C.R. NO. 381."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/26/2016"
+date = "2016-01-26"
 
 [[committees]]
 name = "Environment and Natural Resources"

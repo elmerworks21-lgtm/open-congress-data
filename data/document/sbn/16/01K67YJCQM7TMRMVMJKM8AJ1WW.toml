@@ -1,8 +1,11 @@
 id = "01K67YJCQM7TMRMVMJKM8AJ1WW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00699"
+
+[meta]
 bill_number = 699
 congress = 16
-canonical = "SBN-00699"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-699", "https://web.senate.gov.ph/lisdata/1667013909!.pdf",]
 title = "PHILIPPINE PLUMBING ENGINEERING ACT"
 date_filed = "2013-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE PRACTICE OF PLUMBING ENGINEERING IN THE PHIL
 scope = "National"
 subjects = [ "Plumbing Engineering",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-10"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

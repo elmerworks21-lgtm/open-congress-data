@@ -1,8 +1,11 @@
 id = "01K67YJHKW2950R5JNW71B3NRN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00670"
+
+[meta]
 bill_number = 670
 congress = 17
-canonical = "SBN-00670"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-670", "https://web.senate.gov.ph/lisdata/2416020798!.pdf",]
 title = "SALE OF ELECTRICITY BY GENERATION AND DISTRIBUTION COMPANIES AND ELECTRIC COOPERATIVES"
 date_filed = "2016-07-20"
@@ -10,29 +13,30 @@ long_title = "AN ACT CLASSIFYING THE SALE OF ELECTRICITY BY GENERATION, TRANSMIS
 scope = "National"
 subjects = [ "Electric Cooperatives", "Taxes (Value-Added Tax / Vat)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 164, recommending that it be substituted by SBN-1592;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "SUBSTITUTED BY SBN-1592 UNDER COMMITTEE REPORT NO. 164."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/20/2017"
+date = "2017-09-20"
 
 [[committees]]
 name = "Ways and Means"

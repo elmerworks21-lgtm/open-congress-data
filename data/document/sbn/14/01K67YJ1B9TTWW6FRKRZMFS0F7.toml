@@ -1,8 +1,11 @@
 id = "01K67YJ1B9TTWW6FRKRZMFS0F7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00935"
+
+[meta]
 bill_number = 935
 congress = 14
-canonical = "SBN-00935"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-935", "https://web.senate.gov.ph/lisdata/51944561!.pdf",]
 title = "PRESCRIPTIVE PERIOD OF FILING CASES AGAINST GRAFT AND CORRUPTION"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 11 OF REPUBLIC ACT NO. 3019, OTHERWISE KNO
 scope = "National"
 subjects = [ "Anti-Graft and Corrupt Practices", "R.A.No. 3019 (Anti-Graft and Corrupt Practices Act)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator LOREN LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

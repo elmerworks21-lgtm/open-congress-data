@@ -1,56 +1,60 @@
 id = "01K67YMDC26RK05YXJN411VRMN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08441"
+
+[meta]
 bill_number = 8441
 congress = 19
-canonical = "HBN-08441"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8441", "https://web.senate.gov.ph/lisdata/4265538788!.pdf",]
 title = "AURORA MEMORIAL PROTECTED LANDSCAPE ACT"
 long_title = "AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITIES OF MARIA AURORA, SAN LUIS, BALER, AND DINGALAN IN THE PROVINCE OF AURORA AND IN THE MUNICIPALITY OF BONGABON, IN THE PROVINCE OF NUEVA ECIJA, A PROTECTED AREA WITH THE CATEGORY OF PROTECTED LANDSCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE AURORA MEMORIAL PROTECTED LANDSCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "National Integrated Protected Areas System (Nipas)", "Protected Area/Protected Landscape",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-07"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-13"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Returned jointly by the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE per Committee Report No. 239, recommending that it be considered in SBN-2614;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "CONSIDERED IN SBN-2614 UNDER COMMITTEE REPORT NO. 239."
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-15"
 action = "Senate designated Senators Villar (C), Marcos, Villar (M), Dela Rosa and Hontiveros as conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-2614 and HBN-8441;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "House of Representatives adopted SBN-2614 as an amendment to HBN-8441 on January 21, 2025;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-04"
 action = "Senate directed the Secretariat to hold the enrolment in abeyance in view of the Department of Environment and Natural Resources (DENR) - Biodiversity Management Bureau’s letter regarding errors in the technical descriptions of the proposed protected areas under SBN-2614 and HBN-8441;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-10"
 action = "House of Representatives reconsidered the adoption of SBN-2614 as an amendment to HBN-8441 on June 9, 2025;"
 
 [[status]]
 status = "With Senate Designated Conferees"
-date = "1/15/2025"
+date = "2025-01-15"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

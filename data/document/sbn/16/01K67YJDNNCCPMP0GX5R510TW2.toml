@@ -1,8 +1,11 @@
 id = "01K67YJDNNCCPMP0GX5R510TW2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02148"
+
+[meta]
 bill_number = 2148
 congress = 16
-canonical = "SBN-02148"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2148", "https://web.senate.gov.ph/lisdata/1881515941!.pdf",]
 title = "HOME MORTGAGE INTEREST RELIEF ACT OF 2014"
 date_filed = "2014-02-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR HOME MORTGAGE INTEREST RELIEF FOR THE FIRST F
 scope = "National"
 subjects = [ "Family Home", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2014-02-27"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-03"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/3/2014"
+date = "2014-03-03"
 
 [[committees]]
 name = "Ways and Means"

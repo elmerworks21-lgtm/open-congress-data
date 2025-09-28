@@ -1,8 +1,11 @@
 id = "01K67YJTYC8HFZDZ3Y1R826M8B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00106"
+
+[meta]
 bill_number = 106
 congress = 19
-canonical = "SBN-00106"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-106", "https://web.senate.gov.ph/lisdata/3781434255!.pdf",]
 title = "THE COMMUTERS' WELFARE ACT"
 date_filed = "2022-07-07"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROVIDING A FRAMEWORK FOR A COMMUTER-CENTERED TRANSPORTATIO
 scope = "National"
 subjects = [ "Commuters Welfare",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-03-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-04-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-04-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-05-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Public Services"

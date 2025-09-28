@@ -1,24 +1,28 @@
 id = "01K67YKQPE2HHD9Q93RP5PBHY3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00283"
+
+[meta]
 bill_number = 283
 congress = 13
-canonical = "HBN-00283"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-283", "https://web.senate.gov.ph/lisdata/43733766!.pdf",]
 title = "SAGAYEN NATIONAL HIGH SCHOOL (DAVAO DEL NORTE)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY SAGAYEN, MUNICIPALITY OF ASUNCION, PROVINCE OF DAVAO DEL NORTE TO BE KNOWN AS THE SAGAYEN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Davao Del Norte)", "Sagayen National High School (Davao Del Norte)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representative ARREL R. OLANO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2006"
+date = "2006-01-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

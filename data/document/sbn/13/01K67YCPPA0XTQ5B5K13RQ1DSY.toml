@@ -1,8 +1,11 @@
 id = "01K67YCPPA0XTQ5B5K13RQ1DSY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02258"
+
+[meta]
 bill_number = 2258
 congress = 13
-canonical = "SBN-02258"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2258", "https://web.senate.gov.ph/lisdata/53434409!.pdf",]
 title = "ARNIS AS NATIONAL SPORT OF THE PHILIPPINES"
 date_filed = "2006-06-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING ARNIS AS THE NATIONAL SPORT OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Arnis (Philippine National Sport)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-05"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-06"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and GAMES, AMUSEMENT AND SPORTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/6/2006"
+date = "2006-06-06"
 
 [[committees]]
 name = "Education, Arts and Culture"

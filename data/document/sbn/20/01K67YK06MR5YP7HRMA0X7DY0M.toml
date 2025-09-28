@@ -1,8 +1,11 @@
 id = "01K67YK06MR5YP7HRMA0X7DY0M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00678"
+
+[meta]
 bill_number = 678
 congress = 20
-canonical = "SBN-00678"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-678", "https://web.senate.gov.ph/lisdata/4722443223!.pdf",]
 title = "NATIONAL TERTIARY GAMES ACT OF 2025"
 date_filed = "2025-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE NATIONAL TERTIARY GAMES AND APPROPRI
 scope = "National"
 subjects = [ "Tertiary Games", "Higher Education Institutions",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-16"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE 'BONG' T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

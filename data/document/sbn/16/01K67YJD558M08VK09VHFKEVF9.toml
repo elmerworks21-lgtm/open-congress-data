@@ -1,8 +1,11 @@
 id = "01K67YJD558M08VK09VHFKEVF9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01356"
+
+[meta]
 bill_number = 1356
 congress = 16
-canonical = "SBN-01356"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1356", "https://web.senate.gov.ph/lisdata/1745014685!.pdf",]
 title = "PEOPLE'S FUND ACT OF 2013"
 date_filed = "2013-08-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR PEOPLE'S DIRECT PARTICIPATION IN FUNDING CHAR
 scope = "National"
 subjects = [ "Taxes (Individual Income Tax)", "Peoples Fund",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-27"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2013"
+date = "2013-09-03"
 
 [[committees]]
 name = "Ways and Means"

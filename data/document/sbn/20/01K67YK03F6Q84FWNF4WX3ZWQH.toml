@@ -1,8 +1,11 @@
 id = "01K67YK03F6Q84FWNF4WX3ZWQH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00510"
+
+[meta]
 bill_number = 510
 congress = 20
-canonical = "SBN-00510"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-510", "https://web.senate.gov.ph/lisdata/4706143063!.pdf",]
 title = "NATIONAL MUSEUM PHILIPPINES ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESERVING THE COUNTRY'S TRADITIONAL FOLK ARTS AS PART OF I
 scope = "National"
 subjects = [ "National Museum",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committee on CULTURE AND THE ARTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Culture and the Arts"

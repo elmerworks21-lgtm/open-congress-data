@@ -1,8 +1,11 @@
 id = "01K67YJ34X8DBH18DE2FEKT079"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03253"
+
+[meta]
 bill_number = 3253
 congress = 14
-canonical = "SBN-03253"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3253", "https://web.senate.gov.ph/lisdata/113039962!.pdf",]
 title = "PUBLIC NOTICE OF CERTAIN HAZARDOUS CONDITIONS"
 date_filed = "2009-05-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT IN RELATION TO PUBLIC NOTICE OF CERTAIN HAZARDOUS CONDITION
 scope = "National"
 subjects = [ "Hearing Loss/Hearing Damage", "Noise Regulation",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-18"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-19"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/19/2009"
+date = "2009-05-19"
 
 [[committees]]
 name = "Public Services"

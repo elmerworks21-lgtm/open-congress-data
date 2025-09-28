@@ -1,8 +1,11 @@
 id = "01K67YK0KYV90NQGEQN84MYSZE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01249"
+
+[meta]
 bill_number = 1249
 congress = 20
-canonical = "SBN-01249"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1249", "https://web.senate.gov.ph/lisdata/4789043905!.pdf",]
 title = "ENVIRONMENTAL UNIT IN EVERY BANKING INSTITUTION ACT"
 date_filed = "2025-08-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING ENVIRONMENTAL UNITS IN EVERY BANKING INSTITUTI
 scope = "National"
 subjects = [ "Environmental Units", "Banking Institution",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-27"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-15"
 action = "Read on First Reading and Referred to the Committees on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2025"
+date = "2025-09-15"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

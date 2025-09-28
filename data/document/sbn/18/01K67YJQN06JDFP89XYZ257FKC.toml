@@ -1,8 +1,11 @@
 id = "01K67YJQN06JDFP89XYZ257FKC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01810"
+
+[meta]
 bill_number = 1810
 congress = 18
-canonical = "SBN-01810"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1810", "https://web.senate.gov.ph/lisdata/3346930278!.pdf",]
 title = "FREELANCERS PROTECTION ACT"
 date_filed = "2020-09-07"
@@ -10,61 +13,62 @@ long_title = "AN ACT PROVIDING PROTECTION TO FREELANCERS AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Freelancers", "Self-Employed Workers/Craftsmen",]
 authors_raw = "Villanueva, Joel, Revilla Jr., Ramon Bong, Pacquiao, Emmanuel \"Manny\" D., Marcos, Imee R., Hontiveros, Risa, Villar, Cynthia A., Binay, Maria Lourdes Nancy S., Poe, Grace, Gatchalian, Win, Angara, Sonny, Zubiri, Juan Miguel \"Migz\" F., Recto, Ralph G., Go, Christopher Lawrence T., De Lima, Leila M., Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-07"
 action = "Prepared and submitted by the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT with Senators JOEL VILLANUEVA and RAMON BONG REVILLA JR. as authors per Committee Report No. 109, recommending its approval in substitution of SBNos. 155 and 644;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Sponsor: Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Sponsorship speech delivered by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Co-sponsorship speech of Senators RAMON BONG REVILLA JR., SONNY ANGARA and IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Senators EMMANUEL 'MANNY' D. PACQUIAO, IMEE R. MARCOS, RISA HONTIVEROS, CYNTHIA A. VILLAR, MARIA LOURDES NANCY S. BINAY, GRACE POE, WIN GATCHALIAN, SONNY ANGARA, RALPH G. RECTO and JUAN MIGUEL 'MIGZ' F. ZUBIRI requested that they be made co-authors and co-sponsors;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Manifestation of Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Remarks of Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-08"
 action = "Senator CHRISTOPHER LAWRENCE T. GO requested that he be made co-author;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-09"
 action = "Co-sponsorship speech of Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-06"
 action = "Letter from Senator LEILA M. DE LIMA dated October 5, 2020, conveying her intention to be a co-author of SBN-1810, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-23"
 action = "Letter from Senator FRANCIS 'KIKO' N. PANGILINAN dated August 9, 2021, requesting to be made co-author of SBN-1810, received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "9/8/2020"
+date = "2020-09-08"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

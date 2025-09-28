@@ -1,8 +1,11 @@
 id = "01K67YJQQ8VK2CJ2V8FF9J2T09"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01891"
+
+[meta]
 bill_number = 1891
 congress = 18
-canonical = "SBN-01891"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1891", "https://web.senate.gov.ph/lisdata/3383130643!.pdf",]
 title = "E-GOVERNMENT ACT"
 date_filed = "2020-10-22"
@@ -10,25 +13,26 @@ long_title = "AN ACT ESTABLISHING THE E-GOVERNMENT, DEFINING ITS POWERS AND FUNC
 scope = "National"
 subjects = [ "E-Government Services",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2020-10-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-11-09"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY and PUBLIC INFORMATION AND MASS MEDIA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-05"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/9/2020"
+date = "2020-11-09"
 
 [[committees]]
 name = "Science and Technology"

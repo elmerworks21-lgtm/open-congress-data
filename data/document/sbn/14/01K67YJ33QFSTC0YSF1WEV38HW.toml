@@ -1,8 +1,11 @@
 id = "01K67YJ33QFSTC0YSF1WEV38HW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03200"
+
+[meta]
 bill_number = 3200
 congress = 14
-canonical = "SBN-03200"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3200", "https://web.senate.gov.ph/lisdata/109799732!.pdf",]
 title = "NEWBORN SCREENING PANEL OF DISORDERS ACT"
 date_filed = "2009-05-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE NUMBER OF DISORDERS INCLUDED IN THE NEWBORN S
 scope = "National"
 subjects = [ "Newborn Infants",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-04"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-04"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/4/2009"
+date = "2009-05-04"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJHSCPJFGYAQRSA4197R1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00930"
+
+[meta]
 bill_number = 930
 congress = 17
-canonical = "SBN-00930"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-930", "https://web.senate.gov.ph/lisdata/2448721071!.pdf",]
 title = "ONE TOWN: ONE DOCTOR ACT OF 2016"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING MEDICAL SCHOLARSHIPS TO QUALIFIED STUDENTS IN ALL
 scope = "National"
 subjects = [ "Doctors/Physicians/Dentists", "Students", "Scholarship Grants",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Health and Demography"

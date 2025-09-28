@@ -1,8 +1,11 @@
 id = "01K67YJ7G7Z9D2N1QZ2QYJM7QP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00431"
+
+[meta]
 bill_number = 431
 congress = 15
-canonical = "SBN-00431"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-431", "https://web.senate.gov.ph/lisdata/78566691!.pdf",]
 title = "FINAL PROTOCOL OF DECEASED PUBLIC OFFICIAL, NAIONAL ARTIST AND MUSICIAN IN THE GOVERNMENT HALLS"
 date_filed = "2010-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE FINAL PROTOCOL OF DECEASED PUBLIC OFFICIA
 scope = "National"
 subjects = [ "Government Official", "Public Official",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-04"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2010"
+date = "2010-08-04"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

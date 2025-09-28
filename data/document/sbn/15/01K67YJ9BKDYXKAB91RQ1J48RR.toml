@@ -1,8 +1,11 @@
 id = "01K67YJ9BKDYXKAB91RQ1J48RR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02990"
+
+[meta]
 bill_number = 2990
 congress = 15
-canonical = "SBN-02990"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2990", "https://web.senate.gov.ph/lisdata/1226310345!.pdf",]
 title = "MERCURY IN DENTAL FILLINGS PROHIBITION ACT"
 date_filed = "2011-10-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE USE OF MERCURY IN DENTAL FILLINGS"
 scope = "National"
 subjects = [ "Mercury",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2011-10-11"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-12"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/12/2011"
+date = "2011-10-12"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,24 +1,28 @@
 id = "01K67YMD98R5RQ0M6NZSH8XP3P"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08119"
+
+[meta]
 bill_number = 8119
 congress = 19
-canonical = "HBN-08119"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8119", "https://web.senate.gov.ph/lisdata/4193138185!.pdf",]
 title = "MULTI-SPECIES FISH HATCHERY AND RESEARCH CENTER (NAIC, CAVITE)"
 long_title = "AN ACT ESTABLISHING A MULTI-SPECIES FISH HATCHERY AND RESEARCH CENTER IN THE MUNICIPALITY OF NAIC, PROVINCE OF CAVITE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Multi-Species Fish Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-25"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2023"
+date = "2023-07-25"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

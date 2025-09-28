@@ -1,8 +1,11 @@
 id = "01K67YJEE5E42NXTZ8PREEEJCN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02971"
+
+[meta]
 bill_number = 2971
 congress = 16
-canonical = "SBN-02971"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2971", "https://web.senate.gov.ph/lisdata/2231719030!.pdf",]
 title = "SAN JUAN CITY NATIONAL SCIENCE HIGH SCHOOL ACT OF 2015"
 date_filed = "2015-09-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL SCIENCE HIGH SCHOOL IN THE CITY OF 
 scope = "Local"
 subjects = [ "Schools, Establishment",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2015-09-28"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-29"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/29/2015"
+date = "2015-09-29"
 
 [[committees]]
 name = "Rules"

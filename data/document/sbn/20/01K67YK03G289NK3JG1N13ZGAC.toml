@@ -1,8 +1,11 @@
 id = "01K67YK03G289NK3JG1N13ZGAC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00512"
+
+[meta]
 bill_number = 512
 congress = 20
-canonical = "SBN-00512"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-512", "https://web.senate.gov.ph/lisdata/4706643066!.pdf",]
 title = "PROTECTED GEOGRAPHICAL INDICATIONS ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PROTECTION OF GEOGRAPHICAL INDICATIONS FO
 scope = "National"
 subjects = [ "Protected Geographical Indications",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

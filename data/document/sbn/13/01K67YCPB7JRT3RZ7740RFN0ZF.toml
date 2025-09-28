@@ -1,8 +1,11 @@
 id = "01K67YCPB7JRT3RZ7740RFN0ZF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01736"
+
+[meta]
 bill_number = 1736
 congress = 13
-canonical = "SBN-01736"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1736", "https://web.senate.gov.ph/lisdata/29442520!.pdf",]
 title = "ANTI-TERRORISM ACT OF 2004"
 date_filed = "2004-08-17"
@@ -10,61 +13,62 @@ long_title = "AN ACT DEFINING THE CRIME OF TERRORISM, AND THE FINANCING, PREPARA
 scope = "National"
 subjects = [ "Anti-Terrorism Act (Crime)",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-17"
 action = "Introduced by Senator MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS; JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-12"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS, JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 34, recommending that it be substituted by SBN-2137;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-12"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-12"
 action = "SUBSTITUTED BY SBN-2137, WHICH BECAME R.A.NO. 9372."
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-05"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-09-30"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-26"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-24"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/12/2005"
+date = "2005-10-12"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

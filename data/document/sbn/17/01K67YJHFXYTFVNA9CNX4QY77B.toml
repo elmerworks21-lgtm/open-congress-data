@@ -1,8 +1,11 @@
 id = "01K67YJHFXYTFVNA9CNX4QY77B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00478"
+
+[meta]
 bill_number = 478
 congress = 17
-canonical = "SBN-00478"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-478", "https://web.senate.gov.ph/lisdata/2391820551!.pdf",]
 title = "JUDICIAL TRANSPARENCY AND ETHICS ENCHANCEMENT ACT"
 date_filed = "2016-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENHANCE TRANSPARENCY AND ETHICS IN THE JUDICIARY BY ESTA
 scope = "National"
 subjects = [ "Judiciary (Transparency/Ethics)", "Office of Inspector General",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Justice and Human Rights"

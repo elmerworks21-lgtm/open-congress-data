@@ -1,8 +1,11 @@
 id = "01K67YJV43CHN4E7KNQW9W3KYT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00366"
+
+[meta]
 bill_number = 366
 congress = 19
-canonical = "SBN-00366"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-366", "https://web.senate.gov.ph/lisdata/3812734566!.pdf",]
 title = "ANTI-SPAM ACT OF 2022"
 date_filed = "2022-07-12"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR AN OPT-IN MECHANISM FOR TELEPHONE AND MOBILE 
 scope = "National"
 subjects = [ "Anti-Spam", "Electronic Scam", "Digital Technology",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY and PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-06"
 action = "Transferred from the Committee on Science and Technology to the Committee on PUBLIC SERVICES as primary committee and from the Committee on Public Services to the Committee on SCIENCE AND TECHNOLOGY as secondary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-13"
 action = "Returned and submitted jointly by the Committees on PUBLIC SERVICES, TRADE, COMMERCE AND ENTREPRENEURSHIP, SCIENCE AND TECHNOLOGY and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES per Committee Report No. 5, recommending that it be substituted by SBN-1310;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-13"
 action = "SUBSTITUTED BY SBN-1310 UNDER COMMITTEE REPORT NO. 5, WHICH BECAME REPUBLIC ACT NO. 11934 ON OCTOBER 10, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/13/2022"
+date = "2022-09-13"
 
 [[committees]]
 name = "Public Services"

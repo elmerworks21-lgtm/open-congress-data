@@ -1,8 +1,11 @@
 id = "01K67YJ0YJ5PQQWF0HAEPXB8SD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00317"
+
+[meta]
 bill_number = 317
 congress = 14
-canonical = "SBN-00317"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-317", "https://web.senate.gov.ph/lisdata/44173820!.pdf",]
 title = "LABOR SECTOR REPRESENTATIVE IN THE BOARD OF DIRECTORS OF GOCC"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR LABOR REPRESENTATION IN THE BOARD OF DIRECTO
 scope = "National"
 subjects = [ "Labor Sector Representative", "Government-Owned and Controlled Corporations (GOCC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2007"
+date = "2007-08-07"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

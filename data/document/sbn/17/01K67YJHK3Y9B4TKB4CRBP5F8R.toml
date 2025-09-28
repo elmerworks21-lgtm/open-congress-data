@@ -1,8 +1,11 @@
 id = "01K67YJHK3Y9B4TKB4CRBP5F8R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00635"
+
+[meta]
 bill_number = 635
 congress = 17
-canonical = "SBN-00635"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-635", "https://web.senate.gov.ph/lisdata/2412320760!.pdf",]
 title = "BARANGAY DEVELOPMENT ACT OF 2016"
 date_filed = "2016-07-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A TWENTY (20) YEAR BARANGAY DEVELOPMENT PROGR
 scope = "National"
 subjects = [ "Barangay Development Program",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; ECONOMIC AFFAIRS; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2016"
+date = "2016-08-09"
 
 [[committees]]
 name = "Local Government"

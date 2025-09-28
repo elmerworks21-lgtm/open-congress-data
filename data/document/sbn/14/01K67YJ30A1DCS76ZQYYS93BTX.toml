@@ -1,8 +1,11 @@
 id = "01K67YJ30A1DCS76ZQYYS93BTX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03046"
+
+[meta]
 bill_number = 3046
 congress = 14
-canonical = "SBN-03046"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3046", "https://web.senate.gov.ph/lisdata/102599131!.pdf",]
 title = "BALANCE INQUIRY FEE NOTICE ACT"
 date_filed = "2009-02-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL AUTOMATED TELLER MACHINES TO DISCLOSE THE CHA
 scope = "National"
 subjects = [ "Automated Teller Machine (ATM)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-09"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-10"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/10/2009"
+date = "2009-02-10"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

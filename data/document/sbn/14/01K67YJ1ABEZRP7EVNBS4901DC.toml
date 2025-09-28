@@ -1,25 +1,29 @@
 id = "01K67YJ1ABEZRP7EVNBS4901DC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00893"
+
+[meta]
 bill_number = 893
 congress = 14
-canonical = "SBN-00893"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-893", "https://web.senate.gov.ph/lisdata/51464519!.pdf",]
 title = "MERCURY REDUCTION ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING MECHANISMS FOR THE REDUCTION OF THE DISTRIBUTION OF MERCURY-ADDED PRODUCTS AND ITS PROPER DISPOSAL THEREOF IN ORDER TO REDUCE THE INTRODUCTION OF MERCURY INTO THE ENVIRONMENT"
 scope = "National"
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

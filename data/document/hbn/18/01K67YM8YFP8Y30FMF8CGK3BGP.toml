@@ -1,24 +1,28 @@
 id = "01K67YM8YFP8Y30FMF8CGK3BGP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04553"
+
+[meta]
 bill_number = 4553
 congress = 18
-canonical = "HBN-04553"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-4553", "https://web.senate.gov.ph/lisdata/3676933155!.pdf",]
 title = "AMENDING ARTICLE 70 OF ACT NO. 3815, AS THE REVISED PENAL CODE"
 long_title = "AN ACT AMENDING ARTICLE 70 OF ACT. NO. 3815, OTERWISE KNOWN AS THE REVISED PENAL CODE , AS AMENDED"
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-07"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-07"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/7/2021"
+date = "2021-12-07"
 
 [[committees]]
 name = "Justice and Human Rights"

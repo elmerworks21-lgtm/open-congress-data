@@ -1,8 +1,11 @@
 id = "01K67YK0614B1B8BF8T5XXV1TC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00646"
+
+[meta]
 bill_number = 646
 congress = 20
-canonical = "SBN-00646"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-646", "https://web.senate.gov.ph/lisdata/4714443144!.pdf",]
 title = "UNIFORMED PERSONNEL EDUCATIONAL ASSISTANCE AND BENEFITS"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING EDUCATIONAL BENEFITS TO THE CHILDREN OF MEMBERS O
 scope = "National"
 subjects = [ "Uniformed Personnel Educational Assistance and Benefits", "Philippine National Police (PNP)", "Armed Forces of the Philippines (AFP)", "Bureau of Fire Protection", "Bureau of Jail Management and Penology", "Philippine Coast Guard",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; BASIC EDUCATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

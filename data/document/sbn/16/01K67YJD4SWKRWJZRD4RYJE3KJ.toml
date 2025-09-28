@@ -1,8 +1,11 @@
 id = "01K67YJD4SWKRWJZRD4RYJE3KJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01335"
+
+[meta]
 bill_number = 1335
 congress = 16
-canonical = "SBN-01335"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1335", "https://web.senate.gov.ph/lisdata/1743014664!.pdf",]
 title = "PRE-CONDITION TO FILING OF COMPLAINT IN COURT"
 date_filed = "2013-08-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING BARANGAY JUSTICE BY AMENDING SECTION 412 OF REPUB
 scope = "National"
 subjects = [ "Barangay Justice", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-22"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2013"
+date = "2013-09-03"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJWX2VNX71P2V2F29PG7W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02766"
+
+[meta]
 bill_number = 2766
 congress = 19
-canonical = "SBN-02766"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2766", "https://web.senate.gov.ph/lisdata/4449340447!.pdf",]
 title = "COMPREHENSIVE ANTI-DISCRIMINATION ACT"
 date_filed = "2024-08-06"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF PROTECTED ATTRIB
 scope = "National"
 subjects = [ "Anti-Discrimination",]
 authors_raw = "Poe, Grace, Padilla, Robinhood C., Villanueva, Joel, Marcos, Imee R., Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-06"
 action = "Prepared and submitted jointly by the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, CULTURAL COMMUNITIES AND MUSLIM AFFAIRS and FINANCE with Senators GRACE POE, ROBINHOOD C. PADILLA, JOEL VILLANUEVA, IMEE R. MARCOS and JINGGOY E. ESTRADA as authors per Committee Report No. 280, recommending its approval in substitution of S. Nos. 108, 233, 747, 1264 and 1300;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "Sponsor: Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-21"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-21"
 action = "Sponsorship speech delivered by Senator IMEE R. MARCOS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "8/21/2024"
+date = "2024-08-21"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

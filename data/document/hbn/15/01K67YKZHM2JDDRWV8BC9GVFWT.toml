@@ -1,26 +1,30 @@
 id = "01K67YKZHM2JDDRWV8BC9GVFWT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02164"
+
+[meta]
 bill_number = 2164
 congress = 15
-canonical = "HBN-02164"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-2164", "https://web.senate.gov.ph/lisdata/1575612936!.pdf",]
 title = "DISTRICT HOSPITAL, STA. ELENA, CAMARINES NORTE"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DISTRICT HOSPITAL IN THE MUNICIPALITY OF SANTA ELENA, PROVINCE OF CAMARINES NORTE AND APPROPRIATING FUNDS THEREFOR."
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-06-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

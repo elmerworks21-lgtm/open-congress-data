@@ -1,24 +1,28 @@
 id = "01K67YM9BNM2AXS6ZCXXXNWZ8X"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07736"
+
+[meta]
 bill_number = 7736
 congress = 18
-canonical = "HBN-07736"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7736", "https://web.senate.gov.ph/lisdata/3401730896!.pdf",]
 title = "MUNICIPALITIES OF ILOCOS SUR AS TOURISM DESTINATIONS"
 long_title = "AN ACT DECLARING THE MUNICIPALITIES OF STO. DOMINGO, STA. CATALINA, BANTAY, SAN ILDEFONSO, SAN VICENTE, SINAIT, CABUGAO, SAN JUAN, MAGSINGAL AND CAOAYAN, ALL IN THE PROVINCE OF ILOCOS SUR AS TOURISM DESTINATIONS, PROVIDING FOR THEIR DEVELOPMENT AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Spot", "Tourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-11-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-07"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/7/2020"
+date = "2020-12-07"
 
 [[committees]]
 name = "Tourism"

@@ -1,8 +1,11 @@
 id = "01K67YK098N44MR7DVC2EMBE13"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00819"
+
+[meta]
 bill_number = 819
 congress = 20
-canonical = "SBN-00819"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-819", "https://web.senate.gov.ph/lisdata/4738543387!.pdf",]
 title = "SENTRO RIZAL ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE SENTRO RIZAL AND APPROPRIATING FUNDS THER
 scope = "National"
 subjects = [ "Sentro Rizal", "National Cultural Heritage",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on CULTURE AND THE ARTS; FOREIGN RELATIONS; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Culture and the Arts"

@@ -1,8 +1,11 @@
 id = "01K67YJPQ1JWGQ25YPWDGMXYR1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00483"
+
+[meta]
 bill_number = 483
 congress = 18
-canonical = "SBN-00483"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-483", "https://web.senate.gov.ph/lisdata/3073227574!.pdf",]
 title = "BARANGAY INTEGRATED DEVELOPMENT APPROACH FOR NUTRITION IMPROVEMENT (BIDANI) ACT"
 date_filed = "2019-07-15"
@@ -10,25 +13,26 @@ long_title = "AN ACT ESTABLISHING THE BARANGAY INTEGRATED DEVELOPMENT APPROACH F
 scope = "National"
 subjects = [ "Bidani (Barangay Integrated Development Approach for Nutrition Improvement)",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-15"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Likewise referred secondarily to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Health and Demography"

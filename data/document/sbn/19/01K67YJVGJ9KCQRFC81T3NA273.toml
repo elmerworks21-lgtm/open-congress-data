@@ -1,8 +1,11 @@
 id = "01K67YJVGJ9KCQRFC81T3NA273"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00930"
+
+[meta]
 bill_number = 930
 congress = 19
-canonical = "SBN-00930"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-930", "https://web.senate.gov.ph/lisdata/3873035183!.pdf",]
 title = "CHILD CARE ASSISTANCE ACT"
 date_filed = "2022-07-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE BARANGAY DAY CARE SYSTEM, AMENDING FOR TH
 scope = "National"
 subjects = [ "Children/Child Care", "Barangay Day Care",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-28"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

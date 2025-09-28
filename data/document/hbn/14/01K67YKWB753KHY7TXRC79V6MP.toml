@@ -1,24 +1,28 @@
 id = "01K67YKWB753KHY7TXRC79V6MP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04610"
+
+[meta]
 bill_number = 4610
 congress = 14
-canonical = "HBN-04610"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4610", "https://web.senate.gov.ph/lisdata/85137758!.pdf",]
 title = "ROAD NETWORK LINKING THE MUNICIPALITY OF BOMBON, CITY OF NAGA"
 long_title = "AN ACT CONVERTING THE ROAD NETWORK LINKING THE MUNICIPALITY OF BOMBON TO THE CITY OF NAGA IN THE PROVINCE OF CAMARINES SUR, CONSISTING OF THE PROVINCIAL ROAD PASSING THROUGH BARANGAYS SAN ISIDRO, SAN ANTONIO AND SIEMBRE AND THE NATIONAL ROADS LINKING AND TRAVERSING BARANGAYS SIEMBRE, PACOL, SAN FILIPE, LIBOTON, BAGUMBAYAN NORTE, HARING, SAN AGUSTIN, BARAS, SAN FRANCISCO, STO. TOMAS, SAN MIGUEL, SAN PANTALEON, SAN ISIDRO, SAN JUAN, MONSERAT, SAN ROQUE AND SAN ISIDRO INTO A NATIONAL CIRCUMFERENTIAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representative LUIS R. VILLAFUERTE as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-22"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2008"
+date = "2008-09-22"
 
 [[committees]]
 name = "Public Works"

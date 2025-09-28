@@ -1,8 +1,11 @@
 id = "01K67YJVR52W4QQ69AFN1CG6KX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01270"
+
+[meta]
 bill_number = 1270
 congress = 19
-canonical = "SBN-01270"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1270", "https://web.senate.gov.ph/lisdata/3930135733!.pdf",]
 title = "PHILIPPINE INDIGENOUS AND TRADITIONAL WRITING SYSTEMS ACT IN THE NEW CENTURY"
 date_filed = "2022-09-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROMOTING PHILIPPINE INDIGENOUS AND TRADITIONAL WRITING SYS
 scope = "National"
 subjects = [ "Philippine Indigenous and Traditional Writing Systems",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-09-01"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-12"
 action = "Read on First Reading and Referred to the Committee on CULTURE AND THE ARTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/12/2022"
+date = "2022-09-12"
 
 [[committees]]
 name = "Culture and the Arts"

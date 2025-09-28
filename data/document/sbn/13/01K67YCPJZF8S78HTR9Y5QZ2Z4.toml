@@ -1,8 +1,11 @@
 id = "01K67YCPJZF8S78HTR9Y5QZ2Z4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02103"
+
+[meta]
 bill_number = 2103
 congress = 13
-canonical = "SBN-02103"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2103", "https://web.senate.gov.ph/lisdata/39933343!.pdf",]
 title = "NIGHT WORK PROHIBITION OF WOMEN EMPLOYEES EXPAND EXCEPTIONS"
 date_filed = "2005-08-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE EXCEPTIONS FROM THE NIGHT WORK PROHIBITION OF
 scope = "National"
 subjects = [ "Women (Night Work Prohibition Expand)", "Presidential Decree (P.D.No. 442)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-31"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-31"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2005"
+date = "2005-08-31"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YK024XPR4NYPYWQG2A7EG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00437"
+
+[meta]
 bill_number = 437
 congress = 20
-canonical = "SBN-00437"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-437", "https://web.senate.gov.ph/lisdata/4695042953!.pdf",]
 title = "NO COLLECTION POLICY IN ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOLS"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOLS TO IM
 scope = "National"
 subjects = [ "Elementary/Secondary", "No Collective Policy",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committee on BASIC EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Basic Education"

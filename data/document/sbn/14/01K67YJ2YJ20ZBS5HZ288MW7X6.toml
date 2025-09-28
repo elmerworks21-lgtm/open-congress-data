@@ -1,8 +1,11 @@
 id = "01K67YJ2YJ20ZBS5HZ288MW7X6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02968"
+
+[meta]
 bill_number = 2968
 congress = 14
-canonical = "SBN-02968"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2968", "https://web.senate.gov.ph/lisdata/97018800!.pdf",]
 title = "PROMOTING LIFELONG ACTIVE COMMUNITIES EVERY DAY ACT OF 2008"
 date_filed = "2008-12-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE NATIONAL PROGRAM PROMOTING LIFELONG ACTIVE
 scope = "Local"
 subjects = [ "Lifelong Active Communities",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-12-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/16/2008"
+date = "2008-12-16"
 
 [[committees]]
 name = "Health and Demography"

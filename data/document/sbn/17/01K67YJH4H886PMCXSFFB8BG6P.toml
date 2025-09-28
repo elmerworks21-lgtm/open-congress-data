@@ -1,8 +1,11 @@
 id = "01K67YJH4H886PMCXSFFB8BG6P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00012"
+
+[meta]
 bill_number = 12
 congress = 17
-canonical = "SBN-00012"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-12", "https://web.senate.gov.ph/lisdata/2342520010!.pdf",]
 title = "PHILIPPINE CONDITIONAL CASH TRANSFER (CCT) ACT"
 date_filed = "2016-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT INSTITUTIONALIZING THE PANTAWID PAMILYANG PILIPINO PROGRAM 
 scope = "National"
 subjects = [ "Pantawid Pamilyang Pilipino Program (4PS)", "Poverty Alleviation", "Conditional Cash Transfer Program",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-29"
 action = "Returned and submitted jointly by the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, ECONOMIC AFFAIRS and FINANCE per Committee Report No. 522, recommending that it be substituted by SBN-2117;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "SUBSTITUTED BY SBN-2117 UNDER COMMITTEE REPORT NO. 522, WHICH BECAME R.A. NO. 11310 ON APRIL 17, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/3/2018"
+date = "2018-12-03"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

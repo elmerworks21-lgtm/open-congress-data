@@ -1,8 +1,11 @@
 id = "01K67YJ2KG6FN682Z2Q3XH29WW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02465"
+
+[meta]
 bill_number = 2465
 congress = 14
-canonical = "SBN-02465"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2465", "https://web.senate.gov.ph/lisdata/79307163!.pdf",]
 title = "CHANGING THE NOMENCLATURE OF THE NATIONAL LIBRARY"
 date_filed = "2008-07-24"
@@ -10,33 +13,34 @@ long_title = "AN ACT FURTHER CHANGING THE NOMENCLATURE OF THE NATIONAL LIBRARY I
 scope = "National"
 subjects = [ "National Library",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-24"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-06"
 action = "Returned and submitted by the Committee on EDUCATION, ARTS AND CULTURE per Committee Report No. 690, recommending that it be consolidated in SBN-1152;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-06"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-06"
 action = "CONSOLIDATED IN SBN-1152, WHICH BECAME R.A.NO. 10087."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/6/2009"
+date = "2009-10-06"
 
 [[committees]]
 name = "Education, Arts and Culture"

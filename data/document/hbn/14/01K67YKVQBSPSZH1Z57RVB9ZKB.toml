@@ -1,24 +1,28 @@
 id = "01K67YKVQBSPSZH1Z57RVB9ZKB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-01592"
+
+[meta]
 bill_number = 1592
 congress = 14
-canonical = "HBN-01592"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-1592", "https://web.senate.gov.ph/lisdata/69076146!.pdf",]
 title = "BINALBAGAN NATIONAL HIGH SCHOOL"
 long_title = "AN ACT CHANGING THE NAME OF THE PAGLAUM NATIONAL HIGH SCHOOL IN BARANGAY PAGLAUM, MUNICIPALITY OF BINALBAGAN, PROVINCE OF NEGROS OCCIDENTAL TO THE BINALBAGAN NATIONAL HIGH SCHOOL"
 scope = "Local"
 subjects = [ "Schools, Renaming", "Change of Name",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-21"
 action = "Filed in the Senate requesting for concurrence by Representatives IGGY T. ARROYO and DEL R. DE GUZMAN, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-26"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/26/2008"
+date = "2008-02-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

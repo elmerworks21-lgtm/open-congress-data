@@ -1,8 +1,11 @@
 id = "01K67YJQJ16F207TWZAAGNXAA2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01673"
+
+[meta]
 bill_number = 1673
 congress = 18
-canonical = "SBN-01673"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1673", "https://web.senate.gov.ph/lisdata/3317230015!.pdf",]
 title = "PEOPLE'S FREEDOM OF INFORMATION ACT OF 2020"
 date_filed = "2020-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPLEMENTING THE RIGHT OF THE PEOPLE TO INFORMATION ON MATT
 scope = "National"
 subjects = [ "Freedom of Information",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2020-07-08"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2020"
+date = "2020-08-03"
 
 [[committees]]
 name = "Public Information and Mass Media"

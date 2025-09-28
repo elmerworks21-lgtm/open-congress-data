@@ -1,8 +1,11 @@
 id = "01K67YCNQH215BHKMS3B6D730G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00653"
+
+[meta]
 bill_number = 653
 congress = 13
-canonical = "SBN-00653"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-653", "https://web.senate.gov.ph/lisdata/18391214!.pdf",]
 title = "CHILD AND FAMILY DEVELOPMENT ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN THE DEVELOPMENT OF CHILDREN AND FUNCTIONING O
 scope = "National"
 subjects = [ "Child and Family Development Act", "Comprehensive Child Care Program",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

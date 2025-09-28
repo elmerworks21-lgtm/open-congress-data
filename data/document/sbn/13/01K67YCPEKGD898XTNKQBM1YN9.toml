@@ -1,8 +1,11 @@
 id = "01K67YCPEKGD898XTNKQBM1YN9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01891"
+
+[meta]
 bill_number = 1891
 congress = 13
-canonical = "SBN-01891"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1891", "https://web.senate.gov.ph/lisdata/31722353!.pdf",]
 title = "SPECIAL PROGRAM FOR EMPLOYMENT OF STUDENTS"
 date_filed = "2005-01-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING AND STRENGTHENING THE COVERAGE OF R.A. NO. 7323, 
 scope = "National"
 subjects = [ "Special Prog. for Employment of Students", "R.A. No. 7323 (Spes, Amendments)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2005-01-26"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-26"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/26/2005"
+date = "2005-01-26"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

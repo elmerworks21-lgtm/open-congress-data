@@ -1,8 +1,11 @@
 id = "01K67YJ18PPT1QV1XB77WXHA7V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00816"
+
+[meta]
 bill_number = 816
 congress = 14
-canonical = "SBN-00816"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-816", "https://web.senate.gov.ph/lisdata/50444433!.pdf",]
 title = "NATIONAL RAILWAYS ACT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ACCELERATING THE DEVELOPMENT OF A NATIONAL RAILWAY SYSTEM, 
 scope = "National"
 subjects = [ "National Railways",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

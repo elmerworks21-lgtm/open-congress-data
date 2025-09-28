@@ -1,8 +1,11 @@
 id = "01K67YCNR8VEH89HTJBQ10EMJ1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00695"
+
+[meta]
 bill_number = 695
 congress = 13
-canonical = "SBN-00695"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-695", "https://web.senate.gov.ph/lisdata/18811257!.pdf",]
 title = "PNP MODERNIZATION ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE NATIONAL 
 scope = "National"
 subjects = [ "PNP Modernization Act", "Philippine National Police",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

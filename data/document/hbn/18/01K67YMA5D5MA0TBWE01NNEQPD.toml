@@ -1,24 +1,28 @@
 id = "01K67YMA5D5MA0TBWE01NNEQPD"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10617"
+
+[meta]
 bill_number = 10617
 congress = 18
-canonical = "HBN-10617"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10617", "https://web.senate.gov.ph/lisdata/3727533645!.pdf",]
 title = "BUCARI ECOTOURISM ZONE ACT"
 long_title = "AN ACT DECLARING AN AREA SITUATED WITHIN THE MUNICIPALITIES OF LEON AND ALIMODIAN IN THE PROVINCE OF ILOILO, LOCALLY REFERRED TO AS THE BUCARI AREA, AN ECOTOURISM ZONE, ESTABLISHING THE BUCARI ECOTOURISM COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Ecological Tourism Zone", "Ecotourism Site",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-02-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Tourism"

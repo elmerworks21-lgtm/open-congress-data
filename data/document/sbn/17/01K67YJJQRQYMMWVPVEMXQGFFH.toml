@@ -1,8 +1,11 @@
 id = "01K67YJJQRQYMMWVPVEMXQGFFH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02076"
+
+[meta]
 bill_number = 2076
 congress = 17
-canonical = "SBN-02076"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2076", "https://web.senate.gov.ph/lisdata/2884625374!.pdf",]
 title = "REGULATION OF WASTE TREATMENT TECHNOLOGY ACT"
 date_filed = "2018-10-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE USE OF TREATMENT TECHNOLOGY FOR MUNICIPAL AN
 scope = "National"
 subjects = [ "Hazardous/Toxic/Radioactive Wastes Management", "Clean Air Act",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-15"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-12"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2018"
+date = "2018-11-12"
 
 [[committees]]
 name = "Environment and Natural Resources"

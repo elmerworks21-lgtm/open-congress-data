@@ -1,8 +1,11 @@
 id = "01K67YJQ83NVJKDG6VDS78NW31"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01250"
+
+[meta]
 bill_number = 1250
 congress = 18
-canonical = "SBN-01250"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1250", "https://web.senate.gov.ph/lisdata/3211628946!.pdf",]
 title = "WOMEN'S AND CHILDREN'S RESOURCE DEVELOPMENT AND CRISIS ASSISTANCE ACT"
 date_filed = "2019-12-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING RESOURCE DEVELOPMENT AND CRISIS CENTERS FOR WO
 scope = "National"
 subjects = [ "Women", "Children/Child Care",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-12-18"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2020"
+date = "2020-01-20"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

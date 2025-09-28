@@ -1,29 +1,33 @@
 id = "01K67YJWNF8JWQBKEYEWCZC61J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02490"
+
+[meta]
 bill_number = 2490
 congress = 19
-canonical = "SBN-02490"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2490", "https://web.senate.gov.ph/lisdata/4306639168!.pdf",]
 title = "FREE ACCESS TO GOVERNMENT WEBSITES ACT"
 date_filed = "2023-11-17"
 long_title = "AN ACT PROVIDING FREE ACCESS TO GOVERNMENT WEBSITES FROM TELECOMMUNICATION PROVIDERS, AND FOR OTHER PURPOSES"
 scope = "National"
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-11-17"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-28"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and PUBLIC INFORMATION AND MASS MEDIA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/28/2023"
+date = "2023-11-28"
 
 [[committees]]
 name = "Public Services"

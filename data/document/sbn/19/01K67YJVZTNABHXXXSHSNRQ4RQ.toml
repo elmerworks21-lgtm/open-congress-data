@@ -1,8 +1,11 @@
 id = "01K67YJVZTNABHXXXSHSNRQ4RQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01589"
+
+[meta]
 bill_number = 1589
 congress = 19
-canonical = "SBN-01589"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1589", "https://web.senate.gov.ph/lisdata/4011036527!.pdf",]
 title = "GENUINE AGRICULTURAL COOPERATIVISM REFORM ACT OF 2019"
 date_filed = "2022-12-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING AGRICULTURAL COOPERATIVISM IN THE PHILIPPINES, 
 scope = "National"
 subjects = [ "Agricultural Cooperativism Reform",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-05"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-06"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; COOPERATIVES; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2022"
+date = "2022-12-06"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

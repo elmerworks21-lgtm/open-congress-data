@@ -1,8 +1,11 @@
 id = "01K67YJ2C4F9K6WRQQ625MP4QV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02156"
+
+[meta]
 bill_number = 2156
 congress = 14
-canonical = "SBN-02156"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2156", "https://web.senate.gov.ph/lisdata/70936335!.pdf",]
 title = "PROBATION LAW, AMENDMENTS"
 date_filed = "2008-04-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING PROBATIONERS TO PLANT AT LEAST THIRTY (30) TREES 
 scope = "National"
 subjects = [ "Tree Planting",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-15"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-22"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/22/2008"
+date = "2008-04-22"
 
 [[committees]]
 name = "Justice and Human Rights"

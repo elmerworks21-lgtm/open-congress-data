@@ -1,8 +1,11 @@
 id = "01K67YJ32T98ZYQGN0ZKD6Z8GF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03159"
+
+[meta]
 bill_number = 3159
 congress = 14
-canonical = "SBN-03159"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3159", "https://web.senate.gov.ph/lisdata/107679535!.pdf",]
 title = "FOUNDATION ANNIVERSARY OF THE CITY OF CAVITE"
 date_filed = "2009-04-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING SEPTEMBER SEVEN OF EVERY YEAR AS A SPECIAL NON-WO
 scope = "Local"
 subjects = [ "Holidays (Special Nonworking Holiday)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2009-04-14"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-15"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/15/2009"
+date = "2009-04-15"
 
 [[committees]]
 name = "Local Government"

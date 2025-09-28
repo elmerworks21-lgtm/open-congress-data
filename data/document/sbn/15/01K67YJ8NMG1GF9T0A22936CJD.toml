@@ -1,8 +1,11 @@
 id = "01K67YJ8NMG1GF9T0A22936CJD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02286"
+
+[meta]
 bill_number = 2286
 congress = 15
-canonical = "SBN-02286"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2286", "https://web.senate.gov.ph/lisdata/98768416!.pdf",]
 title = "FAIR PAY ACT"
 date_filed = "2010-08-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROHIBITING DISCRIMINATION IN THE PAYMENT OF WAGES ON ACCOU
 scope = "National"
 subjects = [ "Gender Discrimination",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-08-02"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-20"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-01-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2010"
+date = "2010-09-20"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

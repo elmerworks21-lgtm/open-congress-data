@@ -1,8 +1,11 @@
 id = "01K67YJHQEBGWHSNV8FHM42TXW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00837"
+
+[meta]
 bill_number = 837
 congress = 17
-canonical = "SBN-00837"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-837", "https://web.senate.gov.ph/lisdata/2437821001!.pdf",]
 title = "FISCAL AND MONETARY REPORT ACT OF 2016"
 date_filed = "2016-07-21"
@@ -10,49 +13,50 @@ long_title = "AN ACT MANDATING THE SECRETARY OF THE DEPARMENT OF FINANCE AND THE
 scope = "National"
 subjects = [ "Department of Finance", "Bangko Sentral Ng Pilipinas (BSP)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE; and ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-27"
 action = "At the instance of Senator Recto and after conferring with the concerned committee chairs, upon motion of Senator Sotto III, the Body approved the change of the primary referral of SBN-837, 858 and 862 to the Committee on ECONOMIC AFFAIRS, with the Committee on Finance to remain as the secondary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-28"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS and FINANCE per Committee Report No. 117, recommending that it be substituted by SBN-1483;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-31"
 action = "Sponsor: Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-31"
 action = "SUBSTITUTED BY SBN-1483 UNDER COMMITTEE REPORT NO. 117."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/31/2017"
+date = "2017-05-31"
 
 [[committees]]
 name = "Economic Affairs"

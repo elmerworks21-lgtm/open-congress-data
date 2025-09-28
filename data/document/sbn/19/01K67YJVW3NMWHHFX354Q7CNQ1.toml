@@ -1,8 +1,11 @@
 id = "01K67YJVW3NMWHHFX354Q7CNQ1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01435"
+
+[meta]
 bill_number = 1435
 congress = 19
-canonical = "SBN-01435"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1435", "https://web.senate.gov.ph/lisdata/3975136240!.pdf",]
 title = "EXEMPTING MICROINSURANCE POLICIES FROM VALUE-ADDED TAX"
 date_filed = "2022-10-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING MICROINSURANCE POLICIES FROM VALUE-ADDED TAX, TAX
 scope = "National"
 subjects = [ "Microinsurance", "Taxes (Value-Added Tax / Vat)", "Taxes (Tax Exemption: Medical Insurance Premiums/Fringe Benefits)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-10-27"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-21"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/21/2022"
+date = "2022-11-21"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YCPS6J3TMQWMETSR17DT1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02421"
+
+[meta]
 bill_number = 2421
 congress = 13
-canonical = "SBN-02421"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2421", "https://web.senate.gov.ph/lisdata/57214710!.pdf",]
 title = "WEAPON ACCIDENT PREVENTION ACT OF 2006"
 date_filed = "2006-07-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING THE UNSAFE STORAGE OF WEAPONS"
 scope = "National"
 subjects = [ "Weapon Accident Prevention Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2006-07-31"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-01"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND ILLEGAL DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2006"
+date = "2006-08-01"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

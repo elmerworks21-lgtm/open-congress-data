@@ -1,24 +1,28 @@
 id = "01K67YM5XE3J6E9ZR9RX6Q8QZQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05350"
+
+[meta]
 bill_number = 5350
 congress = 17
-canonical = "HBN-05350"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5350", "https://web.senate.gov.ph/lisdata/2609522455!.pdf",]
 title = "INDIGENOUS PEOPLE'S RIGHTS ACT"
 long_title = "AN ACT EXTENDING THE PERIOD FOR INDIGENOUS CULTURAL COMMUNITIES/INDIGENOUS PEOPLES TO EXERCISE THE OPTION TO SECURE CERTIFICATES OF TITLE TO THEIR ANCESTRAL LANDS UNDER COMMONWEALTH ACT 141, AS AMENDED, OR THE LAND REGISTRATION ACT 496, AMENDING FOR THE PURPOSE SECTION 12 OF REPUBLIC ACT NO. 8371, OTHERWISE KNOWN AS THE INDIGENOUS PEOPLES RIGHTS ACT OF 1997"
 scope = "National"
 subjects = [ "Indigenous Cultural Communities", "Commonwealth Act", "Ancestral Domain/Ancestral Lands",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-05-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "Read on First Reading and Referred to the Committee on CULTURAL COMMUNITIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/30/2017"
+date = "2017-05-30"
 
 [[committees]]
 name = "Cultural Communities"

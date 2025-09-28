@@ -1,8 +1,11 @@
 id = "01K67YJQMDZ79PB62BET0268ZZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01785"
+
+[meta]
 bill_number = 1785
 congress = 18
-canonical = "SBN-01785"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1785", "https://web.senate.gov.ph/lisdata/3336730192!.pdf",]
 title = "PRESCRIBING FIXED TERMS FOR THE CHIEF-OF-STAFF AND OTHER KEY OFFICERS OF THE AFP"
 date_filed = "2020-08-24"
@@ -10,41 +13,42 @@ long_title = "AN ACT STRENGTHENING PROFESSIONALISM AND CONTINUITY OF POLICIES AN
 scope = "National"
 subjects = [ "Armed Forces of the Philippines (AFP)", "Retirement Age", "Military and Uniformed Personnel",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2020-08-24"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-25"
 action = "Read on First Reading and Referred to the Committee on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-22"
 action = "Secondarily referred to the Committees on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; FINANCE and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-08"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-06"
 action = "SUBSTITUTED BY SBN-2376, UNDER COMMITTEE REPORT NO. 297, WHICH BECAME REPUBLIC ACT NO. 11709 ON APRIL 13, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/6/2021"
+date = "2021-09-06"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

@@ -1,8 +1,11 @@
 id = "01K67YJCR14B88V20TBNFX636J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00716"
+
+[meta]
 bill_number = 716
 congress = 16
-canonical = "SBN-00716"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-716", "https://web.senate.gov.ph/lisdata/1661913858!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE (AMENDING SECTION 24(A)(2)"
 date_filed = "2013-07-10"
@@ -10,25 +13,26 @@ long_title = "AN ACT ADJUSTING THE LEVELS OF NET TAXABLE INCOME AND NOMINAL TAX 
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes/Taxation",]
 authors_raw = "Recto, Ralph G., Escudero, Francis \"Chiz\" G., Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-10"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-29"
 action = "Letter of Senator FRANCIS 'CHIZ' G. ESCUDERO, requesting that he be made coauthor of SBN-716, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-22"
 action = "Letter of Senator CYNTHIA A. VILLAR dated October 9, 2014, requesting that she be made coauthor of SBN-716, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Ways and Means"

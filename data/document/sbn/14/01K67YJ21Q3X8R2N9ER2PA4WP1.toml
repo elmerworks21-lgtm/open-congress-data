@@ -1,8 +1,11 @@
 id = "01K67YJ21Q3X8R2N9ER2PA4WP1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01706"
+
+[meta]
 bill_number = 1706
 congress = 14
-canonical = "SBN-01706"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1706", "https://web.senate.gov.ph/lisdata/61295466!.pdf",]
 title = "CIVIL SERVICE ELIGIBILITY TO CASUAL/CONTRACTUAL EMPLOYEES RENDERED 10 YEARS OF SERVICE"
 date_filed = "2007-10-04"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING CIVIL SERVICE ELIGIBILITY UNDER CERTAIN CONDITIONS
 scope = "National"
 subjects = [ "Contractual", "Co-Terminus, Civil Service Eligibility",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-04"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Returned and submitted by the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 775, recommending that it be substituted by SBN-3554;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "SUBSTITUTED BY SBN-3554."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/16/2009"
+date = "2009-12-16"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

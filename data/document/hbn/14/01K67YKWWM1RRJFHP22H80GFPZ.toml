@@ -1,24 +1,28 @@
 id = "01K67YKWWM1RRJFHP22H80GFPZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06028"
+
+[meta]
 bill_number = 6028
 congress = 14
-canonical = "HBN-06028"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6028", "https://web.senate.gov.ph/lisdata/112149922!.pdf",]
 title = "ZAMBOANGA CITY MEDICAL CENTER"
 long_title = "AN ACT INCREASING THE MINIMUM BED CAPACITY OF THE ZAMBOANGA CITY MEDICAL CENTER FROM TWO HUNDRED FIFTY (250) TO FIVE HUNDRED (500), AMENDING FOR THE PURPOSE SECTION 2 OF REPUBLIC ACT NO. 7272"
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-12"
 action = "Filed in the Senate requesting for concurrence by Representatives RICO BASILIO A. FABIAN, ARTHUR Y. PINGOY JR., REYNALDO S. UY, ROLANDO A. UY and VICTOR J. YU, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2009"
+date = "2009-05-13"
 
 [[committees]]
 name = "Health and Demography"

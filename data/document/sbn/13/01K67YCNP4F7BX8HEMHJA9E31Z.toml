@@ -1,8 +1,11 @@
 id = "01K67YCNP4F7BX8HEMHJA9E31Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00571"
+
+[meta]
 bill_number = 571
 congress = 13
-canonical = "SBN-00571"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-571", "https://web.senate.gov.ph/lisdata/17261089!.pdf",]
 title = "PUBLIC AND PRIVATE SCHOOL TEACHERS' TAX INCENTIVES ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING FROM TAX ALL ALLOWANCES AND BENEFITS GRANTED TO P
 scope = "National"
 subjects = [ "Taxes (Tax Exemption, Teachers)", "Teachers Tax Incentives Act/Public/Priv.",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-11"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2004"
+date = "2004-08-11"
 
 [[committees]]
 name = "Ways and Means"

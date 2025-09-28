@@ -1,8 +1,11 @@
 id = "01K67YJ2E7Z2V18TJGHEED0YYK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02249"
+
+[meta]
 bill_number = 2249
 congress = 14
-canonical = "SBN-02249"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2249", "https://web.senate.gov.ph/lisdata/72726486!.pdf",]
 title = "COFFEE RESEARCH DEVELOPMENT AND EXTENSION CENTER, CAVITE STATE UNIVERSITY"
 date_filed = "2008-05-06"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING A COFFEE RESEARCH DEVELOPMENT AND EXTENSION CENTER
 scope = "Local"
 subjects = [ "Coffee",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-06"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-07"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/7/2008"
+date = "2008-05-07"
 
 [[committees]]
 name = "Agriculture and Food"

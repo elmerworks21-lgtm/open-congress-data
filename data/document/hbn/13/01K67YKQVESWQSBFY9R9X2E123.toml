@@ -1,24 +1,28 @@
 id = "01K67YKQVESWQSBFY9R9X2E123"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04108"
+
+[meta]
 bill_number = 4108
 congress = 13
-canonical = "HBN-04108"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4108", "https://web.senate.gov.ph/lisdata/35463278!.pdf",]
 title = "BALANACAN-GUISIAN-PAYE-SAYAO-DINAHUAN NATIONAL ROAD"
 long_title = "AN ACT CONVERTING THE BALANACAN-GUISIAN-PAYE-SAYAO-DINAHUNAN PROVINCIAL ROAD IN THE MUNICIPALITY OF MOGPOG, PROVINCE OF MARINDUQUE INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion (Marinduque)", "Balanacan-Guisian-Paye-Sayao-Dinahunan National Road (Marinduque)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-02"
 action = "Filed in the Senate requesting for concurrence by Representative EDMUNDO O. REYES JR. as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2005"
+date = "2005-08-08"
 
 [[committees]]
 name = "Public Works"

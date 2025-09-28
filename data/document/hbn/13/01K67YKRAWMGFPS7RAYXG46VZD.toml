@@ -1,24 +1,28 @@
 id = "01K67YKRAWMGFPS7RAYXG46VZD"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05645"
+
+[meta]
 bill_number = 5645
 congress = 13
-canonical = "HBN-05645"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5645", "https://web.senate.gov.ph/lisdata/62905234!.pdf",]
 title = "LOACAN NATIONAL HIGH SCHOOL (BENGUET)"
 long_title = "AN ACT SEPARATING THE ALEJO M. PACALSO MEMORIAL NATIONAL HIGH SCHOOL - LOACAN ANNEX IN BARANGAY LOACAN, MUNICIPALITY OF ITOGON, PROVINCE OF BENGUET FROM THE ALEJO M. PACALSO MEMORIAL NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE LOACAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Benguet)", "Loacan National High School (Benguet)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-30"
 action = "Filed in the Senate requesting for concurrence by Representatives SAMUEL M. DANGWA, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-08"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/8/2006"
+date = "2006-11-08"
 
 [[committees]]
 name = "Education, Arts and Culture"

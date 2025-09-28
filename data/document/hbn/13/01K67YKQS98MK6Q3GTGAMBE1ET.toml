@@ -1,64 +1,68 @@
 id = "01K67YKQS98MK6Q3GTGAMBE1ET"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03295"
+
+[meta]
 bill_number = 3295
 congress = 13
-canonical = "HBN-03295"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-3295", "https://web.senate.gov.ph/lisdata/31602937!.pdf",]
 title = "CONSOLIDATED INVESTMENTS AND INCENTIVES OF THE PHILIPPINES"
 long_title = "THE CONSOLIDATED INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Consolidated Investments/Incentives Code", "Investments and Incentives Code, Cons.",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-01-21"
 action = "Filed in the Senate requesting for concurrence by Representatives SALCEDA, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-25"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS; and ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-14"
 action = "Returned by the Committee on WAYS AND MEANS per Committee Report No. 81, recommending that it be substituted by SBN-2411;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-26"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-26"
 action = "SUBSTITUTED BY SBN-2411."
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-22"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-02"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-15"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-23"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-26"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/25/2006"
+date = "2006-07-25"
 
 [[committees]]
 name = "Ways and Means"

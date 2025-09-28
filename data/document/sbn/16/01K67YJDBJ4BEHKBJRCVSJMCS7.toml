@@ -1,8 +1,11 @@
 id = "01K67YJDBJ4BEHKBJRCVSJMCS7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01657"
+
+[meta]
 bill_number = 1657
 congress = 16
-canonical = "SBN-01657"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1657", "https://web.senate.gov.ph/lisdata/1778715021!.pdf",]
 title = "NEGOTIATED PROCUREMENT ON MAJOR DEFENSE EQUIPMENT, EXEMPTION FROM PUBLIC BIDDING"
 date_filed = "2013-09-16"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING SECTION 53 OF REPUBLIC ACT NO. 9184, OTHERWISE KNO
 scope = "National"
 subjects = [ "Government Procurement", "Public Bidding",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-16"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-18"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE; and NATIONAL DEFENSE AND SECURITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-28"
 action = "Returned and submitted by the Committee on FINANCE per Committee Report No. 35, recommending its approval with amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-02"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, ANTONIO 'SONNY' F. TRILLANES;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "6/2/2014"
+date = "2014-06-02"
 
 [[committees]]
 name = "Finance"

@@ -1,8 +1,11 @@
 id = "01K67YJJVB0YVG3SV0MP7QMBXA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02227"
+
+[meta]
 bill_number = 2227
 congress = 17
-canonical = "SBN-02227"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2227", "https://web.senate.gov.ph/lisdata/2989326595!.pdf",]
 title = "AMENDING SEC. 2, RA 7042 (FOREIGN INVESTMENTS ACT)"
 date_filed = "2019-05-21"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7042, OTHERWISE KNOWN AS THE FORE
 scope = "National"
 subjects = [ "Foreign Investments",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Prepared and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS and TRADE, COMMERCE AND ENTREPRENEURSHIP with Senator SHERWIN T. GATCHALIAN as author per Committee Report No. 669, recommending its approval in substitution of SBN-2102;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-21"
 action = "Sponsor: Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Sponsorship speech of Senator SHERWIN T. GATCHALIAN;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Economic Affairs"

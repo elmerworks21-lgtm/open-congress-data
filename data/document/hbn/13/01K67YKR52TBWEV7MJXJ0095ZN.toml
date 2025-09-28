@@ -1,56 +1,60 @@
 id = "01K67YKR52TBWEV7MJXJ0095ZN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05125"
+
+[meta]
 bill_number = 5125
 congress = 13
-canonical = "HBN-05125"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5125", "https://web.senate.gov.ph/lisdata/50215004!.pdf",]
 title = "CABUYAO REGIONAL TRIAL COURT (LAGUNA)"
 long_title = "AN ACT CREATING THREE BRANCHES OF THE REGIONAL TRIAL COURT IN THE PROVINCE OF LAGUNA TO BE STATIONED AT THE MUNICIPALITY OF CABUYAO, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (E) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Regional Trial Court (Cabuyao Laguna)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives JUSTIN 'TIMMY' SB. CHIPECO, SIMEON A. DATUMANONG and ROLANDO G. ANDAYA, JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-17"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-10"
 action = "Returned jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE per Committee Report No. 142, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Sponsor: Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-12"
 action = "Assigned for consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-12"
 action = "Senators Pangilinan, Jinggoy Ejercito Estrada, Richard Dick Gordon, and Manuel Lito M. Lapid were made coauthors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-12"
 action = "Sponsorship speech of Senator(s) JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Period of committee amendment closed;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "10/12/2006"
+date = "2006-10-12"
 
 [[committees]]
 name = "Justice and Human Rights"

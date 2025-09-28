@@ -1,8 +1,11 @@
 id = "01K67YJPNHXXFGX38FM59HNG1Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00413"
+
+[meta]
 bill_number = 413
 congress = 18
-canonical = "SBN-00413"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-413", "https://web.senate.gov.ph/lisdata/3074527594!.pdf",]
 title = "CITIZEN SERVICE ACT OF 2019"
 date_filed = "2019-07-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE CITIZEN SERVICE PROGRAM IN ALL EDUCATIONAL
 scope = "National"
 subjects = [ "Citizen Service Training Course", "Reserve Officers Training Corps (ROTC)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-11"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

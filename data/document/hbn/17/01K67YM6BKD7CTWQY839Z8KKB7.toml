@@ -1,24 +1,28 @@
 id = "01K67YM6BKD7CTWQY839Z8KKB7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07422"
+
+[meta]
 bill_number = 7422
 congress = 17
-canonical = "HBN-07422"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7422", "https://web.senate.gov.ph/lisdata/2789224130!.pdf",]
 title = "NATIONAL BUILDING CODE INTEGRATION ACT"
 long_title = "AN ACT MANDATING THE INTEGRATION OF THE NATIONAL BUILDING CODE OF THE PHILIPPINES AS ONE OF THE MAJOR SUBJECTS IN THE BACHELOR OF SCIENCE COURSES IN CIVIL ENGINEERING, MECHANICAL ENGINEERING, ELECTRICAL ENGINEERING, SANITARY ENGINEERING AND ARCHITECTURE AND ITS INCLUSION AS A TOPIC IN THE LICENSURE EXAMINATIONS FOR THESE COURSES"
 scope = "National"
 subjects = [ "National Building Code of the Philippines", "Professional Licensure Examinations", "Engineering", "Curriculum/Curricula",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-05-17"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2018"
+date = "2018-05-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

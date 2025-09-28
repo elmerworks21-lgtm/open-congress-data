@@ -1,8 +1,11 @@
 id = "01K67YJWV4H385CEEMEWKWJGA4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02698"
+
+[meta]
 bill_number = 2698
 congress = 19
-canonical = "SBN-02698"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2698", "https://web.senate.gov.ph/lisdata/4417640162!.pdf",]
 title = "CONDONATION OF UNPAID OBLIGATIONS ON THE POWER CONSUMPTION"
 date_filed = "2024-05-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CONDONATION OF UNPAID OBLIGATIONS ON THE 
 scope = "National"
 subjects = [ "Condonation", "Power Consumption",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-22"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-29"
 action = "Read on First Reading and Referred to the Committees on ENERGY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2024"
+date = "2024-07-29"
 
 [[committees]]
 name = "Energy"

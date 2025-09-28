@@ -1,8 +1,11 @@
 id = "01K67YJQPVB4CRQPEQWCH900BB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01876"
+
+[meta]
 bill_number = 1876
 congress = 18
-canonical = "SBN-01876"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1876", "https://web.senate.gov.ph/lisdata/3368930578!.pdf",]
 title = "DOH HOSPITAL BED CAPACITY AND SERVICE CAPABILITY RATIONALIZATION ACT"
 date_filed = "2020-10-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT AUTHORIZING THE DEPARTMENT OF HEALTH (DOH) TO SET AND APPRO
 scope = "National"
 subjects = [ "Hospitals", "Department of Health (DOH)",]
 authors_raw = "Revilla Jr., Ramon Bong, Angara, Sonny, Hontiveros, Risa, Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2020-10-08"
 action = "Prepared and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE with Senators RAMON BONG REVILLA JR., SONNY ANGARA, RISA HONTIVEROS and CHRISTOPHER LAWRENCE T. GO as authors per Committee Report No. 131, recommending its approval in substitution of SNos. 665, 698, 863 and 1226, taking into consideration HBN-5673;;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-12"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-12"
 action = "Sponsor: Senator CHRISTOPHER LAWRENCE T. GO;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "10/12/2020"
+date = "2020-10-12"
 
 [[committees]]
 name = "Health and Demography"

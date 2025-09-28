@@ -1,8 +1,11 @@
 id = "01K67YJ91N5JN114D0MFGHDGN1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02605"
+
+[meta]
 bill_number = 2605
 congress = 15
-canonical = "SBN-02605"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2605", "https://web.senate.gov.ph/lisdata/104408936!.pdf",]
 title = "NON-RENEWAL OF NOMINATIONS OR APPOINTMENTS ACT OF 2010"
 date_filed = "2010-11-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE PRESIDENTIAL RE-NOMINATION OR RE-APPOINTMEN
 scope = "National"
 subjects = [ "Presidential Appointments",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-11-22"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-11-23"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/23/2010"
+date = "2010-11-23"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

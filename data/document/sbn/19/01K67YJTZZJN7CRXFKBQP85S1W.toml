@@ -1,8 +1,11 @@
 id = "01K67YJTZZJN7CRXFKBQP85S1W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00177"
+
+[meta]
 bill_number = 177
 congress = 19
-canonical = "SBN-00177"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-177", "https://web.senate.gov.ph/lisdata/3788534326!.pdf",]
 title = "WASTE-TO-ENERGY ACT OF 2022"
 date_filed = "2022-07-07"
@@ -10,37 +13,38 @@ long_title = "AN ACT ALLOWING THE USE OF WASTE-TO-ENERGY TECHNOLOGY FOR ELECTRIC
 scope = "National"
 subjects = [ "Waste-To-Energy Technologies", "Energy",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on ENERGY; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-31"
 action = "Returned and submitted jointly by the Committees on ENERGY, ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE, WAYS AND MEANS and FINANCE per Committee Report No. 91, recommending that it be substituted by SBN-2267;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-25"
 action = "SUBSTITUTED BY SBN-2267 UNDER COMMITTEE REPORT NO. 91."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/25/2023"
+date = "2023-07-25"
 
 [[committees]]
 name = "Energy"

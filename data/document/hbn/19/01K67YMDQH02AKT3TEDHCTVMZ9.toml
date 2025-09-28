@@ -1,28 +1,32 @@
 id = "01K67YMDQH02AKT3TEDHCTVMZ9"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10493"
+
+[meta]
 bill_number = 10493
 congress = 19
-canonical = "HBN-10493"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10493", "https://web.senate.gov.ph/lisdata/4453440487!.pdf",]
 title = "TESDA TRAINING AND ASSESSMENT CENTER (ORMOC CITY, LEYTE)"
 long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY TRAINING AND ASSESSMENT CENTER IN THE CITY OF ORMOC, PROVINCE OF LEYTE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tesda Training and Assessment Center",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-08"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-09"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2024"
+date = "2024-09-09"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

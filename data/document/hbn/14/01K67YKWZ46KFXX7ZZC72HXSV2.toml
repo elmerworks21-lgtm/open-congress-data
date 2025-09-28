@@ -1,24 +1,28 @@
 id = "01K67YKWZ46KFXX7ZZC72HXSV2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06374"
+
+[meta]
 bill_number = 6374
 congress = 14
-canonical = "HBN-06374"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6374", "https://web.senate.gov.ph/lisdata/1191810531!.pdf",]
 title = "REVISED CHARTER OF THE CITY OF BAGUIO"
 long_title = "AN ACT REVISING THE CHARTER OF THE CITY OF BAGUIO"
 scope = "Local"
 subjects = [ "Baguio City",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-07-14"
 action = "Filed in the Senate requesting for concurrence by Representative MAURICIO G. DOMOGAN as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-10"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2009"
+date = "2009-08-10"
 
 [[committees]]
 name = "Local Government"

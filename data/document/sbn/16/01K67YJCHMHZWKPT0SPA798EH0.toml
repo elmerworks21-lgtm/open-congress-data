@@ -1,8 +1,11 @@
 id = "01K67YJCHMHZWKPT0SPA798EH0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00407"
+
+[meta]
 bill_number = 407
 congress = 16
-canonical = "SBN-00407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-407", "https://web.senate.gov.ph/lisdata/1629713535!.pdf",]
 title = "ANNUAL INCOME REQUIREMENT FOR THE CREATION OF A HIGHLY URBANIZED CITY"
 date_filed = "2013-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 452 OF REPUBLIC ACT NO. 7160 OTHERWISE KNO
 scope = "National"
 subjects = [ "Income Requirement (Cityhood, Creation of Municipality/Province)", "Local Government Code (R.A.No. 7160)", "Municipality, Conversion (Cityhood)",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2013"
+date = "2013-08-05"
 
 [[committees]]
 name = "Local Government"

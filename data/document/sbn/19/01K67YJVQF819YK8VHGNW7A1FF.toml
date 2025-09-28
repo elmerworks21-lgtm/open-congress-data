@@ -1,8 +1,11 @@
 id = "01K67YJVQF819YK8VHGNW7A1FF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01240"
+
+[meta]
 bill_number = 1240
 congress = 19
-canonical = "SBN-01240"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1240", "https://web.senate.gov.ph/lisdata/3924035676!.pdf",]
 title = "KOMISYON SA WIKANG FILIPINO (COMMISION ON THE FILIPINO LANGUAGE) ACT"
 date_filed = "2022-08-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 7104, OTHER
 scope = "National"
 subjects = [ "Komisyon Sa Wikang Filipino", "Commission on the Filipino Language",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-31"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2022"
+date = "2022-09-07"
 
 [[committees]]
 name = "Basic Education"

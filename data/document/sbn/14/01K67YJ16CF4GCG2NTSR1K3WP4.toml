@@ -1,8 +1,11 @@
 id = "01K67YJ16CF4GCG2NTSR1K3WP4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00700"
+
+[meta]
 bill_number = 700
 congress = 14
-canonical = "SBN-00700"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-700", "https://web.senate.gov.ph/lisdata/49224297!.pdf",]
 title = "FAMILY WELFARE ACT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROTECTING THE WELFARE OF THE FILIPINO FAMILY THROUGH THE E
 scope = "National"
 subjects = [ "National Family Welfare Commission",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

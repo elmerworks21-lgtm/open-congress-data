@@ -1,8 +1,11 @@
 id = "01K67YJHDV38NP84TTGTVJS3EJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00385"
+
+[meta]
 bill_number = 385
 congress = 17
-canonical = "SBN-00385"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-385", "https://web.senate.gov.ph/lisdata/2382320487!.pdf",]
 title = "TAX EXEMPTION ON THE SALE/IMPORTATION OF HUMAN ORGAN IMPLANTS"
 date_filed = "2016-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 109 OF THE NATIONAL INTERNAL REVENUE CODE,
 scope = "National"
 subjects = [ "Taxes (Value-Added Tax / Vat)", "Human Organs", "National Internal Revenue Code (NIRC)", "Tax Exemption",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-18"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJJQYJNPST082CA9VDVH4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02083"
+
+[meta]
 bill_number = 2083
 congress = 17
-canonical = "SBN-02083"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2083", "https://web.senate.gov.ph/lisdata/2885225380!.pdf",]
 title = "INDIVIDUALS' HEALTH AND SAFETY ACT"
 date_filed = "2018-10-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT SEEKING TO PROTECT THE HEALTH AND SAFETY OF INDIVIDUALS INV
 scope = "National"
 subjects = [ "Health Care", "Garbage Collectors",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-24"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-12"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2018"
+date = "2018-11-12"
 
 [[committees]]
 name = "Health and Demography"

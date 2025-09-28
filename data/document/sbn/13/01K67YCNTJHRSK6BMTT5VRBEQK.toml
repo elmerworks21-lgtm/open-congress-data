@@ -1,8 +1,11 @@
 id = "01K67YCNTJHRSK6BMTT5VRBEQK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00826"
+
+[meta]
 bill_number = 826
 congress = 13
-canonical = "SBN-00826"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-826", "https://web.senate.gov.ph/lisdata/20241495!.pdf",]
 title = "PUNONG BARANGAY/MEMBERS RETIREMENT BENEFITS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING RETIREMENT BENEFITS FOR THE PUNONG BARANGAY AND M
 scope = "National"
 subjects = [ "Barangay Captains Retirement Benefits",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Local Government"

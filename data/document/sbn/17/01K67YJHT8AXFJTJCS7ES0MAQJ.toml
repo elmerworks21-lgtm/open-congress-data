@@ -1,8 +1,11 @@
 id = "01K67YJHT8AXFJTJCS7ES0MAQJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00969"
+
+[meta]
 bill_number = 969
 congress = 17
-canonical = "SBN-00969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-969", "https://web.senate.gov.ph/lisdata/2452721109!.pdf",]
 title = "PEOPLE'S PARTICIPATION IN INDUSTRY CLUSTER - BASED PROGRAMS AND PROJECTS ACT"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING INDUSTRY CLUSTER-BASED PROGRAMS AND PROJ
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Industry Cluster-Based Programs/Projects",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; LOCAL GOVERNMENT; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YJVV6S41TTWFZT7BDYZ4N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01397"
+
+[meta]
 bill_number = 1397
 congress = 19
-canonical = "SBN-01397"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1397", "https://web.senate.gov.ph/lisdata/3968335997!.pdf",]
 title = "STIFFER PENALTIES FOR CHILD ABUSE, EXPLOITATION AND DISCRIMINATION"
 date_filed = "2022-10-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPOSING STIFFER PENALTIES FOR CHILD ABUSE, EXPLOITATION AN
 scope = "National"
 subjects = [ "Child Abuse, Exploitation and Discrimination Act (R.A.No. 7610)",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2022-10-19"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-07"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2022"
+date = "2022-11-07"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

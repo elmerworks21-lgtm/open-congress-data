@@ -1,8 +1,11 @@
 id = "01K67YK05473XAKA2KQ4Y74NKY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00599"
+
+[meta]
 bill_number = 599
 congress = 20
-canonical = "SBN-00599"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-599", "https://web.senate.gov.ph/lisdata/4719343193!.pdf",]
 title = "AMENDING R.A. NO. 9997 (NATIONAL COMMISSION ON MUSLIM FILIPINOS ACT)"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING BETTER SERVICES TO MUSLIM FILIPINO PILGRIMS THROU
 scope = "National"
 subjects = [ "National Commission on Muslim Filipinos",]
 authors_raw = "Padilla, Robinhood"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator ROBINHOOD PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committee on CULTURAL COMMUNITIES AND MUSLIM AFFAIRS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Cultural Communities and Muslim Affairs"

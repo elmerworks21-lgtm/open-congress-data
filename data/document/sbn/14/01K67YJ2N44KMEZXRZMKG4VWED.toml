@@ -1,8 +1,11 @@
 id = "01K67YJ2N44KMEZXRZMKG4VWED"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02545"
+
+[meta]
 bill_number = 2545
 congress = 14
-canonical = "SBN-02545"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2545", "https://web.senate.gov.ph/lisdata/80977318!.pdf",]
 title = "DEPARTMENT OF AGRICULTURE AND FISHERIES RATIONALIZATION ACT OF 2008"
 date_filed = "2008-08-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING THE AGRICULTURE AND FISHERIES BUREAUCRACY RED
 scope = "National"
 subjects = [ "Department of Agriculture and Fisheries Rationalization Act",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-14"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2008"
+date = "2008-08-19"
 
 [[committees]]
 name = "Agriculture and Food"

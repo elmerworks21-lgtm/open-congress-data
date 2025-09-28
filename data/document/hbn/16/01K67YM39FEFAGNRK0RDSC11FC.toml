@@ -1,26 +1,30 @@
 id = "01K67YM39FEFAGNRK0RDSC11FC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06422"
+
+[meta]
 bill_number = 6422
 congress = 16
-canonical = "HBN-06422"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-6422", "https://web.senate.gov.ph/lisdata/2326919913!.pdf",]
 title = "HOSPICE AND PALLIATIVE CARE ACT"
 long_title = "AN ACT INTEGRATING HOSPICE AND PALLIATIVE CARE INTO THE PHILIPPINE HEALTH CARE SYSTEM"
 scope = "National"
 subjects = [ "Palliative Care",]
-[[legislative_history]]
+
+[[history]]
 date = "2016-05-25"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Motion of the Majority Leader, Senator Alan Peter Compañero S. Cayetano, that the matters appearing in the Reference of Business for todays session be deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "5/30/2016"
+date = "2016-05-30"
 

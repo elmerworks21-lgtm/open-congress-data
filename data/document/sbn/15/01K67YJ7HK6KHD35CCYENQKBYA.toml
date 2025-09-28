@@ -1,8 +1,11 @@
 id = "01K67YJ7HK6KHD35CCYENQKBYA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00498"
+
+[meta]
 bill_number = 498
 congress = 15
-canonical = "SBN-00498"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-498", "https://web.senate.gov.ph/lisdata/80056786!.pdf",]
 title = "QUALIFICATION OF SECRETARIES OF THE DEPARTMENT OF NATIONAL DEFENSE, ADMINSTRATIVE CODE OF 1987"
 date_filed = "2010-07-07"
@@ -10,25 +13,26 @@ long_title = "AN ACT AMENDING THE ADMINISTRATIVE CODE OF 1987 BY PROHIBITING A P
 scope = "National"
 subjects = [ "Department of National Defense (DND)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-07"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-04"
 action = "Read on First Reading and Referred to the Committee on NATIONAL DEFENSE AND SECURITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-02"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2010"
+date = "2010-08-04"
 
 [[committees]]
 name = "National Defense and Security"

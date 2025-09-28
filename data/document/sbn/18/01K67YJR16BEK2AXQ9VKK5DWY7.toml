@@ -1,8 +1,11 @@
 id = "01K67YJR16BEK2AXQ9VKK5DWY7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02286"
+
+[meta]
 bill_number = 2286
 congress = 18
-canonical = "SBN-02286"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2286", "https://web.senate.gov.ph/lisdata/3526732135!.pdf",]
 title = "STRONGER PUBLIC HEALTH EMERGENCY RESPONSE (SPHERE) ACT"
 date_filed = "2021-06-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING PUBLIC HEALTH EMERGENCY PREPAREDNESS IN THE P
 scope = "National"
 subjects = [ "Public Health Emergency Response",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-03"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2021"
+date = "2021-07-28"
 
 [[committees]]
 name = "Health and Demography"

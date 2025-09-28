@@ -1,8 +1,11 @@
 id = "01K67YJQ0PM1ASD8X33Y8X0NZT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00938"
+
+[meta]
 bill_number = 938
 congress = 18
-canonical = "SBN-00938"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-938", "https://web.senate.gov.ph/lisdata/3133228228!.pdf",]
 title = "TUBIG PARA SA MGA EMPLEYADO ACT"
 date_filed = "2019-08-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING ALL EMPLOYERS IN THE PRIVATE AND PUBLIC SECTORS, 
 scope = "National"
 subjects = [ "Drinking Water", "Government Employees",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-20"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-27"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2019"
+date = "2019-08-27"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

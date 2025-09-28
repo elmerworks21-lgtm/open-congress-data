@@ -1,8 +1,11 @@
 id = "01K67YJDCG1AP3ZA3VEH9P2R5H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01706"
+
+[meta]
 bill_number = 1706
 congress = 16
-canonical = "SBN-01706"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1706", "https://web.senate.gov.ph/lisdata/1784815074!.pdf",]
 title = "EDUCATIONAL BENEFITS FOR MINOR CHILDREN AND DEPENDENTS OF LAW ENFORCEMENT OFFICERS"
 date_filed = "2013-09-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR EDUCATIONAL BENEFITS FOR MINOR CHILDREN AND D
 scope = "National"
 subjects = [ "Educational Benefits", "Armed Forces of the Philippines (AFP)", "Philippine National Police (PNP)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-17"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-24"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/24/2013"
+date = "2013-09-24"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

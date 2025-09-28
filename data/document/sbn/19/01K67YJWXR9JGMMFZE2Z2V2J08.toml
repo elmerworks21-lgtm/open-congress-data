@@ -1,8 +1,11 @@
 id = "01K67YJWXR9JGMMFZE2Z2V2J08"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02788"
+
+[meta]
 bill_number = 2788
 congress = 19
-canonical = "SBN-02788"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2788", "https://web.senate.gov.ph/lisdata/4465540606!.pdf",]
 title = "ASSISTANCE TO INDIVIDUALS IN CRISIS SITUATION (AICS) ACT"
 date_filed = "2024-08-14"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR AID TO INDIVIDUALS AND FAMILIES SEEKING MEDIC
 scope = "National"
 subjects = [ "Assistance to Individuals in Crises Situation (AICS)",]
 authors_raw = "Tulfo, Raffy T., Angara, Sonny, Marcos, Imee R., Go, Christopher Lawrence T., Gatchalian, Win, Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-14"
 action = "Prepared and submitted jointly by the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE with Senators RAFFY T. TULFO, SONNY ANGARA, IMEE R. MARCOS, CHRISTOPHER LAWRENCE T. GO and WIN GATCHALIAN as authors per Committee Report No. 299, recommending its approval in substitution of S. Nos. 1821, 2032, 2328 and 2638;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Sponsor: Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Letter from Senator LOREN B. LEGARDA dated September 4, 2024, expressing her intention to co-author SBN-1821 (SBN-2788), received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "8/19/2024"
+date = "2024-08-19"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

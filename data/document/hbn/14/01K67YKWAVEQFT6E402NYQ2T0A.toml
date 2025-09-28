@@ -1,24 +1,28 @@
 id = "01K67YKWAVEQFT6E402NYQ2T0A"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04592"
+
+[meta]
 bill_number = 4592
 congress = 14
-canonical = "HBN-04592"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4592", "https://web.senate.gov.ph/lisdata/84817679!.pdf",]
 title = "MOBO CROSSING - DACU NATIONAL ROAD (MASBATE)"
 long_title = "AN ACT CONVERTING THE MOBO CROSSING - DACU ROAD IN THE MUNICIPALITY OF MOBO, PROVINCE OF MASBATE INTO A NATIONAL SECONDARY ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representative ANTONIO T. KHO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2008"
+date = "2008-09-17"
 
 [[committees]]
 name = "Public Works"

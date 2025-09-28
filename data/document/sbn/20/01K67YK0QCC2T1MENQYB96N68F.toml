@@ -1,8 +1,11 @@
 id = "01K67YK0QCC2T1MENQYB96N68F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01297"
+
+[meta]
 bill_number = 1297
 congress = 20
-canonical = "SBN-01297"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1297", "https://web.senate.gov.ph/lisdata/4794743968!.pdf",]
 title = "ABOLISHING SENIOR HIGH SCHOOL EDUCATION ACT"
 date_filed = "2025-08-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT RESTRUCTURING THE PHILIPPINE BASIC EDUCATION SYSTEM BY ABOL
 scope = "National"
 subjects = [ "Senior High School", "Enhanced Basic Education Act (R.A.No. 10533)", "Basic Education/Basic Education Institutions",]
 authors_raw = "Padilla, Robinhood"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-27"
 action = "Introduced by Senator ROBINHOOD PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-16"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2025"
+date = "2025-09-16"
 
 [[committees]]
 name = "Basic Education"

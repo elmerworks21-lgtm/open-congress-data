@@ -1,24 +1,28 @@
 id = "01K67YKRC6RFMVVPE7YT0E6312"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05846"
+
+[meta]
 bill_number = 5846
 congress = 13
-canonical = "HBN-05846"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5846", "https://web.senate.gov.ph/lisdata/67325517!.pdf",]
 title = "ANTI-TORTURE ACT"
 long_title = "AN ACT PENALIZING THE COMMISSION OF ACTS OF TORTURE AND OTHER CRUEL, INHUMAN AND DEGRADING TREATMENT OR PUNISHMENTS, PRESCRIBING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Anti-Torture Act of 2004",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives SATUR C. OCAMPO, TEODORO A. CASINO, ET. AL.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Justice and Human Rights"

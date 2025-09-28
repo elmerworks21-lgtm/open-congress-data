@@ -1,8 +1,11 @@
 id = "01K67YCP0D6V39VPNK62FSJ1YK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01136"
+
+[meta]
 bill_number = 1136
 congress = 13
-canonical = "SBN-01136"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1136", "https://web.senate.gov.ph/lisdata/23421630!.pdf",]
 title = "SSS MEMBERS PENSIONS INCREASE"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING PENSIONS UNDER THE SOCIAL SECURITY SYSTEM AMENDI
 scope = "National"
 subjects = [ "Sss Pensions Increase (R.A.No. 1161)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

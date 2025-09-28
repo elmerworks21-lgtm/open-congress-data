@@ -1,24 +1,28 @@
 id = "01K67YM68PZYYXXK8MTKXQ0VHV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06923"
+
+[meta]
 bill_number = 6923
 congress = 17
-canonical = "HBN-06923"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6923", "https://web.senate.gov.ph/lisdata/2724023462!.pdf",]
 title = "REVISED CHARTER OF THE PHILIPPINE CROP INSURANCE CORPORATION"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE CROP INSURANCE CORPORATION (PCIC), REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1467, ENTITLED CREATING THE PHILIPPINE CROP INSURANCE CORPORATION PRESCRIBING ITS POWERS AND ACTIVITIES, PROVIDING FOR ITS CAPITALIZATION AND FOR THE REQUIRED GOVERNMENT PREMIUM SUBSIDY, AND FOR OTHER PURPOSES, AS AMENDED BY PRESIDENTIAL DECREE NO. 1733 AND REPUBLIC ACT NO. 8175"
 scope = "National"
 subjects = [ "Philippine Crop Insurance Corporation",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-01-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-05"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; AGRICULTURE AND FOOD; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2018"
+date = "2018-02-05"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

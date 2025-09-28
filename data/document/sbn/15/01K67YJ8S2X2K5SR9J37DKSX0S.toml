@@ -1,8 +1,11 @@
 id = "01K67YJ8S2X2K5SR9J37DKSX0S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02443"
+
+[meta]
 bill_number = 2443
 congress = 15
-canonical = "SBN-02443"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2443", "https://web.senate.gov.ph/lisdata/101348604!.pdf",]
 title = "PROVISION RELIEF TO VICTIMS OF TYPHOONS OR OTHER SIMILAR DISASTERS"
 date_filed = "2010-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING PROVISION RELIEF TO CERTAIN VICTIMS OF TYPHOONS, 
 scope = "National"
 subjects = [ "Tax Incentives",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-08-23"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-22"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2010"
+date = "2010-09-22"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJVHYCNYFWE5FWAN7V2HP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00987"
+
+[meta]
 bill_number = 987
 congress = 19
-canonical = "SBN-00987"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-987", "https://web.senate.gov.ph/lisdata/3893535388!.pdf",]
 title = "CALAMITIES’ HAZARD MITIGATION PROGRAM ACT"
 date_filed = "2022-08-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE PHILIPPINE INSTITUTE OF VOLCANOLOGY AND SEISM
 scope = "National"
 subjects = [ "Calamity/Disaster", "Philippine Institute of Volcanology and Seismology (Phivolcs)", "Pagasa (Philippine Atmospheric, Geophysical and Astronomical Services Administration)",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-02"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-05"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2022"
+date = "2022-09-05"
 
 [[committees]]
 name = "Science and Technology"

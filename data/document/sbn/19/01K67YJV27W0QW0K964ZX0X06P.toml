@@ -1,8 +1,11 @@
 id = "01K67YJV27W0QW0K964ZX0X06P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00280"
+
+[meta]
 bill_number = 280
 congress = 19
-canonical = "SBN-00280"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-280", "https://web.senate.gov.ph/lisdata/3793834381!.pdf",]
 title = "COMPREHENSIVE ASSISTANCE PROGRAM FOR PUBLIC UTILITY VEHICLE DRIVERS ACT"
 date_filed = "2022-07-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR ADDITIONAL BENEFITS AND PROTECTION TO PUBLIC 
 scope = "National"
 subjects = [ "Public Utility Vehicle Drivers",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Public Services"

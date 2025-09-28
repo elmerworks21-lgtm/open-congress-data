@@ -1,8 +1,11 @@
 id = "01K67YJ96M813WB76J35MKDWX7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02812"
+
+[meta]
 bill_number = 2812
 congress = 15
-canonical = "SBN-02812"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2812", "https://web.senate.gov.ph/lisdata/112129536!.pdf",]
 title = "RADYO DE ORO CORPORATION (FRANCHISE)"
 date_filed = "2011-05-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING THE RADYO DE ORO CORPORATION FRANCHISE TO CONSTRUC
 scope = "Local"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-10"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-11"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/11/2011"
+date = "2011-05-11"
 
 [[committees]]
 name = "Rules"

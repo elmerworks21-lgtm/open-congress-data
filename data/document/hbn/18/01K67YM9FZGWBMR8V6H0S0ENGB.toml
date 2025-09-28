@@ -1,24 +1,28 @@
 id = "01K67YM9FZGWBMR8V6H0S0ENGB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08255"
+
+[meta]
 bill_number = 8255
 congress = 18
-canonical = "HBN-08255"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8255", "https://web.senate.gov.ph/lisdata/3435531165!.pdf",]
 title = "SCHOOL DIVISION OFFICE, FIRST DISTRICT OF ZAMBOANGA SIBUGAY"
 long_title = "AN ACT ESTABLISHING IN THE MUNICIPALITY OF DIPLAHAN, PROVINCE OF ZAMBOANGA SIBUGAY, A SEPARATE SCHOOLS DIVISION OFFICE FOR THE FIRST DISTRICT OF ZAMBOANGA SIBUGAY, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-25"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-26"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/26/2021"
+date = "2021-01-26"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

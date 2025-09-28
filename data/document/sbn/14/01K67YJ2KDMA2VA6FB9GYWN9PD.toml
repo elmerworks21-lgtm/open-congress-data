@@ -1,8 +1,11 @@
 id = "01K67YJ2KDMA2VA6FB9GYWN9PD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02460"
+
+[meta]
 bill_number = 2460
 congress = 14
-canonical = "SBN-02460"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2460", "https://web.senate.gov.ph/lisdata/79167131!.pdf",]
 title = "ARTIS, EDWARD A."
 date_filed = "2008-07-22"
@@ -10,89 +13,90 @@ long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO EDWARD A. ARTIS"
 scope = "Local"
 subjects = [ "Citizenship, Philippine",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-22"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-05"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-15"
 action = "Transferred from the Committee on Rules to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-20"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 557, recommending its approval without amendment, taking into consideration HBN-2022;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-24"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-24"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Sponsorship speech of Senator GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Period of interpellations closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Period of amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Approved on Second Reading without Amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-11"
 action = "Printed copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-16"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-16"
 action = "In favor: (13) EDGARDO J. ANGARA, BENIGNO S. AQUINO III, JOKER P. ARROYO, 'COMPANERA' PIA S. CAYETANO, JINGGOY P. EJERCITO-ESTRADA, JUAN PONCE ENRILE, FRANCIS 'CHIZ' G. ESCUDERO, GREGORIO B. HONASAN II, PANFILO M. LACSON, MANUEL 'LITO' M. LAPID, LOREN B. LEGARDA, AQUILINO Q. PIMENTEL JR. and JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-16"
 action = "Against: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-16"
 action = "Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-03"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-31"
 action = "Senate concurred to HBN-2022;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-30"
 action = "Consolidated with HBN-2022 which was lapsed into law on August 20, 2010 and became;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-30"
 action = "REPUBLIC ACT NO. 10144."
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "5/31/2010"
+date = "2010-05-31"
 
 [[committees]]
 name = "Justice and Human Rights"

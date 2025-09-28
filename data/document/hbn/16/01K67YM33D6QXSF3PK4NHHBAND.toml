@@ -1,24 +1,28 @@
 id = "01K67YM33D6QXSF3PK4NHHBAND"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05768"
+
+[meta]
 bill_number = 5768
 congress = 16
-canonical = "HBN-05768"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5768", "https://web.senate.gov.ph/lisdata/2159218374!.pdf",]
 title = "PROVINCE OF AKLAN, REAPPORTIONMENT INTO TWO LEGISLATIVE DISTRICTS"
 long_title = "AN ACT PROVIDING FOR THE REAPPORTIONMENT OF THE PROVINCE OF AKLAN INTO TWO (2) LEGISLATIVE DISTRICTS"
 scope = "Local"
 subjects = [ "Legislative Districts",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-06-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-08"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2015"
+date = "2015-06-08"
 
 [[committees]]
 name = "Local Government"

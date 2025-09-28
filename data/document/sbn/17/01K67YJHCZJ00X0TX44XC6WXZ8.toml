@@ -1,8 +1,11 @@
 id = "01K67YJHCZJ00X0TX44XC6WXZ8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00374"
+
+[meta]
 bill_number = 374
 congress = 17
-canonical = "SBN-00374"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-374", "https://web.senate.gov.ph/lisdata/2381220476!.pdf",]
 title = "HOMES FOR ABANDONED SENIOR ACT OF 2016"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NURSING HOME FOR HOMELESS AND ABANDONED SENI
 scope = "National"
 subjects = [ "Senior Citizen/Elderly", "Homeless", "Abandonment",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; LOCAL GOVERNMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

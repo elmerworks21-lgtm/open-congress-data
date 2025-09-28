@@ -1,8 +1,11 @@
 id = "01K67YCPSTXK74TBSCN5Y436Y1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02457"
+
+[meta]
 bill_number = 2457
 congress = 13
-canonical = "SBN-02457"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2457", "https://web.senate.gov.ph/lisdata/59734884!.pdf",]
 title = "BATAAN PENINSULA STATE UNIVERSITY (BPSU)"
 date_filed = "2006-09-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE BATAAN POLYTECHNIC STATE COLLEGE IN THE PROV
 scope = "Local"
 subjects = [ "Bataan Peninsula State University (BPSU)", "State Colleges/Universities (SCUS)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-05"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-06"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2006"
+date = "2006-09-06"
 
 [[committees]]
 name = "Education, Arts and Culture"

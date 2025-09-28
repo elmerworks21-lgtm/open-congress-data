@@ -1,8 +1,11 @@
 id = "01K67YJ2HA1DH96XQ1QYH9X1XP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02385"
+
+[meta]
 bill_number = 2385
 congress = 14
-canonical = "SBN-02385"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2385", "https://web.senate.gov.ph/lisdata/76416877!.pdf",]
 title = "TIMBANGAN NG BAYAN CENTER"
 date_filed = "2008-06-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TIMBANGAN NG BAYAN CEN
 scope = "National"
 subjects = [ "Consumers Act (RA 7394)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-06-10"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-10"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/10/2008"
+date = "2008-06-10"
 
 [[committees]]
 name = "Trade and Commerce"

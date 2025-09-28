@@ -1,24 +1,28 @@
 id = "01K67YM325Y1P1ZP2W9NYFHQ96"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05643"
+
+[meta]
 bill_number = 5643
 congress = 16
-canonical = "HBN-05643"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5643", "https://web.senate.gov.ph/lisdata/2144818247!.pdf",]
 title = "FISHERY BREEDING FARM AND HATCHERY (MUNICIPALITY OF CALAUAG, PROVINCE OF QUEZON)"
 long_title = "AN ACT ESTABLISHING A MULTIPURPOSE FISHERY BREEDING FARM AND HATCHERY FOR THE PRODUCTION AND MULTIPLICATION OF CRABS AND SHRIMPS IN THE MUNICIPALITY OF CALAUAG, PROVINCE OF QUEZON AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Fishery Breeding Farm and Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-26"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/26/2015"
+date = "2015-05-26"
 
 [[committees]]
 name = "Agriculture and Food"

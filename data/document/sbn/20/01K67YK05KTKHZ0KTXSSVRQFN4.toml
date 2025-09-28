@@ -1,8 +1,11 @@
 id = "01K67YK05KTKHZ0KTXSSVRQFN4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00624"
+
+[meta]
 bill_number = 624
 congress = 20
-canonical = "SBN-00624"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-624", "https://web.senate.gov.ph/lisdata/4704943051!.pdf",]
 title = "DISCONTINUING THE USE OF THE SPIRAL PROGRESSION APPROACH IN THE BASIC EDUCATION CURRICULUM"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT DISCONTINUING THE USE OF THE SPIRAL PROGRESSION APPROACH IN
 scope = "National"
 subjects = [ "Enhanced Basic Education Act (R.A.No. 10533)", "Basic Education/Basic Education Institutions", "Curriculum/Curricula",]
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator WIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committee on BASIC EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Basic Education"

@@ -1,8 +1,11 @@
 id = "01K67YJD51WQYA4R5BXQPB5QRD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01349"
+
+[meta]
 bill_number = 1349
 congress = 16
-canonical = "SBN-01349"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1349", "https://web.senate.gov.ph/lisdata/1744414678!.pdf",]
 title = "HUMAN RIGHTS DAY ACT"
 date_filed = "2013-08-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING DECEMBER TEN OF EVERY YEAR AS A SPECIAL WORKING H
 scope = "National"
 subjects = [ "Holidays (Special Working)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-22"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2013"
+date = "2013-09-03"
 
 [[committees]]
 name = "Education, Arts and Culture"

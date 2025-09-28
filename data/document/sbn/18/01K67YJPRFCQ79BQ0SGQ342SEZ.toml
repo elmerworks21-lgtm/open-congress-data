@@ -1,8 +1,11 @@
 id = "01K67YJPRFCQ79BQ0SGQ342SEZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00554"
+
+[meta]
 bill_number = 554
 congress = 18
-canonical = "SBN-00554"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-554", "https://web.senate.gov.ph/lisdata/3083227771!.pdf",]
 title = "MINDANAO RAILWAYS AUTHORITY ACT OF 2019"
 date_filed = "2019-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE MINDANAO RAILWAYS AUTHORITY PRESCRIBING ITS PO
 scope = "National"
 subjects = [ "Mindanao Railways Authority",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-16"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; PUBLIC SERVICES; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

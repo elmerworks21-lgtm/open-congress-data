@@ -1,8 +1,11 @@
 id = "01K67YJHFN81XE4A7QGKKPT9QZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00465"
+
+[meta]
 bill_number = 465
 congress = 17
-canonical = "SBN-00465"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-465", "https://web.senate.gov.ph/lisdata/2390220529!.pdf",]
 title = "ALLOWING PURCHASE OF EQUIPMENT BEING USED BY THE ARMED FORCES OF ANOTHER COUNTRY"
 date_filed = "2016-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 4(B) OF REPUBLIC ACT NO. 7898, OTHERWISE K
 scope = "National"
 subjects = [ "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee on NATIONAL DEFENSE AND SECURITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "National Defense and Security"

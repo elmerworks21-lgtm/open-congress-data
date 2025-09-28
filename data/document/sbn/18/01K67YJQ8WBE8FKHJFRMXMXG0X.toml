@@ -1,25 +1,29 @@
 id = "01K67YJQ8WBE8FKHJFRMXMXG0X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01288"
+
+[meta]
 bill_number = 1288
 congress = 18
-canonical = "SBN-01288"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1288", "https://web.senate.gov.ph/lisdata/3219029031!.pdf",]
 title = "OFFICE OF THE SURGEON GENERAL OF THE PHILIPPINES ACT OF 2020"
 date_filed = "2020-01-22"
 long_title = "AN ACT CREATING THE OFFICE OF THE SURGEON GENERAL OF THE PHILIPPINES, PROVIDING ITS FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "National"
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2020-01-22"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-27"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/27/2020"
+date = "2020-01-27"
 
 [[committees]]
 name = "Health and Demography"

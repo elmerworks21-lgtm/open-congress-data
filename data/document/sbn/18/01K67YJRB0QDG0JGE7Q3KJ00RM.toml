@@ -1,8 +1,11 @@
 id = "01K67YJRB0QDG0JGE7Q3KJ00RM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02511"
+
+[meta]
 bill_number = 2511
 congress = 18
-canonical = "SBN-02511"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2511", "https://web.senate.gov.ph/lisdata/3741433801!.pdf",]
 title = "AMENDING MENTAL HEALTH ACT"
 date_filed = "2022-03-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11036 OTHERWISE KNOWN AS THE 'MEN
 scope = "National"
 subjects = [ "Mental Health", "Health Facilities",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-03-23"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJJB6MNM8XSJSBXTWQYGY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01609"
+
+[meta]
 bill_number = 1609
 congress = 17
-canonical = "SBN-01609"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1609", "https://web.senate.gov.ph/lisdata/2687523088!.pdf",]
 title = "AMENDING R.A. NO. 8049 (REGULATING HAZING AND OTHER FORMS OF INITIATION RITES)"
 date_filed = "2017-11-08"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8049 ENTITLED ‘AN ACT REGULATIN
 scope = "National"
 subjects = [ "Hazing",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2017-11-08"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-20"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-23"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS, JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES per Committee Report No. 233, recommending that it be substituted by SBN-1662;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-23"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-23"
 action = "SUBSTITUTED BY SBN-1662 UNDER COMMITTEE REPORT NO. 233 WHICH BECAME R.A.NO. 11053 ON JUNE 29, 2018."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/23/2018"
+date = "2018-01-23"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

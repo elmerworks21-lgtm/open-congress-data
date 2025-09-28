@@ -1,8 +1,11 @@
 id = "01K67YCPGBZXNR8PQV8F60YBDA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01970"
+
+[meta]
 bill_number = 1970
 congress = 13
-canonical = "SBN-01970"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1970", "https://web.senate.gov.ph/lisdata/32972450!.pdf",]
 title = "INCREASING THE NUMBER OF SANDIGANBAYAN DIVISIONS"
 date_filed = "2005-03-22"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE NUMBER OF SANDIGANBAYAN DIVISIONS, AND AMEND
 scope = "National"
 subjects = [ "Sandiganbayan Divisions, Increasing", "P.D.No. 1606; RA Nos. 7975/8249",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-22"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-30"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/30/2005"
+date = "2005-03-30"
 
 [[committees]]
 name = "Justice and Human Rights"

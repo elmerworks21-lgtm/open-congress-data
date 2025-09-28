@@ -1,8 +1,11 @@
 id = "01K67YJ19PZK9EXK5H6AA8W827"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00862"
+
+[meta]
 bill_number = 862
 congress = 14
-canonical = "SBN-00862"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-862", "https://web.senate.gov.ph/lisdata/51064479!.pdf",]
 title = "PHILIPPINE SPORTS ASSOCIATION FOR THE DIFFERENTLY-ABLED (PHILSPADA)"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT 6847, OTHERWISE
 scope = "National"
 subjects = [ "R.A.No. 6847 (Philippine Sports Commission Law), Amendments",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on GAMES, AMUSEMENT AND SPORTS; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Games, Amusement and Sports"

@@ -1,60 +1,64 @@
 id = "01K67YKZSRN7KJDTDKMY075GDY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04434"
+
+[meta]
 bill_number = 4434
 congress = 15
-canonical = "HBN-04434"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4434", "https://web.senate.gov.ph/lisdata/113199862!.pdf",]
 title = "NATIONAL CONSCIOUSNESS DAY FOR THE ELIMINATION OF VIOLENCE AGAINST WOMEN"
 long_title = "AN ACT DECLARING NOVEMBER 25 OF EVERY YEAR AS 'NATIONAL CONSCIOUSNESS DAY FOR THE ELIMINATION OF VIOLENCE AGAINST WOMEN'"
 scope = "National"
 subjects = [ "Violence Against Women",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-25"
 action = "Read on First Reading and Referred to the Committee on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-15"
 action = "Returned by the Committee on YOUTH, WOMEN AND FAMILY RELATIONS per Committee Report No. 481, recommending that it be considered in SBN-2080;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-20"
 action = "CONSIDERED IN SBN-2080, UNDER COMMITTEE REPORT NO. 481."
 
-[[legislative_history]]
+[[history]]
 date = "2013-01-28"
 action = "House of Representatives adopted SBN-2080 as an amendment to HBN-4434 on January 21, 2013;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-13"
 action = "Enrolled copies of the consolidated version of SBN-2080 and HBN-4434, sent to the House of Representatives for the signature of the Speaker and the Secretary General;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-20"
 action = "Enrolled copies of the consolidated version of SBN-2080 and HBN-4434, received by the Senate, already signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-21"
 action = "Enrolled copies of the consolidated version of SBN-2080 and HBN-4434, sent to the Office of the President of the Philippines through PLLO, for the signature and approval of His Excellency President Benigno S. Aquino III;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-03-19"
 action = "Consolidated with SBN-2080, which was Approved and Signed into Law by the President of the Philippines His Excellency President Benigno S. Aquino III and became;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-03-19"
 action = "REPUBLIC ACT NO. 10398"
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "3/19/2013"
+date = "2013-03-19"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

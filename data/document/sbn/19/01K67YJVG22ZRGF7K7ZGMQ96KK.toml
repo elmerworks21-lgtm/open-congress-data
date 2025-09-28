@@ -1,8 +1,11 @@
 id = "01K67YJVG22ZRGF7K7ZGMQ96KK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00909"
+
+[meta]
 bill_number = 909
 congress = 19
-canonical = "SBN-00909"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-909", "https://web.senate.gov.ph/lisdata/3865835112!.pdf",]
 title = "INCREASING THE HAZARD PAY OF ALL PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES"
 date_filed = "2022-07-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE HAZARD PAY OF ALL PERSONNEL OF THE ARMED FOR
 scope = "National"
 subjects = [ "Hazard Pay", "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-27"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

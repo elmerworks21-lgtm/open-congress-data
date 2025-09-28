@@ -1,8 +1,11 @@
 id = "01K67YJTYJ06WN02GM9KCM34A9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00115"
+
+[meta]
 bill_number = 115
 congress = 19
-canonical = "SBN-00115"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-115", "https://web.senate.gov.ph/lisdata/3782334264!.pdf",]
 title = "PHILIPPINE CROP INSURANCE CORPORATION ACT"
 date_filed = "2022-07-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT STRENGTHENING THE PHILIPPINE CROP INSURANCE CORPORATION, RE
 scope = "National"
 subjects = [ "Philippine Crop Insurance Corporation",]
 authors_raw = "Binay, Maria Lourdes Nancy S., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; AGRICULTURE, FOOD AND AGRARIAN REFORM; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-13"
 action = "Letter from Senator JOEL VILLANUEVA dated December 6, 2022, conveying his intention to be made co-author of SBN-115, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-18"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

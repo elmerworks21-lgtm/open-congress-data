@@ -1,8 +1,11 @@
 id = "01K67YCPS2YF0XDN7HX1MSKR14"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02415"
+
+[meta]
 bill_number = 2415
 congress = 13
-canonical = "SBN-02415"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2415", "https://web.senate.gov.ph/lisdata/57154716!.pdf",]
 title = "FORMER PRISONERS EMPLOYMENT ACT OF 2006"
 date_filed = "2006-07-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING THE FORMER PRISONERS' EMPLOYMENT PROGRAM, AND A
 scope = "National"
 subjects = [ "Former Prisoners Employment Act",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2006-07-27"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2006"
+date = "2006-08-01"
 
 [[committees]]
 name = "Justice and Human Rights"

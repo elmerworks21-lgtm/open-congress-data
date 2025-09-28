@@ -1,8 +1,11 @@
 id = "01K67YJVG53XSXJSV8SE0SEZGC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00912"
+
+[meta]
 bill_number = 912
 congress = 19
-canonical = "SBN-00912"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-912", "https://web.senate.gov.ph/lisdata/3866735121!.pdf",]
 title = "MAGNA CARTA FOR THE PHILIPPINE NATIONAL POLICE"
 date_filed = "2022-07-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR THE PHILIPPINE NATIONAL POL
 scope = "National"
 subjects = [ "Magna Carta for the Philippine National Police (PNP)",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-27"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

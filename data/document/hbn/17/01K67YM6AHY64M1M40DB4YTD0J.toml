@@ -1,36 +1,40 @@
 id = "01K67YM6AHY64M1M40DB4YTD0J"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07266"
+
+[meta]
 bill_number = 7266
 congress = 17
-canonical = "HBN-07266"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7266", "https://web.senate.gov.ph/lisdata/2758623873!.pdf",]
 title = "RURAL EMPLOYMENT ASSISTANCE PROGRAM ACT"
 long_title = "AN ACT PROVIDING FOR A RURAL EMPLOYMENT ASSISTANCE PROGRAM AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Rural Employment",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-03-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-19"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-29"
 action = "Returned jointly by the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT, LOCAL GOVERNMENT and FINANCE per Committee Report No. 524, recommending that it be considered in SBN-2119;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "CONSIDERED IN SBN-2119 UNDER COMMITTEE REPORT NO. 524."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/3/2018"
+date = "2018-12-03"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

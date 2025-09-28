@@ -1,40 +1,44 @@
 id = "01K67YKZWBM7WAZ4TG6ABEB7BT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04679"
+
+[meta]
 bill_number = 4679
 congress = 15
-canonical = "HBN-04679"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4679", "https://web.senate.gov.ph/lisdata/115659832!.pdf",]
 title = "HERMANO PULI (PROVINCE OF QUEZON)"
 long_title = "AN ACT DECLARING NOVEMBER 4 OF EVERY YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF QUEZON"
 scope = "Local"
 subjects = [ "Holidays (Non-Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-06-08"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-08"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-12"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 477, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-13"
 action = "Sponsor: Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "11/13/2012"
+date = "2012-11-13"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YCNTJHRSK6BMTT5VRBEQM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00827"
+
+[meta]
 bill_number = 827
 congress = 13
-canonical = "SBN-00827"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-827", "https://web.senate.gov.ph/lisdata/20251498!.pdf",]
 title = "LOCAL GOVERNMENT UNITS CALAMITY FUNDS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT SETTING ASIDE TWENTY-FIVE PERCENT (25%) OF THE LOCAL GOVERN
 scope = "National"
 subjects = [ "Calamity Funds (LGUS)", "Local Government Code, Amendment",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Local Government"

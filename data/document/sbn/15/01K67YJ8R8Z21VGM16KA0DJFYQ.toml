@@ -1,8 +1,11 @@
 id = "01K67YJ8R8Z21VGM16KA0DJFYQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02407"
+
+[meta]
 bill_number = 2407
 congress = 15
-canonical = "SBN-02407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2407", "https://web.senate.gov.ph/lisdata/100528617!.pdf",]
 title = "REVISING THE SCHOOL CALENDAR"
 date_filed = "2010-08-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT REVISING THE SCHOOL CALENDAR, AMENDING FOR THE PURPOSE SECT
 scope = "National"
 subjects = [ "School Calendar", "Administrative Code of 1987 (E.O.No. 292)",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2010-08-12"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-22"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2010"
+date = "2010-09-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

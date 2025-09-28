@@ -1,8 +1,11 @@
 id = "01K67YCP8SKDRYJAZ05ACJ5NWW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01598"
+
+[meta]
 bill_number = 1598
 congress = 13
-canonical = "SBN-01598"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1598", "https://web.senate.gov.ph/lisdata/28242190!.pdf",]
 title = "DRUGS AND ALCOHOL TESTING FOR DRIVERS ACT"
 date_filed = "2004-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR DRUG AND ALCOHOL TESTING FOR DRIVERS OF PUBLI
 scope = "National"
 subjects = [ "Drugs & Alcohol Testing for Drivers Act", "Drivers (Public Utility Vehicles)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES; and PUBLIC ORDER AND ILLEGAL DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Public Services"

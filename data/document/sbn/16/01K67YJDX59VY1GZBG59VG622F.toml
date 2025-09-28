@@ -1,8 +1,11 @@
 id = "01K67YJDX59VY1GZBG59VG622F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02442"
+
+[meta]
 bill_number = 2442
 congress = 16
-canonical = "SBN-02442"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2442", "https://web.senate.gov.ph/lisdata/2008717198!.pdf",]
 title = "ANTI- EXPLOITATION OF VOLUNTEER REGISTERED NURSES ACT"
 date_filed = "2014-10-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE EXPLOITATION OF VOLUNTEER REGISTERED NURSES
 scope = "National"
 subjects = [ "Nurses",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2014-10-30"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-11-18"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/18/2014"
+date = "2014-11-18"
 
 [[committees]]
 name = "Health and Demography"

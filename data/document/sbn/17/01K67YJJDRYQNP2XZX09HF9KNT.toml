@@ -1,8 +1,11 @@
 id = "01K67YJJDRYQNP2XZX09HF9KNT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01700"
+
+[meta]
 bill_number = 1700
 congress = 17
-canonical = "SBN-01700"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1700", "https://web.senate.gov.ph/lisdata/2738323613!.pdf",]
 title = "HAZARD PAY FOR PUBLIC PROSECUTORS ACT"
 date_filed = "2018-02-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING HAZARD PAY TO ALL PUBLIC PROSECUTORS, ASSOCIATE PR
 scope = "National"
 subjects = [ "Hazard Pay", "Prosecutor",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2018-02-21"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-21"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/21/2018"
+date = "2018-02-21"
 
 [[committees]]
 name = "Justice and Human Rights"

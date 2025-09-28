@@ -1,8 +1,11 @@
 id = "01K67YJHZZ8NM8XMZP83NWKEHK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01218"
+
+[meta]
 bill_number = 1218
 congress = 17
-canonical = "SBN-01218"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1218", "https://web.senate.gov.ph/lisdata/2504821580!.pdf",]
 title = "CONVERTING THE MARAYMARAY BARANGAY ROAD"
 date_filed = "2016-10-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE MARAYMARAY BARANGAY ROAD IN THE MUNICIPALITY
 scope = "Local"
 subjects = [ "Roads, Conversion",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-10-19"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-07"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2016"
+date = "2016-11-07"
 
 [[committees]]
 name = "Rules"

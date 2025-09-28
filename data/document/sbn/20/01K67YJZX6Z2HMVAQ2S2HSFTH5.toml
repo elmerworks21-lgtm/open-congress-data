@@ -1,8 +1,11 @@
 id = "01K67YJZX6Z2HMVAQ2S2HSFTH5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00175"
+
+[meta]
 bill_number = 175
 congress = 20
-canonical = "SBN-00175"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-175", "https://web.senate.gov.ph/lisdata/4665242657!.pdf",]
 title = "P100 DAILY MINIMUM WAGE INCREASE ACT OF 2025"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A ONE HUNDRED PESOS (PIOO.OO) DAILY MINIMUM W
 scope = "National"
 subjects = [ "Wage Increase", "Salary Increase",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

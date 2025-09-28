@@ -1,8 +1,11 @@
 id = "01K67YJPCB6V6ZQMG7VZ916599"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00007"
+
+[meta]
 bill_number = 7
 congress = 18
-canonical = "SBN-00007"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-7", "https://web.senate.gov.ph/lisdata/3022327083!.pdf",]
 title = "THE HYBRID ELECTION ACT"
 date_filed = "2019-07-01"
@@ -10,49 +13,50 @@ long_title = "AN ACT PROVIDING FOR THE CONDUCT OF HYBRID NATIONAL, LOCAL AND ARM
 scope = "National"
 subjects = [ "Hybrid Election", "Elections/Electoral Reforms",]
 authors_raw = "Sotto III, Vicente C., Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on ELECTORAL REFORMS AND PEOPLES PARTICIPATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Letter of Senator CYNTHIA A. VILLAR dated August 5, 2019, conveying her intention to be made co-author of SBN-7 received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-15"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-14"
 action = "Returned and submitted jointly by the Committee(s) on ELECTORAL REFORMS AND PEOPLES PARTICIPATION and FINANCE per Committee Report No. 151, recommending that it be substituted by SBN-1950;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-14"
 action = "SUBSTITUTED BY SBN-1950 UNDER COMMITTEE REPORT NO. 151."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/14/2020"
+date = "2020-12-14"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

@@ -1,24 +1,28 @@
 id = "01K67YKRA3W4NG1JDRPCX54YJG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05589"
+
+[meta]
 bill_number = 5589
 congress = 13
-canonical = "HBN-05589"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5589", "https://web.senate.gov.ph/lisdata/62605189!.pdf",]
 title = "SAN ROQUE NATIONAL HIGH SCHOOL (SARANGANI)"
 long_title = "AN ACT SEPARATING THE MALUNGON NATIONAL HIGH SCHOOL – SAN ROQUE ANNEX IN BARANGAY SAN ROQUE, MUNICIPALITY OF MALUNGON, PROVINCE OF SARANGANI FROM THE MALUNGON NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SAN ROQUE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Saranggani)", "San Roque National High School (Sarangani)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-30"
 action = "Filed in the Senate requesting for concurrence by Representatives ERWIN L. CHIONGBIAN, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2006"
+date = "2006-11-07"
 
 [[committees]]
 name = "Education, Arts and Culture"

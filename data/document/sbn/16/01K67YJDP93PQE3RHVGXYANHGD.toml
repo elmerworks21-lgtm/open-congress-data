@@ -1,8 +1,11 @@
 id = "01K67YJDP93PQE3RHVGXYANHGD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02173"
+
+[meta]
 bill_number = 2173
 congress = 16
-canonical = "SBN-02173"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2173", "https://web.senate.gov.ph/lisdata/1892016043!.pdf",]
 title = "RATE OF INTEREST ON LOAN OR FORBEARANCE OF MONEY"
 date_filed = "2014-03-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT CLARIFYING THE RULE ON IMPOSITION OF INTEREST ON OBLIGATION
 scope = "National"
 subjects = [ "Loans", "Forbearances (Rates of Interest)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2014-03-11"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-12"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/12/2014"
+date = "2014-03-12"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

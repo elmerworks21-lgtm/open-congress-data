@@ -1,8 +1,11 @@
 id = "01K67YCPWPA2S7TZMJF8K44GD3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02585"
+
+[meta]
 bill_number = 2585
 congress = 13
-canonical = "SBN-02585"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2585", "https://web.senate.gov.ph/lisdata/68295590!.pdf",]
 title = "CHEMISTRY LAW OF 2007"
 date_filed = "2007-01-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MORE RESPONSIVE CHEMISTRY PROFESSION REPEAL
 scope = "National"
 subjects = [ "Chemistry Law",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-31"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/31/2007"
+date = "2007-01-31"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

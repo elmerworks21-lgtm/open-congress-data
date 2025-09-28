@@ -1,8 +1,11 @@
 id = "01K67YJHBVCQCPWVGSRD1JEMDN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00321"
+
+[meta]
 bill_number = 321
 congress = 17
-canonical = "SBN-00321"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-321", "https://web.senate.gov.ph/lisdata/2375920420!.pdf",]
 title = "COFFEE DEVELOPMENT ACT OF 2016"
 date_filed = "2016-07-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A NATIONAL PROGRAM FOR THE COFFEE INDUSTRY PRO
 scope = "National"
 subjects = [ "Coffee",]
 authors_raw = "Villar, Cynthia A., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-18"
 action = "Letter from Senator LOREN B. LEGARDA dated August 10, 2016, requesting that she be made co-author of SBN-321, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Agriculture and Food"

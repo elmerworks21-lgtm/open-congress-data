@@ -1,8 +1,11 @@
 id = "01K67YJ2W1X6GWSSZCRZQVGJNP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02868"
+
+[meta]
 bill_number = 2868
 congress = 14
-canonical = "SBN-02868"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2868", "https://web.senate.gov.ph/lisdata/92988413!.pdf",]
 title = "PHILIPPINE FISHERIES CODE (AMENDING SECS. 91 AND 97, R.A. NO. 8550)"
 date_filed = "2008-11-12"
@@ -10,25 +13,26 @@ long_title = "AN ACT AMENDING SECTIONS 91 AND 97 OF REPUBLIC ACT NO. 8550, OTHER
 scope = "National"
 subjects = [ "R.A.No. 8550 (Philippine Fisheries Code)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-12"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/19/2008"
+date = "2008-11-19"
 
 [[committees]]
 name = "Agriculture and Food"

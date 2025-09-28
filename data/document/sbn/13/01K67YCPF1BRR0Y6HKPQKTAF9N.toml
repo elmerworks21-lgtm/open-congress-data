@@ -1,8 +1,11 @@
 id = "01K67YCPF1BRR0Y6HKPQKTAF9N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01913"
+
+[meta]
 bill_number = 1913
 congress = 13
-canonical = "SBN-01913"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1913", "https://web.senate.gov.ph/lisdata/32082391!.pdf",]
 title = "AMENDING RA 7581 TO INCLUDE INSTANT NOODLES AS BASIC FOOD"
 date_filed = "2005-02-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TREATING LOCALLY MANUFACTURED INSTANT NOODLES AS BASIC NECE
 scope = "National"
 subjects = [ "Price Act (RA 7581, Amendments)", "Basic Food (Instant Noodles)", "Noodles, Locally Manufactured Instant",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2005-02-10"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-14"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/14/2005"
+date = "2005-02-14"
 
 [[committees]]
 name = "Trade and Commerce"

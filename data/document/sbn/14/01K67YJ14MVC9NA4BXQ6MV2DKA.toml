@@ -1,8 +1,11 @@
 id = "01K67YJ14MVC9NA4BXQ6MV2DKA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00611"
+
+[meta]
 bill_number = 611
 congress = 14
-canonical = "SBN-00611"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-611", "https://web.senate.gov.ph/lisdata/48224197!.pdf",]
 title = "CIVIL SERVICE CODE OF THE PHILIPPINES"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A CIVIL SERVICE CODE OF THE PHILIPPINES AND FO
 scope = "National"
 subjects = [ "Civil Service Code",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

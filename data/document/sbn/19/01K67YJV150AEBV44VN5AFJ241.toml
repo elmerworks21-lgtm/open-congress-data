@@ -1,8 +1,11 @@
 id = "01K67YJV150AEBV44VN5AFJ241"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00231"
+
+[meta]
 bill_number = 231
 congress = 19
-canonical = "SBN-00231"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-231", "https://web.senate.gov.ph/lisdata/3794335342!.pdf",]
 title = "AMENDING SECS. 9 & 13 OF R.A. NO. 8178, AS AMENDED (REPLACING QUANTITATIVE IMPORT RESTRICTIONS)"
 date_filed = "2022-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTIONS 9 AND 13 OF REPUBLIC ACT NO. 8178, AS AME
 scope = "National"
 subjects = [ "Quantitative Import Restrictions", "Agricultural Products", "Agriculture Competitiveness Enhancement Fund (ACEF)",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "WITHDRAWN PER LETTER DATED AUGUST 17, 2022."
 
 [[status]]
 status = "Withdrawn"
-date = "8/17/2022"
+date = "2022-08-17"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

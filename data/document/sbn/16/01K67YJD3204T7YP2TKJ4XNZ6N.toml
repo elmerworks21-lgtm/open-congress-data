@@ -1,8 +1,11 @@
 id = "01K67YJD3204T7YP2TKJ4XNZ6N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01249"
+
+[meta]
 bill_number = 1249
 congress = 16
-canonical = "SBN-01249"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1249", "https://web.senate.gov.ph/lisdata/1731614532!.pdf",]
 title = "RETIREMENT SECURITY EDUCATION ACT"
 date_filed = "2013-08-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A GRANT PROGRAM TO ENHANCE FINANCIAL AND RETIR
 scope = "National"
 subjects = [ "Financial Literacy", "Senior Citizen/Elderly",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-08"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2013"
+date = "2013-08-28"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

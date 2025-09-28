@@ -1,8 +1,11 @@
 id = "01K67YJPFCKYADSG6X2Q7N42KN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00140"
+
+[meta]
 bill_number = 140
 congress = 18
-canonical = "SBN-00140"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-140", "https://web.senate.gov.ph/lisdata/3039827275!.pdf",]
 title = "FREE INDEX-BASED AGRICULTURE INSURANCE (FIBAI) ACT OF 2019"
 date_filed = "2019-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO STRENGTHEN THE RESILIENCY OF SMALL FARMERS AGAINST CLIMA
 scope = "National"
 subjects = [ "Free Index-Based Agriculture Insurance", "Farmers", "Climate Change",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform, SBN-140 shall now be referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

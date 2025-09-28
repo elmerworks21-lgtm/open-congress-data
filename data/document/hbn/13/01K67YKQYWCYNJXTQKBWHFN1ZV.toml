@@ -1,24 +1,28 @@
 id = "01K67YKQYWCYNJXTQKBWHFN1ZV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04478"
+
+[meta]
 bill_number = 4478
 congress = 13
-canonical = "HBN-04478"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4478", "https://web.senate.gov.ph/lisdata/44073738!.pdf",]
 title = "ST. BERNARD - HINUNANGAN NATIONAL ROAD (SOUTHERN LEYTE)"
 long_title = "AN ACT CONVERTING THE ST. BERNARD - HINUNANGAN PROVINCIAL ROAD CONNECTING THE MUNICIPALITIES OF ST. BERNARD AND HINUNANGAN, PROVINCE OF SOUTHERN LEYTE INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion (Southern Leyte)", "St. Bernard - Hinunangan National Road (Southern Leyte)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representative ROGER G. MERCADO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2006"
+date = "2006-01-16"
 
 [[committees]]
 name = "Public Works"

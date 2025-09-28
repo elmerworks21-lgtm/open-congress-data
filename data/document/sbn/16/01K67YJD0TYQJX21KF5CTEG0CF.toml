@@ -1,8 +1,11 @@
 id = "01K67YJD0TYQJX21KF5CTEG0CF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01142"
+
+[meta]
 bill_number = 1142
 congress = 16
-canonical = "SBN-01142"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1142", "https://web.senate.gov.ph/lisdata/1718014418!.pdf",]
 title = "VOLUNTEER FIREFIGHTER AND EMS PERSONNEL JOB PROTECTION ACT"
 date_filed = "2013-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROHIBIT TERMINATION OF EMPLOYMENT OF VOLUNTEER FIREFIGH
 scope = "National"
 subjects = [ "Firefighters", "Emergency Response/Emergency Preparedness",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-27"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2013"
+date = "2013-08-27"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

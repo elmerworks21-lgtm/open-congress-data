@@ -1,8 +1,11 @@
 id = "01K67YJCRBRAWM68H2W87JQ4ZK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00732"
+
+[meta]
 bill_number = 732
 congress = 16
-canonical = "SBN-00732"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-732", "https://web.senate.gov.ph/lisdata/1664713889!.pdf",]
 title = "ACADEMIC HONESTY ACT"
 date_filed = "2013-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE UNLAWFUL SALE AND PURCHASE OF DISSERTATIONS
 scope = "National"
 subjects = [ "Academic Honesty",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Education, Arts and Culture"

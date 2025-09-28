@@ -1,8 +1,11 @@
 id = "01K67YJQTS69SHGYYVDC1CDN5P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02032"
+
+[meta]
 bill_number = 2032
 congress = 18
-canonical = "SBN-02032"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2032", "https://web.senate.gov.ph/lisdata/3441131223!.pdf",]
 title = "SAMAR ISLAND MEDICAL CENTER"
 date_filed = "2021-02-01"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING IN THE CITY OF CALBAYOG, PROVINCE OF SAMAR, A 
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-01"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 533, recommending that it be considered in HBN-8195;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "CONSIDERED IN HBN-8195 UNDER COMMITTEE REPORT NO. 533."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/25/2022"
+date = "2022-01-25"
 
 [[committees]]
 name = "Health and Demography"

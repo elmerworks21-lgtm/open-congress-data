@@ -1,8 +1,11 @@
 id = "01K67YJJM0BM3V87PJA4XYN70S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01963"
+
+[meta]
 bill_number = 1963
 congress = 17
-canonical = "SBN-01963"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1963", "https://web.senate.gov.ph/lisdata/2847824830!.pdf",]
 title = "UPGRADING THE MINDANAO CENTRAL SANITARIUM IN PASOBOLONG, ZAMBOANGA CITY"
 date_filed = "2018-08-30"
@@ -10,105 +13,106 @@ long_title = "AN ACT UPGRADING THE MINDANAO CENTRAL SANITARIUM IN PASOBOLONG, ZA
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity", "Hospitals, Upgrading",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-30"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-29"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 588, recommending its approval with amendments, taking into consideration HBN-7062;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-29"
 action = "Sponsor: Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-29"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-29"
 action = "Omnibus sponsorship speech of Senator JOSEPH VICTOR G. EJERCITO on 16 bills (HBNos. 7355, 7717, 8435, 8248, 7811 and 7037; and SBNos. 1963, 1966, 1965, 2187, 2188, 2062, 1961, 1690, 1768 and 1968);"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Period of committee amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Period of committee amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-31"
 action = "Printed copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "In favor: (19) JUAN EDGARDO 'SONNY' M. ANGARA, MARIA LOURDES NANCY S. BINAY, FRANKLIN M. DRILON, JOSEPH VICTOR G. EJERCITO, FRANCIS 'CHIZ' G. ESCUDERO, SHERWIN T. GATCHALIAN, RICHARD J. GORDON, GREGORIO B. HONASAN II, RISA HONTIVEROS, PANFILO M. LACSON, EMMANUEL 'MANNY' D. PACQUIAO, FRANCIS N. PANGILINAN, AQUILINO KOKO III L. PIMENTEL, GRACE L. POE, RALPH G. RECTO, VICENTE C. SOTTO III, JOEL VILLANUEVA, CYNTHIA A. VILLAR and JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Against: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Abstention: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-07"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-11"
 action = "House of Representatives adopted SBN-1963 as an amendment to HBN-7062 on February 8, 2019; (See: O.B. dated June 4, 2019)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-03-11"
 action = "Letter from Senate Secretary Atty. Myra Marie D. Villarica, dated March 6, 2019, transmitting nine (9) enrolled copies of SBN-1963 which was adopted as an amendment to HBN-7062, for the signature of Speaker Gloria Macapagal-Arroyo and Acting Secretary General of the House of Representatives, Mr. Dante Roberto P. Maling;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-03-19"
 action = "Letter for Senate Secretary Myra Marie D. Villarica, dated March 18, 2019, returning eight (8) enrolled copies of the consolidated version of SBN-1963 and HBN-7062, which were signed by Speaker Gloria Macapagal-Arroyo and the Acting Secretary General of the House of Representatives, Mr. Dante Roberto P. Maling;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-03-21"
 action = "Enrolled copies of SBN-1963 which was adopted as an amendment to HBN-7062, sent to the Office of the President of the Philippines through PLLO for the signature and approval of His Excellency, President Rodrigo Roa Duterte;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "Approved and signed into law, in consolidation with HBN-7062, by the President of the Philippines, His Excellency, President Rodrigo Roa Duterte on April 17, 2019 and became (Communication received by the LBIS on July 23, 2019)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "REPUBLIC ACT NO. 11325. (See: O.B. dated August 19, 2019, 18th Congress)"
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "4/17/2019"
+date = "2019-04-17"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJCSJ6D44972KTE55QJ5G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00793"
+
+[meta]
 bill_number = 793
 congress = 16
-canonical = "SBN-00793"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-793", "https://web.senate.gov.ph/lisdata/1675913993!.pdf",]
 title = "JAIL INTEGRATION ACT"
 date_filed = "2013-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT INTEGRATING ALL THE NATIONAL, PROVINCIAL, SUB-PROVINCIAL, C
 scope = "National"
 subjects = [ "Jail Facility", "Bureau of Correctional Services",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-16"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-12"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2013"
+date = "2013-08-12"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

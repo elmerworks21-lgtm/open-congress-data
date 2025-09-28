@@ -1,8 +1,11 @@
 id = "01K67YJJ4PGGVY4EBT201GX1SP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01385"
+
+[meta]
 bill_number = 1385
 congress = 17
-canonical = "SBN-01385"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1385", "https://web.senate.gov.ph/lisdata/2558922072!.pdf",]
 title = "REAL PROPERTY TAX EXEMPTION ON FAMILY HOME"
 date_filed = "2017-03-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CHAPTER 2, TITLE V OF EXECUTIVE ORDER NO. 209, OTH
 scope = "National"
 subjects = [ "Family Home", "Family Code(E.O.No. 209)", "Real Property Tax", "Tax Exemption",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2017-03-13"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/14/2017"
+date = "2017-03-14"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

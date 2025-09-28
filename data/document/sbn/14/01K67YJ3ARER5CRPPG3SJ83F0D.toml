@@ -1,8 +1,11 @@
 id = "01K67YJ3ARER5CRPPG3SJ83F0D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03473"
+
+[meta]
 bill_number = 3473
 congress = 14
-canonical = "SBN-03473"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3473", "https://web.senate.gov.ph/lisdata/1268711370!.pdf",]
 title = "TREATMENT OF ALZHEIMER'S DISEASE ACT OF 2009"
 date_filed = "2009-10-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE A NATIONAL INITIATIVE ON THE CONDUCT OF RESEARCH
 scope = "National"
 subjects = [ "Alzheimers Disease",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-07"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-07"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/7/2009"
+date = "2009-10-07"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,24 +1,28 @@
 id = "01K67YMD6MSXDXTK1SP87RWQ7T"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07414"
+
+[meta]
 bill_number = 7414
 congress = 19
-canonical = "HBN-07414"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7414", "https://web.senate.gov.ph/lisdata/4130137623!.pdf",]
 title = "NATIONAL LITERACY COUNCIL ACT"
 long_title = "AN ACT RENAMING THE LITERACY COORDINATING COUNCIL TO NATIONAL LITERACY COUNCIL, STRENGTHENING ITS POWERS AND FUNCTIONS, EXPANDING ITS MEMBERSHIP STRUCTURE AND SUPPORT MECHANISMS, AND APPROPRIATING FUNDS THEREFOR, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 7165, AS AMENDED"
 scope = "National"
 subjects = [ "National Literacy Council",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2023"
+date = "2023-05-09"
 
 [[committees]]
 name = "Basic Education"

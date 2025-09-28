@@ -1,8 +1,11 @@
 id = "01K67YK0FZQYWDY9XRC71G879F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01175"
+
+[meta]
 bill_number = 1175
 congress = 20
-canonical = "SBN-01175"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1175", "https://web.senate.gov.ph/lisdata/4776043781!.pdf",]
 title = "AMENDING R.A. NO. 11350 (NATIONAL COMMISSION OF SENIOR CITIZENS ACT)"
 date_filed = "2025-08-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11350, OTHERWISE KNOWN AS NATIONA
 scope = "National"
 subjects = [ "National Commission of Senior Citizens", "Senior Citizen/Elderly",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-12"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

@@ -1,8 +1,11 @@
 id = "01K67YJPT0QER5X2T18QFY54HX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00630"
+
+[meta]
 bill_number = 630
 congress = 18
-canonical = "SBN-00630"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-630", "https://web.senate.gov.ph/lisdata/3097727859!.pdf",]
 title = "THE ANTI-TERRORISM ACT OF 2019"
 date_filed = "2019-07-18"
@@ -10,37 +13,38 @@ long_title = "AN ACT TO COMBAT TERRORISM AND SECURE THE NATION, AMENDING FOR THI
 scope = "National"
 subjects = [ "Human Security Act", "Anti-Terrorism/Anti-Terrorism Act (R.A.No. 9372)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-18"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on National Defense and Security; and the Committee on Peace, Unification and Reconciliation, SBN-630 shall now be referred to the Committee on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-30"
 action = "Returned and submitted jointly by the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE per Committee Report No. 9, recommending that it be substituted by SBN-1083;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-10-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-10-01"
 action = "SUBSTITUTED BY SBN-1083 UNDER COMMITTEE REPORT NO. 9, WHICH BECAME R.A. NO. 11479 ON JULY 3, 2020."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/1/2019"
+date = "2019-10-01"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

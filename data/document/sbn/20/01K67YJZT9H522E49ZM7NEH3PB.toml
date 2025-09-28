@@ -1,8 +1,11 @@
 id = "01K67YJZT9H522E49ZM7NEH3PB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00029"
+
+[meta]
 bill_number = 29
 congress = 20
-canonical = "SBN-00029"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-29", "https://web.senate.gov.ph/lisdata/4650342506!.pdf",]
 title = "NO HTPS AND VAPES IN SCHOOL ACT"
 date_filed = "2025-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE POSSESSION AND USE OF HEATED TOBACCO PRODUC
 scope = "National"
 subjects = [ "Heated Tobacco Products (HTPS)", "Vaporized Nicotine Products/Vape",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-02"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and BASIC EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Health and Demography"

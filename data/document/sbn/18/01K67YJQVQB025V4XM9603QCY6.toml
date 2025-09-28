@@ -1,8 +1,11 @@
 id = "01K67YJQVQB025V4XM9603QCY6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02072"
+
+[meta]
 bill_number = 2072
 congress = 18
-canonical = "SBN-02072"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2072", "https://web.senate.gov.ph/lisdata/3458031392!.pdf",]
 title = "AMGANAD-NORTHERN CABABUYAN-POBLACION-PIWONG NATIONAL ROAD (IFUGAO)"
 date_filed = "2021-02-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE PROVINCIAL ROAD STRECHING FROM BARANGAY AMGA
 scope = "Local"
 subjects = [ "Roads, Conversion",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-24"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-01"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/1/2021"
+date = "2021-03-01"
 
 [[committees]]
 name = "Rules"

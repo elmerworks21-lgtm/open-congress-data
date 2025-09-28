@@ -1,8 +1,11 @@
 id = "01K67YJ98RSARGPGNHNJEHW7NN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02879"
+
+[meta]
 bill_number = 2879
 congress = 15
-canonical = "SBN-02879"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2879", "https://web.senate.gov.ph/lisdata/116889910!.pdf",]
 title = "13TH MONTH PAY, CHRISTMAS BONUS EXCLUDED FROM GROSS INCOME TAXATION"
 date_filed = "2011-06-14"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE CEILING OF THE 13TH MONTH PAY, CHRISTMAS BON
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Tax Exemption",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2011-06-14"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-01"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-02-02"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2011"
+date = "2011-08-01"
 
 [[committees]]
 name = "Ways and Means"

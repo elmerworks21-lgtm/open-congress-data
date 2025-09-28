@@ -1,8 +1,11 @@
 id = "01K67YJ2WJDV9Y2EZR5YJDTMF5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02893"
+
+[meta]
 bill_number = 2893
 congress = 14
-canonical = "SBN-02893"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2893", "https://web.senate.gov.ph/lisdata/93428446!.pdf",]
 title = "TALIBON GROUP OF ISLANDS PROTECTED LANDSCAPE/SEASCAPE ACT OF 2008"
 date_filed = "2008-11-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE TALIBON GROUP OF ISLANDS LOCATED IN THE PR
 scope = "Local"
 subjects = [ "Buffer Zone", "Protected Area",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-19"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-24"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/24/2008"
+date = "2008-11-24"
 
 [[committees]]
 name = "Environment and Natural Resources"

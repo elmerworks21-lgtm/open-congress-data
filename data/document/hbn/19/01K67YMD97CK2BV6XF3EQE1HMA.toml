@@ -1,40 +1,44 @@
 id = "01K67YMD97CK2BV6XF3EQE1HMA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08080"
+
+[meta]
 bill_number = 8080
 congress = 19
-canonical = "HBN-08080"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8080", "https://web.senate.gov.ph/lisdata/4188738152!.pdf",]
 title = "FOUR (4) LANE VIADUCT OR BYPASS ROAD (SAN JOSE DEL MONTE, BULACAN)"
 long_title = "AN ACT ESTABLISHING A FOUR (4) LANE VIADUCT OR BYPASS ROAD IN THE CITY OF SAN JOSE DEL MONTE, PROVINCE OF BULACAN, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Viaduct", "Road (Bypass)",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-25"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Returned and submitted jointly by the Committees on PUBLIC WORKS and FINANCE per Committee Report No. 571, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-03"
 action = "Sponsor: Senator RAMON BONG REVILLA JR.;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "6/3/2025"
+date = "2025-06-03"
 
 [[committees]]
 name = "Public Works"

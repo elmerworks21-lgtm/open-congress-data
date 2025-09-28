@@ -1,8 +1,11 @@
 id = "01K67YJCXN2JP4PS2NWABCP0R5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00986"
+
+[meta]
 bill_number = 986
 congress = 16
-canonical = "SBN-00986"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-986", "https://web.senate.gov.ph/lisdata/1705414267!.pdf",]
 title = "ALLOTMENT OF INTERNAL REVENUE TAXES BY THE LGUS"
 date_filed = "2013-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING LOCAL GOVERNMENT PARTICIPATION IN NATIONAL DE
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "National Internal Revenue Code (NIRC)", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-22"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Local Government"

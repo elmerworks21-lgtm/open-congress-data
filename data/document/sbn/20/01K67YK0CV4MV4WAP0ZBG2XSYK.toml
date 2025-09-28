@@ -1,8 +1,11 @@
 id = "01K67YK0CV4MV4WAP0ZBG2XSYK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01009"
+
+[meta]
 bill_number = 1009
 congress = 20
-canonical = "SBN-01009"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1009", "https://web.senate.gov.ph/lisdata/4757643588!.pdf",]
 title = "MODERNIZING NATIONAL MEASUREMENT SYSTEM ACT"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT MODERNIZING THE NATIONAL MEASUREMENT SYSTEM (NMS) OF THE PH
 scope = "National"
 subjects = [ "National Measurement System",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-02"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2025"
+date = "2025-09-02"
 
 [[committees]]
 name = "Science and Technology"

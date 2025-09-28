@@ -1,8 +1,11 @@
 id = "01K67YJ88QNC7E8GM2ZDDEZTPS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01639"
+
+[meta]
 bill_number = 1639
 congress = 15
-canonical = "SBN-01639"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1639", "https://web.senate.gov.ph/lisdata/92227768!.pdf",]
 title = "ANTI-DISCRIMINATION ACT"
 date_filed = "2010-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH CRIMINAL LIABILITY FOR UNLAWFUL DISCRIMINATION
 scope = "National"
 subjects = [ "Anti-Discrimination",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-19"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-07"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2010"
+date = "2010-09-07"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

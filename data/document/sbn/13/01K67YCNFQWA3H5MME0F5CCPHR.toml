@@ -1,8 +1,11 @@
 id = "01K67YCNFQWA3H5MME0F5CCPHR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00218"
+
+[meta]
 bill_number = 218
 congress = 13
-canonical = "SBN-00218"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-218", "https://web.senate.gov.ph/lisdata/1353621!.pdf",]
 title = "PRIVATE LAND FORESTRY AND INCENTIVE ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT INSTITUTIONALIZING PRIVATE LAND FORESTRY TO ENHANCE REFORES
 scope = "National"
 subjects = [ "Private Land Forestry & Incentive Act", "Agricultural Lands/Agro-Forestry Zones",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-02"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, LOCAL GOVERNMENT, WAYS AND MEANS, FINANCE, CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS, CULTURAL COMMUNITIES, EDUCATION, ARTS AND CULTURE and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT per Committee Report No. 298, recommending that it be substituted by HBN-4081;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "CONSIDERED IN HBN-4081."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/7/2007"
+date = "2007-02-07"
 
 [[committees]]
 name = "Environment and Natural Resources"

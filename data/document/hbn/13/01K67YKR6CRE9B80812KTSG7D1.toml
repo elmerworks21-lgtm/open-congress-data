@@ -1,24 +1,28 @@
 id = "01K67YKR6CRE9B80812KTSG7D1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05196"
+
+[meta]
 bill_number = 5196
 congress = 13
-canonical = "HBN-05196"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5196", "https://web.senate.gov.ph/lisdata/49624080!.pdf",]
 title = "MABACAN NATIONAL HIGH SCHOOL (LAGUNA)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY MABACAN, MUNICIPALITY OF CALAUAN, PROVINCE OF LAGUNA TO BE KNOWN AS THE MABACAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Laguna)", "Mabacan National High School (Laguna)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives DANTON Q. BUESER, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON, ROLANDO G. ANDAYA JR. and MARY ANN L. SUSANO as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2006"
+date = "2006-05-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

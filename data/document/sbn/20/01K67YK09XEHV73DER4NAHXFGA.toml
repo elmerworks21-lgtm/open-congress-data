@@ -1,8 +1,11 @@
 id = "01K67YK09XEHV73DER4NAHXFGA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00854"
+
+[meta]
 bill_number = 854
 congress = 20
-canonical = "SBN-00854"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-854", "https://web.senate.gov.ph/lisdata/4742043423!.pdf",]
 title = "TRANSITIONAL JUSTICE AND RECONCILIATION ACT FOR THE BANGSAMORO"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE NATIONAL TRANSITIONAL JUSTICE AND RECONCILIATI
 scope = "National"
 subjects = [ "Bangsamoro", "Transitional Justice and Reconciliation Program",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT; NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Local Government"

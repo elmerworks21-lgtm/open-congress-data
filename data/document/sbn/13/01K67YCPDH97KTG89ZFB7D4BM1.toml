@@ -1,8 +1,11 @@
 id = "01K67YCPDH97KTG89ZFB7D4BM1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01843"
+
+[meta]
 bill_number = 1843
 congress = 13
-canonical = "SBN-01843"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1843", "https://web.senate.gov.ph/lisdata/11312275!.pdf",]
 title = "CREDIT INFORMATION BUREAU SYSTEM ACT"
 date_filed = "2004-11-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING A CREDIT INFORMATION BUREAU SYSTEM, AND FOR OT
 scope = "National"
 subjects = [ "Credit Information Bureau System Act",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-11-03"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-03"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-28"
 action = "Returned by the Committee on Banks, Financial Institutions and Currencies per Committee Report No. 13, recommending that it be substituted by SBN-1936;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-28"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-28"
 action = "SUBSTITUTED BY SBN-1936."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/28/2005"
+date = "2005-02-28"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

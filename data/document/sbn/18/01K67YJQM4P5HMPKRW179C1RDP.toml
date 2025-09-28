@@ -1,8 +1,11 @@
 id = "01K67YJQM4P5HMPKRW179C1RDP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01771"
+
+[meta]
 bill_number = 1771
 congress = 18
-canonical = "SBN-01771"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1771", "https://web.senate.gov.ph/lisdata/3333730174!.pdf",]
 title = "DEATH IN CUSTODY REPORTING ACT OF 2020"
 date_filed = "2020-08-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE REPORTING OF DEATHS AND ILLNESSES OF PERSONS 
 scope = "National"
 subjects = [ "Persons Deprived of Liberty (PDL)", "Children in Conflict with the Law",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2020-08-13"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-24"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2020"
+date = "2020-08-24"
 
 [[committees]]
 name = "Justice and Human Rights"

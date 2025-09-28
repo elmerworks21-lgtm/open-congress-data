@@ -1,8 +1,11 @@
 id = "01K67YJHA3TQH47EXPM1DVMFJZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00241"
+
+[meta]
 bill_number = 241
 congress = 17
-canonical = "SBN-00241"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-241", "https://web.senate.gov.ph/lisdata/2368020321!.pdf",]
 title = "DIRECT REMITTANCE TO THE HOST LOCAL GOVERNMENT UNITS"
 date_filed = "2016-07-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE DIRECT REMITTANCE TO THE HOST LOCAL GOVER
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "National Wealth", "Taxes/Taxation", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Local Government"

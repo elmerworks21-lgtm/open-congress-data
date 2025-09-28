@@ -1,24 +1,28 @@
 id = "01K67YKVP3WSQ64CXPWMSWNRX3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00611"
+
+[meta]
 bill_number = 611
 congress = 14
-canonical = "HBN-00611"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-611", "https://web.senate.gov.ph/lisdata/1160310242!.pdf",]
 title = "FOREST LIMITS ACT FOR THE PROVINCE OF ZAMBALES"
 long_title = "AN ACT FIXING THE SPECIFIC LIMITS OF FORESTLANDS IN THE PROVINCE OF ZAMBALES"
 scope = "Local"
 subjects = [ "Forest Lands",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-06-01"
 action = "Filed in the Senate requesting for concurrence by Representatives MA. MILAGROS 'MITOS' H. MAGSAYSAY, IGGY T. ARROYO, JUNIE E. CUA, MAURICIO G. DOMOGAN and JUAN EDGARDO M. ANGARA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2009"
+date = "2009-06-02"
 
 [[committees]]
 name = "Environment and Natural Resources"

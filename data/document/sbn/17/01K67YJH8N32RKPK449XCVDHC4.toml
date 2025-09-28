@@ -1,8 +1,11 @@
 id = "01K67YJH8N32RKPK449XCVDHC4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00181"
+
+[meta]
 bill_number = 181
 congress = 17
-canonical = "SBN-00181"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-181", "https://web.senate.gov.ph/lisdata/2360320240!.pdf",]
 title = "SOCIAL SECURITY LAW, AMENDMENTS"
 date_filed = "2016-06-30"
@@ -10,65 +13,66 @@ long_title = "AN ACT INCREASING PENSIONS AND OTHER BENEFITS UNDER THE SOCIAL SEC
 scope = "National"
 subjects = [ "Pension", "Social Security Law (RA 1161)", "Social Security System (SSS)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-28"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-28"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-14"
 action = "Returned and submitted jointly by the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT per Committee Report No. 25, recommending that it be substituted by SJR-5;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-14"
 action = "SUBSTITUTED BY SJR-5 UNDER COMMITTEE REPORT NO. 25."
 
-[[legislative_history]]
+[[history]]
 date = "2017-06-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-06-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-19"
 action = "Returned and submitted jointly by the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT per Committee Report No. 300, recommending that it be substituted by SBN-1753;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "SUBSTITUTED BY SBN-1753 UNDER COMMITTEE REPORT NO. 300, WHICH BECAME R.A.NO. 11199 ON FEBRUARY 7, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/20/2018"
+date = "2018-03-20"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

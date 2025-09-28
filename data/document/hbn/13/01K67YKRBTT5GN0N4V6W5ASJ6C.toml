@@ -1,24 +1,28 @@
 id = "01K67YKRBTT5GN0N4V6W5ASJ6C"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05807"
+
+[meta]
 bill_number = 5807
 congress = 13
-canonical = "HBN-05807"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5807", "https://web.senate.gov.ph/lisdata/65365404!.pdf",]
 title = "PROHIBITING THE USE OF THE WORDS MUSLIM AND CHRISTIAN IN MASS MEDIA"
 long_title = "AN ACT PROHIBITING THE USE OF THE WORDS MUSLIM AND CHRISTIAN IN MASS MEDIA TO DESCRIBE ANY PERSON SUSPECTED OF OR CONVICTED FOR HAVING COMMITTED CRIMINAL OR UNLAWFUL ACTS, AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
 scope = "National"
 subjects = [ "Muslim/Islamic Word (Use in Media Ban)", "Muslim & Christian Word (Prohibition)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-12-06"
 action = "Filed in the Senate requesting for concurrence by Representatives JUAN EDGARDO M. ANGARA, CYNTHIA A. VILLAR, EMMYLOU 'LALA' J. TALINO-SANTOS, MUNIR M. ARBISON, HUSSIN U. AMIN, ACMAD M. TOMAWIS, GILBERTO C. TEODORO JR. and ROMUALDO T. VICENCIO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-06"
 action = "Read on First Reading and referred to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2006"
+date = "2006-12-06"
 
 [[committees]]
 name = "Public Information and Mass Media"

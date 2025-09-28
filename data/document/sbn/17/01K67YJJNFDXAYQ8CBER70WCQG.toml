@@ -1,8 +1,11 @@
 id = "01K67YJJNFDXAYQ8CBER70WCQG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02014"
+
+[meta]
 bill_number = 2014
 congress = 17
-canonical = "SBN-02014"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2014", "https://web.senate.gov.ph/lisdata/2865425105!.pdf",]
 title = "PUBLIC SOLICITATION ACT"
 date_filed = "2018-09-18"
@@ -10,29 +13,30 @@ long_title = "AN ACT REGULATING PUBLIC SOLICITATIONS AND PROVIDING PENALTIES FOR
 scope = "National"
 subjects = [ "Public Solicitation", "Solicitation", "Presidential Decree (P.D.No. 1564)",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-09-18"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-19"
 action = "Read on First Reading and Referred to the Committee on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-28"
 action = "Returned and submitted by the Committee on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT per Committee Report No. 521, recommending that it be substituted by SBN-2111;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-28"
 action = "SUBSTITUTED BY SBN-2111, UNDER CTTE. REPORT NO. 521."
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/19/2018"
+date = "2018-09-19"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

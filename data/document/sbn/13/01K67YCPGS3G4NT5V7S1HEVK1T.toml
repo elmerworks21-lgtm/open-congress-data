@@ -1,8 +1,11 @@
 id = "01K67YCPGS3G4NT5V7S1HEVK1T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01991"
+
+[meta]
 bill_number = 1991
 congress = 13
-canonical = "SBN-01991"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1991", "https://web.senate.gov.ph/lisdata/34172627!.pdf",]
 title = "TECHNOLOGY TRANSFER AGREEMENTS (PROTECTION)"
 date_filed = "2005-05-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE SCOPE OF PROTECTION FOR TECHNOLOGY TRANSFER A
 scope = "National"
 subjects = [ "Technology Transfer Agreements",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2005-05-03"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-04"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/4/2005"
+date = "2005-05-04"
 
 [[committees]]
 name = "Trade and Commerce"

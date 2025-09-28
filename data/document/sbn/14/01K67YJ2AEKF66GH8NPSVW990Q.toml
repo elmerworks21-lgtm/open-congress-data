@@ -1,8 +1,11 @@
 id = "01K67YJ2AEKF66GH8NPSVW990Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02083"
+
+[meta]
 bill_number = 2083
 congress = 14
-canonical = "SBN-02083"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2083", "https://web.senate.gov.ph/lisdata/68906102!.pdf",]
 title = "LOW CARBON ECONOMY ACT"
 date_filed = "2008-02-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMOTE A LOW CARBON ECONOMY ESTABLISHING FOR THIS PURPO
 scope = "National"
 subjects = [ "Climate Change",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-18"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-19"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; ECONOMIC AFFAIRS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/19/2008"
+date = "2008-02-19"
 
 [[committees]]
 name = "Environment and Natural Resources"

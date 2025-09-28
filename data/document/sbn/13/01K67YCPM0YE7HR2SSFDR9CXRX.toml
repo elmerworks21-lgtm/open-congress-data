@@ -1,8 +1,11 @@
 id = "01K67YCPM0YE7HR2SSFDR9CXRX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02152"
+
+[meta]
 bill_number = 2152
 congress = 13
-canonical = "SBN-02152"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2152", "https://web.senate.gov.ph/lisdata/41503462!.pdf",]
 title = "WAGES AND TIPS PROTECTION ACT"
 date_filed = "2005-10-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROTECTING THE WAGES AND TIPS OF CERTAIN EMPLOYEES"
 scope = "National"
 subjects = [ "Wages and Tips Protection",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-10-27"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-07"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2005"
+date = "2005-11-07"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,60 +1,64 @@
 id = "01K67YM35YA1SS36A50ZX4DMMB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05973"
+
+[meta]
 bill_number = 5973
 congress = 16
-canonical = "HBN-05973"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5973", "https://web.senate.gov.ph/lisdata/2209518814!.pdf",]
 title = "RARE DISEASES ACT"
 long_title = "AN ACT PROMULGATING A COMPREHENSIVE POLICY ON NEEDS OF PERSONS AFFLICTED WITH RARE DISORDERS"
 scope = "National"
 subjects = [ "Rare Diseases",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-08-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-10-07"
 action = "Returned jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, WAYS AND MEANS, YOUTH and FINANCE per Committee Report No. 286, recommending that it be considered in SBN-2990;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-04"
 action = "CONSIDERED IN SBN-2990 UNDER C.R. NO. 286."
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-18"
 action = "House of Representatives adopted SBN-2990 as an amendment to HBN-5973 on December 15, 2015;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-25"
 action = "Enrolled copies of SBN-2990 which was adopted as an amendment to HBN-5973, sent to the House of Representatives for the signature of the Speaker and the Secretary General;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-01"
 action = "Enrolled copies of SBN-2990 which was adopted as an amendment to HBN-5973, returned to the Senate which was already signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "Enrolled copies of the consolidated version of SBN-2990 and HBN-5973, sent to the Office of the President of the Philippines, through PLLO, for the signature and approval of His Excellency, President Benigno S. Aquino III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Consolidated with SBN-2990, which was Approved and Signed into Law by the President of the Philippines, His Excellency President Benigno S. Aquino III on March 3, 2016 and became;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "REPUBLIC ACT NO. 10747"
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "3/3/2016"
+date = "2016-03-03"
 
 [[committees]]
 name = "Health and Demography"

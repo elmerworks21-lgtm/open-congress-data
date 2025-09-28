@@ -1,24 +1,28 @@
 id = "01K67YM65SAE32FE6SQDPNQMT3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06588"
+
+[meta]
 bill_number = 6588
 congress = 17
-canonical = "HBN-06588"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6588", "https://web.senate.gov.ph/lisdata/2921225805!.pdf",]
 title = "BUTUAN CITY A HERITAGE TOURISM ZONE"
 long_title = "AN ACT DECLARING THE CITY OF BUTUAN A HERITAGE TOURISM ZONE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-13"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/13/2018"
+date = "2018-12-13"
 
 [[committees]]
 name = "Local Government"

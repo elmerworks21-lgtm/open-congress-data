@@ -1,8 +1,11 @@
 id = "01K67YJ33A3D8XZEJA5Z23RD0Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03181"
+
+[meta]
 bill_number = 3181
 congress = 14
-canonical = "SBN-03181"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3181", "https://web.senate.gov.ph/lisdata/108769645!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE (SECTION 199)"
 date_filed = "2009-04-22"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING TAX RELIEF TO THE LIFE INSURANCE INDUSTRY BY ABOLI
 scope = "National"
 subjects = [ "Documentary Stamp Tax", "Life Insurance Premium Tax", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-04-22"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-22"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-15"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 724, recommending that it be considered in SBN-3502;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-09"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-09"
 action = "CONSIDERED IN SBN-3502, WHICH BECAME R.A.NO. 10001."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/9/2009"
+date = "2009-11-09"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJPSN7MDSC2TQEEFPZ9H5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00612"
+
+[meta]
 bill_number = 612
 congress = 18
-canonical = "SBN-00612"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-612", "https://web.senate.gov.ph/lisdata/3095427888!.pdf",]
 title = "PHILIPPINE CENTER FOR DIABETES AND ENDOCRINOLOGY"
 date_filed = "2019-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE CENTER FOR DIABETES AND ENDOCRI
 scope = "National"
 subjects = [ "Diabetes", "Philippine Center for Diabetes and Endocrinology",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-18"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Health and Demography"

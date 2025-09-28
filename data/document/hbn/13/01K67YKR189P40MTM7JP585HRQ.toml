@@ -1,24 +1,28 @@
 id = "01K67YKR189P40MTM7JP585HRQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04775"
+
+[meta]
 bill_number = 4775
 congress = 13
-canonical = "HBN-04775"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4775", "https://web.senate.gov.ph/lisdata/50684146!.pdf",]
 title = "POCTOY NATIONAL HIGH SCHOOL (MARINDUQUE)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY POCTOY, MUNICIPALITY OF TORRIJOS, PROVINCE OF MARINDUQUE TO BE KNOWN AS THE POCTOY NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Marinduque)", "Poctoy National High School (Marinduque)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2006"
+date = "2006-05-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

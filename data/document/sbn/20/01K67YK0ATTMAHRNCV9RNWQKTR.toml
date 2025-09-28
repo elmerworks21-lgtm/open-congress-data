@@ -1,8 +1,11 @@
 id = "01K67YK0ATTMAHRNCV9RNWQKTR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00902"
+
+[meta]
 bill_number = 902
 congress = 20
-canonical = "SBN-00902"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-902", "https://web.senate.gov.ph/lisdata/4750943514!.pdf",]
 title = "MASUSTANSYANG PAGKAIN PARA SA BATANG PILIPINO ACT"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE COVERAGE OF THE NATIONAL FEEDING PROGRAM TO I
 scope = "National"
 subjects = [ "Feeding Program",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and AGRICULTURE, FOOD AND AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Basic Education"

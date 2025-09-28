@@ -1,24 +1,28 @@
 id = "01K67YKVRNG5X80H3Y88RV9EB6"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02480"
+
+[meta]
 bill_number = 2480
 congress = 14
-canonical = "HBN-02480"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-2480", "https://web.senate.gov.ph/lisdata/88508050!.pdf",]
 title = "AQUATIC RESEARCH AND EXPERIMENTAL BREEDING STATION"
 long_title = "AN ACT TO ESTABLISH AN AQUATIC RESEARCH AND EXPERIMENTAL BREEDING STATION IN THE MUNICIPALITY OF ALLACAPAN, PROVINCE OF CAGAYAN FOR THE CULTURE, BREEDING AND PROPAGATION OF MUDFISH ('DALAG'), NATIVE HITO, GURAMI AND FRESHWATER SHRIMP, AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Aquatic Research", "Experimental Breeding Station", "Fishery Farms", "Hatcheries",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-06"
 action = "Filed in the Senate requesting for concurrence by Representatives VARGAS and PABLO as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-07"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/7/2008"
+date = "2008-10-07"
 
 [[committees]]
 name = "Agriculture and Food"

@@ -1,8 +1,11 @@
 id = "01K67YJZVWFNHBATE4E1FZPMDD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00112"
+
+[meta]
 bill_number = 112
 congress = 20
-canonical = "SBN-00112"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-112", "https://web.senate.gov.ph/lisdata/4658942593!.pdf",]
 title = "MINIMUM WAGE FOR FARMERS ACT"
 date_filed = "2025-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MINIMUM WAGE FOR FARMERS, APPROPRIATING FUN
 scope = "National"
 subjects = [ "Wage/Wages", "Farmers",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-03"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

@@ -1,24 +1,28 @@
 id = "01K67YM6PX14KAAV5RP5CCQ3PY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08898"
+
+[meta]
 bill_number = 8898
 congress = 17
-canonical = "HBN-08898"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8898", "https://web.senate.gov.ph/lisdata/2964226340!.pdf",]
 title = "COMPOSTELA VALLEY FOUNDING DAY"
 long_title = "AN ACT DECLARING MARCH 8 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF COMPOSTELA VALLEY IN COMMEMORATION OF ITS FOUNDING DAY"
 scope = "Local"
 subjects = [ "Holidays (Special Non-Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-08"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/8/2019"
+date = "2019-02-08"
 
 [[committees]]
 name = "Local Government"

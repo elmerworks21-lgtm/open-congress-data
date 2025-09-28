@@ -1,8 +1,11 @@
 id = "01K67YCPTB5TS8KTDH17EC2CY0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02482"
+
+[meta]
 bill_number = 2482
 congress = 13
-canonical = "SBN-02482"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2482", "https://web.senate.gov.ph/lisdata/60975101!.pdf",]
 title = "ANTI-BILLBOARD BLIGHT ACT"
 date_filed = "2006-10-04"
@@ -10,69 +13,70 @@ long_title = "AN ACT REGULATING THE PLACEMENT OF BILLBOARDS SIGNS"
 scope = "National"
 subjects = [ "Billboards (Anti-Billboard Blight Act)",]
 authors_raw = "Defensor Santiago, Miriam, Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-04"
 action = "Prepared and submitted by the Committee on PUBLIC WORKS with Senator(s) MIRIAM DEFENSOR SANTIAGO and RAMON A. REVILLA JR. as author(s) per Committee Report No. 110, recommending its approval in substitution of SBN-1714;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-09"
 action = "Sponsors: Senator(s) RAMON A. REVILLA JR., and MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Certified by the President of the Philippines for its immediate enactment on October 10, 2006;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Assigned for consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Sponsorship speech of Senator Revilla;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Co-sponsorship speech of Senator Miriam Defensor Santiago;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Co-sponsorship speech of Senator(s) MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Interpellation of Senator(s) M. A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Approved on Second Reading without Amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "In favor: (13)Senators Angara, Miriam Defensor Santiago, Jinggoy Ejercito Estrada, Luisa Loi Ejercito Estrada, Enrile, Flavier, Lacson, M.A. Madrigal, Pangilinan, Pimentel, Jr., Recto, Roxas, and Villar; Against : N o n e; Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-08"
 action = "Sent to the House of Representatives for concurrence;"
 
 [[status]]
 status = "Approved on Third Reading by the Senate"
-date = "11/7/2006"
+date = "2006-11-07"
 
 [[committees]]
 name = "Public Works"

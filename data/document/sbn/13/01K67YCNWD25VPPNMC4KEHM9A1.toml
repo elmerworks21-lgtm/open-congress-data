@@ -1,8 +1,11 @@
 id = "01K67YCNWD25VPPNMC4KEHM9A1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00929"
+
+[meta]
 bill_number = 929
 congress = 13
-canonical = "SBN-00929"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-929", "https://web.senate.gov.ph/lisdata/21311639!.pdf",]
 title = "STRENGTHENING LOCAL ENVIRONMENT PROTECTION"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN LOCAL ENVIRONMENT PROTECTION BY MAKING THE AP
 scope = "National"
 subjects = [ "Local Environment Protection", "Local Government Code (RA 7160)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-31"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; and ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2004"
+date = "2004-08-31"
 
 [[committees]]
 name = "Local Government"

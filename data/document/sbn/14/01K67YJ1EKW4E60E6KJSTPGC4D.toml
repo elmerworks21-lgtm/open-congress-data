@@ -1,8 +1,11 @@
 id = "01K67YJ1EKW4E60E6KJSTPGC4D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01098"
+
+[meta]
 bill_number = 1098
 congress = 14
-canonical = "SBN-01098"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1098", "https://web.senate.gov.ph/lisdata/53794747!.pdf",]
 title = "TO INCLUDE SENDING OF TEXT MESSAGES, ELECTRONIC MAIL IN THE SEXUAL HARASSMENT LAW COVERAGE"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE COVERAGE OF THE DEFINITION OF THE CRIME OF SE
 scope = "National"
 subjects = [ "Anti-Sexual Harassment Act",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,8 +1,11 @@
 id = "01K67YCPTF6Y5KMVAVN4HMF58Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02489"
+
+[meta]
 bill_number = 2489
 congress = 13
-canonical = "SBN-02489"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2489", "https://web.senate.gov.ph/lisdata/62035117!.pdf",]
 title = "SURIGAO DEL SUR SPECIAL ECONOMIC ZONE AND FREE PORT OF 2006"
 date_filed = "2006-10-11"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING THE SURIGAO DEL SUR SPECIAL ECONOMIC ZONE AND 
 scope = "Local"
 subjects = [ "Economic Zone", "Free Port (Surigao Del Sur)",]
 authors_raw = "Enrile, Juan Ponce"
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-11"
 action = "Introduced by Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, LOCAL GOVERNMENT, WAYS AND MEANS and FINANCE per Committee Report No. 274, recommending that it be substituted by SBN-2602;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "SUBSTITUTED BY SBN-2602."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/7/2007"
+date = "2007-02-07"
 
 [[committees]]
 name = "Economic Affairs"

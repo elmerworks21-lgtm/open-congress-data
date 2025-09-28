@@ -1,8 +1,11 @@
 id = "01K67YK0EK3YTFT8AM7TJJ3F89"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01102"
+
+[meta]
 bill_number = 1102
 congress = 20
-canonical = "SBN-01102"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1102", "https://web.senate.gov.ph/lisdata/4762043637!.pdf",]
 title = "ALTERNATIVE MODES OF VOTING FOR PERSONS IN VULNERABLE SITUATIONS"
 date_filed = "2025-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING ALTERNATIVE MODES OF VOTING FOR PERSONS IN VULNER
 scope = "National"
 subjects = [ "Alternative Modes of Voting",]
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator WIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on ELECTORAL REFORMS AND PEOPLES PARTICIPATION; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

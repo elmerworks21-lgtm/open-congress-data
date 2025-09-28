@@ -1,8 +1,11 @@
 id = "01K67YJ11KGRJ42BYS19WERJCS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00463"
+
+[meta]
 bill_number = 463
 congress = 14
-canonical = "SBN-00463"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-463", "https://web.senate.gov.ph/lisdata/46683992!.pdf",]
 title = "COCONUT INDUSTRY AS LAST PRIORITY FOR CARP COVERAGE"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NUMBER SIX THOUSA
 scope = "National"
 subjects = [ "Comprehensive Agrarian Reform Program (CARP)", "Coconut Industry",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee on AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Agrarian Reform"

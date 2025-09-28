@@ -1,8 +1,11 @@
 id = "01K67YK0B4VPR8ZQSWYRTS6D6Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00920"
+
+[meta]
 bill_number = 920
 congress = 20
-canonical = "SBN-00920"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-920", "https://web.senate.gov.ph/lisdata/4753243539!.pdf",]
 title = "PHILIPPINE CENTER FOR DISEASE PREVENTION AND CONTROL (CDC) ACT"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE CENTER FOR DISEASE PREVENTION AND C
 scope = "National"
 subjects = [ "Philippine Center for Disease Control and Prevention",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Health and Demography"

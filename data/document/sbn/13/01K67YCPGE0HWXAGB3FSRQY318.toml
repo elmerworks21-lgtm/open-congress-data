@@ -1,8 +1,11 @@
 id = "01K67YCPGE0HWXAGB3FSRQY318"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01975"
+
+[meta]
 bill_number = 1975
 congress = 13
-canonical = "SBN-01975"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1975", "https://web.senate.gov.ph/lisdata/33022455!.pdf",]
 title = "MAGNA CARTA FOR STUDENTS"
 date_filed = "2005-04-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR STUDENTS."
 scope = "National"
 subjects = [ "Magna Carta for Students", "Student Government Charter",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2005-04-11"
 action = "Introduced by Senator PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-04-12"
 action = "Read on First Reading and referred to the Committee(s) EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/12/2005"
+date = "2005-04-12"
 
 [[committees]]
 name = "Education, Arts and Culture"

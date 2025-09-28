@@ -1,8 +1,11 @@
 id = "01K67YCPEX08PGZGWKR1AHD9XA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01906"
+
+[meta]
 bill_number = 1906
 congress = 13
-canonical = "SBN-01906"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1906", "https://web.senate.gov.ph/lisdata/31882378!.pdf",]
 title = "FOOD CHOKING PREVENTION ACT OF 2005"
 date_filed = "2005-02-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROTECT CHILDREN FROM FOODS THAT POSE A SIGNIFICANT CHOK
 scope = "National"
 subjects = [ "Food Choking Prevention Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-02-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-04"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/4/2005"
+date = "2005-02-04"
 
 [[committees]]
 name = "Trade and Commerce"

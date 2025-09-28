@@ -1,8 +1,11 @@
 id = "01K67YJHG8H5TFC4BN2G4YE627"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00494"
+
+[meta]
 bill_number = 494
 congress = 17
-canonical = "SBN-00494"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-494", "https://web.senate.gov.ph/lisdata/2393420575!.pdf",]
 title = "PROVIDING ALL GOVERNMENT EMPLOYEES BE PAID CORRESPONDING WAGES DURING SPECIAL HOLIDAYS"
 date_filed = "2016-07-19"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING THAT ALL CONTRACTUAL AND CASUAL EMPLOYEES IN THE 
 scope = "National"
 subjects = [ "Government Employees (Casual", "Contractual)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-17"
 action = "Returned and submitted jointly by the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 159, recommending that it be substituted by SBN-1561;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-22"
 action = "SUBSTITUTED BY SBN-1561 UNDER COMMITTEE REPORT NO. 159."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/22/2017"
+date = "2017-08-22"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

@@ -1,24 +1,28 @@
 id = "01K67YKR12XFNYKX10ADBHZ7RW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04754"
+
+[meta]
 bill_number = 4754
 congress = 13
-canonical = "HBN-04754"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4754", "https://web.senate.gov.ph/lisdata/50624140!.pdf",]
 title = "CABA NATIONAL HIGH SCHOOL (IFUGAO)"
 long_title = "AN ACT SEPARATING THE AYANGAN NATIONAL HIGH SCHOOL – CABA ANNEX IN BARANGAY CABA, MUNICIPALITY OF LAGAWE, PROVINCE OF IFUGAO FROM THE AYANGAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE CABA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Ifugao)", "Caba National High School (Ifugao)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives SOLOMON R. CHUNGALAO, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2006"
+date = "2006-05-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

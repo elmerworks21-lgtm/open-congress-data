@@ -1,44 +1,48 @@
 id = "01K67YM5T0TCZBGPWE69XFZ71F"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04903"
+
+[meta]
 bill_number = 4903
 congress = 17
-canonical = "HBN-04903"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-4903", "https://web.senate.gov.ph/lisdata/2546221979!.pdf",]
 title = "SIMPLIFYING THE DONOR'S TAX RATE"
 long_title = "AN ACT SIMPLIFYING THE DONOR'S TAX RATE, AMENDING FOR THE PURPOSE SECTION 99 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED."
 scope = "National"
 subjects = [ "Taxes (Donors Tax)", "National Internal Revenue Code (NIRC)",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-02-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-06"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-06"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Returned by the Committee on WAYS AND MEANS per Committee Report No. 164, recommending that it be considered in SBN-1592;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "CONSIDERED IN SBN-1592 UNDER COMMITTEE REPORT NO. 164."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/20/2017"
+date = "2017-09-20"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YK0DRAN33T4P09XKRQJXE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01056"
+
+[meta]
 bill_number = 1056
 congress = 20
-canonical = "SBN-01056"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1056", "https://web.senate.gov.ph/lisdata/4771643736!.pdf",]
 title = "DAILYSIS CENTER ACT"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT
 scope = "National"
 subjects = [ "Dialysis Center", "Dialysys Ward/Unit", "Dialysis Treatment",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-03"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2025"
+date = "2025-09-03"
 
 [[committees]]
 name = "Health and Demography"

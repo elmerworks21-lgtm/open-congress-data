@@ -1,8 +1,11 @@
 id = "01K67YJJABQF8TVXF5JZ06XWE6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01581"
+
+[meta]
 bill_number = 1581
 congress = 17
-canonical = "SBN-01581"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1581", "https://web.senate.gov.ph/lisdata/2673122960!.pdf",]
 title = "LAND TRANSPORTATION OFFICE (LTO) IN THE CITY OF VALENCIA, BUKIDNON"
 date_filed = "2017-09-11"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING A LAND TRANSPORT OFFICE (LTO) IN THE CITY OF V
 scope = "National"
 subjects = [ "Land Transportation Office (LTO)",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2017-09-11"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-13"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-18"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC SERVICES and FINANCE per Committee Report No. 461, recommending that it be considered in HBN-5627;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-19"
 action = "CONSIDERED IN HBN-5627 UNDER COMMITTEE REPORT NO. 461, WHICH BECAME R.A.NO. 11155 ON DECEMBER 14, 2018."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/19/2018"
+date = "2018-09-19"
 
 [[committees]]
 name = "Public Services"

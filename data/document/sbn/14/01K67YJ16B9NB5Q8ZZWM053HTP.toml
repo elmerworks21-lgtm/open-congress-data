@@ -1,8 +1,11 @@
 id = "01K67YJ16B9NB5Q8ZZWM053HTP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00699"
+
+[meta]
 bill_number = 699
 congress = 14
-canonical = "SBN-00699"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-699", "https://web.senate.gov.ph/lisdata/49214296!.pdf",]
 title = "COMPREHENSIVE DISASTER MANAGEMENT ACT"
 date_filed = "2007-07-03"
@@ -10,53 +13,54 @@ long_title = "AN ACT CREATING THE NATIONAL DISASTER MANAGEMENT COMMISSION, DEFIN
 scope = "National"
 subjects = [ "National Disaster Management Commission",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-23"
 action = "Returned and submitted jointly by the Committee(s) on NATIONAL DEFENSE AND SECURITY, LOCAL GOVERNMENT, PUBLIC SERVICES and FINANCE per Committee Report No. 248, recommending that it be substituted by SBN-3086;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-23"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-23"
 action = "SUBSTITUTED BY SBN-3086, WHICH BECAME R.A.NO. 10121."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/23/2009"
+date = "2009-02-23"
 
 [[committees]]
 name = "National Defense and Security"

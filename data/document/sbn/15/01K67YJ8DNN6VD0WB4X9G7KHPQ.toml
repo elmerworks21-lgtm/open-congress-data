@@ -1,8 +1,11 @@
 id = "01K67YJ8DNN6VD0WB4X9G7KHPQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01890"
+
+[meta]
 bill_number = 1890
 congress = 15
-canonical = "SBN-01890"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1890", "https://web.senate.gov.ph/lisdata/94618002!.pdf",]
 title = "ELECTRONIC FUND TRANSFER ACT"
 date_filed = "2010-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE RIGHTS AND LIABILITIES OF PARTIES IN ELECTRONI
 scope = "National"
 subjects = [ "Electronic Fund Transfer",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-22"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-13"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2010"
+date = "2010-09-13"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

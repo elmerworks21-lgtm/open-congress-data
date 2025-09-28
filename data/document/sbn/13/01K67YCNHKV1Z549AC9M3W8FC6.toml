@@ -1,8 +1,11 @@
 id = "01K67YCNHKV1Z549AC9M3W8FC6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00318"
+
+[meta]
 bill_number = 318
 congress = 13
-canonical = "SBN-00318"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-318", "https://web.senate.gov.ph/lisdata/1475770!.pdf",]
 title = "WOMEN'S AND CHILDREN'S RESOURCE DEV'T CRISIS ASSISTANCE ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING RESOURCE DEVELOPMENT AND CRISIS ASSISTANCE CEN
 scope = "National"
 subjects = [ "Women/Children (Crisis Assistance)", "Resource Dev`T/Crisis Assistance Centers",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

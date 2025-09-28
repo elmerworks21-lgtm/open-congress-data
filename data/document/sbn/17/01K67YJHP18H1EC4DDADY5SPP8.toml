@@ -1,8 +1,11 @@
 id = "01K67YJHP18H1EC4DDADY5SPP8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00774"
+
+[meta]
 bill_number = 774
 congress = 17
-canonical = "SBN-00774"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-774", "https://web.senate.gov.ph/lisdata/2430620909!.pdf",]
 title = "WIRELESS TELEPHONE CONSUMER PROTECTION ACT"
 date_filed = "2016-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROTECTING CONSUMERS OF WIRELESS TELEPHONE SERVICES."
 scope = "National"
 subjects = [ "Consumer Protection", "Telephones",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2016"
+date = "2016-08-10"
 
 [[committees]]
 name = "Public Services"

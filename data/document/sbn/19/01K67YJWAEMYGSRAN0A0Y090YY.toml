@@ -1,8 +1,11 @@
 id = "01K67YJWAEMYGSRAN0A0Y090YY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02038"
+
+[meta]
 bill_number = 2038
 congress = 19
-canonical = "SBN-02038"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2038", "https://web.senate.gov.ph/lisdata/4133437659!.pdf",]
 title = "PHIVOLCS MODERNIZATION ACT"
 date_filed = "2023-03-22"
@@ -10,45 +13,46 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE INSTITUTE
 scope = "National"
 subjects = [ "Philippine Institute of Volcanology and Seismology (Phivolcs)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Villanueva, Joel, Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-22"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-17"
 action = "Letter from Senator JOEL VILLANUEVA, dated June 21, 2023, conveying his intention to be made co-author of SBN-2038, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-15"
 action = "Letter from Senator FRANCIS G. ESCUDERO, dated August 14, 2023, conveying his intention to be a co-author of SBN-2038, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-01"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Returned and submitted jointly by the Committees on SCIENCE AND TECHNOLOGY, WAYS AND MEANS and FINANCE per Committee Report No. 322, recommending that it be substituted by SBN-2825;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "SUBSTITUTED BY SBN-2825 UNDER COMMITTEE REPORT NO. 322, WHICH BECAME REPUBLIC ACT NO. 12180 ON APRIL 24, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/16/2024"
+date = "2024-09-16"
 
 [[committees]]
 name = "Science and Technology"

@@ -1,8 +1,11 @@
 id = "01K67YJ9HQDSAA1Y32FR0CT76G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03185"
+
+[meta]
 bill_number = 3185
 congress = 15
-canonical = "SBN-03185"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3185", "https://web.senate.gov.ph/lisdata/1320611080!.pdf",]
 title = "MONTHLY GRATUITY AND PRIVILEGES TO AN AWARDEE OF THE MEDAL OF VALOR"
 date_filed = "2012-05-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS IN REPUBLIC ACT NO. 9049, OTHER
 scope = "National"
 subjects = [ "Medal of Valor",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2012-05-08"
 action = "Introduced by Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-09"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; NATIONAL DEFENSE AND SECURITY; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2012"
+date = "2012-05-09"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

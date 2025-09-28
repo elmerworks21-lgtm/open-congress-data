@@ -1,8 +1,11 @@
 id = "01K67YJTYRCT42EWGGZ53G89R8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00124"
+
+[meta]
 bill_number = 124
 congress = 19
-canonical = "SBN-00124"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-124", "https://web.senate.gov.ph/lisdata/3783234273!.pdf",]
 title = "NATIONAL WETLANDS CONSERVATION ACT"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL WETLAND POLICY, PROVIDING MECHANISM
 scope = "National"
 subjects = [ "Wetlands Conservation",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

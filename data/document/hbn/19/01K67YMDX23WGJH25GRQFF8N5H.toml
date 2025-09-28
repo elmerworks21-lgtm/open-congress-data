@@ -1,28 +1,32 @@
 id = "01K67YMDX23WGJH25GRQFF8N5H"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11326"
+
+[meta]
 bill_number = 11326
 congress = 19
-canonical = "HBN-11326"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11326", "https://web.senate.gov.ph/lisdata/4594941985!.pdf",]
 title = "POLYTECHNIC INSTITUTION (TAFT, EASTERN SAMAR)"
 long_title = "AN ACT CONVERTING THE SAMAR NATIONAL SCHOOL OF ARTS AND TRADE IN THE MUNICIPALITY OF TAFT, PROVINCE OF EASTERN SAMAR INTO A POLYTECHNIC INSTITUTION TO BE ADMINISTERED AND SUPERVISED BY THE TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-02-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2025"
+date = "2025-02-05"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

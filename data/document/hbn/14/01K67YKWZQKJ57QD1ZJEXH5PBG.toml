@@ -1,24 +1,28 @@
 id = "01K67YKWZQKJ57QD1ZJEXH5PBG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06444"
+
+[meta]
 bill_number = 6444
 congress = 14
-canonical = "HBN-06444"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6444", "https://web.senate.gov.ph/lisdata/1217010655!.pdf",]
 title = "REGIONAL TRIAL COURT BRANCHES (DAET, CAMARINES NORTE)"
 long_title = "AN ACT CREATING TWO (2) ADDITIONAL REGIONAL TRIAL COURT BRANCHES FOR THE PROVINCE OF CAMARINES NORTE, TO BE STATIONED IN THE MUNICIPALITY OF DAET, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (F) OF BATAS PAMBANSA BLG. 129, AS AMENDED, OTHERWISE KNOWN AS THE ‘JUDICIARY REORGANIZATION ACT OF 1980’, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Judiciary Reorganization Act of 1980, Amendments", "Courts (Regional Trial Courts)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-18"
 action = "Filed in the Senate requesting for concurrence by Representatives LIWAYWAY VINZONS-CHATO, MATIAS V. DEFENSOR JR., JUNIE E. CUA, EDUARDO C. ZIALCITA and ROILO S. GOLEZ, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2009"
+date = "2009-08-19"
 
 [[committees]]
 name = "Justice and Human Rights"

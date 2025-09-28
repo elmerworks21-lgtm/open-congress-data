@@ -1,8 +1,11 @@
 id = "01K67YJDYMG8APA6ESW3DK70N0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02504"
+
+[meta]
 bill_number = 2504
 congress = 16
-canonical = "SBN-02504"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2504", "https://web.senate.gov.ph/lisdata/2024117351!.pdf",]
 title = "MULTI-HAZARD MAPS AND FLOOD HAZARD MAPS"
 date_filed = "2014-12-09"
@@ -10,25 +13,26 @@ long_title = "AN ACT REQUIRING MULTI-HAZARD MAPS AND FLOOD HAZARD MAPS IN EVERY 
 scope = "National"
 subjects = [ "Map (National Geohazard Map)", "Local Government Units (LGUS)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2014-12-09"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-07"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, LOCAL GOVERNMENT and FINANCE per Committee Report No. 329, recommending that these be archived;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-08"
 action = "Sent to the Archives;"
 
 [[status]]
 status = "Sent to the Archives"
-date = "12/8/2015"
+date = "2015-12-08"
 
 [[committees]]
 name = "Environment and Natural Resources"

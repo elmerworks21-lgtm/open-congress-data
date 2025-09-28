@@ -1,8 +1,11 @@
 id = "01K67YJ37J89D2XWDNKB2QDP5H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03357"
+
+[meta]
 bill_number = 3357
 congress = 14
-canonical = "SBN-03357"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3357", "https://web.senate.gov.ph/lisdata/1201210570!.pdf",]
 title = "PATIENT GRIEVANCE MECHANISM ACT OF 2009"
 date_filed = "2009-07-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PATIENT GRIEVANCE MECHANISM FOR TREATMENT-RE
 scope = "National"
 subjects = [ "Patients",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2009-07-28"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-11"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2009"
+date = "2009-08-11"
 
 [[committees]]
 name = "Health and Demography"

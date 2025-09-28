@@ -1,8 +1,11 @@
 id = "01K67YJVKW90C511DWRHSC465H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01075"
+
+[meta]
 bill_number = 1075
 congress = 19
-canonical = "SBN-01075"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1075", "https://web.senate.gov.ph/lisdata/3903035481!.pdf",]
 title = "EXPANDING THE BENEFITS OF THE SOCIAL SECURITY SYSTEM"
 date_filed = "2022-08-08"
@@ -10,25 +13,26 @@ long_title = "AN ACT EXPANDING THE BENEFITS OF THE SOCIAL SECURITY SYSTEM TO PRO
 scope = "National"
 subjects = [ "Social Security System (SSS)",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-08"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-06"
 action = "Read on First Reading and Referred to the Committees on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-18"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2022"
+date = "2022-09-06"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

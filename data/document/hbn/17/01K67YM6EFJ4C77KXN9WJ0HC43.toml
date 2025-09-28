@@ -1,24 +1,28 @@
 id = "01K67YM6EFJ4C77KXN9WJ0HC43"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07869"
+
+[meta]
 bill_number = 7869
 congress = 17
-canonical = "HBN-07869"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7869", "https://web.senate.gov.ph/lisdata/2845924795!.pdf",]
 title = "FISH PORT (SOUTHERN LEYTE)"
 long_title = "AN ACT ESTABLISHING A FISH PORT IN BARANGAY ICHON, MUNICIPALITY OF MACROHON, PROVINCE OF SOUTHERN LEYTE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Fish Port",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-29"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2018"
+date = "2018-08-29"
 
 [[committees]]
 name = "Agriculture and Food"

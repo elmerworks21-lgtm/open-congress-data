@@ -1,8 +1,11 @@
 id = "01K67YJV6JE0YSG7GVWZG3K6GQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00480"
+
+[meta]
 bill_number = 480
 congress = 19
-canonical = "SBN-00480"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-480", "https://web.senate.gov.ph/lisdata/3824134678!.pdf",]
 title = "MABCA NATIONAL HIGH SCHOOL (SAGÑAY, CAMARINES SUR)"
 date_filed = "2022-07-13"
@@ -10,37 +13,38 @@ long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY MABCA, MUNI
 scope = "Local"
 subjects = [ "Schools, Establishment",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-22"
 action = "Transferred from the Committee on Rules to the Committees on BASIC EDUCATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-14"
 action = "Returned and submitted jointly by the Committees on BASIC EDUCATION and FINANCE per Committee Report No. 54, recommending that it be considered in HBN-6669;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-14"
 action = "CONSIDERED IN HBN-6669 UNDER COMMITTEE REPORT NO. 54."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/14/2023"
+date = "2023-03-14"
 
 [[committees]]
 name = "Basic Education"

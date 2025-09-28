@@ -1,8 +1,11 @@
 id = "01K67YJCC29VB7FVH61X03VXKG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00133"
+
+[meta]
 bill_number = 133
 congress = 16
-canonical = "SBN-00133"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-133", "https://web.senate.gov.ph/lisdata/1594413178!.pdf",]
 title = "STIFFER PENALTIES FOR VIOLATIONS OF R.A.NOS. 9231 AND 7610"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTIONS 16(A) AND 16(B) OF REPUBLIC ACT NO. 9231,
 scope = "National"
 subjects = [ "Child Abuse, Exploitation and Discrimination Act (R.A.No. 7610)", "Child Labor",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2013"
+date = "2013-07-24"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

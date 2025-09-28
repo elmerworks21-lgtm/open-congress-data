@@ -1,8 +1,11 @@
 id = "01K67YJWT290ZHR8V4TV6P0HBB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02650"
+
+[meta]
 bill_number = 2650
 congress = 19
-canonical = "SBN-02650"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2650", "https://web.senate.gov.ph/lisdata/4400939952!.pdf",]
 title = "REVISED PHILIPPINE COAST GUARD LAW OF 2009"
 date_filed = "2024-05-02"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION 
 scope = "National"
 subjects = [ "Philippine Coast Guard",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-02"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-11"
 action = "Returned and submitted jointly by the Committees on PUBLIC SERVICES, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, WAYS AND MEANS and FINANCE per Committee Report No. 431, recommending that it be substituted by SBN-2903;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-11"
 action = "SUBSTITUTED BY SBN-2903 UNDER COMMITTEE REPORT NO. 431."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/11/2024"
+date = "2024-12-11"
 
 [[committees]]
 name = "Public Services"

@@ -1,28 +1,32 @@
 id = "01K67YMD83HVNBHMCV0TFXF672"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07744"
+
+[meta]
 bill_number = 7744
 congress = 19
-canonical = "HBN-07744"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7744", "https://web.senate.gov.ph/lisdata/4168837967!.pdf",]
 title = "ENHANCING THE CONTINUING PROFESSIONAL DEVELOPMENT OF FILIPINO PROFESSIONALS"
 long_title = "AN ACT ENHANCING THE CONTINUING PROFESSIONAL DEVELOPMENT OF FILIPINO PROFESSIONALS AS AN INTEGRAL COMPONENT OF CAREER PROGRESSION AND SPECIALIZATION PROGRAMS, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10912, OTHERWISE KNOWN AS THE ''CONTINUING PROFESSIONAL DEVELOPMENT ACT OF 2016''"
 scope = "National"
 subjects = [ "Continuing Professional Development (R.A.No. 10912)",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-06-14"
 action = "Conducted CONSULTATION/OCULAR;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

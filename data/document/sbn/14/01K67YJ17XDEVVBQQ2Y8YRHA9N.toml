@@ -1,8 +1,11 @@
 id = "01K67YJ17XDEVVBQQ2Y8YRHA9N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00776"
+
+[meta]
 bill_number = 776
 congress = 14
-canonical = "SBN-00776"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-776", "https://web.senate.gov.ph/lisdata/50004393!.pdf",]
 title = "STUDENT EMPLOYMENT FOR THE WHOLE YEAR"
 date_filed = "2007-07-03"
@@ -10,33 +13,34 @@ long_title = "AN ACT TO STRENGTHEN THE SPECIAL PROGRAM FOR EMPLOYMENT OF STUDENT
 scope = "National"
 subjects = [ "Students Employment Program",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-10"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE per Committee Report No. 41, recommending that it be substituted by SBN-2116;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-11"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-11"
 action = "SUBSTITUTED BY SBN-2116 WHICH BECAME R.A.NO. 9547."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/11/2008"
+date = "2008-03-11"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

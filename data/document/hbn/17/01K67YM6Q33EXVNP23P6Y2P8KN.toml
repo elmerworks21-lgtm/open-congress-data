@@ -1,48 +1,52 @@
 id = "01K67YM6Q33EXVNP23P6Y2P8KN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08908"
+
+[meta]
 bill_number = 8908
 congress = 17
-canonical = "HBN-08908"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8908", "https://web.senate.gov.ph/lisdata/2958826284!.pdf",]
 title = "OFFICE FOR SOCIAL WELFARE ATTACHE"
 long_title = "AN ACT ESTABLISHING THE OFFICE FOR SOCIAL WELFARE ATTACHE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT OF 1995, AS AMENDED, AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Social Welfare Attache", "Overseas Filipino Workers (OFW)", "Migrant Workers and Overseas Filipinos Act of 1995 (R.A.No. 8042)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Senate adopted HBN-8908 as an amendment to SBN-1819;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-07"
 action = "House of Representatives designated Representatives Manalo, Villarica, Salo, Calderon and Tejada as its conferees to the Bicameral Conference Committee on the disagreeing provisions of HBN-8908 and SBN-1819 on February 6, 2019; (See: O.B. dated May 20, 2019)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-27"
 action = "Letter from Acting Secretary General of the House of Representatives, Mr. Dante Roberto P. Maling, dated February 26, 2019, transmitting nine (9) enrolled copies of the consolidated version of HBN-8908 and SBN-1819, for the signature of Senate Secretary Myra Marie D. Villarica and Senate President Vicente C. Sotto III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-03-19"
 action = "Letter for Speaker Gloria Macapagal-Arroyo, dated March 18, 2019, returning eight (8) enrolled copies of HBN-8908, which was adopted as an amendment to SBN-1819, which were signed by Senate Secretary Atty. Myra Marie D. Villarica and Senate President Vicente C. Sotto III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "Approved and signed into law, in consolidation with SBN-1819, by the President of the Philippines, His Excellency, President Rodrigo Roa Duterte on April 17, 2019 and became (Communication received by the LBIS on July 16, 2019)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "REPUBLIC ACT NO. 11299. (See: O.B. dated August 19, 2019, 18th Congress)"
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "4/17/2019"
+date = "2019-04-17"
 
 [[committees]]
 name = "Rules"

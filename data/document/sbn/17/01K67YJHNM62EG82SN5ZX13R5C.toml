@@ -1,8 +1,11 @@
 id = "01K67YJHNM62EG82SN5ZX13R5C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00754"
+
+[meta]
 bill_number = 754
 congress = 17
-canonical = "SBN-00754"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-754", "https://web.senate.gov.ph/lisdata/2428620887!.pdf",]
 title = "BOARD OF CLAIMS FOR VICTIMS OF UNJUST IMPRISONMENT"
 date_filed = "2016-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 7309, ENTITLE
 scope = "National"
 subjects = [ "Board of Claims", "Unjust Imprisonment", "Department of Justice (DOJ)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2016"
+date = "2016-08-10"
 
 [[committees]]
 name = "Justice and Human Rights"

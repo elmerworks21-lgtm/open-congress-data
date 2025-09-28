@@ -1,8 +1,11 @@
 id = "01K67YCPFBXV4101BD44NSF1MX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01930"
+
+[meta]
 bill_number = 1930
 congress = 13
-canonical = "SBN-01930"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1930", "https://web.senate.gov.ph/lisdata/32362410!.pdf",]
 title = "BUDGETARY REFORM ACT (AMENDMENTS)"
 date_filed = "2005-02-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE SUBMISSION TO CONGRESS OF THE CORPORATE BUDGE
 scope = "National"
 subjects = [ "Budgetary Reform Act of 1977 (Pd 1177)", "Government-Owned/Controlled Corp. (GOCC)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2005-02-24"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-28"
 action = "Read on First Reading and referred to the Committee(s) on FINANCE; and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/28/2005"
+date = "2005-02-28"
 
 [[committees]]
 name = "Finance"

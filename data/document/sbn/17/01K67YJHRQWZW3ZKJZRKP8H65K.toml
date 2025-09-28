@@ -1,8 +1,11 @@
 id = "01K67YJHRQWZW3ZKJZRKP8H65K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00898"
+
+[meta]
 bill_number = 898
 congress = 17
-canonical = "SBN-00898"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-898", "https://web.senate.gov.ph/lisdata/2445421037!.pdf",]
 title = "ELECTRICITY RATE REDUCTION ACT OF 2016"
 date_filed = "2016-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT DIRECTING THE REDUCTION OF ELECTRICITY RATES THROUGH THE UT
 scope = "National"
 subjects = [ "Electricity Rate Reduction",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-26"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee on ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Energy"

@@ -1,8 +1,11 @@
 id = "01K67YJHMWGG5MVA23XZD1357J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00717"
+
+[meta]
 bill_number = 717
 congress = 17
-canonical = "SBN-00717"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-717", "https://web.senate.gov.ph/lisdata/2423620850!.pdf",]
 title = "PHILIPPINE ABACA INDUSTRY DEVELOPMENT PROGRAM OF 2016"
 date_filed = "2016-07-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE PHILIPPINE ABACA INDUSTRY DEVELOPMEN
 scope = "National"
 subjects = [ "Abaca",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2016"
+date = "2016-08-10"
 
 [[committees]]
 name = "Agriculture and Food"

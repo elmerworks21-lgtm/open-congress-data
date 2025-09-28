@@ -1,8 +1,11 @@
 id = "01K67YJPFB77FW33XHGZNJ9HVE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00139"
+
+[meta]
 bill_number = 139
 congress = 18
-canonical = "SBN-00139"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-139", "https://web.senate.gov.ph/lisdata/3039727238!.pdf",]
 title = "PHILIPPINE LIVESTOCK INDUSTRY DEVELOPMENT ACT OF 2019"
 date_filed = "2019-07-02"
@@ -10,33 +13,34 @@ long_title = "AN ACT TO RESTRUCTURE AND RATIONALIZE THE LIVESTOCK INDUSTRY IN OR
 scope = "National"
 subjects = [ "Livestock",]
 authors_raw = "Villar, Cynthia A., Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform, SBN-139 shall now be referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM)"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-18"
 action = "Senator MARIA LOURDES NANCY S. BINAY was made a co-author;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

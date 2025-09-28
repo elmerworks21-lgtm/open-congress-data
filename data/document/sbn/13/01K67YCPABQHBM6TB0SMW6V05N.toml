@@ -1,8 +1,11 @@
 id = "01K67YCPABQHBM6TB0SMW6V05N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01686"
+
+[meta]
 bill_number = 1686
 congress = 13
-canonical = "SBN-01686"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1686", "https://web.senate.gov.ph/lisdata/29272470!.pdf",]
 title = "WIRE, ELECTRONIC & ORAL COMMUNICATIONS INTERCEPTION BAN"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING WIRE, ELECTRONIC AND ORAL COMMUNICATIONS INTERC
 scope = "National"
 subjects = [ "Wiretapping Law (R.A.No. 4200)", "Communications Interception Ban", "Wire, Electronic and Oral Communications",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Justice and Human Rights"

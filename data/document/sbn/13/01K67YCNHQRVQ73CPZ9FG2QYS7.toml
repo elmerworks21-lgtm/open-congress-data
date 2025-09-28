@@ -1,8 +1,11 @@
 id = "01K67YCNHQRVQ73CPZ9FG2QYS7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00325"
+
+[meta]
 bill_number = 325
 congress = 13
-canonical = "SBN-00325"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-325", "https://web.senate.gov.ph/lisdata/1482777!.pdf",]
 title = "DEVELOPMENT BANK OF THE PHILIPPINES CHARTER (HOUSING BANK)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE COUNTRY'S URBAN DEVELOPMENT PROGRAM THROU
 scope = "National"
 subjects = [ "Development Bank Charter (Eo 81)", "Housing Bank (Dev`T Bank of the Phils.)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; URBAN PLANNING, HOUSING AND RESETTLEMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

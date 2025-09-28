@@ -1,25 +1,29 @@
 id = "01K67YJ29PKBQ9TA3R5R7WY9WP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02049"
+
+[meta]
 bill_number = 2049
 congress = 14
-canonical = "SBN-02049"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2049", "https://web.senate.gov.ph/lisdata/67956014!.pdf",]
 title = "INDUSTRIAL AND LABOR DISPUTE SETTLEMENT ACT OF 2008"
 date_filed = "2008-02-04"
 long_title = "AN ACT TO ENHANCE THE PHILIPPINE INDUSTRIAL AND LABOR DISPUTE SETTLEMENT SYSTEM AND FOR THAT PURPOSE, AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
 scope = "National"
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-04"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-05"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2008"
+date = "2008-02-05"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

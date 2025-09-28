@@ -1,8 +1,11 @@
 id = "01K67YJE0Y547SC8JN6SPT1SGQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02621"
+
+[meta]
 bill_number = 2621
 congress = 16
-canonical = "SBN-02621"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2621", "https://web.senate.gov.ph/lisdata/2050017604!.pdf",]
 title = "ANTI-PROSTITUTION ACT OF 2015"
 date_filed = "2015-02-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT ADDRESSING THE SYSTEM OF PROSTITUTION, IMPOSING PENALTIES O
 scope = "National"
 subjects = [ "Prostitution", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2015-02-02"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-03"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/3/2015"
+date = "2015-02-03"
 
 [[committees]]
 name = "Justice and Human Rights"

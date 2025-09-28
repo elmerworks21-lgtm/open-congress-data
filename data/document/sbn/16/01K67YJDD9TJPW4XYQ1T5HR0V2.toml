@@ -1,8 +1,11 @@
 id = "01K67YJDD9TJPW4XYQ1T5HR0V2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01742"
+
+[meta]
 bill_number = 1742
 congress = 16
-canonical = "SBN-01742"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1742", "https://web.senate.gov.ph/lisdata/1790815134!.pdf",]
 title = "AMENDING ART. 310, PENAL CODE (QUALIFIED THEFT)"
 date_filed = "2013-09-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE P
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)", "Theft and Robbery", "Calamity/Disaster",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-21"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/21/2013"
+date = "2013-10-21"
 
 [[committees]]
 name = "Justice and Human Rights"

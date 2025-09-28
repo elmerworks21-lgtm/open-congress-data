@@ -1,8 +1,11 @@
 id = "01K67YJHYSEWGA65MB5TV8RC4G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01165"
+
+[meta]
 bill_number = 1165
 congress = 17
-canonical = "SBN-01165"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1165", "https://web.senate.gov.ph/lisdata/2486521419!.pdf",]
 title = "NO GARAGE, NO CAR ACT OF 2016"
 date_filed = "2016-09-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING PARKING SPACE FROM MOTOR VEHICLE BUYERS IN METROP
 scope = "National"
 subjects = [ "Motor Vehicles",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-09-20"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-26"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/26/2016"
+date = "2016-09-26"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

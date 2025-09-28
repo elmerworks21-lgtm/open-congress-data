@@ -1,8 +1,11 @@
 id = "01K67YJHEZJX9SJ9KKHJ4JR9V1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00436"
+
+[meta]
 bill_number = 436
 congress = 17
-canonical = "SBN-00436"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-436", "https://web.senate.gov.ph/lisdata/2387320652!.pdf",]
 title = "ESTABLISHING ENVIRONMENTAL UNITS"
 date_filed = "2016-07-19"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING ENVIRONMENTAL UNITS IN EVERY BANKING INSTITUTI
 scope = "National"
 subjects = [ "Environmental Units",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

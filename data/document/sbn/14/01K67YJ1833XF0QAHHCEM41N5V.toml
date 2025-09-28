@@ -1,8 +1,11 @@
 id = "01K67YJ1833XF0QAHHCEM41N5V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00786"
+
+[meta]
 bill_number = 786
 congress = 14
-canonical = "SBN-00786"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-786", "https://web.senate.gov.ph/lisdata/50104403!.pdf",]
 title = "HIGH VALUE CROPS DEVELOPMENT ACT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO AMEND R.A. 7900 OTHERWISE KNOWN AS THE HIGH VALUE CROPS 
 scope = "National"
 subjects = [ "High Value Crops Development (R.A.No. 7900)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Agriculture and Food"

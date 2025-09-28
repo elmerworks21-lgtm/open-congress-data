@@ -1,24 +1,28 @@
 id = "01K67YKWZWCPNVYMT3CTWS7RZ3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06451"
+
+[meta]
 bill_number = 6451
 congress = 14
-canonical = "HBN-06451"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6451", "https://web.senate.gov.ph/lisdata/1216410661!.pdf",]
 title = "SANTA JUANA NATIONAL HIGH SCHOOL (SURIGAO DEL SUR)"
 long_title = "AN ACT SEPARATING THE DOÑA CARMEN NATIONAL HIGH SCHOOL – SANTA JUANA ANNEX IN THE MUNICIPALITY OF TAGBINA, PROVINCE OF SURIGAO DEL SUR FROM THE DOÑA CARMEN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS SANTA JUANA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-18"
 action = "Filed in the Senate requesting for concurrence by Representatives FLORENCIO C. GARAY, DEL R. DE GUZMAN, EDCEL C. LAGMAN and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2009"
+date = "2009-08-19"
 
 [[committees]]
 name = "Education, Arts and Culture"

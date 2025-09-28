@@ -1,8 +1,11 @@
 id = "01K67YJHM4GF9PW4W3PF5FVGG2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00682"
+
+[meta]
 bill_number = 682
 congress = 17
-canonical = "SBN-00682"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-682", "https://web.senate.gov.ph/lisdata/2420220810!.pdf",]
 title = "COMPREHENSIVE AND CONTINUING URBAN DEVELOPMENT AND HOUSING PROGRAM"
 date_filed = "2016-07-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING AND SECURING THE RIGHTS OF THE URBAN POOR AGA
 scope = "National"
 subjects = [ "Urban Development and Housing Act (R.A.No. 7279)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2016"
+date = "2016-08-09"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

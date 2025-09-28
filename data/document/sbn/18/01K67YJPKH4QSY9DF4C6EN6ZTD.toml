@@ -1,8 +1,11 @@
 id = "01K67YJPKH4QSY9DF4C6EN6ZTD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00323"
+
+[meta]
 bill_number = 323
 congress = 18
-canonical = "SBN-00323"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-323", "https://web.senate.gov.ph/lisdata/3060627464!.pdf",]
 title = "PHILIPPINE INDEPENDENT FILM INCENTIVES ACT OF 2019"
 date_filed = "2019-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT SUPPORTING THE PRODUCTION OF PHILIPPINE INDEPENDENT FILMS B
 scope = "National"
 subjects = [ "Film", "Movie Industry",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-10"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Public Information and Mass Media"

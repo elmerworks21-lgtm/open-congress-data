@@ -1,8 +1,11 @@
 id = "01K67YJ1GP73DH80EVNNY7DQBW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01201"
+
+[meta]
 bill_number = 1201
 congress = 14
-canonical = "SBN-01201"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1201", "https://web.senate.gov.ph/lisdata/54964907!.pdf",]
 title = "AMENDING E.O. 209, IMPEDIMENTS KNOWN TO LOCAL CIVIL REGISTRAR PIROR TO ISSUANCE OF MARRIAGE LICENSE"
 date_filed = "2007-07-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO AMEND EXECUTIVE ORDER NO. 209, ALSO KNOWN AS THE FAMILY 
 scope = "National"
 subjects = [ "Family Code (E.O.No. 209)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-05"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

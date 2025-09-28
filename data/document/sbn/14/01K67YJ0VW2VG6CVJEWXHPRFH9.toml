@@ -1,8 +1,11 @@
 id = "01K67YJ0VW2VG6CVJEWXHPRFH9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00200"
+
+[meta]
 bill_number = 200
 congress = 14
-canonical = "SBN-00200"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-200", "https://web.senate.gov.ph/lisdata/43003695!.pdf",]
 title = "CONTRACTUAL WORKERS (INCREASING MONTHLY SALARY, 50% MONTHLY AND/OR DAILY COMPENSATION)"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE MONTHLY SALARY OF CONTRACTUAL WORKERS BY FIF
 scope = "National"
 subjects = [ "Contractual Workers, Salary Increase",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2007"
+date = "2007-07-31"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

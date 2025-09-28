@@ -1,8 +1,11 @@
 id = "01K67YJTYQRZDK0E0XY1R2EWH3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00122"
+
+[meta]
 bill_number = 122
 congress = 19
-canonical = "SBN-00122"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-122", "https://web.senate.gov.ph/lisdata/3783034271!.pdf",]
 title = "MULTI-SPECIES MARINE HATCHERY IN THE MUNIICIPALITY OF TALACOGON, AGUSAN DEL SUR"
 date_filed = "2022-07-07"
@@ -10,25 +13,26 @@ long_title = "AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN THE MUNIICI
 scope = "Local"
 subjects = [ "Multi-Species Marine Hatchery",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-08"
 action = "Transferred from the Committee on Rules to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

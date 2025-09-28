@@ -1,8 +1,11 @@
 id = "01K67YCNYKT6NMC1YXH3C1SSWR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01042"
+
+[meta]
 bill_number = 1042
 congress = 13
-canonical = "SBN-01042"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1042", "https://web.senate.gov.ph/lisdata/22461366!.pdf",]
 title = "CONVERGENCE POLICY ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH STRUCTURAL REFORMS IN THE INFORMATION AND COMM
 scope = "National"
 subjects = [ "Convergence Policy Act", "Information Technology/Broadband Service",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Public Services"

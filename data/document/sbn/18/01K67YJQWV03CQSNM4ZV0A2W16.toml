@@ -1,8 +1,11 @@
 id = "01K67YJQWV03CQSNM4ZV0A2W16"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02111"
+
+[meta]
 bill_number = 2111
 congress = 18
-canonical = "SBN-02111"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2111", "https://web.senate.gov.ph/lisdata/3475431554!.pdf",]
 title = "THE BATANGAS STATE UNVERSITY CHARTER OF 2021"
 date_filed = "2021-03-24"
@@ -10,37 +13,38 @@ long_title = "AN ACT DECLARING THE BATANGAS STATE UNVERSITY AS THE NATIONAL ENGI
 scope = "Local"
 subjects = [ "Schools, Change of Name",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-24"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-24"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, WAYS AND MEANS and FINANCE per Committee Report No. 406, recommending that it be considered in HBN-9518;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Sponsor: Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "CONSIDERED IN HBN-9518, UNDER COMMITTEE REPORT NO. 406, WHICH BECAME REPUBLIC ACT NO. 11694 ON APRIL 11, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/15/2021"
+date = "2021-12-15"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

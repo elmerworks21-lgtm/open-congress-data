@@ -1,8 +1,11 @@
 id = "01K67YJ8FJ92NZAVG4Y2EGR57E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01986"
+
+[meta]
 bill_number = 1986
 congress = 15
-canonical = "SBN-01986"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1986", "https://web.senate.gov.ph/lisdata/96678108!.pdf",]
 title = "PATERNITY LEAVE ACT"
 date_filed = "2010-07-26"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 2 OF REPUBLIC ACT NO. 8187, OTHERWISE KNOW
 scope = "National"
 subjects = [ "Paternity Leave",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-26"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-14"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2010"
+date = "2010-09-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

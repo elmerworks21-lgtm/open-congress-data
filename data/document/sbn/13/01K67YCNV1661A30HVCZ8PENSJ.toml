@@ -1,8 +1,11 @@
 id = "01K67YCNV1661A30HVCZ8PENSJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00853"
+
+[meta]
 bill_number = 853
 congress = 13
-canonical = "SBN-00853"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-853", "https://web.senate.gov.ph/lisdata/20511541!.pdf",]
 title = "NATIONAL BARANGAY BENEFITS AUGMENTATION FUND"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE BENEFITS OF BARANGAY OFFICIALS, AMENDING FOR
 scope = "National"
 subjects = [ "Barangay Officials (Benefits)", "Nat. Barangay Benefits Augmentation Fund",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2004"
+date = "2004-08-30"
 
 [[committees]]
 name = "Local Government"

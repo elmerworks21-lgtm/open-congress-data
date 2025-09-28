@@ -1,8 +1,11 @@
 id = "01K67YJCF2JF730FMKK9WWDYNH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00281"
+
+[meta]
 bill_number = 281
 congress = 16
-canonical = "SBN-00281"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-281", "https://web.senate.gov.ph/lisdata/1616113388!.pdf",]
 title = "FOREIGN CONSULTANTS"
 date_filed = "2013-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL BRANCHES, SUBDIVISIONS, INSTRUMENTALITIES AND
 scope = "National"
 subjects = [ "Foreign Consultants", "Government-Owned And-Controlled Corporations (GOCC)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-02"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

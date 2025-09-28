@@ -1,8 +1,11 @@
 id = "01K67YJWRTJANERY5D748PBE0P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02605"
+
+[meta]
 bill_number = 2605
 congress = 19
-canonical = "SBN-02605"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2605", "https://web.senate.gov.ph/lisdata/4372939736!.pdf",]
 title = "MASTERPLAN FOR INFRASTRUCTURE AND NATIONAL DEVELOPMENT (MIND) ACT"
 date_filed = "2024-03-13"
@@ -10,45 +13,46 @@ long_title = "AN ACT MANDATING THE FORMULATION AND INSTITUTIONALIZATION OF A COM
 scope = "National"
 subjects = [ "Comprehensive Infrastructure Development Master Plan",]
 authors_raw = "Ejercito, Joseph Victor G., Villar, Mark A., Villanueva, Joel, Go, Christopher Lawrence T., Poe, Grace, Tolentino, Francis \"Tol\" N., Revilla Jr., Ramon Bong, Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-13"
 action = "Prepared and submitted jointly by the Committees on ECONOMIC AFFAIRS (upon the recommendation of its Sub-Committees on the COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN); PUBLIC WORKS and FINANCE with Senators JOSEPH VICTOR G. EJERCITO, MARK A. VILLAR, JOEL VILLANUEVA, CHRISTOPHER LAWRENCE T. GO and GRACE POE as authors per Committee Report No. 236, recommending its approval in substitution of S. Nos. 158, 439, 1987, and 2114;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Sponsor: Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Sponsorship speech delivered by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Co-sponsorship speech of Senators FRANCIS 'TOL' N. TOLENTINO, LOREN B. LEGARDA and JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Manifestation of Senator Tolentino that he be made co-author;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Manifestation of Senator Ejercito that SBN-1563 (authored by Sen. Revilla) and HBN-8078 be transferred from the Committee on Public Works to the Committee on Economic Affairs and subsequently be part of Committee Report No. 236;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-15"
 action = "Letter from Senator MANUEL 'LITO' M. LAPID, dated March 18, 2024, requesting that he be made co-author of SBN-2605, received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/13/2024"
+date = "2024-03-13"
 
 [[committees]]
 name = "Economic Affairs"

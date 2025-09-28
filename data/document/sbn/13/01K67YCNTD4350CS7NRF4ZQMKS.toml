@@ -1,8 +1,11 @@
 id = "01K67YCNTD4350CS7NRF4ZQMKS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00817"
+
+[meta]
 bill_number = 817
 congress = 13
-canonical = "SBN-00817"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-817", "https://web.senate.gov.ph/lisdata/20151479!.pdf",]
 title = "NATIONAL VOLUNTEER SERVICE ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,37 +13,38 @@ long_title = "AN ACT ESTABLISHING A NATIONAL VOLUNTEER SERVICE PROGRAM, STRENGTH
 scope = "National"
 subjects = [ "National Volunteer Service Act",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Senator Richard 'Dick' J. Gordon was made as coauthor on motion of Senator Pangilinan;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-30"
 action = "Returned by the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE per Committee Report No. 231, recommending that it be considered in HBN-4065;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-30"
 action = "Submitted said Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-30"
 action = "CONSIDERED IN HBN-4065."
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-25"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/30/2007"
+date = "2007-01-30"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

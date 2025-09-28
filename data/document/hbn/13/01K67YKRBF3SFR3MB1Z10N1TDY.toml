@@ -1,24 +1,28 @@
 id = "01K67YKRBF3SFR3MB1Z10N1TDY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05770"
+
+[meta]
 bill_number = 5770
 congress = 13
-canonical = "HBN-05770"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5770", "https://web.senate.gov.ph/lisdata/63715355!.pdf",]
 title = "TAMING NATIONAL HIGH SCHOOL (BOHOL)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TAMING, MUNICIPALITY OF DANAO, PROVINCE OF BOHOL TO BE KNOWN AS THE TAMING NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Bohol)", "Taming National High School (Bohol)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-11-22"
 action = "Filed in the Senate requesting for concurrence by Representives ROBERTO C. CAJES, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-23"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/23/2006"
+date = "2006-11-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

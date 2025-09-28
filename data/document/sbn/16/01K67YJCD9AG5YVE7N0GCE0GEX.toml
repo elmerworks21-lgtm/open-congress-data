@@ -1,8 +1,11 @@
 id = "01K67YJCD9AG5YVE7N0GCE0GEX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00191"
+
+[meta]
 bill_number = 191
 congress = 16
-canonical = "SBN-00191"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-191", "https://web.senate.gov.ph/lisdata/1601713254!.pdf",]
 title = "SPECIAL EDUCATION ACT"
 date_filed = "2013-07-01"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING AT LEAST ONE (1) SPECIAL EDUCATION CENTER FOR 
 scope = "National"
 subjects = [ "Special Education",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-12"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2013"
+date = "2013-07-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

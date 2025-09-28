@@ -1,8 +1,11 @@
 id = "01K67YJVGC3Y23TDPW7CSGECZK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00922"
+
+[meta]
 bill_number = 922
 congress = 19
-canonical = "SBN-00922"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-922", "https://web.senate.gov.ph/lisdata/3870335163!.pdf",]
 title = "NEW EMANCIPATION ACT"
 date_filed = "2022-07-28"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR THE EMANCIPATION OF AGRARIAN REFORM BENEFICIA
 scope = "National"
 subjects = [ "Agrarian Reform",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-28"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Returned and submitted jointly by the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM, FINANCE and WAYS AND MEANS per Committee Report No. 24, recommending that it be substituted by SBN-1850;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "SUBSTITUTED BY SBN-1850 UNDER COMMITTEE REPORT NO. 24 WHICH BECAME REPUBLIC ACT NO. 11953 ON JULY 7, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/8/2023"
+date = "2023-02-08"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

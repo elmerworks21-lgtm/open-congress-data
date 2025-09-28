@@ -1,8 +1,11 @@
 id = "01K67YJHQF5E3239E58MXTM9AC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00838"
+
+[meta]
 bill_number = 838
 congress = 17
-canonical = "SBN-00838"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-838", "https://web.senate.gov.ph/lisdata/2437921000!.pdf",]
 title = "ENHANCED CONSUMER ACT OF 2016"
 date_filed = "2016-07-21"
@@ -10,25 +13,26 @@ long_title = "AN ACT GRANTING BROADER PROTECTION TO CONSUMERS AMENDING FOR THE P
 scope = "National"
 subjects = [ "Consumer Act (R.A.No. 7394)", "Consumer Protection",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

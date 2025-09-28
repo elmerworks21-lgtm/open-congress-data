@@ -1,24 +1,28 @@
 id = "01K67YM6JM5ZSG4H4GMNFP7WYV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08553"
+
+[meta]
 bill_number = 8553
 congress = 17
-canonical = "HBN-08553"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8553", "https://web.senate.gov.ph/lisdata/2914525723!.pdf",]
 title = "IDLE GOVERNMENT-OWNED LANDS DISPOSITION ACT"
 long_title = "AN ACT PRESCRIBING THE MECHANISMS TO FACILITATE THE DISPOSITION OF IDLE GOVERNMENT-OWNED LANDS FOR SOCIALIZED HOUSING"
 scope = "National"
 subjects = [ "Land Use", "Idle Government Land", "Housing (Socialized Housing)", "Land Management Bureau",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2018"
+date = "2018-12-10"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

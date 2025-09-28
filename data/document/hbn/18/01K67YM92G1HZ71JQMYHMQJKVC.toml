@@ -1,40 +1,44 @@
 id = "01K67YM92G1HZ71JQMYHMQJKVC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05869"
+
+[meta]
 bill_number = 5869
 congress = 18
-canonical = "HBN-05869"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-5869", "https://web.senate.gov.ph/lisdata/3230729154!.pdf",]
 title = "ANTI-VIOLENCE AGAINST WOMEN AND THEIR CHILDREN ACT OF 2004"
 long_title = "AN ACT DEFINING ELECTRONIC VIOLENCE AGAINST WOMEN AND THEIR CHILDREN, PROVIDING PROTECTIVE MEASURES, AND PRESCRIBING PENALTIES FOR VIOLATIONS THEREOF, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9262, OTHERWISE KNOWN AS THE ANTI-VIOLENCE AGAINST WOMEN AND THEIR CHILDREN ACT OF 2004"
 scope = "Local"
 subjects = [ "Anti-Violence Against Women and Children (VAWC)(R.A.No. 9262)", "Women", "Children/Child Care", "E-Vawc",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-05"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-05"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and SCIENCE AND TECHNOLOGY;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2020"
+date = "2020-02-05"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

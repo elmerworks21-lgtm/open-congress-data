@@ -1,8 +1,11 @@
 id = "01K67YJE0GXJZ2FS1YE0QR2BWG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02600"
+
+[meta]
 bill_number = 2600
 congress = 16
-canonical = "SBN-02600"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2600", "https://web.senate.gov.ph/lisdata/2047317575!.pdf",]
 title = "ADDITIONAL BARANGAY CAPTAINS' INSURANCE ACT OF 2015"
 date_filed = "2015-02-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING ADDITIONAL INSURANCE BENEFITS TO BARANGAY CAPTAINS
 scope = "National"
 subjects = [ "Barangay Captain/Punong Barangay", "Insurance",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2015-02-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-02"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/2/2015"
+date = "2015-02-02"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

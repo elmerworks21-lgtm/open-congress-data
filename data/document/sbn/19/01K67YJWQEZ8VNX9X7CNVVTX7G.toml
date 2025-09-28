@@ -1,8 +1,11 @@
 id = "01K67YJWQEZ8VNX9X7CNVVTX7G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02561"
+
+[meta]
 bill_number = 2561
 congress = 19
-canonical = "SBN-02561"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2561", "https://web.senate.gov.ph/lisdata/4351839578!.pdf",]
 title = "REVISED PHILIPPINE COAST GUARD LAW"
 date_filed = "2024-02-21"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION 
 scope = "National"
 subjects = [ "Philippine Coast Guard",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2024-02-21"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-26"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-11"
 action = "Returned and submitted jointly by the Committees on PUBLIC SERVICES, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, WAYS AND MEANS and FINANCE per Committee Report No. 431, recommending that it be substituted by SBN-2903;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-11"
 action = "SUBSTITUTED BY SBN-2903 UNDER COMMITTEE REPORT NO. 431."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/11/2024"
+date = "2024-12-11"
 
 [[committees]]
 name = "Public Services"

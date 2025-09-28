@@ -1,8 +1,11 @@
 id = "01K67YJ2Q611HJ35V2W21KVANQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02642"
+
+[meta]
 bill_number = 2642
 congress = 14
-canonical = "SBN-02642"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2642", "https://web.senate.gov.ph/lisdata/87927964!.pdf",]
 title = "SUMMER ENVIRONMENTAL INTERNSHIP PROGRAM ACT"
 date_filed = "2008-09-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A SUMMER ENVIRONMENTAL INTERNSHIP PROGRAM FOR
 scope = "National"
 subjects = [ "Environmental Internship Summer Program", "Students",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-30"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-30"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/30/2008"
+date = "2008-09-30"
 
 [[committees]]
 name = "Education, Arts and Culture"

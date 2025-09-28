@@ -1,8 +1,11 @@
 id = "01K67YCNZ2AWKG7FZZHCVM7Q60"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01066"
+
+[meta]
 bill_number = 1066
 congress = 13
-canonical = "SBN-01066"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1066", "https://web.senate.gov.ph/lisdata/11121426!.pdf",]
 title = "UNIVERSITY OF THE PHILIPPINES CHARTER OF 2004"
 date_filed = "2004-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO STRENGTHEN THE UNIVERSITY OF THE PHILIPPINES AS THE NATI
 scope = "National"
 subjects = [ "University of the Phil. (U.P. Charter)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-06"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-26"
 action = "Returned jointly by the Committee(s) on Education, Arts and Culture; Ways and Means; and Finance, per Committee Report No. 2, recommending that it be substituted by SBN-1833;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-26"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-26"
 action = "SUBSTITUTED BY SBN-1833."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/26/2004"
+date = "2004-10-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

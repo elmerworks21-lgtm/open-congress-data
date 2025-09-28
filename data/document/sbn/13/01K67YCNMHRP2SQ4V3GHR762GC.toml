@@ -1,8 +1,11 @@
 id = "01K67YCNMHRP2SQ4V3GHR762GC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00482"
+
+[meta]
 bill_number = 482
 congress = 13
-canonical = "SBN-00482"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-482", "https://web.senate.gov.ph/lisdata/1640941!.pdf",]
 title = "BENEFITS TO YOUTHFUL OFFENDERS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLE 192 OF THE CHILD AND YOUTH WELFARE CODE SO
 scope = "National"
 subjects = [ "Youthful Offenders (Benefits)", "Child and Welfare Code (Art. 192)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

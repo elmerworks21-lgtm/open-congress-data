@@ -1,8 +1,11 @@
 id = "01K67YJV4TD7PKR1Y7QWHBGDYH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00400"
+
+[meta]
 bill_number = 400
 congress = 19
-canonical = "SBN-00400"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-400", "https://web.senate.gov.ph/lisdata/3816134601!.pdf",]
 title = "TELEMEDICINE ACT"
 date_filed = "2022-07-12"
@@ -10,25 +13,26 @@ long_title = "AN ACT INSTITUTIONALIZING A NATIONAL TELEMEDICINE SYSTEM IN THE PH
 scope = "National"
 subjects = [ "Telemedicine", "National Telemedicine System", "Health Services",]
 authors_raw = "Tolentino, Francis \"Tol\" N., Escudero, Francis G., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-18"
 action = "Letter from Senator FRANCIS G. ESCUDERO dated August 9, 2022, conveying his intention to be a co-author of SBN-400, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-06-14"
 action = "Letter from Senator JOEL VILLANUEVA dated June 13, 2023, conveying his intention to be a co-author of SBN-400, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Health and Demography"

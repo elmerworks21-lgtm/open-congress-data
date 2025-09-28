@@ -1,8 +1,11 @@
 id = "01K67YK0PDD9603Q7RZG39KYZD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01277"
+
+[meta]
 bill_number = 1277
 congress = 20
-canonical = "SBN-01277"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1277", "https://web.senate.gov.ph/lisdata/4791943935!.pdf",]
 title = "PHLIPPINE BICYCLE ACT"
 date_filed = "2025-08-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE USE OF BICYCLE AS A PRIMARY MODE OF 
 scope = "National"
 subjects = [ "Bicycle",]
 authors_raw = "Villar, Camille A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-27"
 action = "Introduced by Senator CAMILLE A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-16"
 action = "Read on First Reading and Referred to the Committees on SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING; PUBLIC WORKS; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2025"
+date = "2025-09-16"
 
 [[committees]]
 name = "Sustainable Development Goals, Innovation and Futures Thinking"

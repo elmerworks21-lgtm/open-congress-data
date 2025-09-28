@@ -1,28 +1,32 @@
 id = "01K67YMDG8BWPP86J51W06B4QY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09476"
+
+[meta]
 bill_number = 9476
 congress = 19
-canonical = "HBN-09476"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9476", "https://web.senate.gov.ph/lisdata/4313039232!.pdf",]
 title = "MTC IN THE FIRST JUDICIAL REGION (LA TRINIDAD, BENGUET)"
 long_title = "AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE MUNICIPAL TRIAL COURT IN THE FIRST JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF LA TRINIDAD, PROVINCE OF BENGUET, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 30 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED"
 scope = "Local"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-29"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2024"
+date = "2024-01-29"
 
 [[committees]]
 name = "Justice and Human Rights"

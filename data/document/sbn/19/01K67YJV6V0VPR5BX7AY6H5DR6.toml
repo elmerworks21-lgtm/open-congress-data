@@ -1,8 +1,11 @@
 id = "01K67YJV6V0VPR5BX7AY6H5DR6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00493"
+
+[meta]
 bill_number = 493
 congress = 19
-canonical = "SBN-00493"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-493", "https://web.senate.gov.ph/lisdata/3825434691!.pdf",]
 title = "FARM-TO-MARKET ROAD DEVELOPMENT AND ACCELERATION ACT OF 2022"
 date_filed = "2022-07-13"
@@ -10,21 +13,22 @@ long_title = "AN ACT STRENGTHENING THE FARM-TO-MARKET ROAD DEVELOPMENT PROGRAM A
 scope = "National"
 subjects = [ "Farm-To-Market Roads",]
 authors_raw = "Legarda, Loren B., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-30"
 action = "Letter from Senator JOEL VILLANUEVA, dated may 29, 2023, conveying his intention to be a co-author of SBN-493, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2022"
+date = "2022-08-10"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

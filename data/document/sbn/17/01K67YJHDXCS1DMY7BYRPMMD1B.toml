@@ -1,8 +1,11 @@
 id = "01K67YJHDXCS1DMY7BYRPMMD1B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00387"
+
+[meta]
 bill_number = 387
 congress = 17
-canonical = "SBN-00387"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-387", "https://web.senate.gov.ph/lisdata/2382520489!.pdf",]
 title = "CULTURAL EDUCATION PROGRAM ACT"
 date_filed = "2016-07-18"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE INTEGRATION AND MAINSTREAMING OF CULTURAL
 scope = "National"
 subjects = [ "Cultural Education Program", "National Commission for Culture and the Arts", "Department of Education (DepEd)", "Commission on Higher Education (CHED)", "Technical Education and Skills Development Authority (Tesda)",]
 authors_raw = "Legarda, Loren B., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-18"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-26"
 action = "Letter from Senator JOEL VILLANUEVA dated July 17, 2017, requesting that he be made coauthor of SBN-387, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Education, Arts and Culture"

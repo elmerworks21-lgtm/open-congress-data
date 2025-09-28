@@ -1,24 +1,28 @@
 id = "01K67YKR4NS0R451W8SVGQP96C"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05102"
+
+[meta]
 bill_number = 5102
 congress = 13
-canonical = "HBN-05102"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5102", "https://web.senate.gov.ph/lisdata/52004221!.pdf",]
 title = "MIL-AN NATIONAL HIGH SCHOOL (BAGUIO CITY)"
 long_title = "AN ACT SEPARATING THE BAGUIO CITY NATIONAL HIGH SCHOOL – LOAKAN ANNEX IN BARANGAY LOAKAN, BAGUIO CITY FROM THE BAGUIO CITY NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MIL-AN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Baguio City)", "Mil-An National High School (Baguio City)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives MAURICIO G. DOMOGAN, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-23"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2006"
+date = "2006-05-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJV09RED6JD6263MWWQ75"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00191"
+
+[meta]
 bill_number = 191
 congress = 19
-canonical = "SBN-00191"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-191", "https://web.senate.gov.ph/lisdata/3789934773!.pdf",]
 title = "ADVANCED NURSING EDUCATION ACT OF 2022"
 date_filed = "2022-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT 9173 OTHERWISE KN
 scope = "National"
 subjects = [ "Nursing Education Program", "Philippine Nursing Act",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-17"
 action = "Conducted CONSULTATION/OCULAR;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

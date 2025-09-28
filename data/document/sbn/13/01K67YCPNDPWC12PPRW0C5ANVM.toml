@@ -1,8 +1,11 @@
 id = "01K67YCPNDPWC12PPRW0C5ANVM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02223"
+
+[meta]
 bill_number = 2223
 congress = 13
-canonical = "SBN-02223"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2223", "https://web.senate.gov.ph/lisdata/47643923!.pdf",]
 title = "EQUAL ACCESS TO MEDIA TIME AND SPACE"
 date_filed = "2006-03-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 6 OF REPUBLIC ACT 9006, OTHERWISE KNOWN AS
 scope = "National"
 subjects = [ "Fair Elections Act (R.A.No. 9006)",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2006-03-08"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-08"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/8/2006"
+date = "2006-03-08"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,8 +1,11 @@
 id = "01K67YCP2PP91PZDRJJ5RZF112"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01264"
+
+[meta]
 bill_number = 1264
 congress = 13
-canonical = "SBN-01264"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1264", "https://web.senate.gov.ph/lisdata/24751843!.pdf",]
 title = "LICENSING OF FIREARMS DURING ELECTION PERIOD"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 32 OF R. A. NO. 7166 OTHERWISE KNOWN AS TH
 scope = "National"
 subjects = [ "Firearms (Licensing/Election Period)", "R.A.No. 7166 (Synchronized Election Law)", "Elections/Electoral Reforms", "PNP Firearms and Explosives Division",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,8 +1,11 @@
 id = "01K67YK0E1C6GHS2FYZ9NGWSZ7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01071"
+
+[meta]
 bill_number = 1071
 congress = 20
-canonical = "SBN-01071"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1071", "https://web.senate.gov.ph/lisdata/4757143583!.pdf",]
 title = "ANTI-RED-TAGGING ACT"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING AND PENALIZING THE CRIME OF RED-TAGGING"
 scope = "National"
 subjects = [ "Red-Tagging", "Red-Baiting",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-03"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2025"
+date = "2025-09-03"
 
 [[committees]]
 name = "Justice and Human Rights"

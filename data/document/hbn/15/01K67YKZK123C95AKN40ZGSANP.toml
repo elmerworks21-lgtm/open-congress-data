@@ -1,24 +1,28 @@
 id = "01K67YKZK123C95AKN40ZGSANP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02533"
+
+[meta]
 bill_number = 2533
 congress = 15
-canonical = "HBN-02533"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-2533", "https://web.senate.gov.ph/lisdata/1328511188!.pdf",]
 title = "PANGASINAN FOURTH DISTRICT ENGINEERING OFFICE"
 long_title = "AN ACT UPGRADING THE PANGASINAN SECOND SUBDISTRICT ENGINEERING OFFICE INTO A REGULAR DISTRICT ENGINEERING OFFICE TO BE KNOWN AS THE PANGASINAN FOURTH DISTRICT ENGINEERING OFFICE, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Engineering District Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-05-23"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-06-04"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/4/2012"
+date = "2012-06-04"
 
 [[committees]]
 name = "Public Works"

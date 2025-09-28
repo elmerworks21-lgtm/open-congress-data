@@ -1,8 +1,11 @@
 id = "01K67YJCPG2FCV67G57P64CCPG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00642"
+
+[meta]
 bill_number = 642
 congress = 16
-canonical = "SBN-00642"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-642", "https://web.senate.gov.ph/lisdata/1657313811!.pdf",]
 title = "YOUTH WELFARE AND PROTECTION ACT"
 date_filed = "2013-07-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT ENSURING THE WELFARE AND PROTECTION OF MINORS AND FOR OTHER
 scope = "National"
 subjects = [ "Youth",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-05"
 action = "Change of committee referral from the Committee on Youth, Women and Family Relations to the Committee on WOMEN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2013"
+date = "2013-08-06"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

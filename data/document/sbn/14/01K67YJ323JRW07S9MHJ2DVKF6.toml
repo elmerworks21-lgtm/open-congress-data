@@ -1,8 +1,11 @@
 id = "01K67YJ323JRW07S9MHJ2DVKF6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03123"
+
+[meta]
 bill_number = 3123
 congress = 14
-canonical = "SBN-03123"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3123", "https://web.senate.gov.ph/lisdata/105809394!.pdf",]
 title = "INCREASING THE NUMBER OF MEMBERSHIP IN THE HOUSE OF REPRESENTATIVES"
 date_filed = "2009-03-09"
@@ -10,25 +13,26 @@ long_title = "AN ACT INCREASING THE NUMBER OF MEMBERSHIP IN THE HOUSE OF REPRESE
 scope = "National"
 subjects = [ "House of Representatives",]
 authors_raw = "Enrile, Juan Ponce"
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-09"
 action = "Introduced by Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-23"
 action = "In view of the Supreme Court decision that the enactment by Congress of laws creating legislative districts operates in itself to increase the number of seats in the House of Representatives, thus there is no need for the enactment of a general law increasing the number of seats beyond the 250 seats originally prescribed by the Constitution, Senator Juan Ponce Enrile withdraws SBN-2123 on April 22, 2009;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-23"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "4/23/2009"
+date = "2009-04-23"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

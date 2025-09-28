@@ -1,8 +1,11 @@
 id = "01K67YJ190MXVSXR4BNVG3VY5D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00832"
+
+[meta]
 bill_number = 832
 congress = 14
-canonical = "SBN-00832"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-832", "https://web.senate.gov.ph/lisdata/50604449!.pdf",]
 title = "PUBLIC SCHOOL TEACHERS TAX INCENTIVE ACT"
 date_filed = "2007-07-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXEMPTING FROM TAX ALL ALLOWANCES AND BENEFITS GRANTED TO P
 scope = "National"
 subjects = [ "Teachers (Public Schools, Tax Incentives)",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; and EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Ways and Means"

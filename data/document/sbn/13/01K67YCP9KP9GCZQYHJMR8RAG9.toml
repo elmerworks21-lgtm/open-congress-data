@@ -1,8 +1,11 @@
 id = "01K67YCP9KP9GCZQYHJMR8RAG9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01642"
+
+[meta]
 bill_number = 1642
 congress = 13
-canonical = "SBN-01642"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1642", "https://web.senate.gov.ph/lisdata/28282302!.pdf",]
 title = "CONGRESSIONAL APPROVAL RE SALE OF GOVERNMENT PROPERTIES"
 date_filed = "2004-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING CONGRESSIONAL APPROVAL IN THE RECLASSIFICATION AN
 scope = "National"
 subjects = [ "Congressional Approval", "Government Properties (Disposition)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on FOREIGN RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Foreign Relations"

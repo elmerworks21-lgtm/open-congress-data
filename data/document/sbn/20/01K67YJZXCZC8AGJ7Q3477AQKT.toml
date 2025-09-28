@@ -1,8 +1,11 @@
 id = "01K67YJZXCZC8AGJ7Q3477AQKT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00184"
+
+[meta]
 bill_number = 184
 congress = 20
-canonical = "SBN-00184"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-184", "https://web.senate.gov.ph/lisdata/4666142666!.pdf",]
 title = "EARLY DETECTION AND INTERVENTION SERVICES FOR CHILDREN WITH SPECIAL NEEDS ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR COMPREHENSIVE, ACCESSIBLE, AND AFFORDABLE EAR
 scope = "National"
 subjects = [ "Children and Youth with Special Needs (CYSN)", "Health Development",]
 authors_raw = "Villar, Camille A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator CAMILLE A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Health and Demography"

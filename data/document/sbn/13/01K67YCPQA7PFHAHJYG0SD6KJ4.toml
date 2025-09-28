@@ -1,8 +1,11 @@
 id = "01K67YCPQA7PFHAHJYG0SD6KJ4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02311"
+
+[meta]
 bill_number = 2311
 congress = 13
-canonical = "SBN-02311"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2311", "https://web.senate.gov.ph/lisdata/54364503!.pdf",]
 title = "ALTERNATIVE LEARNING SYSTEM ACT"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE BUREAU OF ALTERNATIVE LEARNING SYSTE
 scope = "National"
 subjects = [ "Bureau of Alternative Learning System (BALS)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Education, Arts and Culture"

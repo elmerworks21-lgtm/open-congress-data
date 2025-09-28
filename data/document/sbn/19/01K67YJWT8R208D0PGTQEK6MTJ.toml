@@ -1,8 +1,11 @@
 id = "01K67YJWT8R208D0PGTQEK6MTJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02659"
+
+[meta]
 bill_number = 2659
 congress = 19
-canonical = "SBN-02659"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2659", "https://web.senate.gov.ph/lisdata/4403139991!.pdf",]
 title = "THE FISCAL AUTONOMY ACT OF THE JUDICIAL BRANCH OF GOVERNMENT"
 date_filed = "2024-05-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT DEFINING THE SCOPE AND EXTENT OF THE FISCAL AUTONOMY OF THE
 scope = "National"
 subjects = [ "Fiscal Autonomy", "Judiciary",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-07"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-13"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "Returned and submitted jointly by the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 527, recommending that it be substituted by SBN-2982;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "SUBSTITUTED BY SBN-2982 UNDER COMMITTEE REPORT NO. 527, WHICH BECAME REPUBLIC ACT NO. 12233 ON AUGUST 14, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/4/2025"
+date = "2025-02-04"
 
 [[committees]]
 name = "Justice and Human Rights"

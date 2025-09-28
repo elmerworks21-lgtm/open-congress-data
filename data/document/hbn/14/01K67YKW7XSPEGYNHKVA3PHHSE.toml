@@ -1,24 +1,28 @@
 id = "01K67YKW7XSPEGYNHKVA3PHHSE"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04487"
+
+[meta]
 bill_number = 4487
 congress = 14
-canonical = "HBN-04487"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4487", "https://web.senate.gov.ph/lisdata/84447641!.pdf",]
 title = "NATONIN-AGUINALDO- ALFONSO LISTA-AURORA ROADS"
 long_title = "AN ACT CONVERTING THE ROAD WHICH STARTS AT THE BOUNDARY OF THE MUNICIPALITY OF NATONIN IN MT. PROVINCE, TRAVERSES THE MUNICIPALITIES OF AGUINALDO AND ALFONSO LISTA IN THE PROVINCE OF IFUGAO, AND ENDS AT THE BOUNDARY OF THE MUNICIPALITY OF AURORA IN THE PROVINCE OF ISABELA INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representative SOLOMON R. CHUNGALAO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2008"
+date = "2008-09-17"
 
 [[committees]]
 name = "Public Works"

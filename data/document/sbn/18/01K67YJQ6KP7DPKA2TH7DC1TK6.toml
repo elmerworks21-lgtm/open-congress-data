@@ -1,8 +1,11 @@
 id = "01K67YJQ6KP7DPKA2TH7DC1TK6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01191"
+
+[meta]
 bill_number = 1191
 congress = 18
-canonical = "SBN-01191"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1191", "https://web.senate.gov.ph/lisdata/3191728768!.pdf",]
 title = "SIX BILLION PESOS (P6,000,000,000.00) AS SUPPLEMENTAL APPROPRIATIONS FOR F.Y. 2019"
 date_filed = "2019-11-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT APPROPRIATING THE SUM OF SIX BILLION PESOS (P6,000,000,000.
 scope = "National"
 subjects = [ "Supplemental Appropriations", "Appropriations/Supplemental Appropriations",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2019-11-26"
 action = "Introduced by Senator FRANCIS 'KIKO' N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-27"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/27/2019"
+date = "2019-11-27"
 
 [[committees]]
 name = "Rules"

@@ -1,8 +1,11 @@
 id = "01K67YJ24FBJX8X9FG2AA29782"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01841"
+
+[meta]
 bill_number = 1841
 congress = 14
-canonical = "SBN-01841"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1841", "https://web.senate.gov.ph/lisdata/63075633!.pdf",]
 title = "PROSECUTOR ETHICS ACT OF 2007"
 date_filed = "2007-11-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING ETHICAL STANDARDS FOR PROSECUTORS"
 scope = "National"
 subjects = [ "Prosecutors",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-11-12"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-13"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/13/2007"
+date = "2007-11-13"
 
 [[committees]]
 name = "Justice and Human Rights"

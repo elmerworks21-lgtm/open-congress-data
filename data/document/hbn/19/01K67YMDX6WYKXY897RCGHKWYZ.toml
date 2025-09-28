@@ -1,28 +1,32 @@
 id = "01K67YMDX6WYKXY897RCGHKWYZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11343"
+
+[meta]
 bill_number = 11343
 congress = 19
-canonical = "HBN-11343"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11343", "https://web.senate.gov.ph/lisdata/4595141987!.pdf",]
 title = "REVISED MINDANAO STATE UNIVERSITY SYSTEM CHARTER"
 long_title = "AN ACT STRENGTHENING THE MINDANAO STATE UNIVERSITY SYSTEM AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "State Universities and Colleges (SUCS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-02-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/4/2025"
+date = "2025-02-04"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

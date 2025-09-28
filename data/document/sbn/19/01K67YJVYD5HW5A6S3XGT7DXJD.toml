@@ -1,8 +1,11 @@
 id = "01K67YJVYD5HW5A6S3XGT7DXJD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01525"
+
+[meta]
 bill_number = 1525
 congress = 19
-canonical = "SBN-01525"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1525", "https://web.senate.gov.ph/lisdata/3991336347!.pdf",]
 title = "GOVERNMENT INTERSHIP PROGRAM OF 2022"
 date_filed = "2022-11-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE IMPLEMENTATION OF THE GOVERNMENT INT
 scope = "National"
 subjects = [ "Government Internship Program (GIP)",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-21"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-23"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/28/2022"
+date = "2022-11-28"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

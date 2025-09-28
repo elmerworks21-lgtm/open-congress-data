@@ -1,8 +1,11 @@
 id = "01K67YJW2SBVVPZYNN8JWVQ7B9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01717"
+
+[meta]
 bill_number = 1717
 congress = 19
-canonical = "SBN-01717"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1717", "https://web.senate.gov.ph/lisdata/4041936828!.pdf",]
 title = "AMENDING R.A. NO. 11036 (MENTAL HEALTH ACT)"
 date_filed = "2023-01-19"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11036 OTHERWISE KNOWN AS THE 'MEN
 scope = "National"
 subjects = [ "Mental Health",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-19"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-30"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2023"
+date = "2023-01-30"
 
 [[committees]]
 name = "Health and Demography"

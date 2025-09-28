@@ -1,8 +1,11 @@
 id = "01K67YJD445VGE3746MG4QBKQT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01300"
+
+[meta]
 bill_number = 1300
 congress = 16
-canonical = "SBN-01300"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1300", "https://web.senate.gov.ph/lisdata/1736814606!.pdf",]
 title = "BREAST RESEARCH IMPLANT AND INFORMATION ACT"
 date_filed = "2013-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT IDENTIFYING AND PROMOTING RESEARCH ON HEALTH IMPLICATIONS O
 scope = "National"
 subjects = [ "Breast Care",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-15"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WOMEN, FAMILY RELATIONS AND GENDER EQUALITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2013"
+date = "2013-09-02"
 
 [[committees]]
 name = "Health and Demography"

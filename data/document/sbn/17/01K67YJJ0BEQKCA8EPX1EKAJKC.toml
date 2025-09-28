@@ -1,8 +1,11 @@
 id = "01K67YJJ0BEQKCA8EPX1EKAJKC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01237"
+
+[meta]
 bill_number = 1237
 congress = 17
-canonical = "SBN-01237"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1237", "https://web.senate.gov.ph/lisdata/2511321632!.pdf",]
 title = "MOBILE NUMBER PORTABILITY ACT"
 date_filed = "2016-11-14"
@@ -10,33 +13,34 @@ long_title = "AN ACT REQUIRING PUBLIC TELECOMMUNICATIONS ENTITIES TO PROVIDE NAT
 scope = "National"
 subjects = [ "Mobile Number Portability", "Cellular Phones/Cell Phones", "Telecommunications",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-11-14"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-28"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-01"
 action = "Upon the request of Senator Gatchalian, with the consent of Senator Poe, upon motion of Senator Sotto III, the Chair referred SBN-1237 which was originally primarily referred to the Committee on Public Services, instead to the Committee on ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-12"
 action = "Returned and submitted by the Committee on ECONOMIC AFFAIRS per Committee Report No. 213, recommending that it be substituted by SBN-1636;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-13"
 action = "SUBSTITUTED BY SBN-1636 UNDER COMMITTEE REPORT NO. 213, WHICH BECAME R.A. NO.11202 ON FEBRUARY 8, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/13/2017"
+date = "2017-12-13"
 
 [[committees]]
 name = "Economic Affairs"

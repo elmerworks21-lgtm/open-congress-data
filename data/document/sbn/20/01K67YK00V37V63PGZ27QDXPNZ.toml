@@ -1,8 +1,11 @@
 id = "01K67YK00V37V63PGZ27QDXPNZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00369"
+
+[meta]
 bill_number = 369
 congress = 20
-canonical = "SBN-00369"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-369", "https://web.senate.gov.ph/lisdata/4686042867!.pdf",]
 title = "PHILIPPINE CIVIL REGISTRATION AND VITAL STATISTICS ACT"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE AND RESPONSIVE CIVIL REGISTRA
 scope = "National"
 subjects = [ "Civil Registration System",]
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-12"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2025"
+date = "2025-08-12"
 
 [[committees]]
 name = "Justice and Human Rights"

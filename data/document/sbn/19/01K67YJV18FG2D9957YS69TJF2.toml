@@ -1,8 +1,11 @@
 id = "01K67YJV18FG2D9957YS69TJF2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00236"
+
+[meta]
 bill_number = 236
 congress = 19
-canonical = "SBN-00236"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-236", "https://web.senate.gov.ph/lisdata/3794834391!.pdf",]
 title = "MANDATORY RESERVE OFFICERS' TRAINING CORPS ACT"
 date_filed = "2022-07-07"
@@ -10,57 +13,58 @@ long_title = "AN ACT REINSTATING THE MANDATORY RESERVE OFFICERS TRAINING CORPS (
 scope = "National"
 subjects = [ "Reserve Officers Training Corps (ROTC)", "Tertiary Education", "Schools (Public and Private)",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-21"
 action = "Transferred from the Committee on Basic Education to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION as the primary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-21"
 action = "Returned jointly by the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION (upon recommendation of the Subcommittee on the Revitalized Reserve Officers Training Corps Act) jointly with the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE per Committee Report No. 62, recommending that it be substituted by SBN-2034;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "SUBSTITUTED BY SBN-2034 UNDER COMMITTEE REPORT NO. 62."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/22/2023"
+date = "2023-03-22"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

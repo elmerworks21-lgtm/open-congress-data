@@ -1,8 +1,11 @@
 id = "01K67YJVGKY9K8J8ARD4WTBMYR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00931"
+
+[meta]
 bill_number = 931
 congress = 19
-canonical = "SBN-00931"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-931", "https://web.senate.gov.ph/lisdata/3873335187!.pdf",]
 title = "EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOMEN ON ACCOUNT OF SEX"
 date_filed = "2022-07-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOM
 scope = "National"
 subjects = [ "Anti-Discrimination", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-28"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

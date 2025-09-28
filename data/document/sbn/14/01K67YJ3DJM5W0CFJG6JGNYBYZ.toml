@@ -1,8 +1,11 @@
 id = "01K67YJ3DJM5W0CFJG6JGNYBYZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03563"
+
+[meta]
 bill_number = 3563
 congress = 14
-canonical = "SBN-03563"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3563", "https://web.senate.gov.ph/lisdata/1331311848!.pdf",]
 title = "AUTONOMY AND INDEPENDENCE OF THE OFFICE OF THE SOLICITOR GENERAL"
 date_filed = "2010-01-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE AUTONOMY AND INDEPENDENCE OF THE OFFICE O
 scope = "National"
 subjects = [ "Solicitor General",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2010-01-11"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2010"
+date = "2010-01-20"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJ0XQ2VYHB8P90PKVH1DN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00275"
+
+[meta]
 bill_number = 275
 congress = 14
-canonical = "SBN-00275"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-275", "https://web.senate.gov.ph/lisdata/43753778!.pdf",]
 title = "TOTAL LOG BAN"
 date_filed = "2007-06-30"
@@ -10,25 +13,26 @@ long_title = "AN ACT TOTALLY BANNING LOGGING OPERATIONS FOR THE NEXT TWENTY-FIVE
 scope = "National"
 subjects = [ "Total Log Ban",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-06"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2007"
+date = "2007-08-06"
 
 [[committees]]
 name = "Environment and Natural Resources"

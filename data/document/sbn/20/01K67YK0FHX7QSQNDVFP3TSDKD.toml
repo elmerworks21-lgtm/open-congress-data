@@ -1,8 +1,11 @@
 id = "01K67YK0FHX7QSQNDVFP3TSDKD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01151"
+
+[meta]
 bill_number = 1151
 congress = 20
-canonical = "SBN-01151"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1151", "https://web.senate.gov.ph/lisdata/4772543746!.pdf",]
 title = "SENIOR CITIZENS EMPLOYMENT INCENTIVES ACT"
 date_filed = "2025-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING EMPLOYMENT OPPORTUNITIES FOR SENIOR CITIZENS, AME
 scope = "National"
 subjects = [ "Senior Citizens Employment Incentives", "Senior Citizen/Elderly",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

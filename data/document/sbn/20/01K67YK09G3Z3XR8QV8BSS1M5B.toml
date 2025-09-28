@@ -1,8 +1,11 @@
 id = "01K67YK09G3Z3XR8QV8BSS1M5B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00831"
+
+[meta]
 bill_number = 831
 congress = 20
-canonical = "SBN-00831"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-831", "https://web.senate.gov.ph/lisdata/4739743400!.pdf",]
 title = "VERDE ISLAND PASSAGE PROTECTED SEASCAPE (VIPPS) ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE VERDE ISLAND PASSAGE IN THE PROVINCES OF BATA
 scope = "National"
 subjects = [ "Protected Area", "Protected Landscape",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

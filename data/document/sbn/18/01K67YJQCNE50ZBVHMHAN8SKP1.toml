@@ -1,8 +1,11 @@
 id = "01K67YJQCNE50ZBVHMHAN8SKP1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01438"
+
+[meta]
 bill_number = 1438
 congress = 18
-canonical = "SBN-01438"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1438", "https://web.senate.gov.ph/lisdata/3258629452!.pdf",]
 title = "AMENDING SEC. 3 OF R.A. NO. 7977 (AN ACT TO LENGTHEN THE SCHOOL CALENDAR)"
 date_filed = "2020-04-27"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING SECTION 3 OF REPUBLIC ACT NUMBER 7977, OTHERWISE K
 scope = "National"
 subjects = [ "Covid-19", "School Calendar",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2020-04-27"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-04"
 action = "Read on First Reading and Referred to the Committee on BASIC EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-26"
 action = "Returned and submitted by the Committee on BASIC EDUCATION, ARTS AND CULTURE per Committee Report No. 87, recommending that it be substituted by SBN-1541;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-26"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-26"
 action = "SUBSTITUTED BY SBN-1541 UNDER COMMITTEE REPORT NO. 87, WHICH BECAME REPUBLIC ACT NO. 11480 ON JULY 17, 2020."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/26/2020"
+date = "2020-05-26"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

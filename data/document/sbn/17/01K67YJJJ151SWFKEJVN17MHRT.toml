@@ -1,8 +1,11 @@
 id = "01K67YJJJ151SWFKEJVN17MHRT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01881"
+
+[meta]
 bill_number = 1881
 congress = 17
-canonical = "SBN-01881"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1881", "https://web.senate.gov.ph/lisdata/2813824440!.pdf",]
 title = "THE NATIONAL COMMISSION OF SENIOR CITIZENS ACT"
 date_filed = "2018-07-19"
@@ -10,33 +13,34 @@ long_title = "AN ACT CREATING THE NATIONAL COMMISSION OF SENIOR CITIZENS, PROVID
 scope = "National"
 subjects = [ "Senior Citizens", "Abolition", "National Coordinating Council and Monitoring Board",]
 authors_raw = "Sotto III, Vicente C., Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2018-07-19"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-21"
 action = "Returned and submitted jointly by the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, WAYS AND MEANS and FINANCE per Committee Report No. 552, recommending that it be substituted by SBN-2159;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-23"
 action = "Letter from Senator MARIA LOURDES NANCY S. BINAY dated January 21, 2019, conveying her intention to be made coauthor of SBN-1881, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "SUBSTITUTED BY SBN-2159 UNDER COMMITTEE REPORT NO. 552, WHICH BECAME R.A. NO. 11350 ON JULY 25, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/21/2019"
+date = "2019-01-21"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

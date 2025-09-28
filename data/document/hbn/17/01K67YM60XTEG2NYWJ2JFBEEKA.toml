@@ -1,24 +1,28 @@
 id = "01K67YM60XTEG2NYWJ2JFBEEKA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05818"
+
+[meta]
 bill_number = 5818
 congress = 17
-canonical = "HBN-05818"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5818", "https://web.senate.gov.ph/lisdata/2646722758!.pdf",]
 title = "REGULATING THE PRACTICE OF EMPLOYERS IN POSTING NOTICES OF TERMINATION OF EMPLOYMENT"
 long_title = "AN ACT REGULATING THE PRACTICE OF EMPLOYERS IN POSTING NOTICES OF TERMINATION OF EMPLOYMENT OF FORMER EMPLOYEES IN NEWSPAPERS, SOCIAL MEDIA, AND OTHER PUBLIC INFORMATION VENUES"
 scope = "National"
 subjects = [ "Employment Notice of Termination", "Information",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-15"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2017"
+date = "2017-08-15"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,25 +1,29 @@
 id = "01K67YJ2J51FC1SW1Q5CBCZCYE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02407"
+
+[meta]
 bill_number = 2407
 congress = 14
-canonical = "SBN-02407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2407", "https://web.senate.gov.ph/lisdata/76756907!.pdf",]
 title = "THEFT OR ROBBERY"
 date_filed = "2008-06-11"
 long_title = "AN ACT TO INCREASE THE PENALTY FOR THEFT OR ROBBERY COMMITTED WITHIN THE PREMISES OF CHURCHES, TEMPLES AND MUSEUMS"
 scope = "National"
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-06-11"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/11/2008"
+date = "2008-06-11"
 
 [[committees]]
 name = "Education, Arts and Culture"

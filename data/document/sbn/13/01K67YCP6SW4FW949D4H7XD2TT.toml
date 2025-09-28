@@ -1,8 +1,11 @@
 id = "01K67YCP6SW4FW949D4H7XD2TT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01485"
+
+[meta]
 bill_number = 1485
 congress = 13
-canonical = "SBN-01485"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1485", "https://web.senate.gov.ph/lisdata/27002065!.pdf",]
 title = "CREDIT CARD INTEREST RATE CHANGE DISCLOSURE ACT"
 date_filed = "2004-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE 90 DAYS NOTICE BEFORE CHANGING THE ANNUAL CREDIT
 scope = "National"
 subjects = [ "Credit Card Interest Rate Change", "Disclosure (Credit Card Interest Rate)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-15"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2004"
+date = "2004-09-15"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

@@ -1,8 +1,11 @@
 id = "01K67YJ1G63K10VD62M4HEJCRM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01176"
+
+[meta]
 bill_number = 1176
 congress = 14
-canonical = "SBN-01176"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1176", "https://web.senate.gov.ph/lisdata/54714844!.pdf",]
 title = "MOBILIZING BARANGAY OFFICIALS TO ARREST PERSONS VIOLATING THE REVISED FORESTRY CODE"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 80 OF PRESIDENTIAL DECREE NO. 705, OTHERIW
 scope = "National"
 subjects = [ "Forestry Code", "Barangay Officials", "Illegal Logging",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Environment and Natural Resources"

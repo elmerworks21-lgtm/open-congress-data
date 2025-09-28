@@ -1,8 +1,11 @@
 id = "01K67YJDJ3W9XF84ARBSJZ79SA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01986"
+
+[meta]
 bill_number = 1986
 congress = 16
-canonical = "SBN-01986"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1986", "https://web.senate.gov.ph/lisdata/1835715532!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2013-11-27"
@@ -10,29 +13,30 @@ long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
 scope = "National"
 subjects = [ "Magna Carta of Filipino Seafarers",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-27"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-03"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FOREIGN RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-26"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FOREIGN RELATIONS per Committee Report No. 69, recommending that it be considered in SBN-21;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-27"
 action = "CONSIDERED IN SBN-21 UNDER C.R. NO. 69."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/27/2014"
+date = "2014-08-27"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

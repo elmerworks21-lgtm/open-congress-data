@@ -1,24 +1,28 @@
 id = "01K67YMDWE3V71T98RJNHG2PE6"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11229"
+
+[meta]
 bill_number = 11229
 congress = 19
-canonical = "HBN-11229"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11229", "https://web.senate.gov.ph/lisdata/4590441937!.pdf",]
 title = "COMMEMORATION OF FILIPINO SPORTS HEROES ACT"
 long_title = "AN ACT ALLOWING THE INTERMENT OF FILIPINO SPORTS HEROES AT THE LIBINGAN NG MGA BAYANI"
 scope = "National"
 subjects = [ "Commemoration of Filipino Sports Heroes",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-02-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Read on First Reading and Referred to the Committee on SPORTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2025"
+date = "2025-02-05"
 
 [[committees]]
 name = "Sports"

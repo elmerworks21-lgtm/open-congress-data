@@ -1,8 +1,11 @@
 id = "01K67YK0DBPT0HYA80ZFZQ3948"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01035"
+
+[meta]
 bill_number = 1035
 congress = 20
-canonical = "SBN-01035"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1035", "https://web.senate.gov.ph/lisdata/4764843665!.pdf",]
 title = "YOUNG FARMERS AND FISHERFOLK ACT"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE YOUNG FARMERS AND FISHERFOLK CHALLENGE PRO
 scope = "National"
 subjects = [ "Young Farmers Program", "Fisherfolk",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-02"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; YOUTH; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2025"
+date = "2025-09-02"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

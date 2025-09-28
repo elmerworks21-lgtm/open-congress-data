@@ -1,28 +1,32 @@
 id = "01K67YM9T0M7ZZSJS1Z16MG59N"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09878"
+
+[meta]
 bill_number = 9878
 congress = 18
-canonical = "HBN-09878"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9878", "https://web.senate.gov.ph/lisdata/3609232531!.pdf",]
 title = "MIMAROPA REGIONAL HOSPITAL (CALAPAN CITY, ORIENTAL MINDORO)"
 long_title = "AN ACT CONVERTING THE ORIENTAL MINDORO PROVINCIAL HOSPITAL IN CALAPAN CITY, PROVINCE OF ORIENTAL MINDORO INTO A REGIONAL HOSPITAL, TO BE KNOWN AS THE MIMAROPA REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-08-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-03-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2021"
+date = "2021-09-01"
 
 [[committees]]
 name = "Health and Demography"

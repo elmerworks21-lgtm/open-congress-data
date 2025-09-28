@@ -1,8 +1,11 @@
 id = "01K67YCNXPW40JBY9KS95GEMZT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00994"
+
+[meta]
 bill_number = 994
 congress = 13
-canonical = "SBN-00994"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-994", "https://web.senate.gov.ph/lisdata/21981726!.pdf",]
 title = "PROHIBITING DISCRIMINATION AGAINST WOMEN ON ACCOUNT OF SEX"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOM
 scope = "National"
 subjects = [ "Women (Employment Discrimination)", "Pd 442/Labor Code of the Philippines",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-09"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

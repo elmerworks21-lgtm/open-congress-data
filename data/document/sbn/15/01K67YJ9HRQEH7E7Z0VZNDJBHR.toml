@@ -1,8 +1,11 @@
 id = "01K67YJ9HRQEH7E7Z0VZNDJBHR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03187"
+
+[meta]
 bill_number = 3187
 congress = 15
-canonical = "SBN-03187"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3187", "https://web.senate.gov.ph/lisdata/1321311092!.pdf",]
 title = "BARANGAY HEALTH WORKERS"
 date_filed = "2012-05-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT REDEFINING THE COMPOSITION OF BARANGAY OFFICIALS AND PROVID
 scope = "National"
 subjects = [ "Barangay Health Worker", "Local Government Code, Amendments (R.A.No. 7160)",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2012-05-08"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-15"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/15/2012"
+date = "2012-05-15"
 
 [[committees]]
 name = "Local Government"

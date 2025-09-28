@@ -1,8 +1,11 @@
 id = "01K67YK022ZMP1B0M77KG9F33W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00434"
+
+[meta]
 bill_number = 434
 congress = 20
-canonical = "SBN-00434"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-434", "https://web.senate.gov.ph/lisdata/4694742950!.pdf",]
 title = "NO-ADDED SUGAR ON BABY FOODS ACT"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROBIHITING PRODUCERS AND MANUFACTURERS OF BABY FOOD FROM A
 scope = "National"
 subjects = [ "Baby Food Products",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJWFVJWGNW9YJ2QGRCP8A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02259"
+
+[meta]
 bill_number = 2259
 congress = 19
-canonical = "SBN-02259"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2259", "https://web.senate.gov.ph/lisdata/4188138148!.pdf",]
 title = "PROMOTING AWARENESS FOR THE INTELLECTUAL PROPERTY RIGHTS OF INDEPENDENT ARTIST"
 date_filed = "2023-05-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING AWARENESS FOR THE INTELLECTUAL PROPERTY RIGHTS OF
 scope = "National"
 subjects = [ "Intellectual Property Rights", "Artists",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-29"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-30"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; PUBLIC INFORMATION AND MASS MEDIA and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/30/2023"
+date = "2023-05-30"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

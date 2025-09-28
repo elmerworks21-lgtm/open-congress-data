@@ -1,8 +1,11 @@
 id = "01K67YJWKD8TEWXRH3YTKGAD03"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02419"
+
+[meta]
 bill_number = 2419
 congress = 19
-canonical = "SBN-02419"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2419", "https://web.senate.gov.ph/lisdata/4251038675!.pdf",]
 title = "NEW CHARTER OF THE BOY SCOUTS OF THE PHILIPPINES"
 date_filed = "2023-08-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT REORGANIZING THE BOY SCOUTS OF THE PHILIPPINES AS AN INDEPE
 scope = "National"
 subjects = [ "Boy Scouts of the Philippines",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-22"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-23"
 action = "Read on First Reading and Referred to the Committees on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; YOUTH and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2023"
+date = "2023-08-23"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

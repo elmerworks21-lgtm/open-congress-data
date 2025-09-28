@@ -1,8 +1,11 @@
 id = "01K67YCP6YBESBMYG2YMXK293R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01495"
+
+[meta]
 bill_number = 1495
 congress = 13
-canonical = "SBN-01495"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1495", "https://web.senate.gov.ph/lisdata/27102075!.pdf",]
 title = "MEAT LABELING ACT"
 date_filed = "2004-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE THE LABELING OF IMPORTED MEAT AND MEAT FOOD PROD
 scope = "National"
 subjects = [ "Meat", "Meat Products (Meat Labeling Act)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-15"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; and AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2004"
+date = "2004-09-15"
 
 [[committees]]
 name = "Trade and Commerce"

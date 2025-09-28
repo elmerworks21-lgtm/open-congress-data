@@ -1,8 +1,11 @@
 id = "01K67YJWHPERWP4VBGXM09H430"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02347"
+
+[meta]
 bill_number = 2347
 congress = 19
-canonical = "SBN-02347"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2347", "https://web.senate.gov.ph/lisdata/4220838397!.pdf",]
 title = "BULABOG-PUTIAN NATURAL PARK (BPNP) ACT"
 date_filed = "2023-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING BULABOG-PUTIAN NATIONAL PARK LOCATED IN THE MUNIC
 scope = "National"
 subjects = [ "National Integrated Protected Areas System (Nipas)", "National Park",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-25"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2023"
+date = "2023-08-07"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

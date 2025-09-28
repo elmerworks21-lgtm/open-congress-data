@@ -1,24 +1,28 @@
 id = "01K67YKR6DFM0ZHDXC5ARPKQKC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05199"
+
+[meta]
 bill_number = 5199
 congress = 13
-canonical = "HBN-05199"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5199", "https://web.senate.gov.ph/lisdata/49644082!.pdf",]
 title = "DATA NATIONAL HIGH SCHOOL (MOUNTAIN PROVINCE)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY DATA, MUNICIPALITY OF SABANGAN, MOUNTAIN PROVINCE TO BE KNOWN AS THE DATA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Mountain Province)", "Data National High School (Mountain Province)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives VICTOR S. DOMINGUEZ, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2006"
+date = "2006-05-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

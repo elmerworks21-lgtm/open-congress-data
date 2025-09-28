@@ -1,8 +1,11 @@
 id = "01K67YJDX8DW1GJ13TT5H7X4YX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02445"
+
+[meta]
 bill_number = 2445
 congress = 16
-canonical = "SBN-02445"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2445", "https://web.senate.gov.ph/lisdata/2009017201!.pdf",]
 title = "ANTI-PREMATURE CAMPAIGNING ACT"
 date_filed = "2014-11-04"
@@ -10,25 +13,26 @@ long_title = "AN ACT AMENDING SECTIONS 79, 80 AND 81 OF BATAS PAMBANSA BILANG 88
 scope = "National"
 subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-11-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-11-18"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/18/2014"
+date = "2014-11-18"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

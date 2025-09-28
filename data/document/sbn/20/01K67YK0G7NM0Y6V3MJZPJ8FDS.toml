@@ -1,8 +1,11 @@
 id = "01K67YK0G7NM0Y6V3MJZPJ8FDS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01184"
+
+[meta]
 bill_number = 1184
 congress = 20
-canonical = "SBN-01184"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1184", "https://web.senate.gov.ph/lisdata/4778243806!.pdf",]
 title = "LAW ENFORCEMENT BODY-WORN CAMERA ACT"
 date_filed = "2025-08-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING LAW ENFORCEMENT OFFICERS TO USE A BODY-WORN CAMER
 scope = "National"
 subjects = [ "Law Enforcement Officers/Law Enforcement Agency/Law Enforcement Operations", "Body-Worn Camera",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-14"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

@@ -1,8 +1,11 @@
 id = "01K67YJCQNBF0WQE82MQZGQXXR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00700"
+
+[meta]
 bill_number = 700
 congress = 16
-canonical = "SBN-00700"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-700", "https://web.senate.gov.ph/lisdata/1667113911!.pdf",]
 title = "FORENSIC SCIENCE INSTITUTE ACT"
 date_filed = "2013-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE FORENSIC SCIENCE INSTITUTE IN THE UNIVERSI
 scope = "National"
 subjects = [ "Forensic Science", "University of the Philippines (U.P.)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-10"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

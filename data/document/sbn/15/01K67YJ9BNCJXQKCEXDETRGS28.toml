@@ -1,8 +1,11 @@
 id = "01K67YJ9BNCJXQKCEXDETRGS28"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02992"
+
+[meta]
 bill_number = 2992
 congress = 15
-canonical = "SBN-02992"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2992", "https://web.senate.gov.ph/lisdata/1226510347!.pdf",]
 title = "ANTI NO PERMIT, NO EXAM ACT OF 2011"
 date_filed = "2011-10-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING THE IMPOSITION OF A 'NO PERMIT, NO EXAM' POLICY 
 scope = "National"
 subjects = [ "Tuition Fees", "Students",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2011-10-11"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-12"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/12/2011"
+date = "2011-10-12"
 
 [[committees]]
 name = "Education, Arts and Culture"

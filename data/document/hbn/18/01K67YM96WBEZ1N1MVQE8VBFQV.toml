@@ -1,24 +1,28 @@
 id = "01K67YM96WBEZ1N1MVQE8VBFQV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06855"
+
+[meta]
 bill_number = 6855
 congress = 18
-canonical = "HBN-06855"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-6855", "https://web.senate.gov.ph/lisdata/3295429825!.pdf",]
 title = "BARANGAY SANTA CRUZ, MAKATI CITY TESDA TRAINING AND ASSESSMENT CENTER ACT"
 long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TRAINING AND ASSESSMENT CENTER IN BARANGAY SANTA CRUZ, MAKATI CITY, TO BE KNOWN AS THE BARANGAY SANTA CRUZ, MAKATI CITY TESDA TRAINING AND ASSESSMENT CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tesda Training and Assessment Center",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-06-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2020"
+date = "2020-07-29"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

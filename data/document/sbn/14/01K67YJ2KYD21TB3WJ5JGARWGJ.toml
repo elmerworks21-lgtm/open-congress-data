@@ -1,8 +1,11 @@
 id = "01K67YJ2KYD21TB3WJ5JGARWGJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02487"
+
+[meta]
 bill_number = 2487
 congress = 14
-canonical = "SBN-02487"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2487", "https://web.senate.gov.ph/lisdata/79627194!.pdf",]
 title = "HOURLY WEATHER BULLETIN ACT OF 2008"
 date_filed = "2008-07-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE PHILIPPINE ATMOSPHERIC, GEOPHYSICAL AND ASTRO
 scope = "National"
 subjects = [ "Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa)",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-28"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Science and Technology"

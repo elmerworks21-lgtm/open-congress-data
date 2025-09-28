@@ -1,24 +1,28 @@
 id = "01K67YMD93AVW6B6BW1D31VMGR"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08035"
+
+[meta]
 bill_number = 8035
 congress = 19
-canonical = "HBN-08035"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8035", "https://web.senate.gov.ph/lisdata/4192038174!.pdf",]
 title = "TAGBAK MARINE PARK ECOTOURISM ZONE (LILOAN, SOUTHERN LEYTE)"
 long_title = "AN ACT DECLARING THE TAGBAK MARINE PARK, LOCATED IN THE MUNICIPALITY OF LILOAN, PROVINCE OF LEYTE, AN ECOTOURISM ZONE"
 scope = "Local"
 subjects = [ "Ecotourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-25"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2023"
+date = "2023-07-25"
 
 [[committees]]
 name = "Tourism"

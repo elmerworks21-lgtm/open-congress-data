@@ -1,23 +1,27 @@
 id = "01K67YKX2EAC9RF5YDHQCJWWG0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06794"
+
+[meta]
 bill_number = 6794
 congress = 14
-canonical = "HBN-06794"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6794", "https://web.senate.gov.ph/lisdata/1345111882!.pdf",]
 title = "CYBERCRIME PREVENTION ACT OF 2009"
 long_title = "AN ACT DEFINING CYBERCRIME, PROVIDING FOR PREVENTION, SUPPRESSION AND IMPOSITION OF PENALTIES THEREFOR AND FOR OTHER PURPOSES"
 scope = "National"
-[[legislative_history]]
+
+[[history]]
 date = "2010-01-20"
 action = "Filed in the Senate requesting for concurrence by Representatives ERIC D. SINGSON, JUAN EDGARDO M. ANGARA, RAUL V. DEL MAR, REYLINA G. NICOLAS and GILBERTO C. TEODORO JR., et. al. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-01-26"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; ETHICS AND PRIVILEGES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/26/2010"
+date = "2010-01-26"
 
 [[committees]]
 name = "Science and Technology"

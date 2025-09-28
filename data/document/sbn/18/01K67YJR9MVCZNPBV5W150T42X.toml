@@ -1,8 +1,11 @@
 id = "01K67YJR9MVCZNPBV5W150T42X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02460"
+
+[meta]
 bill_number = 2460
 congress = 18
-canonical = "SBN-02460"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2460", "https://web.senate.gov.ph/lisdata/3673933113!.pdf",]
 title = "ANTI-SPAM ACT OF 2021"
 date_filed = "2021-12-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR AN OPT-IN MECHANISM FOR TELEPHONE AND MOBILE 
 scope = "National"
 subjects = [ "Anti-Spam", "Mobile Phone Subscribers",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-01"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2021"
+date = "2021-12-06"
 
 [[committees]]
 name = "Science and Technology"

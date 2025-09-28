@@ -1,8 +1,11 @@
 id = "01K67YCPSFJKH3MJAXJQ65BWTE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02438"
+
+[meta]
 bill_number = 2438
 congress = 13
-canonical = "SBN-02438"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2438", "https://web.senate.gov.ph/lisdata/57534792!.pdf",]
 title = "INTEGRATED JAIL FACILITY IN METROPOLITAN MANILA"
 date_filed = "2006-08-09"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 63 OF REPUBLIC ACT NO. 6975 OTHERWISE KNOW
 scope = "National"
 subjects = [ "Integrated Jail Facility (Establishment)", "Jail Facility", "Abu Sayyaf (Camp Bagong Diwa Jail)",]
 authors_raw = "Villar Jr., Manuel B., Gordon, Richard \"Dick\" J., Arroyo, Joker P."
-[[legislative_history]]
+
+[[history]]
 date = "2006-08-09"
 action = "Prepared and submitted jointly by the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS and JUSTICE AND HUMAN RIGHTS with Senator(s) MANUEL B. VILLAR JR., RICHARD 'DICK' J. GORDON and JOKER P. ARROYO as author(s) per Committee Report No. 86, recommending its approval in substitution of SBN-1984, taking into consideration the Privilege Speech of Senator Manny Villar together with the manifestation of Senator Gordon, delivered on March 15, 2005, re: the failed jailbreak of Abu Sayyaf detainees at Camp Bagong Diwa in Bicutan, Taguig City last March 14, 2005, and SRN-113 and 214;;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-09"
 action = "Sponsors: Senator(s) MANUEL B. VILLAR JR., JOKER P. ARROYO and RICHARD 'DICK' J. GORDON;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "8/9/2006"
+date = "2006-08-09"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

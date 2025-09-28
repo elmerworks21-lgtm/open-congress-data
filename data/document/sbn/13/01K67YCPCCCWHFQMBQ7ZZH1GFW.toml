@@ -1,8 +1,11 @@
 id = "01K67YCPCCCWHFQMBQ7ZZH1GFW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01793"
+
+[meta]
 bill_number = 1793
 congress = 13
-canonical = "SBN-01793"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1793", "https://web.senate.gov.ph/lisdata/30142577!.pdf",]
 title = "PRIVATE COMMUNICATION WITH AN OFFICER HEARING A CASE"
 date_filed = "2004-09-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING ANY PERSON FROM PRIVATELY COMMUNICATING WITH A 
 scope = "National"
 subjects = [ "Judge/Fiscal/Administrative Officer", "Court Cases Private Communication",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-20"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2004"
+date = "2004-09-22"
 
 [[committees]]
 name = "Justice and Human Rights"

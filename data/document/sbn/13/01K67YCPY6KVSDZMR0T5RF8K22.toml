@@ -1,8 +1,11 @@
 id = "01K67YCPY6KVSDZMR0T5RF8K22"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02629"
+
+[meta]
 bill_number = 2629
 congress = 13
-canonical = "SBN-02629"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2629", "https://web.senate.gov.ph/lisdata/71495814!.pdf",]
 title = "SHAKEN BABY SYNDROME PREVENTION ACT OF 2007"
 date_filed = "2007-06-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENHANCE THE EFFORTS FOCUSED ON PUBLIC AWARENESS AND EDUC
 scope = "National"
 subjects = [ "Shaken Baby Syndrome Prevention",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2007"
+date = "2007-06-05"
 
 [[committees]]
 name = "Health and Demography"

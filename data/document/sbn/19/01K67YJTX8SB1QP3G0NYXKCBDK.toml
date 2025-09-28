@@ -1,8 +1,11 @@
 id = "01K67YJTX8SB1QP3G0NYXKCBDK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00058"
+
+[meta]
 bill_number = 58
 congress = 19
-canonical = "SBN-00058"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-58", "https://web.senate.gov.ph/lisdata/3776134202!.pdf",]
 title = "NEW DEPED RETIREMENT AGE ACT"
 date_filed = "2022-07-07"
@@ -10,37 +13,38 @@ long_title = "AN ACT LOWERING THE COMPULSORY RETIREMENT AGE OF EMPLOYEES OF THE 
 scope = "National"
 subjects = [ "Retirement Age", "Department of Education (DepEd)", "Employees",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-18"
 action = "Returned and submitted jointly by the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and FINANCE per Committee Report No. 134, recommending that it be substituted by SBN-2444;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-19"
 action = "SUBSTITUTED BY SBN-2444 UNDER COMMITTEE REPORT NO. 134."
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/19/2023"
+date = "2023-09-19"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

@@ -1,8 +1,11 @@
 id = "01K67YJEJAQXJQ67KT0E9TZ9T0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03164"
+
+[meta]
 bill_number = 3164
 congress = 16
-canonical = "SBN-03164"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3164", "https://web.senate.gov.ph/lisdata/2309319832!.pdf",]
 title = "TERATOGEN REGULATORY ACT"
 date_filed = "2016-01-28"
@@ -10,19 +13,20 @@ long_title = "AN ACT REGULATING TERATOGENS"
 scope = "National"
 subjects = [ "Teratogen", "Birth Defects Prevention",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-01-28"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Motion of the Majority Leader, Senator Alan Peter Compañero S. Cayetano, that the matters appearing in the Reference of Business for todays session be deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "5/30/2016"
+date = "2016-05-30"
 

@@ -1,8 +1,11 @@
 id = "01K67YJWE3YEP8S8748F2AMAMC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02198"
+
+[meta]
 bill_number = 2198
 congress = 19
-canonical = "SBN-02198"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2198", "https://web.senate.gov.ph/lisdata/4168337962!.pdf",]
 title = "FREE LEGAL ASSISTANCE TO ANY OFFICER OR ENLISTED PERSONNEL OF THE AFP, PNP, BJMP AND THE PCG"
 date_filed = "2023-05-15"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FREE LEGAL ASSISTANCE TO ANY OFFICER OR ENLISTED 
 scope = "National"
 subjects = [ "Legal Assistance", "Armed Forces of the Philippines (AFP)", "Philippine National Police (PNP)", "Bureau of Jail Management and Penology", "Philippine Coast Guard",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-15"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION; PUBLIC ORDER AND DANGEROUS DRUGS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-10"
 action = "Returned and submitted jointly by the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION, PUBLIC ORDER AND DANGEROUS DRUGS and FINANCE per Committee Report No. 316, recommending that it be substituted by SBN-2814;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-10"
 action = "SUBSTITUTED BY SBN-2814 UNDER COMMITTEE REPORT NO. 316, WHICH BECAME REPUBLIC ACT NO. 12177 ON APRIL 15, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/10/2024"
+date = "2024-09-10"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

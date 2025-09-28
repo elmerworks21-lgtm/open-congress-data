@@ -1,24 +1,28 @@
 id = "01K67YKRCCR1JGG2SV7ZHH2SMW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05854"
+
+[meta]
 bill_number = 5854
 congress = 13
-canonical = "HBN-05854"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5854", "https://web.senate.gov.ph/lisdata/67385523!.pdf",]
 title = "FISHERY HATCHERY AND BREEDING FARMS/CENTERS"
 long_title = "AN ACT ESTABLISHING FISHERY HATCHERY AND/OR BREEDING FARMS/CENTERS FOR THE PRO-DUCTION/MULTIPLICATION OF BANGUS FINGERLINGS, LAPU-LAPU, ALIMANGO AND TILAPIA IN THE MUNICIPALITIES OF STA. RITA AND VILLAREAL, PROVINCE OF SAMAR AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hatchery", "Breeding Farms (Fish Production)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives CATALINO V. FIGUEROA and FLORENCIO 'BEM' G. NOEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Agriculture and Food"

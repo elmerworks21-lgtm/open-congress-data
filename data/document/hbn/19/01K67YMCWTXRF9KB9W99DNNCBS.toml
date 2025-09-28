@@ -1,24 +1,28 @@
 id = "01K67YMCWTXRF9KB9W99DNNCBS"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04479"
+
+[meta]
 bill_number = 4479
 congress = 19
-canonical = "HBN-04479"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-4479", "https://web.senate.gov.ph/lisdata/4006136562!.pdf",]
 title = "DISCRIMINATION AGAINST WOMEN ON ACCOUNT OF SEX, (PD NO. 442 AMENDMENTS)"
 long_title = "AN ACT EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOMEN ON ACCOUNT OF SEX, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE ''LABOR CODE OF THE PHILIPPINES''"
 scope = "National"
 subjects = [ "Violence Against Women", "Sexual Abuse",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-29"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-07"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/7/2022"
+date = "2022-12-07"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

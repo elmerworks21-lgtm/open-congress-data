@@ -1,8 +1,11 @@
 id = "01K67YJTZRMN5SZHFQ8Z9RHMRD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00167"
+
+[meta]
 bill_number = 167
 congress = 19
-canonical = "SBN-00167"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-167", "https://web.senate.gov.ph/lisdata/3787534316!.pdf",]
 title = "PUBLIC UTILITY MOTORCYCLES ACT"
 date_filed = "2022-07-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT ALLOWING THE USE OF MOTORCYCLES AS PUBLIC UTILITY VEHICLES,
 scope = "National"
 subjects = [ "Public Utility Vehicles", "Motorcycle", "Motorcycles-For-Hire", "Land Transportation and Traffic Code (R.A.No. 4136)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Public Services"

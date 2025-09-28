@@ -1,8 +1,11 @@
 id = "01K67YJ2FMJA9W8YVK3ZQYW5Z5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02315"
+
+[meta]
 bill_number = 2315
 congress = 14
-canonical = "SBN-02315"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2315", "https://web.senate.gov.ph/lisdata/74516665!.pdf",]
 title = "LOCAL GOVERNMENT CODE (SEC. 99, R.A. NO. 7160)"
 date_filed = "2008-05-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE CONCURRENCE OF THE LOCAL SCHOOL BOARD ON THE 
 scope = "National"
 subjects = [ "Local Government Code (RA 7160; Amendments)", "Local School Boards",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-21"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-26"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/26/2008"
+date = "2008-05-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

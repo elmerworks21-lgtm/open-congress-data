@@ -1,8 +1,11 @@
 id = "01K67YK0GGKM7CEVRWD39WD7R7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01198"
+
+[meta]
 bill_number = 1198
 congress = 20
-canonical = "SBN-01198"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1198", "https://web.senate.gov.ph/lisdata/4779943824!.pdf",]
 title = "PHILIPPINE MICROBIOLOGY ACT OF 2025"
 date_filed = "2025-08-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE PRACTICE OF MICROBIOLOGY IN THE PHILIPPINES 
 scope = "National"
 subjects = [ "Microbiology",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-14"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

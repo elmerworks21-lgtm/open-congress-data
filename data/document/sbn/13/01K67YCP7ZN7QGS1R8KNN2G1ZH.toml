@@ -1,8 +1,11 @@
 id = "01K67YCP7ZN7QGS1R8KNN2G1ZH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01553"
+
+[meta]
 bill_number = 1553
 congress = 13
-canonical = "SBN-01553"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1553", "https://web.senate.gov.ph/lisdata/27702142!.pdf",]
 title = "ANTI-GENDER DISCRIMINATION IN EMPLOYMENT ADVERTISING ACT"
 date_filed = "2004-07-29"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO PROHIBIT GENDER DISCRIMINATION IN EMPLOYMENT ADVERTISING
 scope = "National"
 subjects = [ "Anti-Gender Discrimination Act", "Advertising (Equal Employment)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-09"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

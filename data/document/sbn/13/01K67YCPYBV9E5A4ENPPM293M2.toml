@@ -1,8 +1,11 @@
 id = "01K67YCPYBV9E5A4ENPPM293M2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02638"
+
+[meta]
 bill_number = 2638
 congress = 13
-canonical = "SBN-02638"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2638", "https://web.senate.gov.ph/lisdata/71585805!.pdf",]
 title = "PROFESSIONAL DRIVER'S EDUCATION ACT OF 2007"
 date_filed = "2007-06-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING SPECIAL DRIVER’S EDUCATION FOR PROFESSIONAL AND
 scope = "National"
 subjects = [ "Drivers Education (Professional/Truck Drivers)", "Special Drivers Education (Professional/Truck Drivers)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2007"
+date = "2007-06-05"
 
 [[committees]]
 name = "Public Services"

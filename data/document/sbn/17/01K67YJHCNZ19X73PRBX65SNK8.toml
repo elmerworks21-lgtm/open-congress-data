@@ -1,8 +1,11 @@
 id = "01K67YJHCNZ19X73PRBX65SNK8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00359"
+
+[meta]
 bill_number = 359
 congress = 17
-canonical = "SBN-00359"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-359", "https://web.senate.gov.ph/lisdata/2379720460!.pdf",]
 title = "GRANTING FULL DEDUCTION FROM GROSS INCOME"
 date_filed = "2016-07-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING REPUBLIC ACT 8424, OR THE NATIONAL INTERNAL REVENU
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes/Taxation", "Donations", "Calamity/Disaster",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Ways and Means"

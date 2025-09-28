@@ -1,8 +1,11 @@
 id = "01K67YJZXE2QDEJV42NJSSXRTX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00188"
+
+[meta]
 bill_number = 188
 congress = 20
-canonical = "SBN-00188"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-188", "https://web.senate.gov.ph/lisdata/4666542670!.pdf",]
 title = "ONE TOWN, ONE TOURIST ATTRACTION PROGRAM (OTAP) ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A 'ONETOWN, ONE TOURIST ATTRACTION PROGRAM' TO
 scope = "National"
 subjects = [ "One Town, One Tourist Attraction Program (OTAP)",]
 authors_raw = "Villar, Camille A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator CAMILLE A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committees on TOURISM; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Tourism"

@@ -1,24 +1,28 @@
 id = "01K67YKR9F0BKCJ2FDW130SHN4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05553"
+
+[meta]
 bill_number = 5553
 congress = 13
-canonical = "HBN-05553"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5553", "https://web.senate.gov.ph/lisdata/59964946!.pdf",]
 title = "MARUING NATIONAL HIGH SCHOOL (ZAMBOANGA DEL SUR)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY MARUING, MUNICIPALITY OF LAPUYAN, PROVINCE OF ZAMBOANGA DEL SUR TO BE KNOWN AS THE MARUING NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Zamboanga Del Sur)", "Maruing National High School (Zamboanga Del Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-07"
 action = "Filed in the Senate requesting for concurrence by Representatives ANTONIO H. CERILLES, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2006"
+date = "2006-09-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

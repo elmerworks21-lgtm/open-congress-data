@@ -1,8 +1,11 @@
 id = "01K67YJHQ35TCK8ZSWR02CFC97"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00821"
+
+[meta]
 bill_number = 821
 congress = 17
-canonical = "SBN-00821"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-821", "https://web.senate.gov.ph/lisdata/2436220983!.pdf",]
 title = "AMENDING NIRC EXCLUDING 13TH MONTH PAY FROM TAXABLE INCOME"
 date_filed = "2016-07-21"
@@ -10,29 +13,30 @@ long_title = "AN ACT EXCLUDING 13TH MONTH PAY FROM THE COMPUTATION OF TAXABLE IN
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income Tax)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 164, recommending that it be substituted by SBN-1592;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "SUBSTITUTED BY SBN-1592 UNDER COMMITTEE REPORT NO. 164."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/20/2017"
+date = "2017-09-20"
 
 [[committees]]
 name = "Ways and Means"

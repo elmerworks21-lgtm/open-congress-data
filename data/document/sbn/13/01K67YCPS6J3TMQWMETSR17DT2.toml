@@ -1,8 +1,11 @@
 id = "01K67YCPS6J3TMQWMETSR17DT2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02422"
+
+[meta]
 bill_number = 2422
 congress = 13
-canonical = "SBN-02422"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2422", "https://web.senate.gov.ph/lisdata/57224709!.pdf",]
 title = "AUTHENTIC ACADEMIC CREDENTIALS ACT"
 date_filed = "2006-07-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROHIBIT THE USE, ISSUANCE, MANUFACTURE AND SALE OF FALS
 scope = "National"
 subjects = [ "Authentic Academic Credentials",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2006-07-31"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2006"
+date = "2006-08-01"
 
 [[committees]]
 name = "Education, Arts and Culture"

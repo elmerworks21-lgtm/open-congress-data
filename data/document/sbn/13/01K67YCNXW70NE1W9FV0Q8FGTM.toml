@@ -1,8 +1,11 @@
 id = "01K67YCNXW70NE1W9FV0Q8FGTM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01003"
+
+[meta]
 bill_number = 1003
 congress = 13
-canonical = "SBN-01003"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1003", "https://web.senate.gov.ph/lisdata/22111275!.pdf",]
 title = "CORAL REEFS PROTECTION AND PRESERVATION ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CREATION OF RESERVATION AREAS FOR THE PRE
 scope = "National"
 subjects = [ "Coral Reefs Protection and Preservation",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Environment and Natural Resources"

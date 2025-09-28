@@ -1,8 +1,11 @@
 id = "01K67YJPXN54HGS89KQSZCZ0AF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00793"
+
+[meta]
 bill_number = 793
 congress = 18
-canonical = "SBN-00793"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-793", "https://web.senate.gov.ph/lisdata/3114728047!.pdf",]
 title = "PHILIPPINE SPECTRUM MANAGEMENT ACT"
 date_filed = "2019-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ALLOCATION AND MANAGEMENT OF THE RADIO FR
 scope = "National"
 subjects = [ "Radio Frequency Spectrum",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-25"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and SCIENCE AND TECHNOLOGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2019"
+date = "2019-08-14"
 
 [[committees]]
 name = "Public Services"

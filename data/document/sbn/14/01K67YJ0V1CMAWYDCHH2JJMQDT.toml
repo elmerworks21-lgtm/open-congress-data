@@ -1,8 +1,11 @@
 id = "01K67YJ0V1CMAWYDCHH2JJMQDT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00163"
+
+[meta]
 bill_number = 163
 congress = 14
-canonical = "SBN-00163"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-163", "https://web.senate.gov.ph/lisdata/42633650!.pdf",]
 title = "ADDITIONAL 10% AD VALOREM TAX ON IDLE LANDS"
 date_filed = "2007-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE TAX ON IDLE LANDS, AMENDING FOR THE PURPOSE,
 scope = "National"
 subjects = [ "Ad Valorem Tax on Idle Lands", "Local Government Code (RA 7160; Amendments)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator RAMON A. REVILLA, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-23"
 action = "Senator Pangilinan manifested that this measure be referred primarily to the Committee on LOCAL GOVERNMENT; and secondarily to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2007"
+date = "2007-07-31"
 
 [[committees]]
 name = "Local Government"

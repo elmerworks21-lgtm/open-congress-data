@@ -1,8 +1,11 @@
 id = "01K67YJPXYXTWPG78BYD0381CT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00806"
+
+[meta]
 bill_number = 806
 congress = 18
-canonical = "SBN-00806"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-806", "https://web.senate.gov.ph/lisdata/3117628075!.pdf",]
 title = "SECURITY OF TENURE AND END OF ENDO ACT"
 date_filed = "2019-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING WORKERS RIGHT TO SECURITY OF TENURE, AMENDING
 scope = "National"
 subjects = [ "Security of Tenure", "Labor Code of the Philippines (P.D.No. 442)", "Casual/Contractual Employees", "Anti-Endo and Contracting Law",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-29"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2019"
+date = "2019-08-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

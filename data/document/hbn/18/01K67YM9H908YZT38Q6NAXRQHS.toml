@@ -1,24 +1,28 @@
 id = "01K67YM9H908YZT38Q6NAXRQHS"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08657"
+
+[meta]
 bill_number = 8657
 congress = 18
-canonical = "HBN-08657"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8657", "https://web.senate.gov.ph/lisdata/3457031382!.pdf",]
 title = "BASILISA, DINAGAT ISLANDS TESDA TRAINING AND ASSESSMENT CENTER ACT"
 long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TRAINING AND ASSESSMENT CENTER IN THE MUNICIPALITY OF BASILISA, PROVINCE OF DINAGAT ISLANDS, TO BE KNOWN AS THE BASILISA, DINAGAT ISLANDS TESDA TRAINING AND ASSESSMENT CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tesda Training and Assessment Center",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-01"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/1/2021"
+date = "2021-03-01"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

@@ -1,8 +1,11 @@
 id = "01K67YCPFM6FTSATJ8FYRA0PYZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01944"
+
+[meta]
 bill_number = 1944
 congress = 13
-canonical = "SBN-01944"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1944", "https://web.senate.gov.ph/lisdata/32562424!.pdf",]
 title = "FOREIGN CONSULTANT'S DISCLOSURE ACT OF 2005"
 date_filed = "2005-03-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL BRANCHES AND AGENCIES OF THE GOVERNMENT, INCL
 scope = "National"
 subjects = [ "GOCC (Government-Owned/Controlled Corp.)", "Foreign Consultant`S Disclosure Act",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-03"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-07"
 action = "Read on First Reading and referred to the Committee(s) CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/7/2005"
+date = "2005-03-07"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

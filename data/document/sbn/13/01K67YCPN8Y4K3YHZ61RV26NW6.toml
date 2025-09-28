@@ -1,8 +1,11 @@
 id = "01K67YCPN8Y4K3YHZ61RV26NW6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02215"
+
+[meta]
 bill_number = 2215
 congress = 13
-canonical = "SBN-02215"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2215", "https://web.senate.gov.ph/lisdata/47173871!.pdf",]
 title = "PET FOOD ACT OF 2006"
 date_filed = "2006-02-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROPERLY LABEL PET FOOD"
 scope = "National"
 subjects = [ "Pet Food Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2006-02-27"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-28"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/28/2006"
+date = "2006-02-28"
 
 [[committees]]
 name = "Trade and Commerce"

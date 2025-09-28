@@ -1,8 +1,11 @@
 id = "01K67YJ23T1W4S1ZVH7PVGS1N8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01811"
+
+[meta]
 bill_number = 1811
 congress = 14
-canonical = "SBN-01811"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1811", "https://web.senate.gov.ph/lisdata/62395577!.pdf",]
 title = "NATIONAL THANK YOU DAY (OCTOBER 20)"
 date_filed = "2007-11-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT CELEBRATING THE AGE-OLD VALUE OF DISTINCT FILIPINO BAYANIHA
 scope = "National"
 subjects = [ "Holidays", "Thanksgiving (National Thank You Day- October 20)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-11-05"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-06"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/6/2007"
+date = "2007-11-06"
 
 [[committees]]
 name = "Education, Arts and Culture"

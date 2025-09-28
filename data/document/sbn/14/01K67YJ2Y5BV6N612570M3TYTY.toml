@@ -1,8 +1,11 @@
 id = "01K67YJ2Y5BV6N612570M3TYTY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02952"
+
+[meta]
 bill_number = 2952
 congress = 14
-canonical = "SBN-02952"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2952", "https://web.senate.gov.ph/lisdata/96538725!.pdf",]
 title = "PERSONAL PRIVACY ACT"
 date_filed = "2008-12-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE OFFENSE OF CRIMINAL INVASION OF PERSONAL PRIVA
 scope = "National"
 subjects = [ "Personal Privacy Protection",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-12-08"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/16/2008"
+date = "2008-12-16"
 
 [[committees]]
 name = "Justice and Human Rights"

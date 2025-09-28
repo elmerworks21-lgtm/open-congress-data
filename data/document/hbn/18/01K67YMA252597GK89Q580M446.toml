@@ -1,36 +1,40 @@
 id = "01K67YMA252597GK89Q580M446"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10282"
+
+[meta]
 bill_number = 10282
 congress = 18
-canonical = "HBN-10282"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10282", "https://web.senate.gov.ph/lisdata/3665033054!.pdf",]
 title = "AMENDED HIGHER EDUCATION ACT"
 long_title = "AN ACT STRENGTHENING THE COMMISSION ON HIGHER EDUCATION AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7722, OTHERWISE KNOWN AS THE 'HIGHER EDUCATION ACT OF 1994'"
 scope = "National"
 subjects = [ "Higher Education Act",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-11-18"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-24"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Returned jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, WAYS AND MEANS and FINANCE per Committee Report No. 509, recommending that it be considered in SBN-2492;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "CONSIDERED IN SBN-2492 UNDER COMMITTEE REPORT NO. 509."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/25/2022"
+date = "2022-01-25"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

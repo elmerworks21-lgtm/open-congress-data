@@ -1,24 +1,28 @@
 id = "01K67YM6FG8JY2JKSMVG8TJRKX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08143"
+
+[meta]
 bill_number = 8143
 congress = 17
-canonical = "HBN-08143"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8143", "https://web.senate.gov.ph/lisdata/2879425322!.pdf",]
 title = "TOURISM SITES ACCESSIBILITY ACT"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO PRIORITIZE THE CONSTRUCTION OF THE NECESSARY INFRASTRUCTURE TO ENSURE THE ACCESSIBILITY OF ALL TOURISM SITES IN THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Infrastuctures", "Tourism", "Department of Public Works and Highways (DPWH)",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-12"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2018"
+date = "2018-11-12"
 
 [[committees]]
 name = "Tourism"

@@ -1,8 +1,11 @@
 id = "01K67YJ95MNN926HC0X71E9H2V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02773"
+
+[meta]
 bill_number = 2773
 congress = 15
-canonical = "SBN-02773"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2773", "https://web.senate.gov.ph/lisdata/110929456!.pdf",]
 title = "PHILIPPINE AIR FORCE ACADEMY (PAFA)"
 date_filed = "2011-03-31"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE AIR FORCE ACADEMY (PAFA) AND AP
 scope = "National"
 subjects = [ "Philippine Air Force Academy (PAFA)",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-03-31"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-09"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2011"
+date = "2011-05-09"
 
 [[committees]]
 name = "National Defense and Security"

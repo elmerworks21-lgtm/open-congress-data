@@ -1,8 +1,11 @@
 id = "01K67YJPMAAMKT3HS8NK556JNR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00357"
+
+[meta]
 bill_number = 357
 congress = 18
-canonical = "SBN-00357"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-357", "https://web.senate.gov.ph/lisdata/3064727499!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2019-07-11"
@@ -10,45 +13,46 @@ long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
 scope = "National"
 subjects = [ "Magna Carta of Filipino Seafarers", "Seafarers",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-11"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FOREIGN RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-26"
 action = "Returned and submitted jointly by the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FOREIGN RELATIONS per Committee Report No. 289, recommending that it be substituted by SBN-2369;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-31"
 action = "SUBSTITUTED BY SBN-2369 UNDER COMMITTEE REPORT NO. 289."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/31/2021"
+date = "2021-08-31"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

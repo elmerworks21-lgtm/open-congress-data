@@ -1,8 +1,11 @@
 id = "01K67YJDSC8CP65FMJ6BAZC4SJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02292"
+
+[meta]
 bill_number = 2292
 congress = 16
-canonical = "SBN-02292"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2292", "https://web.senate.gov.ph/lisdata/1949516611!.pdf",]
 title = "DAVAO REGIONAL STATE UNIVERSITY SYSTEM CHARTER"
 date_filed = "2014-06-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A REGIONAL STATE UNIVERSITY SYSTEM IN DAVAO REGION
 scope = "Local"
 subjects = [ "State Colleges and Universities (SCUS)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2014-06-26"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-30"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2014"
+date = "2014-07-30"
 
 [[committees]]
 name = "Rules"

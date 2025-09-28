@@ -1,8 +1,11 @@
 id = "01K67YJD7FFQEEDD3MDSNWJ86P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01467"
+
+[meta]
 bill_number = 1467
 congress = 16
-canonical = "SBN-01467"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1467", "https://web.senate.gov.ph/lisdata/1756414799!.pdf",]
 title = "NATIONAL COUNCIL FOR INFORMATION TECHNOLOGY AND DEVELOPMENT ACT OF 2013"
 date_filed = "2013-09-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT CREATING THE NATIONAL COUNCIL FOR INFORMATION TECHNOLOGY AN
 scope = "National"
 subjects = [ "National Council for Information Technology and Development (Ncitd)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-09"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-11"
 action = "Returned and submitted jointly by the Committee(s) on SCIENCE AND TECHNOLOGY, CIVIL SERVICE AND GOVERNMENT REORGANIZATION, CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES and FINANCE per Committee Report No. 113, recommending that it be considered in SBN-2686;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-16"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-16"
 action = "CONSIDERED IN SBN-2686 UNDER C.R. NO. 113, WHICH BECAME R.A.NO. 10844 ON MAY 23, 2016."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/16/2015"
+date = "2015-03-16"
 
 [[committees]]
 name = "Science and Technology"

@@ -1,8 +1,11 @@
 id = "01K67YJ23NYDNDDBC1D32Q2028"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01803"
+
+[meta]
 bill_number = 1803
 congress = 14
-canonical = "SBN-01803"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1803", "https://web.senate.gov.ph/lisdata/62435580!.pdf",]
 title = "TAX FREE FOR LIFE FILIPINO OLYMPIAN ACT OF 2007"
 date_filed = "2007-10-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE CASH AND NON-MONETARY BENEFITS AND INCENTIVES
 scope = "National"
 subjects = [ "Athletes", "Coaches", "Trainers Incentives",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-31"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-06"
 action = "Read on First Reading and Referred to the Committee(s) on GAMES, AMUSEMENT AND SPORTS; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/6/2007"
+date = "2007-11-06"
 
 [[committees]]
 name = "Games, Amusement and Sports"

@@ -1,8 +1,11 @@
 id = "01K67YJPRY92D9BWQRKRTVFSH7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00576"
+
+[meta]
 bill_number = 576
 congress = 18
-canonical = "SBN-00576"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-576", "https://web.senate.gov.ph/lisdata/3085927841!.pdf",]
 title = "PRIORITY SEATING FOR THE ELDERLY ACT OF 2019"
 date_filed = "2019-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING LAND, AIR, AND SEA TRANSPORT PROVIDERS TO PROVIDE
 scope = "National"
 subjects = [ "Senior Citizen/Elderly", "Transportation/Transport Sector",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-17"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

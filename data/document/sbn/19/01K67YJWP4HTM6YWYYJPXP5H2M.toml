@@ -1,8 +1,11 @@
 id = "01K67YJWP4HTM6YWYYJPXP5H2M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02513"
+
+[meta]
 bill_number = 2513
 congress = 19
-canonical = "SBN-02513"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2513", "https://web.senate.gov.ph/lisdata/4319339881!.pdf",]
 title = "KAWAYAN ACT"
 date_filed = "2023-12-12"
@@ -10,33 +13,34 @@ long_title = "AN ACT INSTITUTIONALIZING THE BAMBOO INDUSTRY DEVELOPMENT IN THE P
 scope = "National"
 subjects = [ "Bamboo Industry",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Villar, Cynthia A., Villanueva, Joel, Legarda, Loren B., Gatchalian, Win, Lapid, Manuel \"Lito\" M., Estrada, Jinggoy E., Revilla Jr., Ramon Bong, Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-12-12"
 action = "Prepared and submitted jointly by the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP, WAYS AND MEANS and FINANCE with Senators JUAN MIGUEL 'MIGZ' F. ZUBIRI, CYNTHIA A. VILLAR, JOEL VILLANUEVA, LOREN B. LEGARDA, WIN GATCHALIAN, MANUEL 'LITO' M. LAPID, JINGGOY E. ESTRADA, RAMON BONG REVILLA JR. and MARK A. VILLAR as authors per Committee Report No. 186, recommending its approval in substitution of SBNos. 605, 615, 1044, 1118, 1145, 1552, 2172 and 2358, taking into consideration HBN-7941;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-13"
 action = "Sponsor: Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-06"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-06"
 action = "Sponsorship speech delivered by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-06"
 action = "Co-sponsorship speech of Senators JUAN MIGUEL 'MIGZ' F. ZUBIRI, LOREN B. LEGARDA, WIN GATCHALIAN, JOEL VILLANUEVA, PIA S. CAYETANO, RAMON BONG REVILLA JR. and ROBINHOOD C. PADILLA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/6/2024"
+date = "2024-02-06"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YJDYXTKWKH0HAQYYBADB4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02517"
+
+[meta]
 bill_number = 2517
 congress = 16
-canonical = "SBN-02517"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2517", "https://web.senate.gov.ph/lisdata/2027417381!.pdf",]
 title = "FOREIGN INVESTMENT LIBERALIZATION ACT OF 2014"
 date_filed = "2014-12-16"
@@ -10,37 +13,38 @@ long_title = "AN ACT REMOVING/AMENDING INVESTMENT RESTRICTION IN SPECIFIC LAWS G
 scope = "National"
 subjects = [ "Foreign Investments",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2014-12-16"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-17"
 action = "Read on First Reading and Referred to the Committee on ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-03"
 action = "Returned and submitted by the Committee on ECONOMIC AFFAIRS per Committee Report No. 321, recommending that it be substituted by SBN-3023;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-08"
 action = "SUBSTITUTED BY SBN-3023 UNDER C.R. NO. 321."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/8/2015"
+date = "2015-12-08"
 
 [[committees]]
 name = "Economic Affairs"

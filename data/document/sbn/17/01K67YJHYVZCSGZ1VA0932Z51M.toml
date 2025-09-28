@@ -1,8 +1,11 @@
 id = "01K67YJHYVZCSGZ1VA0932Z51M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01169"
+
+[meta]
 bill_number = 1169
 congress = 17
-canonical = "SBN-01169"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1169", "https://web.senate.gov.ph/lisdata/2486921423!.pdf",]
 title = "WORKERS' RIGHT TO SELF-ORGANIZATION"
 date_filed = "2016-09-22"
@@ -10,21 +13,22 @@ long_title = "AN ACT FURTHER STRENGTHENING WORKERS’ RIGHT TO SELF-ORGANIZATION
 scope = "National"
 subjects = [ "Workers Right to Self-Organization", "Labor Code of the Philippines (P.D.No. 442)", "Unionism",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-09-22"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-26"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/26/2016"
+date = "2016-09-26"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

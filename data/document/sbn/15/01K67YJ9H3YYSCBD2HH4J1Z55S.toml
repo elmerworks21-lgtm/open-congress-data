@@ -1,8 +1,11 @@
 id = "01K67YJ9H3YYSCBD2HH4J1Z55S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03156"
+
+[meta]
 bill_number = 3156
 congress = 15
-canonical = "SBN-03156"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3156", "https://web.senate.gov.ph/lisdata/1303410971!.pdf",]
 title = "END-OF-LIFE CARE ACT OF 2012"
 date_filed = "2012-03-19"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR END-OF-LIFE CARE TO PATIENTS AND THEIR FAMILY
 scope = "National"
 subjects = [ "Health Care Delivery System",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2012-03-19"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-20"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/20/2012"
+date = "2012-03-20"
 
 [[committees]]
 name = "Health and Demography"

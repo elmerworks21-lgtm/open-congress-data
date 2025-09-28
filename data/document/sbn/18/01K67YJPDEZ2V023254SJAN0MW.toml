@@ -1,8 +1,11 @@
 id = "01K67YJPDEZ2V023254SJAN0MW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00054"
+
+[meta]
 bill_number = 54
 congress = 18
-canonical = "SBN-00054"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-54", "https://web.senate.gov.ph/lisdata/3033927146!.pdf",]
 title = "AUTOMATIC GSIS AND SSS PENSION ADJUSTMENT ACT"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR AUTOMATIC ADJUSTMENT OF THE BASIC MONTHLY PEN
 scope = "National"
 subjects = [ "Pension", "Retired Personnel", "Government Service Insurance System (GSIS)", "Social Security System (SSS)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

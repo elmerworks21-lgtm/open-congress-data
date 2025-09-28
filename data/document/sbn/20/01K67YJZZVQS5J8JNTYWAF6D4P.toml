@@ -1,8 +1,11 @@
 id = "01K67YJZZVQS5J8JNTYWAF6D4P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00315"
+
+[meta]
 bill_number = 315
 congress = 20
-canonical = "SBN-00315"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-315", "https://web.senate.gov.ph/lisdata/4680442811!.pdf",]
 title = "NATIONAL LITERACY COUNCIL ACT"
 date_filed = "2025-07-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT RENAMING THE LITERACY COORDINATING COUNCIL TO NATIONAL LITE
 scope = "National"
 subjects = [ "National Literacy Council",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-09"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-11"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2025"
+date = "2025-08-11"
 
 [[committees]]
 name = "Basic Education"

@@ -1,8 +1,11 @@
 id = "01K67YJDPW33GHDR5HDJRXBA2P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02201"
+
+[meta]
 bill_number = 2201
 congress = 16
-canonical = "SBN-02201"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2201", "https://web.senate.gov.ph/lisdata/1902516145!.pdf",]
 title = "ARTICLES OF MILITARY JUSTICE IN THE AFP"
 date_filed = "2014-05-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ARTICLES OF MILITARY JUSTICE IN THE ARMED
 scope = "National"
 subjects = [ "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2014-05-05"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-06"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2014"
+date = "2014-05-06"
 
 [[committees]]
 name = "National Defense and Security"

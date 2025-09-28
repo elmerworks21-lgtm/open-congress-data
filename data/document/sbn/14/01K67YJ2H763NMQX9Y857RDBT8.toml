@@ -1,8 +1,11 @@
 id = "01K67YJ2H763NMQX9Y857RDBT8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02380"
+
+[meta]
 bill_number = 2380
 congress = 14
-canonical = "SBN-02380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2380", "https://web.senate.gov.ph/lisdata/76246859!.pdf",]
 title = "FIFTEEN (15) YEARS OF AGE, MINIMUM AGE OF CRIMINAL RESPONSIBILITY"
 date_filed = "2008-06-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9344 OTHERWISE KNOWN AS AN ACT ES
 scope = "National"
 subjects = [ "Department of Justice (DOJ)", "Juvenile Justice and Welfare System",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2008-06-04"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-10"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/10/2008"
+date = "2008-06-10"
 
 [[committees]]
 name = "Justice and Human Rights"

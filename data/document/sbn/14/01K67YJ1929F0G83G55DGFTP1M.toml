@@ -1,8 +1,11 @@
 id = "01K67YJ1929F0G83G55DGFTP1M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00834"
+
+[meta]
 bill_number = 834
 congress = 14
-canonical = "SBN-00834"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-834", "https://web.senate.gov.ph/lisdata/50624451!.pdf",]
 title = "MICRO-CREDIT FINANCING"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INSTITUTIONALIZE MICRO-CREDIT FINANCING AMENDING FOR THI
 scope = "National"
 subjects = [ "Micro-Credit Financing",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

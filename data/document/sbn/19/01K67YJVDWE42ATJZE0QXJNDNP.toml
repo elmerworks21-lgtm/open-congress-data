@@ -1,8 +1,11 @@
 id = "01K67YJVDWE42ATJZE0QXJNDNP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00819"
+
+[meta]
 bill_number = 819
 congress = 19
-canonical = "SBN-00819"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-819", "https://web.senate.gov.ph/lisdata/3858235033!.pdf",]
 title = "BILL OF RIGHTS OF PASSENGERS OF TAXIS, TOURIST CAR TRANSPORT SERVICES AND OTHER SIMILAR VEHICLES"
 date_filed = "2022-07-25"
@@ -10,37 +13,38 @@ long_title = "AN ACT ESTABLISHING THE RIGHTS OF PASSENGERS OF TAXIS, TOURIST CAR
 scope = "National"
 subjects = [ "Passenger Transit Rights", "Transportation Network Vehicle Services (TNVS)",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-04-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-04-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-05-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJW8VXNJJXBP63YAJNSBC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01981"
+
+[meta]
 bill_number = 1981
 congress = 19
-canonical = "SBN-01981"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1981", "https://web.senate.gov.ph/lisdata/4107437430!.pdf",]
 title = "THE BARANGAY SKILLED WORKERS REGISTRY ACT"
 date_filed = "2023-03-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING ALL BARANGAYS TO CREATE A REGISTRY OF SKILLED WOR
 scope = "National"
 subjects = [ "Barangay Skilled Workers",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-08"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-13"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/13/2023"
+date = "2023-03-13"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

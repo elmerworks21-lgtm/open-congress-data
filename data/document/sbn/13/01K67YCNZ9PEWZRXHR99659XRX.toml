@@ -1,8 +1,11 @@
 id = "01K67YCNZ9PEWZRXHR99659XRX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01076"
+
+[meta]
 bill_number = 1076
 congress = 13
-canonical = "SBN-01076"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1076", "https://web.senate.gov.ph/lisdata/22841446!.pdf",]
 title = "NATIONAL MULTI-PURPOSE ID CARD OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL IDENTIFICATION SYSTEM IN THE PHILIP
 scope = "National"
 subjects = [ "National Multi-Purpose Id Card Act", "Identification System", "Nat. Registration Coordinating Council",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-06"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2004"
+date = "2004-09-06"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

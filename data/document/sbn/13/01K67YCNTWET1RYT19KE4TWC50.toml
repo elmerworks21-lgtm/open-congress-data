@@ -1,8 +1,11 @@
 id = "01K67YCNTWET1RYT19KE4TWC50"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00845"
+
+[meta]
 bill_number = 845
 congress = 13
-canonical = "SBN-00845"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-845", "https://web.senate.gov.ph/lisdata/20431525!.pdf",]
 title = "PRE-PAID SUBSCRIBER IDENTITY MODULE (SIM) CARDS REGULATIONS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE SALE OF PRE-PAID SUBSCRIBER IDENTITY MODULE 
 scope = "National"
 subjects = [ "Pre-Paid Sim Cards Regulation Act", "Subscriber Identity Module (Registration", "Cell Phones/Cellular Phones Sim Cards",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJ0WNXCTVPCZRR9MHX6R2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00224"
+
+[meta]
 bill_number = 224
 congress = 14
-canonical = "SBN-00224"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-224", "https://web.senate.gov.ph/lisdata/43243720!.pdf",]
 title = "BILLION TREES ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO SPUR THE PLANTING OF A BILLION TREES THROUGH COMPLEMENTA
 scope = "National"
 subjects = [ "Billion Trees", "Tree Planting", "Forestry",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator LOREN LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2007"
+date = "2007-08-01"
 
 [[committees]]
 name = "Environment and Natural Resources"

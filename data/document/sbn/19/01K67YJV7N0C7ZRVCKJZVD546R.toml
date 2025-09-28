@@ -1,8 +1,11 @@
 id = "01K67YJV7N0C7ZRVCKJZVD546R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00532"
+
+[meta]
 bill_number = 532
 congress = 19
-canonical = "SBN-00532"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-532", "https://web.senate.gov.ph/lisdata/3829334731!.pdf",]
 title = "SOLAR ROOFTOP ADOPTION ACT"
 date_filed = "2022-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO FURTHER PROMOTE THE ADOPTION OF ROOFTOP SOLAR TECHNOLOGY
 scope = "National"
 subjects = [ "Rooftop Solar Technology", "Solar Energy", "Renewable Energy",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-16"
 action = "Read on First Reading and Referred to the Committees on ENERGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2022"
+date = "2022-08-16"
 
 [[committees]]
 name = "Energy"

@@ -1,8 +1,11 @@
 id = "01K67YJWMDS3YGEAHHJ6YJXD4G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02450"
+
+[meta]
 bill_number = 2450
 congress = 19
-canonical = "SBN-02450"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2450", "https://web.senate.gov.ph/lisdata/4277339884!.pdf",]
 title = "BLUE ECONOMY ACT"
 date_filed = "2023-09-25"
@@ -10,105 +13,106 @@ long_title = "AN ACT ESTABLISHING A FRAMEWORK FOR BLUE ECONOMY, PROMOTING STEWAR
 scope = "National"
 subjects = [ "Blue Economy",]
 authors_raw = "Legarda, Loren B., Estrada, Jinggoy E., Villanueva, Joel, Revilla Jr., Ramon Bong, Poe, Grace, Angara, Sonny, Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-25"
 action = "Prepared and submitted jointly by the Committees on ECONOMIC AFFAIRS (upon recommendation of its Sub-Committee on PENCAS Law and Blue Economy); ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE with Senators LOREN B. LEGARDA, JINGGOY E. ESTRADA, JOEL VILLANUEVA, RAMON BONG REVILLA JR. and GRACE POE as authors per Committee Report No. 138, recommending its approval in substitution of S. Nos. 1993, and 2377, taking into consideration P. S. Res. No. 81;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-25"
 action = "Sponsor: Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-25"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-25"
 action = "Sponsorship speech delivered by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-25"
 action = "Co-sponsorship speech of Senators JOEL VILLANUEVA, JINGGOY E. ESTRADA and RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-26"
 action = "Letter from Senator SONNY ANGARA, conveying his intention to be a co-author of SBN-2450, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Interpellation of Senator AQUILINO 'KOKO' III PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Period of amendments (amendment in the nature of a substitute);"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Letter from Senator RAFFY T. TULFO dated July 30, 2024, conveying his intention to be made co-author of SBN-2450, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "Period of individual amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Period of individual amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-15"
 action = "Printed copies were electronically distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "In favor: (21) Senators MARIA LOURDES NANCY S. BINAY, PIA S. CAYETANO, RONALD 'BATO' DELA ROSA, JOSEPH VICTOR G. EJERCITO, FRANCIS G. ESCUDERO, JINGGOY E. ESTRADA, WIN GATCHALIAN, CHRISTOPHER LAWRENCE T. GO, RISA HONTIVEROS, LOREN B. LEGARDA, IMEE R. MARCOS, ROBINHOOD C. PADILLA, AQUILINO 'KOKO' III PIMENTEL, GRACE POE, RAMON BONG REVILLA JR., FRANCIS 'TOL' N. TOLENTINO, RAFFY T. TULFO, JOEL VILLANUEVA, MARK A. VILLAR, CYNTHIA A. VILLAR and JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Against: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Abstention: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-20"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-28"
 action = "House of Representatives designated Representatives Valmayor Jr., Alvarez, Salceda, Mercado-Revilla and Daza as conferees to the Bicameral Conference Committee on SBN-2450 and HBN-9662 on August 21, 2024; (See: O.B. dated September 17, 2024)"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-28"
 action = "Senate designated Senators Legarda, Escudero, Villar (C.), Estrada, Revilla Jr., Villanueva and Pimentel III as conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-2450 and HBN-9662;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-10"
 action = "House of Representatives designated Representatives Singson-Meehan, Valmayor Jr., Alvarez, Salceda, Mercado-Revilla, Veloso-Tuazon and Daza as conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-2450 and HBN-9662 on September 9, 2024;"
 
 [[status]]
 status = "Pending Conference Committee"
-date = "8/21/2024"
+date = "2024-08-21"
 
 [[committees]]
 name = "Economic Affairs"

@@ -1,8 +1,11 @@
 id = "01K67YJJS347BXCXX2P9RM9080"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02129"
+
+[meta]
 bill_number = 2129
 congress = 17
-canonical = "SBN-02129"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2129", "https://web.senate.gov.ph/lisdata/2917425768!.pdf",]
 title = "ABC DEVELOPMENT CORPORATION, PRESENTLY KNOWN AS TV5 NETWORK, INC."
 date_filed = "2018-12-10"
@@ -10,29 +13,30 @@ long_title = "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE G
 scope = "National"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-10"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-11"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Returned and submitted by the Committee on PUBLIC SERVICES per Committee Report No. 575, recommending that it be considered in HBN-8630;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "CONSIDERED IN HBN-8630 UNDER COMMITTEE REPORT NO. 575."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/28/2019"
+date = "2019-01-28"
 
 [[committees]]
 name = "Public Services"

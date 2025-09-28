@@ -1,8 +1,11 @@
 id = "01K67YJTWWAATHM3F2MPZSKKWA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00041"
+
+[meta]
 bill_number = 41
 congress = 19
-canonical = "SBN-00041"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-41", "https://web.senate.gov.ph/lisdata/3774234184!.pdf",]
 title = "STRENGTHENING THE NATIONAL WAGES AND PRODUCTIVITY COMMISSION,"
 date_filed = "2022-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER STRENGTHENING THE NATIONAL WAGES AND PRODUCTIVITY C
 scope = "National"
 subjects = [ "National Wages and Productivity Commission",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-06"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

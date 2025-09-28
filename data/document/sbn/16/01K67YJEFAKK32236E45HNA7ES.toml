@@ -1,8 +1,11 @@
 id = "01K67YJEFAKK32236E45HNA7ES"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03018"
+
+[meta]
 bill_number = 3018
 congress = 16
-canonical = "SBN-03018"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3018", "https://web.senate.gov.ph/lisdata/2256319262!.pdf",]
 title = "MANUFACTURING MILK ACT"
 date_filed = "2015-11-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REGULATE AND PROVIDE STANDARDS FOR THE MANUFACTURE AND S
 scope = "National"
 subjects = [ "Milk",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-11-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-01"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/1/2015"
+date = "2015-12-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

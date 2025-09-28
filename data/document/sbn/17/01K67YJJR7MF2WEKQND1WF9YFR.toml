@@ -1,8 +1,11 @@
 id = "01K67YJJR7MF2WEKQND1WF9YFR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02097"
+
+[meta]
 bill_number = 2097
 congress = 17
-canonical = "SBN-02097"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2097", "https://web.senate.gov.ph/lisdata/2897725514!.pdf",]
 title = "THE MAGNA CARTA FOR BARANGAYS"
 date_filed = "2018-11-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH THE MAGNA CARTA FOR BARANGAYS"
 scope = "National"
 subjects = [ "Magna Carta for Barangays", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-14"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-19"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/19/2018"
+date = "2018-11-19"
 
 [[committees]]
 name = "Local Government"

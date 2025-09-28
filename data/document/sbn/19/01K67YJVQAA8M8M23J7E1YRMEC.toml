@@ -1,8 +1,11 @@
 id = "01K67YJVQAA8M8M23J7E1YRMEC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01232"
+
+[meta]
 bill_number = 1232
 congress = 19
-canonical = "SBN-01232"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1232", "https://web.senate.gov.ph/lisdata/3923135715!.pdf",]
 title = "FREE HOUSING THROUGH USUFRUCT ACT OF 2022"
 date_filed = "2022-08-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL POLICY OF FREE HOUSING THROUGH USUF
 scope = "National"
 subjects = [ "Free Housing Through Usufruct", "Homeless",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-30"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2022"
+date = "2022-09-07"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

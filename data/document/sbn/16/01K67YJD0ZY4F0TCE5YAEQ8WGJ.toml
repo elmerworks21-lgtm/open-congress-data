@@ -1,8 +1,11 @@
 id = "01K67YJD0ZY4F0TCE5YAEQ8WGJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01150"
+
+[meta]
 bill_number = 1150
 congress = 16
-canonical = "SBN-01150"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1150", "https://web.senate.gov.ph/lisdata/1718814426!.pdf",]
 title = "PRE-HOSPITAL EMERGENCY CARE ACT OF 2013"
 date_filed = "2013-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING A PRE-HOSPITAL EMERGENCY MEDICAL CARE SY
 scope = "National"
 subjects = [ "Pre-Hospital Emergency Care System",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-29"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-27"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2013"
+date = "2013-08-27"
 
 [[committees]]
 name = "Health and Demography"

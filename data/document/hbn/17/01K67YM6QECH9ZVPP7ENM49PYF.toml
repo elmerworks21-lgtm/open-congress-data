@@ -1,24 +1,28 @@
 id = "01K67YM6QECH9ZVPP7ENM49PYF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08923"
+
+[meta]
 bill_number = 8923
 congress = 17
-canonical = "HBN-08923"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8923", "https://web.senate.gov.ph/lisdata/2962226319!.pdf",]
 title = "MTC (TIGBAUAN, ILOILO)"
 long_title = "AN ACT CREATING A MUNICIPAL TRIAL COURT FOR THE MUNICIPALITY OF TIGBAUAN, PROVINCE OF ILOILO IN THE SIXTH JUDICIAL REGION, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-08"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/8/2019"
+date = "2019-02-08"
 
 [[committees]]
 name = "Justice and Human Rights"

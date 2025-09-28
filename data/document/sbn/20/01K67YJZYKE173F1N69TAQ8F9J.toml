@@ -1,8 +1,11 @@
 id = "01K67YJZYKE173F1N69TAQ8F9J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00248"
+
+[meta]
 bill_number = 248
 congress = 20
-canonical = "SBN-00248"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-248", "https://web.senate.gov.ph/lisdata/4672542730!.pdf",]
 title = "STUDENT ASSISTANCE FUND FOR EMERGENCIES (SAFE) ACT"
 date_filed = "2025-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE STUDENT ASSISTANCE FUND FOR EMERGENC
 scope = "National"
 subjects = [ "Student Assistance Fund for Emergencies (SAFE)",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-08"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Basic Education"

@@ -1,8 +1,11 @@
 id = "01K67YCNVCQ1JQXQVQRE1S13WF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00872"
+
+[meta]
 bill_number = 872
 congress = 13
-canonical = "SBN-00872"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-872", "https://web.senate.gov.ph/lisdata/20701560!.pdf",]
 title = "MUNICIPAL SEA WATER AS PART OF IRA COMPUTATION"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT MAKING MUNICIPAL SEA WATER WITHIN THE FIFTEEN-KILOMETER RAD
 scope = "National"
 subjects = [ "Municipal Sea Water (Ira Computation)", "Internal Revenue Allotment (IRA)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; and ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2004"
+date = "2004-08-30"
 
 [[committees]]
 name = "Local Government"

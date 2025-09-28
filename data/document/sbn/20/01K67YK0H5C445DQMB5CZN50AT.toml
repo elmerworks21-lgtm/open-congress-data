@@ -1,8 +1,11 @@
 id = "01K67YK0H5C445DQMB5CZN50AT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01233"
+
+[meta]
 bill_number = 1233
 congress = 20
-canonical = "SBN-01233"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1233", "https://web.senate.gov.ph/lisdata/4786343876!.pdf",]
 title = "MANDATORY ESTABLISHMENT OF PROVINCIAL, CITY AND MUNICIPAL POPULATION OFFICE"
 date_filed = "2025-08-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE ESTABLISHMENT OF A POPULATION DEVELOPMENT OFF
 scope = "National"
 subjects = [ "Local Government Code of 1991", "Population Development Office", "Population",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-20"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-15"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2025"
+date = "2025-09-15"
 
 [[committees]]
 name = "Local Government"

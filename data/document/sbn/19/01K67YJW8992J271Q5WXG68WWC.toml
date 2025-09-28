@@ -1,8 +1,11 @@
 id = "01K67YJW8992J271Q5WXG68WWC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01957"
+
+[meta]
 bill_number = 1957
 congress = 19
-canonical = "SBN-01957"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1957", "https://web.senate.gov.ph/lisdata/4098437350!.pdf",]
 title = "DECLARING THE PROVINCE OF AGUSAN DEL SUR AS THE HOME OF THE GOLDEN TARA"
 date_filed = "2023-03-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE PROVINCE OF AGUSAN DEL SUR AS THE HOME OF THE
 scope = "National"
 subjects = [ "Golden Tara",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-02"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-07"
 action = "Read on First Reading and Referred to the Committees on CULTURE AND THE ARTS and TOURISM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/7/2023"
+date = "2023-03-07"
 
 [[committees]]
 name = "Culture and the Arts"

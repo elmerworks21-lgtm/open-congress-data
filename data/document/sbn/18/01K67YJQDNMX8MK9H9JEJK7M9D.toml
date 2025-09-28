@@ -1,8 +1,11 @@
 id = "01K67YJQDNMX8MK9H9JEJK7M9D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01481"
+
+[meta]
 bill_number = 1481
 congress = 18
-canonical = "SBN-01481"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1481", "https://web.senate.gov.ph/lisdata/3267129540!.pdf",]
 title = "CANCER ASSISTANCE ACT"
 date_filed = "2020-05-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ASSIST INDIGENT CANCER PATIENTS AND THEIR FAMILIES, ESTA
 scope = "National"
 subjects = [ "Cancer/Cancer Care Centers", "Indigent Persons",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2020-05-04"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/5/2020"
+date = "2020-05-05"
 
 [[committees]]
 name = "Health and Demography"

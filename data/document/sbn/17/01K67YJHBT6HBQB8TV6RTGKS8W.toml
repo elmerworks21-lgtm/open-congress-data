@@ -1,8 +1,11 @@
 id = "01K67YJHBT6HBQB8TV6RTGKS8W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00320"
+
+[meta]
 bill_number = 320
 congress = 17
-canonical = "SBN-00320"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-320", "https://web.senate.gov.ph/lisdata/2375820419!.pdf",]
 title = "CACAO INDUSTRY DEVELOPMENT ACT OF 2016"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL PROGRAM FOR THE CACAO INDUSTRY PROV
 scope = "National"
 subjects = [ "Cacao",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Agriculture and Food"

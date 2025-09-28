@@ -1,8 +1,11 @@
 id = "01K67YJ1B19H7V9TXGVX5ZSH3C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00924"
+
+[meta]
 bill_number = 924
 congress = 14
-canonical = "SBN-00924"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-924", "https://web.senate.gov.ph/lisdata/51834550!.pdf",]
 title = "PENALTY OF PRISON FOR DELINQUENT PARENTS"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN THE PENAL PROVISIONS WITH RESPECT TO DELINQUE
 scope = "National"
 subjects = [ "Revised Penal Code (RA 3815; Amendments)", "Parents/Guardians Liability",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator LOREN LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

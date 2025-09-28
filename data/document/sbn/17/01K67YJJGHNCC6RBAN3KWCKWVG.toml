@@ -1,8 +1,11 @@
 id = "01K67YJJGHNCC6RBAN3KWCKWVG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01812"
+
+[meta]
 bill_number = 1812
 congress = 17
-canonical = "SBN-01812"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1812", "https://web.senate.gov.ph/lisdata/2788424164!.pdf",]
 title = "AMENDING PRESIDENTIAL DECREE NO. 1612, (ANTI-FENCING LAW)"
 date_filed = "2018-05-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 1612, OR THE ANTI-FENCING 
 scope = "National"
 subjects = [ "Anti-Fencing",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2018-05-21"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-22"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2018"
+date = "2018-05-22"
 
 [[committees]]
 name = "Justice and Human Rights"

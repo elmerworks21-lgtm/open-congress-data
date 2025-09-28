@@ -1,24 +1,28 @@
 id = "01K67YM9EGY944RDA1XVFFB4Y8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08179"
+
+[meta]
 bill_number = 8179
 congress = 18
-canonical = "HBN-08179"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8179", "https://web.senate.gov.ph/lisdata/3442031233!.pdf",]
 title = "SUSTAINABLE FOREST MANAGEMENT ACT"
 long_title = "AN ACT PROVIDING FOR THE SUSTAINABLE MANAGEMENT OF FORESTS AND FOREST LANDS"
 scope = "National"
 subjects = [ "Sustainable Forest Management",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-03"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/3/2021"
+date = "2021-02-03"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

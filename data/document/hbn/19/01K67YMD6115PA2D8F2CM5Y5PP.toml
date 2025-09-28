@@ -1,24 +1,28 @@
 id = "01K67YMD6115PA2D8F2CM5Y5PP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07372"
+
+[meta]
 bill_number = 7372
 congress = 19
-canonical = "HBN-07372"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7372", "https://web.senate.gov.ph/lisdata/4415340137!.pdf",]
 title = "DECLARING AS ALIENABLE AND DISPOSABLE A PARCEL OF LAND (TEACHERS' CAMP RESERVATION)"
 long_title = "AN ACT DECLARING AS ALIENABLE AND DISPOSABLE A PARCEL OF LAND OF THE PUBLIC DOMAIN LOCATED IN THE CITY OF BAGUIO, OPEN FOR DISPOSITION TO ACTUAL AND QUALIFIED APPLICANTS THEREBY EXCLUDING THE SAID LAND FROM THE COVERAGE OF PROCLAMATION NO. 290, DATED JULY 18,1988 WHICH ESTABLISHED THE TEACHERS’ CAMP RESERVATION"
 scope = "Local"
 subjects = [ "Alienable and Disposable Lands",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2024"
+date = "2024-07-31"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

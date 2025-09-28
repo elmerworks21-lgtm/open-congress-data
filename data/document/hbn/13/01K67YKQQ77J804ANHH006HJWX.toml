@@ -1,24 +1,28 @@
 id = "01K67YKQQ77J804ANHH006HJWX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00788"
+
+[meta]
 bill_number = 788
 congress = 13
-canonical = "HBN-00788"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-788", "https://web.senate.gov.ph/lisdata/56704963!.pdf",]
 title = "NATIONAL MARITIME POLYTECHNIC BOARD OF TRUSTEES"
 long_title = "AN ACT PROVIDING FOR ADDITIONAL MEMBERS OF THE BOARD OF TRUSTEES OF THE NATIONAL MARITIME POLYTECHNIC, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1369"
 scope = "National"
 subjects = [ "National Maritime Polytechnic (Board of Trustees)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-07-20"
 action = "Filed in the Senate requesting for concurrence by Representatives HARLIN C. ABAYON, CYNTHIA A. VILLAR, ANTONINO P. ROMAN, REYNALDO S. UY and FLORENCIO 'BEM' G. NOEL as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-31"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2006"
+date = "2006-07-31"
 
 [[committees]]
 name = "Education, Arts and Culture"

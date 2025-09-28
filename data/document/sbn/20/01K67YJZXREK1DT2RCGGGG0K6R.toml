@@ -1,8 +1,11 @@
 id = "01K67YJZXREK1DT2RCGGGG0K6R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00204"
+
+[meta]
 bill_number = 204
 congress = 20
-canonical = "SBN-00204"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-204", "https://web.senate.gov.ph/lisdata/4668142686!.pdf",]
 title = "RANK CLASSIFICATION AND ORGANIZATION OF THE BFP AND BJMP"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE RANK CLASSIFICATION AND ORGANIZATION OF K
 scope = "National"
 subjects = [ "Rank Classification and Organization of Key Position", "Bureau of Jail Management and Penology", "Bureau of Fire Protection",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

@@ -1,8 +1,11 @@
 id = "01K67YJ9JEG62PJABTRZ7QK5RQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03216"
+
+[meta]
 bill_number = 3216
 congress = 15
-canonical = "SBN-03216"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3216", "https://web.senate.gov.ph/lisdata/1345211314!.pdf",]
 title = "FISH PORT AND COLD STORAGE IN SASMUAN, PAMPANGA"
 date_filed = "2012-06-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A FISH PORT AND COLD STO
 scope = "Local"
 subjects = [ "Fish Port",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2012-06-05"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-06-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2012"
+date = "2012-06-05"
 
 [[committees]]
 name = "Public Works"

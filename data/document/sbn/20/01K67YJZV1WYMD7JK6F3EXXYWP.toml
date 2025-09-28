@@ -1,8 +1,11 @@
 id = "01K67YJZV1WYMD7JK6F3EXXYWP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00067"
+
+[meta]
 bill_number = 67
 congress = 20
-canonical = "SBN-00067"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-67", "https://web.senate.gov.ph/lisdata/4654142545!.pdf",]
 title = "THE FREE TERTIARY AGRICULTURAL EDUCATION ACT"
 date_filed = "2025-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FREE TERTIARY AGRICULTURAL EDUCATION, AND OTHER RE
 scope = "National"
 subjects = [ "Agricultural Education", "Tertiary Education",]
 authors_raw = "Marcoleta, Rodante D."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-03"
 action = "Introduced by Senator RODANTE D. MARCOLETA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

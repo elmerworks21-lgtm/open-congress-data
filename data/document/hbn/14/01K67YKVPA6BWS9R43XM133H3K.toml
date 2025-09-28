@@ -1,24 +1,28 @@
 id = "01K67YKVPA6BWS9R43XM133H3K"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00701"
+
+[meta]
 bill_number = 701
 congress = 14
-canonical = "HBN-00701"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-701", "https://web.senate.gov.ph/lisdata/1259211278!.pdf",]
 title = "MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT"
 long_title = "AN ACT AMENDING SECTIONS 25 AND 26 OF REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE 'MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT OF 1995', AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Migrant Workers and Overseas Filipinos (RA 8042, Amendments)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-24"
 action = "Filed in the Senate requesting for concurrence by Representatives REX GATCHALIAN, MANUEL 'WAY KURAT' E.. ZAMORA, JUNIE E. CUA and CARLOS M. PADILLA, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-28"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; FOREIGN RELATIONS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2009"
+date = "2009-09-28"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

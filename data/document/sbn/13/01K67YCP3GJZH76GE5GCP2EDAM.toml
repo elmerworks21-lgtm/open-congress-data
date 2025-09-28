@@ -1,8 +1,11 @@
 id = "01K67YCP3GJZH76GE5GCP2EDAM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01305"
+
+[meta]
 bill_number = 1305
 congress = 13
-canonical = "SBN-01305"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1305", "https://web.senate.gov.ph/lisdata/25121884!.pdf",]
 title = "IMPROVED QUALIFICATIONS ACT OF 2004"
 date_filed = "2004-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ANY PERSON RUNNING FOR AN ELECTIVE NATIONAL OR LO
 scope = "National"
 subjects = [ "Improved Qualifications Act", "Neuro-Psychiatric Examinations", "Elective Public Office", "Elections/Electoral Reforms (Candidates)",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-02"
 action = "Introduced by Senator BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

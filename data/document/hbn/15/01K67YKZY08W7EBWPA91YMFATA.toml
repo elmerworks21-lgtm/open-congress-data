@@ -1,28 +1,32 @@
 id = "01K67YKZY08W7EBWPA91YMFATA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04935"
+
+[meta]
 bill_number = 4935
 congress = 15
-canonical = "HBN-04935"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4935", "https://web.senate.gov.ph/lisdata/1203710823!.pdf",]
 title = "INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
 long_title = "THE INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Investment and Incentives Code",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-08-18"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-22"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS and ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-04-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/22/2011"
+date = "2011-08-22"
 
 [[committees]]
 name = "Ways and Means"

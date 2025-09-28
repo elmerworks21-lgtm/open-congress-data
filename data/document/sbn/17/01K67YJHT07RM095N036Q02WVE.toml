@@ -1,8 +1,11 @@
 id = "01K67YJHT07RM095N036Q02WVE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00957"
+
+[meta]
 bill_number = 957
 congress = 17
-canonical = "SBN-00957"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-957", "https://web.senate.gov.ph/lisdata/2451521123!.pdf",]
 title = "MINDANAO DEVELOPMENT INCENTIVES ACT"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR INVESTMENT INCENTIVES TO ACCELERATE DEVELOPME
 scope = "National"
 subjects = [ "Mindanao Development Incentives", "Mindanao Development Authority",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; ECONOMIC AFFAIRS; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

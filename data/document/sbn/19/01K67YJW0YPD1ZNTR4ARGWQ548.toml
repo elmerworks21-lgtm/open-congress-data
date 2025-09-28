@@ -1,8 +1,11 @@
 id = "01K67YJW0YPD1ZNTR4ARGWQ548"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01633"
+
+[meta]
 bill_number = 1633
 congress = 19
-canonical = "SBN-01633"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1633", "https://web.senate.gov.ph/lisdata/4027536679!.pdf",]
 title = "21ST CENTURY SCHOOL BOARDS ACT"
 date_filed = "2023-01-04"
@@ -10,25 +13,26 @@ long_title = "AN ACT STRENGTHENING THE INVOLVEMENT OF LOCAL COMMUNITIES AND LOCA
 scope = "National"
 subjects = [ "Local School Boards", "Basic Education/Basic Education Institutions", "Local Government Units (LGUS)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-04"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT; BASIC EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/23/2023"
+date = "2023-01-23"
 
 [[committees]]
 name = "Local Government"

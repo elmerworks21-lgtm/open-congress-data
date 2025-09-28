@@ -1,8 +1,11 @@
 id = "01K67YJWXMDY04HDMS92PSFQF0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02783"
+
+[meta]
 bill_number = 2783
 congress = 19
-canonical = "SBN-02783"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2783", "https://web.senate.gov.ph/lisdata/4464740594!.pdf",]
 title = "KAPAKANAN NG MAGSISIPAGTAPOS ACT"
 date_filed = "2024-08-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING EDUCATIONAL INSTITUTIONS FROM PREVENTING THEIR 
 scope = "National"
 subjects = [ "Graduating Students", "Educational Institutions",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-14"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2024"
+date = "2024-08-19"
 
 [[committees]]
 name = "Basic Education"

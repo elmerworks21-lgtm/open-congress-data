@@ -1,8 +1,11 @@
 id = "01K67YJWVR8TA4PG62P2RHYQJK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02723"
+
+[meta]
 bill_number = 2723
 congress = 19
-canonical = "SBN-02723"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2723", "https://web.senate.gov.ph/lisdata/4430640262!.pdf",]
 title = "CHEMICAL WEAPONS PROHIBITION ACT"
 date_filed = "2024-07-10"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROHIBITING THE DEVELOPMENT, PRODUCTION, STOCKPILING AND US
 scope = "National"
 subjects = [ "Chemical Weapons Prohibition",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-10"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Read on First Reading and Referred to the Committee on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-02"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-05"
 action = "Returned and submitted by the Committee on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION per Committee Report No. 344, recommending that it be substituted by SBN-2871;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-05"
 action = "SUBSTITUTED BY SBN-2871 UNDER COMMITTEE REPORT NO. 344, WHICH BECAME REPUBLIC ACT NO. 12174 ON APRIL 15, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/5/2024"
+date = "2024-11-05"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

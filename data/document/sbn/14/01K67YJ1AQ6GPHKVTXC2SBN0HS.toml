@@ -1,8 +1,11 @@
 id = "01K67YJ1AQ6GPHKVTXC2SBN0HS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00910"
+
+[meta]
 bill_number = 910
 congress = 14
-canonical = "SBN-00910"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-910", "https://web.senate.gov.ph/lisdata/51684536!.pdf",]
 title = "ART FORGERIES ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE CRIME OF ART FORGERY, PROVIDING PENALTIES THER
 scope = "National"
 subjects = [ "Art Forgeries",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Justice and Human Rights"

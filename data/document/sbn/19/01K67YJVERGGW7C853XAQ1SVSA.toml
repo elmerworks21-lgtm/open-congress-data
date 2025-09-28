@@ -1,8 +1,11 @@
 id = "01K67YJVERGGW7C853XAQ1SVSA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00856"
+
+[meta]
 bill_number = 856
 congress = 19
-canonical = "SBN-00856"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-856", "https://web.senate.gov.ph/lisdata/3867835131!.pdf",]
 title = "COOPERATIVE DEPOSITORS PROTECTION ACT OF 2022"
 date_filed = "2022-07-25"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING PROTECTION TO COOPERATIVE DEPOSITORS AND ESTABLIS
 scope = "National"
 subjects = [ "Philippine Cooperative Insurance Corporations",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on COOPERATIVES; BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Cooperatives"

@@ -1,24 +1,28 @@
 id = "01K67YM9JCY86S5KR7DR18YS2Q"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08870"
+
+[meta]
 bill_number = 8870
 congress = 18
-canonical = "HBN-08870"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8870", "https://web.senate.gov.ph/lisdata/3470931534!.pdf",]
 title = "ANTI-GAME FIXING ACT"
 long_title = "AN ACT PROHIBITING GAME-FIXING AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
 scope = "National"
 subjects = [ "Game-Fixing",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-17"
 action = "Read on First Reading and Referred to the Committee on SPORTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/17/2021"
+date = "2021-03-17"
 
 [[committees]]
 name = "Sports"

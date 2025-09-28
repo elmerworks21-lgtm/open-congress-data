@@ -1,8 +1,11 @@
 id = "01K67YJV44BZCY8XC7DZ3WKCPS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00367"
+
+[meta]
 bill_number = 367
 congress = 19
-canonical = "SBN-00367"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-367", "https://web.senate.gov.ph/lisdata/3812834567!.pdf",]
 title = "DIALYSIS CLINICS IN ALL NATIONAL, REGIONAL AND PROVINCIAL HOSPITALS"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE ESTABLISHMENT OF DIALYSIS CLINICS IN ALL NATI
 scope = "National"
 subjects = [ "Dialysis Treatment", "Hospitals (Government Hospitals)", "Indigent Persons",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Health and Demography"

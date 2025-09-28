@@ -1,8 +1,11 @@
 id = "01K67YJ190MXVSXR4BNVG3VY5C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00831"
+
+[meta]
 bill_number = 831
 congress = 14
-canonical = "SBN-00831"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-831", "https://web.senate.gov.ph/lisdata/50594448!.pdf",]
 title = "PENSIONADO ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AN ADVANCED STUDIES DEVELOPMENT PROGRAM FOR EXCEPT
 scope = "National"
 subjects = [ "Pensionado Act",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Education, Arts and Culture"

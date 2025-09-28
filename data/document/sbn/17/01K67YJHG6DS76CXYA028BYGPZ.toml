@@ -1,8 +1,11 @@
 id = "01K67YJHG6DS76CXYA028BYGPZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00491"
+
+[meta]
 bill_number = 491
 congress = 17
-canonical = "SBN-00491"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-491", "https://web.senate.gov.ph/lisdata/2393120570!.pdf",]
 title = "CENTER FOR INTERNATIONAL RELATIONS AND STRATEGIC STUDIES"
 date_filed = "2016-07-19"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXPANDING THE CENTER FOR INTERNATIONAL RELATIONS AND STRATE
 scope = "National"
 subjects = [ "Center for International Relations and Strategic Studies",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; and NATIONAL DEFENSE AND SECURITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Economic Affairs"

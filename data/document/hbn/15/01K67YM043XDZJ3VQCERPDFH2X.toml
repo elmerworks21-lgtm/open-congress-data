@@ -1,36 +1,40 @@
 id = "01K67YM043XDZJ3VQCERPDFH2X"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05861"
+
+[meta]
 bill_number = 5861
 congress = 15
-canonical = "HBN-05861"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-5861", "https://web.senate.gov.ph/lisdata/1311011022!.pdf",]
 title = "TURTLE ISLANDS PROTECTED AREA (TIPA) ACT OF 2012"
 long_title = "AN ACT ESTABLISHING THE TURTLE ISLANDS WILDLIFE SANCTUARY IN THE MUNICIPALITY OF TURTLE ISLANDS, PROVINCE OF TAWI-TAWI AS A PROTECTED AREA, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Wildlife (Flora and Fauna)", "Protected Landscape/Protected Area",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-03-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-09"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-03"
 action = "Returned jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE per Committee Report No. 327, recommending that it be considered in SBN-3266;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-04"
 action = "CONSIDERED IN SBN-3266, UNDER COMMITTEE REPORT NO. 327."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/4/2012"
+date = "2012-09-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

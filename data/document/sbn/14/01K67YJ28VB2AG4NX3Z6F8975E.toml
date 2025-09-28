@@ -1,8 +1,11 @@
 id = "01K67YJ28VB2AG4NX3Z6F8975E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02014"
+
+[meta]
 bill_number = 2014
 congress = 14
-canonical = "SBN-02014"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2014", "https://web.senate.gov.ph/lisdata/67285966!.pdf",]
 title = "ANTI-SMUGGLING ACT OF 2008"
 date_filed = "2008-01-28"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 1464
 scope = "National"
 subjects = [ "Anti-Smuggling",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-28"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-29"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2008"
+date = "2008-01-29"
 
 [[committees]]
 name = "Ways and Means"

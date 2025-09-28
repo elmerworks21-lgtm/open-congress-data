@@ -1,8 +1,11 @@
 id = "01K67YJ3BJCDV7R4SA64C9XP76"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03500"
+
+[meta]
 bill_number = 3500
 congress = 14
-canonical = "SBN-03500"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3500", "https://web.senate.gov.ph/lisdata/1279511502!.pdf",]
 title = "ONE-STOP ACTION OFFICE (OSAO) ACT OF 2009"
 date_filed = "2009-10-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING ONE-STOP ACTION OFFICE TO ASSIST IN THE RECONS
 scope = "National"
 subjects = [ "Calamity/Calamities", "One-Stop Action Office (OSAO)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-14"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/14/2009"
+date = "2009-10-14"
 
 [[committees]]
 name = "Local Government"

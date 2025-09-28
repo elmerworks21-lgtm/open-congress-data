@@ -1,8 +1,11 @@
 id = "01K67YJW0NZM75SPT48DADCJKJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01620"
+
+[meta]
 bill_number = 1620
 congress = 19
-canonical = "SBN-01620"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1620", "https://web.senate.gov.ph/lisdata/4023436640!.pdf",]
 title = "BULACAN STATE UNIVERSITY SYSTEM ACT"
 date_filed = "2022-12-14"
@@ -10,25 +13,26 @@ long_title = "AN ACT ESTABLISHING THE BULACAN STATE UNIVERSITY SYSTEM INTEGRATIN
 scope = "Local"
 subjects = [ "State Universities and Colleges (SUCS)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-29"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, WAYS AND MEANS and FINANCE per Committee Report No. 108, recommending that it be considered in HBN-7961;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-30"
 action = "CONSIDERED IN HBN-7961 UNDER COMMITTEE REPORT NO. 108."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/30/2023"
+date = "2023-08-30"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

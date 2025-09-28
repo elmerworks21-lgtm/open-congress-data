@@ -1,8 +1,11 @@
 id = "01K67YJZWRZ7RPW6FC45XFBKYR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00151"
+
+[meta]
 bill_number = 151
 congress = 20
-canonical = "SBN-00151"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-151", "https://web.senate.gov.ph/lisdata/4662842632!.pdf",]
 title = "SALARY STANDARDIZATION OF BARANGAY OFFICIALS ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING BARANGAY OFFICIALS AS REGULAR GOVERNMENT EMPLOYEE
 scope = "National"
 subjects = [ "Salary Standardization", "Barangay Officials",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Local Government"

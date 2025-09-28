@@ -1,24 +1,28 @@
 id = "01K67YKRCSS488H5E696D370CV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05875"
+
+[meta]
 bill_number = 5875
 congress = 13
-canonical = "HBN-05875"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5875", "https://web.senate.gov.ph/lisdata/67555541!.pdf",]
 title = "LEYTE NATIONAL HIGH SCHOOL"
 long_title = "AN ACT CONVERTING THE LEYTE INSTITUTE, A PRIVATE HIGH SCHOOL IN THE MUNICIPALITY OF BARUGO, PROVINCE OF LEYTE INTO A PUBLIC NATIONAL HIGH SCHOOL TO BE KNOWN AS THE LEYTE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Leyte)", "Leyte National High School",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives TRINIDAD 'EBBIE' G. APOSTOL, JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

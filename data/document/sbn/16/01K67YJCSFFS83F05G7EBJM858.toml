@@ -1,8 +1,11 @@
 id = "01K67YJCSFFS83F05G7EBJM858"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00789"
+
+[meta]
 bill_number = 789
 congress = 16
-canonical = "SBN-00789"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-789", "https://web.senate.gov.ph/lisdata/1675113985!.pdf",]
 title = "REWARDS TO INFORMERS OF VIOLATIONS OF INTERNAL REVENUE AND CUSTOMS LAW"
 date_filed = "2013-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONSOLIDATING THE LAWS GRANTING REWARDS TO INFORMERS OF VIO
 scope = "National"
 subjects = [ "Tariff and Customs Code (P.D.No. 1464)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-16"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-12"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2013"
+date = "2013-08-12"
 
 [[committees]]
 name = "Ways and Means"

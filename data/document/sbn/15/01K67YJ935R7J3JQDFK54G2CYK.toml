@@ -1,33 +1,37 @@
 id = "01K67YJ935R7J3JQDFK54G2CYK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02660"
+
+[meta]
 bill_number = 2660
 congress = 15
-canonical = "SBN-02660"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2660", "https://web.senate.gov.ph/lisdata/106529114!.pdf",]
 title = "DIOSDADO P. MACAPAGAL MEMORIAL LIBRARY AND MUSEUM"
 date_filed = "2011-01-31"
 long_title = "AN ACT ESTABLISHING THE DIOSDADO P. MACAPAGAL MEMORIAL LIBRARY AND MUSEUM"
 scope = "National"
 authors_raw = "Angara, Edgardo J., Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2011-01-31"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-01-31"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-02-07"
 action = "Transferred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-08"
 action = "Senator FRANCIS 'CHIZ' G. ESCUDERO was made coauthor;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/31/2011"
+date = "2011-01-31"
 
 [[committees]]
 name = "Education, Arts and Culture"

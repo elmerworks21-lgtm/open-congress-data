@@ -1,8 +1,11 @@
 id = "01K67YCPAKFZ71SHXVS88FYT23"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01701"
+
+[meta]
 bill_number = 1701
 congress = 13
-canonical = "SBN-01701"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1701", "https://web.senate.gov.ph/lisdata/28792485!.pdf",]
 title = "EMERGENCY MEDICAL SERVICES AND TRAUMA CARE IMPROVEMENT ACT"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO IMPROVE EMERGENCY MEDICAL SERVICES AND TRAUMA"
 scope = "National"
 subjects = [ "Emergency Medical Services & Trauma",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Health and Demography"

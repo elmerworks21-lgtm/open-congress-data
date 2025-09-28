@@ -1,8 +1,11 @@
 id = "01K67YCNMYVF3VN5MZTVEA4BXF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00503"
+
+[meta]
 bill_number = 503
 congress = 13
-canonical = "SBN-00503"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-503", "https://web.senate.gov.ph/lisdata/1661964!.pdf",]
 title = "PROVINCIAL ROAD CONNECTING ISULAN AND LEAK (SULTAN KUDARAT)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE PROVINCIAL ROAD CONNECTING THE MUNICIPALITIE
 scope = "Local"
 subjects = [ "Roads, Conversion (Sultan Kudarat)", "Isulan and Leak Roads",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-20"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2003"
+date = "2003-08-10"
 
 [[committees]]
 name = "Rules"

@@ -1,24 +1,28 @@
 id = "01K67YKZVRB54WB5NHZ7QFQPWZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04575"
+
+[meta]
 bill_number = 4575
 congress = 15
-canonical = "HBN-04575"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4575", "https://web.senate.gov.ph/lisdata/114849765!.pdf",]
 title = "CORPORATE SOCIAL RESPONSIBILITY ACT OF 2011"
 long_title = "AN ACT ENCOURAGING CORPORATE SOCIAL RESPONSIBILITY, PROVIDING INCENTIVES THEREFOR AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Corporate Social Responsibility",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-06-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/7/2011"
+date = "2011-06-07"
 
 [[committees]]
 name = "Trade and Commerce"

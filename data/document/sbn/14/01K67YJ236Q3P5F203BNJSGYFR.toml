@@ -1,8 +1,11 @@
 id = "01K67YJ236Q3P5F203BNJSGYFR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01778"
+
+[meta]
 bill_number = 1778
 congress = 14
-canonical = "SBN-01778"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1778", "https://web.senate.gov.ph/lisdata/61725503!.pdf",]
 title = "ALLOWING EITHER SPOUSE TO DISPOSE OF HIS OR HER EXCLUSIVE PROPERTY"
 date_filed = "2007-10-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING EXECUTIVE ORDER NO. 209 KNOWN AS THE FAMILY CODE, 
 scope = "National"
 subjects = [ "Family Code (E.O.No. 209)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/5/2007"
+date = "2007-11-05"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

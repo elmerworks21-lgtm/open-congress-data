@@ -1,8 +1,11 @@
 id = "01K67YJTZ2D4624PT13SGATP80"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00138"
+
+[meta]
 bill_number = 138
 congress = 19
-canonical = "SBN-00138"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-138", "https://web.senate.gov.ph/lisdata/3784634287!.pdf",]
 title = "MSME STIMULUS ACT"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT STIMULATING THE RECOVERY, GROWTH, AND DEVELOPMENT OF THE MI
 scope = "National"
 subjects = [ "Micro, Small and Medium Enterprises (Msmes)", "Entrepreneurship",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

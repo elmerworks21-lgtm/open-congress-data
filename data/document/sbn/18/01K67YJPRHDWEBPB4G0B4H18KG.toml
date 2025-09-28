@@ -1,8 +1,11 @@
 id = "01K67YJPRHDWEBPB4G0B4H18KG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00556"
+
+[meta]
 bill_number = 556
 congress = 18
-canonical = "SBN-00556"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-556", "https://web.senate.gov.ph/lisdata/3083527778!.pdf",]
 title = "PHILIPPINE INSTITUTE OF TRADITIONAL AND COMPLEMENTARY HEALTH CARE (PITCHC) ACT OF 2019"
 date_filed = "2019-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT EMPOWERING THE PHILIPPINE INSTITUTE OF TRADITIONAL AND COMP
 scope = "National"
 subjects = [ "Philippine Institute of Traditional and Complementary Health Care",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-16"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Health and Demography"

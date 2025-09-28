@@ -1,8 +1,11 @@
 id = "01K67YJDZ2BZVDCY61C8650SB7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02528"
+
+[meta]
 bill_number = 2528
 congress = 16
-canonical = "SBN-02528"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2528", "https://web.senate.gov.ph/lisdata/2033417441!.pdf",]
 title = "UNIFORM WARNINGS ON PERSONAL PROTECTIVE EQUIPMENT ACT"
 date_filed = "2014-12-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR UNIFORM WARNINGS ON PERSONAL PROTECTIVE EQUI
 scope = "National"
 subjects = [ "Occupational Safety",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-12-22"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-01-20"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2015"
+date = "2015-01-20"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

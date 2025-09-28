@@ -1,8 +1,11 @@
 id = "01K67YCP5GV7C8DFRX4GK8TEZC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01408"
+
+[meta]
 bill_number = 1408
 congress = 13
-canonical = "SBN-01408"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1408", "https://web.senate.gov.ph/lisdata/26231987!.pdf",]
 title = "IRRI WORKER'S RIGHTS TO SELF-ORGANIZATION"
 date_filed = "2004-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROTECTING THE RIGHTS TO LABOR OF THE WORKERS OF THE INTERN
 scope = "National"
 subjects = [ "International Rice Research Institute", "Workers Right to Self-Organization (Irri", "Unionism (P.D.No. 1620, Art. 3)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-07"
 action = "Introduced by Senator PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

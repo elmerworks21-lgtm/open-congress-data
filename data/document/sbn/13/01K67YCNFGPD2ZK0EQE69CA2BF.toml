@@ -1,8 +1,11 @@
 id = "01K67YCNFGPD2ZK0EQE69CA2BF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00208"
+
+[meta]
 bill_number = 208
 congress = 13
-canonical = "SBN-00208"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-208", "https://web.senate.gov.ph/lisdata/1303609!.pdf",]
 title = "CORPORATE RECOVERY ACT"
 date_filed = "2004-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR THE RECOVERY OF FINANCIALLY DISTRESSED ENTERP
 scope = "National"
 subjects = [ "Corporate Recovery Act", "Financially Distressed Enterprises", "Business (Rehabilitation)", "Insolvency/Dissolution-Liquidation",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-02"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-03"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2004"
+date = "2004-08-02"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

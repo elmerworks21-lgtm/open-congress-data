@@ -1,8 +1,11 @@
 id = "01K67YJ2WE00679G63PAG767JR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02887"
+
+[meta]
 bill_number = 2887
 congress = 14
-canonical = "SBN-02887"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2887", "https://web.senate.gov.ph/lisdata/93368440!.pdf",]
 title = "SERVICE TO PAY ACT"
 date_filed = "2008-11-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR TEACHING SERVICE AS PAYMENT FOR EDUCATIONAL L
 scope = "National"
 subjects = [ "Tuition Fees", "School Fees",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-19"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-24"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/24/2008"
+date = "2008-11-24"
 
 [[committees]]
 name = "Education, Arts and Culture"

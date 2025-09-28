@@ -1,8 +1,11 @@
 id = "01K67YJWAWGWKTHD3T7JTJK57T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02057"
+
+[meta]
 bill_number = 2057
 congress = 19
-canonical = "SBN-02057"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2057", "https://web.senate.gov.ph/lisdata/4143537729!.pdf",]
 title = "DECLARING BARANGAY KAPATAGAN IN THE CITY OF DIGOS, DAVAO DEL SUR, AN ECOTOURISM SITE"
 date_filed = "2023-04-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING BARANGAY KAPATAGAN IN THE CITY OF DIGOS, PROVINCE
 scope = "National"
 subjects = [ "Ecotourism Sites",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-04-11"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/8/2023"
+date = "2023-05-08"
 
 [[committees]]
 name = "Tourism"

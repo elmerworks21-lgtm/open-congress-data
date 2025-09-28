@@ -1,8 +1,11 @@
 id = "01K67YJJE9M4YTF8D9HE01XZAX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01718"
+
+[meta]
 bill_number = 1718
 congress = 17
-canonical = "SBN-01718"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1718", "https://web.senate.gov.ph/lisdata/2746023705!.pdf",]
 title = "THE MANAGEMENT, CONTROL, REGULATION, AND UTILIZATION OF RAINWATER RUNOFF"
 date_filed = "2018-02-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MANAGEMENT, CONTROL, REGULATION, AND UTIL
 scope = "National"
 subjects = [ "Rainwater", "Flood Management", "Water Supply",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2018-02-28"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-05"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/5/2018"
+date = "2018-03-05"
 
 [[committees]]
 name = "Public Works"

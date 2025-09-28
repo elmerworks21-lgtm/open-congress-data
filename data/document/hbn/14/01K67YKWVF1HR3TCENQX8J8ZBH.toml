@@ -1,24 +1,28 @@
 id = "01K67YKWVF1HR3TCENQX8J8ZBH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05885"
+
+[meta]
 bill_number = 5885
 congress = 14
-canonical = "HBN-05885"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5885", "https://web.senate.gov.ph/lisdata/106809536!.pdf",]
 title = "ADDITIONAL RTC AND MTC BRANCH IN BOGO CITY AND BANTAYAN ISLAND, CEBU"
 long_title = "AN ACT CREATING ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND MUNICIPAL TRIAL COURT IN CITIES FOR THE PROVINCE OF CEBU TO BE STATIONED AT BOGO CITY AND BANTAYAN ISLAND, AMENDING FOR THE PURPOSE SECTION 14(H), AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Courts (Municipal Trial Courts)", "Courts (Regional Trial Courts)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-11"
 action = "Filed in the Senate requesting for concurrence by Representatives BENHUR L. SALIMBANGON, MATIAS V. DEFENSOR JR., JUNIE E. CUA, NEPTALI M. GONZALES II, DEL R. DE GUZMAN, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Justice and Human Rights"

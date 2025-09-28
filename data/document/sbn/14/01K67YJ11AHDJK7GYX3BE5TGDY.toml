@@ -1,8 +1,11 @@
 id = "01K67YJ11AHDJK7GYX3BE5TGDY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00449"
+
+[meta]
 bill_number = 449
 congress = 14
-canonical = "SBN-00449"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-449", "https://web.senate.gov.ph/lisdata/46283977!.pdf",]
 title = "MUNICIPAL PORTS ACT OF 2007"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE DEVOLUTION OF THE CONTROL, MANAGEMENT AND
 scope = "National"
 subjects = [ "Municipal Ports", "Philippine Ports Authority (PPA)", "Local Government Units (LGUS)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Public Services"

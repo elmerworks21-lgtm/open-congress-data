@@ -1,8 +1,11 @@
 id = "01K67YK00BA7WFQBJGVKM57J4D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00342"
+
+[meta]
 bill_number = 342
 congress = 20
-canonical = "SBN-00342"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-342", "https://web.senate.gov.ph/lisdata/4683242839!.pdf",]
 title = "GRANTING OFFICIAL PASSPORTS TO NATIONAL ATHLETES AND COACHES"
 date_filed = "2025-07-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING OFFICIAL PASSPORTS TO NATIONAL ATHLETES AND COACHE
 scope = "National"
 subjects = [ "National Athletes and Coaches", "Passports/Passports Data",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-09"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-11"
 action = "Read on First Reading and Referred to the Committee on FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2025"
+date = "2025-08-11"
 
 [[committees]]
 name = "Foreign Relations"

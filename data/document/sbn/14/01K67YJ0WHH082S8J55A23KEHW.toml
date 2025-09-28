@@ -1,8 +1,11 @@
 id = "01K67YJ0WHH082S8J55A23KEHW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00217"
+
+[meta]
 bill_number = 217
 congress = 14
-canonical = "SBN-00217"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-217", "https://web.senate.gov.ph/lisdata/43173713!.pdf",]
 title = "MINDANAO RAILWAYS CORPORATION"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE MINDANAO RAILWAYS CORPORATION, PRESCRIBING ITS
 scope = "National"
 subjects = [ "Mindanao Railways Corporation",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; PUBLIC SERVICES; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2007"
+date = "2007-08-01"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

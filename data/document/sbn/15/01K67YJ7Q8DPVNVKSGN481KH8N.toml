@@ -1,8 +1,11 @@
 id = "01K67YJ7Q8DPVNVKSGN481KH8N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00781"
+
+[meta]
 bill_number = 781
 congress = 15
-canonical = "SBN-00781"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-781", "https://web.senate.gov.ph/lisdata/81396610!.pdf",]
 title = "FAMILY CODE (INDICATIONS OF PSYCHOLOGICAL INCAPACITY)"
 date_filed = "2010-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT DEFINING CERTAIN INDICATIONS OF PSYCHOLOGICAL INCAPACITY AS
 scope = "National"
 subjects = [ "Family Code(E.O.No. 209)", "Psychological Incapacity",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-07"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-11"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2010"
+date = "2010-08-11"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

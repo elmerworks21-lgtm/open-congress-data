@@ -1,25 +1,29 @@
 id = "01K67YJ2C26E30KXQ4BMXJWY7G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02153"
+
+[meta]
 bill_number = 2153
 congress = 14
-canonical = "SBN-02153"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2153", "https://web.senate.gov.ph/lisdata/70856327!.pdf",]
 title = "ENVIRONMENTAL COMPONENT OF LOAN APPLICATIONS"
 date_filed = "2008-04-10"
 long_title = "AN ACT ESTABLISHING ENVIRONMENTAL UNITS IN EVERY LENDING INSTITUTION TO ASSESS THE ENVIRONMENTAL COMPONENT OF LOAN APPLICATIONS"
 scope = "National"
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-10"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-21"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/21/2008"
+date = "2008-04-21"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

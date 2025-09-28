@@ -1,8 +1,11 @@
 id = "01K67YJHANN80FX4FKWJ5273BE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00268"
+
+[meta]
 bill_number = 268
 congress = 17
-canonical = "SBN-00268"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-268", "https://web.senate.gov.ph/lisdata/2370520350!.pdf",]
 title = "THE SOLAR ENERGY IN NATIONAL GOVERNMENT OFFICES ACT OF 2016"
 date_filed = "2016-07-04"
@@ -10,29 +13,30 @@ long_title = "AN ACT REDUCING THE COST OF ELECTRICITY FOR NATIONAL GOVERNMENT OF
 scope = "National"
 subjects = [ "Solar Energy", "Government Agencies",]
 authors_raw = "Recto, Ralph G., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-14"
 action = "Letter from Senator JOEL VILLANUEVA dated October 25, 2016, requesting that he be made coauthor of SBN-268, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Energy"

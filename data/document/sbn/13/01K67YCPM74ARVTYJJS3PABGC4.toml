@@ -1,8 +1,11 @@
 id = "01K67YCPM74ARVTYJJS3PABGC4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02162"
+
+[meta]
 bill_number = 2162
 congress = 13
-canonical = "SBN-02162"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2162", "https://web.senate.gov.ph/lisdata/42153501!.pdf",]
 title = "FREE MEDICAL CARE PROGRAM OF 2005"
 date_filed = "2005-11-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR FREE MEDICAL CARE OTHERWISE KNOWN AS THE FREE
 scope = "National"
 subjects = [ "Medical Care Program", "Regional Medical Care Program (RMCP)",]
 authors_raw = "Lim, Alfredo S."
-[[legislative_history]]
+
+[[history]]
 date = "2005-11-16"
 action = "Introduced by Senator ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-21"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/21/2005"
+date = "2005-11-21"
 
 [[committees]]
 name = "Health and Demography"

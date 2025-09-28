@@ -1,24 +1,28 @@
 id = "01K67YM64BKJPY73181XG0HQGW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06425"
+
+[meta]
 bill_number = 6425
 congress = 17
-canonical = "HBN-06425"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6425", "https://web.senate.gov.ph/lisdata/2911125697!.pdf",]
 title = "TRAFFIC CRISIS ACT OF 2018. MAKIISA.MAKISAMA.MAGKAISA"
 long_title = "AN ACT PRESCRIBING AN URGENT, COMPREHENSIVE AND INTEGRATED LAND-BASED TRAFFIC MANAGEMENT TO EFFECTIVELY ADDRESS THE TRAFFIC CONGESTION CRISIS IN METRO MANILA, METROPOLITAN CEBU AND METROPOLITAN DAVAO AND APPROPRIATING FUNDS THEREOF"
 scope = "National"
 subjects = [ "Traffic Management",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-06"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2018"
+date = "2018-12-06"
 
 [[committees]]
 name = "Public Services"

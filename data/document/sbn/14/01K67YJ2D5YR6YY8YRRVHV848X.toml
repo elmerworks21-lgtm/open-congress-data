@@ -1,8 +1,11 @@
 id = "01K67YJ2D5YR6YY8YRRVHV848X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02203"
+
+[meta]
 bill_number = 2203
 congress = 14
-canonical = "SBN-02203"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2203", "https://web.senate.gov.ph/lisdata/71786407!.pdf",]
 title = "SCHEDULE OF FAIR MARKET VALUE PREPARED BY THE REGIONAL TECHNICAL VALUATION COMMITTEE"
 date_filed = "2008-04-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTIONS 212 AND 214 OF REPUBLIC ACT NO. 7160, OTH
 scope = "National"
 subjects = [ "Fair Market Value (Real Estate/Real Property)", "Local Government Code (RA 7160; Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-28"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-29"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/29/2008"
+date = "2008-04-29"
 
 [[committees]]
 name = "Local Government"

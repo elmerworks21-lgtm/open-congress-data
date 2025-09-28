@@ -1,25 +1,29 @@
 id = "01K67YJ2AK9A2349G9ZV8ERZ3Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02090"
+
+[meta]
 bill_number = 2090
 congress = 14
-canonical = "SBN-02090"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2090", "https://web.senate.gov.ph/lisdata/68986111!.pdf",]
 title = "TANNING FACILITY REGULATORY ACT OF 2008"
 date_filed = "2008-02-20"
 long_title = "AN ACT REGULATING TANNING FACILITIES"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-20"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-20"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/20/2008"
+date = "2008-02-20"
 
 [[committees]]
 name = "Health and Demography"

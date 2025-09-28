@@ -1,24 +1,28 @@
 id = "01K67YKQYV32X2QM29CP1Y8TWW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04475"
+
+[meta]
 bill_number = 4475
 congress = 13
-canonical = "HBN-04475"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4475", "https://web.senate.gov.ph/lisdata/44043735!.pdf",]
 title = "PRESENTACION - BITAOGAN - HANOPOL - SAN VICENTE NATIONAL ROAD (CAMARINES SUR)"
 long_title = "AN ACT CONVERTING THE PRESENTACION - BITAOGAN - HANOPOL - SAN VICENTE ROAD IN THE MUNICIPALITIES OF PRESENTACION AND CARAMOAN, PROVINCE OF CAMARINES SUR INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion (Camarines Sur)", "Presentacion - Bitaogan - Hanopol - San Vicente National Road (Camarines Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representatives LUIS R. VILLAFUERTE and FELIX R. ALFELOR JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2006"
+date = "2006-01-16"
 
 [[committees]]
 name = "Public Works"

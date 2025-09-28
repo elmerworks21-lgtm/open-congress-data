@@ -1,8 +1,11 @@
 id = "01K67YJWF8JRHP3JER5FDDM0GW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02236"
+
+[meta]
 bill_number = 2236
 congress = 19
-canonical = "SBN-02236"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2236", "https://web.senate.gov.ph/lisdata/4178438058!.pdf",]
 title = "EXTENDING THE LIFE OF THE PHILIPPINE AEROSPACE DEVELOPMENT CORPORATION (PADC)"
 date_filed = "2023-05-23"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXTENDING THE LIFE OF THE PHILIPPINE AEROSPACE DEVELOPMENT 
 scope = "National"
 subjects = [ "Philippine Aerospace Development Corporation (PADC)",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-23"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-24"
 action = "Read on First Reading and Referred to the Committee on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/24/2023"
+date = "2023-05-24"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

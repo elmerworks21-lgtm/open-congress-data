@@ -1,8 +1,11 @@
 id = "01K67YK0G1Q0QPGBN6KCJAXCGV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01179"
+
+[meta]
 bill_number = 1179
 congress = 20
-canonical = "SBN-01179"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1179", "https://web.senate.gov.ph/lisdata/4777143793!.pdf",]
 title = "PARAISO TI CARIBQUIB (ILOCOS NORTE, ECOTOURISM DESTINATION)"
 date_filed = "2025-08-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE PARAISO TI CARIBQUIB LOCATED IN SITIO DARAMUA
 scope = "National"
 subjects = [ "Ecological Tourism Zone", "Ecotourism Site",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-13"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Tourism"

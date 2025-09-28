@@ -1,8 +1,11 @@
 id = "01K67YCNWJ2BDJ1FPXMQDYT55Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00938"
+
+[meta]
 bill_number = 938
 congress = 13
-canonical = "SBN-00938"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-938", "https://web.senate.gov.ph/lisdata/21401667!.pdf",]
 title = "BARANGAY NUTRITION PROGRAM"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE POSITION OF BARANGAY NUTRITION WORKER IN EVERY
 scope = "National"
 subjects = [ "Barangay Nutrition Program", "Pd No. 1569",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-31"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2004"
+date = "2004-08-31"
 
 [[committees]]
 name = "Health and Demography"

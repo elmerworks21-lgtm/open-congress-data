@@ -1,24 +1,28 @@
 id = "01K67YM2N76J0SZPM0E1HR8XTA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02609"
+
+[meta]
 bill_number = 2609
 congress = 16
-canonical = "HBN-02609"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-2609", "https://web.senate.gov.ph/lisdata/1889916010!.pdf",]
 title = "DR. DANILO ANDAL PEREZ NATIONAL HIGH SCHOOL"
 long_title = "AN ACT CHANGING THE NAME OF TAYSAN NATIONAL HIGH SCHOOL IN BARANGAY TAYSAN, MUNICIPALITY OF SAN JOSE, PROVINCE OF BATANGAS TO DR. DANILO ANDAL PEREZ NATIONAL HIGH SCHOOL"
 scope = "Local"
 subjects = [ "Schools, Change of Name",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-03-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-12"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/12/2014"
+date = "2014-03-12"
 
 [[committees]]
 name = "Education, Arts and Culture"

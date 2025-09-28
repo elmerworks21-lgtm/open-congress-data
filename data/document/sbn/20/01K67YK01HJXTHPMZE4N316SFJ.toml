@@ -1,8 +1,11 @@
 id = "01K67YK01HJXTHPMZE4N316SFJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00406"
+
+[meta]
 bill_number = 406
 congress = 20
-canonical = "SBN-00406"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-406", "https://web.senate.gov.ph/lisdata/4689842904!.pdf",]
 title = "ADVANCED NURSING EDUCATION ACT OF 2025"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT 9173 OTHERWISE KN
 scope = "National"
 subjects = [ "Advanced Nursing Education Program", "Philippine Nursing Act",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

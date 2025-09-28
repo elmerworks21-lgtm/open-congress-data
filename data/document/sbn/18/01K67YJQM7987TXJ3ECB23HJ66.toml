@@ -1,8 +1,11 @@
 id = "01K67YJQM7987TXJ3ECB23HJ66"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01776"
+
+[meta]
 bill_number = 1776
 congress = 18
-canonical = "SBN-01776"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1776", "https://web.senate.gov.ph/lisdata/3334230179!.pdf",]
 title = "UNIVERSAL HEALTH CARE ACT (AMENDMENTS)"
 date_filed = "2020-08-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNI
 scope = "National"
 subjects = [ "Universal Health Care", "Health Care",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2020-08-18"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-24"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2020"
+date = "2020-08-24"
 
 [[committees]]
 name = "Health and Demography"

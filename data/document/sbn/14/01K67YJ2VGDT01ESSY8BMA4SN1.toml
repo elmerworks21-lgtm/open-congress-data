@@ -1,8 +1,11 @@
 id = "01K67YJ2VGDT01ESSY8BMA4SN1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02841"
+
+[meta]
 bill_number = 2841
 congress = 14
-canonical = "SBN-02841"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2841", "https://web.senate.gov.ph/lisdata/100048999!.pdf",]
 title = "JUDICIARY REORGANIZATION ACT (CABUYAO, LAGUNA)"
 date_filed = "2008-11-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING TWO ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COU
 scope = "Local"
 subjects = [ "Courts (Municipal Trial Courts)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-11"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-22"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/22/2009"
+date = "2009-01-22"
 
 [[committees]]
 name = "Justice and Human Rights"

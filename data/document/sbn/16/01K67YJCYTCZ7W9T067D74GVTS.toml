@@ -1,8 +1,11 @@
 id = "01K67YJCYTCZ7W9T067D74GVTS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01043"
+
+[meta]
 bill_number = 1043
 congress = 16
-canonical = "SBN-01043"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1043", "https://web.senate.gov.ph/lisdata/1707914295!.pdf",]
 title = "ATHLETES"
 date_filed = "2013-07-23"
@@ -10,37 +13,38 @@ long_title = "AN ACT MANDATING THE INCLUSION OF ATHLETES WITH DISABILITY OR DIFF
 scope = "National"
 subjects = [ "Athletes (Disabled/Differently-Abled)", "Athletes, Coaches, Trainers Benefits and Incentives Act (R.A.No. 9064)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-23"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on AMATEUR SPORTS COMPETITIVENESS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-03"
 action = "Transfer of committee referral from the Committee on Amateur Sports Competitiveness to the Committee on GAMES, AMUSEMENT AND SPORTS, on motion of Senator Cayetano (A.);"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-12"
 action = "Returned and submitted jointly by the Committee(s) on GAMES, AMUSEMENT AND SPORTS, WAYS AND MEANS and FINANCE per Committee Report No. 202, recommending that it be substituted by SBN-2898;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-12"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-12"
 action = "SUBSTITUTED BY SBN-2898 UNDER C.R. NO. 202 WHICH BECAME R.A.NO. 10699 ON NOVEMBER 13, 2015."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/12/2015"
+date = "2015-08-12"
 
 [[committees]]
 name = "Games, Amusement and Sports"

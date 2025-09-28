@@ -1,8 +1,11 @@
 id = "01K67YJWSZTAJ5M3Z981ZBSTRA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02644"
+
+[meta]
 bill_number = 2644
 congress = 19
-canonical = "SBN-02644"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2644", "https://web.senate.gov.ph/lisdata/4396939924!.pdf",]
 title = "ONE ELECTRONIC MEDICAL RECORDS ACT"
 date_filed = "2024-04-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A UNIFIED ELECTRONIC MEDICAL RECORDS FOR ALL P
 scope = "National"
 subjects = [ "Electronic Medical Records of Patients",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2024-04-23"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-30"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/30/2024"
+date = "2024-04-30"
 
 [[committees]]
 name = "Health and Demography"

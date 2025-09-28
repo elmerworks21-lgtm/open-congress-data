@@ -1,8 +1,11 @@
 id = "01K67YCPAJX29AMG5R3QJ22M5S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01699"
+
+[meta]
 bill_number = 1699
 congress = 13
-canonical = "SBN-01699"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1699", "https://web.senate.gov.ph/lisdata/29522483!.pdf",]
 title = "NUTRITION AND HEALTH ACT"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH WITHIN THE DEPARTMENT OF HEALTH A PERMANENT CO
 scope = "National"
 subjects = [ "Nutrition and Health Act", "Dept. of Health (DOH)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Health and Demography"

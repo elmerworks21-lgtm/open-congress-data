@@ -1,8 +1,11 @@
 id = "01K67YJJGQE9807Y1NY5909QGB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01820"
+
+[meta]
 bill_number = 1820
 congress = 17
-canonical = "SBN-01820"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1820", "https://web.senate.gov.ph/lisdata/2795024242!.pdf",]
 title = "BALANGA WETLAND AND NATURE PARK"
 date_filed = "2018-05-28"
@@ -10,29 +13,30 @@ long_title = "AN ACT DECLARING THE BALANGA WETLAND AND NATURE PARK, IN BARANGAY 
 scope = "National"
 subjects = [ "Balanga Wetland and Nature Park", "Tourism (Ecotourism Zone/Ecotourism Site)",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2018-05-28"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-28"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-21"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, TOURISM and FINANCE per Committee Report No. 670, recommending that it be substituted by SBN-2228;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-21"
 action = "SUBSTITUTED BY SBN-2228 UNDER COMMITTEE REPORT NO. 670, WHICH BECAME R.A. NO. 11365 ON AUGUST 8, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/21/2019"
+date = "2019-05-21"
 
 [[committees]]
 name = "Environment and Natural Resources"

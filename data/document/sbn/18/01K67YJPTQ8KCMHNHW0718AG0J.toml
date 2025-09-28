@@ -1,8 +1,11 @@
 id = "01K67YJPTQ8KCMHNHW0718AG0J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00660"
+
+[meta]
 bill_number = 660
 congress = 18
-canonical = "SBN-00660"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-660", "https://web.senate.gov.ph/lisdata/3102227921!.pdf",]
 title = "TEACHER'S HOUSING PROGRAM"
 date_filed = "2019-07-22"
@@ -10,25 +13,26 @@ long_title = "AN ACT TO PROVIDE FOR A HOUSING PROGRAM FOR TEACHERS"
 scope = "National"
 subjects = [ "Housing (Affordable Residential Housing)", "Public School Teachers",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; BASIC EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-01"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

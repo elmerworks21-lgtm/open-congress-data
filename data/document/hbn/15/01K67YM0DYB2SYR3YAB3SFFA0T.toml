@@ -1,26 +1,30 @@
 id = "01K67YM0DYB2SYR3YAB3SFFA0T"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06486"
+
+[meta]
 bill_number = 6486
 congress = 15
-canonical = "HBN-06486"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6486", "https://web.senate.gov.ph/lisdata/1568212991!.pdf",]
 title = "PAMITINAN PROTECTED LANDSCAPE (PPL) ACT"
 long_title = "AN ACT DECLARING THE PAMITINAN CAVE IN THE MUNICIPALITY OF RODRIGUEZ, PROVINCE OF RIZAL A PROTECTED AREA UNDER THE CATEGORY OF PROTECTED LANDSCAPE, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Protected Landscape", "Protected Area",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

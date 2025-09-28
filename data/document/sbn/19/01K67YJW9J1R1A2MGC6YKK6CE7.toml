@@ -1,8 +1,11 @@
 id = "01K67YJW9J1R1A2MGC6YKK6CE7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02010"
+
+[meta]
 bill_number = 2010
 congress = 19
-canonical = "SBN-02010"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2010", "https://web.senate.gov.ph/lisdata/4120937514!.pdf",]
 title = "CREATING BARANGAY LEGODON, MUNICIPALITY OF ESPERANZA, SULTAN KUDARAT"
 date_filed = "2023-03-15"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY LEGODON IN THE 
 scope = "Local"
 subjects = [ "Barangay, Creation",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-15"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-20"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/20/2023"
+date = "2023-03-20"
 
 [[committees]]
 name = "Local Government"

@@ -1,48 +1,52 @@
 id = "01K67YM9BPY6SGSTKFK625P7TA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07749"
+
+[meta]
 bill_number = 7749
 congress = 18
-canonical = "HBN-07749"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7749", "https://web.senate.gov.ph/lisdata/3448431289!.pdf",]
 title = "GOVERNMENT FINANCIAL INSTITUTIONS (GFIS) UNIFIED INITIATIVES TO DISTRISSED ENTERPRISES"
 long_title = "AN ACT PROVIDING FOR GOVERNMENT FINANCIAL INSTITUTIONS UNIFIED INITIATIVES TO DISTRESSED ENTERPRISES FOR ECONOMIC RECOVERY (GUIDE)"
 scope = "National"
 subjects = [ "Government Financial Institutions",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-15"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-17"
 action = "Transferred from the Committee on RULES to the Committees on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES, WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-04-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/15/2021"
+date = "2021-02-15"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

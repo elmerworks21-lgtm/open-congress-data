@@ -1,8 +1,11 @@
 id = "01K67YJ2GX069C04WEW2620CP6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02368"
+
+[meta]
 bill_number = 2368
 congress = 14
-canonical = "SBN-02368"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2368", "https://web.senate.gov.ph/lisdata/75526785!.pdf",]
 title = "DEFINING THE CRIME OF PSEUDO-INVESTMENTS (PYRAMID SALES SCHEME, TELEMARKETING)"
 date_filed = "2008-06-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 7394, OTHER
 scope = "National"
 subjects = [ "Consumers Act (RA 7394)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-06-03"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-03"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/3/2008"
+date = "2008-06-03"
 
 [[committees]]
 name = "Trade and Commerce"

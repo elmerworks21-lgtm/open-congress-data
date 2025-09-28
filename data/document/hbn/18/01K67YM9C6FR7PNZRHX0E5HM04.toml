@@ -1,24 +1,28 @@
 id = "01K67YM9C6FR7PNZRHX0E5HM04"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07835"
+
+[meta]
 bill_number = 7835
 congress = 18
-canonical = "HBN-07835"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7835", "https://web.senate.gov.ph/lisdata/3412930937!.pdf",]
 title = "LOBBYING DISCLOSURE ACT"
 long_title = "AN ACT REQUIRING FOR THE FULL DISCLOSURE OF LOBBYING ACTIVITIES IN THE GOVERNMENT SECTOR, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 1827, ENTITLED AN ACT TO REGULATE LOBBYING IN THE CONGRESS OF THE PHILIPPINES AND IN THE COMMISSION ON APPOINTMENTS AND PROVIDING PENALTIES THEREFOR"
 scope = "National"
 subjects = [ "Lobbying",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-12-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-14"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/14/2020"
+date = "2020-12-14"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

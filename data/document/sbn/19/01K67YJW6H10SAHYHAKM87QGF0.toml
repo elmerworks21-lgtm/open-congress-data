@@ -1,8 +1,11 @@
 id = "01K67YJW6H10SAHYHAKM87QGF0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01874"
+
+[meta]
 bill_number = 1874
 congress = 19
-canonical = "SBN-01874"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1874", "https://web.senate.gov.ph/lisdata/4075637140!.pdf",]
 title = "AMENDING SEC. 13, ART. XVI OF R. A. NO. 11054 (ORGANIC LAW FOR THE BARMM)"
 date_filed = "2023-02-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 13, ARTICLE XVI OF REPUBLIC ACT NO. 11054,
 scope = "National"
 subjects = [ "Bangsamoro Autonomous Region in Muslim Mindanao",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-13"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-14"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/14/2023"
+date = "2023-02-14"
 
 [[committees]]
 name = "Local Government"

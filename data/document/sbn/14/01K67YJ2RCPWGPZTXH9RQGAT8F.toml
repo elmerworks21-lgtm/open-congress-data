@@ -1,8 +1,11 @@
 id = "01K67YJ2RCPWGPZTXH9RQGAT8F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02691"
+
+[meta]
 bill_number = 2691
 congress = 14
-canonical = "SBN-02691"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2691", "https://web.senate.gov.ph/lisdata/90758255!.pdf",]
 title = "MUSIC PLAYER NOISE WARNING ACT"
 date_filed = "2008-10-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROHIBITING A MANUFACTURER FROM DISTRIBUTING PERSONAL AUDIO
 scope = "National"
 subjects = [ "Hearing Loss", "Hearing Damage",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-27"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-11"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/11/2008"
+date = "2008-11-11"
 
 [[committees]]
 name = "Trade and Commerce"

@@ -1,8 +1,11 @@
 id = "01K67YCP23996AJWR014QBGG35"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01229"
+
+[meta]
 bill_number = 1229
 congress = 13
-canonical = "SBN-01229"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1229", "https://web.senate.gov.ph/lisdata/24421808!.pdf",]
 title = "PREVENTING OUR KIDS FROM INHALING DEADLY SMOKE ACT"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "A BILL TO PROTECT CHILDREN FROM EXPOSURE TO ENVIRONMENTAL TOBACCO 
 scope = "National"
 subjects = [ "Pro-Kids Act", "Children`S Services Anti-Tobacco Smoking",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Health and Demography"

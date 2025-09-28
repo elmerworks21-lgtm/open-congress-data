@@ -1,36 +1,40 @@
 id = "01K67YMD1NM44S7C1ZE328SSAR"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06522"
+
+[meta]
 bill_number = 6522
 congress = 19
-canonical = "HBN-06522"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6522", "https://web.senate.gov.ph/lisdata/4022236630!.pdf",]
 title = "PHILIPPINE CENTERS FOR DISEASE PREVENTION AND CONTROL (CDC) ACT"
 long_title = "AN ACT CREATING THE PHILIPPINE CENTERS FOR DISEASE PREVENTION AND CONTROL, DEFINING THEIR POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Philippine Centers for Disease Prevention and Control (CDC)",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-13"
 action = "Returned jointly by the Committees on HEALTH AND DEMOGRAPHY(upon the recommendation of the Subcommittee on the Philippine Center for Disease Prevention and Control); FINANCE and WAYS AND MEANS per Committee Report No. 28, recommending that it be considered in SBN-1869;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-13"
 action = "CONSIDERED IN SBN-1869 UNDER COMMITTEE REPORT NO. 28."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/13/2023"
+date = "2023-02-13"
 
 [[committees]]
 name = "Health and Demography"

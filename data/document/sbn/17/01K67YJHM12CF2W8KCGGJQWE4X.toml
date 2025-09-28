@@ -1,8 +1,11 @@
 id = "01K67YJHM12CF2W8KCGGJQWE4X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00677"
+
+[meta]
 bill_number = 677
 congress = 17
-canonical = "SBN-00677"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-677", "https://web.senate.gov.ph/lisdata/2416820805!.pdf",]
 title = "AUTOMATED TELLER MACHINE (ATM) FEE REGULATORY ACT"
 date_filed = "2016-07-20"
@@ -10,25 +13,26 @@ long_title = "AN ACT REQUIRING FINANCIAL INSTITUTIONS TO POST TRANSACTION FEES F
 scope = "National"
 subjects = [ "Automated Teller Machines (ATM)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2016"
+date = "2016-08-09"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

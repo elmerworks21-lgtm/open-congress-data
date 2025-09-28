@@ -1,8 +1,11 @@
 id = "01K67YJDW8DM867TM22EKD5RXK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02416"
+
+[meta]
 bill_number = 2416
 congress = 16
-canonical = "SBN-02416"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2416", "https://web.senate.gov.ph/lisdata/1988917007!.pdf",]
 title = "NON-WAGE BENEFITS TO PUBLIC ELEMENTARY AND HIGH SCHOOL TEACHERS"
 date_filed = "2014-09-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING PUBLIC ELEMENTARY SCHOOL AND PUBLIC HIGH SCHOOL TE
 scope = "National"
 subjects = [ "Teachers",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2014-09-22"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-23"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/23/2014"
+date = "2014-09-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

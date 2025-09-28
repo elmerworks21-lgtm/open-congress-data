@@ -1,24 +1,28 @@
 id = "01K67YM9PSG72PBP6WK9CKFJAG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09362"
+
+[meta]
 bill_number = 9362
 congress = 18
-canonical = "HBN-09362"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9362", "https://web.senate.gov.ph/lisdata/3524832106!.pdf",]
 title = "TOURISM DESTINATION (KALAWIT LAKE , KALAWIT, ZAMBOANGA DEL NORTE)"
 long_title = "AN ACT DECLARING THE KALAWIT LAKE LOCATED IN BARANGAY POBLACION, MUNICIPALITY OF KALAWIT, PROVINCE OF ZAMBOANGA DEL NORTE, A TOURISM DESTINATION, PROVIDING FOR ITS DEVELOPMENT, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism", "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2021"
+date = "2021-07-28"
 
 [[committees]]
 name = "Tourism"

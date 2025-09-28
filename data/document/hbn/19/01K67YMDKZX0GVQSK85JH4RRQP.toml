@@ -1,24 +1,28 @@
 id = "01K67YMDKZX0GVQSK85JH4RRQP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09936"
+
+[meta]
 bill_number = 9936
 congress = 19
-canonical = "HBN-09936"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9936", "https://web.senate.gov.ph/lisdata/4382639822!.pdf",]
 title = "ENHANCED BASIC EDUCATION ACT OF 2013 (AMENDING RA NO. 10533)"
 long_title = "AN ACT ALLOWING THE DEPARTMENT OF EDUCATION THE FLEXIBILITY TO DETERMINE THE PEDAGOGICAL APPROACHES TO BE IMPLEMENTED IN THE BASIC EDUCATION CURRICULUM, AMENDING FOR THE PURPOSE SECTION 5 OF REPUBLIC ACT NO. 10533, OTHERWISE KNOWN AS THE 'ENHANCED BASIC EDUCATION ACT OF 2013'"
 scope = "Local"
 subjects = [ "Enhanced Basic Education Act (R.A.No. 10533)",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Read on First Reading and Referred to the Committee on BASIC EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2024"
+date = "2024-05-06"
 
 [[committees]]
 name = "Basic Education"

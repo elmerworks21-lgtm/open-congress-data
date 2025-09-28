@@ -1,8 +1,11 @@
 id = "01K67YJCJBYWTTNPCXKHXBVCBQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00443"
+
+[meta]
 bill_number = 443
 congress = 16
-canonical = "SBN-00443"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-443", "https://web.senate.gov.ph/lisdata/1635413594!.pdf",]
 title = "APPOINTMENT AND ASSIGNMENT OF REGIONAL TRIAL JUDGES"
 date_filed = "2013-07-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT FURTHER AMENDING BATAS PAMBANSA BLG. 129, OR THE JUDICIARY 
 scope = "National"
 subjects = [ "Judges", "Judiciary Reorganization Act",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-04"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-13"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2013"
+date = "2013-08-05"
 
 [[committees]]
 name = "Justice and Human Rights"

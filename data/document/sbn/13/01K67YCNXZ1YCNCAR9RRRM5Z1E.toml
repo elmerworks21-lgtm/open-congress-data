@@ -1,8 +1,11 @@
 id = "01K67YCNXZ1YCNCAR9RRRM5Z1E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01008"
+
+[meta]
 bill_number = 1008
 congress = 13
-canonical = "SBN-01008"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1008", "https://web.senate.gov.ph/lisdata/22161284!.pdf",]
 title = "NON PUBLICATION OF SOURCE OF PUBLISHED NEWS OR INFORMATION"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER AMENDING SECTION ONE OF REPUBLIC ACT NO. 53, OTHERW
 scope = "National"
 subjects = [ "Publishers/Editor/Columnist/Reporters", "News/Information (Source of Publication)", "RA No. 53, Amendment (Mass Media)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Public Information and Mass Media"

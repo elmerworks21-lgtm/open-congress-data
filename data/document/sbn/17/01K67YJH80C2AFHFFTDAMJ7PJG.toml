@@ -1,8 +1,11 @@
 id = "01K67YJH80C2AFHFFTDAMJ7PJG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00156"
+
+[meta]
 bill_number = 156
 congress = 17
-canonical = "SBN-00156"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-156", "https://web.senate.gov.ph/lisdata/2357820206!.pdf",]
 title = "SEC. 45 OF R.A.NO. 9136 - CROSS OWNERSHIP, MARKET POWER ABUSE AND ANTI-COMPETITIVE BEHAVIOR"
 date_filed = "2016-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9136, OTHERWISE KNOWN AS THE ELEC
 scope = "National"
 subjects = [ "Electric Power Industry Reform Act", "Epira (R.A.No. 9136)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2016"
+date = "2016-08-01"
 
 [[committees]]
 name = "Energy"

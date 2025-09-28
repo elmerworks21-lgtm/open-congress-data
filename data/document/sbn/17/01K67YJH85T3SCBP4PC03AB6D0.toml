@@ -1,8 +1,11 @@
 id = "01K67YJH85T3SCBP4PC03AB6D0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00162"
+
+[meta]
 bill_number = 162
 congress = 17
-canonical = "SBN-00162"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-162", "https://web.senate.gov.ph/lisdata/2358421316!.pdf",]
 title = "NATIONAL TRANSPORTATION SAFETY BOARD ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,41 +13,42 @@ long_title = "AN ACT TO PROMOTE COST-EFFECTIVE MEASURES FOR THE TRANSPORT SECTOR
 scope = "National"
 subjects = [ "National Transportation Safety Board", "Transportation",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; PUBLIC SERVICES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Motion of Senator Sotto III to refer SBN-162 primarily to the Committee on PUBLIC SERVICES; and secondarily to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-14"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC SERVICES, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, EDUCATION, ARTS AND CULTURE and FINANCE per Committee Report No. 218, recommending that it be substituted by SBN-1637;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-15"
 action = "SUBSTITUTED BY SBN-1637 UNDER COMMITTEE REPORT NO. 218."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/15/2018"
+date = "2018-01-15"
 
 [[committees]]
 name = "Public Services"

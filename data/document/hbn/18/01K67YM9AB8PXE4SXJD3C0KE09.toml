@@ -1,24 +1,28 @@
 id = "01K67YM9AB8PXE4SXJD3C0KE09"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07637"
+
+[meta]
 bill_number = 7637
 congress = 18
-canonical = "HBN-07637"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7637", "https://web.senate.gov.ph/lisdata/3359930455!.pdf",]
 title = "KAPARKAN FALLS ECOTOURISM ACT"
 long_title = "AN ACT DECLARING THE KAPARKAN FALLS IN BARANGAY CAGANAYAN, MUNICIPALITY OF TINEG, PROVINCE OF ABRA AN ECOTOURISM SITE, ESTABLISHING THE KAPARKAN FALLS DEVELOPMENT COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Ecological Tourism Zone/Ecotourism Site",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-28"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2020"
+date = "2020-09-28"
 
 [[committees]]
 name = "Tourism"

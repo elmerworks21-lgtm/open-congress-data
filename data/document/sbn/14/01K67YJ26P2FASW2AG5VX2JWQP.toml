@@ -1,8 +1,11 @@
 id = "01K67YJ26P2FASW2AG5VX2JWQP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01932"
+
+[meta]
 bill_number = 1932
 congress = 14
-canonical = "SBN-01932"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1932", "https://web.senate.gov.ph/lisdata/65425786!.pdf",]
 title = "CIVIL AVIATION AUTHORITY ACT OF 2007"
 date_filed = "2007-12-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT CREATING THE CIVIL AVIATION AUTHORITY OF THE PHILIPPINES, A
 scope = "National"
 subjects = [ "Civil Aviation Authority",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-12-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-18"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC SERVICES, WAYS AND MEANS and FINANCE per Committee Report No. 25, recommending that it be considered in HBN-3156;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-18"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-18"
 action = "CONSIDERED IN HBN-3156 WHICH BECAME R.A.NO. 9497."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/18/2007"
+date = "2007-12-18"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJZW4GVSP25YPA3MSX45W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00125"
+
+[meta]
 bill_number = 125
 congress = 20
-canonical = "SBN-00125"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-125", "https://web.senate.gov.ph/lisdata/4660242606!.pdf",]
 title = "SCHOOL-TO-EMPLOYMENT PROGRAM (STEP) ACT"
 date_filed = "2025-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING JOB PLACEMENT OFFICES IN ALL PUBUC SENIOR HIGH
 scope = "National"
 subjects = [ "School-To-Employment Program (STEP)",]
 authors_raw = "Aquino, Bam"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-03"
 action = "Introduced by Senator BAM AQUINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Basic Education"

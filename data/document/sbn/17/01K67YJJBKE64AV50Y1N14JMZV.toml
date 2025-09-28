@@ -1,8 +1,11 @@
 id = "01K67YJJBKE64AV50Y1N14JMZV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01621"
+
+[meta]
 bill_number = 1621
 congress = 17
-canonical = "SBN-01621"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1621", "https://web.senate.gov.ph/lisdata/2692923155!.pdf",]
 title = "NUTRITIONAL INFORMATION DISCLOSURE ACT OF 2017"
 date_filed = "2017-11-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE DISCLOSURE OF NUTRITIONAL INFORMATION IN MENU
 scope = "National"
 subjects = [ "Nutrition", "Food Establishments",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2017-11-27"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-28"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/28/2017"
+date = "2017-11-28"
 
 [[committees]]
 name = "Health and Demography"

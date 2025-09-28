@@ -1,8 +1,11 @@
 id = "01K67YCPYYKWFT3QK1K6JF1H8X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02674"
+
+[meta]
 bill_number = 2674
 congress = 13
-canonical = "SBN-02674"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2674", "https://web.senate.gov.ph/lisdata/72355828!.pdf",]
 title = "AMUSEMENT PARKS SAFETY BOARD ACT OF 2007"
 date_filed = "2007-06-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AN AMUSEMENT PARKS SAFETY BOARD"
 scope = "National"
 subjects = [ "Amusement Parks Safety Board",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-06"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-06"
 action = "Read on First Reading and Referred to the Committee(s) on GAMES, AMUSEMENT AND SPORTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/6/2007"
+date = "2007-06-06"
 
 [[committees]]
 name = "Games, Amusement and Sports"

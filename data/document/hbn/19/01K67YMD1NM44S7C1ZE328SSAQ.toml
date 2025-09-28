@@ -1,32 +1,36 @@
 id = "01K67YMD1NM44S7C1ZE328SSAQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06518"
+
+[meta]
 bill_number = 6518
 congress = 19
-canonical = "HBN-06518"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6518", "https://web.senate.gov.ph/lisdata/4022136629!.pdf",]
 title = "HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM (HEART) ACT"
 long_title = "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Health Emergency Auxiliary Reinforcement Team (Heart)",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/24/2023"
+date = "2023-01-24"
 
 [[committees]]
 name = "Health and Demography"

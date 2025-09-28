@@ -1,8 +1,11 @@
 id = "01K67YJ2KRGS2ERAJ6JRK0P5CA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02478"
+
+[meta]
 bill_number = 2478
 congress = 14
-canonical = "SBN-02478"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2478", "https://web.senate.gov.ph/lisdata/79507182!.pdf",]
 title = "REVISED PHILIPPINE FOREIGN SERVICE ACT"
 date_filed = "2008-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT REORGANIZING AND MODERNIZING THE PHILIPPINE FOREIGN SERVICE
 scope = "National"
 subjects = [ "Foreign Service Act",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-24"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee on FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Foreign Relations"

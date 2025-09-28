@@ -1,8 +1,11 @@
 id = "01K67YJHMNP0MB020Q22HP6HS7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00706"
+
+[meta]
 bill_number = 706
 congress = 17
-canonical = "SBN-00706"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-706", "https://web.senate.gov.ph/lisdata/2422520839!.pdf",]
 title = "COMPREHENSIVE FIREARMS AND AMMUNITION REGULATION ACT"
 date_filed = "2016-07-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10591, OTHERWISE KNOWN AS THE COM
 scope = "National"
 subjects = [ "Firearms",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-10"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2016"
+date = "2016-08-10"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

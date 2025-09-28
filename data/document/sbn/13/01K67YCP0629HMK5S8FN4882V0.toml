@@ -1,8 +1,11 @@
 id = "01K67YCP0629HMK5S8FN4882V0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01124"
+
+[meta]
 bill_number = 1124
 congress = 13
-canonical = "SBN-01124"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1124", "https://web.senate.gov.ph/lisdata/23301611!.pdf",]
 title = "DISABLED PERSONS PRIVILEGES AND INCENTIVES"
 date_filed = "2004-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT GRANTING MORE PRIVILEGES AND INCENTIVES TO DISABLED PERSONS
 scope = "National"
 subjects = [ "Disabled Persons (Privileges", "Incentives)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-30"
 action = "Returned and submitted by the Committee on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT per Committee Report No. 230, recommending that it be substituted by SBN-2580;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-30"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-30"
 action = "SUBSTITUTED BY SBN-2580."
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-25"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/30/2007"
+date = "2007-01-30"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

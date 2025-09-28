@@ -1,36 +1,40 @@
 id = "01K67YM67E3N5R6H00AYCEFA1G"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06743"
+
+[meta]
 bill_number = 6743
 congress = 17
-canonical = "HBN-06743"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6743", "https://web.senate.gov.ph/lisdata/2724423466!.pdf",]
 title = "EMERGENCY VOLUNTEER PROTECTION ACT"
 long_title = "AN ACT ENCOURAGING VOLUNTEERISM DURING EMERGENCIES BY PROTECTING VOLUNTEERS FROM LIABILITY"
 scope = "National"
 subjects = [ "Volunteers",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-01-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-05"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-31"
 action = "Returned jointly by the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, JUSTICE AND HUMAN RIGHTS, LOCAL GOVERNMENT, WAYS AND MEANS and FINANCE per Committee Report No. 624, recommending that it be considered in SBN-2200;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-04"
 action = "CONSIDERED IN SBN-2200 UNDER COMMITTEE REPORT NO. 624."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/4/2019"
+date = "2019-02-04"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

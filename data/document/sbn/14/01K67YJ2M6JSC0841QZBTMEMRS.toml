@@ -1,8 +1,11 @@
 id = "01K67YJ2M6JSC0841QZBTMEMRS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02498"
+
+[meta]
 bill_number = 2498
 congress = 14
-canonical = "SBN-02498"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2498", "https://web.senate.gov.ph/lisdata/79327227!.pdf",]
 title = "FILING OF FALSE COMPLAINT AGAINST A PUBLIC OFFICER AS A CRIME"
 date_filed = "2008-07-31"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING ARTICLE 359 OF ACT NO. 3815, OTHERWISE KNOWN AS TH
 scope = "National"
 subjects = [ "Revised Penal Code (RA 3815; Amendments)", "Crime of Filing False Complaint/Crime Against Honor",]
 authors_raw = "Revilla Jr., Ramon A., Escudero, Francis \"Chiz\" G., Trillanes IV, Antonio \"Sonny\" F., Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-31"
 action = "Prepared and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and CIVIL SERVICE AND GOVERNMENT REORGANIZATION with Senator(s) RAMON A. REVILLA JR., FRANCIS 'CHIZ' G. ESCUDERO, ANTONIO 'SONNY' F. TRILLANES IV and PANFILO M. LACSON as author(s) per Committee Report No. 88, recommending its approval in substitution of SBN-729;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "11/19/2008"
+date = "2008-11-19"
 
 [[committees]]
 name = "Justice and Human Rights"

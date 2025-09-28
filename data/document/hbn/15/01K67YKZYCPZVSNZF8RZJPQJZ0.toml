@@ -1,24 +1,28 @@
 id = "01K67YKZYCPZVSNZF8RZJPQJZ0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04979"
+
+[meta]
 bill_number = 4979
 congress = 15
-canonical = "HBN-04979"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4979", "https://web.senate.gov.ph/lisdata/1211410233!.pdf",]
 title = "SULU SEAWEED PROCESSING PLANT"
 long_title = "AN ACT ESTABLISHING A SEAWEED PROCESSING PLANT IN THE MUNICIPALITY OF INDANAN, PROVINCE OF SULU AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Seaweed",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-08-25"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2011"
+date = "2011-09-05"
 
 [[committees]]
 name = "Agriculture and Food"

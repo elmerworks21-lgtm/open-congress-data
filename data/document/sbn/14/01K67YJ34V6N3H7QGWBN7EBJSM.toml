@@ -1,8 +1,11 @@
 id = "01K67YJ34V6N3H7QGWBN7EBJSM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03250"
+
+[meta]
 bill_number = 3250
 congress = 14
-canonical = "SBN-03250"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3250", "https://web.senate.gov.ph/lisdata/112989959!.pdf",]
 title = "WEATHER MODIFICATION INFORMATION ACT"
 date_filed = "2009-05-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE INFORMATION ON WEATHER MODIFICATION ACTIVITIES"
 scope = "National"
 subjects = [ "Weather Information",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-18"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-19"
 action = "Read on First Reading and Referred to the Committee(s) on CLIMATE CHANGE and SCIENCE AND TECHNOLOGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/19/2009"
+date = "2009-05-19"
 
 [[committees]]
 name = "Oversight Committee on Climate Change"

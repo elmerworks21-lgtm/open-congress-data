@@ -1,8 +1,11 @@
 id = "01K67YJCR14B88V20TBNFX636H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00715"
+
+[meta]
 bill_number = 715
 congress = 16
-canonical = "SBN-00715"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-715", "https://web.senate.gov.ph/lisdata/1661513854!.pdf",]
 title = "NATIONAL GRAINS AUTHORITY ACT"
 date_filed = "2013-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT RESERVING TO GOVERNMENT THE EXCLUSIVE AUTHORITY TO IMPORT R
 scope = "National"
 subjects = [ "Food Security", "Rice Importation",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-10"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Agriculture and Food"

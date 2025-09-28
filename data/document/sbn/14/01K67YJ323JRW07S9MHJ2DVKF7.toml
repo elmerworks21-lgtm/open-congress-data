@@ -1,8 +1,11 @@
 id = "01K67YJ323JRW07S9MHJ2DVKF7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03124"
+
+[meta]
 bill_number = 3124
 congress = 14
-canonical = "SBN-03124"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3124", "https://web.senate.gov.ph/lisdata/105829395!.pdf",]
 title = "CARBON MONOXIDE DETECTORS IN SCHOOL BUILDINGS"
 date_filed = "2009-03-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE INSTALLATION OF CARBON MONOXIDE DETECTORS IN 
 scope = "National"
 subjects = [ "Carbon Monoxide", "School Building",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-11"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

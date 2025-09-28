@@ -1,8 +1,11 @@
 id = "01K67YJH7P4Z2VEV6SGPQHTD5A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00143"
+
+[meta]
 bill_number = 143
 congress = 17
-canonical = "SBN-00143"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-143", "https://web.senate.gov.ph/lisdata/2356420180!.pdf",]
 title = "PHILIPPINE CROP PROTECTION ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE NATIONAL CROP PROTECTION PROGRAM, CREATING
 scope = "National"
 subjects = [ "Philippine Crop Protection Agency (PCPA)",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2016"
+date = "2016-08-01"
 
 [[committees]]
 name = "Agriculture and Food"

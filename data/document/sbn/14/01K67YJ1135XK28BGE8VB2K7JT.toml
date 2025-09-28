@@ -1,8 +1,11 @@
 id = "01K67YJ1135XK28BGE8VB2K7JT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00439"
+
+[meta]
 bill_number = 439
 congress = 14
-canonical = "SBN-00439"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-439", "https://web.senate.gov.ph/lisdata/46163967!.pdf",]
 title = "SCIENCE LABORATORY FOR BASIC EDUCATION ACT OF 2007"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE ESTABLISHMENT OF FULLY-EQUIPPED SCIENCE LABOR
 scope = "National"
 subjects = [ "Science Laboratory for Basic Education", "Public Schools",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Science and Technology"

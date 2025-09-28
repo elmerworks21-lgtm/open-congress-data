@@ -1,8 +1,11 @@
 id = "01K67YCPC6EPYRA2RKG6AHPPH0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01782"
+
+[meta]
 bill_number = 1782
 congress = 13
-canonical = "SBN-01782"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1782", "https://web.senate.gov.ph/lisdata/30032566!.pdf",]
 title = "INCREASING THE IRA OF LOCAL GOVERNMENT UNITS"
 date_filed = "2004-09-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE INTERNAL REVENUE ALLOTMENT OF LOCAL GOVERNME
 scope = "National"
 subjects = [ "Local Governemnt Units (LGUS)", "Internal Revenue Allotment (Ira Increase", "R.A.No. 7160 (Sec. 284/286)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-15"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2004"
+date = "2004-09-22"
 
 [[committees]]
 name = "Local Government"

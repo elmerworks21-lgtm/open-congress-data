@@ -1,8 +1,11 @@
 id = "01K67YJ0VCGEKWJ9VHMZVJ18T1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00177"
+
+[meta]
 bill_number = 177
 congress = 14
-canonical = "SBN-00177"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-177", "https://web.senate.gov.ph/lisdata/42783664!.pdf",]
 title = "APO REEF ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING APO REEF IN SABLAYAN, OCCIDENTAL MINDORO AS A 
 scope = "Local"
 subjects = [ "Apo Reef Act of 2007", "Buffer Zone/Protected Area",]
 authors_raw = "Madrigal, M. A., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator M. A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-22"
 action = "Senator Legarda was made as coauthor;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE per Committee Report No. 74, recommending that it be substituted by SBN-2393;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "SUBSTITUTED BY SBN-2393."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/11/2008"
+date = "2008-06-11"
 
 [[committees]]
 name = "Environment and Natural Resources"

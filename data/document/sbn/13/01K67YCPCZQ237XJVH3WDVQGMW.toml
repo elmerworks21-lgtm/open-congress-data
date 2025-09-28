@@ -1,8 +1,11 @@
 id = "01K67YCPCZQ237XJVH3WDVQGMW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01823"
+
+[meta]
 bill_number = 1823
 congress = 13
-canonical = "SBN-01823"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1823", "https://web.senate.gov.ph/lisdata/30542240!.pdf",]
 title = "FACT-FINDING COMMISSION ON THE GRAFT AND CORRUPTION IN AFP"
 date_filed = "2004-10-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AN INDEPENDENT COMMISSION TO CONDUCT A THOROUGH FA
 scope = "National"
 subjects = [ "AFP Fact-Finding Commission", "Graft and Corruption (AFP)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2004-10-20"
 action = "Introduced by Senator PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-25"
 action = "Read on First Reading and referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/25/2004"
+date = "2004-10-25"
 
 [[committees]]
 name = "National Defense and Security"

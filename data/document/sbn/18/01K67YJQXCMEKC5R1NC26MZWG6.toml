@@ -1,8 +1,11 @@
 id = "01K67YJQXCMEKC5R1NC26MZWG6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02132"
+
+[meta]
 bill_number = 2132
 congress = 18
-canonical = "SBN-02132"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2132", "https://web.senate.gov.ph/lisdata/3491331736!.pdf",]
 title = "PUBLIC SCHOOL TEACHERS' ANNUAL MEDICAL CHECK-UP ACT"
 date_filed = "2021-04-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR AN ANNUAL MEDICAL EXAMINATION BENEFIT FOR PUB
 scope = "National"
 subjects = [ "Public School Teachers", "Medical Assistance/Dental Assistance",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-14"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Health and Demography"

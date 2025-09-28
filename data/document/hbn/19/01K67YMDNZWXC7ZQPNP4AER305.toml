@@ -1,28 +1,32 @@
 id = "01K67YMDNZWXC7ZQPNP4AER305"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10251"
+
+[meta]
 bill_number = 10251
 congress = 19
-canonical = "HBN-10251"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10251", "https://web.senate.gov.ph/lisdata/4492440861!.pdf",]
 title = "CITIZENSHIP RETENTION AND RE-ACQUISITION ACT (AMENDMENTS)"
 long_title = "AN ACT ALLOWING THE APPOINTMENT OF FACULTY, RESEARCHERS, AND ADMINISTRATORS WITH DUAL CITIZENSHIP IN PUBLIC HIGHER EDUCATION INSTITUTIONS, AMENDING FOR THE PURPOSE SECTION 5(3) OF REPUBLIC ACT NO. 9225, OTHERWISE KNOWN AS THE CITIZENSHIP RETENTION AND RE-ACQUISION ACT OF 2003'"
 scope = "National"
 subjects = [ "Citizenship Retention and Re-Acquisition", "Dual Citizenship/Dual Allegiance", "Higher Education Institutions",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2024"
+date = "2024-09-16"
 
 [[committees]]
 name = "Justice and Human Rights"

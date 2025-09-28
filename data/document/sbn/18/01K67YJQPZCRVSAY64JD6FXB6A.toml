@@ -1,8 +1,11 @@
 id = "01K67YJQPZCRVSAY64JD6FXB6A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01881"
+
+[meta]
 bill_number = 1881
 congress = 18
-canonical = "SBN-01881"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1881", "https://web.senate.gov.ph/lisdata/3371230612!.pdf",]
 title = "AMENDING R. A. NO. 8047 (BOOK PUBLISHING INDUSTRY DEVELOPMENT ACT)"
 date_filed = "2020-10-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8047, OTHERWISE KNOWN AS THE ‘B
 scope = "National"
 subjects = [ "Book Publishing", "Electronic Technology", "Digital Technology",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2020-10-12"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-13"
 action = "Read on First Reading and Referred to the Committee on BASIC EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/13/2020"
+date = "2020-10-13"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

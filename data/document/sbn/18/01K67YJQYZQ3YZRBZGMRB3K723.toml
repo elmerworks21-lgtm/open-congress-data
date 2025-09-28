@@ -1,8 +1,11 @@
 id = "01K67YJQYZQ3YZRBZGMRB3K723"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02203"
+
+[meta]
 bill_number = 2203
 congress = 18
-canonical = "SBN-02203"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2203", "https://web.senate.gov.ph/lisdata/3496831795!.pdf",]
 title = "MIDSTREAM NATURAL GAS INDUSTRY DEVELOPMENT ACT"
 date_filed = "2021-05-17"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR THE NATIONAL ENERGY POLICY AND FRAMEWORK FOR 
 scope = "National"
 subjects = [ "Natural Gas Industry", "Energy", "Energy Regulatory Commission",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2021-05-17"
 action = "Prepared and submitted jointly by the Committees on ENERGY and FINANCE with Senator WIN GATCHALIAN as author per Committee Report No. 255, recommending its approval in substitution of SBN-1819;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-18"
 action = "Sponsor: Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-18"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-18"
 action = "Sponsorship speech delivered by Senator WIN GATCHALIAN;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "5/18/2021"
+date = "2021-05-18"
 
 [[committees]]
 name = "Energy"

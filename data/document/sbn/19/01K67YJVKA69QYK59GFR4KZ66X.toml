@@ -1,8 +1,11 @@
 id = "01K67YJVKA69QYK59GFR4KZ66X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01050"
+
+[meta]
 bill_number = 1050
 congress = 19
-canonical = "SBN-01050"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1050", "https://web.senate.gov.ph/lisdata/3900335454!.pdf",]
 title = "COUNCIL FOR THE BUILT ENVIRONMENT ACT OF 2022"
 date_filed = "2022-08-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING THE ‘COUNCIL FOR THE BUILT ENVIRONMENT,’ APPRO
 scope = "National"
 subjects = [ "Built Environment",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-08"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-05"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-23"
 action = "Conducted CONSULTATION/OCULAR;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2022"
+date = "2022-09-05"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

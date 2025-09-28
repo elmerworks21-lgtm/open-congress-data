@@ -1,8 +1,11 @@
 id = "01K67YJDARF1BNBGH93AJ413JD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01627"
+
+[meta]
 bill_number = 1627
 congress = 16
-canonical = "SBN-01627"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1627", "https://web.senate.gov.ph/lisdata/1775614990!.pdf",]
 title = "PUBLIC INFORMATION AND MEDIA RELATIONS OFFICE (PIMRO)"
 date_filed = "2013-09-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A PUBLIC INFORMATION AND MEDIA RELATIONS OFFICE (P
 scope = "National"
 subjects = [ "Public Information and Media Relation Office (Pimro)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-11"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; PUBLIC INFORMATION AND MASS MEDIA; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2013"
+date = "2013-09-17"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

@@ -1,8 +1,11 @@
 id = "01K67YCNCBQWDS906NRAHYSTSN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00035"
+
+[meta]
 bill_number = 35
 congress = 13
-canonical = "SBN-00035"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-35", "https://web.senate.gov.ph/lisdata/1169588!.pdf",]
 title = "COMMUNITY INTELLECTUAL RIGHTS PROTECTION ACT (CIRPA)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A SYSTEM OF COMMUNITY IN
 scope = "National"
 subjects = [ "Community Intellectual Rights Property", "Cirpa (Community Intellectual Property)", "Biodiversity/Innovations/Plant Variety",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; and AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Trade and Commerce"

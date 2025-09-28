@@ -1,8 +1,11 @@
 id = "01K67YJZY4EYGY2YQVQG8JGTY7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00224"
+
+[meta]
 bill_number = 224
 congress = 20
-canonical = "SBN-00224"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-224", "https://web.senate.gov.ph/lisdata/4670142706!.pdf",]
 title = "NATIONAL MANGROVE FOREST PROTECTION AND PRESERVATION ACT OF 2025"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PRESERVATION, REFORESTATION, AFFORESTATIO
 scope = "National"
 subjects = [ "Mangrove Forests",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator FRANCIS 'KIKO' PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

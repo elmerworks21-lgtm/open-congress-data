@@ -1,8 +1,11 @@
 id = "01K67YK0C6H399Y88GRXBG1CRE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00975"
+
+[meta]
 bill_number = 975
 congress = 20
-canonical = "SBN-00975"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-975", "https://web.senate.gov.ph/lisdata/4745943461!.pdf",]
 title = "STRENGTHENING THE NATIONAL WAGES AND PRODUCTIVITY COMMISSION"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER STRENGTHENING THE NATIONAL WAGES AND PRODUCTIVITY C
 scope = "National"
 subjects = [ "National Wages and Productivity Commission", "Wage", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

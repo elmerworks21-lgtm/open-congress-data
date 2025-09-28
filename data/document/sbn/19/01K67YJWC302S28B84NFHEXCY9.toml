@@ -1,8 +1,11 @@
 id = "01K67YJWC302S28B84NFHEXCY9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02113"
+
+[meta]
 bill_number = 2113
 congress = 19
-canonical = "SBN-02113"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2113", "https://web.senate.gov.ph/lisdata/4149237779!.pdf",]
 title = "AMENDING R.A. NO. 10679 (YOUTH ENTREPRENUERSHIP ACT)"
 date_filed = "2023-05-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE INCLUSION OF FINANCIAL LITERACY AND ENTREPREN
 scope = "National"
 subjects = [ "Financial Literacy", "Entrepreneurship", "K12 Education Program", "Senior High School", "Curriculum/Curricula",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-03"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-10"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH and BASIC EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2023"
+date = "2023-05-10"
 
 [[committees]]
 name = "Youth"

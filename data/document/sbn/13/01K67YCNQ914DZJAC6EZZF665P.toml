@@ -1,8 +1,11 @@
 id = "01K67YCNQ914DZJAC6EZZF665P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00638"
+
+[meta]
 bill_number = 638
 congress = 13
-canonical = "SBN-00638"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-638", "https://web.senate.gov.ph/lisdata/18241199!.pdf",]
 title = "DEATH BENEFITS FOR SEAFARERS ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT FIXING THE MINIMUM STANDARD FOR DEATH BENEFITS TO FILIPINO 
 scope = "National"
 subjects = [ "Seafarers (Death Benefits)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-16"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2004"
+date = "2004-08-16"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

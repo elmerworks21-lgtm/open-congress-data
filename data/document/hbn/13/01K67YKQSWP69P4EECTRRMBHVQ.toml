@@ -1,24 +1,28 @@
 id = "01K67YKQSWP69P4EECTRRMBHVQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03575"
+
+[meta]
 bill_number = 3575
 congress = 13
-canonical = "HBN-03575"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-3575", "https://web.senate.gov.ph/lisdata/35203258!.pdf",]
 title = "LIYANG NATIONAL ROAD"
 long_title = "AN ACT CONVERTING THE LIYANG ROAD IN BARANGAY LIYANG, MUNICIPALITY OF PILAR, PROVINCE OF BATAAN INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads", "Highways, Conversion (Liyang National Road, Bataan)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-02"
 action = "Filed in the Senate requesting for concurrence by Representative ALBERT S. GARCIA as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2005"
+date = "2005-08-08"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YJ8T8FG7VEW0FDNQ7VFTH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02495"
+
+[meta]
 bill_number = 2495
 congress = 15
-canonical = "SBN-02495"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2495", "https://web.senate.gov.ph/lisdata/101248667!.pdf",]
 title = "TRIBAL HEALTH WORKERS ACT OF 2010"
 date_filed = "2010-09-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE HEALTHCARE SYSTEM IN CULTURAL AND INDIGEN
 scope = "National"
 subjects = [ "Health Care Delivery System", "Indigenous Cultural Communities",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-09-09"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-27"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and CULTURAL COMMUNITIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/27/2010"
+date = "2010-09-27"
 
 [[committees]]
 name = "Health and Demography"

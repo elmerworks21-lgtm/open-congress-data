@@ -1,8 +1,11 @@
 id = "01K67YJVYHQ64Z5F742XJ20JFX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01531"
+
+[meta]
 bill_number = 1531
 congress = 19
-canonical = "SBN-01531"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1531", "https://web.senate.gov.ph/lisdata/3999536422!.pdf",]
 title = "PRACTICE OF PROFESSION BY FOREIGN CITIZENS ACT"
 date_filed = "2022-11-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING THE PRACTICE OF PROFESSION OF FOREIGN CITIZENS 
 scope = "National"
 subjects = [ "Practice of Profession", "Foreigners/Alien",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-23"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-28"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/28/2022"
+date = "2022-11-28"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

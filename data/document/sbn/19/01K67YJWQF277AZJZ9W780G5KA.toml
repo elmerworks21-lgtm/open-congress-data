@@ -1,8 +1,11 @@
 id = "01K67YJWQF277AZJZ9W780G5KA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02562"
+
+[meta]
 bill_number = 2562
 congress = 19
-canonical = "SBN-02562"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2562", "https://web.senate.gov.ph/lisdata/4353339582!.pdf",]
 title = "INCREASING THE PERSONNEL ECONOMIC RELIEF ALLOWANCE (PERA) GRANTED TO GOVERNMENT EMPLOYEES"
 date_filed = "2024-02-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE PERSONNEL ECONOMIC RELIEF ALLOWANCE (PERA) G
 scope = "National"
 subjects = [ "Personnel Economic Relief Allowance (PERA)", "Government Employees",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2024-02-22"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-26"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/26/2024"
+date = "2024-02-26"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

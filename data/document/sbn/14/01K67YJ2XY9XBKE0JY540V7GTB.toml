@@ -1,8 +1,11 @@
 id = "01K67YJ2XY9XBKE0JY540V7GTB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02940"
+
+[meta]
 bill_number = 2940
 congress = 14
-canonical = "SBN-02940"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2940", "https://web.senate.gov.ph/lisdata/95228629!.pdf",]
 title = "AUTISM, AND INFANT AND TODDLER IMMUNE SYSTEM DISORDERS"
 date_filed = "2008-12-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AN ADVISORY COMMITTEE WITHIN THE DEPARTMENT OF
 scope = "National"
 subjects = [ "Department of Health (DOH)", "Autism",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-12-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-10"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2008"
+date = "2008-12-10"
 
 [[committees]]
 name = "Health and Demography"

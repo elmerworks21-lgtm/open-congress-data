@@ -1,8 +1,11 @@
 id = "01K67YJVZPM1Q11WWT61FFQ0TX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01583"
+
+[meta]
 bill_number = 1583
 congress = 19
-canonical = "SBN-01583"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1583", "https://web.senate.gov.ph/lisdata/4010436521!.pdf",]
 title = "HEAVY EQUIPMENT REGISTRATION ACT"
 date_filed = "2022-12-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE COMPULSORY REGISTRATION OF HEAVY EQUIPMEN
 scope = "National"
 subjects = [ "Heavy Equipment Registration",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-05"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-06"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2022"
+date = "2022-12-06"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

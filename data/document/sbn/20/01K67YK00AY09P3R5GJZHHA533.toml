@@ -1,8 +1,11 @@
 id = "01K67YK00AY09P3R5GJZHHA533"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00341"
+
+[meta]
 bill_number = 341
 congress = 20
-canonical = "SBN-00341"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-341", "https://web.senate.gov.ph/lisdata/4683342840!.pdf",]
 title = "EXEMPTING MENSTRUAL PRODUCTS FROM VALUE ADDED TAX"
 date_filed = "2025-07-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING MENSTRUAL PRODUCTS FROM VALUE ADDED TAX, AMENDING
 scope = "National"
 subjects = [ "Menstrual Products", "Taxes (Value-Added Tax / Vat)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-09"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-11"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2025"
+date = "2025-08-11"
 
 [[committees]]
 name = "Ways and Means"

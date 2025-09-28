@@ -1,8 +1,11 @@
 id = "01K67YJWGAHWHM2TJRS705T3P3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02281"
+
+[meta]
 bill_number = 2281
 congress = 19
-canonical = "SBN-02281"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2281", "https://web.senate.gov.ph/lisdata/4204538250!.pdf",]
 title = "FREE COMPETENCY-BASED ASSESSMENT FOR SENIOR HIGH SCHOOL ACT"
 date_filed = "2023-06-19"
@@ -10,25 +13,26 @@ long_title = "AN ACT GRANTING FREE COMPETENCY-BASED ASSESSMENT FOR SENIOR HIGH S
 scope = "National"
 subjects = [ "Competency-Based Assessment", "Senior High School",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2023-06-19"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-01"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; BASIC EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2023"
+date = "2023-08-01"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

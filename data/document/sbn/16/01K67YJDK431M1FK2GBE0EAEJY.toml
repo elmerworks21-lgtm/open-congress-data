@@ -1,8 +1,11 @@
 id = "01K67YJDK431M1FK2GBE0EAEJY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02039"
+
+[meta]
 bill_number = 2039
 congress = 16
-canonical = "SBN-02039"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2039", "https://web.senate.gov.ph/lisdata/1844815614!.pdf",]
 title = "SEPARATING THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATION"
 date_filed = "2013-12-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT SEPARATING THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATI
 scope = "National"
 subjects = [ "Department of Transportation and Communications (DOTC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-12-11"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-16"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/16/2013"
+date = "2013-12-16"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

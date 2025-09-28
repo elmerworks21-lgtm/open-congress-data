@@ -1,8 +1,11 @@
 id = "01K67YJ2W1X6GWSSZCRZQVGJNN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02867"
+
+[meta]
 bill_number = 2867
 congress = 14
-canonical = "SBN-02867"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2867", "https://web.senate.gov.ph/lisdata/92978412!.pdf",]
 title = "ANTI-DRUNK DRIVING ACT OF 2008"
 date_filed = "2008-11-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING AS A CRIME THE ACT OF DRIVING UNDER THE INFLUENCE 
 scope = "National"
 subjects = [ "Drunk Driving (Motor Vehicle)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-12"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/19/2008"
+date = "2008-11-19"
 
 [[committees]]
 name = "Justice and Human Rights"

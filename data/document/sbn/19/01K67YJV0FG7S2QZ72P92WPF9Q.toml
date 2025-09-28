@@ -1,8 +1,11 @@
 id = "01K67YJV0FG7S2QZ72P92WPF9Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00199"
+
+[meta]
 bill_number = 199
 congress = 19
-canonical = "SBN-00199"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-199", "https://web.senate.gov.ph/lisdata/3790734781!.pdf",]
 title = "ROTC ACT OF 2022"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE INSTITUTIONALIZATION, DEVELOPMENT, TRAINING, 
 scope = "National"
 subjects = [ "Reserve Officers Training Corps (ROTC)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION; NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Basic Education"

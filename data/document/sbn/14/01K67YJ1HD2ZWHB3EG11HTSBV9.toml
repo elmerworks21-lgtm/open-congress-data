@@ -1,8 +1,11 @@
 id = "01K67YJ1HD2ZWHB3EG11HTSBV9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01237"
+
+[meta]
 bill_number = 1237
 congress = 14
-canonical = "SBN-01237"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1237", "https://web.senate.gov.ph/lisdata/55344939!.pdf",]
 title = "DEVOLUTION OF BASIC AGRICULTURAL SERVICES WITHDRAWN FROM BARANGAY, BACK TO NAT. GOVT."
 date_filed = "2007-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT REVERTING TO THE NATIONAL GOVERNMENT THE DISCHARGE OF BASIC
 scope = "National"
 subjects = [ "Local Government Code (RA 7160; Amendments)", "Local Government Units (LGUS)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-17"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; AGRICULTURE AND FOOD; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Local Government"

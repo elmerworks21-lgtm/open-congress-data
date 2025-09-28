@@ -1,8 +1,11 @@
 id = "01K67YCPY59T00R4QCSBKHX3TV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02628"
+
+[meta]
 bill_number = 2628
 congress = 13
-canonical = "SBN-02628"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2628", "https://web.senate.gov.ph/lisdata/71485815!.pdf",]
 title = "CAMPUS FIRE SAFETY RIGHT-TO-KNOW ACT OF 2007"
 date_filed = "2007-06-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR DISCLOSURE OF FIRE SAFETY STANDARDS AND MEAS
 scope = "National"
 subjects = [ "Campus Fire Safety (Right-To-Know)", "Fire Safety (Campus, Right-To-Know)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-05"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2007"
+date = "2007-06-05"
 
 [[committees]]
 name = "Education, Arts and Culture"

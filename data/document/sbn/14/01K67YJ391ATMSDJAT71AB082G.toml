@@ -1,8 +1,11 @@
 id = "01K67YJ391ATMSDJAT71AB082G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03411"
+
+[meta]
 bill_number = 3411
 congress = 14
-canonical = "SBN-03411"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3411", "https://web.senate.gov.ph/lisdata/1228510801!.pdf",]
 title = "VICTIMS OF DOMESTIC VIOLENCE EMPLOYMENT LEAVE ACT"
 date_filed = "2009-08-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING CERTAIN EMPLOYERS TO PROVIDE EMPLOYMENT LEAVE FOR
 scope = "National"
 subjects = [ "Domestic Violence", "Leave of Absence",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-25"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-26"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/26/2009"
+date = "2009-08-26"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

@@ -1,8 +1,11 @@
 id = "01K67YCNNFPDBJPKAQS0R0036Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00533"
+
+[meta]
 bill_number = 533
 congress = 13
-canonical = "SBN-00533"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-533", "https://web.senate.gov.ph/lisdata/16901023!.pdf",]
 title = "SPECIAL EDUCATION CENTERS FOR DEAF, MUTE AND BLIND CHILDREN"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CREATION OF MUNICIPAL SPECIAL EDUCATION C
 scope = "National"
 subjects = [ "Children (Deaf/Mute/Blind)", "Municipal Special Education Centers", "Disabled Persons/Handicapped", "Special Education Schools (SPED)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJ0XHHXTEZG0ZT7J7QF7Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00266"
+
+[meta]
 bill_number = 266
 congress = 14
-canonical = "SBN-00266"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-266", "https://web.senate.gov.ph/lisdata/43663766!.pdf",]
 title = "INDEPENDENT AFP GRAFT AND CORRUPTION FACT-FINDING COMMISSION, CREATION"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AN INDEPENDENT COMMISSION TO CONDUCT A THOROUGH FA
 scope = "National"
 subjects = [ "AFP (Graft and Corruption Fact-Finding Commission)", "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2007"
+date = "2007-08-06"
 
 [[committees]]
 name = "National Defense and Security"

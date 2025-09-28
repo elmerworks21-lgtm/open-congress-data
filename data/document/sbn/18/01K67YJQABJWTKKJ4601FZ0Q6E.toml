@@ -1,8 +1,11 @@
 id = "01K67YJQABJWTKKJ4601FZ0Q6E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01349"
+
+[meta]
 bill_number = 1349
 congress = 18
-canonical = "SBN-01349"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1349", "https://web.senate.gov.ph/lisdata/3236129215!.pdf",]
 title = "AMENDING R. A. NO. 8762 (RETAIL TRADE LIBERALIZATION ACT)"
 date_filed = "2020-02-17"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8762, OTHERWISE KNOWN AS THE RETA
 scope = "National"
 subjects = [ "Retail Trade Liberalization (R.A.No. 8762)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-17"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-18"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-22"
 action = "Returned and submitted by the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP per Committee Report No. 115, recommending that it be substituted by SBN-1840;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-22"
 action = "SUBSTITUTED BY SBN-1840, UNDER COMMITTEE REPORT NO. 115."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/22/2020"
+date = "2020-09-22"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

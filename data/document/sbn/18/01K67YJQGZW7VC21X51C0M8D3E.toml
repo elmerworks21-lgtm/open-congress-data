@@ -1,8 +1,11 @@
 id = "01K67YJQGZW7VC21X51C0M8D3E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01620"
+
+[meta]
 bill_number = 1620
 congress = 18
-canonical = "SBN-01620"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1620", "https://web.senate.gov.ph/lisdata/3305429897!.pdf",]
 title = "PANABO CITY DISTRICT HOSPITAL"
 date_filed = "2020-06-18"
@@ -10,37 +13,38 @@ long_title = "AN ACT ESTABLISHING A TWENTY-FIVE (25) BED CAPACITY DISTRICT HOSPI
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-06-18"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-29"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-03"
 action = "Transferred from the Committee on RULES to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 621, recommending that it be considered in HBN-8254;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "CONSIDERED IN HBN-8254 UNDER COMMITTEE REPORT NO. 621."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Health and Demography"

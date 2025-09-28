@@ -1,24 +1,28 @@
 id = "01K67YKRBTT5GN0N4V6W5ASJ6B"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05797"
+
+[meta]
 bill_number = 5797
 congress = 13
-canonical = "HBN-05797"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5797", "https://web.senate.gov.ph/lisdata/67255510!.pdf",]
 title = "HOTLINE '117' ACT"
 long_title = "AN ACT INSTITUTIONALIZING AND FURTHER DEVELOPING ‘117’ AS THE NATIONWIDE EMERGENCY ASSISTANCE TELEPHONE NUMBER FOR PUBLIC SAFETY AND SECURITY AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Hotline 117 Act", "Emergency Assistance Telephone Number (711)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives JUAN MIGUEL F. ZUBIRI, AMADO T. ESPINO JR., JOSEPH EMILIO A. ABAYA, CATALINO V. FIGUEROA, ERNESTO S. GIDAYA, EUFROCINO M. CODILLA SR., GENEROSO DC. TULAGAN, RODANTE D. MARCOLETA and EDUARDO R. GULLAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

@@ -1,8 +1,11 @@
 id = "01K67YJTWYPNJ17G7EPQJGJGZE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00044"
+
+[meta]
 bill_number = 44
 congress = 19
-canonical = "SBN-00044"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-44", "https://web.senate.gov.ph/lisdata/3774534187!.pdf",]
 title = "WORKING TIME FLEXIBILIZATION IN THE PRIVATE SECTOR"
 date_filed = "2022-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A WORKING TIME FLEXIBILIZATION IN THE PRIVATE
 scope = "National"
 subjects = [ "Time Flexibilization", "Private Sector", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-06"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

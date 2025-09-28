@@ -1,24 +1,28 @@
 id = "01K67YKWV5E0B8XZY477R316KD"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05813"
+
+[meta]
 bill_number = 5813
 congress = 14
-canonical = "HBN-05813"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5813", "https://web.senate.gov.ph/lisdata/106559468!.pdf",]
 title = "MUNICIPAL FOUNDATION DAY"
 long_title = "AN ACT DECLARING THE 25TH DAY OF JANUARY OF EVERY YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF CARIGARA, PROVINCE OF LEYTE TO BE KNOWN AS MUNICIPAL FOUNDATION DAY"
 scope = "Local"
 subjects = [ "Holidays (Special Nonworking Holiday)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-04"
 action = "Filed in the Senate requesting for concurrence by Representatives TRINIDAD 'EBBIE' G. APOSTOL and GIORGIDI B. AGGABAO as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Local Government"

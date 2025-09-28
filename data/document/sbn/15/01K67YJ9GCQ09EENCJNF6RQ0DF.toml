@@ -1,8 +1,11 @@
 id = "01K67YJ9GCQ09EENCJNF6RQ0DF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03130"
+
+[meta]
 bill_number = 3130
 congress = 15
-canonical = "SBN-03130"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3130", "https://web.senate.gov.ph/lisdata/1283210842!.pdf",]
 title = "NATIONAL GOVERNMENT HOSPITAL CORPORATE RESTRUCTING ACT"
 date_filed = "2012-02-21"
@@ -10,21 +13,22 @@ long_title = "AN ACT INSTITUTING A CORPORATE RESTRUCTURING PROGRAM FOR NATIONAL 
 scope = "National"
 subjects = [ "Hospitals (Government Hospitals)",]
 authors_raw = "Drilon, Franklin M., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2012-02-21"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-02-22"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-02-22"
 action = "Senator EDGARDO J. ANGARA was made as coauthor;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/22/2012"
+date = "2012-02-22"
 
 [[committees]]
 name = "Health and Demography"

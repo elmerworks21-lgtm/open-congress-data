@@ -1,8 +1,11 @@
 id = "01K67YJ1JTXRRDWHBTCWYGW0PZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01308"
+
+[meta]
 bill_number = 1308
 congress = 14
-canonical = "SBN-01308"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1308", "https://web.senate.gov.ph/lisdata/56084970!.pdf",]
 title = "CIVIL REGISTRATION ACT"
 date_filed = "2007-07-24"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR A MORE RESPONSIVE CIVIL REGISTRATION SYSTEM"
 scope = "National"
 subjects = [ "Civil Registration Act of 2007",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2007"
+date = "2007-09-11"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

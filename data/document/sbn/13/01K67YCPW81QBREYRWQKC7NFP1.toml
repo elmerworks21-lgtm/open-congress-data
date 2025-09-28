@@ -1,8 +1,11 @@
 id = "01K67YCPW81QBREYRWQKC7NFP1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02568"
+
+[meta]
 bill_number = 2568
 congress = 13
-canonical = "SBN-02568"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2568", "https://web.senate.gov.ph/lisdata/67055492!.pdf",]
 title = "PHILIPPINES-FRANCE FRIENDSHIP DAY (JUNE 26)"
 date_filed = "2007-01-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING EVERY 26TH DAY OF JUNE OF EVERY YEAR AS PHILIPPIN
 scope = "National"
 subjects = [ "Holiday: Philippines-France Friendship Day (June 26)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-18"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-22"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/22/2007"
+date = "2007-01-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

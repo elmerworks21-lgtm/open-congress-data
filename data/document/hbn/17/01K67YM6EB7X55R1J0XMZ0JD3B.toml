@@ -1,24 +1,28 @@
 id = "01K67YM6EB7X55R1J0XMZ0JD3B"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07846"
+
+[meta]
 bill_number = 7846
 congress = 17
-canonical = "HBN-07846"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7846", "https://web.senate.gov.ph/lisdata/2850924890!.pdf",]
 title = "CEBU CITY TO MACTAN-CEBU INTERNATIONAL AIRPORT HIGHWAY UNDERSEA TUNNEL/BRIDGE"
 long_title = "AN ACT PROVIDING FOR THE CONSTRUCTION OF AN UNDERSEA TUNNEL OR BRIDGE FROM CEBU CITY TO THE MUNICIPALITY OF CORDOVA AND A COASTAL ROAD - EXPRESSWAY TO THE MACTAN-CEBU INTERNATIONAL AIRPORT AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Bridges",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2018"
+date = "2018-09-05"
 
 [[committees]]
 name = "Public Works"

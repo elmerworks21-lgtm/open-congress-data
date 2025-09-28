@@ -1,8 +1,11 @@
 id = "01K67YJ9PQHBY2CV5KPGTX9EJG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03385"
+
+[meta]
 bill_number = 3385
 congress = 15
-canonical = "SBN-03385"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3385", "https://web.senate.gov.ph/lisdata/1504712513!.pdf",]
 title = "FIRECRACKER REGULATION ACT"
 date_filed = "2013-01-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REGULATE THE USE OF FIRECRACKERS AND PYROTECHNIC DEVICES
 scope = "National"
 subjects = [ "Firecrackers", "Pyrotechnic Devices",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-01-21"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-01-22"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/22/2013"
+date = "2013-01-22"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

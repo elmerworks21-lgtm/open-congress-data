@@ -1,24 +1,28 @@
 id = "01K67YM0F2P3G3DZ5J1F2Q7BQ7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06566"
+
+[meta]
 bill_number = 6566
 congress = 15
-canonical = "HBN-06566"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6566", "https://web.senate.gov.ph/lisdata/1422412013!.pdf",]
 title = "MIGHTY CAVE (TAGOLOAN, LANAO DEL NORTE)"
 long_title = "AN ACT DECLARING THE MIGHTY CAVE AND ITS PREMISES LOCATED IN TAGOLOAN, LANAO DEL NORTE PROVINCE AS A TOURIST SPOT AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-10-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-15"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/16/2012"
+date = "2012-10-16"
 
 [[committees]]
 name = "Tourism"

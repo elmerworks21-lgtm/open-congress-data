@@ -1,8 +1,11 @@
 id = "01K67YJ223HED6AJMC20BWAX4H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01722"
+
+[meta]
 bill_number = 1722
 congress = 14
-canonical = "SBN-01722"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1722", "https://web.senate.gov.ph/lisdata/61665497!.pdf",]
 title = "FRANKING PRIVILEGE REGULATION ACT OF 2007"
 date_filed = "2007-10-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE USE OF FRANKING PRIVILEGES BY THE MEMBERS OF
 scope = "National"
 subjects = [ "Franking Privilege",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/5/2007"
+date = "2007-11-05"
 
 [[committees]]
 name = "Public Services"

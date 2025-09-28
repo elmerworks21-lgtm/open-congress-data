@@ -1,8 +1,11 @@
 id = "01K67YJQPYEZKZ7BMYWABPX0TE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01879"
+
+[meta]
 bill_number = 1879
 congress = 18
-canonical = "SBN-01879"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1879", "https://web.senate.gov.ph/lisdata/3370430590!.pdf",]
 title = "STRENGTHENING THE PHILIPPINE PUBLIC LIBRARY SYSTEM"
 date_filed = "2020-10-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE PHILIPPINE PUBLIC LIBRARY SYSTEM, AMENDIN
 scope = "National"
 subjects = [ "Library/District Library/Barangay Reading Centers", "Electronic Technology",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2020-10-12"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-12"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/12/2020"
+date = "2020-10-12"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

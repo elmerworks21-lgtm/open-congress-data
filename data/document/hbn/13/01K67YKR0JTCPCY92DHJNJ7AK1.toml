@@ -1,24 +1,28 @@
 id = "01K67YKR0JTCPCY92DHJNJ7AK1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04701"
+
+[meta]
 bill_number = 4701
 congress = 13
-canonical = "HBN-04701"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4701", "https://web.senate.gov.ph/lisdata/60605042!.pdf",]
 title = "ENGLISH AS THE MEDIUM OF INSTRUCTION ACT"
 long_title = "AN ACT TO STRENGTHEN AND ENHANCE THE USE OF ENGLISH AS THE MEDIUM OF INSTRUCTION IN PHILIPPINE SCHOOLS"
 scope = "National"
 subjects = [ "English Language (Medium of Instruction)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-26"
 action = "Filed in the Senate requesting for concurrence by Representatives ALIPIO 'TIKBONG' V. BADELLES, RAUL V. DEL MAR, EDUARDO R. GULLAS, LUIS R. VILLAFUERTE, EDMUNDO O. REYES JR., ET. AL., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-26"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/26/2006"
+date = "2006-09-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

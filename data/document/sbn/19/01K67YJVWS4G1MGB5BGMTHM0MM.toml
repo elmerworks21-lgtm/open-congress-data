@@ -1,8 +1,11 @@
 id = "01K67YJVWS4G1MGB5BGMTHM0MM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01456"
+
+[meta]
 bill_number = 1456
 congress = 19
-canonical = "SBN-01456"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1456", "https://web.senate.gov.ph/lisdata/3977536282!.pdf",]
 title = "FORENSIC DNA DATABASE ACT"
 date_filed = "2022-11-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING A FORENSIC DNA DATABASE IN THE PHILIPPINES, AP
 scope = "National"
 subjects = [ "Forensic Dna Database",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-03"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS; JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-08"
 action = "Returned and submitted jointly by the Committees on PUBLIC ORDER AND DANGEROUS DRUGS, JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 161, recommending that it be substituted by SBN-2474;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "SUBSTITUTED BY SBN-2474 UNDER COMMITTEE REPORT NO. 161."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/22/2023"
+date = "2023-11-22"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

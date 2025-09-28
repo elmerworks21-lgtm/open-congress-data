@@ -1,8 +1,11 @@
 id = "01K67YJ9330KC4SXBAJCBP3XMP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02657"
+
+[meta]
 bill_number = 2657
 congress = 15
-canonical = "SBN-02657"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2657", "https://web.senate.gov.ph/lisdata/106479109!.pdf",]
 title = "WIND ENERGY DEVELOPMENT AUTHORITY"
 date_filed = "2011-01-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE WIND ENERGY DEVELOPMENT AUTHORITY AND APPR
 scope = "National"
 subjects = [ "Wind Energy",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2011-01-27"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-01-31"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/31/2011"
+date = "2011-01-31"
 
 [[committees]]
 name = "Energy"

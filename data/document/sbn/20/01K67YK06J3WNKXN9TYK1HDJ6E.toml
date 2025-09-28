@@ -1,8 +1,11 @@
 id = "01K67YK06J3WNKXN9TYK1HDJ6E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00675"
+
+[meta]
 bill_number = 675
 congress = 20
-canonical = "SBN-00675"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-675", "https://web.senate.gov.ph/lisdata/4721743217!.pdf",]
 title = "NEW PHILIPPINE MIDWIFERY ACT"
 date_filed = "2025-07-16"
@@ -10,21 +13,22 @@ long_title = "AN ACT STRENGTHENING THE PRACTICE OF MIDWIFERY AS A PROFESSION IN 
 scope = "National"
 subjects = [ "Midwifery", "New Philippine Midwifery",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-16"
 action = "Introduced by Senator ;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-16"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE 'BONG' T. GO;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

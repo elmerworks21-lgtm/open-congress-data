@@ -1,24 +1,28 @@
 id = "01K67YMCXT1WEJFRH3A47X4PYV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05172"
+
+[meta]
 bill_number = 5172
 congress = 19
-canonical = "HBN-05172"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-5172", "https://web.senate.gov.ph/lisdata/3980236114!.pdf",]
 title = "DAO TREE (CUGMAN, CAGAYAN DE ORO CITY) A CAGAYAN DE ORO HERITAGE TREE AND TOURIST ATTRACTION"
 long_title = "AN ACT DISTINGUISHING THE DAO TREE LOCATED WITHIN A SECONDARY FOREST IN THE INTEGRATED FOREST MANAGEMENT AGREEMENT (IFMA) AREA OF THE E. PELAEZ RANCH IN BAYOMBONG, BARANGAY CUGMAN, CAGAYAN DE ORO CITY, AS THE CAGAYAN DE ORO HERITAGE TREE, AND DECLARING IT A TOURIST ATTRACTION"
 scope = "Local"
 subjects = [ "Heritage Sites/Cultural Property", "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-08"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; CULTURE AND THE ARTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2022"
+date = "2022-11-22"
 
 [[committees]]
 name = "Tourism"

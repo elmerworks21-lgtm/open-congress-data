@@ -1,36 +1,40 @@
 id = "01K67YM08PW3W6YJA4F6GJMFZR"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06380"
+
+[meta]
 bill_number = 6380
 congress = 15
-canonical = "HBN-06380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6380", "https://web.senate.gov.ph/lisdata/1399711800!.pdf",]
 title = "SAMAR ISLAND NATURAL PARK (SINP) ACT OF 2012"
 long_title = "AN ACT DECLARING THE SAMAR ISLAND NATURAL PARK (SINP), SITUATED IN THE PROVINCES OF SAMAR, NORTHERN SAMAR AND EATERN SAMAR, AS A PROTECTED AREA AND ITS PERIPHERAL AREAS AS BUFFER ZONE, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Protected Landscape", "Protected Area",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-09-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-01-28"
 action = "Returned jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE per Committee Report No. 700, recommending that it be considered in SBN-3396;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-01-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-01-29"
 action = "CONSIDERED IN SBN-3396, under Committee Report No. 700."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/29/2013"
+date = "2013-01-29"
 
 [[committees]]
 name = "Environment and Natural Resources"

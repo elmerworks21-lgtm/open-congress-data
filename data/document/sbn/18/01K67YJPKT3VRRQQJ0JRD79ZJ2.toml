@@ -1,8 +1,11 @@
 id = "01K67YJPKT3VRRQQJ0JRD79ZJ2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00335"
+
+[meta]
 bill_number = 335
 congress = 18
-canonical = "SBN-00335"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-335", "https://web.senate.gov.ph/lisdata/3062227476!.pdf",]
 title = "SHARK CONSERVATION ACT OF THE PHILIPPINES"
 date_filed = "2019-07-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT REGULATING THE CATCHING, SALE, PURCHASE, POSSESSION, TRANSP
 scope = "National"
 subjects = [ "Sharks", "Rays",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-11"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform; the Committee on Environment and Natural Resources and the Committee on Climate Change; SBN-335 shall now be referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM; and the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

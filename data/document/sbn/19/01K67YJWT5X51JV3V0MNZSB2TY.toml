@@ -1,8 +1,11 @@
 id = "01K67YJWT5X51JV3V0MNZSB2TY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02654"
+
+[meta]
 bill_number = 2654
 congress = 19
-canonical = "SBN-02654"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2654", "https://web.senate.gov.ph/lisdata/4402339982!.pdf",]
 title = "ENHANCING PHILIPPINE TAX INCENTIVES"
 date_filed = "2024-05-06"
@@ -10,37 +13,38 @@ long_title = "AN ACT ENHANCING PHILIPPINE TAX INCENTIVES, AMENDING FOR THE PURPO
 scope = "National"
 subjects = [ "Tax Incentives", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-06"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-09"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-06-06"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 263, recommending that it be substituted by SBN-2762;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-05"
 action = "SUBSTITUTED BY SBN-2762 UNDER COMMITTEE REPORT NO. 263, WHICH BECAME R.A. NO. 10266 ON NOVEMBER 8, 2024."
 
-[[legislative_history]]
+[[history]]
 date = "2024-06-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/5/2024"
+date = "2024-08-05"
 
 [[committees]]
 name = "Ways and Means"

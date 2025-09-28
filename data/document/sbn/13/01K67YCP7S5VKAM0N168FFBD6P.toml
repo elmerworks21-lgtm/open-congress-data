@@ -1,8 +1,11 @@
 id = "01K67YCP7S5VKAM0N168FFBD6P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01543"
+
+[meta]
 bill_number = 1543
 congress = 13
-canonical = "SBN-01543"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1543", "https://web.senate.gov.ph/lisdata/27582124!.pdf",]
 title = "NLRC COMMISSIONERS/LABOR ARBITERS (SALARY/RETIREMENT BENEFIT"
 date_filed = "2004-07-28"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO RATIONALIZE THE COMPOSITION AND FUNCTIONS OF THE NATIONA
 scope = "National"
 subjects = [ "Labor Arbiters (Salary Increase)", "National Labor Relations Commission/Nlrc", "Labor Code (P.D.No. 442)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-28"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-15"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-02"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 27, recommending that it be substituted by SBN-2035;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-02"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-02"
 action = "SUBSTITUTED BY SBN-2035, WHICH BECAME R.A.NO. 9347."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/2/2005"
+date = "2005-06-02"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

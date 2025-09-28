@@ -1,52 +1,56 @@
 id = "01K67YM30B15HRHQ59GRB0QSNH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05452"
+
+[meta]
 bill_number = 5452
 congress = 16
-canonical = "HBN-05452"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5452", "https://web.senate.gov.ph/lisdata/2066217766!.pdf",]
 title = "ECONOMIC AND FINANCIAL LITERACY ACT"
 long_title = "AN ACT DECLARING THE SECOND WEEK OF NOVEMBER OF EVERY YEAR AS ECONOMIC AND FINANCIAL LITERACY WEEK"
 scope = "National"
 subjects = [ "Financial Literacy", "National Economic Development Authority (NEDA)", "Local Government Units (LGUS)", "Government-Owned And-Controlled Corporations (GOCC)",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-02-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-25"
 action = "Read on First Reading and Referred to the Committee on ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-08"
 action = "Returned by the Committee on ECONOMIC AFFAIRS per Committee Report No. 335, recommending that it be considered in SBN-2779;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-09"
 action = "CONSIDERED IN SBN-2779 UNDER C.R. NO. 335."
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-06"
 action = "Senate adopted HBN-5452 as an amendment to SBN-2779; (Transmittal letter sent to the House of Representatives on June 8, 2016);"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-21"
 action = "Enrolled copies of the consolidated version of HBN-5452 and SBN-2779, sent to the Office of the President of the Philippines through PLLO, for the signature and approval of His Excellency, President Benigno S. Aquino III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-30"
 action = "Enacted into Law without Executive Approval Pursuant to the provisions of Section 27(1), Article VI of the Constitution on July 22, 2016 and Became"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-30"
 action = "REPUBLIC ACT NO. 10922."
 
 [[status]]
 status = "Lapsed Into Law"
-date = "6/30/2016"
+date = "2016-06-30"
 
 [[committees]]
 name = "Economic Affairs"

@@ -1,24 +1,28 @@
 id = "01K67YMDBG4EEREAHRY30ZCQCX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08286"
+
+[meta]
 bill_number = 8286
 congress = 19
-canonical = "HBN-08286"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8286", "https://web.senate.gov.ph/lisdata/4238738569!.pdf",]
 title = "CRAB HATCHERY (MINDANAO STATE UNIVERSITY-NAAWAN, MISAMIS ORIENTAL)"
 long_title = "AN ACT ESTABLISHING A CRAB HATCHERY FOR THE PRODUCTION AND MULTIPLICATION OF MUD CRABS IN MINDANAO STATE UNIVERSITY-NAAWAN, PROVINCE OF MISAMIS ORIENTAL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Crab Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-16"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2023"
+date = "2023-08-16"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

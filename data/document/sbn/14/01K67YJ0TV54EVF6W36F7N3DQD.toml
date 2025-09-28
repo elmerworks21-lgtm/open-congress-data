@@ -1,8 +1,11 @@
 id = "01K67YJ0TV54EVF6W36F7N3DQD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00155"
+
+[meta]
 bill_number = 155
 congress = 14
-canonical = "SBN-00155"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-155", "https://web.senate.gov.ph/lisdata/42543642!.pdf",]
 title = "LABOR CODE (AMENDING ARTICLES 223 AND 224, P.D. 442)"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR RELIEF FROM AND EXECUTION OF FINAL DECISIONS 
 scope = "National"
 subjects = [ "Labor Code (Article 223 and 224, Pd 442)", "Labor Arbiters", "Labor Cases (Petition for Certiorari)", "National Labor Relations Commission (NLRC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2007"
+date = "2007-07-31"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

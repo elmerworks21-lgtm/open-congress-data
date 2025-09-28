@@ -1,8 +1,11 @@
 id = "01K67YJHEFCEY9VS46959YNKMV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00412"
+
+[meta]
 bill_number = 412
 congress = 17
-canonical = "SBN-00412"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-412", "https://web.senate.gov.ph/lisdata/2384920546!.pdf",]
 title = "SEXUAL HARASSMENT LAW"
 date_filed = "2016-07-18"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXPANDING THE COVERAGE OF THE DEFINITION OF THE CRIME ODF S
 scope = "National"
 subjects = [ "Sexual Harassment",]
 authors_raw = "Legarda, Loren B., De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-18"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Letter from Senator LEILA M. DE LIMA dated March 13, 2018, conveying her intention to be made coauthor of SBN-412, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YCP1K7QW0J3YASHS9TXB6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01200"
+
+[meta]
 bill_number = 1200
 congress = 13
-canonical = "SBN-01200"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1200", "https://web.senate.gov.ph/lisdata/24131736!.pdf",]
 title = "LGUS CALAMITY FUND FOR UNFORESEEN EXPENDITURES"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PARAGRAPH (D), SECTION 324 OF REPUBLIC ACT NO. 716
 scope = "National"
 subjects = [ "LGUs Calamity Fund", "Local Government Code (R.A. 7160)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Local Government"

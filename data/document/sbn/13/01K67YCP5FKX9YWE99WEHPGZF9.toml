@@ -1,8 +1,11 @@
 id = "01K67YCP5FKX9YWE99WEHPGZF9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01407"
+
+[meta]
 bill_number = 1407
 congress = 13
-canonical = "SBN-01407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1407", "https://web.senate.gov.ph/lisdata/26221986!.pdf",]
 title = "AMENDING R.A.NO. 8353 RE INSERTION OF ANY PART OF THE BODY"
 date_filed = "2004-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8353, OTHERWISE KNOWN AS THE ANTI
 scope = "National"
 subjects = [ "Anti-Rape Law (R.A.No. 8353)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-07"
 action = "Introduced by Senator PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Justice and Human Rights"

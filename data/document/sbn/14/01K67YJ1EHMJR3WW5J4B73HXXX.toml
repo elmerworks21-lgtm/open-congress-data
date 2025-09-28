@@ -1,8 +1,11 @@
 id = "01K67YJ1EHMJR3WW5J4B73HXXX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01096"
+
+[meta]
 bill_number = 1096
 congress = 14
-canonical = "SBN-01096"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1096", "https://web.senate.gov.ph/lisdata/53774745!.pdf",]
 title = "TRAVEL TAX REFORM ACT OF 2007"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOCATING THE COLLECTIONS FROM THE TRAVEL TAX TO THE PHILI
 scope = "National"
 subjects = [ "Travel Tax Reform",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Ways and Means"

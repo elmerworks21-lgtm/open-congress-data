@@ -1,8 +1,11 @@
 id = "01K67YJJ9VPFR16MMVVGH0S7YW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01562"
+
+[meta]
 bill_number = 1562
 congress = 17
-canonical = "SBN-01562"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1562", "https://web.senate.gov.ph/lisdata/2657122836!.pdf",]
 title = "NIGHT SHIFT DIFFERENTIAL PAY TO THE GOVERNMENT EMPLOYEES"
 date_filed = "2017-08-17"
@@ -10,33 +13,34 @@ long_title = "AN ACT GRANTING NIGHT SHIFT DIFFERENTIAL PAY TO THE GOVERNMENT EMP
 scope = "National"
 subjects = [ "Night Shift Worker", "Government Employees",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Legarda, Loren B., De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-17"
 action = "Prepared and submitted jointly by the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE with Senator(s) ANTONIO 'SONNY' F. TRILLANES and LOREN B. LEGARDA as author(s) per Committee Report No. 160, recommending its approval in substitution of SBN-642;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-22"
 action = "Sponsor: Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-30"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-30"
 action = "Sponsorship speech of Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-06"
 action = "Letter from Senator LEILA M. DE LIMA dated September 4, 2017, requesting that she be made coauthor of SBN-1562, received by the LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "8/30/2017"
+date = "2017-08-30"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

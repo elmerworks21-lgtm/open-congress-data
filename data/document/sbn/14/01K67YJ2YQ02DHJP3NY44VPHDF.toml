@@ -1,8 +1,11 @@
 id = "01K67YJ2YQ02DHJP3NY44VPHDF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02974"
+
+[meta]
 bill_number = 2974
 congress = 14
-canonical = "SBN-02974"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2974", "https://web.senate.gov.ph/lisdata/97258841!.pdf",]
 title = "ANTI-GRAFT AND CORRUPT PRACTICES ACT"
 date_filed = "2008-12-17"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 13 OF REPUBLIC ACT NO. 3019, OTHERWISE KNO
 scope = "National"
 subjects = [ "Anti-Graft and Corrupt Practices",]
 authors_raw = "Defensor Santiago, Miriam, Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-12-17"
 action = "Prepared and submitted by the Committee on JUSTICE AND HUMAN RIGHTS with Senator(s) MIRIAM DEFENSOR SANTIAGO and FRANCIS 'CHIZ' G. ESCUDERO as author(s) per Committee Report No. 236, recommending its approval in substitution of SBN-1309;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-17"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "12/17/2008"
+date = "2008-12-17"
 
 [[committees]]
 name = "Justice and Human Rights"

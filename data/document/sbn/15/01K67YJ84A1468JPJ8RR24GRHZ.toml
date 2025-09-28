@@ -1,8 +1,11 @@
 id = "01K67YJ84A1468JPJ8RR24GRHZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01419"
+
+[meta]
 bill_number = 1419
 congress = 15
-canonical = "SBN-01419"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1419", "https://web.senate.gov.ph/lisdata/89677510!.pdf",]
 title = "REMITTANCE OF THE SHARE OF LOCAL GOVERNMENT UNITS"
 date_filed = "2010-07-13"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE DIRECT REMITTANCE TO THE HOST LOCAL GOVER
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Local Government Code, Amendments (R.A.No. 7160)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-13"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2010"
+date = "2010-09-01"
 
 [[committees]]
 name = "Local Government"

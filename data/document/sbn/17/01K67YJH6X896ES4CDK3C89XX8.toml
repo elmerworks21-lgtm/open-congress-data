@@ -1,8 +1,11 @@
 id = "01K67YJH6X896ES4CDK3C89XX8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00110"
+
+[meta]
 bill_number = 110
 congress = 17
-canonical = "SBN-00110"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-110", "https://web.senate.gov.ph/lisdata/2352520143!.pdf",]
 title = "BIGGER PIE, BIGGER SLICE BILL"
 date_filed = "2016-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE SHARE IN THE NATIONAL TAXES OF LOCAL GOVE
 scope = "National"
 subjects = [ "Taxes/Taxation", "Local Government Units (LGUS)", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Acting on the request of Senate President Pimentel, Senator Sotto III moved to change the referral of SBN-110 to the Committee on LOCAL GOVERNMENT as the primary committee and to the Committee on WAYS AND MEANS as the secondary committee;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2016"
+date = "2016-08-01"
 
 [[committees]]
 name = "Local Government"

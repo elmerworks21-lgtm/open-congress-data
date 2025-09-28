@@ -1,8 +1,11 @@
 id = "01K67YCPEEEN8XN1TS9ZXQEPMZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01883"
+
+[meta]
 bill_number = 1883
 congress = 13
-canonical = "SBN-01883"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1883", "https://web.senate.gov.ph/lisdata/31512344!.pdf",]
 title = "LIVELIHOOD AND TECHNOLOGY-RELATED LOAN CONDONATION ACT, 2004"
 date_filed = "2005-01-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE LIVELIHOOD AND TECHNOLOGY RELATED LOAN CON
 scope = "National"
 subjects = [ "Livelihood/Technology-Related Loan", "Condonation (Small Borrowers)",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2005-01-12"
 action = "Introduced by Senator MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-17"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/17/2005"
+date = "2005-01-17"
 
 [[committees]]
 name = "Trade and Commerce"

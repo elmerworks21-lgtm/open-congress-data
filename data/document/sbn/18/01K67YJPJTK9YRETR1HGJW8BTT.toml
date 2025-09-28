@@ -1,8 +1,11 @@
 id = "01K67YJPJTK9YRETR1HGJW8BTT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00290"
+
+[meta]
 bill_number = 290
 congress = 18
-canonical = "SBN-00290"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-290", "https://web.senate.gov.ph/lisdata/3053127326!.pdf",]
 title = "MIDWIFE TO THE BARANGAY ACT"
 date_filed = "2019-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE APPOINTMENT OF ONE MIDWIFE FOR EACH BARANGAY,
 scope = "National"
 subjects = [ "Midwife",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-08"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Health and Demography"

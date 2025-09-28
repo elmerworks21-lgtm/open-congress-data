@@ -1,8 +1,11 @@
 id = "01K67YJPEBD46NK0V7910RC7HC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00094"
+
+[meta]
 bill_number = 94
 congress = 18
-canonical = "SBN-00094"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-94", "https://web.senate.gov.ph/lisdata/3033327162!.pdf",]
 title = "VALUE FOR MONEY PROCUREMENT ACT"
 date_filed = "2019-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR A VALUE FOR MONEY PROCUREMENT, AMENDING FOR T
 scope = "National"
 subjects = [ "Government Procurement",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Finance"

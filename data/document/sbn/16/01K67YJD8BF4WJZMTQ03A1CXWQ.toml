@@ -1,8 +1,11 @@
 id = "01K67YJD8BF4WJZMTQ03A1CXWQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01511"
+
+[meta]
 bill_number = 1511
 congress = 16
-canonical = "SBN-01511"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1511", "https://web.senate.gov.ph/lisdata/1761114846!.pdf",]
 title = "LINE ITEM BUDGETING ACT OF 2013"
 date_filed = "2013-09-04"
@@ -10,25 +13,26 @@ long_title = "AN ACT INSTITUTING LINE ITEM BUDGETING IN THE BUDGETARY PROCESS OF
 scope = "National"
 subjects = [ "Line Item Budgeting",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-04"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-10"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-06"
 action = "Returned and submitted by the Committee on FINANCE per Committee Report No. 64, recommending that it be archived;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-11"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "8/11/2014"
+date = "2014-08-11"
 
 [[committees]]
 name = "Finance"

@@ -1,8 +1,11 @@
 id = "01K67YJHK3Y9B4TKB4CRBP5F8S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00636"
+
+[meta]
 bill_number = 636
 congress = 17
-canonical = "SBN-00636"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-636", "https://web.senate.gov.ph/lisdata/2412420761!.pdf",]
 title = "CODE OF MILITARY JUSTICE FOR THE AFP AND THE PHIL. COAST GUARD"
 date_filed = "2016-07-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CODE OF MILITARY JUSTICE FOR THE ARMED FO
 scope = "National"
 subjects = [ "Armed Forces of the Philippines (AFP)", "Philippine Coast Guard",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2016"
+date = "2016-08-09"
 
 [[committees]]
 name = "National Defense and Security"

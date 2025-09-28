@@ -1,24 +1,28 @@
 id = "01K67YKRCRE4ENDG0JF0KA1XJ0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05874"
+
+[meta]
 bill_number = 5874
 congress = 13
-canonical = "HBN-05874"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5874", "https://web.senate.gov.ph/lisdata/67545540!.pdf",]
 title = "DANIEL Z. ROMUALDEZ STATE COMPREHENSIVE SCHOOL OF FISHERIES (LEYTE)"
 long_title = "AN ACT SEPARATING THE TOLOSA NATIONAL HIGH SCHOOL – TOLOSA SCHOOL OF FISHERIES IN BARANGAY TANGHAS, MUNICIPALITY OF TOLOSA, PROVINCE OF LEYTE FROM THE TOLOSA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE DANIEL Z. ROMUALDEZ STATE COMPREHENSIVE SCHOOL OF FISHERIES AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Leyte)", "Daniel Z. Romualdez State Comprehensive School of Fisheries (Leyte)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives REMEDIOS 'MATIN' L. PETILLA, JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

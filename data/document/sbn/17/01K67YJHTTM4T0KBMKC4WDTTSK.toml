@@ -1,8 +1,11 @@
 id = "01K67YJHTTM4T0KBMKC4WDTTSK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00996"
+
+[meta]
 bill_number = 996
 congress = 17
-canonical = "SBN-00996"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-996", "https://web.senate.gov.ph/lisdata/2456521140!.pdf",]
 title = "INCLUSIVE EDUCATION FOR CHILDREN AND YOUTH WITH SPECIAL NEEDS ACT OF 2016"
 date_filed = "2016-08-08"
@@ -10,33 +13,34 @@ long_title = "AN ACT INSTITUTING INCLUSIVE EDUCATION AND ESTABLISHING SPECIAL ED
 scope = "National"
 subjects = [ "Children with Special Needs", "Special Education",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-08"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-07"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY, YOUTH, SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, WAYS AND MEANS and FINANCE per Committee Report No. 272, recommending that it be substituted by SBN-1732;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-07"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-07"
 action = "SUBSTITUTED BY SBN-1732 UNDER COMMITTEE REPORT NO. 272."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/7/2018"
+date = "2018-03-07"
 
 [[committees]]
 name = "Education, Arts and Culture"

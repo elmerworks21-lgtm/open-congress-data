@@ -1,8 +1,11 @@
 id = "01K67YJRAZP5FPJ7P1MSWVQXYM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02510"
+
+[meta]
 bill_number = 2510
 congress = 18
-canonical = "SBN-02510"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2510", "https://web.senate.gov.ph/lisdata/3741333800!.pdf",]
 title = "ABSOLUTORY CAUSE, MARRIAGE (REVISED PENAL CODE)"
 date_filed = "2022-03-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT REMOVING AS ABSOLUTORY CAUSE THE SUBSEQUENT MARRIAGE OF THE
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)", "Rape",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-03-08"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Justice and Human Rights"

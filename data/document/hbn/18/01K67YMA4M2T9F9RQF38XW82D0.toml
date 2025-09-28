@@ -1,24 +1,28 @@
 id = "01K67YMA4M2T9F9RQF38XW82D0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10461"
+
+[meta]
 bill_number = 10461
 congress = 18
-canonical = "HBN-10461"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10461", "https://web.senate.gov.ph/lisdata/3676333148!.pdf",]
 title = "NATIONAL COLLEGE FOR SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (NCSTEM) ACT"
 long_title = "AN ACT ESTABLISHING THE NATIONAL COLLEGE FOR SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS IN NEW CLARK CITY, MUNICIPALITY OF CAPAS, PROVINCE OF TARLAC, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Commission on Higher Education (CHED)", "Science and Technology",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2021"
+date = "2021-12-06"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

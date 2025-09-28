@@ -1,24 +1,28 @@
 id = "01K67YM9VBFY610D58BSB8X0TR"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10000"
+
+[meta]
 bill_number = 10000
 congress = 18
-canonical = "HBN-10000"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10000", "https://web.senate.gov.ph/lisdata/3632032754!.pdf",]
 title = "PHILIPPINE CITIZENSHIP TO GAOMING QIU"
 long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO GAOMING QIU"
 scope = "Local"
 subjects = [ "Citizenship",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-27"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/27/2021"
+date = "2021-09-27"
 
 [[committees]]
 name = "Justice and Human Rights"

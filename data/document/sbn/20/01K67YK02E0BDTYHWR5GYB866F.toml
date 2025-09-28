@@ -1,8 +1,11 @@
 id = "01K67YK02E0BDTYHWR5GYB866F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00455"
+
+[meta]
 bill_number = 455
 congress = 20
-canonical = "SBN-00455"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-455", "https://web.senate.gov.ph/lisdata/4696942971!.pdf",]
 title = "MANDATORY ENVIRONMENTAL INSURANCE COVERAGE ACT"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL FRAMEWORK FOR THE MANDATORY ENVIRON
 scope = "National"
 subjects = [ "Environmental Insurance Coverage",]
 authors_raw = "Marcoleta, Rodante D."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator RODANTE MARCOLETA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

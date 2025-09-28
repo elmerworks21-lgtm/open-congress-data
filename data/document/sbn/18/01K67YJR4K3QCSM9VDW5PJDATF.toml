@@ -1,8 +1,11 @@
 id = "01K67YJR4K3QCSM9VDW5PJDATF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02348"
+
+[meta]
 bill_number = 2348
 congress = 18
-canonical = "SBN-02348"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2348", "https://web.senate.gov.ph/lisdata/3594232383!.pdf",]
 title = "NATIONAL LITERACY COUNCIL ACT"
 date_filed = "2021-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT RENAMING THE LITERACY COORDINATING COUNCIL TO THE NATIONAL 
 scope = "National"
 subjects = [ "National Literacy Council",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2021-08-23"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-23"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2021"
+date = "2021-08-23"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

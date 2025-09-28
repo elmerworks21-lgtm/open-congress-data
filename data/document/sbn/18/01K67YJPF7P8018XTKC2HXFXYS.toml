@@ -1,8 +1,11 @@
 id = "01K67YJPF7P8018XTKC2HXFXYS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00134"
+
+[meta]
 bill_number = 134
 congress = 18
-canonical = "SBN-00134"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-134", "https://web.senate.gov.ph/lisdata/3039227233!.pdf",]
 title = "DIALYSIS CENTER ACT"
 date_filed = "2019-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT
 scope = "National"
 subjects = [ "Dialysis Center", "Hospitals (Government Hospitals)", "Indigent Persons",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Health and Demography"

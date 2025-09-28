@@ -1,8 +1,11 @@
 id = "01K67YJWGFYHP0WFV3D37MSMC0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02289"
+
+[meta]
 bill_number = 2289
 congress = 19
-canonical = "SBN-02289"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2289", "https://web.senate.gov.ph/lisdata/4206138264!.pdf",]
 title = "PROMOTING POPULAR FILIPINO FIESTAS FOR THE PURPOSE OF BOOSTING TOURISM AND LOCAL BUSINESS"
 date_filed = "2023-06-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING POPULAR FILIPINO FIESTAS FOR THE PURPOSE OF BOOST
 scope = "National"
 subjects = [ "Filipino Fiestas", "Tourism",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-06-27"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-01"
 action = "Read on First Reading and Referred to the Committees on TOURISM; CULTURE AND THE ARTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2023"
+date = "2023-08-01"
 
 [[committees]]
 name = "Tourism"

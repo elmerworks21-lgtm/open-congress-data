@@ -1,8 +1,11 @@
 id = "01K67YJ922E0ZDDR0WG09P3JCF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02616"
+
+[meta]
 bill_number = 2616
 congress = 15
-canonical = "SBN-02616"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2616", "https://web.senate.gov.ph/lisdata/104688961!.pdf",]
 title = "BANNING THE CATCHING, SALE, PURCHASE, IMPORTATION AND EXPORTATION OF ALL SHARKS AND RAYS"
 date_filed = "2010-11-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT BANNING THE CATCHING, SALE, PURCHASE, POSSESSION, TRANSPORT
 scope = "National"
 subjects = [ "Sharks", "Rays",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-11-26"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-12-06"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2010"
+date = "2010-12-06"
 
 [[committees]]
 name = "Agriculture and Food"

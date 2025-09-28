@@ -1,8 +1,11 @@
 id = "01K67YJQ00HGEZPJMS914F9PJ2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00903"
+
+[meta]
 bill_number = 903
 congress = 18
-canonical = "SBN-00903"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-903", "https://web.senate.gov.ph/lisdata/3124328140!.pdf",]
 title = "ANTI-ENDO AND CONTRACTING LAW"
 date_filed = "2019-08-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT AGAINST THE PRACTICE OF 'ENDO' AND CONTRACTING, AMENDING FO
 scope = "National"
 subjects = [ "Anti-Endo and Contracting Law", "Labor Code of the Philippines (P.D.No. 442)", "Casual/Contractual Employees",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-13"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-19"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2019"
+date = "2019-08-19"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

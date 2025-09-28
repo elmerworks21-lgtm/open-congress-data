@@ -1,8 +1,11 @@
 id = "01K67YJVG53XSXJSV8SE0SEZGD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00913"
+
+[meta]
 bill_number = 913
 congress = 19
-canonical = "SBN-00913"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-913", "https://web.senate.gov.ph/lisdata/3868135134!.pdf",]
 title = "MILITARY DEPENDENT'S BENEFITS ACT"
 date_filed = "2022-07-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR BENEFITS TO MILITARY DEPENDENTS, CREATING THE
 scope = "National"
 subjects = [ "Military Dependents",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-27"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

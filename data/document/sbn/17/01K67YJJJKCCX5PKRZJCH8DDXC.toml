@@ -1,8 +1,11 @@
 id = "01K67YJJJKCCX5PKRZJCH8DDXC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01902"
+
+[meta]
 bill_number = 1902
 congress = 17
-canonical = "SBN-01902"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1902", "https://web.senate.gov.ph/lisdata/2822524550!.pdf",]
 title = "PHILIPPINE HAZARDOUS AND RADIOACTIVE WASTES MANAGEMENT ACT"
 date_filed = "2018-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE HAZARDOUS AND RADIOACTIVE WAS
 scope = "National"
 subjects = [ "Hazardous/Toxic/Radioactive Wastes Management", "Waste Management",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-01"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2018"
+date = "2018-08-01"
 
 [[committees]]
 name = "Environment and Natural Resources"

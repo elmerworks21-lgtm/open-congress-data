@@ -1,8 +1,11 @@
 id = "01K67YCPBBVD4B363GK22BCYR1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01742"
+
+[meta]
 bill_number = 1742
 congress = 13
-canonical = "SBN-01742"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1742", "https://web.senate.gov.ph/lisdata/29562526!.pdf",]
 title = "PROMOTING SPIRITUAL/MORAL WELL BEING FOR THE FILIPINO YOUTH"
 date_filed = "2004-08-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMOTE THE SPIRITUAL, PHYSICAL AND MORAL WELL BEING FOR
 scope = "National"
 subjects = [ "Youth (Spiritual/Moral Well Being)", "Local Government Code (Sec. 389/426)",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-31"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

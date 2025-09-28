@@ -1,24 +1,28 @@
 id = "01K67YM2T3RZJQA31CZ4XXCJ6C"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04431"
+
+[meta]
 bill_number = 4431
 congress = 16
-canonical = "HBN-04431"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4431", "https://web.senate.gov.ph/lisdata/1928416413!.pdf",]
 title = "FISH PORT (MUNICIPALITY OF ABULUG, PROVINCE OF CAGAYAN)"
 long_title = "AN ACT ESTABLISHING A FISH PORT IN THE MUNICIPALITY OF ABULUG IN THE PROVINCE OF CAGAYAN AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Fish Port",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-06-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-09"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/9/2014"
+date = "2014-06-09"
 
 [[committees]]
 name = "Public Works"

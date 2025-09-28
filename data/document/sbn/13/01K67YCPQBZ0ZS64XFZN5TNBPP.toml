@@ -1,8 +1,11 @@
 id = "01K67YCPQBZ0ZS64XFZN5TNBPP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02313"
+
+[meta]
 bill_number = 2313
 congress = 13
-canonical = "SBN-02313"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2313", "https://web.senate.gov.ph/lisdata/54384501!.pdf",]
 title = "TAX INCENTIVES TO BROADCAST AND PRINT MEDIA"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING TAX INCENTIVES TO BROADCAST AND PRINT MEDIA DEVOTI
 scope = "National"
 subjects = [ "Taxes (Tax Incentives, Broadcast", "Print Media)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Ways and Means"

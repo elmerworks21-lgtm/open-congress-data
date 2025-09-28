@@ -1,8 +1,11 @@
 id = "01K67YJ9JSHYR8NGG76C1EG30B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03230"
+
+[meta]
 bill_number = 3230
 congress = 15
-canonical = "SBN-03230"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3230", "https://web.senate.gov.ph/lisdata/1370511498!.pdf",]
 title = "MALAMPAYA NATURAL GAS PROJECT"
 date_filed = "2012-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOCATING THE NET NATIONAL GOVERNMENT SHARE FROM THE MALAM
 scope = "National"
 subjects = [ "Armed Forces of the Philippines (AFP)", "Malampaya Natural Gas Project",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2012-07-10"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE and ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2012"
+date = "2012-07-31"
 
 [[committees]]
 name = "Finance"

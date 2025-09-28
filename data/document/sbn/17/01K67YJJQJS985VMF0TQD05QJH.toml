@@ -1,8 +1,11 @@
 id = "01K67YJJQJS985VMF0TQD05QJH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02073"
+
+[meta]
 bill_number = 2073
 congress = 17
-canonical = "SBN-02073"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2073", "https://web.senate.gov.ph/lisdata/2884325371!.pdf",]
 title = "REPEALING R.A. NO. 10912 (CONTINUING PROFESSIONAL DEVELOPMENT ACT)"
 date_filed = "2018-10-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT REPEALING REPUBLIC ACT NO. 10912, OTHERWISE KNOWN AS THE â€
 scope = "National"
 subjects = [ "Continuing Professional Development (R.A.No. 10912)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-11"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-12"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2018"
+date = "2018-11-12"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

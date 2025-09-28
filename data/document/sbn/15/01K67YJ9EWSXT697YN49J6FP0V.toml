@@ -1,8 +1,11 @@
 id = "01K67YJ9EWSXT697YN49J6FP0V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03066"
+
+[meta]
 bill_number = 3066
 congress = 15
-canonical = "SBN-03066"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3066", "https://web.senate.gov.ph/lisdata/1249710566!.pdf",]
 title = "URBAN PEST MANAGEMENT ACT OF 2010"
 date_filed = "2011-11-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE JURISDICTION OF THE FERTILIZER AND PESTICIDE 
 scope = "National"
 subjects = [ "Fertilizer", "Pesticide", "Department of Agriculture",]
 authors_raw = "Guingona III, Teofisto \"Tg\""
-[[legislative_history]]
+
+[[history]]
 date = "2011-11-22"
 action = "Introduced by Senator TEOFISTO 'TG' GUINGONA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-23"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/23/2011"
+date = "2011-11-23"
 
 [[committees]]
 name = "Agriculture and Food"

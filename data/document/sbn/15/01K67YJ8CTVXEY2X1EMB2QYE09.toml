@@ -1,8 +1,11 @@
 id = "01K67YJ8CTVXEY2X1EMB2QYE09"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01847"
+
+[meta]
 bill_number = 1847
 congress = 15
-canonical = "SBN-01847"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1847", "https://web.senate.gov.ph/lisdata/94187959!.pdf",]
 title = "WOMEN'S HEALTH OFFICE ACT"
 date_filed = "2010-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AN OFFICE ON WOMEN’S HEALTH OF THE DEPARTMEN
 scope = "National"
 subjects = [ "Womens Health Research Office",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-21"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-13"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2010"
+date = "2010-09-13"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJQC7WVJXG413A6N7C0QN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01417"
+
+[meta]
 bill_number = 1417
 congress = 18
-canonical = "SBN-01417"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1417", "https://web.senate.gov.ph/lisdata/3252329394!.pdf",]
 title = "ECONOMIC RESCUE PLAN FOR COVID-19"
 date_filed = "2020-03-23"
@@ -10,33 +13,34 @@ long_title = "AN ACT APPROPRIATING THE SUM OF ONE HUNDRED EIGHT BILLION PESOS (P
 scope = "National"
 subjects = [ "Appropriations/Supplemental Appropriations", "Covid-19",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2020-03-23"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-04"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-27"
 action = "Referred secondarily to the Committee on ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-01"
 action = "Returned and submitted jointly by the Committee(s) on FINANCE, WAYS AND MEANS, ECONOMIC AFFAIRS and HEALTH AND DEMOGRAPHY per Committee Report No. 98, recommending that it be substituted by SBN-1564;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-01"
 action = "SUBSTITUTED BY SBN-1564 UNDER COMMITTEE REPORT NO. 98, WHICH BECAME R.A. NO. 11494 ON SEPTEMBER 11, 2020."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/1/2020"
+date = "2020-06-01"
 
 [[committees]]
 name = "Finance"

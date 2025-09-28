@@ -1,8 +1,11 @@
 id = "01K67YCPAZC9451AWKGM8D66NC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01722"
+
+[meta]
 bill_number = 1722
 congress = 13
-canonical = "SBN-01722"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1722", "https://web.senate.gov.ph/lisdata/29182506!.pdf",]
 title = "RATIONALIZED SECURITY OF TENURE ACT OF 2004"
 date_filed = "2004-08-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING THE SECURITY OF TENURE OF EMPLOYEES IN THE PR
 scope = "National"
 subjects = [ "Rationalized Security of Tenure Act", "Employees (Private Sector)", "Labor-Only Contract (Prohibiting)",]
 authors_raw = "Lim, Alfredo S."
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-11"
 action = "Introduced by Senator ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

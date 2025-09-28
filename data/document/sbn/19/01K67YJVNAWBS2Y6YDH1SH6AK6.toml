@@ -1,8 +1,11 @@
 id = "01K67YJVNAWBS2Y6YDH1SH6AK6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01141"
+
+[meta]
 bill_number = 1141
 congress = 19
-canonical = "SBN-01141"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1141", "https://web.senate.gov.ph/lisdata/3912835566!.pdf",]
 title = "PARKING FEE REGULATION ACT"
 date_filed = "2022-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE IMPOSITION OF FEES FOR THE USE OF PARKING SP
 scope = "National"
 subjects = [ "Parking Operations and Fees Regulation",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-15"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-06"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2022"
+date = "2022-09-06"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

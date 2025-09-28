@@ -1,24 +1,28 @@
 id = "01K67YKWYH6GDD4N0N61CATG27"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06248"
+
+[meta]
 bill_number = 6248
 congress = 14
-canonical = "HBN-06248"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6248", "https://web.senate.gov.ph/lisdata/1161710249!.pdf",]
 title = "PATIENT GRIEVANCE MECHANISM ACT OF 2009"
 long_title = "AN ACT ESTABLISHING A PATIENT GRIEVANCE MECHANISM FOR TREATMENT-RELATED GRIEVANCES IN ALL PUBLIC AND PRIVATE HEALTH INSTITUTIONS WITH THE SUPERVISION OF THE DEPARTMENT OF HEALTH, AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Department of Health (DOH)", "Patients",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-06-01"
 action = "Filed in the Senate requesting for concurrence by Representatives , PROSPERO C. NOGRALES, NARCISO D. SANTIAGO III, JOSE ANTONIO F. ROXAS, PHILIP A. PICHAY and FERJENEL G. BIRON, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2009"
+date = "2009-06-02"
 
 [[committees]]
 name = "Health and Demography"

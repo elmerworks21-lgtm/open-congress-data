@@ -1,8 +1,11 @@
 id = "01K67YJTX6THMP54TWRGBW7TC4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00055"
+
+[meta]
 bill_number = 55
 congress = 19
-canonical = "SBN-00055"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-55", "https://web.senate.gov.ph/lisdata/3775834199!.pdf",]
 title = "CONDONATION OF ALL UNPAID PRINCIPAL, INTERESTS, PENALTIES ON LOANS BY AGRARIAN REFORM BENEFICIARIES"
 date_filed = "2022-07-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR THE CONDONATION OF ALL UNPAID PRINCIPAL, INTE
 scope = "National"
 subjects = [ "Condonation", "Comprehensive Agrarian Reform Program",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Returned and submitted jointly by the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM, FINANCE and WAYS AND MEANS per Committee Report No. 24, recommending that it be substituted by SBN-1850;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "SUBSTITUTED BY SBN-1850 UNDER COMMITTEE REPORT NO. 24 WHICH BECAME REPUBLIC ACT NO. 11953 ON JULY 7, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/8/2023"
+date = "2023-02-08"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

@@ -1,8 +1,11 @@
 id = "01K67YJCWX3NEXY9KS32Q7PS1Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00947"
+
+[meta]
 bill_number = 947
 congress = 16
-canonical = "SBN-00947"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-947", "https://web.senate.gov.ph/lisdata/1698214211!.pdf",]
 title = "PROHIBITING UNATTENDED CHILDREN IN MOTOR VEHICLES"
 date_filed = "2013-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROHIBIT UNATTENDED CHILDREN IN MOTOR VEHICLES"
 scope = "National"
 subjects = [ "Motor Vehicles", "Children/Child Care",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-18"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-13"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2013"
+date = "2013-08-13"
 
 [[committees]]
 name = "Public Services"

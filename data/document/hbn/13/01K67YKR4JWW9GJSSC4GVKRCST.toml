@@ -1,24 +1,28 @@
 id = "01K67YKR4JWW9GJSSC4GVKRCST"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05097"
+
+[meta]
 bill_number = 5097
 congress = 13
-canonical = "HBN-05097"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5097", "https://web.senate.gov.ph/lisdata/51954216!.pdf",]
 title = "MORIATAO TONGANO NATIONAL HIGH SCHOOL (LANAO DEL SUR)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BETAYAN, MUNICIPALITY OF MALABANG, PROVINCE OF LANAO DEL SUR TO BE KNOWN AS THE MORIATAO TONGANO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Lanao Del Sur)", "Moriatao Tongano National High School (Lanao Del Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives BENASING O. MACARAMBON JR., EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and ROLANDO G. ANDAYA JR., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-23"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2006"
+date = "2006-05-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

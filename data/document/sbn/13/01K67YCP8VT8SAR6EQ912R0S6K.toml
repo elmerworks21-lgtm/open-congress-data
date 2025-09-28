@@ -1,8 +1,11 @@
 id = "01K67YCP8VT8SAR6EQ912R0S6K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01601"
+
+[meta]
 bill_number = 1601
 congress = 13
-canonical = "SBN-01601"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1601", "https://web.senate.gov.ph/lisdata/28312193!.pdf",]
 title = "NON-REMITTANCE OF SSS CONTRIBUTIONS BY THE EMPLOYER"
 date_filed = "2004-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED ELEVEN HUNDRED SIXTY ONE, AL
 scope = "National"
 subjects = [ "Sss Contributions (Non-Remittance)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

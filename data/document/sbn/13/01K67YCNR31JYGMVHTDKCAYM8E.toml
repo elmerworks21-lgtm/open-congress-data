@@ -1,8 +1,11 @@
 id = "01K67YCNR31JYGMVHTDKCAYM8E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00685"
+
+[meta]
 bill_number = 685
 congress = 13
-canonical = "SBN-00685"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-685", "https://web.senate.gov.ph/lisdata/18711246!.pdf",]
 title = "ANTI-STALKING ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE CRIME OF STALKING AND PROVIDING THE PENALTIES 
 scope = "National"
 subjects = [ "Stalking (Anti-Stalking Act)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJQ0HJADFRTXNRM3YSPHE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00929"
+
+[meta]
 bill_number = 929
 congress = 18
-canonical = "SBN-00929"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-929", "https://web.senate.gov.ph/lisdata/3131328211!.pdf",]
 title = "PENALIZING PRESENTATION OF SUSPECTS BEFORE FORMAL CHARGES ARE FILED IN COURT"
 date_filed = "2019-08-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING PRESENTATION OF SUSPECTS AND RELEASE OF THEIR PR
 scope = "National"
 subjects = [ "Human Rights", "Human Rights Violations",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-20"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2019"
+date = "2019-08-20"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

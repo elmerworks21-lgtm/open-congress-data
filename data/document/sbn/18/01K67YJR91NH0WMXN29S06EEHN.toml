@@ -1,8 +1,11 @@
 id = "01K67YJR91NH0WMXN29S06EEHN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02435"
+
+[meta]
 bill_number = 2435
 congress = 18
-canonical = "SBN-02435"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2435", "https://web.senate.gov.ph/lisdata/3655732925!.pdf",]
 title = "SOLAR HOME SYSTEM FINANCING FOR SOCIAL HOUSING PROGRAM ACT"
 date_filed = "2021-10-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE SOLAR HOME SYSTEM FINANCING FOR SOCIAL HOU
 scope = "National"
 subjects = [ "Solar Home System",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2021-10-12"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-08"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT; ENERGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/8/2021"
+date = "2021-11-08"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

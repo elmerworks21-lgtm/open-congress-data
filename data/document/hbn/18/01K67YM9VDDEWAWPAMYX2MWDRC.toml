@@ -1,28 +1,32 @@
 id = "01K67YM9VDDEWAWPAMYX2MWDRC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10003"
+
+[meta]
 bill_number = 10003
 congress = 18
-canonical = "HBN-10003"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10003", "https://web.senate.gov.ph/lisdata/3624332696!.pdf",]
 title = "RECLASSIFYING AS AGRICULTURAL LAND (PARCEL OF LAND IN OZAMIZ, MISAMIS OCCIDENTAL)"
 long_title = "AN ACT RECLASSIFYING AS AGRICULTURAL LAND A PARCEL OF LAND OF THE PUBLIC DOMAIN LOCATED IN THE CITY OF OZAMIZ, PROVINCE OF MISAMIS OCCIDENTAL, AND OPEN TO DISPOSITION FOR AGRICULTURAL, COMMERCIAL, RESIDENTIAL, AND INDUSTRIAL PURPOSES"
 scope = "Local"
 subjects = [ "Agricultural Land",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-20"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-03"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2021"
+date = "2021-09-20"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

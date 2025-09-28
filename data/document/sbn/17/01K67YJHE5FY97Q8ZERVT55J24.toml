@@ -1,8 +1,11 @@
 id = "01K67YJHE5FY97Q8ZERVT55J24"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00398"
+
+[meta]
 bill_number = 398
 congress = 17
-canonical = "SBN-00398"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-398", "https://web.senate.gov.ph/lisdata/2383620500!.pdf",]
 title = "PRE-NATAL LEAVE BENEFITS"
 date_filed = "2016-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING PRE-NATAL LEAVE BENEFITS FOR FEMALE EMPLOYEES"
 scope = "National"
 subjects = [ "Pre-Natal Leave",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-18"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

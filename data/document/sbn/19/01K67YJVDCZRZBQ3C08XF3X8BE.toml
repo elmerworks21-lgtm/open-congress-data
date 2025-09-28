@@ -1,8 +1,11 @@
 id = "01K67YJVDCZRZBQ3C08XF3X8BE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00796"
+
+[meta]
 bill_number = 796
 congress = 19
-canonical = "SBN-00796"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-796", "https://web.senate.gov.ph/lisdata/3861735071!.pdf",]
 title = "NATIONAL FAMILY COMMISSION OF THE PHILIPPINES ACT"
 date_filed = "2022-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INSTITUTE THE NATIONAL COMMISSION ON THE FAMILY AND FOR 
 scope = "National"
 subjects = [ "Family Commission", "National Family Commission of the Philippines",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

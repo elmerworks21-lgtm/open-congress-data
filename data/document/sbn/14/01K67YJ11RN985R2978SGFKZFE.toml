@@ -1,8 +1,11 @@
 id = "01K67YJ11RN985R2978SGFKZFE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00470"
+
+[meta]
 bill_number = 470
 congress = 14
-canonical = "SBN-00470"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-470", "https://web.senate.gov.ph/lisdata/46753999!.pdf",]
 title = "NAMRIA MODERNIZATION ACT"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE NATIONAL MAPPING AND
 scope = "National"
 subjects = [ "National Mapping and Resource Information Authority (Namria)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Environment and Natural Resources"

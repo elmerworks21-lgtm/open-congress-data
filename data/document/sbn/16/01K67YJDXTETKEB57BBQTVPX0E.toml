@@ -1,8 +1,11 @@
 id = "01K67YJDXTETKEB57BBQTVPX0E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02471"
+
+[meta]
 bill_number = 2471
 congress = 16
-canonical = "SBN-02471"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2471", "https://web.senate.gov.ph/lisdata/2013917253!.pdf",]
 title = "BAN ASBESTOS ACT"
 date_filed = "2014-11-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT BANNING THE IMPORTATION, MANUFACTURE, PROCESSING OR DISTRIB
 scope = "National"
 subjects = [ "Asbestos",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-11-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-01"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/1/2014"
+date = "2014-12-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

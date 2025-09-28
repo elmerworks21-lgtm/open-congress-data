@@ -1,24 +1,28 @@
 id = "01K67YMA6KSZG8X3YTHG0XSXYQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10851"
+
+[meta]
 bill_number = 10851
 congress = 18
-canonical = "HBN-10851"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10851", "https://web.senate.gov.ph/lisdata/3763534084!.pdf",]
 title = "DARAGA-LEGAZPI AS NATIONAL ROAD (LEGAZPI CITY, ALBAY)"
 long_title = "AN ACT CONVERTING THE DARAGA-LEGAZPI DIVERSION ROAD IN THE MUNICIPALITY OF DARAGA AND THE CITY OF LEGAZPI, PROVINCE OF ALBAY, INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Roads, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-06-01"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-06-01"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/1/2022"
+date = "2022-06-01"
 
 [[committees]]
 name = "Public Works"

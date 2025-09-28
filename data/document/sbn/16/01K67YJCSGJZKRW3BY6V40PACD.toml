@@ -1,8 +1,11 @@
 id = "01K67YJCSGJZKRW3BY6V40PACD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00791"
+
+[meta]
 bill_number = 791
 congress = 16
-canonical = "SBN-00791"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-791", "https://web.senate.gov.ph/lisdata/1675713991!.pdf",]
 title = "NIGHT SHIFT DIFFERENTIAL PAY TO GOVERNMENT EMPLOYEES"
 date_filed = "2013-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING NIGHT SHIFT DIFFERENTIAL PAY TO THE GOVERNMENT EMP
 scope = "National"
 subjects = [ "Night Shift Worker", "Government Employees", "Government-Owned And-Controlled Corporations (GOCC)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-16"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-12"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2013"
+date = "2013-08-12"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

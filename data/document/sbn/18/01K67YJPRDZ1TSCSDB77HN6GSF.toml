@@ -1,8 +1,11 @@
 id = "01K67YJPRDZ1TSCSDB77HN6GSF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00551"
+
+[meta]
 bill_number = 551
 congress = 18
-canonical = "SBN-00551"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-551", "https://web.senate.gov.ph/lisdata/3082727767!.pdf",]
 title = "ANTI-OVERLOADING ACT OF 2019"
 date_filed = "2019-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE PENALTY FOR OVERLOADING OF PASSENGERS IN PUB
 scope = "National"
 subjects = [ "Overloading", "Public Utility Vehicles", "Passengers",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-16"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Public Services"

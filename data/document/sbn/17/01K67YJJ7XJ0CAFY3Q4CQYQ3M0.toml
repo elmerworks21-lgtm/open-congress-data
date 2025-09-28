@@ -1,8 +1,11 @@
 id = "01K67YJJ7XJ0CAFY3Q4CQYQ3M0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01489"
+
+[meta]
 bill_number = 1489
 congress = 17
-canonical = "SBN-01489"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1489", "https://web.senate.gov.ph/lisdata/2624322590!.pdf",]
 title = "CONSUMER ACT OF 2017"
 date_filed = "2017-06-13"
@@ -10,21 +13,22 @@ long_title = "AN ACT GRANTING BROADER PROTECTION FOR CONSUMERS, AMENDING FOR THE
 scope = "National"
 subjects = [ "Consumer Act (R.A.No. 7394)",]
 authors_raw = "Gatchalian, Sherwin T., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2017-06-13"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-25"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-07"
 action = "Letter from Senator JOEL VILLANUEVA dated March 6, 2018, conveying his intention to be made coauthor of SBN-1489, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2017"
+date = "2017-07-25"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

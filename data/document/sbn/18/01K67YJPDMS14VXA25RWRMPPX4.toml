@@ -1,8 +1,11 @@
 id = "01K67YJPDMS14VXA25RWRMPPX4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00062"
+
+[meta]
 bill_number = 62
 congress = 18
-canonical = "SBN-00062"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-62", "https://web.senate.gov.ph/lisdata/3029227120!.pdf",]
 title = "EDUCATIONAL ROADMAP ACT"
 date_filed = "2019-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR AN EDUCATIONAL ROADMAP TOWARDS GLOBAL COMPETI
 scope = "National"
 subjects = [ "Educational Roadmap",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Referred primarily to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and secondarily to the Committee on BASIC EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

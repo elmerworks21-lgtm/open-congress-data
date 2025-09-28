@@ -1,8 +1,11 @@
 id = "01K67YJ2PWZXGWZ9C1E35GW34V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02629"
+
+[meta]
 bill_number = 2629
 congress = 14
-canonical = "SBN-02629"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2629", "https://web.senate.gov.ph/lisdata/85767762!.pdf",]
 title = "RURAL DENTIST IN EVERY RURAL HEALTH UNIT"
 date_filed = "2008-09-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A POSITION OF RURAL DENTIST IN EVERY RURAL HEALTH 
 scope = "National"
 subjects = [ "Dental Unit (Rural Health Unit)", "Department of Health (DOH)",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-22"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/23/2008"
+date = "2008-09-23"
 
 [[committees]]
 name = "Health and Demography"

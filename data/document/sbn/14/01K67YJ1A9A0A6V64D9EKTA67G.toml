@@ -1,8 +1,11 @@
 id = "01K67YJ1A9A0A6V64D9EKTA67G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00890"
+
+[meta]
 bill_number = 890
 congress = 14
-canonical = "SBN-00890"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-890", "https://web.senate.gov.ph/lisdata/51434516!.pdf",]
 title = "CHILD LEGITIMATION BORN UNDER PARENTS BELOW MARRYING AGE"
 date_filed = "2007-07-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR THE LEGITIMATION OF CHILDREN BORN TO PARENTS 
 scope = "National"
 subjects = [ "Child Legitimation",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-02"
 action = "Returned and submitted jointly by the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS per Committee Report No. 278, recommending that it be substituted by SBN-3111;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-03"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-03"
 action = "SUBSTITUTED BY SBN-3111."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/3/2009"
+date = "2009-03-03"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

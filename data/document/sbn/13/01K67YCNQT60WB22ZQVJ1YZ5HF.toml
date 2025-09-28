@@ -1,8 +1,11 @@
 id = "01K67YCNQT60WB22ZQVJ1YZ5HF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00669"
+
+[meta]
 bill_number = 669
 congress = 13
-canonical = "SBN-00669"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-669", "https://web.senate.gov.ph/lisdata/18551230!.pdf",]
 title = "SOCIAL SECURITY ACT (AMENDMENTS)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 12 (B) OF REPUBLIC ACT NO. 8282 OTHERWISE 
 scope = "National"
 subjects = [ "Social Security Act (RA 8282, Amendments", "Pension Increase (20 Years of Service)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

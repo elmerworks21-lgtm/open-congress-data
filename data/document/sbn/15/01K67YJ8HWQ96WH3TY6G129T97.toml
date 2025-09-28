@@ -1,8 +1,11 @@
 id = "01K67YJ8HWQ96WH3TY6G129T97"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02099"
+
+[meta]
 bill_number = 2099
 congress = 15
-canonical = "SBN-02099"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2099", "https://web.senate.gov.ph/lisdata/96498222!.pdf",]
 title = "FOSTER CARE ACT"
 date_filed = "2010-07-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING AND STRENGTHENING FOSTER CARE FOR QUALIF
 scope = "National"
 subjects = [ "Foster Care",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-27"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-14"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2010"
+date = "2010-09-14"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

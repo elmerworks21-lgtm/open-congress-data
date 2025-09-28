@@ -1,8 +1,11 @@
 id = "01K67YJQXP8DYK6RRCHYH71VDP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02146"
+
+[meta]
 bill_number = 2146
 congress = 18
-canonical = "SBN-02146"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2146", "https://web.senate.gov.ph/lisdata/3494631769!.pdf",]
 title = "HAPI JOCKEY CLUB, INC."
 date_filed = "2021-04-27"
@@ -10,33 +13,34 @@ long_title = "AN ACT GRANTING THE HAPI JOCKEY CLUB, INC. A FRANCHISE TO CONSTRUC
 scope = "Local"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-27"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; GAMES AND AMUSEMENT and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-24"
 action = "Returned and submitted by the Committee on PUBLIC SERVICES per Committee Report No. 349, recommending that it be considered in HBN-8753;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-24"
 action = "CONSIDERED IN HBN-8753 UNDER COMMITTEE REPORT NO. 349, WHICH BECAME REPUBLIC ACT NO. 11649 ON MARCH 8, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/24/2021"
+date = "2021-11-24"
 
 [[committees]]
 name = "Public Services"

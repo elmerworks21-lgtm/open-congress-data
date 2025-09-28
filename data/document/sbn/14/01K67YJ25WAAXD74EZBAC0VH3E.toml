@@ -1,25 +1,29 @@
 id = "01K67YJ25WAAXD74EZBAC0VH3E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01894"
+
+[meta]
 bill_number = 1894
 congress = 14
-canonical = "SBN-01894"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1894", "https://web.senate.gov.ph/lisdata/64315721!.pdf",]
 title = "PHILIPPINE TEXTILE RESEARCH INSTITUTE (PTRI)"
 date_filed = "2007-11-21"
 long_title = "AN ACT STRENGTHENING THE MANDATE OF THE PHILIPPINE TEXTILE RESEARCH INSTITUTE (PTRI) FOR THE PROMOTION AND DEVELOPMENT OF THE TEXTILE INDUSTRY, AMENDING FOR THE PURPOSE SECTION 24 OF EXECUTIVE ORDER NO. 128 DATED JANUARY 30, 1987, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
 scope = "National"
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-11-21"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-21"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/21/2007"
+date = "2007-11-21"
 
 [[committees]]
 name = "Trade and Commerce"

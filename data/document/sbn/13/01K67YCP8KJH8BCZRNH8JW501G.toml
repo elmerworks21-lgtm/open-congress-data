@@ -1,8 +1,11 @@
 id = "01K67YCP8KJH8BCZRNH8JW501G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01589"
+
+[meta]
 bill_number = 1589
 congress = 13
-canonical = "SBN-01589"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1589", "https://web.senate.gov.ph/lisdata/28102181!.pdf",]
 title = "PROHIBITING ACQUISITION OF ASSETS IN THE NAME OF DUMMIES"
 date_filed = "2004-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6713, ALSO KNOWN AS AN ACT ESTABL
 scope = "National"
 subjects = [ "Government Officials/Employees", "Ill-Gotten Wealth (Use of Dummies)", "Assets/Real Property (Use of Dummies)", "Code of Conduct/Ethical Standard/RA 6713",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

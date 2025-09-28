@@ -1,8 +1,11 @@
 id = "01K67YJ1G5CEGMZKVRFY7VBNGS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01174"
+
+[meta]
 bill_number = 1174
 congress = 14
-canonical = "SBN-01174"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1174", "https://web.senate.gov.ph/lisdata/54694839!.pdf",]
 title = "LINE- ITEM BUDGETING ACT OF 2007"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING LINE ITEM BUDGETING IN THE BUDGETARY PROCESS OF
 scope = "National"
 subjects = [ "Line- Item Budgeting",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Finance"

@@ -1,8 +1,11 @@
 id = "01K67YJVFCXXZVR971DAG5YH1W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00883"
+
+[meta]
 bill_number = 883
 congress = 19
-canonical = "SBN-00883"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-883", "https://web.senate.gov.ph/lisdata/3871835172!.pdf",]
 title = "ALTERNATIVE DISPUTE RESOLUTION ON CRIMINAL CASES"
 date_filed = "2022-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE IMPOSITION OF PENALTY LOWER THAN THAT PRESCRI
 scope = "National"
 subjects = [ "Alternative Dispute Resolution (ADR)",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-02"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Justice and Human Rights"

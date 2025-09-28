@@ -1,8 +1,11 @@
 id = "01K67YJ241EFNRS3P7E3344RH5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01822"
+
+[meta]
 bill_number = 1822
 congress = 14
-canonical = "SBN-01822"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1822", "https://web.senate.gov.ph/lisdata/62765607!.pdf",]
 title = "VETERINARY QUARANTINE ACT OF 2007"
 date_filed = "2007-11-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A REVISED VETERINARY QUARANTINE ACT OF 2007"
 scope = "National"
 subjects = [ "Animal Welfare", "Bureau of Animal Industry-National Veterinary Quarantine Services (Bai-Nvqs)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-11-07"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-07"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2007"
+date = "2007-11-07"
 
 [[committees]]
 name = "Agriculture and Food"

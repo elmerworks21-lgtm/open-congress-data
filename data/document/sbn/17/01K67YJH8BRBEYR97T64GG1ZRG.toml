@@ -1,8 +1,11 @@
 id = "01K67YJH8BRBEYR97T64GG1ZRG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00171"
+
+[meta]
 bill_number = 171
 congress = 17
-canonical = "SBN-00171"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-171", "https://web.senate.gov.ph/lisdata/2359320222!.pdf",]
 title = "OPEN ACCESS IN DATA TRANSMISSION ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROMOTING OPEN ACCESS IN DATA TRANSMISSION, PROVIDING ADDIT
 scope = "National"
 subjects = [ "National Telecommunications Commission (NTC)", "Open Access in Data Transmission",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and SCIENCE AND TECHNOLOGY;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Upon motion of Senator Sotto III, the Chair referred SBN-171 primarily to the Committee on SCIENCE AND TECHNOLOGY and secondarily to Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Returned and submitted jointly by the Committee(s) on SCIENCE AND TECHNOLOGY and PUBLIC SERVICES per Committee Report No. 306, recommending that it be substituted by SBN-1763;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "SUBSTITUTED BY SBN-1763 UNDER COMMITTEE REPORT NO. 306."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/21/2018"
+date = "2018-03-21"
 
 [[committees]]
 name = "Science and Technology"

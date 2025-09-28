@@ -1,24 +1,28 @@
 id = "01K67YKW5NYN27Q5R27RZ6VZMZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04383"
+
+[meta]
 bill_number = 4383
 congress = 14
-canonical = "HBN-04383"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4383", "https://web.senate.gov.ph/lisdata/82107449!.pdf",]
 title = "JCT. (LIR) - MAHAYAG (SAN MIGUEL) - DANAO - SAGBAYAN PROVINCIAL ROAD (BOHOL)"
 long_title = "AN ACT CONVERTING THE JCT. (LIR) - MAHAYAG (SAN MIGUEL) - DANAO - SAGBAYAN PROVINCIAL ROAD TRAVERSING THE MUNICIPALITIES OF SAN MIGUEL, DANAO AND SAGBAYAN, PROVINCE OF BOHOL INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-21"
 action = "Filed in the Senate requesting for concurrence by Representative ROBERTO C. CAJES, as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2008"
+date = "2008-09-01"
 
 [[committees]]
 name = "Public Works"

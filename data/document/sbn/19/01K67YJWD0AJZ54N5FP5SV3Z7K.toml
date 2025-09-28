@@ -1,8 +1,11 @@
 id = "01K67YJWD0AJZ54N5FP5SV3Z7K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02153"
+
+[meta]
 bill_number = 2153
 congress = 19
-canonical = "SBN-02153"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2153", "https://web.senate.gov.ph/lisdata/4155037836!.pdf",]
 title = "DECLARING THE IMMEDIATE ENVIRONS OF OUR LADY OF THE MOST HOLY ROSARY PAQRISH CHURCH"
 date_filed = "2023-05-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE IMMEDIATE ENVIRONS OF OUR LADY OF THE MOST HO
 scope = "National"
 subjects = [ "Tourism Destination", "Churches",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-09"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-15"
 action = "Read on First Reading and Referred to the Committees on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/15/2023"
+date = "2023-05-15"
 
 [[committees]]
 name = "Tourism"

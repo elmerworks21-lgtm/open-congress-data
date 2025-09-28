@@ -1,36 +1,40 @@
 id = "01K67YM9SVYSWH8EX9FR8MZMM8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09833"
+
+[meta]
 bill_number = 9833
 congress = 18
-canonical = "HBN-09833"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9833", "https://web.senate.gov.ph/lisdata/3605932529!.pdf",]
 title = "REVISED WILDLIFE RESOURCES CONSERVATION AND PROTECTION ACT"
 long_title = "AN ACT PROVIDING STRONGER MEASURES FOR THE CONSERVATION AND PROTECTION OF WILDLIFE RESOURCES AND THEIR HABITATS, REPEALING FOR THIS PURPOSE REPUBLIC ACT NO. 9147 OR THE 'WILDLIFE RESOURCES CONSERVATION AND PROTECTION ACT,' AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Wildlife Sanctuary", "Wildlife Resources Conservation and Protection",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-08-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-01"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Returned jointly by the Committee(s) on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE, FINANCE and SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING per Committee Report No. 402, recommending that it be considered in SBN-2465;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "CONSIDERED IN SBN-2465, UNDER COMMITTEE REPORT NO. 402."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/14/2021"
+date = "2021-12-14"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

@@ -1,8 +1,11 @@
 id = "01K67YJ2RZEGWCQERR4KHYWMJX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02718"
+
+[meta]
 bill_number = 2718
 congress = 14
-canonical = "SBN-02718"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2718", "https://web.senate.gov.ph/lisdata/92038317!.pdf",]
 title = "SHARIFF AGUAK REGIONAL TRIAL COURT (MAGUINDANAO)"
 date_filed = "2008-11-10"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING ONE ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT 
 scope = "National"
 subjects = [ "Courts (Regional Trial Courts)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-10"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-12"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2008"
+date = "2008-11-12"
 
 [[committees]]
 name = "Justice and Human Rights"

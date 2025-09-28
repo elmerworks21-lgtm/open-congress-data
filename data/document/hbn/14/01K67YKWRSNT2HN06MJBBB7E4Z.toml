@@ -1,24 +1,28 @@
 id = "01K67YKWRSNT2HN06MJBBB7E4Z"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05409"
+
+[meta]
 bill_number = 5409
 congress = 14
-canonical = "HBN-05409"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5409", "https://web.senate.gov.ph/lisdata/97338837!.pdf",]
 title = "ANTI-THEFT AND ROBBERY OF PORTABLE TELECOMMUNICATION DEVICES ACT OF 2008"
 long_title = "AN ACT PROVIDING STIFFER PENALTIES FOR THE CRIME OF THEFT AND ROBBERY OF PORTABLE TELECOMMUNICATION DEVICES"
 scope = "National"
 subjects = [ "Telecommunications",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-12-17"
 action = "Filed in the Senate requesting for concurrence by Representatives MARIA EVITA R. ARAGO, RAUL V. DEL MAR, RAUL T. GONZALEZ JR., JAIME C. LOPEZ, CARMELO F. LAZATIN, MA. VICTORIA R. SY-ALVARADO and EUFROCINO M. CODILLA SR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-17"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/17/2008"
+date = "2008-12-17"
 
 [[committees]]
 name = "Rules"

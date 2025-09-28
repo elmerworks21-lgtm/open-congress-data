@@ -1,28 +1,32 @@
 id = "01K67YMDFNTBNAKHCKTBZD8DTQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09319"
+
+[meta]
 bill_number = 9319
 congress = 19
-canonical = "HBN-09319"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9319", "https://web.senate.gov.ph/lisdata/4305739160!.pdf",]
 title = "NUEVA ECIJA STATE UNIVERSITY (NESU)"
 long_title = "AN ACT RENAMING THE NUEVA ECIJA UNIVERSITY OF SCIENCE AND TECHNOLOGY AS THE NUEVA ECIJA STATE UNIVERSITY, EXPANDING ITS MANDATE AND CURRICULAR OFFERINGS, STRENGTHENING ITS GOVERNING BOARD, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "State Universities and Colleges (SUCS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-11-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-05"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-28"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/5/2023"
+date = "2023-12-05"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

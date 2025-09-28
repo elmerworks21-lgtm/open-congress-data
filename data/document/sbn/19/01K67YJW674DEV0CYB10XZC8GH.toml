@@ -1,8 +1,11 @@
 id = "01K67YJW674DEV0CYB10XZC8GH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01863"
+
+[meta]
 bill_number = 1863
 congress = 19
-canonical = "SBN-01863"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1863", "https://web.senate.gov.ph/lisdata/4071437109!.pdf",]
 title = "AMENDING REPUBLIC ACT NO. 7160 (THE LOCAL GOVERNMENT CODE OF 1991)"
 date_filed = "2023-02-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTIONS 59, 187, 188, 195, 196, 226, 229 AND 252 
 scope = "National"
 subjects = [ "Local Government Code (R.A.No. 7160)", "Taxes/Taxation",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-09"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-13"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/13/2023"
+date = "2023-02-13"
 
 [[committees]]
 name = "Local Government"

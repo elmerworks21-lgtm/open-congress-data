@@ -1,8 +1,11 @@
 id = "01K67YJHGB1XTEYAW8G57S2WVP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00500"
+
+[meta]
 bill_number = 500
 congress = 17
-canonical = "SBN-00500"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-500", "https://web.senate.gov.ph/lisdata/2394020585!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSION DEVELOPMENT FUND"
 date_filed = "2016-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE NATIONAL LABOR RELATIONS COMMISSION DEVELO
 scope = "National"
 subjects = [ "National Labor Relations Commission Development Fund",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YJQ817VN6ZNSRFW0TJ6T0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01248"
+
+[meta]
 bill_number = 1248
 congress = 18
-canonical = "SBN-01248"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1248", "https://web.senate.gov.ph/lisdata/3209328930!.pdf",]
 title = "ILLEGAL USE, POSSESSION, SALE, OR DISTRIBUTION OF ALCOHOL AND TOBACCO PRODUCTS TO MINORS ACT OF 2019"
 date_filed = "2019-12-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING PENALTIES FOR THE USE, POSSESSION, SALE, OR DISTR
 scope = "National"
 subjects = [ "Tobacco Products/Tobacco Industry", "Alcoholic Beverages", "Children and Youth",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2019-12-18"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2020"
+date = "2020-01-20"
 
 [[committees]]
 name = "Health and Demography"

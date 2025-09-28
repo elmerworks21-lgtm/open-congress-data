@@ -1,8 +1,11 @@
 id = "01K67YJVY8SB2X5RDGCNSP8XJ6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01517"
+
+[meta]
 bill_number = 1517
 congress = 19
-canonical = "SBN-01517"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1517", "https://web.senate.gov.ph/lisdata/3990236435!.pdf",]
 title = "BACOOR CITY NATIONAL SCIENCE HIGH SCHOOL"
 date_filed = "2022-11-17"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE CITY OF BACOOR, 
 scope = "Local"
 subjects = [ "Schools, Establishment",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-17"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-23"
 action = "Transfer of primary referral from the Committee on Rules to the Committees on BASIC EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-14"
 action = "Returned and submitted jointly by the Committees on BASIC EDUCATION and FINANCE per Committee Report No. 296, recommending that it be considered in HBN-10269;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-14"
 action = "CONSIDERED IN HBN-1517 UNDER COMMITTEE REPORT NO. 296."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/14/2024"
+date = "2024-08-14"
 
 [[committees]]
 name = "Basic Education"

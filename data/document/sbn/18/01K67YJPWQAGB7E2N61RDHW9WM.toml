@@ -1,8 +1,11 @@
 id = "01K67YJPWQAGB7E2N61RDHW9WM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00748"
+
+[meta]
 bill_number = 748
 congress = 18
-canonical = "SBN-00748"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-748", "https://web.senate.gov.ph/lisdata/3109127989!.pdf",]
 title = "LIFEGUARD ACT OF 2019"
 date_filed = "2019-07-24"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR THE EMPLOYMENT OF QUALIFIED LIFEGUARDS AT ALL
 scope = "National"
 subjects = [ "Lifeguard", "Swimming Pools/Bathing Facilities",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-22"
 action = "Returned jointly by the Committees on Trade, Commerce and Entrepreneurship; and Local Government, per Committee Report No. 114, recommending its approval in substitution of SBN-1839;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-22"
 action = "SUBSTITUTED BY SBN-1839 UNDER COMMITTEE REPORT NO. 114."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/22/2020"
+date = "2020-09-22"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

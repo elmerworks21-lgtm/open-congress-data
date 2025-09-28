@@ -1,8 +1,11 @@
 id = "01K67YCNEFJ8R0P4BRD0HRHAJ4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00152"
+
+[meta]
 bill_number = 152
 congress = 13
-canonical = "SBN-00152"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-152", "https://web.senate.gov.ph/lisdata/12871079!.pdf",]
 title = "DONOR'S CAPACITY IN MAKING DONATIONS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 386, ALSO KNOWN AS THE CIVIL CODE
 scope = "National"
 subjects = [ "Civil Code (R.A.No. 386, Art. 737)", "Donations (Donors Capacity)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,8 +1,11 @@
 id = "01K67YCP2HEJSEPC1Q3W90FSFE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01255"
+
+[meta]
 bill_number = 1255
 congress = 13
-canonical = "SBN-01255"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1255", "https://web.senate.gov.ph/lisdata/24661834!.pdf",]
 title = "CONSTITUTIONAL BAN ON ABORTION"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING THE PENAL CODE, ARTICLE 259"
 scope = "National"
 subjects = [ "Abortion (Constitutional Ban)", "Revised Penal Code (Art. 259)", "Medical Practitioners (Abortionists)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

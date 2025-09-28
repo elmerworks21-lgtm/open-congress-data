@@ -1,8 +1,11 @@
 id = "01K67YJDVQFDKQQ6BYHEVP4275"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02399"
+
+[meta]
 bill_number = 2399
 congress = 16
-canonical = "SBN-02399"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2399", "https://web.senate.gov.ph/lisdata/1982916937!.pdf",]
 title = "LPG INDUSTRY REGULATION AND SAFETY ACT OF 2014"
 date_filed = "2014-09-08"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING THE REGULATORY FRAMEWORK FOR THE SAFE OPERATIO
 scope = "National"
 subjects = [ "Liquefied Petroleum Gas (LPG)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2014-09-08"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-09"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; ENERGY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-11"
 action = "Returned and submitted jointly by the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP, ENERGY and FINANCE per Committee Report No. 201, recommending that it be substituted by SBN-2897;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-11"
 action = "SUBSTITUTED BY SBN-2897 UNDER C.R. NO. 201."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/11/2015"
+date = "2015-08-11"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

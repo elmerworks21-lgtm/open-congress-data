@@ -1,72 +1,76 @@
 id = "01K67YKQZX55Z3SQG2QDAF4XBM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04577"
+
+[meta]
 bill_number = 4577
 congress = 13
-canonical = "HBN-04577"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4577", "https://web.senate.gov.ph/lisdata/43313801!.pdf",]
 title = "GEN. JOSE M. ALEJANDRINO DAY(PAMPANGA)"
 long_title = "AN ACT DECLARING DECEMBER 1 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF ARAYAT, PROVINCE OF PAMPANGA TO BE KNOWN AS `GEN. JOSE M. ALEJANDRINO DAY'"
 scope = "Local"
 subjects = [ "Holiday: Gen. Jose M. Alejandrino Day (Dec. 1, Pampanga)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-06"
 action = "Filed in the Senate requesting for concurrence by Representative REY B. AQUINO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-12-07"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-10"
 action = "Returned by the Committee on LOCAL GOVERNMENT per Committee Report No. 125, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Sponsor: Senator ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Sponsorship speech of Senator(s) ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Interpellation of Senator(s) JUAN PONCE ENRILE, EDGARDO J. ANGARA and RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Manifestation of Senator(s)ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Interpellation of Senator(s) FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Period of committee amendments closed; Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-12"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-04"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "10/11/2006"
+date = "2006-10-11"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJ80HK7S48GMC5QGR3YQN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01231"
+
+[meta]
 bill_number = 1231
 congress = 15
-canonical = "SBN-01231"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1231", "https://web.senate.gov.ph/lisdata/87627304!.pdf",]
 title = "GOOD SAMARITAN ACT OF 2010"
 date_filed = "2010-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMOTE DONATIONS IN GOOD FAITH OF MEDICINES, FOOD PRODU
 scope = "National"
 subjects = [ "Good Samaritan Act", "Donations",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-12"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-25"
 action = "Read on First Reading and Referred to the Committee on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/25/2010"
+date = "2010-08-25"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

@@ -1,8 +1,11 @@
 id = "01K67YJV2GRYVDABTTF0XS1CGQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00294"
+
+[meta]
 bill_number = 294
 congress = 19
-canonical = "SBN-00294"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-294", "https://web.senate.gov.ph/lisdata/3804534487!.pdf",]
 title = "EXEMPTING PLEDGE OF PERSONAL PROPERTY COVERING A LOAN OF MONEY"
 date_filed = "2022-07-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING PLEDGE OF PERSONAL PROPERTY COVERING A LOAN OF MO
 scope = "National"
 subjects = [ "Tax Exemption", "Documentary Stamp Tax", "Personal Property",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Ways and Means"

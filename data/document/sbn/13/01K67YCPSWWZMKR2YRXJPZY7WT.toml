@@ -1,8 +1,11 @@
 id = "01K67YCPSWWZMKR2YRXJPZY7WT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02460"
+
+[meta]
 bill_number = 2460
 congress = 13
-canonical = "SBN-02460"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2460", "https://web.senate.gov.ph/lisdata/60064905!.pdf",]
 title = "PHILIPPINE INTERIOR DESIGN ACT (AMENDMENTS)"
 date_filed = "2006-09-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER PROFESIONALIZING AND UPLIFTING THE STANDARD OF INTE
 scope = "National"
 subjects = [ "Phillipine Interior Design Act (Amendments, Ra. 8534)",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-12"
 action = "Introduced by Senator RAMON B. MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-13"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2006"
+date = "2006-09-13"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

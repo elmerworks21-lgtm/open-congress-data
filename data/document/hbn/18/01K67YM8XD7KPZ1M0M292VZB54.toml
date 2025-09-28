@@ -1,24 +1,28 @@
 id = "01K67YM8XD7KPZ1M0M292VZB54"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02000"
+
+[meta]
 bill_number = 2000
 congress = 18
-canonical = "HBN-02000"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-2000", "https://web.senate.gov.ph/lisdata/3663732994!.pdf",]
 title = "WELFAREVILLE PROPERTY OPEN FOR DISPOSITION TO BONA FIDE RESIDENTS"
 long_title = "AN ACT DECLARING CERTAIN PORTIONS OF THE WELFAREVILLE PROPERTY LOCATED IN THE CITY OF MANDALUYONG OPEN FOR DISPOSITION TO BONA FIDE RESIDENTS WITHOUT PUBLIC BIDDING AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Public Bidding",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-11-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-22"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2021"
+date = "2021-11-22"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

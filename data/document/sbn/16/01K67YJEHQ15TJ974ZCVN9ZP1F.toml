@@ -1,8 +1,11 @@
 id = "01K67YJEHQ15TJ974ZCVN9ZP1F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03134"
+
+[meta]
 bill_number = 3134
 congress = 16
-canonical = "SBN-03134"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3134", "https://web.senate.gov.ph/lisdata/2295819650!.pdf",]
 title = "LOCAL GOVERNMENT CODE (R.A.NO. 7160), AMENDING SEC. 99, PAR. (D)"
 date_filed = "2016-01-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE CONCURRENCE OF THE LOCAL SCHOOL BOARD ON THE 
 scope = "National"
 subjects = [ "Schools District Supervisor", "Local School Boards", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-01-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-01"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/1/2016"
+date = "2016-02-01"
 
 [[committees]]
 name = "Education, Arts and Culture"

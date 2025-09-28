@@ -1,8 +1,11 @@
 id = "01K67YJV6BXEA5EBZH6CBRK05H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00470"
+
+[meta]
 bill_number = 470
 congress = 19
-canonical = "SBN-00470"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-470", "https://web.senate.gov.ph/lisdata/3823134668!.pdf",]
 title = "ANTI-DRUG ABUSE COUNCILS (ADAC) LAW"
 date_filed = "2022-07-13"
@@ -10,25 +13,26 @@ long_title = "AN ACT INSTITUTIONALIZING ANTI-DRUG ABUSE COUNCILS IN EVERY PROVIN
 scope = "National"
 subjects = [ "Anti-Drug Abuse Councils (Adacs)",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2022"
+date = "2022-08-10"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

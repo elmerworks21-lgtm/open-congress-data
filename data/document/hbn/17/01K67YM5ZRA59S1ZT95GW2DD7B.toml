@@ -1,24 +1,28 @@
 id = "01K67YM5ZRA59S1ZT95GW2DD7B"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05685"
+
+[meta]
 bill_number = 5685
 congress = 17
-canonical = "HBN-05685"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5685", "https://web.senate.gov.ph/lisdata/2637622681!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
 scope = "National"
 subjects = [ "Magna Carta of Filipino Seafarers",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-07-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; FOREIGN RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2017"
+date = "2017-08-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

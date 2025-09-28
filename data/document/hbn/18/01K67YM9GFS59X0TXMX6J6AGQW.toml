@@ -1,40 +1,44 @@
 id = "01K67YM9GFS59X0TXMX6J6AGQW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08461"
+
+[meta]
 bill_number = 8461
 congress = 18
-canonical = "HBN-08461"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8461", "https://web.senate.gov.ph/lisdata/3441831231!.pdf",]
 title = "GRANTING THE PRESIDENT OF THE PHILIPPINES POWER TO SUSPEND THE INCREASE IN PHILHEALTH PREMIUM RATES"
 long_title = "AN ACT GRANTING THE PRESIDENT OF THE PHILIPPINES THE POWER TO SUSPEND THE SCHEDULED INCREASE IN PHILHEALTH PREMIUM RATES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNIVERSAL HEALTH CARE ACT"
 scope = "National"
 subjects = [ "Philippine Health Insurance Corporation (Philhealth/Phic)", "President of the Philippines", "Universal Health Care",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-03"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Returned jointly by the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 192, recommending that it be considered in SBN-2097;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "CONSIDERED IN SBN-2097, UNDER COMMITTEE REPORT NO. 192."
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/10/2021"
+date = "2021-03-10"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJW2CRZWG9VR1BXGD2D6T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01698"
+
+[meta]
 bill_number = 1698
 congress = 19
-canonical = "SBN-01698"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1698", "https://web.senate.gov.ph/lisdata/4038936796!.pdf",]
 title = "BICYCLE ACT OF 2023"
 date_filed = "2023-01-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR BICYCLE RIGHTS, CREATION OF LOCAL BIKEWAYS OF
 scope = "National"
 subjects = [ "Bicycle",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-18"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-24"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/24/2023"
+date = "2023-01-24"
 
 [[committees]]
 name = "Public Services"

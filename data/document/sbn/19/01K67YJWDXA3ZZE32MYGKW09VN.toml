@@ -1,8 +1,11 @@
 id = "01K67YJWDXA3ZZE32MYGKW09VN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02190"
+
+[meta]
 bill_number = 2190
 congress = 19
-canonical = "SBN-02190"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2190", "https://web.senate.gov.ph/lisdata/4165437944!.pdf",]
 title = "OLUTANGA ISLAND PROTECTED LANDSCAPE AND SEASCAPE ACT"
 date_filed = "2023-05-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE OLUTANGA ISLAND PROTECTED LANDSCAPE AND SEASC
 scope = "National"
 subjects = [ "Protected Area", "Protected Landscape",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-15"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

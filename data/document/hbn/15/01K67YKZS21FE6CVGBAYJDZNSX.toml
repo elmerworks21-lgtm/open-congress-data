@@ -1,24 +1,28 @@
 id = "01K67YKZS21FE6CVGBAYJDZNSX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04359"
+
+[meta]
 bill_number = 4359
 congress = 15
-canonical = "HBN-04359"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4359", "https://web.senate.gov.ph/lisdata/114779780!.pdf",]
 title = "ADMINISTRATIVE DISABILITY PENSION TO SENIOR VETERANS"
 long_title = "AN ACT PROVIDING FOR THE PAYMENT OF THE TOTAL ADMINISTRATIVE DISABILITY PENSION TO SENIOR VETERANS OF WARS AND MILITARY CAMPAIGNS"
 scope = "National"
 subjects = [ "Veterans",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-06-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/7/2011"
+date = "2011-06-07"
 
 [[committees]]
 name = "National Defense and Security"

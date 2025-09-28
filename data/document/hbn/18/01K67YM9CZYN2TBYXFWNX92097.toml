@@ -1,24 +1,28 @@
 id = "01K67YM9CZYN2TBYXFWNX92097"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07977"
+
+[meta]
 bill_number = 7977
 congress = 18
-canonical = "HBN-07977"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7977", "https://web.senate.gov.ph/lisdata/3406130863!.pdf",]
 title = "SIAY-KABASALAN WETLANDS ECOTOURISM ACT"
 long_title = "AN ACT DECLARING THE SIAY-KABASALAN WETLANDS IN THE MUNICIPALITIES OF SIAY AND KABASALAN, PROVINCE OF ZAMBOANGA SIBUGAY AN ECOTOURISM SITE, ESTABLISHING THE SIAY-KABASALAN WETLANDS ECOTOURISM COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism (Ecotourism Zone", "Ecotourism Site)",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-12-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-09"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/9/2020"
+date = "2020-12-09"
 
 [[committees]]
 name = "Tourism"

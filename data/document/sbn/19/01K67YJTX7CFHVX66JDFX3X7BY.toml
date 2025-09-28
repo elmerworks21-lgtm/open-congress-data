@@ -1,8 +1,11 @@
 id = "01K67YJTX7CFHVX66JDFX3X7BY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00057"
+
+[meta]
 bill_number = 57
 congress = 19
-canonical = "SBN-00057"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-57", "https://web.senate.gov.ph/lisdata/3776034201!.pdf",]
 title = "INCREASING THE BENEFITS OF BARANGAY OFFICIALS"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PARAGRAPH (A), SECTION 393, CHAPTER IV, TITLE I BO
 scope = "National"
 subjects = [ "Barangay Officials", "Benefits and Incentives", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Local Government"

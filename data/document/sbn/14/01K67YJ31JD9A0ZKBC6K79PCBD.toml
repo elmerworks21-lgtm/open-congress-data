@@ -1,8 +1,11 @@
 id = "01K67YJ31JD9A0ZKBC6K79PCBD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03102"
+
+[meta]
 bill_number = 3102
 congress = 14
-canonical = "SBN-03102"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3102", "https://web.senate.gov.ph/lisdata/104079290!.pdf",]
 title = "MAINSTREAMING AMBLYOPIA ACT OF 2009"
 date_filed = "2009-02-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A COMPREHENSIVE INFORMATION CAMPAIGN ON AMBLYO
 scope = "National"
 subjects = [ "R.A.No. 9288 (Newborn Screening Act)", "Amblyopia",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-24"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-25"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/25/2009"
+date = "2009-02-25"
 
 [[committees]]
 name = "Health and Demography"

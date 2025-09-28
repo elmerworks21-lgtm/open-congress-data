@@ -1,8 +1,11 @@
 id = "01K67YJPTWM4YE2R30T9KDCCJR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00668"
+
+[meta]
 bill_number = 668
 congress = 18
-canonical = "SBN-00668"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-668", "https://web.senate.gov.ph/lisdata/3103227929!.pdf",]
 title = "GRADUATION LEGACY FOR THE ENVIRONMENT ACT OF 2019"
 date_filed = "2019-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL GRADUATING ELEMENTARY, HIGH SCHOOL AND COLLEG
 scope = "National"
 subjects = [ "Graduating Students", "Tree Planting/Cutting/Burning", "Legacy",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

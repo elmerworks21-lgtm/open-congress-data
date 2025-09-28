@@ -1,24 +1,28 @@
 id = "01K67YMDR8A7G2J4P3XM7MDHAN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10691"
+
+[meta]
 bill_number = 10691
 congress = 19
-canonical = "HBN-10691"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10691", "https://web.senate.gov.ph/lisdata/4471440691!.pdf",]
 title = "PROHIBITING AND PENALIZING THE UNAUTHORIZED PRACTICE OF LAW AND OTHER RELATED ACTS"
 long_title = "AN ACT PROHIBITING AND PENALIZING THE UNAUTHORIZED PRACTICE OF LAW AND OTHER RELATED ACTS"
 scope = "National"
 subjects = [ "Unauthorized Practice of Law",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-17"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2024"
+date = "2024-09-17"
 
 [[committees]]
 name = "Justice and Human Rights"

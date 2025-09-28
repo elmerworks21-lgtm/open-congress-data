@@ -1,8 +1,11 @@
 id = "01K67YK07TYBVD4KH6QD536X6D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00742"
+
+[meta]
 bill_number = 742
 congress = 20
-canonical = "SBN-00742"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-742", "https://web.senate.gov.ph/lisdata/4728043280!.pdf",]
 title = "DELIVERY RIDERS PROTECTION ACT"
 date_filed = "2025-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING MEASURES TO PROTECT INDIVIDUALS ENGAGED IN FOOD G
 scope = "National"
 subjects = [ "Delivery Riders Protection",]
 authors_raw = "Ejercito, Jv"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-21"
 action = "Introduced by Senator JV EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YCNHGCQ15PA4FNCRW1KAZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00313"
+
+[meta]
 bill_number = 313
 congress = 13
-canonical = "SBN-00313"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-313", "https://web.senate.gov.ph/lisdata/1470765!.pdf",]
 title = "ADDITIONAL TEACHER'S INSURANCE ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING ADDITIONAL INSURANCE BENEFITS TO ALL PUBLIC SCHOOL
 scope = "National"
 subjects = [ "Teachers (Additional Insurance Benefits)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

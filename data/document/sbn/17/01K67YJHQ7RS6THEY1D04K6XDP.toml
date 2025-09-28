@@ -1,8 +1,11 @@
 id = "01K67YJHQ7RS6THEY1D04K6XDP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00826"
+
+[meta]
 bill_number = 826
 congress = 17
-canonical = "SBN-00826"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-826", "https://web.senate.gov.ph/lisdata/2436721015!.pdf",]
 title = "EXCLUDING OVERTIME PAY FROM COMPUTATION OF TAXABLE INCOME"
 date_filed = "2016-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXCLUDING OVERTIME PAY FROM THE COMPUTATION OF TAXABLE INCO
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income Tax)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Ways and Means"

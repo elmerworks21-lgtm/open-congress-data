@@ -1,24 +1,28 @@
 id = "01K67YM6NMYPTGB3RM9RY9J7K1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08801"
+
+[meta]
 bill_number = 8801
 congress = 17
-canonical = "HBN-08801"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8801", "https://web.senate.gov.ph/lisdata/2937525975!.pdf",]
 title = "SIARGAO ISLAND MEDICAL CENTER ACT"
 long_title = "AN ACT CONVERTING THE SIARGAO DISTRICT HOSPITAL IN THE PROVINCE OF SURIGAO DEL NORTE INTO A LEVEL 3 GENERAL HOSPITAL TO BE KNOWN AS THE SIARGAO ISLAND MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/23/2019"
+date = "2019-01-23"
 
 [[committees]]
 name = "Health and Demography"

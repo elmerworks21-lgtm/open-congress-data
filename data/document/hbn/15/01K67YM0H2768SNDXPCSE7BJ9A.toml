@@ -1,26 +1,30 @@
 id = "01K67YM0H2768SNDXPCSE7BJ9A"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06796"
+
+[meta]
 bill_number = 6796
 congress = 15
-canonical = "HBN-06796"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6796", "https://web.senate.gov.ph/lisdata/1570013002!.pdf",]
 title = "FLORENCIO V. BERNABE SR. MEMORIAL HOSPITAL"
 long_title = "AN ACT UPGRADING THE SERVICE CAPACITY OF THE FLORENCIO V. BERNABE SR. MEMORIAL HOSPITAL IN THE CITY OF PARANAQUE, METRO MANILA FROM FIRST LEVEL TO SECOND LEVEL COMMUNITY HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Upgrading",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

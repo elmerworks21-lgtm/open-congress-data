@@ -1,24 +1,28 @@
 id = "01K67YKX36N0FP156G9X1Y9PE4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06946"
+
+[meta]
 bill_number = 6946
 congress = 14
-canonical = "HBN-06946"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6946", "https://web.senate.gov.ph/lisdata/1322711799!.pdf",]
 title = "SUBSIDIARY IMPRISONMENT"
 long_title = "AN ACT ADJUSTING THE RATE OF SUBSIDIARY IMPRISONMENT TO ONE DAY FOR AN AMOUNT EQUIVALENT TO THE DAILY MINIMUM WAGE OF A LABORER IN THE NATIONAL CAPITAL REGION, AMENDING FOR THE PURPOSE ARTICLE 39 OF THE REVISED PENAL CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Revised Penal Code (RA 3815; Amendments)", "Subsidiary Imprisonment",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-12-10"
 action = "Filed in the Senate requesting for concurrence by Representatives JOSEPH, EMILIO A. ABAYA, ISIDRO S. RODRIGUEZ JR., NARCISO D. SANTIAGO III, GIORGIDI B. AGGABAO, NEPTALI M. GONZALES II and DEL R. DE GUZMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/14/2009"
+date = "2009-12-14"
 
 [[committees]]
 name = "Justice and Human Rights"

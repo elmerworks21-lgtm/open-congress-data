@@ -1,8 +1,11 @@
 id = "01K67YJTX5XZ9NQ30RHNJ7B3GF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00054"
+
+[meta]
 bill_number = 54
 congress = 19
-canonical = "SBN-00054"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-54", "https://web.senate.gov.ph/lisdata/3775734198!.pdf",]
 title = "REDUCING THE COST OF BUSINESS COMPLIANCE FOR MICRO, SMALL AND MEDIUM ENTERPRISES"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING BUSINESS GROWTH AND RECOVERY BY REDUCING THE COST
 scope = "National"
 subjects = [ "Micro, Small and Medium Enterprises (Msmes)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on WAYS AND MEANS and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Ways and Means"

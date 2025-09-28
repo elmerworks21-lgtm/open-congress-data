@@ -1,8 +1,11 @@
 id = "01K67YJCCWEG354KXB900G470A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00171"
+
+[meta]
 bill_number = 171
 congress = 16
-canonical = "SBN-00171"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-171", "https://web.senate.gov.ph/lisdata/1599713234!.pdf",]
 title = "NATIONAL MANGROVE FOREST PROTECTION AND PRESERVATION ACT OF 2013"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PRESERVATION, REFORESTATION, AFFORESTATIO
 scope = "National"
 subjects = [ "Mangrove Forests",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator SERGIO R. OSMENA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-29"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2013"
+date = "2013-07-29"
 
 [[committees]]
 name = "Environment and Natural Resources"

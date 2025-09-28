@@ -1,8 +1,11 @@
 id = "01K67YCP2PP91PZDRJJ5RZF111"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01263"
+
+[meta]
 bill_number = 1263
 congress = 13
-canonical = "SBN-01263"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1263", "https://web.senate.gov.ph/lisdata/24741842!.pdf",]
 title = "PENALIZING DESTRUCTION OF VITAL EVIDENCE FOR HEINOUS CRIMES"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING A HIGHER PENALTY FOR PERSONS IN AUTHORITY AS AC
 scope = "National"
 subjects = [ "Heinous Crimes (Vital Evidence)", "Revised Penal Code (Art. 19)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and PUBLIC ORDER AND ILLEGAL DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Justice and Human Rights"

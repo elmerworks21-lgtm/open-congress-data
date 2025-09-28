@@ -1,8 +1,11 @@
 id = "01K67YJCMJH3EYQ65THSFJ3Z7P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00546"
+
+[meta]
 bill_number = 546
 congress = 16
-canonical = "SBN-00546"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-546", "https://web.senate.gov.ph/lisdata/1645113691!.pdf",]
 title = "GENETICALLY ENGINEERED FOOD RIGHT TO KNOW ACT"
 date_filed = "2013-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE THE FOOD, MEAT AND POULTRY PRODUCTS THAT CONTAIN
 scope = "National"
 subjects = [ "Genetically-Modified Organisms (GMO)", "Food Products Label",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2013"
+date = "2013-08-06"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

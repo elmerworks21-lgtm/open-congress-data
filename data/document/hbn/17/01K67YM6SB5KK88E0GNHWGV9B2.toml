@@ -1,24 +1,28 @@
 id = "01K67YM6SB5KK88E0GNHWGV9B2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09087"
+
+[meta]
 bill_number = 9087
 congress = 17
-canonical = "HBN-09087"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-9087", "https://web.senate.gov.ph/lisdata/3000926724!.pdf",]
 title = "RELIEF GOODS FREE TRANSPORTATION ACT"
 long_title = "AN ACT PROVIDING FOR FREE FREIGHT SERVICES IN THE TRANSPORTATION OF RELIEF GOODS TO CALAMITY-STRICKEN AREAS"
 scope = "National"
 subjects = [ "Calamity", "Disaster",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Public Services"

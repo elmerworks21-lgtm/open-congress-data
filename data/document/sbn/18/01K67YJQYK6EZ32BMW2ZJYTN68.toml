@@ -1,8 +1,11 @@
 id = "01K67YJQYK6EZ32BMW2ZJYTN68"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02185"
+
+[meta]
 bill_number = 2185
 congress = 18
-canonical = "SBN-02185"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2185", "https://web.senate.gov.ph/lisdata/3500531832!.pdf",]
 title = "REGISTRY OF PROFESSIONALS AND SKILLED WORKERS ACT"
 date_filed = "2021-05-12"
@@ -10,37 +13,38 @@ long_title = "AN ACT MANDATING ALL BARANGAYS TO CREATE A REGISTRY OF PROFESSIONA
 scope = "National"
 subjects = [ "Skilled Workers", "Registry of Professional/Skilled Workers",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2021-05-12"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-18"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-28"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-14"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and LOCAL GOVERNMENT per Committee Report No. 401, recommending that it be substituted by SBN-2464;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-14"
 action = "SUBSTITUTED BY SBN-2464, UNDER COMMITTEE REPORT 401."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/14/2021"
+date = "2021-12-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

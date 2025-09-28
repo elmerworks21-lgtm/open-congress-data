@@ -1,8 +1,11 @@
 id = "01K67YJHTAMP0JXEPNWDA5P4V4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00973"
+
+[meta]
 bill_number = 973
 congress = 17
-canonical = "SBN-00973"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-973", "https://web.senate.gov.ph/lisdata/2453121113!.pdf",]
 title = "COMPREHENSIVE NURSING LAW OF 2016"
 date_filed = "2016-08-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE NURSING LAW TOWARDS QUALITY H
 scope = "National"
 subjects = [ "Philippine Nursing Act", "Nurses",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-03"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

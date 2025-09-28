@@ -1,24 +1,28 @@
 id = "01K67YM609CFS65PSZ9S2F57PD"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05748"
+
+[meta]
 bill_number = 5748
 congress = 17
-canonical = "HBN-05748"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5748", "https://web.senate.gov.ph/lisdata/2646622757!.pdf",]
 title = "MUNICIPALITY OF JOVELLAR IN ALBAY, AN ECOTOURISM ZONE"
 long_title = "AN ACT DECLARING THE MUNICIPALITY OF JOVELLAR IN THE PROVINCE OF ALBAY AN ECOTOURISM ZONE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism (Ecotourism Zone", "Ecotourism Site)",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2017"
+date = "2017-08-15"
 
 [[committees]]
 name = "Environment and Natural Resources"

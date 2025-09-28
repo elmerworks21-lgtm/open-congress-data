@@ -1,8 +1,11 @@
 id = "01K67YCNPSZDVYH84FHTHJJNZ7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00607"
+
+[meta]
 bill_number = 607
 congress = 13
-canonical = "SBN-00607"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-607", "https://web.senate.gov.ph/lisdata/17931168!.pdf",]
 title = "DETENTION OF PATIENTS IN HOSPITALS FOR NON-PAYMENT BAN"
 date_filed = "2004-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROHIBITING THE DETENTION OF LIVE OR DEAD PATIENTS IN HOSPI
 scope = "National"
 subjects = [ "Patients Detention Ban (Live or Dead)", "Hospital Bills Non-Payment",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-16"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT per Committee Report No. 302, recommending that it be substituted by HBN-68;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-07"
 action = "CONSIDERED IN HBN-68."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/7/2007"
+date = "2007-02-07"
 
 [[committees]]
 name = "Health and Demography"

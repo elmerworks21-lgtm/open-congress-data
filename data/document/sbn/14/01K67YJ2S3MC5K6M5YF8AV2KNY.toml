@@ -1,8 +1,11 @@
 id = "01K67YJ2S3MC5K6M5YF8AV2KNY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02724"
+
+[meta]
 bill_number = 2724
 congress = 14
-canonical = "SBN-02724"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2724", "https://web.senate.gov.ph/lisdata/92098323!.pdf",]
 title = "KABACAN REGIONAL TRIAL COURT (NORTH COTABATO)"
 date_filed = "2008-11-10"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING ONE ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT 
 scope = "Local"
 subjects = [ "Courts (Regional Trial Courts)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-10"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-12"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2008"
+date = "2008-11-12"
 
 [[committees]]
 name = "Justice and Human Rights"

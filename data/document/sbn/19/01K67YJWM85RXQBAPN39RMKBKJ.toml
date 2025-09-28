@@ -1,8 +1,11 @@
 id = "01K67YJWM85RXQBAPN39RMKBKJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02447"
+
+[meta]
 bill_number = 2447
 congress = 19
-canonical = "SBN-02447"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2447", "https://web.senate.gov.ph/lisdata/4275938898!.pdf",]
 title = "HUMAN RIGHTS DEFENDERS PROTECTION ACT"
 date_filed = "2023-09-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE RIGHTS AND FUNDAMENTAL FREEDOMS OF HUMAN RIGHT
 scope = "National"
 subjects = [ "Human Rights Defenders Protection",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-21"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-25"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/25/2023"
+date = "2023-09-25"
 
 [[committees]]
 name = "Justice and Human Rights"

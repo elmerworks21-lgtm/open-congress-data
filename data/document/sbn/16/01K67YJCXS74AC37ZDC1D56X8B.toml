@@ -1,8 +1,11 @@
 id = "01K67YJCXS74AC37ZDC1D56X8B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00992"
+
+[meta]
 bill_number = 992
 congress = 16
-canonical = "SBN-00992"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-992", "https://web.senate.gov.ph/lisdata/1702614243!.pdf",]
 title = "PHILIPPINE COMMISSION ON AUTISM SPECTRUM DISORDERS ACT"
 date_filed = "2013-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE COMMISSION ON AUTISM SPECTRUM DISOR
 scope = "National"
 subjects = [ "Autism",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-22"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Health and Demography"

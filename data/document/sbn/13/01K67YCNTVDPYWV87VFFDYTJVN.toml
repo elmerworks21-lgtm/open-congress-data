@@ -1,8 +1,11 @@
 id = "01K67YCNTVDPYWV87VFFDYTJVN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00843"
+
+[meta]
 bill_number = 843
 congress = 13
-canonical = "SBN-00843"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-843", "https://web.senate.gov.ph/lisdata/20411523!.pdf",]
 title = "REVISED CHARTER OF THE COOPERATIVE DEVELOPMENT AUTHORITY"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REVISING REPUBLIC ACT NUMBERED 6939, CREATING THE COOPERATI
 scope = "National"
 subjects = [ "Cooperative Development Authority", "RA No. 6939, Revision",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on COOPERATIVES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Cooperatives"

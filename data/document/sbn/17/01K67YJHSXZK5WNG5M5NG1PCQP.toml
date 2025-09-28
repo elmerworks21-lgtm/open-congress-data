@@ -1,8 +1,11 @@
 id = "01K67YJHSXZK5WNG5M5NG1PCQP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00952"
+
+[meta]
 bill_number = 952
 congress = 17
-canonical = "SBN-00952"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-952", "https://web.senate.gov.ph/lisdata/2451021096!.pdf",]
 title = "DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT ACT"
 date_filed = "2016-08-01"
@@ -10,41 +13,42 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (D
 scope = "National"
 subjects = [ "Department of Housing and Urban Development",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-04"
 action = "Returned and submitted jointly by the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 162, recommending that it be substituted by SBN-1578;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-05"
 action = "SUBSTITUTED BY SBN-1578 UNDER COMMITTEE REPORT NO. 162, WHICH BECAME R.A. NO. 11201 ON FEBRUARY 14, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/5/2017"
+date = "2017-09-05"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

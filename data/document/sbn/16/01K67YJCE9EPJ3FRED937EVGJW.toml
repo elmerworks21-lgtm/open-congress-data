@@ -1,8 +1,11 @@
 id = "01K67YJCE9EPJ3FRED937EVGJW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00241"
+
+[meta]
 bill_number = 241
 congress = 16
-canonical = "SBN-00241"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-241", "https://web.senate.gov.ph/lisdata/1608913327!.pdf",]
 title = "COMPREHENSIVE AUTISM INTERVENTION ACT OF 2013"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A NATIONAL COMPREHENSIVE PROGRAM ON AUTISM AND 
 scope = "National"
 subjects = [ "Autism",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2013"
+date = "2013-07-30"
 
 [[committees]]
 name = "Health and Demography"

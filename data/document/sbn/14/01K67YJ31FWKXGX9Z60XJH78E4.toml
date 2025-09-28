@@ -1,8 +1,11 @@
 id = "01K67YJ31FWKXGX9Z60XJH78E4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03098"
+
+[meta]
 bill_number = 3098
 congress = 14
-canonical = "SBN-03098"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3098", "https://web.senate.gov.ph/lisdata/104049275!.pdf",]
 title = "EDUCATIONAL MATERIALS FOR INFLUENZA DISEASE EDUCATION"
 date_filed = "2009-02-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING PARENTS OF CHILDREN IN CERTAIN CHILD CARE SETTING
 scope = "National"
 subjects = [ "Children and Youth", "Influenza Vaccine Program",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-24"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-24"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/24/2009"
+date = "2009-02-24"
 
 [[committees]]
 name = "Health and Demography"

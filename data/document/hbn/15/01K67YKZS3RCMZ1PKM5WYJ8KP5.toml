@@ -1,24 +1,28 @@
 id = "01K67YKZS3RCMZ1PKM5WYJ8KP5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04368"
+
+[meta]
 bill_number = 4368
 congress = 15
-canonical = "HBN-04368"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4368", "https://web.senate.gov.ph/lisdata/1413211890!.pdf",]
 title = "DIVORCE OBTAINED IN ANOTHER COUNTRY"
 long_title = "AN ACT AMENDING EXECUTIVE ORDER NO. 209, OTHERWISE KNOWN AS THE FAMILY CODE OF THE PHILIPPINES, BY HARMONIZING SAID LAW WITH RECENT RULINGS OF THE SUPREME COURT OF THE PHILIPPINES ON DIVORCE OBTAINED BY THE ALIEN SPOUSE IN ANOTHER COUNTRY"
 scope = "National"
 subjects = [ "Family Code(E.O.No. 209)", "Divorce",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-09-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-09"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/9/2012"
+date = "2012-10-09"
 
 [[committees]]
 name = "Rules"

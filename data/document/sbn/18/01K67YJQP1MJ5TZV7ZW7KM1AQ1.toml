@@ -1,8 +1,11 @@
 id = "01K67YJQP1MJ5TZV7ZW7KM1AQ1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01845"
+
+[meta]
 bill_number = 1845
 congress = 18
-canonical = "SBN-01845"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1845", "https://web.senate.gov.ph/lisdata/3359030445!.pdf",]
 title = "FRONTLINE HEALTH WORKERS WELFARE ACT OF 2020"
 date_filed = "2020-09-23"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE PROTECTION AND ADVANCING THE WELFARE OF M
 scope = "National"
 subjects = [ "Frontliners", "Healthcare Workers",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-23"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-11-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/23/2020"
+date = "2020-09-23"
 
 [[committees]]
 name = "Health and Demography"

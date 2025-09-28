@@ -1,24 +1,28 @@
 id = "01K67YM2SDK0G72NR47S0Y0NX0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04349"
+
+[meta]
 bill_number = 4349
 congress = 16
-canonical = "HBN-04349"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4349", "https://web.senate.gov.ph/lisdata/1915716282!.pdf",]
 title = "WELFAREVILLE PROPERTY"
 long_title = "AN ACT DECLARING CERTAIN PORTIONS OF THE WELFAREVILLE PROPERTY LOCATED IN THE CITY OF MANDALUYONG OPEN FOR DISPOSITION TO BONA FIDE RESIDENTS WITHOUT PUBLIC BIDDING, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 5260"
 scope = "Local"
 subjects = [ "Welfareville",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-26"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/26/2014"
+date = "2014-05-26"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

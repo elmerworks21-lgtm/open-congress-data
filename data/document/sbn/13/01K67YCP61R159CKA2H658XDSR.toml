@@ -1,8 +1,11 @@
 id = "01K67YCP61R159CKA2H658XDSR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01441"
+
+[meta]
 bill_number = 1441
 congress = 13
-canonical = "SBN-01441"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1441", "https://web.senate.gov.ph/lisdata/26562020!.pdf",]
 title = "REVISION OF THE SCHOOL CALENDAR"
 date_filed = "2004-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT REVISING THE SCHOOL CALENDAR, AMENDING FOR THE PURPOSE SECT
 scope = "National"
 subjects = [ "School Calendar, Revision (September)", "Administrative Code of 1987/E.O.No. 22",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-15"
 action = "Introduced by Senator DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Education, Arts and Culture"

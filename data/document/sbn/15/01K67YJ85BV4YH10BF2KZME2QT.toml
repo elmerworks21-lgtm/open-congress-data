@@ -1,8 +1,11 @@
 id = "01K67YJ85BV4YH10BF2KZME2QT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01468"
+
+[meta]
 bill_number = 1468
 congress = 15
-canonical = "SBN-01468"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1468", "https://web.senate.gov.ph/lisdata/89837526!.pdf",]
 title = "LABOR CODE (ARTICLES 223 AND 224)"
 date_filed = "2010-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING RELIEFS FROM AN EXECUTION OF FINAL DECISIONS 
 scope = "National"
 subjects = [ "National Labor Relations Commission (NLRC)", "Labor Code of the Philippines (P.D.No. 442; Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-01"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2010"
+date = "2010-09-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

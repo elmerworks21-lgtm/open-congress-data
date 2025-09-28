@@ -1,8 +1,11 @@
 id = "01K67YCNR23FVDAV2F0DAFYRBM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00683"
+
+[meta]
 bill_number = 683
 congress = 13
-canonical = "SBN-00683"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-683", "https://web.senate.gov.ph/lisdata/18691244!.pdf",]
 title = "HUMAN RIGHTS COURSE FOR ALL AFP/PNP/NBI PERSONNEL"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MANDATORY COURSE IN HUMAN RIGHTS FOR ALL OF
 scope = "National"
 subjects = [ "Human Rights Course (Law Enforcement)", "Law Enforcement Agencies (AFP/PNP/Nbi)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; PUBLIC ORDER AND ILLEGAL DRUGS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "National Defense and Security"

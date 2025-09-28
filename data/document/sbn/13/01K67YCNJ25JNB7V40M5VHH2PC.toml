@@ -1,8 +1,11 @@
 id = "01K67YCNJ25JNB7V40M5VHH2PC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00344"
+
+[meta]
 bill_number = 344
 congress = 13
-canonical = "SBN-00344"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-344", "https://web.senate.gov.ph/lisdata/1501796!.pdf",]
 title = "REALTY INSTALLMENT BUYERS PROTECTION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE ADDITIONAL PROTECTIONS TO BUYERS OF REAL ESTATE 
 scope = "National"
 subjects = [ "Real Estate Buyers Protection (RA 6552)", "Realty Installment Buyers Protection", "Housing (Misrepresentation)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

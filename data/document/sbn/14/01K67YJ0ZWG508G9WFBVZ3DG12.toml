@@ -1,8 +1,11 @@
 id = "01K67YJ0ZWG508G9WFBVZ3DG12"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00380"
+
+[meta]
 bill_number = 380
 congress = 14
-canonical = "SBN-00380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-380", "https://web.senate.gov.ph/lisdata/45473901!.pdf",]
 title = "WORKING TIME FLEXIBILIZATION (PRIVATE SECTOR)"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A WORKING TIME FLEXIBILIZATION IN THE PRIVATE
 scope = "National"
 subjects = [ "Working Time Flexibilization (Private Sector)", "Labor Code (Pd 442)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-13"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2007"
+date = "2007-08-13"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

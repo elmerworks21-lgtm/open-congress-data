@@ -1,8 +1,11 @@
 id = "01K67YJ1NZNEAMWSX7SSNWGXN4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01459"
+
+[meta]
 bill_number = 1459
 congress = 14
-canonical = "SBN-01459"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1459", "https://web.senate.gov.ph/lisdata/57705129!.pdf",]
 title = "CLARIFYING PROJECT EMPLOYMENT AND REQUIREMENT FOR REHIRING"
 date_filed = "2007-08-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 442, KNOWN AS THE LABOR CO
 scope = "National"
 subjects = [ "Labor Code (Pd 442)", "Private Sector", "Project Employment",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-08-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-17"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2007"
+date = "2007-09-17"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

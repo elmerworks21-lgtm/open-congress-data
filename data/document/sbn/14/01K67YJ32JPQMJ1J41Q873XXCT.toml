@@ -1,8 +1,11 @@
 id = "01K67YJ32JPQMJ1J41Q873XXCT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03147"
+
+[meta]
 bill_number = 3147
 congress = 14
-canonical = "SBN-03147"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3147", "https://web.senate.gov.ph/lisdata/107419496!.pdf",]
 title = "UNIFORM FRANCHISE TAX"
 date_filed = "2009-04-01"
@@ -10,25 +13,26 @@ long_title = "AN ACT IMPOSING A UNIFORM FRANCHISE TAX ON DISTRIBUTION UTILITIES 
 scope = "National"
 subjects = [ "Franchise Tax", "Electricity",]
 authors_raw = "Enrile, Juan Ponce, Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2009-04-01"
 action = "Introduced by Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-14"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS and ENERGY;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-21"
 action = "Senator PANFILO M. LACSON was made a coauthor;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-21"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/14/2009"
+date = "2009-04-14"
 
 [[committees]]
 name = "Ways and Means"

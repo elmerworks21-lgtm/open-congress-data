@@ -1,8 +1,11 @@
 id = "01K67YCNMPTSPBFWZHC606KHEH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00488"
+
+[meta]
 bill_number = 488
 congress = 13
-canonical = "SBN-00488"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-488", "https://web.senate.gov.ph/lisdata/1646947!.pdf",]
 title = "DEPARTMENT OF PRIMARY INDUSTRIES CHARTER"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF PRIMARY INDUSTRIES, PROVIDING FU
 scope = "National"
 subjects = [ "Department of Primary Studies (Creation)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; TRADE AND COMMERCE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

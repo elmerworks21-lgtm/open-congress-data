@@ -1,8 +1,11 @@
 id = "01K67YJ1JNENWWB21VZYSZ8G86"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01301"
+
+[meta]
 bill_number = 1301
 congress = 14
-canonical = "SBN-01301"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1301", "https://web.senate.gov.ph/lisdata/56014960!.pdf",]
 title = "CELL PHONE SUBSCRIBER PROTECTION"
 date_filed = "2007-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH MINIMUM STANDARDS REGARDING THE QUALITY OF WIR
 scope = "National"
 subjects = [ "Cellphone Subscriber Protection", "Cellular Phones/Cellphones/Mobile Phones",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2007"
+date = "2007-09-11"
 
 [[committees]]
 name = "Public Services"

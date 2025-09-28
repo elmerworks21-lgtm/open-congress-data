@@ -1,8 +1,11 @@
 id = "01K67YJV204T2A1Q2RTH14MTA3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00269"
+
+[meta]
 bill_number = 269
 congress = 19
-canonical = "SBN-00269"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-269", "https://web.senate.gov.ph/lisdata/3800834450!.pdf",]
 title = "REGIONAL TERTIARY CARE HOSPITALS ACT"
 date_filed = "2022-07-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE ESTABLISHMENT OF TERTIARY CARE HOSPI
 scope = "National"
 subjects = [ "Tertiary Care Hospital", "Hospitals, Establishment",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Health and Demography"

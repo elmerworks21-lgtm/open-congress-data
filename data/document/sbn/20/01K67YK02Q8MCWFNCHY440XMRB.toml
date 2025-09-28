@@ -1,8 +1,11 @@
 id = "01K67YK02Q8MCWFNCHY440XMRB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00470"
+
+[meta]
 bill_number = 470
 congress = 20
-canonical = "SBN-00470"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-470", "https://web.senate.gov.ph/lisdata/4698942991!.pdf",]
 title = "HUSTISYA PARA SA LAHAT ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO EXPAND FREE LEGAL ASSISTANCE TO ALL INDIGENT FILIPINOS, 
 scope = "National"
 subjects = [ "Free Legal Assistance", "Hustisya Para Sa Lahat",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Justice and Human Rights"

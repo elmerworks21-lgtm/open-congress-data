@@ -1,8 +1,11 @@
 id = "01K67YJ272KPQAYGNFYKM6YAFB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01952"
+
+[meta]
 bill_number = 1952
 congress = 14
-canonical = "SBN-01952"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1952", "https://web.senate.gov.ph/lisdata/65705817!.pdf",]
 title = "ARBOR DAY ACT OF 2007"
 date_filed = "2007-12-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUTHORIZING THE LOCAL GOVERNMENT UNITS TO DECLARE A DAY DED
 scope = "National"
 subjects = [ "Tree Planting",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-12-10"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-11"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/11/2007"
+date = "2007-12-11"
 
 [[committees]]
 name = "Environment and Natural Resources"

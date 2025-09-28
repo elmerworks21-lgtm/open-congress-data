@@ -1,44 +1,48 @@
 id = "01K67YM0JG7PWXBWZ4KH0VA196"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06887"
+
+[meta]
 bill_number = 6887
 congress = 15
-canonical = "HBN-06887"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6887", "https://web.senate.gov.ph/lisdata/1522512886!.pdf",]
 title = "BUREAU OF CORRECTIONS (BUCOR)"
 long_title = "AN ACT STRENGTHENING THE BUREAU OF CORRECTIONS (BUCOR) AND PROVIDING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Bureau of Corrections (Bucor)",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Senate concurred with HBN-6887;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-01"
 action = "Enrolled copies of the consolidated version of HBN-6887 and SBN-3335, received by the Senate for the signature of Acting Senate Secretary Edwin B. Bellen and Senate President Juan Ponce Enrile;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-18"
 action = "Enrolled copies of the consolidated version of HBN-6887 and SBN-3335, sent back to the House of Representatives, already signed by Acting Senate Secretary Edwin B. Bellen and Senate President Juan Ponce Enrile;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-05-24"
 action = "Approved and signed into law, in consolidation with SBN-3335, by the President of the Philippines, His Excellency President Benigno S. Aquino III, and became"
 
-[[legislative_history]]
+[[history]]
 date = "2013-05-24"
 action = "REPUBLIC ACT NO. 10575."
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "5/24/2013"
+date = "2013-05-24"
 
 [[committees]]
 name = "Rules"

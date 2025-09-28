@@ -1,8 +1,11 @@
 id = "01K67YJWM4ZQQC2C4AR3N1E7KT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02442"
+
+[meta]
 bill_number = 2442
 congress = 19
-canonical = "SBN-02442"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2442", "https://web.senate.gov.ph/lisdata/4270539885!.pdf",]
 title = "PHILIPPINE ENTREPRENEURS ACADEMY ACT"
 date_filed = "2023-09-14"
@@ -10,37 +13,38 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE ENTREPRENEURS' ACADEMY, APPROPR
 scope = "National"
 subjects = [ "Philippine Entrepreneurs Academy",]
 authors_raw = "Lapid, Manuel \"Lito\" M., Revilla Jr., Ramon Bong, Villar, Mark A., Villar, Cynthia A., Escudero, Francis G., Angara, Sonny, Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-14"
 action = "Prepared and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, TRADE, COMMERCE AND ENTREPRENEURSHIP, WAYS AND MEANS and FINANCE with Senators MANUEL 'LITO' M. LAPID, RAMON BONG REVILLA JR., MARK A. VILLAR, CYNTHIA A. VILLAR, FRANCIS G. ESCUDERO and SONNY ANGARA as authors per Committee Report No. 123, recommending its approval in substitution of SBNos. 1351,1628, 2090, and 2229, taking into consideration HBN-6473;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-18"
 action = "Sponsor: Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-20"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-20"
 action = "Sponsorship speech delivered by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-20"
 action = "Co-sponsorship speech of Senators MANUEL 'LITO' M. LAPID, RAMON BONG REVILLA JR., MARK A. VILLAR, CYNTHIA A. VILLAR and JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Letter from Senator WIN GATCHALIAN dated September 11, 2024, conveying his intention to be co-author of SBN-2442, received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "9/20/2023"
+date = "2023-09-20"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

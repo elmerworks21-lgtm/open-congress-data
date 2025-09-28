@@ -1,8 +1,11 @@
 id = "01K67YCPMR37Q0SJRGDK01HFF4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02189"
+
+[meta]
 bill_number = 2189
 congress = 13
-canonical = "SBN-02189"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2189", "https://web.senate.gov.ph/lisdata/44233610!.pdf",]
 title = "PEOPLE'S INITIATIVE TO AMEND THE CONSTITUTION ACT OF 2006"
 date_filed = "2006-01-16"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR PEOPLE'S INITIATIVE TO AMEND THE CONSTITUTION
 scope = "National"
 subjects = [ "Peoples Initiative to Amend the Constitution",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2006-01-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2006"
+date = "2006-01-16"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

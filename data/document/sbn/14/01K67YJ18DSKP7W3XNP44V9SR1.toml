@@ -1,8 +1,11 @@
 id = "01K67YJ18DSKP7W3XNP44V9SR1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00801"
+
+[meta]
 bill_number = 801
 congress = 14
-canonical = "SBN-00801"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-801", "https://web.senate.gov.ph/lisdata/50254418!.pdf",]
 title = "COURT OF TAX APPEALS"
 date_filed = "2007-07-03"
@@ -10,33 +13,34 @@ long_title = "AN ACT ENLARGING THE ORGANIZATIONAL STRUCTURE OF THE COURT OF TAX 
 scope = "National"
 subjects = [ "Court of Tax Appeals",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Returned and submitted jointly by the Committee(s) on WAYS AND MEANS, JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 35, recommending that it be substituted by SBN-2009;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-29"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-29"
 action = "SUBSTITUTED BY SBN-2009, WHICH BECAME R.A.No. 9503."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/29/2008"
+date = "2008-01-29"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YK069DSJNYNAE95KD7MNR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00661"
+
+[meta]
 bill_number = 661
 congress = 20
-canonical = "SBN-00661"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-661", "https://web.senate.gov.ph/lisdata/4715943159!.pdf",]
 title = "CHURCH DECREED ANNULMENT ACT"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT RECOGNIZING THE CIVIL EFFECTS OF CHURCH DECREED ANNULMENT"
 scope = "National"
 subjects = [ "Annulment (Church)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

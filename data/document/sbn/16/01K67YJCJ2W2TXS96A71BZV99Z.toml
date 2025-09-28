@@ -1,8 +1,11 @@
 id = "01K67YJCJ2W2TXS96A71BZV99Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00430"
+
+[meta]
 bill_number = 430
 congress = 16
-canonical = "SBN-00430"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-430", "https://web.senate.gov.ph/lisdata/1633013569!.pdf",]
 title = "NATIONAL BUILDING CODE OF THE PHILIPPINES"
 date_filed = "2013-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING PRESIDENTIAL DECREE NO. 1096, THE NATIONAL BU
 scope = "National"
 subjects = [ "Building Code of the Philippines (R.A.No. 6541)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-04"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2013"
+date = "2013-08-05"
 
 [[committees]]
 name = "Public Works"

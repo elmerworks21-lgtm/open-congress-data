@@ -1,8 +1,11 @@
 id = "01K67YJJT22N50X2PFA17HPFDD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02171"
+
+[meta]
 bill_number = 2171
 congress = 17
-canonical = "SBN-02171"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2171", "https://web.senate.gov.ph/lisdata/2940726041!.pdf",]
 title = "PHILIPPINE WAREHOUSE RECEIPTS ACT OF 2019"
 date_filed = "2019-01-23"
@@ -10,33 +13,34 @@ long_title = "AN ACT STRENGTHENING AND MODERNIZING THE WAREHOUSE RECEIPTS LAW OF
 scope = "National"
 subjects = [ "Warehouse Receipts",]
 authors_raw = "Gatchalian, Sherwin T., Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-23"
 action = "Prepared and submitted jointly by the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE with Senator(s) SHERWIN T. GATCHALIAN and AQUILINO KOKO III L. PIMENTEL as author(s) per Committee Report No. 565, recommending its approval in substitution of SBN-1908;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Sponsor: Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Sponsorship speech of Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Cosponsorship speech of Senator SHERWIN T. GATCHALIAN;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "1/28/2019"
+date = "2019-01-28"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

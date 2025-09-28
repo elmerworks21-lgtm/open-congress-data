@@ -1,8 +1,11 @@
 id = "01K67YCPY0BV588FQMTJ2G523M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02620"
+
+[meta]
 bill_number = 2620
 congress = 13
-canonical = "SBN-02620"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2620", "https://web.senate.gov.ph/lisdata/71155823!.pdf",]
 title = "HOLIDAY: EIDUL ADHA"
 date_filed = "2007-02-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 26, CHAPTER 7 OF EXECUTIVE ORDER NO. 292, 
 scope = "National"
 subjects = [ "Holiday: Eidul Adha (Muslim National Holiday)", "Administrative Code of 1987",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-02-20"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-04"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/4/2007"
+date = "2007-06-04"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

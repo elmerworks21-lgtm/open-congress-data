@@ -1,8 +1,11 @@
 id = "01K67YJZY278AZH7SX4N72FXXJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00220"
+
+[meta]
 bill_number = 220
 congress = 20
-canonical = "SBN-00220"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-220", "https://web.senate.gov.ph/lisdata/4669742702!.pdf",]
 title = "THE AGRICULTURAL LAND CONVERSION BAN ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE CONVERSION OF IRRIGATED AND IRRIGABLE AGRIC
 scope = "National"
 subjects = [ "Agricultural Land Conversion",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator FRANCIS 'KIKO' PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and AGRICULTURE, FOOD AND AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Local Government"

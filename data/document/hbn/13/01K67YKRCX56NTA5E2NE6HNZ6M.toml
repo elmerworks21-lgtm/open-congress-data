@@ -1,24 +1,28 @@
 id = "01K67YKRCX56NTA5E2NE6HNZ6M"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05890"
+
+[meta]
 bill_number = 5890
 congress = 13
-canonical = "HBN-05890"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5890", "https://web.senate.gov.ph/lisdata/67585544!.pdf",]
 title = "FELIX O. ALFELOR NATIONAL HIGHWAY (CAMARINES SUR)"
 long_title = "AN ACT NAMING THE ROAD FROM BARANGAY BAGATANGKI, MUNICIPALITY OF MALINAO, PROVINCE OF ALBAY TO BARANGAY SAN RAMON, CITY OF IRIGA UP TO BARANGAY ANAWAN IN THE MUNICIPALITY OF OCAMPO, PROVINCE OF CAMARINES SUR AS THE FELIX O. ALFELOR NATIONAL HIGHWAY"
 scope = "Local"
 subjects = [ "Roads, Naming (Camarines Sur)", "Felix O. Alfelor National Highway (Camarines Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representative FELIX R. ALFELOR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Public Works"

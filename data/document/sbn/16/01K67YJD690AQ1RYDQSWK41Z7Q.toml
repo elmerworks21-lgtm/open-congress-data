@@ -1,8 +1,11 @@
 id = "01K67YJD690AQ1RYDQSWK41Z7Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01407"
+
+[meta]
 bill_number = 1407
 congress = 16
-canonical = "SBN-01407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1407", "https://web.senate.gov.ph/lisdata/1750314739!.pdf",]
 title = "SIARGAO ISLANDS PROTECTED LANDSCAPES AND SEASCAPES ACT OF 2013"
 date_filed = "2013-08-29"
@@ -10,33 +13,34 @@ long_title = "AN ACT DECLARING THE ISLANDS OF SIARGAO AND BUCAS GRANDE AS A PROT
 scope = "Local"
 subjects = [ "Protected Area", "Protected Landscape",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-29"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-17"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE per Committee Report No. 117, recommending that it be substituted by SBN-2712;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-18"
 action = "SUBSTITUTED BY SBN-2712 UNDER C.R. NO. 117."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/18/2015"
+date = "2015-03-18"
 
 [[committees]]
 name = "Environment and Natural Resources"

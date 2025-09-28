@@ -1,24 +1,28 @@
 id = "01K67YM92PEMDBYGJ4S2AE00TJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05875"
+
+[meta]
 bill_number = 5875
 congress = 18
-canonical = "HBN-05875"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-5875", "https://web.senate.gov.ph/lisdata/3225029097!.pdf",]
 title = "MINALABAC TESDA TRAINING AND ASSESSMENT CENTER"
 long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TRAINING AND ASSESSMENT CENTER IN THE MUNICIPALITY OF MINALABAC, PROVINCE OF CAMARINES SUR, TO BE KNOWN AS THE MINALABAC TESDA TRAINING AND ASSESSMENT CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Technical Education and Skills Development Authority (Tesda)",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-01-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2020"
+date = "2020-01-29"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

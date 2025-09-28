@@ -1,8 +1,11 @@
 id = "01K67YJD58C3NE6C79TA2N8RN3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01360"
+
+[meta]
 bill_number = 1360
 congress = 16
-canonical = "SBN-01360"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1360", "https://web.senate.gov.ph/lisdata/1745414689!.pdf",]
 title = "TOXIC SUBSTANCE AND NUCLEAR WASTES CONTROL ACT"
 date_filed = "2013-08-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO FURTHER PROTECT THE ENVIRONMENT FROM TOXIC SUBSTANCES AN
 scope = "National"
 subjects = [ "Hazardous", "Toxic", "Radioactive Wastes Management",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-28"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2013"
+date = "2013-09-03"
 
 [[committees]]
 name = "Health and Demography"

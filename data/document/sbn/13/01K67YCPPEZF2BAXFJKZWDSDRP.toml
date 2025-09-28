@@ -1,8 +1,11 @@
 id = "01K67YCPPEZF2BAXFJKZWDSDRP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02261"
+
+[meta]
 bill_number = 2261
 congress = 13
-canonical = "SBN-02261"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2261", "https://web.senate.gov.ph/lisdata/53554412!.pdf",]
 title = "INDIVIDUAL INCOME TAXATION"
 date_filed = "2006-06-05"
@@ -10,45 +13,46 @@ long_title = "AN ACT AMENDING SECTIONS 24, 31, 34, 35 AND 110 OF THE NATIONAL IN
 scope = "National"
 subjects = [ "Taxes (Individual Income Tax, Restructuring)",]
 authors_raw = "Flavier, Juan M., Ejercito Estrada, Luisa \"Loi\" P., Osmena III, Sergio R., Villar Jr., Manuel B., Ejercito-Estrada, Jinggoy P., Enrile, Juan Ponce, Recto, Ralph G., Biazon, Rodolfo G., Madrigal, M. A."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-05"
 action = "Prepared and submitted by the Committee on WAYS AND MEANS with Senator(s) JUAN M. FLAVIER, LUISA 'LOI' P. EJERCITO ESTRADA, SERGIO R. OSMENA III, MANUEL B. VILLAR JR., JINGGOY P. EJERCITO-ESTRADA, JUAN PONCE ENRILE, RALPH G. RECTO, RODOLFO G. BIAZON and M. A. MADRIGAL as author(s) per Committee Report No. 78, recommending its approval in substitution of HBN-5296, taking into consideration SBNos. 5, 72, 74, 446, 447, 794, 795, 879, 985, 1197, 1198, 1320, 1339, 1577, 1917, 2038 and 2210;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "Sponsor: Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-06"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-06"
 action = "Sponsorship speech of Senator(s) RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Interpellation of Senator(s) AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-25"
 action = "House of Representatives designated Representatives Lapus, Teves, Cua, Javier, Lagman, Villafuerte, Barbers, and Abad on the part of the Majority, and Representatives Zamora and Magtubo on the part of the Minority, as its conferees to the Bicameral Conference Committee in case of disagreement on SBN-2261 and HBN-5296 on June 7, 2006;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-06"
 action = "Interpellation of Senators Miriam Defensor Santiago and Pimentel, Jr.;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "6/6/2006"
+date = "2006-06-06"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJQV425N4BGNF92BZ9G87"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02047"
+
+[meta]
 bill_number = 2047
 congress = 18
-canonical = "SBN-02047"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2047", "https://web.senate.gov.ph/lisdata/3447331282!.pdf",]
 title = "LAGUNA LAKE DEVELOPMENT ACT OF 2021"
 date_filed = "2021-02-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REHABILITATE LAGUNA DE BAY AND TO STRENGTHEN THE LAGUNA 
 scope = "National"
 subjects = [ "Laguna Lake Development Authority (LLDA)",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-10"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-10"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/10/2021"
+date = "2021-02-10"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

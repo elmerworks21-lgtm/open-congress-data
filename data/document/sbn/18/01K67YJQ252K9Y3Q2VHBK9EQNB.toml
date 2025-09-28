@@ -1,8 +1,11 @@
 id = "01K67YJQ252K9Y3Q2VHBK9EQNB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01005"
+
+[meta]
 bill_number = 1005
 congress = 18
-canonical = "SBN-01005"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1005", "https://web.senate.gov.ph/lisdata/3142628324!.pdf",]
 title = "ABOLISHING THE PRINTING OF THE VOTERS INFORMATION SHEET"
 date_filed = "2019-09-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING SECTION 185 OF THE OMNIBUS ELECTION CODE, AS AMEND
 scope = "National"
 subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "Elections/Electoral Reforms",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
-[[legislative_history]]
+
+[[history]]
 date = "2019-09-03"
 action = "Introduced by Senator AQUILINO 'KOKO' III PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-18"
 action = "Returned and submitted by the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION per Committee Report No. 22, recommending that it be substituted by SBN-1174;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-19"
 action = "SUBSTITUTED BY SBN-1174 UNDER COMMITTEE REPORT NO. 22."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/19/2019"
+date = "2019-11-19"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

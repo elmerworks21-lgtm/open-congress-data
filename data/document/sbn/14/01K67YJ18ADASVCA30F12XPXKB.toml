@@ -1,8 +1,11 @@
 id = "01K67YJ18ADASVCA30F12XPXKB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00797"
+
+[meta]
 bill_number = 797
 congress = 14
-canonical = "SBN-00797"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-797", "https://web.senate.gov.ph/lisdata/50214414!.pdf",]
 title = "CENTER FOR ANIMAL VACCINE AND DISEASE DIAGNOSTIC RESEARCH AND DEVELOPMENT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF THE CENTER FOR ANIMAL VA
 scope = "National"
 subjects = [ "Animal Vaccine",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Agriculture and Food"

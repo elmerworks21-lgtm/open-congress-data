@@ -1,8 +1,11 @@
 id = "01K67YJ19MH73CKPWWV0KEM4QA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00859"
+
+[meta]
 bill_number = 859
 congress = 14
-canonical = "SBN-00859"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-859", "https://web.senate.gov.ph/lisdata/51034476!.pdf",]
 title = "COUNTERFEIT COINS"
 date_filed = "2007-07-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING ARTICLES 163, 164 AND 165 OF THE REVISED PENAL COD
 scope = "National"
 subjects = [ "Counterfeit Coins/Currencies", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Returned and submitted jointly by the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and JUSTICE AND HUMAN RIGHTS per Committee Report No. 736, recommending its approval without amendment, taking into consideration SBN-1366;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-11"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "11/11/2009"
+date = "2009-11-11"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

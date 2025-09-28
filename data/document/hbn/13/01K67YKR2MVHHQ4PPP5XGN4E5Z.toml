@@ -1,24 +1,28 @@
 id = "01K67YKR2MVHHQ4PPP5XGN4E5Z"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04915"
+
+[meta]
 bill_number = 4915
 congress = 13
-canonical = "HBN-04915"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4915", "https://web.senate.gov.ph/lisdata/46313783!.pdf",]
 title = "CATANDUANES STATE UNIVERSITY"
 long_title = "AN ACT CONVERTING THE CATANDUANES STATE COLLEGES IN THE PROVINCE OF CATANDUANES INTO A STATE UNIVERSITY TO BE KNOWN AS THE CATANDUANES STATE UNIVERSITY AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Catanduanes State University", "State Colleges/Universities (SCUS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-02-14"
 action = "Filed in the Senate requesting for concurrence by Representatives JOSEPH A. SANTIAGO, CYNTHIA A. VILLAR, HARLIN C. ABAYON, ROLANDO G. ANDAYA JR., JESLI A. LAPUS and HERMINIO C. TEVES as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-15"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/15/2006"
+date = "2006-02-15"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,24 +1,28 @@
 id = "01K67YKWTREHH3SJWTW67QM346"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05761"
+
+[meta]
 bill_number = 5761
 congress = 14
-canonical = "HBN-05761"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5761", "https://web.senate.gov.ph/lisdata/102549128!.pdf",]
 title = "SEVENTH LEGISLATIVE DISTRICT (PROVINCE OF CEBU)"
 long_title = "AN ACT CREATING AN ADDITIONAL LEGISLATIVE DISTRICT IN THE PROVINCE OF CEBU TO BE KNOWN AS THE SEVENTH LEGISLATIVE DISTRICT"
 scope = "Local"
 subjects = [ "Legislative District",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-09"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-05"
 action = "Filed in the Senate requesting for concurrence by Representatives PABLO P. GARCIA, EDUARDO R. GULLAS, PABLO JOHN 'PJ' F. GARCIA and BENHUR L. SALIMBANGON, et. al. as authors;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/9/2009"
+date = "2009-02-09"
 
 [[committees]]
 name = "Local Government"

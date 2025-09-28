@@ -1,8 +1,11 @@
 id = "01K67YK0EZG6MKP4WG3J8B90SQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01122"
+
+[meta]
 bill_number = 1122
 congress = 20
-canonical = "SBN-01122"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1122", "https://web.senate.gov.ph/lisdata/4767143686!.pdf",]
 title = "KASAMBAHAY SOCIAL ENTITLEMENTS AMNESTY ACT"
 date_filed = "2025-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CONDONATION OF PENALTIES FOR UNPAID SOCIA
 scope = "National"
 subjects = [ "Batas Kasambahay (R.A.No. 10361)", "Domestic Workers", "Condonation",]
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator WIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

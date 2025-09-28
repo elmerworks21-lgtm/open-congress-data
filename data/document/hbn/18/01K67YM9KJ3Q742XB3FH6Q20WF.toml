@@ -1,32 +1,36 @@
 id = "01K67YM9KJ3Q742XB3FH6Q20WF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08955"
+
+[meta]
 bill_number = 8955
 congress = 18
-canonical = "HBN-08955"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8955", "https://web.senate.gov.ph/lisdata/3483831673!.pdf",]
 title = "LAGUNA REGIONAL HOSPITAL"
 long_title = "AN ACT CONVERTING THE BAY DISTRICT HOSPITAL IN THE MUNICIPALITY OF BAY, PROVINCE OF LAGUNA INTO A GENERAL HOSPITAL, TO BE KNOWN AS THE LAGUNA REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-12"
 action = "Introduced by Representatives RUTH MARIANO-HERNANDEZ and JOY MYRA S. TAMBUNTING;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-04-12"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Health and Demography"

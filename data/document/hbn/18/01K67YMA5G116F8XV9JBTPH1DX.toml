@@ -1,24 +1,28 @@
 id = "01K67YMA5G116F8XV9JBTPH1DX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10643"
+
+[meta]
 bill_number = 10643
 congress = 18
-canonical = "HBN-10643"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10643", "https://web.senate.gov.ph/lisdata/3728133651!.pdf",]
 title = "TAKLONG AND TANDOG GROUP OF ISLANDS NATURAL PARK ACT"
 long_title = "AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITY OF NUEVA VALENCIA IN THE PROVINCE OF GUIMARAS, A PROTECTED AREA, WITH THE CATEGORY OF NATURAL PARK UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE TAKLONG AND TANDOG GROUP OF ISLANDS NATURAL PARK, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Parks", "National Integrated Protected Areas System (Nipas), R.A.No. 7586", "Protected Area/Protected Landscape",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-02-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

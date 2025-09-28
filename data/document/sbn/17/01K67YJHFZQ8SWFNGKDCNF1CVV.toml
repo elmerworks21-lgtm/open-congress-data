@@ -1,8 +1,11 @@
 id = "01K67YJHFZQ8SWFNGKDCNF1CVV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00481"
+
+[meta]
 bill_number = 481
 congress = 17
-canonical = "SBN-00481"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-481", "https://web.senate.gov.ph/lisdata/2392120557!.pdf",]
 title = "GOVERNMENT TRANSPARENCY ACT OF 2016"
 date_filed = "2016-07-19"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROMOTING TRANSPARENCY IN GOVERNMENT BY ESTABLISHING A LOCA
 scope = "National"
 subjects = [ "Local Government Public Finance Website", "Accountability/Transparency",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Local Government"

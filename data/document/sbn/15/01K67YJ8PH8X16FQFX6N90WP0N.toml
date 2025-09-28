@@ -1,8 +1,11 @@
 id = "01K67YJ8PH8X16FQFX6N90WP0N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02333"
+
+[meta]
 bill_number = 2333
 congress = 15
-canonical = "SBN-02333"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2333", "https://web.senate.gov.ph/lisdata/100128529!.pdf",]
 title = "MEDICAL PAROLE ACT"
 date_filed = "2010-08-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR MEDICAL PAROLE TO QUALIFIED PRISONERS AND SET
 scope = "National"
 subjects = [ "Prisoners", "Inmates",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-21"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2010"
+date = "2010-09-21"
 
 [[committees]]
 name = "Justice and Human Rights"

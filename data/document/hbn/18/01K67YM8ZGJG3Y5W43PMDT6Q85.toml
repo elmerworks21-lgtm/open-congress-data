@@ -1,28 +1,32 @@
 id = "01K67YM8ZGJG3Y5W43PMDT6Q85"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04951"
+
+[meta]
 bill_number = 4951
 congress = 18
-canonical = "HBN-04951"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-4951", "https://web.senate.gov.ph/lisdata/3179728655!.pdf",]
 title = "AGRICULTURAL LAND OPEN TO DISPOSITION (BANTAYAN, MADRIDEJOS, STA. FE ; CEBU)"
 long_title = "AN ACT DECLARING CERTAIN LANDS OF THE PUBLIC DOMAIN LOCATED IN THE MUNICIPALITIES OF BANTAYAN, MADRIDEJOS, AND STA. FE, ALL IN THE PROVINCE OF CEBU, AS AGRICULTURAL LAND OPEN TO DISPOSITION FOR AGRICULTURAL, COMMERCIAL, RESIDENTIAL, INDUSTRIAL OR OTHER PRODUCTIVE PURPOSES, AMENDING FOR THE PURPOSE PRESIDENTIAL PROCLAMATION NO. 2151, 'DECLARING CERTAIN ISLANDS AND/OR PARTS OF THE COUNTRY AS WILDERNESS AREAS'"
 scope = "Local"
 subjects = [ "Land Conversion", "Reclassification",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-11-05"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-06"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-03"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/6/2019"
+date = "2019-11-06"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

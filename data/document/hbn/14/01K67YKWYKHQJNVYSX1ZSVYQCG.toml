@@ -1,24 +1,28 @@
 id = "01K67YKWYKHQJNVYSX1ZSVYQCG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06265"
+
+[meta]
 bill_number = 6265
 congress = 14
-canonical = "HBN-06265"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6265", "https://web.senate.gov.ph/lisdata/1243111090!.pdf",]
 title = "HOLIDAY: MUNICIPALITY OF DAPA, SURIGAO DEL NORTE"
 long_title = "AN ACT DECLARING AUGUST 12 OF EVERY YEAR AS A SPECIAL NONWORKING LOCAL HOLIDAY IN THE MUNICIPALITY OF DAPA, PROVINCE OF SURIGAO DEL NORTE"
 scope = "Local"
 subjects = [ "Holidays (Special Nonworking Holiday)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-08"
 action = "Filed in the Senate requesting for concurrence by Representatives FRANCISCO T. MATUGAS and GIORGIDI B. AGGABAO as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-09"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2009"
+date = "2009-09-09"
 
 [[committees]]
 name = "Local Government"

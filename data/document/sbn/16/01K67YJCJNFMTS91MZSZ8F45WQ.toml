@@ -1,8 +1,11 @@
 id = "01K67YJCJNFMTS91MZSZ8F45WQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00456"
+
+[meta]
 bill_number = 456
 congress = 16
-canonical = "SBN-00456"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-456", "https://web.senate.gov.ph/lisdata/1631914377!.pdf",]
 title = "ANTI-SMUGGLING ACT OF 2013"
 date_filed = "2013-07-04"
@@ -10,37 +13,38 @@ long_title = "AN ACT INSTITUTING REFORMS IN THE BUREAU OF CUSTOMS, INCREASING PE
 scope = "National"
 subjects = [ "Anti-Smuggling", "Tariff and Customs Code (P.D.No. 1464)", "Bureau of Customs",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-04"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-04-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-19"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-28"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 264, recommending that it be substituted by SBN-2968;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-28"
 action = "SUBSTITUTED BY SBN-2968 UNDER C.R. NO. 264, WHICH BECAME R.A. NO. 10863 ON MAY 30, 2016."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/28/2015"
+date = "2015-09-28"
 
 [[committees]]
 name = "Ways and Means"

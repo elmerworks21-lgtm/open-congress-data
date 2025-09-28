@@ -1,8 +1,11 @@
 id = "01K67YJJCXVX55F8YB5D22RJ7G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01665"
+
+[meta]
 bill_number = 1665
 congress = 17
-canonical = "SBN-01665"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1665", "https://web.senate.gov.ph/lisdata/2717223394!.pdf",]
 title = "AMENDING SEC. 9 OF P.D. NO. 651 (REGISTRATION OF BIRTHS AND DEATHS IN THE PHILIPPINES)"
 date_filed = "2018-01-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 9 OF PRESIDENTIAL DECREE NO. 651, ENTITLED
 scope = "National"
 subjects = [ "Birth Registration", "Death Registration", "Presidential Decree (P.D. No. 651)",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-01-23"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-24"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/24/2018"
+date = "2018-01-24"
 
 [[committees]]
 name = "Justice and Human Rights"

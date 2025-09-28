@@ -1,8 +1,11 @@
 id = "01K67YJ97EXT1W66M9FA95X88G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02841"
+
+[meta]
 bill_number = 2841
 congress = 15
-canonical = "SBN-02841"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2841", "https://web.senate.gov.ph/lisdata/113369640!.pdf",]
 title = "STANDARDIZING AND UPGRADING THE BENEFITS FOR MILITARY VETERANS AND THEIR DEPENDENTS"
 date_filed = "2011-05-24"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE BURIAL ASSISTANCE FOR VETERANS FROM TEN THOU
 scope = "National"
 subjects = [ "Veterans",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-24"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-25"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/25/2011"
+date = "2011-05-25"
 
 [[committees]]
 name = "National Defense and Security"

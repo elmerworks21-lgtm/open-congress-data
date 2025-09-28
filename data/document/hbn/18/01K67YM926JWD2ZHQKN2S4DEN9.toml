@@ -1,28 +1,32 @@
 id = "01K67YM926JWD2ZHQKN2S4DEN9"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05840"
+
+[meta]
 bill_number = 5840
 congress = 18
-canonical = "HBN-05840"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-5840", "https://web.senate.gov.ph/lisdata/3223829069!.pdf",]
 title = "SAN JOSE CITY, SCIENCE CITY OF MUÑOZ AND RIZAL TESDA TRAINING AND ASSESSMENT CENTERS ACT"
 long_title = "AN ACT ESTABLISHING THE TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TRAINING AND ASSESSMENT CENTERS IN SAN JOSE CITY, SCIENCE CITY OF MUÑOZ AND IN THE MUNICIPALITY OF RIZAL, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Technical Education and Skills Development Authority (Tesda)",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-01-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-04"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2020"
+date = "2020-01-29"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

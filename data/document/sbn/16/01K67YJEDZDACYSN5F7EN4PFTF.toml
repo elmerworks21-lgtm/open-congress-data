@@ -1,8 +1,11 @@
 id = "01K67YJEDZDACYSN5F7EN4PFTF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02964"
+
+[meta]
 bill_number = 2964
 congress = 16
-canonical = "SBN-02964"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2964", "https://web.senate.gov.ph/lisdata/2229919013!.pdf",]
 title = "AMENDING SECS. 32 & 33 (DILG ACT) RE GRADUATES OF CRIMINOLOGY"
 date_filed = "2015-09-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6975 OTHERWISE KNOWN AS DEPARTMEN
 scope = "National"
 subjects = [ "Department of the Interior and Local Government (DILG)", "Philippine National Police (PNP)", "Criminology/Crimonologists",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-09-23"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-28"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2015"
+date = "2015-09-28"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

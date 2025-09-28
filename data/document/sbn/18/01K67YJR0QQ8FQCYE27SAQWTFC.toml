@@ -1,8 +1,11 @@
 id = "01K67YJR0QQ8FQCYE27SAQWTFC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02267"
+
+[meta]
 bill_number = 2267
 congress = 18
-canonical = "SBN-02267"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2267", "https://web.senate.gov.ph/lisdata/3520232043!.pdf",]
 title = "COMMERCIAL AIRPORT IN THE MUNICIPALITY OF SAN FRANCISCO, CEBU"
 date_filed = "2021-06-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A DOMESTIC, COMMERCIAL AIRPORT IN THE MUNICIPA
 scope = "Local"
 subjects = [ "Airport",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-02"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/3/2021"
+date = "2021-06-03"
 
 [[committees]]
 name = "Public Services"

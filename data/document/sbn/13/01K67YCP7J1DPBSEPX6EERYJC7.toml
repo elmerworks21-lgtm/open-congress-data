@@ -1,8 +1,11 @@
 id = "01K67YCP7J1DPBSEPX6EERYJC7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01531"
+
+[meta]
 bill_number = 1531
 congress = 13
-canonical = "SBN-01531"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1531", "https://web.senate.gov.ph/lisdata/27462112!.pdf",]
 title = "INCREASE PENALTY FOR CUSTODIAL INFIDELITY OF PRISONERS"
 date_filed = "2004-07-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE PENALTY FOR INFIDELITY IN THE CUSTODY OF PRI
 scope = "National"
 subjects = [ "Prisoner Escape/Evasion", "Revised Penal Code (Art. 223/224)", "Custodial Infidelity", "Law Enforcement Officers",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-27"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-15"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2004"
+date = "2004-09-15"
 
 [[committees]]
 name = "Justice and Human Rights"

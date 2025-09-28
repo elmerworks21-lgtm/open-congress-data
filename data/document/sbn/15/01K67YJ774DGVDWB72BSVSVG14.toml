@@ -1,8 +1,11 @@
 id = "01K67YJ774DGVDWB72BSVSVG14"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00007"
+
+[meta]
 bill_number = 7
 congress = 15
-canonical = "SBN-00007"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-7", "https://web.senate.gov.ph/lisdata/73265895!.pdf",]
 title = "HOUSEHOLD HELPERS ADDITIONAL BENEFITS"
 date_filed = "2010-07-01"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR ADDITIONAL BENEFITS AND PROTECTION TO HOUSEHO
 scope = "National"
 subjects = [ "Household Helpers",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-01"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-10-18"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT per Committee Report No. 7, recommending that it be considered in SBN-78;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-11-08"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-11-08"
 action = "CONSIDERED IN SBN-78, under Committee Report No. 7, which became REPUBLIC ACT NO. 10361."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/8/2010"
+date = "2010-11-08"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

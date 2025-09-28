@@ -1,8 +1,11 @@
 id = "01K67YJ0QEVXRBHN9PRS3E3JXJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00007"
+
+[meta]
 bill_number = 7
 congress = 14
-canonical = "SBN-00007"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-7", "https://web.senate.gov.ph/lisdata/41153447!.pdf",]
 title = "INVOLUNTARY DISAPPEARANCE OF ARRESTED PERSONS"
 date_filed = "2007-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT PENALIZING THE COMMISSION OF ACTS OF TORTURE AND INVOLUNTAR
 scope = "National"
 subjects = [ "Involuntary Disappearance/Enforced Disappearance", "Commission on Human Rights", "R.A.No. 7438, Amendments",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-19"
 action = "Returned and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 28, recommending that it be substituted by SBN-1978;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-19"
 action = "SUBSTITUTED BY SBN-1978, WHICH BECAME R.A.NO. 9745."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/19/2007"
+date = "2007-12-19"
 
 [[committees]]
 name = "Justice and Human Rights"

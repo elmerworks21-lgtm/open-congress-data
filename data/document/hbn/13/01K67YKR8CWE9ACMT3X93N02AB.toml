@@ -1,24 +1,28 @@
 id = "01K67YKR8CWE9ACMT3X93N02AB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05380"
+
+[meta]
 bill_number = 5380
 congress = 13
-canonical = "HBN-05380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5380", "https://web.senate.gov.ph/lisdata/58124836!.pdf",]
 title = "GOVERNMENT PROPERTIES FOR VETERANS' PENSIONS AND BENEFITS"
 long_title = "AN ACT MANDATING THE USE OF THE PROCEEDS FROM THE DEVELOPMENT, LEASE OR USE OF GOVERNMENT PROPERTIES FOR VETERANS' PENSIONS AND BENEFITS"
 scope = "National"
 subjects = [ "Veterans (Benefits)", "Government Properties (Veterans Pensions/Benefits)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-08-14"
 action = "Filed in the Senate requesting for concurrence by Representatives HERMILANDO I. MANDANAS, TOMAS M. DUMPIT, EUFROCINO M. CODILLA SR. and ERNESTO S. GIDAYA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2006"
+date = "2006-08-15"
 
 [[committees]]
 name = "National Defense and Security"

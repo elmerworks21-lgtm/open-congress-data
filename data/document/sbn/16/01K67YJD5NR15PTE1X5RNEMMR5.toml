@@ -1,8 +1,11 @@
 id = "01K67YJD5NR15PTE1X5RNEMMR5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01380"
+
+[meta]
 bill_number = 1380
 congress = 16
-canonical = "SBN-01380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1380", "https://web.senate.gov.ph/lisdata/1747414710!.pdf",]
 title = "DOMESTIC SHIPPING DEVELOPMENT ACT, INSURANCE COVERAGE FOR PASSENGERS"
 date_filed = "2013-08-28"
@@ -10,41 +13,42 @@ long_title = "AN ACT AMENDING CHAPTER V, SECTION 14 OF REPUBLIC ACT NO. 9295, OT
 scope = "National"
 subjects = [ "Domestic Shipping", "Insurance",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-28"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Referred primarily to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP; and secondarily to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-01-09"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-03"
 action = "Returned and submitted jointly by the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP, PUBLIC SERVICES and WAYS AND MEANS per Committee Report No. 91, recommending that it be substituted by SBN-2486;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-09"
 action = "SUBSTITUTED BY SBN-2486 UNDER C.R. NO. 91, WHICH BECAME R.A.NO. 10668 ON JULY 22, 2015."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/9/2014"
+date = "2014-12-09"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YJ7C37QDMG3S9BVVGZ782"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00231"
+
+[meta]
 bill_number = 231
 congress = 15
-canonical = "SBN-00231"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-231", "https://web.senate.gov.ph/lisdata/76296153!.pdf",]
 title = "MARINE RESERVE LAW"
 date_filed = "2010-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING COASTAL PROVINCES, COASTAL CITIES AND FIRST CLASS
 scope = "National"
 subjects = [ "Marine Reserve Law",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2010"
+date = "2010-08-03"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJ150QJTH0RZV2NAZ6PQV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00630"
+
+[meta]
 bill_number = 630
 congress = 14
-canonical = "SBN-00630"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-630", "https://web.senate.gov.ph/lisdata/48414216!.pdf",]
 title = "TESTAMENTARY DISPOSITION OF THE ESTATE OF THE DECEDENT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING THE NEW CIVIL CODE OF THE PHILIPPINES (REPUBLIC AC
 scope = "National"
 subjects = [ "Civil Code (R.A.No. 386, Amendments)", "Law on Succession", "Video Tapes/Visual Recording Device", "Legacy",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

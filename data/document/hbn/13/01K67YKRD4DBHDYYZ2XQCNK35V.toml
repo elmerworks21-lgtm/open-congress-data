@@ -1,24 +1,28 @@
 id = "01K67YKRD4DBHDYYZ2XQCNK35V"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05910"
+
+[meta]
 bill_number = 5910
 congress = 13
-canonical = "HBN-05910"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5910", "https://web.senate.gov.ph/lisdata/67685554!.pdf",]
 title = "PASONANCA WATERSHED FOREST RESERVE (ZAMBOANGA CITY)"
 long_title = "AN ACT DECLARING THE PASONANCA WATERSHED FOREST RESERVE LOCATED IN ZAMBOANGA CITY AS A PROTECTED AREA, UNDER THE CATEGORY OF NATURAL PARK, AND ITS PERIPHERAL AREAS AS BUFFER ZONES, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Buffer Zones (Pasonaca Watershed Forest Reserve)", "Pasonaca Watershed Forest Reserve (Zamboanga City)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives ERICO BASILIO A. FABIAN, LEOVIGILDO B. BANAAG and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Environment and Natural Resources"

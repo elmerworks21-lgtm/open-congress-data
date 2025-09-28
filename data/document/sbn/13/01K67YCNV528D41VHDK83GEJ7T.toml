@@ -1,8 +1,11 @@
 id = "01K67YCNV528D41VHDK83GEJ7T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00860"
+
+[meta]
 bill_number = 860
 congress = 13
-canonical = "SBN-00860"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-860", "https://web.senate.gov.ph/lisdata/20581548!.pdf",]
 title = "MAGNA CARTA FOR HOUSEHOLD HELPERS"
 date_filed = "2004-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT INSTITUTING REGULATORY POLICIES FOR THE HOUSEHOLD EMPLOYMEN
 scope = "National"
 subjects = [ "Magna Carta for Household Helpers", "Batas Kasambahay/Domestic Helpers", "Labor Code of the Philippines (Pd 442)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-07"
 action = "Returned and submitted by the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT per Committee Report No. 154, recommending that it be substituted by SBN-2497;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-08"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-08"
 action = "SUBSTITUTED BY SBN-2497."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/8/2006"
+date = "2006-11-08"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

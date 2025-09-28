@@ -1,8 +1,11 @@
 id = "01K67YJ2PF9JNK97M1XGWJF3X2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02608"
+
+[meta]
 bill_number = 2608
 congress = 14
-canonical = "SBN-02608"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2608", "https://web.senate.gov.ph/lisdata/83857579!.pdf",]
 title = "DESIGNATION OF ENVIRONMENTAL COURTS OR GREEN BENCHES"
 date_filed = "2008-09-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO ENSURE THE SUSTAINABILITY OF THE CITIZEN'S RIGHT TO HEAL
 scope = "National"
 subjects = [ "Judiciary Reorganization Act of 1980, Amendments", "Environmental Courts/Green Benches",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-08"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-09"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2008"
+date = "2008-09-09"
 
 [[committees]]
 name = "Justice and Human Rights"

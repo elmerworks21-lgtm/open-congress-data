@@ -1,8 +1,11 @@
 id = "01K67YJD2075FF4T2E10NF57Q7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01195"
+
+[meta]
 bill_number = 1195
 congress = 16
-canonical = "SBN-01195"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1195", "https://web.senate.gov.ph/lisdata/1725714486!.pdf",]
 title = "PROMOTING LIFELONG ACTIVE COMMUNITIES EVERY DAY ACT OR PLAY EVERY DAY ACT"
 date_filed = "2013-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE NATIONAL PROGRAM PROMOTING LIFELONG ACTIVE
 scope = "National"
 subjects = [ "Community Play Index",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2013"
+date = "2013-08-28"
 
 [[committees]]
 name = "Health and Demography"

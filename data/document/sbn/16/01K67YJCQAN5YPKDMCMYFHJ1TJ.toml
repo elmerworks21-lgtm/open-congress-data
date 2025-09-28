@@ -1,8 +1,11 @@
 id = "01K67YJCQAN5YPKDMCMYFHJ1TJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00682"
+
+[meta]
 bill_number = 682
 congress = 16
-canonical = "SBN-00682"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-682", "https://web.senate.gov.ph/lisdata/1664313882!.pdf",]
 title = "INVENTORS AND INVENTION INCENTIVES ACT OF 2013"
 date_filed = "2013-07-09"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING A PHILIPPINE INVENTORS COMMISSION, DEFINING ITS PO
 scope = "National"
 subjects = [ "Inventors and Inventions",]
 authors_raw = "Legarda, Loren B., Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-09"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-01-23"
 action = "By virtue of the approved motion of Senator Cayetano (A.) on the process of coauthorship on January 21, 2014, letter of Senator FRANCIS 'CHIZ' G. ESCUDERO dated October 16, 2013, requesting Senator Legarda that he be made coauthor of this Bill, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Science and Technology"

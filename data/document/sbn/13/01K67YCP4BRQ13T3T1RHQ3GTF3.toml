@@ -1,8 +1,11 @@
 id = "01K67YCP4BRQ13T3T1RHQ3GTF3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01348"
+
+[meta]
 bill_number = 1348
 congress = 13
-canonical = "SBN-01348"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1348", "https://web.senate.gov.ph/lisdata/25541927!.pdf",]
 title = "SMALL BUSINESS LOCATION AND INCUBATOR ACT OF 2004"
 date_filed = "2004-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING SMALL BUSINESS LOCATION AND INCUBATOR PROGRAM"
 scope = "National"
 subjects = [ "Small Business Location & Incubator Act", "Small and Medium Enterprises",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Trade and Commerce"

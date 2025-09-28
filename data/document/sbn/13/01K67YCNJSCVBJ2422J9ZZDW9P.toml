@@ -1,8 +1,11 @@
 id = "01K67YCNJSCVBJ2422J9ZZDW9P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00384"
+
+[meta]
 bill_number = 384
 congress = 13
-canonical = "SBN-00384"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-384", "https://web.senate.gov.ph/lisdata/1542842!.pdf",]
 title = "PROFESSIONAL MEMBERSHIP ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR AUTOMATIC MEMBERSHIP OF PROFESSIONALS TO RESP
 scope = "National"
 subjects = [ "Professional Membership Act", "Professional Regulation Commission (PRC)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSME¥A;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

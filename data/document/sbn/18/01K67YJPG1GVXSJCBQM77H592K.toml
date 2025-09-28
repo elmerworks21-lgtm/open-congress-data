@@ -1,8 +1,11 @@
 id = "01K67YJPG1GVXSJCBQM77H592K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00167"
+
+[meta]
 bill_number = 167
 congress = 18
-canonical = "SBN-00167"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-167", "https://web.senate.gov.ph/lisdata/3044427285!.pdf",]
 title = "ON-SITE, IN-CITY OR NEAR-CITY RESETTLEMENT PROGRAM ACT"
 date_filed = "2019-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING AN ON-SITE, IN-CITY OR NEAR-CITY RESETTLEMENT 
 scope = "National"
 subjects = [ "On-Site, In-City or Near-City Resettlement", "Resettlement Program", "Informal Settlers/Squatters/Squatting", "Urban Development and Housing Act (R.A.No. 7279)",]
 authors_raw = "Hontiveros, Risa, De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-20"
 action = "Letter from Senator LEILA M. DE LIMA dated January 6, 2021, conveying her intention to be a co-author of SBN-167, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

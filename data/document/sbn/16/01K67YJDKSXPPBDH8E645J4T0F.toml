@@ -1,8 +1,11 @@
 id = "01K67YJDKSXPPBDH8E645J4T0F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02065"
+
+[meta]
 bill_number = 2065
 congress = 16
-canonical = "SBN-02065"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2065", "https://web.senate.gov.ph/lisdata/1853415695!.pdf",]
 title = "BALANCED HOUSING DEVELOPMENT PROGRAM AMENDMENT OF 2014"
 date_filed = "2014-01-20"
@@ -10,29 +13,30 @@ long_title = "AN ACT STRENGTHENING THE BALANCED HOUSING DEVELOPMENT PROGRAM, AME
 scope = "National"
 subjects = [ "Urban Development and Housing Act",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2014-01-20"
 action = "Introduced by Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-01-22"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-10"
 action = "Returned and submitted by the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT per Committee Report No. 248, recommending that it be substituted by SBN-2947;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-14"
 action = "SUBSTITUTED BY SBN-2947 UNDER C.R. NO. 248."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/14/2015"
+date = "2015-09-14"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

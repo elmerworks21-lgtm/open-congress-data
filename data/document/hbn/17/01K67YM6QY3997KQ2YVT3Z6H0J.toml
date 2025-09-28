@@ -1,24 +1,28 @@
 id = "01K67YM6QY3997KQ2YVT3Z6H0J"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08978"
+
+[meta]
 bill_number = 8978
 congress = 17
-canonical = "HBN-08978"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8978", "https://web.senate.gov.ph/lisdata/2988026569!.pdf",]
 title = "SURFING CAPITAL OF THE BICOL REGION ACT"
 long_title = "AN ACT DECLARING THE PROVINCE OF CAMARINES NORTE A TOURISM DESTINATION AND THE SURFING CAPITAL OF THE BICOL REGION"
 scope = "Local"
 subjects = [ "Tourism",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Tourism"

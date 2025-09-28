@@ -1,8 +1,11 @@
 id = "01K67YJ2PZHW867V67XAEFCDSX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02633"
+
+[meta]
 bill_number = 2633
 congress = 14
-canonical = "SBN-02633"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2633", "https://web.senate.gov.ph/lisdata/86107816!.pdf",]
 title = "COMPREHENSIVE SYSTEMATIC LUPUS ERYTHEMATOSUS (LUPUS) DISEASE PREVENTION ACT OF 2008"
 date_filed = "2008-09-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A COMPREHENSIVE NATIONAL HEALTH PROGRAM TO COMB
 scope = "National"
 subjects = [ "Lupus Disease",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-22"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/23/2008"
+date = "2008-09-23"
 
 [[committees]]
 name = "Health and Demography"

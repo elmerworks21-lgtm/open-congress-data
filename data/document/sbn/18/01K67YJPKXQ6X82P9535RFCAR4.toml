@@ -1,8 +1,11 @@
 id = "01K67YJPKXQ6X82P9535RFCAR4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00339"
+
+[meta]
 bill_number = 339
 congress = 18
-canonical = "SBN-00339"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-339", "https://web.senate.gov.ph/lisdata/3062627480!.pdf",]
 title = "PUBLIC SCHOOL SECURITY ACT OF 2019"
 date_filed = "2019-07-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING STIFFER PENALTIES FOR THEFT, ROBBERY AND DESTRUCT
 scope = "National"
 subjects = [ "Public School Security",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-11"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Transferred from the Committee on Education, Arts and Culture to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Justice and Human Rights"

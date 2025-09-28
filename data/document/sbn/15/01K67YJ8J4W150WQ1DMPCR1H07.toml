@@ -1,8 +1,11 @@
 id = "01K67YJ8J4W150WQ1DMPCR1H07"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02110"
+
+[meta]
 bill_number = 2110
 congress = 15
-canonical = "SBN-02110"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2110", "https://web.senate.gov.ph/lisdata/96968234!.pdf",]
 title = "COMPLIANCE TO THE WRIT OF HABEAS CORPUS ACT OF 2010"
 date_filed = "2010-07-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT PENALIZING DISOBEDIENCE TO THE WRIT OF HABEAS CORPUS"
 scope = "National"
 subjects = [ "Writ of Habeas Corpus",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-27"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-15"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2010"
+date = "2010-09-15"
 
 [[committees]]
 name = "Justice and Human Rights"

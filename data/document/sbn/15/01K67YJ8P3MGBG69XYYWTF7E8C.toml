@@ -1,8 +1,11 @@
 id = "01K67YJ8P3MGBG69XYYWTF7E8C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02311"
+
+[meta]
 bill_number = 2311
 congress = 15
-canonical = "SBN-02311"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2311", "https://web.senate.gov.ph/lisdata/99628491!.pdf",]
 title = "ANTI DIAL-A-PORN ACT"
 date_filed = "2010-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING UNLAWFUL THE COMMERCIAL USE OF TELEPHONES FOR MAK
 scope = "National"
 subjects = [ "Anti Dial-A-Porn", "Phone-Sex Services",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-21"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2010"
+date = "2010-09-21"
 
 [[committees]]
 name = "Public Services"

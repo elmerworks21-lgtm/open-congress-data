@@ -1,24 +1,28 @@
 id = "01K67YM35C6WM3BPK6RMMM26C6"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05900"
+
+[meta]
 bill_number = 5900
 congress = 16
-canonical = "HBN-05900"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5900", "https://web.senate.gov.ph/lisdata/2208118801!.pdf",]
 title = "SAN LORENZO RUIZ MUNICIPALITY HOSPITAL (MALABON CITY)"
 long_title = "AN ACT CHANGING THE NAME OF THE SAINT LORENZO RUIZ MUNICIPAL HOSPITAL IN MALABON CITY TO SAN LORENZO RUIZ HOSPITAL INCREASING ITS BED CAPACITY FROM TEN (10) TO FIFTY (50) BEDS AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-08-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2015"
+date = "2015-09-01"
 
 [[committees]]
 name = "Health and Demography"

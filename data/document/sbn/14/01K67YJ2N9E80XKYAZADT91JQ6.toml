@@ -1,8 +1,11 @@
 id = "01K67YJ2N9E80XKYAZADT91JQ6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02552"
+
+[meta]
 bill_number = 2552
 congress = 14
-canonical = "SBN-02552"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2552", "https://web.senate.gov.ph/lisdata/81297354!.pdf",]
 title = "PHILIPPINE FISHERIES CODE"
 date_filed = "2008-08-20"
@@ -10,25 +13,26 @@ long_title = "AN ACT TO FURTHER PROTECT PHILIPPINE CORALS AND OTHER MARINE TREAS
 scope = "National"
 subjects = [ "Coral Reefs Protection and Preservation", "Philippine Fisheries Code of 1998",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-20"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-26"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/26/2008"
+date = "2008-08-26"
 
 [[committees]]
 name = "Agriculture and Food"

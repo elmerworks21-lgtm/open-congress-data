@@ -1,8 +1,11 @@
 id = "01K67YJQ48EDTSRXQJ0NMEVHYT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01089"
+
+[meta]
 bill_number = 1089
 congress = 18
-canonical = "SBN-01089"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1089", "https://web.senate.gov.ph/lisdata/3165528499!.pdf",]
 title = "CAREGIVERS WELFARE ACT"
 date_filed = "2019-10-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING POLICIES FOR THE PROTECTION AND WELFARE OF CARE
 scope = "National"
 subjects = [ "Caregivers",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2019-10-01"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-10-02"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/2/2019"
+date = "2019-10-02"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

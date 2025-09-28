@@ -1,24 +1,28 @@
 id = "01K67YKWVENDNVJXA0FMWSVTHT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05881"
+
+[meta]
 bill_number = 5881
 congress = 14
-canonical = "HBN-05881"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5881", "https://web.senate.gov.ph/lisdata/1322511796!.pdf",]
 title = "HOLIDAY: CHINESE NEW YEAR"
 long_title = "AN ACT DECLARING THE CHINESE NEW YEAR A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE PHILIPPINES"
 scope = "National"
 subjects = [ "Holidays (Special Nonworking Holiday)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-12-10"
 action = "Filed in the Senate requesting for concurrence by Representatives EMIL L. ONG, ISIDRO S. RODRIGUEZ JR., GIORGIDI B. AGGABAO, TEOFISTO 'TG' L. GUINGONA III, RAUL V. DEL MAR, MARIA ZENAIDA B. ANGPING, NEPTALI M. GONZALES II and DEL R. DE GUZMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/14/2009"
+date = "2009-12-14"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

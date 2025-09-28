@@ -1,8 +1,11 @@
 id = "01K67YJQ7SE7AWC2GN7FDQ76AE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01238"
+
+[meta]
 bill_number = 1238
 congress = 18
-canonical = "SBN-01238"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1238", "https://web.senate.gov.ph/lisdata/3205528907!.pdf",]
 title = "GRANTING CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES"
 date_filed = "2019-12-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES 
 scope = "National"
 subjects = [ "Civil Service Eligibility", "Casual/Contractual Employees", "Government Employees",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2019-12-16"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-17"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/17/2019"
+date = "2019-12-17"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

@@ -1,8 +1,11 @@
 id = "01K67YJ9J5V99HHDQZFCRDERC2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03205"
+
+[meta]
 bill_number = 3205
 congress = 15
-canonical = "SBN-03205"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3205", "https://web.senate.gov.ph/lisdata/1326211134!.pdf",]
 title = "CRIME OF ECONOMIC SABOTAGE"
 date_filed = "2012-05-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE SCOPE OF THE CRIME OF ECONOMIC SABOTAGE AMEND
 scope = "National"
 subjects = [ "Economic Sabotage",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2012-05-22"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-23"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2012"
+date = "2012-05-23"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,8 +1,11 @@
 id = "01K67YJPEGNZNGW834XCWYE2M7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00102"
+
+[meta]
 bill_number = 102
 congress = 18
-canonical = "SBN-00102"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-102", "https://web.senate.gov.ph/lisdata/3034227200!.pdf",]
 title = "BARANGAY HEALTH WORKERS ACT OF 2019"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE APPOINTMENT OF BARANGAY HEALTH WORKERS IN EVE
 scope = "National"
 subjects = [ "Barangay Health Worker", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Health and Demography"

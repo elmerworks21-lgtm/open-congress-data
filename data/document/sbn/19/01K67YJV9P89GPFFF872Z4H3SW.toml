@@ -1,8 +1,11 @@
 id = "01K67YJV9P89GPFFF872Z4H3SW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00623"
+
+[meta]
 bill_number = 623
 congress = 19
-canonical = "SBN-00623"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-623", "https://web.senate.gov.ph/lisdata/3846634922!.pdf",]
 title = "NATIONAL GREEN PUBLIC PROCUREMENT ACT OF 2022"
 date_filed = "2022-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL GREEN PUBLIC PROCUREMENT PROGRAM"
 scope = "National"
 subjects = [ "Green Public Procurement", "Government Procurement",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-14"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Read on First Reading and Referred to the Committees on SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2022"
+date = "2022-08-17"
 
 [[committees]]
 name = "Sustainable Development Goals, Innovation and Futures Thinking"

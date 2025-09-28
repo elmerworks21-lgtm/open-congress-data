@@ -1,8 +1,11 @@
 id = "01K67YJ1KJC5DCPY96859KY53G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01347"
+
+[meta]
 bill_number = 1347
 congress = 14
-canonical = "SBN-01347"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1347", "https://web.senate.gov.ph/lisdata/56475044!.pdf",]
 title = "RESTITUTING THE POSITION OF SECRETARY TO THE SANGGUNIAN TO LOCAL GOVERNMENT DEPARTMENT HEAD"
 date_filed = "2007-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7160, ALSO KNOWN AS THE LOCAL GOV
 scope = "National"
 subjects = [ "Secretary to the Sanggunian",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-24"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2007"
+date = "2007-09-11"
 
 [[committees]]
 name = "Local Government"

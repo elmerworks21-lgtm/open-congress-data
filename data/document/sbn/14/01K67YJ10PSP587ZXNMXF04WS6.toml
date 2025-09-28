@@ -1,8 +1,11 @@
 id = "01K67YJ10PSP587ZXNMXF04WS6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00421"
+
+[meta]
 bill_number = 421
 congress = 14
-canonical = "SBN-00421"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-421", "https://web.senate.gov.ph/lisdata/45963943!.pdf",]
 title = "MIGRANT WORKERS HOSPITAL ACT OF 2007"
 date_filed = "2007-07-02"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING A SPECIAL HOSPITAL FOR OVERSEAS FILIPINO WORKE
 scope = "National"
 subjects = [ "Migrant Workers Hospital", "Overseas Contract Workers (OCWS)/Overseas Filipino Workers (OFWs)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-02"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT, HEALTH AND DEMOGRAPHY, WAYS AND MEANS and FINANCE per Committee Report No. 68, recommending that it be substituted by SBN-2362;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-02"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-02"
 action = "SUBSTITUTED BY SBN-2362."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/2/2008"
+date = "2008-06-02"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

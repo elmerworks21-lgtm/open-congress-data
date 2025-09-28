@@ -1,8 +1,11 @@
 id = "01K67YJCX097K57Y06Y5EQT7NC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00953"
+
+[meta]
 bill_number = 953
 congress = 16
-canonical = "SBN-00953"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-953", "https://web.senate.gov.ph/lisdata/1698814217!.pdf",]
 title = "PENALIZING OBSTRUCTION OF APPREHENSION AND PROSECUTION OF CRIMINAL OFFENDERS"
 date_filed = "2013-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 1829, OTHERWISE KNOWN AS P
 scope = "National"
 subjects = [ "Obstruction of Apprehension, Etc. (P.D.No. 1829)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-18"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Justice and Human Rights"

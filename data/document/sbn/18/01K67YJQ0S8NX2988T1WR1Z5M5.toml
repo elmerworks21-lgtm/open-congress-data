@@ -1,8 +1,11 @@
 id = "01K67YJQ0S8NX2988T1WR1Z5M5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00942"
+
+[meta]
 bill_number = 942
 congress = 18
-canonical = "SBN-00942"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-942", "https://web.senate.gov.ph/lisdata/3133628232!.pdf",]
 title = "PROTECTION OF WATERSHEDS FOR IRRIGATION ACT"
 date_filed = "2019-08-20"
@@ -10,21 +13,22 @@ long_title = "AN ACT FOR THE PROTECTION, CONSERVATION AND REHABILITATION OF WATE
 scope = "National"
 subjects = [ "Watersheds", "Irrigation",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-20"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; ENVIRONMENT AND NATURAL RESOURCES; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Environment and Natural Resources; and the Committee on Climate Change, SBN-942 shall now be referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2019"
+date = "2019-08-27"
 
 [[committees]]
 name = "Public Works"

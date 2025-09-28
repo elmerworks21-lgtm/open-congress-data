@@ -1,8 +1,11 @@
 id = "01K67YJPGNH7Q1ZPT9GNTXZEQX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00195"
+
+[meta]
 bill_number = 195
 congress = 18
-canonical = "SBN-00195"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-195", "https://web.senate.gov.ph/lisdata/3037227174!.pdf",]
 title = "DEPARTMENT OF WATER RESOURCES"
 date_filed = "2019-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF WATER RESOURCES, DEFINING ITS PO
 scope = "National"
 subjects = [ "Water Resources Management", "Department of Water Resources Management",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Public Services"

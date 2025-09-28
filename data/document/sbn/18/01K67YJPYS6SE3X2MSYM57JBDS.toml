@@ -1,23 +1,27 @@
 id = "01K67YJPYS6SE3X2MSYM57JBDS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00845"
+
+[meta]
 bill_number = 845
 congress = 18
-canonical = "SBN-00845"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-845", "https://web.senate.gov.ph/lisdata/3118628085!.pdf",]
 title = "AMENDING R.A.NO. 7160, LOCAL GOVERNMENT CODE OF 1991"
 date_filed = "2019-07-31"
 long_title = "AN ACT UPDATING THE REQUISITES FOR THE CREATION OF THE MUNICIPALITIES, CITIES, AND PROVINCES BY AMENDING CERTAIN PROVISIONS IN BOOK III OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS 'THE LOCAL GOVERNMENT CODE OF 1991'"
 scope = "National"
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-31"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "8/14/2019"
+date = "2019-08-14"
 

@@ -1,8 +1,11 @@
 id = "01K67YCP0G48CK4GZH1RYBVBW2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01141"
+
+[meta]
 bill_number = 1141
 congress = 13
-canonical = "SBN-01141"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1141", "https://web.senate.gov.ph/lisdata/23471640!.pdf",]
 title = "ISSUANCE/USE OF LOW-NUMBERED PROTOCOL LICENSE PLATES BAN"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT BANNING THE ISSUANCE AND USE OF LOW-NUMBERED PROTOCOL LICEN
 scope = "National"
 subjects = [ "Low-Numbered Protocol License Plates Ban", "Motor Vehicles (Vanity Plate Numbers)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Public Services"

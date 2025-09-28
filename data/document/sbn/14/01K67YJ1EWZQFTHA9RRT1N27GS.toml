@@ -1,8 +1,11 @@
 id = "01K67YJ1EWZQFTHA9RRT1N27GS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01113"
+
+[meta]
 bill_number = 1113
 congress = 14
-canonical = "SBN-01113"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1113", "https://web.senate.gov.ph/lisdata/53974772!.pdf",]
 title = "DOG AND CAT PROTECTION ACT OF 2007"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROHIBIT THE IMPORTATION OF PRODUCTS MADE WITH DOG OR CA
 scope = "National"
 subjects = [ "Animal Welfare (Dog and Cat Protection)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Trade and Commerce"

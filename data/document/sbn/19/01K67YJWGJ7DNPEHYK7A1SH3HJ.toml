@@ -1,8 +1,11 @@
 id = "01K67YJWGJ7DNPEHYK7A1SH3HJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02293"
+
+[meta]
 bill_number = 2293
 congress = 19
-canonical = "SBN-02293"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2293", "https://web.senate.gov.ph/lisdata/4206538268!.pdf",]
 title = "EXPANDED ANTI-VIOLENCE AGAINST WOMEN AND THEIR CHILDREN (E-VAWC) ACT"
 date_filed = "2023-07-04"
@@ -10,25 +13,26 @@ long_title = "AN ACT DEFINING ELECTRONIC VIOLENCE AGAINST WOMEN AND THEIR CHILDR
 scope = "National"
 subjects = [ "Anti-Violence Against Women and Children (VAWC)(R.A.No. 9262)",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-04"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-01"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and SCIENCE AND TECHNOLOGY;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2023"
+date = "2023-08-01"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

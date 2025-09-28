@@ -1,8 +1,11 @@
 id = "01K67YJQ1CWMY0B2RT0QRNW0XC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00971"
+
+[meta]
 bill_number = 971
 congress = 18
-canonical = "SBN-00971"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-971", "https://web.senate.gov.ph/lisdata/3136828260!.pdf",]
 title = "ANTI-GAME FIXING ACT"
 date_filed = "2019-08-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT REDEFINING THE CRIME OF GAME-FIXING AND PRESCRIBING STIFFER
 scope = "National"
 subjects = [ "Game-Fixing",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-27"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-28"
 action = "Read on First Reading and Referred to the Committee on SPORTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2019"
+date = "2019-08-28"
 
 [[committees]]
 name = "Sports"

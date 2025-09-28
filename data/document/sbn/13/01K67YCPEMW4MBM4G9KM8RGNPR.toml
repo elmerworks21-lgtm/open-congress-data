@@ -1,8 +1,11 @@
 id = "01K67YCPEMW4MBM4G9KM8RGNPR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01893"
+
+[meta]
 bill_number = 1893
 congress = 13
-canonical = "SBN-01893"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1893", "https://web.senate.gov.ph/lisdata/31742356!.pdf",]
 title = "WOMEN ANTI-DISCRIMINATION ACT"
 date_filed = "2005-01-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLES 135 AND 137 OF THE LABOR CODE (PD 442 AS 
 scope = "National"
 subjects = [ "Women (Anti-Discrimination)", "Anti-Discrimination (Sex/Age/Ethnic)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2005-01-27"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-27"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/31/2005"
+date = "2005-01-31"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

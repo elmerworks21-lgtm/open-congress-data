@@ -1,8 +1,11 @@
 id = "01K67YJ86C4K07R0JX4D07CMMB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01522"
+
+[meta]
 bill_number = 1522
 congress = 15
-canonical = "SBN-01522"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1522", "https://web.senate.gov.ph/lisdata/90837627!.pdf",]
 title = "GENETIC INFORMATION NONDISCRIMINATION IN HEALTH INSURANCE ACT"
 date_filed = "2010-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROHIBIT DISCRIMINATION BECAUSE OF GENETIC INFORMATION I
 scope = "National"
 subjects = [ "Health Insurance",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-19"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-06"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2010"
+date = "2010-09-06"
 
 [[committees]]
 name = "Health and Demography"

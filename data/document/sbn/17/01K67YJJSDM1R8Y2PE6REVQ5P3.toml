@@ -1,8 +1,11 @@
 id = "01K67YJJSDM1R8Y2PE6REVQ5P3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02142"
+
+[meta]
 bill_number = 2142
 congress = 17
-canonical = "SBN-02142"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2142", "https://web.senate.gov.ph/lisdata/2927225868!.pdf",]
 title = "INCREASING THE MONTHLY SOCIAL PENSION OF SENIOR CITIZENS"
 date_filed = "2019-01-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE MONTHLY SOCIAL PENSION OF SENIOR CITIZENS AN
 scope = "National"
 subjects = [ "Senior Citizens", "Pension",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-14"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-14"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/14/2019"
+date = "2019-01-14"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

@@ -1,8 +1,11 @@
 id = "01K67YJZV2JGW6M9VYBGGNJ2DP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00070"
+
+[meta]
 bill_number = 70
 congress = 20
-canonical = "SBN-00070"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-70", "https://web.senate.gov.ph/lisdata/4654442548!.pdf",]
 title = "AMENDING R.A. NO. 7279 (URBAN DEVELOPMENT HOUSING ACT)"
 date_filed = "2025-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING THE UNDERPRIVILEGED AND HOMELESS FROM THE REQUIRE
 scope = "National"
 subjects = [ "Urban Development and Housing Act (R.A.No. 7279)", "Homeless", "Underprivileged Persons",]
 authors_raw = "Marcoleta, Rodante D."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-03"
 action = "Introduced by Senator RODANTE D. MARCOLETA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

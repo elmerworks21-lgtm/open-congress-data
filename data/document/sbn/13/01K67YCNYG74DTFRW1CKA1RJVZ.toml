@@ -1,8 +1,11 @@
 id = "01K67YCNYG74DTFRW1CKA1RJVZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01038"
+
+[meta]
 bill_number = 1038
 congress = 13
-canonical = "SBN-01038"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1038", "https://web.senate.gov.ph/lisdata/22421359!.pdf",]
 title = "PENALTY INCREASE: USURPATION OF AUTHORITY/OFFICIAL FUNCTIONS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLE 177 OF THE REVISED PENAL CODE (ACT NO. 381
 scope = "National"
 subjects = [ "Usurpation of Authority(Penalty Increase", "Revised Penal Code (RA 3815)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Justice and Human Rights"

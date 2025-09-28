@@ -1,8 +1,11 @@
 id = "01K67YCP830SK280QA1FRXQVNF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01562"
+
+[meta]
 bill_number = 1562
 congress = 13
-canonical = "SBN-01562"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1562", "https://web.senate.gov.ph/lisdata/27792153!.pdf",]
 title = "FREEDOM OF SPEECH AND OF ASSOCIATION ON CAMPUS ACT"
 date_filed = "2004-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROTECT THE FREEDOM OF SPEECH AND OF ASSOCIATION RIGHTS 
 scope = "National"
 subjects = [ "Freedom of Speech/Association on Campus", "Students (Higher Education Institutions)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YCPFJ0PV0P5NFC3Y7ZD9Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01940"
+
+[meta]
 bill_number = 1940
 congress = 13
-canonical = "SBN-01940"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1940", "https://web.senate.gov.ph/lisdata/32492420!.pdf",]
 title = "MARINE CASUALTIES MANAGEMENT AND REPORTING ACT"
 date_filed = "2005-03-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING MANDATORY REPORTING OF MARINE CASUALTIES"
 scope = "National"
 subjects = [ "Marine Casualties Management/Reporting", "Accidents (Marine)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-01"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-02"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/2/2005"
+date = "2005-03-02"
 
 [[committees]]
 name = "Public Services"

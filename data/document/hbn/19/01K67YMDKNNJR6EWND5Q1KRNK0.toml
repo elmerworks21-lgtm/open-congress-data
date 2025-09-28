@@ -1,24 +1,28 @@
 id = "01K67YMDKNNJR6EWND5Q1KRNK0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09870"
+
+[meta]
 bill_number = 9870
 congress = 19
-canonical = "HBN-09870"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9870", "https://web.senate.gov.ph/lisdata/4362939660!.pdf",]
 title = "HOUSING DEVELOPMENT DIGITAL CONNECTIVITY ACT"
 long_title = "AN ACT MANDATING THE ALLOCATION OF AN AREA FOR INFORMATION AND COMMUNICATION TECHNOLOGY INFRASTRUCTURE AND FACILITIES IN SUBDIVISIONS AND HOUSING DEVELOPMENT PROJECTS"
 scope = "National"
 subjects = [ "Housing Development Digital Connectivity",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT and SCIENCE AND TECHNOLOGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/20/2024"
+date = "2024-03-20"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

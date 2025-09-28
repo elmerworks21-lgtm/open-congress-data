@@ -1,8 +1,11 @@
 id = "01K67YJVEQ221C64S4CWNPDSXW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00855"
+
+[meta]
 bill_number = 855
 congress = 19
-canonical = "SBN-00855"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-855", "https://web.senate.gov.ph/lisdata/3867735129!.pdf",]
 title = "THE BUDGET REFORM FOR VILLAGE EMPOWERMENT ACT OF 2022"
 date_filed = "2022-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING BUDGET REFORM THAT WILL ENSURE THE EQUITABLE DI
 scope = "National"
 subjects = [ "Budget/Budgetary Reform", "Village Empowerment",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Local Government"

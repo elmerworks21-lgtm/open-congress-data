@@ -1,8 +1,11 @@
 id = "01K67YJPE2ZQQPEAYTF87KKRR1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00081"
+
+[meta]
 bill_number = 81
 congress = 18
-canonical = "SBN-00081"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-81", "https://web.senate.gov.ph/lisdata/3031927148!.pdf",]
 title = "STRENGTHENING THE YOUTH SOCIAL WELFARE PROGRAMS"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE YOUTH SOCIAL WELFARE PROGRAMS AND EXTENDI
 scope = "National"
 subjects = [ "Youth", "Children in Conflict with the Law", "Juvenile Justice and Welfare Act (R.A.No. 9344)",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Justice and Human Rights"

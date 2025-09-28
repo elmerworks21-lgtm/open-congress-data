@@ -1,8 +1,11 @@
 id = "01K67YCPJV2WA1MBG4CWX62PW2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02097"
+
+[meta]
 bill_number = 2097
 congress = 13
-canonical = "SBN-02097"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2097", "https://web.senate.gov.ph/lisdata/38763241!.pdf",]
 title = "SECURITY OF TENURE LAW OF 2005"
 date_filed = "2005-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING WORK ARRANGEMENTS BASED ON SECURITY OF TENURE"
 scope = "National"
 subjects = [ "Security of Tenure Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-23"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-24"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2005"
+date = "2005-08-24"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

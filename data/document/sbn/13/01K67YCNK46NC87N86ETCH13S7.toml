@@ -1,8 +1,11 @@
 id = "01K67YCNK46NC87N86ETCH13S7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00403"
+
+[meta]
 bill_number = 403
 congress = 13
-canonical = "SBN-00403"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-403", "https://web.senate.gov.ph/lisdata/1560861!.pdf",]
 title = "RE-NATIONALIZATION OF DEVOLVED PERSONNEL, POSITION, SERVICES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT RE-NATIONALIZING DEVOLVED PERSONNEL, POSITION, SERVICES AND
 scope = "National"
 subjects = [ "Department of Agriculture (DA)", "Department of Health (DOH)", "Dept. of Social Welfare & Devt. (DSWD)", "Devolved Personnel (Re-Nationalization)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Local Government"

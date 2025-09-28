@@ -1,8 +1,11 @@
 id = "01K67YJVFG8NS7F8JVV9P2EFH0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00888"
+
+[meta]
 bill_number = 888
 congress = 19
-canonical = "SBN-00888"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-888", "https://web.senate.gov.ph/lisdata/3872535179!.pdf",]
 title = "INCREASING THE PENALTY FOR CRIMINAL NEGLIGENCE COMMITTED BY COMMON CARRIERS"
 date_filed = "2022-07-26"
@@ -10,29 +13,30 @@ long_title = "AN ACT INCREASING THE PENALTY FOR CRIMINAL NEGLIGENCE COMMITTED BY
 scope = "National"
 subjects = [ "Common Carriers", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-26"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Justice and Human Rights"

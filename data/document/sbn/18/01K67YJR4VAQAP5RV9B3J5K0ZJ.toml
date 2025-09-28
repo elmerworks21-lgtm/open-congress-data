@@ -1,8 +1,11 @@
 id = "01K67YJR4VAQAP5RV9B3J5K0ZJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02351"
+
+[meta]
 bill_number = 2351
 congress = 18
-canonical = "SBN-02351"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2351", "https://web.senate.gov.ph/lisdata/3596132400!.pdf",]
 title = "HEALTHCARE FRONTLINERS PROTECTION ACT"
 date_filed = "2021-08-23"
@@ -10,21 +13,22 @@ long_title = "AN ACT INSTITUTIONALIZING THE GRANT OF BENEFITS AND COMPENSATION T
 scope = "National"
 subjects = [ "Healthcare Workers", "Medical Frontliners",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2021-08-23"
 action = "Introduced by Senator FRANCIS 'KIKO' N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-23"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "CONSIDERED IN SBN-2421 UNDER COMMITTEE REPORT NO. 325."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/29/2021"
+date = "2021-09-29"
 
 [[committees]]
 name = "Health and Demography"

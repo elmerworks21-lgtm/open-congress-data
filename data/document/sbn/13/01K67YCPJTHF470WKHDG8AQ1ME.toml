@@ -1,8 +1,11 @@
 id = "01K67YCPJTHF470WKHDG8AQ1ME"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02094"
+
+[meta]
 bill_number = 2094
 congress = 13
-canonical = "SBN-02094"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2094", "https://web.senate.gov.ph/lisdata/38733238!.pdf",]
 title = "CLEAN COMMON CARRIERS ACT OF 2005"
 date_filed = "2005-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE PENALTIES OF DRIVERS AND OPERATORS OF COMMON
 scope = "National"
 subjects = [ "Clean Common Carriers Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-23"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-24"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and PUBLIC ORDER AND ILLEGAL DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2005"
+date = "2005-08-24"
 
 [[committees]]
 name = "Public Services"

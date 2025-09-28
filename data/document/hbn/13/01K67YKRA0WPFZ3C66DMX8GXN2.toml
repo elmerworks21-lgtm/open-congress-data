@@ -1,24 +1,28 @@
 id = "01K67YKRA0WPFZ3C66DMX8GXN2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05584"
+
+[meta]
 bill_number = 5584
 congress = 13
-canonical = "HBN-05584"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5584", "https://web.senate.gov.ph/lisdata/61135081!.pdf",]
 title = "ABUNO NATIONAL HIGH SCHOOL (LANAO DEL NORTE)"
 long_title = "AN ACT SEPARATING THE ACELO C. BADELLES, SR. MEMORIAL HIGH SCHOOL – ABUNO ANNEX IN BARANGAY ABUNO, CITY OF ILIGAN, PROVINCE OF LANAO DEL NORTE FROM THE ACELO C. BADELLES, SR. MEMORIAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE ABUNO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Lanao Del Norte)", "Abuno National High School (Lanao Del Norte)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-05"
 action = "Filed in the Senate requesting for concurrence by Representives ALIPIO 'TIKBONG' V. BADELLES, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-10"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/10/2006"
+date = "2006-10-10"
 
 [[committees]]
 name = "Education, Arts and Culture"

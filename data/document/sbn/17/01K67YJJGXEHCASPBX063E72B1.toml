@@ -1,8 +1,11 @@
 id = "01K67YJJGXEHCASPBX063E72B1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01831"
+
+[meta]
 bill_number = 1831
 congress = 17
-canonical = "SBN-01831"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1831", "https://web.senate.gov.ph/lisdata/2797124346!.pdf",]
 title = "MULTI-SPECIES MARINE HATCHERY IN PASACAO, CAMARINES SUR"
 date_filed = "2018-05-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN THE MUNICIP
 scope = "Local"
 subjects = [ "Multi-Species Marine Hatchery",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2018-05-29"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2018"
+date = "2018-07-24"
 
 [[committees]]
 name = "Agriculture and Food"

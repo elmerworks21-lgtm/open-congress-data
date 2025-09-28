@@ -1,8 +1,11 @@
 id = "01K67YCPGANAQT8F0Z79XJETZP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01969"
+
+[meta]
 bill_number = 1969
 congress = 13
-canonical = "SBN-01969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1969", "https://web.senate.gov.ph/lisdata/32962449!.pdf",]
 title = "ANTI-SMUGGLING ACT OF 2005"
 date_filed = "2005-03-22"
@@ -10,45 +13,46 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 1464
 scope = "National"
 subjects = [ "Anti-Smuggling Commission, Creation", "Tariff and Customs Code, Pd No. 1464", "Smuggling (Cargo Manifest)",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-22"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-30"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-22"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-02"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-04-26"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-04-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-26"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/30/2005"
+date = "2005-03-30"
 
 [[committees]]
 name = "Ways and Means"

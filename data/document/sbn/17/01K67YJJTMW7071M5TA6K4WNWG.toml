@@ -1,8 +1,11 @@
 id = "01K67YJJTMW7071M5TA6K4WNWG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02192"
+
+[meta]
 bill_number = 2192
 congress = 17
-canonical = "SBN-02192"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2192", "https://web.senate.gov.ph/lisdata/2948026177!.pdf",]
 title = "PROTECTING CHILDREN FROM TRAVELLING SEX OFFENDERS"
 date_filed = "2019-01-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROTECTING CHILDREN FROM TRAVELLING SEX OFFENDERS AND FOR O
 scope = "National"
 subjects = [ "Children/Child Care", "Sex Offenders",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-29"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2019"
+date = "2019-01-30"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

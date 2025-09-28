@@ -1,24 +1,28 @@
 id = "01K67YKR13FD3SW326X70CRXWF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04756"
+
+[meta]
 bill_number = 4756
 congress = 13
-canonical = "HBN-04756"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4756", "https://web.senate.gov.ph/lisdata/50634141!.pdf",]
 title = "CAMANDAG NATIONAL HIGH SCHOOL (IFUGAO)"
 long_title = "AN ACT SEPARATING THE HALIAP NATIONAL HIGH SCHOOL – CAMANDAG ANNEX IN BARANGAY CAMANDAG, MUNICIPALITY OF ASIPULO, PROVINCE OF IFUGAO FROM THE HALIAP NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE CAMANDAG NATIONAL HIGH SCHOOL AND APPRO-PRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Ifugao)", "Camandag National High School (Ifugao)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives SOLOMON R. CHUNGALAO, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2006"
+date = "2006-05-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

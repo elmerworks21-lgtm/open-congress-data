@@ -1,8 +1,11 @@
 id = "01K67YCP1Z900CE9Y9GV1NXZRY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01221"
+
+[meta]
 bill_number = 1221
 congress = 13
-canonical = "SBN-01221"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1221", "https://web.senate.gov.ph/lisdata/24341800!.pdf",]
 title = "SCHOOL BUILDING PROGRAM ACT OF 2004"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PROGRAM FOR THE ACQUISITION OF SCHOOL SITES 
 scope = "National"
 subjects = [ "School Building Program Act",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Education, Arts and Culture"

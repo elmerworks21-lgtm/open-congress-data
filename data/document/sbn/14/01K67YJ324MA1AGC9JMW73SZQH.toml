@@ -1,8 +1,11 @@
 id = "01K67YJ324MA1AGC9JMW73SZQH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03125"
+
+[meta]
 bill_number = 3125
 congress = 14
-canonical = "SBN-03125"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3125", "https://web.senate.gov.ph/lisdata/105849397!.pdf",]
 title = "SMALL COMMUNITY VISIONING IMPROVEMENT ACT OF 2009"
 date_filed = "2009-03-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPROVING THE CAPABILITY OF SMALL COMMUNITIES TO COORDINATE
 scope = "National"
 subjects = [ "Landscape Architects",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-11"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Tourism"

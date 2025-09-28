@@ -1,8 +1,11 @@
 id = "01K67YJ0VNF5BCZ0XPCVY933HF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00189"
+
+[meta]
 bill_number = 189
 congress = 14
-canonical = "SBN-00189"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-189", "https://web.senate.gov.ph/lisdata/42893676!.pdf",]
 title = "REMOVING THE AUTOMATIC ADJUSTMENT PROVISION ON RETIREMENT/SEPARATION OF AFP PERSONNEL ON PD 1638"
 date_filed = "2007-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 1638, AS AMENDED, 
 scope = "National"
 subjects = [ "AFP/Military Personnel (Retirement/Separation)", "Presidential Decrees (P.D.No. 1638)",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee on NATIONAL DEFENSE AND SECURITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2007"
+date = "2007-07-31"
 
 [[committees]]
 name = "National Defense and Security"

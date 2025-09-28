@@ -1,8 +1,11 @@
 id = "01K67YJ7J1GKDKCZDMJWBV9FFW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00521"
+
+[meta]
 bill_number = 521
 congress = 15
-canonical = "SBN-00521"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-521", "https://web.senate.gov.ph/lisdata/78646300!.pdf",]
 title = "VETERANS AFFAIRS IN THE PHILIPPINE EMBASSY"
 date_filed = "2010-07-07"
@@ -10,25 +13,26 @@ long_title = "AN ACT TO ESTABLISH AND MAINTAIN THE OFFICE OF VETERANS AFFAIRS IN
 scope = "National"
 subjects = [ "Veterans",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-07"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-09"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; FOREIGN RELATIONS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-10-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-10-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2010"
+date = "2010-08-09"
 
 [[committees]]
 name = "National Defense and Security"

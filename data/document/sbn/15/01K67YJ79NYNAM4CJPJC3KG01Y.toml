@@ -1,8 +1,11 @@
 id = "01K67YJ79NYNAM4CJPJC3KG01Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00117"
+
+[meta]
 bill_number = 117
 congress = 15
-canonical = "SBN-00117"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-117", "https://web.senate.gov.ph/lisdata/75086363!.pdf",]
 title = "SUBSIDIARY IMPRISONMENT FROM ONE DAY FOR P8.OO TO ONE DAY FOR EACH P362.00"
 date_filed = "2010-07-05"
@@ -10,33 +13,34 @@ long_title = "AN ACT ADJUSTING THE SUBSIDIARY IMPRISONMENT FROM ONE DAY FOR EACH
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815; Amendments)", "Subsidiary Imprisonment",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-05"
 action = "Introduced by Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-02"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-12-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-09"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 33, recommending that it be substituted by SBN-2808;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-10"
 action = "SUBSTITUTED BY SBN-2808, under Committee Report No. 33."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/10/2011"
+date = "2011-05-10"
 
 [[committees]]
 name = "Justice and Human Rights"

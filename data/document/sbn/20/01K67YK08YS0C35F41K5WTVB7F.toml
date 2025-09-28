@@ -1,8 +1,11 @@
 id = "01K67YK08YS0C35F41K5WTVB7F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00802"
+
+[meta]
 bill_number = 802
 congress = 20
-canonical = "SBN-00802"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-802", "https://web.senate.gov.ph/lisdata/4734843347!.pdf",]
 title = "RESPONSIBLE PUBLIC UTILITY AND CARGO VEHICLE OPERATORS ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING RESPONSIBLE PUBLIC UTILITY AND CARGO VEHICLE OPER
 scope = "National"
 subjects = [ "Public Utility Vehicles", "Trucks", "Road Crash Victims",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Public Services"

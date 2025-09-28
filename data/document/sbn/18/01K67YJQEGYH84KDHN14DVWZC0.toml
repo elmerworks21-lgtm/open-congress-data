@@ -1,8 +1,11 @@
 id = "01K67YJQEGYH84KDHN14DVWZC0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01519"
+
+[meta]
 bill_number = 1519
 congress = 18
-canonical = "SBN-01519"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1519", "https://web.senate.gov.ph/lisdata/3272729588!.pdf",]
 title = "COVID-19 ECONOMIC LIFELINE ACT"
 date_filed = "2020-05-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE IMMEDIATE DISPOSITION OF GOVERNMENT 
 scope = "National"
 subjects = [ "Covid-19", "Government Property",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2020-05-11"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-11"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/11/2020"
+date = "2020-05-11"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

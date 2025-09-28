@@ -1,8 +1,11 @@
 id = "01K67YJ2YJ20ZBS5HZ288MW7X7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02969"
+
+[meta]
 bill_number = 2969
 congress = 14
-canonical = "SBN-02969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2969", "https://web.senate.gov.ph/lisdata/97028801!.pdf",]
 title = "EMERGENCY TELEPHONE CALLS AND COMMUNICATIONS REGULATION"
 date_filed = "2008-12-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO SUPPORT AND REGULATE THE USE OF EMERGENCY TELEPHONE CALL
 scope = "National"
 subjects = [ "Telecommunications", "Emergency Telephone Calls/Communications",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-12-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/16/2008"
+date = "2008-12-16"
 
 [[committees]]
 name = "Public Services"

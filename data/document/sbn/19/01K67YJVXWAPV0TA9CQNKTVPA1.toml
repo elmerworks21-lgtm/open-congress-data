@@ -1,8 +1,11 @@
 id = "01K67YJVXWAPV0TA9CQNKTVPA1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01501"
+
+[meta]
 bill_number = 1501
 congress = 19
-canonical = "SBN-01501"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1501", "https://web.senate.gov.ph/lisdata/3986336174!.pdf",]
 title = "AUTHORIZING THE COMELEC TO DESIGNATE PRECINCTS FOR PERSONS WITH DISABILITIES AND SENIOR CITIZENS"
 date_filed = "2022-11-14"
@@ -10,37 +13,38 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10366, OTHERWISE KNOWN AS AN ACT 
 scope = "National"
 subjects = [ "Senior Citizen/Elderly", "Persons with Disabilities (PWDS)", "Polling Places", "Commission on Election (Comelec)",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-14"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "Returned and submitted jointly by the Committees on ELECTORAL REFORMS AND PEOPLES PARTICIPATION, SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE per Committee Report No. 437, recommending that it be substituted by SBN-2908;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-14"
 action = "SUBSTITUTED BY SBN-2908 UNDER COMMITTEE REPORT NO. 437."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/14/2025"
+date = "2025-01-14"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

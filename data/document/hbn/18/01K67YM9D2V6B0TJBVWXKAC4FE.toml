@@ -1,24 +1,28 @@
 id = "01K67YM9D2V6B0TJBVWXKAC4FE"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07988"
+
+[meta]
 bill_number = 7988
 congress = 18
-canonical = "HBN-07988"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7988", "https://web.senate.gov.ph/lisdata/3406630868!.pdf",]
 title = "MALUBAL FALLS ECOTOURISM ACT"
 long_title = "AN ACT DECLARING THE MALUBAL FALLS IN THE MUNICIPALITY OF ROSELLER T. LIM, PROVINCE OF ZAMBOANGA SIBUGAY, AN ECOTOURISM SITE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism (Ecotourism Zone", "Ecotourism Site)",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-12-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-09"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/9/2020"
+date = "2020-12-09"
 
 [[committees]]
 name = "Tourism"

@@ -1,8 +1,11 @@
 id = "01K67YJ19D98PHS4RGBP3PJ14Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00850"
+
+[meta]
 bill_number = 850
 congress = 14
-canonical = "SBN-00850"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-850", "https://web.senate.gov.ph/lisdata/50774467!.pdf",]
 title = "PROCEEDS FROM SALE OF GOVERNMENT PROPERTIES FOR THE BENEFITS OF VETERANS"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE USE OF THE PROCEEDS FROM THE DEVELOPMENT, LEA
 scope = "National"
 subjects = [ "Veterans/Military Retirees Pensions/Benefits", "Government Properties",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "National Defense and Security"

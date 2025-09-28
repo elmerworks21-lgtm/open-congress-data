@@ -1,8 +1,11 @@
 id = "01K67YJD83Y1SD34PGK76AXGB7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01498"
+
+[meta]
 bill_number = 1498
 congress = 16
-canonical = "SBN-01498"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1498", "https://web.senate.gov.ph/lisdata/1759614830!.pdf",]
 title = "AMENDING SEC. 12, SOCIAL SECURITY ACT"
 date_filed = "2013-09-04"
@@ -10,29 +13,30 @@ long_title = "AN ACT INCREASING PENSIONS UNDER THE SOCIAL SECURITY SYSTEM AMENDI
 scope = "National"
 subjects = [ "Pension", "Social Security System (SSS)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-04"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-09"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-25"
 action = "Returned and submitted jointly by the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT per Committee Report No. 213, recommending that it be considered in HBN-5842;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-26"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-26"
 action = "CONSIDERED IN HBN-5842 UNDER C.R. NO. 213."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/26/2015"
+date = "2015-08-26"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

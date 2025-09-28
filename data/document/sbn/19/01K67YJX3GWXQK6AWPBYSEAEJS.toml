@@ -1,8 +1,11 @@
 id = "01K67YJX3GWXQK6AWPBYSEAEJS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02988"
+
+[meta]
 bill_number = 2988
 congress = 19
-canonical = "SBN-02988"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2988", "https://web.senate.gov.ph/lisdata/4597542010!.pdf",]
 title = "CONSUMER ACT OF THE PHILIPPINES"
 date_filed = "2025-02-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING ADDITIONAL REQUIREMENTS FOR LABELING AND PACKAG
 scope = "National"
 subjects = [ "Consumer Act (R.A.No. 7394)", "Packaging (Bio-Degradable Materials)",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2025-02-12"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2025"
+date = "2025-06-02"
 
 [[committees]]
 name = "Health and Demography"

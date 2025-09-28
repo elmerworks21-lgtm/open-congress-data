@@ -1,8 +1,11 @@
 id = "01K67YCNZ37NRTSQK9PC7FF7MV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01067"
+
+[meta]
 bill_number = 1067
 congress = 13
-canonical = "SBN-01067"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1067", "https://web.senate.gov.ph/lisdata/22751428!.pdf",]
 title = "CHILD NUTRITION ACT OF THE PHILIPPINES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A SCHOOL NUTRITION PROGRAM AND FOR OTHER PURP
 scope = "National"
 subjects = [ "Child Nutrition Act", "School Feeding Program",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-06"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2004"
+date = "2004-09-06"
 
 [[committees]]
 name = "Education, Arts and Culture"

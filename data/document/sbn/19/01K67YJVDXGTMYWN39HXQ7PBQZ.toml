@@ -1,8 +1,11 @@
 id = "01K67YJVDXGTMYWN39HXQ7PBQZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00820"
+
+[meta]
 bill_number = 820
 congress = 19
-canonical = "SBN-00820"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-820", "https://web.senate.gov.ph/lisdata/3858435035!.pdf",]
 title = "RENTAL PAYMENT AND EVICTION MORATORIUM DURING DISASTERS AND EMERGENCIES ACT"
 date_filed = "2022-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MORATORIUM ON RENTAL PAYMENT AND EVICTION D
 scope = "National"
 subjects = [ "Moratorium", "Rental Payment/Space Rental/Commercial Rental",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

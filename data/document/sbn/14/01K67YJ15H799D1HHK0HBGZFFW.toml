@@ -1,8 +1,11 @@
 id = "01K67YJ15H799D1HHK0HBGZFFW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00659"
+
+[meta]
 bill_number = 659
 congress = 14
-canonical = "SBN-00659"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-659", "https://web.senate.gov.ph/lisdata/48814248!.pdf",]
 title = "SPEECH PATHOLOGY ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE PRACTICE OF SPEECH PATHOLOGY IN THE PHILIPPI
 scope = "National"
 subjects = [ "Speech Pathology",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

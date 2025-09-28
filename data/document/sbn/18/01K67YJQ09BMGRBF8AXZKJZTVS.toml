@@ -1,8 +1,11 @@
 id = "01K67YJQ09BMGRBF8AXZKJZTVS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00917"
+
+[meta]
 bill_number = 917
 congress = 18
-canonical = "SBN-00917"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-917", "https://web.senate.gov.ph/lisdata/3130628204!.pdf",]
 title = "PHILIPPINE RISE DEVELOPMENT AUTHORITY ACT OR PRDA ACT"
 date_filed = "2019-08-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY, DEFININ
 scope = "National"
 subjects = [ "Philippine Rise Development Authority",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-19"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; ECONOMIC AFFAIRS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2019"
+date = "2019-08-20"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

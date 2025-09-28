@@ -1,8 +1,11 @@
 id = "01K67YJWKWGSY0AHMZ2T2QWEGY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02434"
+
+[meta]
 bill_number = 2434
 congress = 19
-canonical = "SBN-02434"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2434", "https://web.senate.gov.ph/lisdata/4264738781!.pdf",]
 title = "ARMED FORCES OF THE PHILIPPINES (AFP) PENSION SYSTEM ACT"
 date_filed = "2023-09-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT CREATING A SUSTAINABLE FRAMEWORK FOR THE PENSION SYSTEM OF 
 scope = "National"
 subjects = [ "Pension", "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-07"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-11"
 action = "Read on First Reading and Referred to the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-10-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "Returned and submitted jointly by the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION, GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES, WAYS AND MEANS and FINANCE per Committee Report No. 173, recommending that it be substituted by SBN-2501;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "SUBSTITUTED BY SBN-2501 UNDER COMMITTEE REPORT NO. 173."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/29/2023"
+date = "2023-11-29"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

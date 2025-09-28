@@ -1,24 +1,28 @@
 id = "01K67YMDC8B122CND8MFMFC1SR"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08452"
+
+[meta]
 bill_number = 8452
 congress = 19
-canonical = "HBN-08452"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8452", "https://web.senate.gov.ph/lisdata/4248238652!.pdf",]
 title = "PHILIPPINE PHYSICAL THERAPY LAW"
 long_title = "AN ACT REGULATING THE REGISTRATION, LICENSURE, AND PRACTICE OF PHYSICAL THERAPY, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Physical Therapy", "Licensure",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-30"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2023"
+date = "2023-08-30"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

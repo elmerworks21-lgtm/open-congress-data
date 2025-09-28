@@ -1,8 +1,11 @@
 id = "01K67YJJG8EF7DJMGTC4T5BH62"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01797"
+
+[meta]
 bill_number = 1797
 congress = 17
-canonical = "SBN-01797"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1797", "https://web.senate.gov.ph/lisdata/2781824081!.pdf",]
 title = "AMENDING SECTIONS 16 (A) AND 16 (B) OF REPUBLIC ACT NO. 9231( CHILD LABOR)"
 date_filed = "2018-05-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTIONS 16 (A) AND 16 (B) OF REPUBLIC ACT NO. 923
 scope = "National"
 subjects = [ "Child Abuse, Exploitation and Discrimination Act (R.A.No. 7610)", "Child Labor",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2018-05-08"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2018"
+date = "2018-05-16"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

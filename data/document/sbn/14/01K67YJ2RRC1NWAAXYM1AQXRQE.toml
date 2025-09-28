@@ -1,8 +1,11 @@
 id = "01K67YJ2RRC1NWAAXYM1AQXRQE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02708"
+
+[meta]
 bill_number = 2708
 congress = 14
-canonical = "SBN-02708"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2708", "https://web.senate.gov.ph/lisdata/91938307!.pdf",]
 title = "MAGNA CARTA FOR WORKERS IN THE INFORMAL ECONOMY"
 date_filed = "2008-11-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR WORKERS IN THE INFORMAL ECO
 scope = "National"
 subjects = [ "Magna Carta for Workers in the Informal Economy",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-12"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2008"
+date = "2008-11-12"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

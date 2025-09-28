@@ -1,8 +1,11 @@
 id = "01K67YJ2KCAZXMN860GKSXSH4T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02459"
+
+[meta]
 bill_number = 2459
 congress = 14
-canonical = "SBN-02459"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2459", "https://web.senate.gov.ph/lisdata/79157130!.pdf",]
 title = "REDUCING THE AXLE LOAD LIMIT MANDATED BY LAW, AMENDING R.A.NO. 8794"
 date_filed = "2008-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 6 OF REPUBLIC ACT 8794, ALSO KNOWN AS AN A
 scope = "National"
 subjects = [ "R.A.No. 8794 (Motor Vehicle Users Charge), Amendments",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-22"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2008"
+date = "2008-08-05"
 
 [[committees]]
 name = "Public Works"

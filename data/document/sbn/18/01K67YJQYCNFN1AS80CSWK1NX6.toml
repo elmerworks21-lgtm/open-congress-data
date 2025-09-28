@@ -1,8 +1,11 @@
 id = "01K67YJQYCNFN1AS80CSWK1NX6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02175"
+
+[meta]
 bill_number = 2175
 congress = 18
-canonical = "SBN-02175"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2175", "https://web.senate.gov.ph/lisdata/3499031817!.pdf",]
 title = "MATERNITY BENEFIT FOR WOMEN IN THE INFORMAL ECONOMY ACT OF 2021"
 date_filed = "2021-05-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING A MATERNITY BENEFIT TO WOMEN WORKERS IN THE INFORM
 scope = "National"
 subjects = [ "Maternity Benefits", "Women",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2021-05-11"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-18"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2021"
+date = "2021-05-18"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

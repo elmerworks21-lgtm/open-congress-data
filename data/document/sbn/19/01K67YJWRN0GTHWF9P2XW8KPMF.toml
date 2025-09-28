@@ -1,8 +1,11 @@
 id = "01K67YJWRN0GTHWF9P2XW8KPMF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02598"
+
+[meta]
 bill_number = 2598
 congress = 19
-canonical = "SBN-02598"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2598", "https://web.senate.gov.ph/lisdata/4367139700!.pdf",]
 title = "STATE UNIVERSITIES AND COLLEGES (SUCS) MENTAL HEALTH SERVICES ACT"
 date_filed = "2024-03-11"
@@ -10,49 +13,50 @@ long_title = "AN ACT STRENGTHENING THE MENTAL HEALTH SERVICES OF STATE UNIVERSIT
 scope = "National"
 subjects = [ "State Universities and Colleges (SUCS) Mental Health Services",]
 authors_raw = "Estrada, Jinggoy E., Revilla Jr., Ramon Bong, Go, Christopher Lawrence T., Lapid, Manuel \"Lito\" M., Escudero, Francis G., Angara, Sonny, Hontiveros, Risa, Villanueva, Joel, Legarda, Loren B., Tulfo, Raffy T., Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-11"
 action = "Prepared and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, HEALTH AND DEMOGRAPHY and FINANCE with Senators JINGGOY E. ESTRADA, RAMON BONG REVILLA JR., CHRISTOPHER LAWRENCE T. GO, MANUEL 'LITO' M. LAPID, FRANCIS G. ESCUDERO and SONNY ANGARA as authors per Committee Report No. 233, recommending its approval in substitution of S. Nos. 1508, 1630, 1786 and 1796, taking into consideration H, No. 6416;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Sponsor: Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Sponsorship speech of Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Co-sponsorship speech of Senators RAFFY T. TULFO, JOEL VILLANUEVA, RAMON BONG REVILLA JR. and LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Manifestation of Senators RISA HONTIVEROS and JOEL VILLANUEVA that they be made co-authors and co-sponsors;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Letter from Senator LOREN LEGARDA, expressing her intention to co-author of SBN-2598, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Letter from Senator RAFFY TULFO, dated March 19, 2024, conveying his intention to be made co-author of SBN-2598, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Letter from Senator WIN GATCHALIAN dated September 11, 2024, conveying his intention to be co-author of SBN-2598, received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/19/2024"
+date = "2024-03-19"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

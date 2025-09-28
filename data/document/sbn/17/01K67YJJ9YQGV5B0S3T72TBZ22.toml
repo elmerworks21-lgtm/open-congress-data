@@ -1,8 +1,11 @@
 id = "01K67YJJ9YQGV5B0S3T72TBZ22"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01566"
+
+[meta]
 bill_number = 1566
 congress = 17
-canonical = "SBN-01566"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1566", "https://web.senate.gov.ph/lisdata/2658722859!.pdf",]
 title = "AMENDING COMMONWEALTH ACT NO. 473 (REVISED NATURALIZATION LAW)"
 date_filed = "2017-08-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING COMMONWEALTH ACT NO. 473, OTHERWISE KNOWN AS THE R
 scope = "National"
 subjects = [ "Commonwealth Act", "Revised Naturalization Law (C.A.No. 473)", "Citizenship",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-24"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-29"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2017"
+date = "2017-08-29"
 
 [[committees]]
 name = "Justice and Human Rights"

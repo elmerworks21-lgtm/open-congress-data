@@ -1,8 +1,11 @@
 id = "01K67YCPH09P5B7666JNEVAQXN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02001"
+
+[meta]
 bill_number = 2001
 congress = 13
-canonical = "SBN-02001"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2001", "https://web.senate.gov.ph/lisdata/34272710!.pdf",]
 title = "NATIONAL LABOR RELATION COMMISSION"
 date_filed = "2005-05-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE JURISDICTION OF LABOR CASES BETWEEN THE NATION
 scope = "National"
 subjects = [ "National Labor Relations Commission",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2005-05-17"
 action = "Introduced by Senator JUAN M. FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-17"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2005"
+date = "2005-05-17"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

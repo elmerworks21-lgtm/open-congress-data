@@ -1,8 +1,11 @@
 id = "01K67YJ1DP6T75YPA8V83KFM0C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01056"
+
+[meta]
 bill_number = 1056
 congress = 14
-canonical = "SBN-01056"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1056", "https://web.senate.gov.ph/lisdata/53324720!.pdf",]
 title = "NON-INDIGENOUS SPECIES MANAGEMENT ACT OF 2007"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE NON-INDIGENOUS SPECIES MANAGEMENT PLAN AND LIS
 scope = "National"
 subjects = [ "Non-Indigenous Species Management Act of 2007",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Environment and Natural Resources"

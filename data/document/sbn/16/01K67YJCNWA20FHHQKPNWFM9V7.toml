@@ -1,8 +1,11 @@
 id = "01K67YJCNWA20FHHQKPNWFM9V7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00612"
+
+[meta]
 bill_number = 612
 congress = 16
-canonical = "SBN-00612"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-612", "https://web.senate.gov.ph/lisdata/1654313785!.pdf",]
 title = "CONDONATION OF ALL UNPAID TAXES DUE FROM LOCAL WATER DISTRICTS"
 date_filed = "2013-07-08"
@@ -10,29 +13,30 @@ long_title = "AN ACT REMOVING THE CONDITIONS FOR THE CONDONATION OF ALL UNPAID T
 scope = "National"
 subjects = [ "Local Water Utilities Administration (LWUA)", "Taxes/Taxation", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-17"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 94, recommending that it be considered in SBN-2518;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-17"
 action = "CONSIDERED IN SBN-2518 UNDER C.R. NO. 94."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/17/2014"
+date = "2014-12-17"
 
 [[committees]]
 name = "Ways and Means"

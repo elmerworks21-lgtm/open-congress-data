@@ -1,8 +1,11 @@
 id = "01K67YJ928QRFAM6WXWHP9PG9V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02624"
+
+[meta]
 bill_number = 2624
 congress = 15
-canonical = "SBN-02624"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2624", "https://web.senate.gov.ph/lisdata/105088985!.pdf",]
 title = "TAX DEDUCTIONS TO PARENTS/GUARDIANS OF CHILDREN WITH SPECIAL NEEDS"
 date_filed = "2010-12-09"
@@ -10,33 +13,34 @@ long_title = "AN ACT GRANTING TAX DEDUCTIONS TO PARENTS AND LEGAL GUARDIANS OF C
 scope = "National"
 subjects = [ "Tax Incentives", "Children with Special Needs",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-12-09"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-12-13"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-02-01"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-31"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 43, recommending that it be substituted by SBN-2855;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-01"
 action = "SUBSTITUTED BY SBN-2855, under Committee Report No. 43."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/1/2011"
+date = "2011-06-01"
 
 [[committees]]
 name = "Ways and Means"

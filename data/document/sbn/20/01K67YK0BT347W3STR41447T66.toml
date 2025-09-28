@@ -1,8 +1,11 @@
 id = "01K67YK0BT347W3STR41447T66"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00956"
+
+[meta]
 bill_number = 956
 congress = 20
-canonical = "SBN-00956"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-956", "https://web.senate.gov.ph/lisdata/4750743512!.pdf",]
 title = "EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOMEN"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOM
 scope = "National"
 subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Women", "Anti-Discrimination",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

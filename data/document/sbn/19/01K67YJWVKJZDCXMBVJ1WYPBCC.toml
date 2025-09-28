@@ -1,8 +1,11 @@
 id = "01K67YJWVKJZDCXMBVJ1WYPBCC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02717"
+
+[meta]
 bill_number = 2717
 congress = 19
-canonical = "SBN-02717"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2717", "https://web.senate.gov.ph/lisdata/4427240229!.pdf",]
 title = "AMENDING SEC. 2 OF R.A. NO. 7652 (THE INVESTORS LEASE ACT)"
 date_filed = "2024-07-02"
@@ -10,37 +13,38 @@ long_title = "AN ACT LIBERALIZING THE LEASE OF LANDS BY FOREIGN INVESTORS, ESTAB
 scope = "National"
 subjects = [ "Investors Lease", "Foreign Investments",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-02"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-29"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 428, recommending that it be substituted by SBN-2898;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "SUBSTITUTED BY SBN-2898 UNDER COMMITTE REPORT NO. 428, WHICH BECAME REPUBLIC ACT NO. 12252 ON SEPTEMBER 3, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/10/2024"
+date = "2024-12-10"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YCNQX4RNVR4F5FE3DGTCB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00674"
+
+[meta]
 bill_number = 674
 congress = 13
-canonical = "SBN-00674"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-674", "https://web.senate.gov.ph/lisdata/18601235!.pdf",]
 title = "PROPERTY REGISTRATION DECREE (ABSOLUTE COMMUNITY-BOTH SPOUSE"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENHANCE THE ROLE OF WOMEN IN NATION BUILDING AND OPTIMIZ
 scope = "National"
 subjects = [ "Property Registration (Pd 1529)", "Women (Conjugal Property Registration)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

@@ -1,8 +1,11 @@
 id = "01K67YJ2R19GKBF2AKNDTBEDJN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02675"
+
+[meta]
 bill_number = 2675
 congress = 14
-canonical = "SBN-02675"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2675", "https://web.senate.gov.ph/lisdata/90598239!.pdf",]
 title = "PREGNANT AND PARENTING STUDENT SERVICES ACT OF 2008"
 date_filed = "2008-10-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH A PILOT PROGRAM TO PROVIDE GRANTS TO ENCOURAGE
 scope = "National"
 subjects = [ "Pregnant and Parenting Student Services",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-11"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; YOUTH, WOMEN AND FAMILY RELATIONS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/11/2008"
+date = "2008-11-11"
 
 [[committees]]
 name = "Education, Arts and Culture"

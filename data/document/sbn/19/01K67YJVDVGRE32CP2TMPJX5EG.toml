@@ -1,8 +1,11 @@
 id = "01K67YJVDVGRE32CP2TMPJX5EG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00818"
+
+[meta]
 bill_number = 818
 congress = 19
-canonical = "SBN-00818"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-818", "https://web.senate.gov.ph/lisdata/3857935030!.pdf",]
 title = "FAIR DEBT COLLECTION PRACTICES ACT"
 date_filed = "2022-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE DEBT COLLECTION PRACTICES OF DEBT COLLECTORS
 scope = "National"
 subjects = [ "Fair Debt", "Debt Service/Collection",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

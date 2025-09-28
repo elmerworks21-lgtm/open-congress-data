@@ -1,8 +1,11 @@
 id = "01K67YJVW8B026SP7WM3TVA6JN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01441"
+
+[meta]
 bill_number = 1441
 congress = 19
-canonical = "SBN-01441"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1441", "https://web.senate.gov.ph/lisdata/3975736234!.pdf",]
 title = "POVERTY REDUCTION TROUGH SOCIAL ENTREPRENEUERSHIP (PRESENT) ACT"
 date_filed = "2022-11-02"
@@ -10,41 +13,42 @@ long_title = "AN ACT INSTITUTIONALIZING THE POVERTY REDUCTION THROUGH SOCIAL ENT
 scope = "National"
 subjects = [ "Poverty Reduction Through Social Entrepreneurship Program (Present)",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-02"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-21"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Referred to the Sub-Committee on Trade, Commerce and Entrepreneurship;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-04-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/21/2022"
+date = "2022-11-21"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

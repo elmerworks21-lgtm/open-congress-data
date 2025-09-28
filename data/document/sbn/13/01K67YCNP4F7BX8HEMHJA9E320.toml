@@ -1,8 +1,11 @@
 id = "01K67YCNP4F7BX8HEMHJA9E320"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00572"
+
+[meta]
 bill_number = 572
 congress = 13
-canonical = "SBN-00572"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-572", "https://web.senate.gov.ph/lisdata/17271093!.pdf",]
 title = "CHARTER OF THE PHILIPPINE TEACHERS BANK"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE TEACHERS BANK, AND FOR OTHER PURPOS
 scope = "National"
 subjects = [ "Teachers Bank Charter, Creation",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-11"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2004"
+date = "2004-08-11"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

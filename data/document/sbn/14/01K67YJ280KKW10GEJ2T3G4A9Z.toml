@@ -1,8 +1,11 @@
 id = "01K67YJ280KKW10GEJ2T3G4A9Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01986"
+
+[meta]
 bill_number = 1986
 congress = 14
-canonical = "SBN-01986"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1986", "https://web.senate.gov.ph/lisdata/66475888!.pdf",]
 title = "MALOLOS CITY CHARTER"
 date_filed = "2007-12-19"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING SECTION 57 OF REPUBLIC ACT NO. 8754, ENTITLED AN A
 scope = "Local"
 subjects = [ "Municipality, Conversion",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2007-12-19"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-19"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-13"
 action = "Referred to the Committee on LOCAL GOVERNMENT, on motion of Senator Pangilinan;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-06"
 action = "Returned and submitted jointly by the Committee(s) on LOCAL GOVERNMENT and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS per Committee Report No. 106, recommending that it be considered in HBN-3693;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-06"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-06"
 action = "CONSIDERED IN HBN-3693."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/6/2008"
+date = "2008-10-06"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJQ0BDX76T5SQPGJGRXMX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00920"
+
+[meta]
 bill_number = 920
 congress = 18
-canonical = "SBN-00920"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-920", "https://web.senate.gov.ph/lisdata/3129528195!.pdf",]
 title = "MAGNA CARTA OF THE OUT-OF-SCHOOL YOUTH"
 date_filed = "2019-08-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF THE OUT-OF-SCHOOL YOUTH"
 scope = "National"
 subjects = [ "Magna Carta of the Out-Of-School Youth",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-19"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2019"
+date = "2019-08-20"
 
 [[committees]]
 name = "Youth"

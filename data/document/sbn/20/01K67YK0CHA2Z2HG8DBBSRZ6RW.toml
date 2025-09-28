@@ -1,8 +1,11 @@
 id = "01K67YK0CHA2Z2HG8DBBSRZ6RW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00992"
+
+[meta]
 bill_number = 992
 congress = 20
-canonical = "SBN-00992"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-992", "https://web.senate.gov.ph/lisdata/4742543428!.pdf",]
 title = "URBAN AND COUNTRYSIDE GREENING ACT"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE URBAN AND COUNTRYSIDE GREENING IN THE PHI
 scope = "National"
 subjects = [ "Urban and Countryside Greening",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

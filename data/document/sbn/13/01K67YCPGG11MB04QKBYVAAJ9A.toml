@@ -1,8 +1,11 @@
 id = "01K67YCPGG11MB04QKBYVAAJ9A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01977"
+
+[meta]
 bill_number = 1977
 congress = 13
-canonical = "SBN-01977"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1977", "https://web.senate.gov.ph/lisdata/33082457!.pdf",]
 title = "GIRL SCOUTS OF THE PHILIPPINES AS A CORPORATION"
 date_filed = "2005-04-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER AMENDING COMMONWEALTH ACT NO. 542, AS AMENDED, OTHE
 scope = "National"
 subjects = [ "Girl Scouts of the Philippines (GSP)", "Commonwealth Act (C.A.No. 542)",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2005-04-11"
 action = "Introduced by Senator BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-04-12"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/12/2005"
+date = "2005-04-12"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

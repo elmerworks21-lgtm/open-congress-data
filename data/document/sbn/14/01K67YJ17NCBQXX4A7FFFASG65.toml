@@ -1,8 +1,11 @@
 id = "01K67YJ17NCBQXX4A7FFFASG65"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00763"
+
+[meta]
 bill_number = 763
 congress = 14
-canonical = "SBN-00763"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-763", "https://web.senate.gov.ph/lisdata/49874376!.pdf",]
 title = "NATIONAL CHILDREN'S DAY ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING NOVEMBER 20 OF EVERY YEAR A SPECIAL NONWORKING HO
 scope = "National"
 subjects = [ "Holidays",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator COMPANERA PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

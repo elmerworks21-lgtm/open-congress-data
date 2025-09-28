@@ -1,8 +1,11 @@
 id = "01K67YCNRKM95XGDK5H3DBB88X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00715"
+
+[meta]
 bill_number = 715
 congress = 13
-canonical = "SBN-00715"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-715", "https://web.senate.gov.ph/lisdata/19051287!.pdf",]
 title = "RECYCLE WASTE ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE RECYCLING AND THE UTILIZATION OF RECYCLED MAT
 scope = "National"
 subjects = [ "Recycle Waste Act", "Educational Institutions/Recycled Papers",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-18"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2004"
+date = "2004-08-18"
 
 [[committees]]
 name = "Environment and Natural Resources"

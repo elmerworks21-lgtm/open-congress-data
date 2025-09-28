@@ -1,8 +1,11 @@
 id = "01K67YJHAA4X1JJB2MCBFT9WFY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00252"
+
+[meta]
 bill_number = 252
 congress = 17
-canonical = "SBN-00252"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-252", "https://web.senate.gov.ph/lisdata/2369120333!.pdf",]
 title = "PREPAID SUBSCRIBER IDENTITY MODULE (SIM) CARDS REGULATIONS ACT OF 2016"
 date_filed = "2016-07-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT REGULATING THE SALE OF PREPAID SUBSCRIBER IDENTITY MODULE (
 scope = "National"
 subjects = [ "Sim Card Registration", "Cellular Phones/Cell Phones",]
 authors_raw = "Lacson, Panfilo M., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-07"
 action = "On motion of Senator Sotto III, Senator JOEL VILLANUEVA was made a coauthor;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Public Services"

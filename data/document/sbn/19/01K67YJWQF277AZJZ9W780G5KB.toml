@@ -1,8 +1,11 @@
 id = "01K67YJWQF277AZJZ9W780G5KB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02563"
+
+[meta]
 bill_number = 2563
 congress = 19
-canonical = "SBN-02563"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2563", "https://web.senate.gov.ph/lisdata/4353539584!.pdf",]
 title = "PHILIPPINE INDIFGENOUS GAMES PRESERVATION ACT"
 date_filed = "2024-02-22"
@@ -10,25 +13,26 @@ long_title = "AN ACT PRESERVING THE INDIGENOUS GAMES OF THE PHILIPPINES, AND APP
 scope = "National"
 subjects = [ "Indigenous Games",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2024-02-22"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-26"
 action = "Read on First Reading and Referred to the Committees on CULTURE AND THE ARTS; SPORTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-06-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/26/2024"
+date = "2024-02-26"
 
 [[committees]]
 name = "Culture and the Arts"

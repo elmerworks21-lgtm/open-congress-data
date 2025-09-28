@@ -1,25 +1,29 @@
 id = "01K67YJ2AVYT6P6F91C41J9FH2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02101"
+
+[meta]
 bill_number = 2101
 congress = 14
-canonical = "SBN-02101"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2101", "https://web.senate.gov.ph/lisdata/69646204!.pdf",]
 title = "FILIPINO COMFORT WOMEN"
 date_filed = "2008-03-03"
 long_title = "AN ACT PROVIDING FOR THE INCLUSION IN PHILIPPINE HISTORY BOOKS THE LIVES AND HEROISM OF FILIPINO COMFORT WOMEN DURING THE JAPANESE OCCUPATION AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-03-03"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-05"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/5/2008"
+date = "2008-03-05"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJJRT8BJ63RQR9P3JKMQ1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02120"
+
+[meta]
 bill_number = 2120
 congress = 17
-canonical = "SBN-02120"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2120", "https://web.senate.gov.ph/lisdata/2906525637!.pdf",]
 title = "NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY ACT OF 2018"
 date_filed = "2018-11-29"
@@ -10,49 +13,50 @@ long_title = "AN ACT INSTITUTIONALIZING THE NATIONAL ECONOMIC AND DEVELOPMENT AU
 scope = "National"
 subjects = [ "National Economic Development Authority (NEDA)",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-29"
 action = "Prepared and submitted jointly by the Committees on ECONOMIC AFFAIRS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE with Senator SHERWIN T. GATCHALIAN as author per Committee Report No. 525, recommending its approval in substitution of SBN-1938;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Sponsor: Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Sponsor: Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Sponsorship speech of Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Interpellation of Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-20"
 action = "Period of committee amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-20"
 action = "Period of individual amendments;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "12/3/2018"
+date = "2018-12-03"
 
 [[committees]]
 name = "Economic Affairs"

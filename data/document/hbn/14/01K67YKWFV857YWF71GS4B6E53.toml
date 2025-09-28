@@ -1,24 +1,28 @@
 id = "01K67YKWFV857YWF71GS4B6E53"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04964"
+
+[meta]
 bill_number = 4964
 congress = 14
-canonical = "HBN-04964"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4964", "https://web.senate.gov.ph/lisdata/93958491!.pdf",]
 title = "BAHAO - SAN ISIDRO - CABUSAO NATIONAL SECONDARY ROAD (CAMARINES SUR)"
 long_title = "AN ACT CONVERTING THE BAHAO - SAN ISIDRO - CABUSAO ROAD IN THE MUNICIPALITIES OF LIBMANAN AND CABUSAO, PROVINCE OF CAMARINES SUR INTO A NATIONAL SECONDARY ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-20"
 action = "Filed in the Senate requesting for concurrence by Representative DIOSDADO MACAPAGAL ARROYO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2008"
+date = "2008-11-25"
 
 [[committees]]
 name = "Public Works"

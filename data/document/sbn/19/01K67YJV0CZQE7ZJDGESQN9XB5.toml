@@ -1,8 +1,11 @@
 id = "01K67YJV0CZQE7ZJDGESQN9XB5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00194"
+
+[meta]
 bill_number = 194
 congress = 19
-canonical = "SBN-00194"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-194", "https://web.senate.gov.ph/lisdata/3790234776!.pdf",]
 title = "E-GOVERNANCE ACT OF 2022"
 date_filed = "2022-07-07"
@@ -10,53 +13,54 @@ long_title = "AN ACT INSTITUTIONALIZING THE TRANSITION OF THE GOVERNMENT TO E-GO
 scope = "National"
 subjects = [ "E-Government Services", "Department of Information and Communications Technology (DICT)", "Digital Technology",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-06-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-10-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-14"
 action = "Returned and submitted jointly by the Committees on SCIENCE AND TECHNOLOGY, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, LOCAL GOVERNMENT, PUBLIC INFORMATION AND MASS MEDIA and FINANCE per Committee Report No. 297, recommending that it be substituted by SBN-2781;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "SUBSTITUTED BY SBN-2781 UNDER COMMITTEE REPORT NO. 297."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/19/2024"
+date = "2024-08-19"
 
 [[committees]]
 name = "Science and Technology"

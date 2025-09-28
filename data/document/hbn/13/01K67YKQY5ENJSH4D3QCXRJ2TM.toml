@@ -1,24 +1,28 @@
 id = "01K67YKQY5ENJSH4D3QCXRJ2TM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04414"
+
+[meta]
 bill_number = 4414
 congress = 13
-canonical = "HBN-04414"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4414", "https://web.senate.gov.ph/lisdata/42333715!.pdf",]
 title = "PANGASINAN FOURTH DISTRICT ENGINEERING OFFICE"
 long_title = "AN ACT UPGRADING THE PANGASINAN SECOND SUBDISTRICT ENGINEERING OFFICE INTO A REGULAR DISTRICT ENGINEERING OFFICE TO BE KNOWN AS THE PANGASINAN FOURTH DISTRICT ENGINEERING OFFICE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Pangasinan Fourth District Engineering Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-11-21"
 action = "Filed in the Senate requesting for concurrence by Representative GENEROSO DC. TULAGAN as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-22"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2005"
+date = "2005-11-22"
 
 [[committees]]
 name = "Public Works"

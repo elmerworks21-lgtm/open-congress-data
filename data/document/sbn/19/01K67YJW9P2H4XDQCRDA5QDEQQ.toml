@@ -1,8 +1,11 @@
 id = "01K67YJW9P2H4XDQCRDA5QDEQQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02017"
+
+[meta]
 bill_number = 2017
 congress = 19
-canonical = "SBN-02017"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2017", "https://web.senate.gov.ph/lisdata/4124437565!.pdf",]
 title = "NATIONAL EDUCATION COUNCIL ACT"
 date_filed = "2023-03-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE NATIONAL EDUCATION COUNCIL, DEFINING ITS POWER
 scope = "National"
 subjects = [ "Education Council",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-20"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-20"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/20/2023"
+date = "2023-03-20"
 
 [[committees]]
 name = "Basic Education"

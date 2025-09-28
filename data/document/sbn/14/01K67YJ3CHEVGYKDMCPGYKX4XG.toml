@@ -1,8 +1,11 @@
 id = "01K67YJ3CHEVGYKDMCPGYKX4XG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03544"
+
+[meta]
 bill_number = 3544
 congress = 14
-canonical = "SBN-03544"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3544", "https://web.senate.gov.ph/lisdata/1311611723!.pdf",]
 title = "RFID USERS PROTECTION ACT OF 2009"
 date_filed = "2009-11-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROTECTING THE USERS OF RADIO FREQUENCY IDENTIFICATION DEVI
 scope = "National"
 subjects = [ "Radio Frequency Identification Devices",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-11-25"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-01"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/1/2009"
+date = "2009-12-01"
 
 [[committees]]
 name = "Trade and Commerce"

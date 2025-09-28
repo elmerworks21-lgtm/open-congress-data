@@ -1,8 +1,11 @@
 id = "01K67YJQ4H3A85AGMWAV4B99DC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01101"
+
+[meta]
 bill_number = 1101
 congress = 18
-canonical = "SBN-01101"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1101", "https://web.senate.gov.ph/lisdata/3168628537!.pdf",]
 title = "UPGRADING THE RANK CLASSIFICATION STRUCTURE OF THE UNIFORMED MEMBERS OF THE BFP AND BJMP"
 date_filed = "2019-10-02"
@@ -10,33 +13,34 @@ long_title = "AN ACT UPGRADING THE RANK CLASSIFICATION STRUCTURE OF THE UNIFORME
 scope = "National"
 subjects = [ "Bureau of Fire Protection", "Bureau of Jail Management and Penology", "Department of the Interior and Local Government (DILG)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2019-10-02"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-15"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS, LOCAL GOVERNMENT, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 112, recommending that it be substituted by SBN-1833;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-15"
 action = "SUBSTITUTED BY SBN-1833 UNDER COMMITTEE REPORT NO. 112."
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/15/2020"
+date = "2020-09-15"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

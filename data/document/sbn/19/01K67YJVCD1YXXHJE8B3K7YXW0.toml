@@ -1,8 +1,11 @@
 id = "01K67YJVCD1YXXHJE8B3K7YXW0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00750"
+
+[meta]
 bill_number = 750
 congress = 19
-canonical = "SBN-00750"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-750", "https://web.senate.gov.ph/lisdata/3844634903!.pdf",]
 title = "INDUSTRIES ENGAGED IN THE EXPLOITATION OF NATURAL RESOURCES"
 date_filed = "2022-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING INDUSTRIES ENGAGED IN THE EXPLOITATION OF NATURAL
 scope = "National"
 subjects = [ "Employment", "Natural Resources", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2022"
+date = "2022-08-23"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

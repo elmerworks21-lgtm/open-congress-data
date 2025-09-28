@@ -1,24 +1,28 @@
 id = "01K67YM2VY4FB64SC6JR0A7CCD"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04626"
+
+[meta]
 bill_number = 4626
 congress = 16
-canonical = "HBN-04626"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4626", "https://web.senate.gov.ph/lisdata/1960516725!.pdf",]
 title = "AGRICULTURAL LAND (MUNICIPALITY OF JOSE P. RIZAL, PROVINCE OF PALAWAN)"
 long_title = "AN ACT DECLARING CERTAIN PARCELS OF LAND OF THE PUBLIC DOMAIN LOCATED IN BARANGAYS BUNOG, IRAAN, PUNTA BAJA, CAMPONG ULAY AND RANSANG OF THE MUNICIPALITY OF JOSE P. RIZAL, PROVINCE OF PALAWAN AS AGRICULTURAL LAND OPEN TO DISPOSITION FOR AGRICULTURAL, COMMERCIAL, RESIDENTIAL, INDUSTRIAL AND OTHER PRODUCTIVE PURPOSES"
 scope = "Local"
 subjects = [ "Agricultural Land",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-08-07"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-12"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2014"
+date = "2014-08-12"
 
 [[committees]]
 name = "Environment and Natural Resources"

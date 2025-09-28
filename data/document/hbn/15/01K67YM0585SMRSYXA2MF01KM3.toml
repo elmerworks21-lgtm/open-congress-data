@@ -1,24 +1,28 @@
 id = "01K67YM0585SMRSYXA2MF01KM3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05928"
+
+[meta]
 bill_number = 5928
 congress = 15
-canonical = "HBN-05928"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-5928", "https://web.senate.gov.ph/lisdata/1334711208!.pdf",]
 title = "PRE-HOSPITAL EMERGENCY CARE ACT OF 2012"
 long_title = "AN ACT INSTITUTIONALIZING A PRE-HOSPITAL EMERGENCY MEDICAL CARE SYSTEM, PROVIDING FOR THE ESTABLISHMENT, SUPERVISION AND REGULATION OF THE PRE-HOSPITAL EMERGENCY CARE PROFESSION AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Emergency Response", "Emergency Preparedness",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-05-23"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-06-04"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/4/2012"
+date = "2012-06-04"
 
 [[committees]]
 name = "Health and Demography"

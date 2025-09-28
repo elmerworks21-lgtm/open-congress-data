@@ -1,8 +1,11 @@
 id = "01K67YJQ1XPEA1R2F5CD0GH6R2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00996"
+
+[meta]
 bill_number = 996
 congress = 18
-canonical = "SBN-00996"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-996", "https://web.senate.gov.ph/lisdata/3140828313!.pdf",]
 title = "MANNER OF SELECTING AN ACTING PRESIDENT"
 date_filed = "2019-09-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MANNER OF SELECTING AN ACTING PRESIDENT, 
 scope = "National"
 subjects = [ "Succession", "President of the Philippines", "Constitution",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
-[[legislative_history]]
+
+[[history]]
 date = "2019-09-02"
 action = "Introduced by Senator AQUILINO 'KOKO' III PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-02"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2019"
+date = "2019-09-02"
 
 [[committees]]
 name = "Constitutional Amendments and Revision of Codes"

@@ -1,24 +1,28 @@
 id = "01K67YKWXPMF3037ESK0EJXCPZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06145"
+
+[meta]
 bill_number = 6145
 congress = 14
-canonical = "HBN-06145"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6145", "https://web.senate.gov.ph/lisdata/1145410113!.pdf",]
 title = "NATIONAL ROAD (SAN ENRIQUE, PROVINCE OF ILOILO)"
 long_title = "AN ACT CONVERTING THE PROVINCIAL ROAD WHICH STARTS FROM BADIANG IN THE MUNICIPALITY OF ANILAO THROUGH THE MUNICIPALITY OF DINGLE, AND ENDS AT POBLACION ILAWOD IN THE MUNICIPALITY OF SAN ENRIQUE, TRAVERSING BARANGAYS BADIANG - STO. ROSARIO, CAMIROS IN THE MUNICIPALITY OF ANILAO; NAMATAY - CAMAMBUGAN - ILAJAS - MOROBORO IN THE MUNICIPALITY OF DINGLE; AND RUMAGAYRAY - POBLACION ILAWOD IN THE MUNICIPALITY OF SAN ENRIQUE, PROVINCE OF ILOILO INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-26"
 action = "Filed in the Senate requesting for concurrence by Representative FERJENEL G. BIRON as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/27/2009"
+date = "2009-05-27"
 
 [[committees]]
 name = "Public Works"

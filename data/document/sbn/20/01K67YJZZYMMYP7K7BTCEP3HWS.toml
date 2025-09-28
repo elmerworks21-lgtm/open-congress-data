@@ -1,8 +1,11 @@
 id = "01K67YJZZYMMYP7K7BTCEP3HWS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00320"
+
+[meta]
 bill_number = 320
 congress = 20
-canonical = "SBN-00320"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-320", "https://web.senate.gov.ph/lisdata/4680942816!.pdf",]
 title = "INCREASING THE AUTHORIZED CAMPAIGN EXPENSES OF CANDIDATES AND POLITICAL PARTIES"
 date_filed = "2025-07-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE AUTHORIZED CAMPAIGN EXPENSES OF CANDIDATES A
 scope = "National"
 subjects = [ "Campaign Funds/Campaign Contributions/Campaign Expenditures", "Political Candidates",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-09"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-11"
 action = "Read on First Reading and Referred to the Committees on ELECTORAL REFORMS AND PEOPLES PARTICIPATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2025"
+date = "2025-08-11"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

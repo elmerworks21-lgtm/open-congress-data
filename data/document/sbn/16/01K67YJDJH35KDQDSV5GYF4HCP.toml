@@ -1,8 +1,11 @@
 id = "01K67YJDJH35KDQDSV5GYF4HCP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02010"
+
+[meta]
 bill_number = 2010
 congress = 16
-canonical = "SBN-02010"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2010", "https://web.senate.gov.ph/lisdata/1841015574!.pdf",]
 title = "AMENDING SEC. 173, PHILIPPINE INTELLECTUAL PROPERTY CODE (DERIVATIVE WORKS)"
 date_filed = "2013-12-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT CLARIFYING THE SCOPE OF DERIVATIVE WORKS, AMENDING FOR THE 
 scope = "National"
 subjects = [ "Intellectual Property Code",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-12-09"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-10"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2013"
+date = "2013-12-10"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

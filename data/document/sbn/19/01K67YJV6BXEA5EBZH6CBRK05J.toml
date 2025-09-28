@@ -1,8 +1,11 @@
 id = "01K67YJV6BXEA5EBZH6CBRK05J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00471"
+
+[meta]
 bill_number = 471
 congress = 19
-canonical = "SBN-00471"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-471", "https://web.senate.gov.ph/lisdata/3823234669!.pdf",]
 title = "BANGKO SA BARYO ACT"
 date_filed = "2022-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENABLING BANKS TO EXPAND SERVICE DELIVERY CHANNELS THROUGH 
 scope = "National"
 subjects = [ "Bangko Sa Baryo", "Bank Services",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2022"
+date = "2022-08-10"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

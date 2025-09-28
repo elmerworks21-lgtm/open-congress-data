@@ -1,24 +1,28 @@
 id = "01K67YKR4RTJ65H6JSXWWCR9NQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05106"
+
+[meta]
 bill_number = 5106
 congress = 13
-canonical = "HBN-05106"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5106", "https://web.senate.gov.ph/lisdata/52044225!.pdf",]
 title = "BUCAY PAIT NATIONAL HIGH SCHOOL (SOUTH COTABATO)"
 long_title = "AN ACT SEPARATING THE TANTANGAN NATIONAL HIGH SCHOOL – BUCAY PAIT CAMPUS IN BARANGAY BUCAY PAIT, MUNICIPALITY OF TANTANGAN, PROVINCE OF SOUTH COTABATO FROM THE TANTANGAN NATIONAL HIGH SCHOOL AND CONVERTING THE SAME INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BUCAY PAIT NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (South Cotabato)", "Bucay Pait National High School (South Cotabato)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives ARTHUR Y. PINGOY JR., EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-23"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2006"
+date = "2006-05-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

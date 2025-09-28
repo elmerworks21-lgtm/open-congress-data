@@ -1,8 +1,11 @@
 id = "01K67YJJTKXT5ZXVBMHH5WS2G8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02191"
+
+[meta]
 bill_number = 2191
 congress = 17
-canonical = "SBN-02191"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2191", "https://web.senate.gov.ph/lisdata/2947926176!.pdf",]
 title = "TOBACCO PLAIN PACKAGING ACT"
 date_filed = "2019-01-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE USE OF PLAIN PACKAGING FOR ALL TOBACCO PRODUC
 scope = "National"
 subjects = [ "Tobacco Products/Tobacco Industry", "Packaging (Bio-Degradable Materials)",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-29"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2019"
+date = "2019-01-30"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YJV5PZ2AY4TZ2NP0SAHGA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00439"
+
+[meta]
 bill_number = 439
 congress = 19
-canonical = "SBN-00439"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-439", "https://web.senate.gov.ph/lisdata/3820034638!.pdf",]
 title = "BUILD, BUILD, BUILD ACT"
 date_filed = "2022-07-12"
@@ -10,45 +13,46 @@ long_title = "AN ACT INSTITUTIONALIZING THE BUILD! BUILD! BUILD! PROGRAM"
 scope = "National"
 subjects = [ "Build, Build, Build Program",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committees on ECONOMIC AFFAIRS; PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Returned and submitted jointly by the Committees on ECONOMIC AFFAIRS (upon the recommendation of its SUB-COMMITTEE ON THE COMPREHENSIVE INFRASTRUCTURE DEVELOPMENT MASTER PLAN); PUBLIC WORKS and FINANCE per Committee Report No. 236, recommending that it be substituted by SBN-2605;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "SUBSTITUTED BY SBN-2605 UNDER COMMITTEE REPORT NO. 236."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/13/2024"
+date = "2024-03-13"
 
 [[committees]]
 name = "Economic Affairs"

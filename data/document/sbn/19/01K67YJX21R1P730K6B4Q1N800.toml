@@ -1,8 +1,11 @@
 id = "01K67YJX21R1P730K6B4Q1N800"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02932"
+
+[meta]
 bill_number = 2932
 congress = 19
-canonical = "SBN-02932"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2932", "https://web.senate.gov.ph/lisdata/4573641702!.pdf",]
 title = "LOCAL GOVERNANCE MERITOCRACY ACT"
 date_filed = "2025-01-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONSOLIDATING ALL PERFORMANCE MEASUREMENT TOOLS AND REWARDS
 scope = "National"
 subjects = [ "Seal of Good Local Governance", "Meritocracy",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2025-01-22"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-22"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/22/2025"
+date = "2025-01-22"
 
 [[committees]]
 name = "Local Government"

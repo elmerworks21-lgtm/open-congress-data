@@ -1,8 +1,11 @@
 id = "01K67YCP6J6QNE8625JS0KZE1S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01472"
+
+[meta]
 bill_number = 1472
 congress = 13
-canonical = "SBN-01472"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1472", "https://web.senate.gov.ph/lisdata/26872052!.pdf",]
 title = "ADVANCEMENT OF WOMEN AND MINORITIES (SCIENCE/ENGINEERING)"
 date_filed = "2004-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE COMMISSION ON THE ADVANCEMENT OF WOMEN IN 
 scope = "National"
 subjects = [ "Women/Minorities (Science/Engineering)", "Commission on Advancement",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-15"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; SCIENCE AND TECHNOLOGY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2004"
+date = "2004-09-15"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

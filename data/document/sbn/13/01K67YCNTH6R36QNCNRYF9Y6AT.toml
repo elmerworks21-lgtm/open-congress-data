@@ -1,8 +1,11 @@
 id = "01K67YCNTH6R36QNCNRYF9Y6AT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00824"
+
+[meta]
 bill_number = 824
 congress = 13
-canonical = "SBN-00824"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-824", "https://web.senate.gov.ph/lisdata/20221491!.pdf",]
 title = "BARANGAY TANOD MEMBERS BENEFITS AND INCENTIVES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING THE BENEFITS AND INCENTIVES OF BARANGAY TANOD MEM
 scope = "National"
 subjects = [ "Barangay Tanod (Benefits", "Incentives)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Seantor VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Local Government"

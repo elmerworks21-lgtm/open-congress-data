@@ -1,8 +1,11 @@
 id = "01K67YJJE2G2RHPJX7H76CHSBA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01714"
+
+[meta]
 bill_number = 1714
 congress = 17
-canonical = "SBN-01714"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1714", "https://web.senate.gov.ph/lisdata/2744323677!.pdf",]
 title = "HEALTHY PINOY, HEALTHY PINAS ACT"
 date_filed = "2018-02-27"
@@ -10,29 +13,30 @@ long_title = "AN ACT INSTITUTING AND INSTITUTIONALIZING REFORMS IN THE HEALTH SE
 scope = "National"
 subjects = [ "Health Care", "Health Insurance", "Philippine Health Insurance Corporation (Philhealth/Phic)",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2018-02-27"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-28"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-30"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, WAYS AND MEANS and FINANCE per Committee Report No. 401, recommending that it be substituted by SBN-1896;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-30"
 action = "SUBSTITUTED BY SBN-1896 UNDER COMMITTEE REPORT NO. 401, WHICH BECAME R.A.NO. 11223 ON FEBRUARY 20, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/30/2018"
+date = "2018-07-30"
 
 [[committees]]
 name = "Health and Demography"

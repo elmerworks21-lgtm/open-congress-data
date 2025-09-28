@@ -1,8 +1,11 @@
 id = "01K67YJHR3PG68F1F2NKH21789"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00868"
+
+[meta]
 bill_number = 868
 congress = 17
-canonical = "SBN-00868"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-868", "https://web.senate.gov.ph/lisdata/2442120972!.pdf",]
 title = "PNP-IAS REFORM ACT OF 2016"
 date_filed = "2016-07-26"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO STRENGTHENING THE INTERNAL AFFAIRS SERVICE OF THE PHILIP
 scope = "National"
 subjects = [ "Philippine National Police (PNP)", "Internal Affairs Service",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-26"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-07"
 action = "Upon motion of Senator Sotto III, the Body approved the change of referral of SRN-70 and 126, as well as SBNos. 868, 1285 and 1310 from the Committee on Public Order and Dangerous Drugs to the Committee on RULES."
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-08"
 action = "Motion of Senator Sotto III to transfer SBN-868, 1285, 1310 and SRNos. 70 and 126 from the Committee on Rules to the Committee on JUSTICE AND HUMAN RIGHTS; and to include SBNos. 1274, 1275, 868, 1285, 1310, 1128, 221 and SRNos. 70 and 126 as integral parts of Committee Report No. 18;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Justice and Human Rights"

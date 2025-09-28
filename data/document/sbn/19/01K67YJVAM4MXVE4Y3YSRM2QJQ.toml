@@ -1,8 +1,11 @@
 id = "01K67YJVAM4MXVE4Y3YSRM2QJQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00667"
+
+[meta]
 bill_number = 667
 congress = 19
-canonical = "SBN-00667"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-667", "https://web.senate.gov.ph/lisdata/3855735011!.pdf",]
 title = "THE BARANGAY REGISTRY OF PROFESSIONALS AND SKILLED WORKERS ACT"
 date_filed = "2022-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF REGISTRIES OF PROFESSION
 scope = "National"
 subjects = [ "Registry of Professional/Skilled Workers", "Barangay Skilled Workers", "Barangays",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2022"
+date = "2022-08-23"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

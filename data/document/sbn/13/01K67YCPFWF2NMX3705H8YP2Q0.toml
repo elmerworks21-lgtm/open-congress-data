@@ -1,8 +1,11 @@
 id = "01K67YCPFWF2NMX3705H8YP2Q0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01951"
+
+[meta]
 bill_number = 1951
 congress = 13
-canonical = "SBN-01951"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1951", "https://web.senate.gov.ph/lisdata/32652431!.pdf",]
 title = "THE REAL PROPERTY APPRAISAL AND ASSESSMENT REFORM ACT, 2005"
 date_filed = "2005-03-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING REFORMS IN REAL PROPERTY APPRAISAL AND ASSESSME
 scope = "National"
 subjects = [ "Real Property Appraisal/Assessment Act", "National Appraisal Authority",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-07"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-08"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/8/2005"
+date = "2005-03-08"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJ2R07JF3G0K671JN1M8S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02674"
+
+[meta]
 bill_number = 2674
 congress = 14
-canonical = "SBN-02674"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2674", "https://web.senate.gov.ph/lisdata/90588238!.pdf",]
 title = "PROFESSIONAL ENGINEER'S DISCLOSURE ACT"
 date_filed = "2008-10-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUTHORIZING ENGINEERS TO DISCLOSE TO ANY GOVERNMENTAL OFFIC
 scope = "National"
 subjects = [ "Building",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-11"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/11/2008"
+date = "2008-11-11"
 
 [[committees]]
 name = "Public Works"

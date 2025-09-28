@@ -1,24 +1,28 @@
 id = "01K67YKR0FYBKPZP3WZ0E9Z1SV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04681"
+
+[meta]
 bill_number = 4681
 congress = 13
-canonical = "HBN-04681"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4681", "https://web.senate.gov.ph/lisdata/42843575!.pdf",]
 title = "POBLACION - BAONG SILANG NATIONAL ROD"
 long_title = "AN ACT CONVERTING THE POBLACION - BAGONG SILANG PROVINCIAL ROAD IN THE MUNICIPALITY OF CALATAGAN, PROVINCE OF BATANGAS INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion (Batangas)", "Poblacion - Bagong Silang National Road (Batangas)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-11-23"
 action = "Filed in the Senate requesting for concurrence by Representative EILEEN ERMITA-BUHAIN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-29"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/29/2005"
+date = "2005-11-29"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YJCDB1E12T2KK41YK5RWA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00195"
+
+[meta]
 bill_number = 195
 congress = 16
-canonical = "SBN-00195"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-195", "https://web.senate.gov.ph/lisdata/1602113258!.pdf",]
 title = "COMPUTER EDUCATION PROGRAM"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INTEGRATE COMPUTER EDUCATION PROGRAM INTO THE EDUCATIONA
 scope = "National"
 subjects = [ "Computer Education",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2013"
+date = "2013-07-24"
 
 [[committees]]
 name = "Education, Arts and Culture"

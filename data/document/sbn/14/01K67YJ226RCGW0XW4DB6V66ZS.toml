@@ -1,8 +1,11 @@
 id = "01K67YJ226RCGW0XW4DB6V66ZS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01727"
+
+[meta]
 bill_number = 1727
 congress = 14
-canonical = "SBN-01727"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1727", "https://web.senate.gov.ph/lisdata/61775508!.pdf",]
 title = "DRUGS AND ALCOHOL TESTING FOR DRIVERS ACT OF 2007"
 date_filed = "2007-10-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR DRUG AND ALCOHOL TESTING FOR DRIVERS OF PUBLI
 scope = "National"
 subjects = [ "Drug Testing (Drivers License Application)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and PUBLIC ORDER AND ILLEGAL DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/5/2007"
+date = "2007-11-05"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJE2XYBNK38H8A400QAGY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02699"
+
+[meta]
 bill_number = 2699
 congress = 16
-canonical = "SBN-02699"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2699", "https://web.senate.gov.ph/lisdata/2077917876!.pdf",]
 title = "CONSUMER ACT OF THE PHILIPPINES AS AMENDED"
 date_filed = "2015-03-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING BROADER PROTECTION FOR CONSUMERS ADDING NEW PROVIS
 scope = "National"
 subjects = [ "Consumer Act (R.A.No. 7394)", "Consumer Protection",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2015-03-16"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-17"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/17/2015"
+date = "2015-03-17"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

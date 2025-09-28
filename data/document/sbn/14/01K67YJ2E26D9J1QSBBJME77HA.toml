@@ -1,8 +1,11 @@
 id = "01K67YJ2E26D9J1QSBBJME77HA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02241"
+
+[meta]
 bill_number = 2241
 congress = 14
-canonical = "SBN-02241"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2241", "https://web.senate.gov.ph/lisdata/72336467!.pdf",]
 title = "PROBATIONARY PERIOD OF EMPLOYMENT OF ACADEMIC PERSONNEL IN PRIVATE SCHOOLS"
 date_filed = "2008-05-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING THE PROBATIONARY PERIOD OF EMPLOYMENT OF ACADEMIC
 scope = "National"
 subjects = [ "Labor Code (Pd 442)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-05"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-06"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2008"
+date = "2008-05-06"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

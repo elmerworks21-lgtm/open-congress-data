@@ -1,8 +1,11 @@
 id = "01K67YJ364F7VVB7ZZ0R618M9E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03297"
+
+[meta]
 bill_number = 3297
 congress = 14
-canonical = "SBN-03297"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3297", "https://web.senate.gov.ph/lisdata/1160110206!.pdf",]
 title = "COMPREHENSIVE AGE-RELATED MACULAR DEGENERATION PREVENTION AND MITIGATION ACT OF 2009"
 date_filed = "2009-06-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A COMPREHENSIVE NATIONAL PROGRAM TO MITIGATE AN
 scope = "National"
 subjects = [ "Age-Related Macular Degeneration (AMD)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2009-06-01"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2009"
+date = "2009-06-02"
 
 [[committees]]
 name = "Health and Demography"

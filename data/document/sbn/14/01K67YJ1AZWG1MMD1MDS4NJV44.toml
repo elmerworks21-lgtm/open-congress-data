@@ -1,8 +1,11 @@
 id = "01K67YJ1AZWG1MMD1MDS4NJV44"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00921"
+
+[meta]
 bill_number = 921
 congress = 14
-canonical = "SBN-00921"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-921", "https://web.senate.gov.ph/lisdata/51804547!.pdf",]
 title = "WOMEN EMPOWERMENT IN ENTERPRISE ACT"
 date_filed = "2007-07-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT EMPOWERING WOMEN BY PROVIDING THEM FINANCIAL, EDUCATIONAL A
 scope = "National"
 subjects = [ "Women Empowerment in Enterprises",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator LOREN LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; TRADE AND COMMERCE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Returned and submitted by the Committee on YOUTH, WOMEN AND FAMILY RELATIONS per Committee Report No. 76, recommending that it be substituted by SBN-2396;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "CONSIDERED IN SBN-2396, WHICH BECAME R.A.NO. 9710."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/11/2008"
+date = "2008-06-11"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

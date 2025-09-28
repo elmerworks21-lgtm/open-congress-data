@@ -1,52 +1,56 @@
 id = "01K67YKQRMZS8A9VCB3E3Q3TQ5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02659"
+
+[meta]
 bill_number = 2659
 congress = 13
-canonical = "HBN-02659"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-2659", "https://web.senate.gov.ph/lisdata/32542585!.pdf",]
 title = "GRANTING FILIPINO CITIZENSHIP TO MAHMOUD A.M. ASFOUR"
 long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO MAHMOUD A.M. ASFOUR."
 scope = "National"
 subjects = [ "Mahmoud A.M. Asfour", "Filipino Citizenship (Mahmoud Asfour)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-02"
 action = "Filed in the Senate requesting for concurrence by Representatives AGBAYANI, ABLAN and DATUMANONG as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-02"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-24"
 action = "Returned by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 26, recommending that it be considered in SBN-1952;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-24"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-24"
 action = "Considered in SBN-1952;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-14"
 action = "Enrolled Copy of the consolidated version of HBN-2659 and SBN-1952 sent to the Senate for the signature of Senate President Drilon and Senate Secretary Yabes;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-23"
 action = "Enrolled Copy of the consolidated version of HBN-2659 and SBN-1952 sent back to the House of Representatives which was already signed by Senate President Drilon and Acting Senate Secretary Reyes;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-16"
 action = "Approved and signed into law by the President of the Philippines, Her Excellency President Gloria Macapagal Arroyo on July 28, 2005, and became"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-16"
 action = "REPUBLIC ACT NO. 9338"
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "8/16/2005"
+date = "2005-08-16"
 
 [[committees]]
 name = "Justice and Human Rights"

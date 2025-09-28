@@ -1,8 +1,11 @@
 id = "01K67YJR7NV5RFTD42ZTJBDPJQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02405"
+
+[meta]
 bill_number = 2405
 congress = 18
-canonical = "SBN-02405"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2405", "https://web.senate.gov.ph/lisdata/3628132645!.pdf",]
 title = "THE PRIVATE SECURITY SERVICES INDUSTRY ACT"
 date_filed = "2021-09-20"
@@ -10,33 +13,34 @@ long_title = "AN ACT STRENGTHENING THE REGULATION OF PRIVATE SECURITY SERVICES I
 scope = "National"
 subjects = [ "Private Security Services Industry", "Private Security Agency Law (R.A.No. 5487)", "Private Security Industry Act (R.A. No. 5487)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-20"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-20"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-21"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Returned and submitted by the Committee on PUBLIC ORDER AND DANGEROUS DRUGS per Committee Report No. 327, recommending that it be substituted by SBN-2423;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "SUBSTITUTED BY SBN-2423 UNDER COMMITTEE REPORT NO. 327."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/29/2021"
+date = "2021-09-29"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

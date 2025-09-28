@@ -1,8 +1,11 @@
 id = "01K67YJJ88R3M67N7DY49YCQ4W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01506"
+
+[meta]
 bill_number = 1506
 congress = 17
-canonical = "SBN-01506"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1506", "https://web.senate.gov.ph/lisdata/2631322631!.pdf",]
 title = "GABALDON SCHOOL BUILDINGS CONSERVATION ACT"
 date_filed = "2017-07-24"
@@ -10,33 +13,34 @@ long_title = "AN ACT MANDATING THE CONSERVATION OF GABALDON SCHOOL BUILDINGS NAT
 scope = "National"
 subjects = [ "Gabaldon School Buildings", "School Building", "Heritage Sites/Cultural Property",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2017-07-24"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-30"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE per Committee Report No. 394, recommending that it be considered in HBN-5577;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-24"
 action = "CONSIDERED IN HBN-5577 UNDER COMMITTEE REPORT NO. 394 WHICH BECAME R.A.NO. 11194 ON JANUARY 18, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/24/2018"
+date = "2018-07-24"
 
 [[committees]]
 name = "Education, Arts and Culture"

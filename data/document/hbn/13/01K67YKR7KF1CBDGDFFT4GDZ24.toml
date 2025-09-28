@@ -1,40 +1,44 @@
 id = "01K67YKR7KF1CBDGDFFT4GDZ24"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05296"
+
+[meta]
 bill_number = 5296
 congress = 13
-canonical = "HBN-05296"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5296", "https://web.senate.gov.ph/lisdata/53014334!.pdf",]
 title = "RESTRUCTURING THE INCOME TAXATION FOR INDIVIDUALS"
 long_title = "AN ACT RESTRUCTURING THE INCOME TAXATION FOR INDIVIDUALS BY CREATING A NEW SECTION, SECTION 34-A, REPEALING SUBSECTION (L) OF SECTION 34 AND AMENDING SECTIONS 22, 24, 32 AND 35, ALL UNDER THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
 scope = "National"
 subjects = [ "Taxes (Individual Income Tax, Restructuring)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-05-31"
 action = "Filed in the Senate requesting for concurrence by Representatives MICHAEL JOHN 'JACK' R. DUAVIT, JUDY SYJUCO, JUAN C. PONCE ENRILE JR., RENATO 'KA RENE' B. MAGTUBO and ACE S. BARBERS as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-31"
 action = "Read on First Reading and referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "Returned by the Committee on WAYS AND MEANS per Committee Report No. 78, recommending that it be substituted by SBN-2261;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "SUBSTITUTED BY SBN-2261."
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-26"
 action = "House of Representatives designated Representatives Lapus, Teves, Cua, Javier, Lagman, Villafuerte, Barbers, and Abad, on the part of the Majority, and Representatives Zamora and Magtubo on the part of the Minority, as its conferees to the Bicameral Conference Committee in case of disagreement on HBN-5296 and SBN-2261 on June 7, 2006;"
 
 [[status]]
 status = "Pending Conference Committee"
-date = "6/7/2006"
+date = "2006-06-07"
 
 [[committees]]
 name = "Ways and Means"

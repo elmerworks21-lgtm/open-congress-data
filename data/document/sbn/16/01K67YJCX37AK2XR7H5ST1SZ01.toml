@@ -1,8 +1,11 @@
 id = "01K67YJCX37AK2XR7H5ST1SZ01"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00957"
+
+[meta]
 bill_number = 957
 congress = 16
-canonical = "SBN-00957"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-957", "https://web.senate.gov.ph/lisdata/1699214221!.pdf",]
 title = "BOY SCOUTS OF THE PHILIPPINES CHARTER OF 2013"
 date_filed = "2013-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING THE BOY SCOUTS OF THE PHILIPPINES CHARTER, DEFI
 scope = "National"
 subjects = [ "Boy Scout", "Girl Scout",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-18"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; YOUTH, WOMEN AND FAMILY RELATIONS; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

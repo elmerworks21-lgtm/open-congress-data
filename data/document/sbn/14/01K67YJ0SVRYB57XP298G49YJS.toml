@@ -1,8 +1,11 @@
 id = "01K67YJ0SVRYB57XP298G49YJS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00112"
+
+[meta]
 bill_number = 112
 congress = 14
-canonical = "SBN-00112"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-112", "https://web.senate.gov.ph/lisdata/41823594!.pdf",]
 title = "RENAMING THE INTER-COUNTRY ADOPTION BOARD TO INTER-COUNTRY ADOPTION AUTHORITY"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8043, OTHER
 scope = "National"
 subjects = [ "Inter-Country Adoption (Filipino Children)", "R.A.No. 8043 (Inter-Country Adoption Code), Amendments",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-30"
 action = "Read on First Reading and Referred to the Committee on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2007"
+date = "2007-07-30"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

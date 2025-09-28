@@ -1,8 +1,11 @@
 id = "01K67YJ0RT9Z1PB450BE3Z3691"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00066"
+
+[meta]
 bill_number = 66
 congress = 14
-canonical = "SBN-00066"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-66", "https://web.senate.gov.ph/lisdata/41263536!.pdf",]
 title = "NATIONAL CULTURAL HERITAGE ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR THE PROTECTION AND CONSERVATION OF THE NATION
 scope = "National"
 subjects = [ "National Cultural Heritage",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, FINANCE, FOREIGN RELATIONS, URBAN PLANNING, HOUSING AND RESETTLEMENT and WAYS AND MEANS per Committee Report No. 244, recommending that it be substituted by SBN-3014;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "SUBSTITUTED BY SBN-3014, WHICH BECAME R.A.NO. 10066."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/26/2009"
+date = "2009-01-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

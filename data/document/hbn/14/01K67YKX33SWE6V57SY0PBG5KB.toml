@@ -1,24 +1,28 @@
 id = "01K67YKX33SWE6V57SY0PBG5KB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06940"
+
+[meta]
 bill_number = 6940
 congress = 14
-canonical = "HBN-06940"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6940", "https://web.senate.gov.ph/lisdata/1322611798!.pdf",]
 title = "PROBATION LAW"
 long_title = "AN ACT RATIONALIZING AND STRENGTHENING THE PROBATION SYSTEM, AMENDING FOR THE PURPOSE PERTINENT PROVISIONS OF PRESIDENTIAL DECREE NO. 968, OTHERWISE KNOWN AS THE 'PROBATION LAW OF 1976', AS AMENDED"
 scope = "National"
 subjects = [ "Probation Law (Sec. 4, P.D. No. 968)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-12-10"
 action = "Filed in the Senate requesting for concurrence by Representatives GIORGIDI B. AGGABAO, NARCISO D. SANTIAGO III, ROMAN T. ROMULO, ISIDRO S. RODRIGUEZ JR., PABLO P. GARCIA, ET. AL. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/14/2009"
+date = "2009-12-14"
 
 [[committees]]
 name = "Justice and Human Rights"

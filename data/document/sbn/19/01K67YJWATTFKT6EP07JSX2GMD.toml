@@ -1,8 +1,11 @@
 id = "01K67YJWATTFKT6EP07JSX2GMD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02054"
+
+[meta]
 bill_number = 2054
 congress = 19
-canonical = "SBN-02054"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2054", "https://web.senate.gov.ph/lisdata/4136737684!.pdf",]
 title = "THE REVISED ANIMAL WELFARE ACT OF 2023"
 date_filed = "2023-03-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT REPEALING REPUBLIC ACT NO. 8485, AS AMENDED BY REPUBLIC ACT
 scope = "National"
 subjects = [ "Animal Welfare",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-30"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "Returned and submitted jointly by the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, WAYS AND MEANS and FINANCE per Committee Report No. 522, recommending that it be substituted by SBN-2975;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "SUBSTITUTED BY SBN-2975 UNDER COMMITTEE REPORT NO. 522."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/4/2025"
+date = "2025-02-04"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

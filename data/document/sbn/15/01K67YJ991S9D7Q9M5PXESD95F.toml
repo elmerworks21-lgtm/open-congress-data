@@ -1,8 +1,11 @@
 id = "01K67YJ991S9D7Q9M5PXESD95F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02891"
+
+[meta]
 bill_number = 2891
 congress = 15
-canonical = "SBN-02891"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2891", "https://web.senate.gov.ph/lisdata/117979945!.pdf",]
 title = "PHILIPPINE CHARITY SWEEPSTAKES OFFICE CHARITY FUND"
 date_filed = "2011-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOCATING SEVENTY PERCENT (70%) OF THE PHILIPPINE CHARITY 
 scope = "National"
 subjects = [ "Philippine Charity Sweepstakes Office (PCSO)", "Health Insurance", "Philippine Health Insurance Corporation (PHIC)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2011-07-18"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2011"
+date = "2011-08-01"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

@@ -1,8 +1,11 @@
 id = "01K67YJVEGGK04WYEAWHT6765Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00845"
+
+[meta]
 bill_number = 845
 congress = 19
-canonical = "SBN-00845"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-845", "https://web.senate.gov.ph/lisdata/3865935113!.pdf",]
 title = "AGRICULTURE EDUCATION ACT OF 2022"
 date_filed = "2022-07-25"
@@ -10,25 +13,26 @@ long_title = "AN ACT RATIONALIZING AGRICULTURE EDUCATION IN THE PHILIPPINES BY E
 scope = "National"
 subjects = [ "Agriculture Education",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-10-12"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

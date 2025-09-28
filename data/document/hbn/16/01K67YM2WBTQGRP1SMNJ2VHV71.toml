@@ -1,52 +1,56 @@
 id = "01K67YM2WBTQGRP1SMNJ2VHV71"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04730"
+
+[meta]
 bill_number = 4730
 congress = 16
-canonical = "HBN-04730"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4730", "https://web.senate.gov.ph/lisdata/1976316869!.pdf",]
 title = "EXACT CHANGE ACT"
 long_title = "AN ACT REQUIRING BUSINESS ESTABLISHMENTS TO GIVE EXACT CHANGE TO CONSUMERS"
 scope = "National"
 subjects = [ "Exact Change", "Consumer Protection",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-09-01"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-02"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "Senate requested the House of Representatives for a conference on the disagreeing provisions of SBN-1618 and HBN-4730, designating Senators Aquino, Angara and Ejercito as its conferees to the Bicameral Conference Committee;(Transmittal letter sent to the House of Representatives on February 11, 2016);"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-04"
 action = "House of Representatives informing the Senate that Representatives Villar, Del Rosario, Rodriguez (R.), Cua, Binay, and Ty were designated as its conferees to the Bicameral Conference Committee on February 2, 2016;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-23"
 action = "Conference Committee Report on the disagreeing provisions of SBN-1618 and HBN-4730, submitted to the Senate, recommending that SBN-1618, in consolidation with HBN-4730, be approved as reconciled;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-23"
 action = "Conference Committee Report Approved by the Senate;(Transmittal letter sent to the House of Representatives on May 26, 2016);"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-13"
 action = "Conference Committee Report Approved by the House of Representatives on June 6, 2016;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-30"
 action = "Consolidated with SBN-1618, which was lapsed into Law on July 21, 2016 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-30"
 action = "REPUBLIC ACT NO. 10909."
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "6/30/2016"
+date = "2016-06-30"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

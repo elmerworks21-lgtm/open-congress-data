@@ -1,24 +1,28 @@
 id = "01K67YMCT5GZCPF7ESB5823MSM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00001"
+
+[meta]
 bill_number = 1
 congress = 19
-canonical = "HBN-00001"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-1", "https://web.senate.gov.ph/lisdata/4023736642!.pdf",]
 title = "GFIS UNIFIED INITIATIVES TO DISTRESSED ENTERPRISES FOR ECONOMIC RECOVERY (GUIDE) ACT"
 long_title = "AN ACT PROVIDING FOR GOVERNMENT FINANCIAL INSTITUTIONS UNIFIED INITIATIVES TO DISTRESSED ENTERPRISES FOR ECONOMIC RECOVERY (GUIDE)"
 scope = "National"
 subjects = [ "Economic Recovery", "Government Financial Institutions",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-19"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-24"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/24/2023"
+date = "2023-01-24"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

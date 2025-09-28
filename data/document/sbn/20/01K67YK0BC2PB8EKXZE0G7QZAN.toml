@@ -1,8 +1,11 @@
 id = "01K67YK0BC2PB8EKXZE0G7QZAN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00933"
+
+[meta]
 bill_number = 933
 congress = 20
-canonical = "SBN-00933"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-933", "https://web.senate.gov.ph/lisdata/4755343559!.pdf",]
 title = "AMENDING THE REVISED PENAL CODE (ILLEGAL USE OF UNIFORMS AND INSIGNIA)"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLE 179 OF THE REVISED PENAL CODE (ACT NO. 381
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Justice and Human Rights"

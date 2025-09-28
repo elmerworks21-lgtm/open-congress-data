@@ -1,8 +1,11 @@
 id = "01K67YJW91MSC2MT6RY42XCBVR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01990"
+
+[meta]
 bill_number = 1990
 congress = 19
-canonical = "SBN-01990"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1990", "https://web.senate.gov.ph/lisdata/4114337460!.pdf",]
 title = "FREE DIALYSIS FOR INDIGENT PATIENTS ACT"
 date_filed = "2023-03-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT
 scope = "National"
 subjects = [ "Dialysis", "Dialysys Ward/Unit", "Indigent Persons",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-13"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-14"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/14/2023"
+date = "2023-03-14"
 
 [[committees]]
 name = "Health and Demography"

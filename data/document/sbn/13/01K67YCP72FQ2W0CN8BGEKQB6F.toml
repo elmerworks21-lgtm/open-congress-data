@@ -1,8 +1,11 @@
 id = "01K67YCP72FQ2W0CN8BGEKQB6F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01502"
+
+[meta]
 bill_number = 1502
 congress = 13
-canonical = "SBN-01502"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1502", "https://web.senate.gov.ph/lisdata/27172082!.pdf",]
 title = "INFANT PROTECTION AND BABY SWITCHING PREVENTION ACT"
 date_filed = "2004-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE HOSPITALS TO ESTABLISH AND IMPLEMENT SECURITY PR
 scope = "National"
 subjects = [ "Infant Protection", "Baby Switching",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-15"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2004"
+date = "2004-09-15"
 
 [[committees]]
 name = "Health and Demography"

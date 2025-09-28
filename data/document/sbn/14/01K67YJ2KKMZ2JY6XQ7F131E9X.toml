@@ -1,8 +1,11 @@
 id = "01K67YJ2KKMZ2JY6XQ7F131E9X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02470"
+
+[meta]
 bill_number = 2470
 congress = 14
-canonical = "SBN-02470"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2470", "https://web.senate.gov.ph/lisdata/79397170!.pdf",]
 title = "NATIONWIDE WELFARE PROGRAM FOR MEDIA PRACTITIONERS"
 date_filed = "2008-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE PHILIPPINE INFORMATION AGENCY (PIA), AMEN
 scope = "National"
 subjects = [ "Mass Media (Broadcast/ Print Media)", "Philippine Information Agency (PIA)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-24"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Public Information and Mass Media"

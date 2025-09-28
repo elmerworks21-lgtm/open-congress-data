@@ -1,24 +1,28 @@
 id = "01K67YKX2HG39HP5GG9W3HJR7Y"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06806"
+
+[meta]
 bill_number = 6806
 congress = 14
-canonical = "HBN-06806"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6806", "https://web.senate.gov.ph/lisdata/1287811548!.pdf",]
 title = "PROFESSIONAL FILIPINO ATHLETES RETIREMENT, HEALTH CARE AND DEATH BENEFITS ACT OF 2009"
 long_title = "AN ACT GRANTING RETIREMENT, HEALTH CARE AND DEATH BENEFITS TO PROFESSIONAL FILIPINO ATHLETES WHO WIN WORLD CHAMPIONSHIP TITLES IN INTERNATIONAL PROFESSIONAL SPORTS COMPETITIONS OR IN OTHER EQUALLY PRESTIGIOUS INTERNATIONAL CHAMPIONSHIP GAMES AND PROVIDING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Athletes (World Champion)", "Retirement Benefits",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-15"
 action = "Filed in the Senate requesting for concurrence by Representatives MANUEL 'WAY KURAT' E.. ZAMORA, MARY ANN L. SUSANO, DARLENE R. ANTONINO-CUSTODIO, RUFUS B. RODRIGUEZ, ET. AL. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-09"
 action = "Read on First Reading and Referred to the Committee(s) on GAMES, AMUSEMENT AND SPORTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/9/2009"
+date = "2009-11-09"
 
 [[committees]]
 name = "Games, Amusement and Sports"

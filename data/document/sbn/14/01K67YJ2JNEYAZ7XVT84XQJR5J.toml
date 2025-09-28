@@ -1,8 +1,11 @@
 id = "01K67YJ2JNEYAZ7XVT84XQJR5J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02428"
+
+[meta]
 bill_number = 2428
 congress = 14
-canonical = "SBN-02428"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2428", "https://web.senate.gov.ph/lisdata/77196958!.pdf",]
 title = "REAPPORTIONING PROVINCE OF CAVITE"
 date_filed = "2008-07-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT REAPPORTIONING THE PROVINCE OF CAVITE INTO SEVEN (7) LEGISL
 scope = "Local"
 subjects = [ "Legislative District",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-07"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-25"
 action = "Returned and submitted jointly by the Committee(s) on LOCAL GOVERNMENT and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS per Committee Report No. 456, recommending that it be considered in HBN-4254;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-26"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-26"
 action = "CONSIDERED IN HBN-4254."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/26/2009"
+date = "2009-05-26"
 
 [[committees]]
 name = "Local Government"

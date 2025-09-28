@@ -1,8 +1,11 @@
 id = "01K67YK02NWKVTG2B6VYNJSDN5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00467"
+
+[meta]
 bill_number = 467
 congress = 20
-canonical = "SBN-00467"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-467", "https://web.senate.gov.ph/lisdata/4698542988!.pdf",]
 title = "PONDO SA PAGBABAGO AT PAG-ASENSO (P3) ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING ENTREPRENEURSHIP BY INSTITUTIONALIZING A FINANCIN
 scope = "National"
 subjects = [ "Micro and Small Enterprises (MSES)", "Pondo Sa Pagbabago At Pag-Asenso (P3)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP; ECONOMIC AFFAIRS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

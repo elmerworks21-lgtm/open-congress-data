@@ -1,8 +1,11 @@
 id = "01K67YJDH5ZCRK374M3R3NT7NQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01939"
+
+[meta]
 bill_number = 1939
 congress = 16
-canonical = "SBN-01939"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1939", "https://web.senate.gov.ph/lisdata/1828615467!.pdf",]
 title = "ELECTRONIC PUBLICATION COMPLIANCE ACT OF 2013"
 date_filed = "2013-11-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING ELECTRONIC OR ONLINE MODALITIES FOR THE PROMULG
 scope = "National"
 subjects = [ "Administrative Code of 1987 (E.O.No. 292)", "E-Services (Government Agencies)",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-20"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-11-26"
 action = "Read on First Reading and Referred to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/26/2013"
+date = "2013-11-26"
 
 [[committees]]
 name = "Public Information and Mass Media"

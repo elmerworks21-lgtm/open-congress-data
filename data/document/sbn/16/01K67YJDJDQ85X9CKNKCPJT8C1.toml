@@ -1,8 +1,11 @@
 id = "01K67YJDJDQ85X9CKNKCPJT8C1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02003"
+
+[meta]
 bill_number = 2003
 congress = 16
-canonical = "SBN-02003"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2003", "https://web.senate.gov.ph/lisdata/1840315567!.pdf",]
 title = "AMENDING SEC. 35, NATIONAL INTERNAL REVENUE CODE (PERSONAL EXEMPTION FOR INDIVIDUAL TAXPAYER)"
 date_filed = "2013-12-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 35 OF REPUBLIC ACT NO. 8424, AS AMENDED, O
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes/Taxation",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-12-09"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-10"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2013"
+date = "2013-12-10"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJPVHE8HY48YTFSM7B1T1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00698"
+
+[meta]
 bill_number = 698
 congress = 18
-canonical = "SBN-00698"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-698", "https://web.senate.gov.ph/lisdata/3100127820!.pdf",]
 title = "AUTHORIZING THE DOH TO SET AND APPROVE THE BED CAPACITY/SERVICE CAPABILITY OF ALL DOH HOSPITALS"
 date_filed = "2019-07-23"
@@ -10,29 +13,30 @@ long_title = "AN ACT AUTHORIZING THE DEPARTMENT OF HEALTH TO SET AND APPROVE THE
 scope = "National"
 subjects = [ "Department of Health (DOH)", "Hospitals, Increase Bed Capacity",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-23"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-08"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 131, recommending that it be substituted by SBN-1876;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-12"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-12"
 action = "SUBSTITUTED BY SBN-1876 UNDER COMMITTEE REPORT NO. 131."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/12/2020"
+date = "2020-10-12"
 
 [[committees]]
 name = "Health and Demography"

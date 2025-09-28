@@ -1,8 +1,11 @@
 id = "01K67YJHC4XSR7WPB0P7ZAWJHV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00334"
+
+[meta]
 bill_number = 334
 congress = 17
-canonical = "SBN-00334"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-334", "https://web.senate.gov.ph/lisdata/2377320435!.pdf",]
 title = "BARANGAY PENSION FUND ACT OF 2016"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE BARANGAY PENSION FUND TO PROVIDE PENSION BENEF
 scope = "National"
 subjects = [ "Barangay Officials", "Pension",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Local Government"

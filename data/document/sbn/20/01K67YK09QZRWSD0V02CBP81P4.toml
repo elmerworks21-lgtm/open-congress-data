@@ -1,8 +1,11 @@
 id = "01K67YK09QZRWSD0V02CBP81P4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00844"
+
+[meta]
 bill_number = 844
 congress = 20
-canonical = "SBN-00844"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-844", "https://web.senate.gov.ph/lisdata/4741043413!.pdf",]
 title = "THE TAXPAYERS BILL OF RIGHTS AND OBLIGATIONS ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE BILL OF RIGHTS AND OBLIGATIONS OF TAXPAYE
 scope = "National"
 subjects = [ "Taxpayer Bill of Rights",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Ways and Means"

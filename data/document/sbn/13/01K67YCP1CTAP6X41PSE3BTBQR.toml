@@ -1,8 +1,11 @@
 id = "01K67YCP1CTAP6X41PSE3BTBQR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01189"
+
+[meta]
 bill_number = 1189
 congress = 13
-canonical = "SBN-01189"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1189", "https://web.senate.gov.ph/lisdata/24021769!.pdf",]
 title = "SKILLS TRAINING AND RETRAINING ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING SKILLS TRAINING AND RETRAINING, AND FOR 
 scope = "National"
 subjects = [ "Skills Training and Retraining Act",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

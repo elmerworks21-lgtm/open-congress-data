@@ -1,8 +1,11 @@
 id = "01K67YJ2G5VJPR6EMNPX5ZK935"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02336"
+
+[meta]
 bill_number = 2336
 congress = 14
-canonical = "SBN-02336"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2336", "https://web.senate.gov.ph/lisdata/74866715!.pdf",]
 title = "NATIONAL CLIMATE PROGRAM ACT OF 2008"
 date_filed = "2008-05-28"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING THE NATIONAL CLIMATE PROGRAM"
 scope = "National"
 subjects = [ "Climate Change",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-28"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-28"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-01"
 action = "Referred to the Sub-committee on Climate Change;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-02"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, LOCAL GOVERNMENT, WAYS AND MEANS and FINANCE per Committee Report No. 99, recommending that it be substituted by SBN-2583;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-02"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-02"
 action = "SUBSTITUTED BY SBN-2583, WHICH BECAME R.A.NO. 9729."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/2/2008"
+date = "2008-09-02"
 
 [[committees]]
 name = "Environment and Natural Resources"

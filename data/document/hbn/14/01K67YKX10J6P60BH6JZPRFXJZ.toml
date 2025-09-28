@@ -1,24 +1,28 @@
 id = "01K67YKX10J6P60BH6JZPRFXJZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06548"
+
+[meta]
 bill_number = 6548
 congress = 14
-canonical = "HBN-06548"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6548", "https://web.senate.gov.ph/lisdata/1247211132!.pdf",]
 title = "BAGACAY NATIONAL HIGH SCHOOL (PROVINCE OF MARINDUQUE)"
 long_title = "AN ACT SEPARATING THE BUENAVISTA NATIONAL HIGH SCHOOL - BAGACAY ANNEX IN BARANGAY BAGACAY, MUNICIPALITY OF BUENAVISTA, PROVINCE OF MARINDUQUE FROM THE BUENAVISTA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS BAGACAY NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-15"
 action = "Filed in the Senate requesting for concurrence by Representatives CARMENCITA O. REYES, DEL R. DE GUZMAN and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2009"
+date = "2009-09-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YCPRY9976CPFSV2SZTMDA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02407"
+
+[meta]
 bill_number = 2407
 congress = 13
-canonical = "SBN-02407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2407", "https://web.senate.gov.ph/lisdata/56394725!.pdf",]
 title = "ANTI CABLE TELEVISION AND CABLE INTERNET PILFERAGE ACT OF 2006"
 date_filed = "2006-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING AND PENALIZING THE PILFERAGE AND THEFT, UNAUTHO
 scope = "National"
 subjects = [ "Anti Cable Television", "Internet Pilferage",]
 authors_raw = "Enrile, Juan Ponce"
-[[legislative_history]]
+
+[[history]]
 date = "2006-07-03"
 action = "Introduced by Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/26/2006"
+date = "2006-07-26"
 
 [[committees]]
 name = "Public Information and Mass Media"

@@ -1,24 +1,28 @@
 id = "01K67YM2R2RKKN6J9D8P8NTDEF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04041"
+
+[meta]
 bill_number = 4041
 congress = 16
-canonical = "HBN-04041"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4041", "https://web.senate.gov.ph/lisdata/2028717395!.pdf",]
 title = "SINAIT DISTRICT HOSPITAL (ILOCOS SUR)"
 long_title = "AN ACT INCREASING THE BED CAPACITY OF THE SINAIT DISTRICT HOSPITAL IN SINAIT, ILOCOS SUR AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-12-17"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2015"
+date = "2015-01-20"
 
 [[committees]]
 name = "Health and Demography"

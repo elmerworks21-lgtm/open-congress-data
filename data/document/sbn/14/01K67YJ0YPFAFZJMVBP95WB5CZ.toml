@@ -1,8 +1,11 @@
 id = "01K67YJ0YPFAFZJMVBP95WB5CZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00323"
+
+[meta]
 bill_number = 323
 congress = 14
-canonical = "SBN-00323"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-323", "https://web.senate.gov.ph/lisdata/44233826!.pdf",]
 title = "AREAS VITAL TO NATIONAL DEFENSE, EXEMPTION FROM BCDA COVERAGE"
 date_filed = "2007-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NUMBER 7227 OTHERWISE KNOWN AS THE â€
 scope = "National"
 subjects = [ "Bases Conversion and Development Act", "Military Camps", "R.A.No. 7227 (BCDA)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; NATIONAL DEFENSE AND SECURITY; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-03"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2007"
+date = "2007-08-07"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

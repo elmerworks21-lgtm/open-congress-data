@@ -1,8 +1,11 @@
 id = "01K67YJ9AMBG1A93HW3R9BW43D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02949"
+
+[meta]
 bill_number = 2949
 congress = 15
-canonical = "SBN-02949"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2949", "https://web.senate.gov.ph/lisdata/1206310187!.pdf",]
 title = "PINOY INNOVENTOR ACT OF 2011"
 date_filed = "2011-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH A PROGRAM TO AWARD INNOVATION PRIZES TO INDIVI
 scope = "National"
 subjects = [ "Innovations", "Innovative Technology",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2011-08-23"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-24"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2011"
+date = "2011-08-24"
 
 [[committees]]
 name = "Trade and Commerce"

@@ -1,8 +1,11 @@
 id = "01K67YJ1MFDRNSA31J5AC8PEBW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01388"
+
+[meta]
 bill_number = 1388
 congress = 14
-canonical = "SBN-01388"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1388", "https://web.senate.gov.ph/lisdata/56895049!.pdf",]
 title = "NATIONAL SEAFARERS COMMISSION ACT OF 2007"
 date_filed = "2007-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A NATIONAL SEAFARERS COMMISSION, PRESCRIBING ITS P
 scope = "National"
 subjects = [ "National Seafarers Commission",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-26"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2007"
+date = "2007-09-11"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

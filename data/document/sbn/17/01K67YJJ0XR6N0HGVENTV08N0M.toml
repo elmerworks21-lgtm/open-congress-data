@@ -1,8 +1,11 @@
 id = "01K67YJJ0XR6N0HGVENTV08N0M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01256"
+
+[meta]
 bill_number = 1256
 congress = 17
-canonical = "SBN-01256"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1256", "https://web.senate.gov.ph/lisdata/2515121662!.pdf",]
 title = "ANTI-MONEY LAUNDERING ACT"
 date_filed = "2016-11-29"
@@ -10,41 +13,42 @@ long_title = "AN ACT TO FURTHER AMEND REPUBLIC ACT NO. 9160, OTHERWISE KNOWN AS 
 scope = "National"
 subjects = [ "Anti-Money Laundering Act (R.A.No. 9160)",]
 authors_raw = "Lacson, Panfilo M., Villanueva, Joel, Aquino IV, Paolo Benigno \"Bam\", Escudero, Francis \"Chiz\" G., Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2016-12-05"
 action = "Prepared and submitted jointly by the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and JUSTICE AND HUMAN RIGHTS with Senator(s) PANFILO M. LACSON, JOEL VILLANUEVA, PAOLO BENIGNO 'BAM' AQUINO IV, FRANCIS 'CHIZ' G. ESCUDERO and RICHARD J. GORDON as author(s) per Committee Report No. 13, recommending its approval in substitution of SBN-45, taking into consideration SBN-1242;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-05"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-05"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-05"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-14"
 action = "Interpellation of Senator(s) LEILA M. DE LIMA, FRANKLIN M. DRILON and PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-14"
 action = "Remarks of Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-27"
 action = "Interpellation of Senator(s) FRANKLIN M. DRILON and RALPH G. RECTO;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "12/5/2016"
+date = "2016-12-05"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

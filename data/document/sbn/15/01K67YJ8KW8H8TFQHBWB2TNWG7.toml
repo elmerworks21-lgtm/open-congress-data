@@ -1,8 +1,11 @@
 id = "01K67YJ8KW8H8TFQHBWB2TNWG7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02192"
+
+[meta]
 bill_number = 2192
 congress = 15
-canonical = "SBN-02192"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2192", "https://web.senate.gov.ph/lisdata/98088369!.pdf",]
 title = "SCHOOL HEALTH AND NUTRITION PROGRAM OF DEPED"
 date_filed = "2010-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE SCHOOL HEALTH AND NU
 scope = "National"
 subjects = [ "Department of Education, Culture and Sports (DepEd)", "School Health", "Nutrition",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-29"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-20"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2010"
+date = "2010-09-20"
 
 [[committees]]
 name = "Education, Arts and Culture"

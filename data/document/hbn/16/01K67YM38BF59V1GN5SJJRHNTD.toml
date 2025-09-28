@@ -1,24 +1,28 @@
 id = "01K67YM38BF59V1GN5SJJRHNTD"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06229"
+
+[meta]
 bill_number = 6229
 congress = 16
-canonical = "HBN-06229"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-6229", "https://web.senate.gov.ph/lisdata/2272419418!.pdf",]
 title = "MAINIT FALLS AND HOT SPRINGS AND BAKBAKAN FALLS (PROVINCE OF PALAWAN)"
 long_title = "AN ACT DECLARING MAINIT FALLS AND HOT SPRINGS AND BAKBAKAN FALLS, BOTH LOCATED IN THE MUNICIPALITY OF BROOKE'S POINT, PROVINCE OF PALAWAN AS TOURIST DESTINATIONS AND PROVIDING FOR THEIR DEVELOPMENT"
 scope = "Local"
 subjects = [ "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2016-01-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-18"
 action = "Read on First Reading and Referred to the Committee on TOURISM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/18/2016"
+date = "2016-01-18"
 
 [[committees]]
 name = "Tourism"

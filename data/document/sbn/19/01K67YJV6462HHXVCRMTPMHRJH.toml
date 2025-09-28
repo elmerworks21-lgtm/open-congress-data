@@ -1,8 +1,11 @@
 id = "01K67YJV6462HHXVCRMTPMHRJH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00460"
+
+[meta]
 bill_number = 460
 congress = 19
-canonical = "SBN-00460"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-460", "https://web.senate.gov.ph/lisdata/3822134658!.pdf",]
 title = "EDDIE GARCIA LAW"
 date_filed = "2022-07-13"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR OCCUPATIONAL SAFETY AND HEALTH STANDARDS FOR 
 scope = "National"
 subjects = [ "Eddie Garcia Law", "Film, Television and Radio Entertainment Industry", "Workers Health and Wellness", "Film/Movie Industry", "Occupational Safety",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-05"
 action = "Returned and submitted jointly by the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and PUBLIC INFORMATION AND MASS MEDIA per Committee Report No. 175, recommending that it be substituted by SBN-2505;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-05"
 action = "SUBSTITUTED BY SBN-2505 UNDER COMMITTEE REPORT NO. 175."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/5/2023"
+date = "2023-12-05"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

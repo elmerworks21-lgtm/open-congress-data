@@ -1,8 +1,11 @@
 id = "01K67YJHTQ2WB2A8QW6QK1C14B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00992"
+
+[meta]
 bill_number = 992
 congress = 17
-canonical = "SBN-00992"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-992", "https://web.senate.gov.ph/lisdata/2456121136!.pdf",]
 title = "HUMAN TRAFFICKING PREVENTIVE EDUCATION PROGRAM ACT"
 date_filed = "2016-08-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A HUMAN TRAFFICKING PREVENTION EDUCATION PROGR
 scope = "National"
 subjects = [ "Human Trafficking", "Youth",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-08"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Youth"

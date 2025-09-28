@@ -1,8 +1,11 @@
 id = "01K67YJV49DGK8QS4WMQ897TC5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00375"
+
+[meta]
 bill_number = 375
 congress = 19
-canonical = "SBN-00375"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-375", "https://web.senate.gov.ph/lisdata/3813634576!.pdf",]
 title = "GENDER RESPONSIVE AND INCLUSIVE PANDEMIC AND DISASTER MANAGEMENT ACT OF 2022"
 date_filed = "2022-07-12"
@@ -10,33 +13,34 @@ long_title = "AN ACT TO ENSURE GENDER RESPONSIVE AND INCLUSIVE PROTOCOLS AND PRO
 scope = "National"
 subjects = [ "Gender Responsive and Inclusive Pandemic and Disaster Management", "Pandemic", "Health Care",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-07"
 action = "Returned and submitted jointly by the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY, HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 42, recommending that it be substituted by SBN-1980;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-08"
 action = "SUBSTITUTED BY SBN-1980 UNDER COMMITTEE REPORT NO. 42."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/8/2023"
+date = "2023-03-08"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

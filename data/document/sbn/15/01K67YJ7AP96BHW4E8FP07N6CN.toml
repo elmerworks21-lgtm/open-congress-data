@@ -1,8 +1,11 @@
 id = "01K67YJ7AP96BHW4E8FP07N6CN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00161"
+
+[meta]
 bill_number = 161
 congress = 15
-canonical = "SBN-00161"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-161", "https://web.senate.gov.ph/lisdata/75006055!.pdf",]
 title = "CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES"
 date_filed = "2010-07-06"
@@ -10,37 +13,38 @@ long_title = "AN ACT GRANTING CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES,
 scope = "National"
 subjects = [ "Civil Service Eligibility",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-03"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-11-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-12-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-08"
 action = "Returned and submitted by the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 51, recommending that it be substituted by SBN-2875;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-01"
 action = "SUBSTITUTED BY SBN-2875, under Committee Report No. 51."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/1/2011"
+date = "2011-08-01"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

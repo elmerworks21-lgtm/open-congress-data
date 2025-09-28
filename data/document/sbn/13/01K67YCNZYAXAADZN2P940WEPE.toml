@@ -1,8 +1,11 @@
 id = "01K67YCNZYAXAADZN2P940WEPE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01111"
+
+[meta]
 bill_number = 1111
 congress = 13
-canonical = "SBN-01111"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1111", "https://web.senate.gov.ph/lisdata/23171526!.pdf",]
 title = "GIRL SCOUTS OF THE PHILIPPINES (AMENDMENTS)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER AMENDING COMMONWEALTH ACT NO. 542, AS AMENDED, OTHE
 scope = "National"
 subjects = [ "Girls Scouts of the Philippines (GSP)", "Commonwealth Act (C.A.No. 542)",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

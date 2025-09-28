@@ -1,8 +1,11 @@
 id = "01K67YJQD5EKV00NEKWFWHZHT1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01459"
+
+[meta]
 bill_number = 1459
 congress = 18
-canonical = "SBN-01459"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1459", "https://web.senate.gov.ph/lisdata/3261829483!.pdf",]
 title = "TERTIARY ONLINE LEARNING AND DISTANCE EDUCATION ACT OF 2020"
 date_filed = "2020-05-04"
@@ -10,25 +13,26 @@ long_title = "AN ACT ESTABLISHING THE TERTIARY ONLINE LEARNING AND DISTANCE EDUC
 scope = "National"
 subjects = [ "Open Learning System", "Distance Education/Distance Learning", "Commission on Higher Education (CHED)", "Covid-19",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2020-05-04"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-04"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and SCIENCE AND TECHNOLOGY;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/4/2020"
+date = "2020-05-04"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

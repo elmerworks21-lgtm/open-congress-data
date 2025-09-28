@@ -1,8 +1,11 @@
 id = "01K67YJJPG67VBBWZ9J0MBTVKK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02054"
+
+[meta]
 bill_number = 2054
 congress = 17
-canonical = "SBN-02054"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2054", "https://web.senate.gov.ph/lisdata/2874825238!.pdf",]
 title = "ST. BERNADETTE CHILDREN AND MATERNITY HOSPITAL"
 date_filed = "2018-10-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A SPECIALTY HOSPITAL IN THE CITY OF SAN JOSE D
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-03"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Motion of Senator JUAN MIGUEL ZUBIRI to include SBN-2054, in Committee Report No. 587;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/30/2019"
+date = "2019-01-30"
 
 [[committees]]
 name = "Health and Demography"

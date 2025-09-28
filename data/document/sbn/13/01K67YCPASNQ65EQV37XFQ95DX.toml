@@ -1,8 +1,11 @@
 id = "01K67YCPASNQ65EQV37XFQ95DX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01711"
+
+[meta]
 bill_number = 1711
 congress = 13
-canonical = "SBN-01711"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1711", "https://web.senate.gov.ph/lisdata/28992495!.pdf",]
 title = "SPECIAL EDUCATION ACT OF 2004"
 date_filed = "2004-08-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AT LEAST ONE (1) SPECIAL EDUCATION CENTER FOR 
 scope = "National"
 subjects = [ "Special Education Centers (SPED)", "Children (Special Needs)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-11"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; YOUTH, WOMEN AND FAMILY RELATIONS; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Education, Arts and Culture"

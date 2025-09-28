@@ -1,8 +1,11 @@
 id = "01K67YJJHPDH911EVFM6SY0NP9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01865"
+
+[meta]
 bill_number = 1865
 congress = 17
-canonical = "SBN-01865"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1865", "https://web.senate.gov.ph/lisdata/2809724400!.pdf",]
 title = "INCREASING THE MONTHLY SOCIAL PENSION OF SENIOR CITIZENS"
 date_filed = "2018-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE MONTHLY SOCIAL PENSION OF SENIOR CITIZENS AN
 scope = "National"
 subjects = [ "Senior Citizens", "Pension",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-07-04"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2018"
+date = "2018-07-25"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

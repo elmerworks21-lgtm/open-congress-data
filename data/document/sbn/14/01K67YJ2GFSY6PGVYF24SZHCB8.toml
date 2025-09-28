@@ -1,8 +1,11 @@
 id = "01K67YJ2GFSY6PGVYF24SZHCB8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02352"
+
+[meta]
 bill_number = 2352
 congress = 14
-canonical = "SBN-02352"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2352", "https://web.senate.gov.ph/lisdata/75256743!.pdf",]
 title = "NATIONAL ORGAN DONORS' WEEK ACT OF 2008"
 date_filed = "2008-05-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE LAST FULL WEEK OF APRIL AS ORGAN DONORS' WEEK
 scope = "National"
 subjects = [ "Human Organ",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-29"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-02"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2008"
+date = "2008-06-02"
 
 [[committees]]
 name = "Health and Demography"

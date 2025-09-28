@@ -1,8 +1,11 @@
 id = "01K67YJJ4KF0KZHZNPGFA6BG5P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01381"
+
+[meta]
 bill_number = 1381
 congress = 17
-canonical = "SBN-01381"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1381", "https://web.senate.gov.ph/lisdata/2557622050!.pdf",]
 title = "AMENDING R.A. NO. 6727 (WAGE RATIONALIZATION ACT)"
 date_filed = "2017-03-09"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE PENALTIES FOR NON-COMPLIANCE OF THE PRESCRIB
 scope = "National"
 subjects = [ "Wage Rationalization/Wage Rationalization Act (R.A.No. 6727)", "Wage Increase/Salary Increase",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2017-03-09"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-13"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/13/2017"
+date = "2017-03-13"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

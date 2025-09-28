@@ -1,8 +1,11 @@
 id = "01K67YJPHGG2Y9MFWD36BYYT4A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00231"
+
+[meta]
 bill_number = 231
 congress = 18
-canonical = "SBN-00231"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-231", "https://web.senate.gov.ph/lisdata/3049127367!.pdf",]
 title = "POLICE SCHOLARSHIP PROGRAM"
 date_filed = "2019-07-04"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING POLICE SCHOLARSHIPS TO QUALIFIED STUDENTS IN ALL 
 scope = "National"
 subjects = [ "Scholarship Grants", "Philippine National Police (PNP)", "Barangays",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-04"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Likewise referred secondarily to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-28"
 action = "Motion of Senator Zubiri that SBN-231 be transferred from the Committee on Education, Arts and Culture to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION as the secondary committee;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

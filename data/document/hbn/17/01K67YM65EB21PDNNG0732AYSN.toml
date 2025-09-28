@@ -1,24 +1,28 @@
 id = "01K67YM65EB21PDNNG0732AYSN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06571"
+
+[meta]
 bill_number = 6571
 congress = 17
-canonical = "HBN-06571"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6571", "https://web.senate.gov.ph/lisdata/2690523116!.pdf",]
 title = "MEDICAL SCHOLARSHIP AND RETURN SERVICE PROGRAM ACT"
 long_title = "AN ACT ESTABLISHING A MEDICAL SCHOLARSHIP AND RETURN SERVICE PROGRAM FOR DESERVING STUDENTS AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Medical Practitioners", "Students", "Scholarship Grants",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-11-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-27"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/27/2017"
+date = "2017-11-27"
 
 [[committees]]
 name = "Health and Demography"

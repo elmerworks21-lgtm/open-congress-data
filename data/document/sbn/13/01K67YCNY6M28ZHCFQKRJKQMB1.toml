@@ -1,8 +1,11 @@
 id = "01K67YCNY6M28ZHCFQKRJKQMB1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01021"
+
+[meta]
 bill_number = 1021
 congress = 13
-canonical = "SBN-01021"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1021", "https://web.senate.gov.ph/lisdata/22261309!.pdf",]
 title = "CENTER FOR AUTISM"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A CENTER FOR AUTISM AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Autism (Center for Autism, Establishment",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJWN6XYT88V4QRSTMB5K0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02477"
+
+[meta]
 bill_number = 2477
 congress = 19
-canonical = "SBN-02477"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2477", "https://web.senate.gov.ph/lisdata/4298039078!.pdf",]
 title = "HEALTH FACILITIES REGULATION ACT"
 date_filed = "2023-11-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT MODERNIZING THE REGULATION OF HEALTH FACILITIES AND SERVICE
 scope = "National"
 subjects = [ "Health Facilities", "Hospital Licensure Act (R.A.No. 4226)",]
 authors_raw = "Ejercito, Joseph Victor G., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2023-11-08"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-19"
 action = "Letter from Senator JOEL VILLANUEVA dated February 14, 2024, conveying his intention to be made co-author of SBN-2477, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2023"
+date = "2023-11-22"
 
 [[committees]]
 name = "Health and Demography"

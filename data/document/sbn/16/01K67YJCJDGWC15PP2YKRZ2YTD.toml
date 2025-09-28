@@ -1,8 +1,11 @@
 id = "01K67YJCJDGWC15PP2YKRZ2YTD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00447"
+
+[meta]
 bill_number = 447
 congress = 16
-canonical = "SBN-00447"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-447", "https://web.senate.gov.ph/lisdata/1636113603!.pdf",]
 title = "PRIORITIZING THE AGRICULTURAL SECTOR IN GRANTING LOANS BY THE LAND BANK OF THE PHILIPPINES"
 date_filed = "2013-07-04"
@@ -10,29 +13,30 @@ long_title = "AN ACT PRIORITIZING THE AGRICULTURAL SECTOR IN THE GRANT OF LOANS 
 scope = "National"
 subjects = [ "Land Bank of the Philippines (LBP)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-04"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and AGRICULTURE AND FOOD;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-25"
 action = "Returned and submitted by the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES per Committee Report No. 382, recommending that it be considered in HBN-3785;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-26"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-26"
 action = "CONSIDERED IN HBN-3785 UNDER C.R. NO. 382."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/26/2016"
+date = "2016-01-26"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

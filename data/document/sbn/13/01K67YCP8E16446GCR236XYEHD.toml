@@ -1,8 +1,11 @@
 id = "01K67YCP8E16446GCR236XYEHD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01581"
+
+[meta]
 bill_number = 1581
 congress = 13
-canonical = "SBN-01581"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1581", "https://web.senate.gov.ph/lisdata/27982173!.pdf",]
 title = "ANTI DIAL-A-PORN ACT"
 date_filed = "2004-08-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING UNLAWFUL THE COMMERCIAL USE OF TELEPHONES FOR MAK
 scope = "National"
 subjects = [ "Anti Dial-A-Porn Act", "Telephone (Phone-Sex Services)", "Indecent/Obscene Communications",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-02"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Public Services"

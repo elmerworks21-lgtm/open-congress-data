@@ -1,8 +1,11 @@
 id = "01K67YCPBS96AD45HTSYG36MNR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01760"
+
+[meta]
 bill_number = 1760
 congress = 13
-canonical = "SBN-01760"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1760", "https://web.senate.gov.ph/lisdata/29772544!.pdf",]
 title = "OMBUDSMAN TO EXAMINE PUBLIC OFFICERS BANK DEPOSITS"
 date_filed = "2004-09-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOWING THE OMBUDSMAN TO EXAMINE ALL THE BANK DEPOSITS OF 
 scope = "National"
 subjects = [ "Bank Deposits (Public Officers)", "Ombudsman (Examine Public Officers Acct)", "R.A.No. 6713 (Section 8)",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-08"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2004"
+date = "2004-09-22"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

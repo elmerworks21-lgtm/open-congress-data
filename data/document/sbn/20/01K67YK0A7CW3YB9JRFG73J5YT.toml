@@ -1,8 +1,11 @@
 id = "01K67YK0A7CW3YB9JRFG73J5YT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00870"
+
+[meta]
 bill_number = 870
 congress = 20
-canonical = "SBN-00870"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-870", "https://web.senate.gov.ph/lisdata/4744043444!.pdf",]
 title = "MOBILITY RELIEF ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE OFFICE OF THE MOBILITY CZAR TO COORDINATE URGE
 scope = "National"
 subjects = [ "Office of the Mobility Czar",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Public Services"

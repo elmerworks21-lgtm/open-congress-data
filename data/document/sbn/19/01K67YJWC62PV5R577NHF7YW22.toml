@@ -1,8 +1,11 @@
 id = "01K67YJWC62PV5R577NHF7YW22"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02116"
+
+[meta]
 bill_number = 2116
 congress = 19
-canonical = "SBN-02116"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2116", "https://web.senate.gov.ph/lisdata/4149537782!.pdf",]
 title = "AMENDING SEC. 8 OF R.A. NO. 10699 (NATIONAL ALTHLETES AND COACHES BENEFITS AND INCENTIVES ACT)"
 date_filed = "2023-05-03"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING SECTION 8 OF REPUBLIC ACT NO. 10699, ENTITLED THE 
 scope = "National"
 subjects = [ "National Athletes and Coaches Benefits and Incentives Act (R.A. No. 10699)", "Benefits and Incentives", "Athletes (Disabled/Differently-Abled)",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-03"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-10"
 action = "Read on First Reading and Referred to the Committee on SPORTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-15"
 action = "Returned and submitted by the Committee on SPORTS per Committee Report No. 300, recommending that it be substituted by SBN-2789;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "SUBSTITUTED BY SBN-2789 UNDER COMMITTEE REPORT NO. 300."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/19/2024"
+date = "2024-08-19"
 
 [[committees]]
 name = "Sports"

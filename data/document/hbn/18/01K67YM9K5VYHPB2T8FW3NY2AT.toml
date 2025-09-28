@@ -1,24 +1,28 @@
 id = "01K67YM9K5VYHPB2T8FW3NY2AT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08910"
+
+[meta]
 bill_number = 8910
 congress = 18
-canonical = "HBN-08910"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8910", "https://web.senate.gov.ph/lisdata/3581132284!.pdf",]
 title = "OPEN ACCESS IN DATA TRANSMISSION ACT"
 long_title = "AN ACT PROMOTING OPEN ACCESS IN DATA TRANSMISSION AND PROVIDING ADDITIONAL POWERS TO THE NATIONAL TELECOMMUNICATIONS COMMISSION"
 scope = "National"
 subjects = [ "Open Access in Data Transmission",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-07-29"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-02"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2021"
+date = "2021-08-02"
 
 [[committees]]
 name = "Science and Technology"

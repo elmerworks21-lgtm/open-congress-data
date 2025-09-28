@@ -1,24 +1,28 @@
 id = "01K67YM2WPZYA15SKH0PAF3F5Z"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04796"
+
+[meta]
 bill_number = 4796
 congress = 16
-canonical = "HBN-04796"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4796", "https://web.senate.gov.ph/lisdata/1977516881!.pdf",]
 title = "ARAW NG LUNGSOD NG MEYCAUAYAN"
 long_title = "AN ACT DECLARING DECEMBER 10 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE CITY OF MEYCAUAYAN, PROVINCE OF BULACAN IN COMMEMORATION OF ITS CHARTER DAY ANNIVERSARY TO BE KNOWN AS 'ARAW NG LUNGSOD NG MEYCAUAYAN'"
 scope = "Local"
 subjects = [ "Holidays (Non-Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-09-01"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-02"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2014"
+date = "2014-09-02"
 
 [[committees]]
 name = "Local Government"

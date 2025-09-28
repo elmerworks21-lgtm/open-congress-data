@@ -1,8 +1,11 @@
 id = "01K67YCPBK387MZYMD9X389HX4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01752"
+
+[meta]
 bill_number = 1752
 congress = 13
-canonical = "SBN-01752"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1752", "https://web.senate.gov.ph/lisdata/29662536!.pdf",]
 title = "NATIONAL REVENUE AUTHORITY ACT OF 2004"
 date_filed = "2004-09-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE NATIONAL REVENUE AUTHORITY, PROVIDING FUNDS TH
 scope = "National"
 subjects = [ "National Revenue Authority (NARA) Act", "Bureau of Internal Revenue (BIR)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-06"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2004"
+date = "2004-09-22"
 
 [[committees]]
 name = "Ways and Means"

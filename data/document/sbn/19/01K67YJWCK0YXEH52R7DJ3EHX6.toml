@@ -1,8 +1,11 @@
 id = "01K67YJWCK0YXEH52R7DJ3EHX6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02134"
+
+[meta]
 bill_number = 2134
 congress = 19
-canonical = "SBN-02134"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2134", "https://web.senate.gov.ph/lisdata/4151737804!.pdf",]
 title = "ENVIRONMENTAL UNIT IN EVERY BANKING INSTITUTION ACT"
 date_filed = "2023-05-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING ENVIRONMENTAL UNITS IN EVERY BANKING INSTITUTI
 scope = "National"
 subjects = [ "Environmental Units", "Loan Programs",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2023"
+date = "2023-05-10"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

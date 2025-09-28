@@ -1,24 +1,28 @@
 id = "01K67YM6834G7WDGH1MQVHSE1A"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06801"
+
+[meta]
 bill_number = 6801
 congress = 17
-canonical = "HBN-06801"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6801", "https://web.senate.gov.ph/lisdata/2720623422!.pdf",]
 title = "TAGNOTE FALLS - MT. HILONG-HILONG PARK TOURISM SITE (AGUSAN DEL NORTE)"
 long_title = "AN ACT DECLARING THE TAGNOTE FALLS - MT. HILONG-HILONG PARK LOCATED IN THE MUNICIPALITY OF REMEDIOS T. ROMUALDEZ, PROVINCE OF AGUSAN DEL NORTE A PRIORITY TOURISM SITE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism (Ecotourism Zone", "Ecotourism Site)",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-01-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2018"
+date = "2018-01-29"
 
 [[committees]]
 name = "Tourism"

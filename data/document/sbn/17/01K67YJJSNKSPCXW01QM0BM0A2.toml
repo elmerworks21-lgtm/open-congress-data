@@ -1,8 +1,11 @@
 id = "01K67YJJSNKSPCXW01QM0BM0A2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02155"
+
+[meta]
 bill_number = 2155
 congress = 17
-canonical = "SBN-02155"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2155", "https://web.senate.gov.ph/lisdata/2934425952!.pdf",]
 title = "ALIEN SOCIAL INTEGRATION ACT OF 2019"
 date_filed = "2019-01-17"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING LEGAL RESIDENCY STATUS TO CERTAIN ALIENS IN THE PH
 scope = "National"
 subjects = [ "Alien Social Integration", "Foreigners/Alien",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-17"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-21"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Returned and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 671, recommending its approval with amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Sponsor: Senator RICHARD J. GORDON;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJ34HS6PPPSJ377A1PTT3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03236"
+
+[meta]
 bill_number = 3236
 congress = 14
-canonical = "SBN-03236"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3236", "https://web.senate.gov.ph/lisdata/112799938!.pdf",]
 title = "COMPREHENSIVE PROSTATE CANCER EARLY DETECTION AND PREVENTION ACT"
 date_filed = "2009-05-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING A COMPREHENSIVE NATIONAL SCREENING PROGR
 scope = "National"
 subjects = [ "Prostate Cancer Public Awareness",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-13"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2009"
+date = "2009-05-18"
 
 [[committees]]
 name = "Health and Demography"

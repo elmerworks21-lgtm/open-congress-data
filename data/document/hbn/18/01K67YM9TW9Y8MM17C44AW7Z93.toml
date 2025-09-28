@@ -1,24 +1,28 @@
 id = "01K67YM9TW9Y8MM17C44AW7Z93"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09954"
+
+[meta]
 bill_number = 9954
 congress = 18
-canonical = "HBN-09954"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9954", "https://web.senate.gov.ph/lisdata/3625132704!.pdf",]
 title = "SOGOD ZIPLINE A TOURISM DESTINATION (KAUPIAN, SOGOD, SOUTHERN LEYTE)"
 long_title = "AN ACT DECLARING THE SOGOD ZIPLINE LOCATED ALONG THE VICINITY OF AGAS-AGAS BRIDGE IN BARANGAY KAHUPIAN, MUNICIPALITY OF SOGOD, PROVINCE OF SOUTHERN LEYTE, A TOURISM DESTINATION, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-20"
 action = "Read on First Reading and Referred to the Committees on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2021"
+date = "2021-09-20"
 
 [[committees]]
 name = "Tourism"

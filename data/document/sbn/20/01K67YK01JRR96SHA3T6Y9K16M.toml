@@ -1,8 +1,11 @@
 id = "01K67YK01JRR96SHA3T6Y9K16M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00408"
+
+[meta]
 bill_number = 408
 congress = 20
-canonical = "SBN-00408"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-408", "https://web.senate.gov.ph/lisdata/4690042906!.pdf",]
 title = "DELAYED REGISTRATION OF BIRTH ACT OF 2025"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE SYSTEM OF FILING OF DELAYED REGISTRATION 
 scope = "National"
 subjects = [ "Birth Registration",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Justice and Human Rights"

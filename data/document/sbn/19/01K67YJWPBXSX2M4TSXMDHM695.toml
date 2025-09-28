@@ -1,8 +1,11 @@
 id = "01K67YJWPBXSX2M4TSXMDHM695"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02525"
+
+[meta]
 bill_number = 2525
 congress = 19
-canonical = "SBN-02525"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2525", "https://web.senate.gov.ph/lisdata/4331039420!.pdf",]
 title = "NORTHERN ILOILO GENERAL HOSPITAL"
 date_filed = "2024-01-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A GENERAL HOSPITAL IN THE MUNICIPALITY OF SAN 
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2024-01-23"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-29"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2024"
+date = "2024-01-29"
 
 [[committees]]
 name = "Rules"

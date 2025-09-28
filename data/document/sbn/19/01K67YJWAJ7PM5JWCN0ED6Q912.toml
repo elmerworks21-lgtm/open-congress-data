@@ -1,8 +1,11 @@
 id = "01K67YJWAJ7PM5JWCN0ED6Q912"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02043"
+
+[meta]
 bill_number = 2043
 congress = 19
-canonical = "SBN-02043"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2043", "https://web.senate.gov.ph/lisdata/4133937669!.pdf",]
 title = "TRANSITIONAL JUSTICE AND RECONCILIATION ACT FOR BANGSAMORO"
 date_filed = "2023-03-22"
@@ -10,33 +13,34 @@ long_title = "AN ACT CREATING THE NATIONAL TRANSITIONAL JUSTICE RECONCILIATION A
 scope = "National"
 subjects = [ "Bangsamoro",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-22"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-28"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-21"
 action = "Returned and submitted jointly by the Committees on LOCAL GOVERNMENT, NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE per Committee Report No. 306, recommending that it be substituted by SBN-2796;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-21"
 action = "SUBSTITUTED BY SBN-2796 UNDER COMMITTEE REPORT NO. 306."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/21/2024"
+date = "2024-08-21"
 
 [[committees]]
 name = "Local Government"

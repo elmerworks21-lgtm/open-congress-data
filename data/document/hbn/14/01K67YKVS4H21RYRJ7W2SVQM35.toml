@@ -1,24 +1,28 @@
 id = "01K67YKVS4H21RYRJ7W2SVQM35"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03012"
+
+[meta]
 bill_number = 3012
 congress = 14
-canonical = "HBN-03012"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-3012", "https://web.senate.gov.ph/lisdata/93928490!.pdf",]
 title = "ANTI-DISCRIMINATION ACT OF 2008"
 long_title = "AN ACT PROHIBITING DISCRIMINATION AGAINST PERSONS ON ACCOUNT OF ETHNIC ORIGIN AND/OR RELIGIOUS BELIEF"
 scope = "National"
 subjects = [ "Anti-Discrimination Act",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-20"
 action = "Filed in the Senate requesting for concurrence by Representatives MUJIV S. HATAMAN, SOLOMON R. CHUNGALAO, MANUEL S. AGYAO, LUZVIMINDA C. ILAGAN, ET. AL. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on CULTURAL COMMUNITIES and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2008"
+date = "2008-11-25"
 
 [[committees]]
 name = "Cultural Communities"

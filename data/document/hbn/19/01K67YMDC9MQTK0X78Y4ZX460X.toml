@@ -1,24 +1,28 @@
 id = "01K67YMDC9MQTK0X78Y4ZX460X"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08457"
+
+[meta]
 bill_number = 8457
 congress = 19
-canonical = "HBN-08457"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8457", "https://web.senate.gov.ph/lisdata/4240738591!.pdf",]
 title = "FISH PORT WITH ICE PLANT AND COLD STORAGE FACILITIES (NUEVA VALENCIA, GUIMARAS)"
 long_title = "AN ACT ESTABLISHING A FISH PORT WITH ICE PLANT AND COLD STORAGE FACILITIES IN THE MUNICIPALITY OF NUEVA VALENCIA, PROVINCE OF GUIMARAS, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Fish Port",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-16"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2023"
+date = "2023-08-16"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

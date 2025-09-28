@@ -1,26 +1,30 @@
 id = "01K67YM02FAVN3GYVMDP6R3A2K"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05621"
+
+[meta]
 bill_number = 5621
 congress = 15
-canonical = "HBN-05621"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-5621", "https://web.senate.gov.ph/lisdata/1567112979!.pdf",]
 title = "DISTRICT BRANCH (MUNICIPALITY OF TUBIGON, PROVINCE OF BOHOL)"
 long_title = "AN ACT ESTABLISHING A DISTRICT BRANCH OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF TUBIGON, PROVINCE OF BOHOL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

@@ -1,8 +1,11 @@
 id = "01K67YCNE0002YJVRS9J8KRQ9D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00127"
+
+[meta]
 bill_number = 127
 congress = 13
-canonical = "SBN-00127"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-127", "https://web.senate.gov.ph/lisdata/12621017!.pdf",]
 title = "TITLING OF REAL PROPERTIES USED FOR PUBLIC SCHOOL SITES"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE SUMMARY TITLING OF REAL PROPERTIES USED A
 scope = "National"
 subjects = [ "Schools Sites (Land Titling; Public)", "Land Summary Titling/Public School Sites",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-11"
 action = "Senator Angara was made a coauthor on motion of Senator Luisa 'Loi' P. Ejercito Estrada;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Justice and Human Rights"

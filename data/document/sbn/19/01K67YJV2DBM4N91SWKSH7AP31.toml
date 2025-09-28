@@ -1,8 +1,11 @@
 id = "01K67YJV2DBM4N91SWKSH7AP31"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00289"
+
+[meta]
 bill_number = 289
 congress = 19
-canonical = "SBN-00289"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-289", "https://web.senate.gov.ph/lisdata/3803634477!.pdf",]
 title = "STRENGTHENING P.D. NO. 1096 (THE NATIONAL BUILDING CODE OF THE PHILIPPINES) AS AMENDED"
 date_filed = "2022-07-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT STRENGTHENING PRESIDENTIAL DECREE NO. 1096, THE NATIONAL BU
 scope = "National"
 subjects = [ "National Building Code of the Philippines", "Buildings/Structures",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Public Works"

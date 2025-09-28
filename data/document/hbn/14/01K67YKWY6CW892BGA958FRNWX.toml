@@ -1,24 +1,28 @@
 id = "01K67YKWY6CW892BGA958FRNWX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06170"
+
+[meta]
 bill_number = 6170
 congress = 14
-canonical = "HBN-06170"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6170", "https://web.senate.gov.ph/lisdata/1150610139!.pdf",]
 title = "NATIONAL ROAD (DAGAT - DAGATAN AVENUE, CALOOCAN CITY)"
 long_title = "AN ACT CONVERTING THE DAGAT-DAGATAN AVENUE IN CALOOCAN CITY INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-26"
 action = "Filed in the Senate requesting for concurrence by Representative MARY MITZI CAJAYON as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/27/2009"
+date = "2009-05-27"
 
 [[committees]]
 name = "Public Works"

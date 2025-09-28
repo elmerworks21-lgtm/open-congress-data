@@ -1,8 +1,11 @@
 id = "01K67YJPZ0JNAKB4F2K4QA5KJX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00856"
+
+[meta]
 bill_number = 856
 congress = 18
-canonical = "SBN-00856"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-856", "https://web.senate.gov.ph/lisdata/3123328131!.pdf",]
 title = "PHILIPPINE NATIONAL SPORTS ACADEMY ACT OF 2019"
 date_filed = "2019-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE NATIONAL SPORTS ACADEMY AS AN ATTAC
 scope = "National"
 subjects = [ "Philippine Sports Commission (PSC)",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-05"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on SPORTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2019"
+date = "2019-08-19"
 
 [[committees]]
 name = "Sports"

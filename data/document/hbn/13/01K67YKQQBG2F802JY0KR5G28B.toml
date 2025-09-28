@@ -1,24 +1,28 @@
 id = "01K67YKQQBG2F802JY0KR5G28B"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-01031"
+
+[meta]
 bill_number = 1031
 congress = 13
-canonical = "HBN-01031"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-1031", "https://web.senate.gov.ph/lisdata/61015069!.pdf",]
 title = "STA. LUCIA NATIONAL HIGH SCHOOL (ZAMBOANGA DEL SUR)"
 long_title = "AN ACT SEPARATING THE ZAMBOANGA DEL SUR NATIONAL HIGH SCHOOL – STA. LUCIA ANNEX IN BARANGAY STA. LUCIA, CITY OF PAGADIAN FROM THE ZAMBOANGA DEL SUR NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE STA. LUCIA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Zamboanga Del Sur)", "Sta. Lucia National High School (Zamboanga Del Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-05"
 action = "Filed in the Senate requesting for concurrence by Representatives ISIDORO E. REAL JR., EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-10"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/10/2006"
+date = "2006-10-10"
 
 [[committees]]
 name = "Education, Arts and Culture"

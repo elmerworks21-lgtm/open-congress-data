@@ -1,8 +1,11 @@
 id = "01K67YJDG9WTF5MEGJJNY7Z9CA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01895"
+
+[meta]
 bill_number = 1895
 congress = 16
-canonical = "SBN-01895"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1895", "https://web.senate.gov.ph/lisdata/1813115376!.pdf",]
 title = "COCONUT SUGAR RESEARCH AND DEVELOPMENT (R&D) ACT OF 2013"
 date_filed = "2013-11-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING THE ENABLING MECHANISMS FOR RESEARCH AND DEVELOPM
 scope = "National"
 subjects = [ "Coconut Sugar",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-04"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-11-18"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; SCIENCE AND TECHNOLOGY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/18/2013"
+date = "2013-11-18"
 
 [[committees]]
 name = "Agriculture and Food"

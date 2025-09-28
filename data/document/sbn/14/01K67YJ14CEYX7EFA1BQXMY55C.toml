@@ -1,8 +1,11 @@
 id = "01K67YJ14CEYX7EFA1BQXMY55C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00600"
+
+[meta]
 bill_number = 600
 congress = 14
-canonical = "SBN-00600"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-600", "https://web.senate.gov.ph/lisdata/48114142!.pdf",]
 title = "REQUIRING ADVERTISERS TO MAINTAIN FILE RE EVIDENCE OF SAFETY OF ADVERTISED PRODUCTS"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLES 116 AND 164 OF REPUBLIC ACT NO. 7394 OTHE
 scope = "National"
 subjects = [ "Consumers Act (RA 7394)", "Advertising/Advertisement",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-22"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/22/2007"
+date = "2007-08-22"
 
 [[committees]]
 name = "Trade and Commerce"

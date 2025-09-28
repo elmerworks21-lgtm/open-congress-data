@@ -1,8 +1,11 @@
 id = "01K67YCNVZT35QF3MT55ZAZ8VT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00905"
+
+[meta]
 bill_number = 905
 congress = 13
-canonical = "SBN-00905"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-905", "https://web.senate.gov.ph/lisdata/21081593!.pdf",]
 title = "NATIONAL BAKERY POLICY ACT OF THE PHILIPPINES OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INSTITUTE A NATIONAL BAKERY INDUSTRY POLICY AND TO CREAT
 scope = "National"
 subjects = [ "National Bakery Policy Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-31"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2004"
+date = "2004-08-31"
 
 [[committees]]
 name = "Trade and Commerce"

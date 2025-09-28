@@ -1,8 +1,11 @@
 id = "01K67YJWJFTG9HAMRXWG6MNE3A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02380"
+
+[meta]
 bill_number = 2380
 congress = 19
-canonical = "SBN-02380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2380", "https://web.senate.gov.ph/lisdata/4227238464!.pdf",]
 title = "FAIR PLACEMENT FEES FOR OFWS ACT"
 date_filed = "2023-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING CERTAIN ACTS IN THE IMPOSITION OF EXCESSIVE PLAC
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)", "Fees and Charges",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-01"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "Read on First Reading and Referred to the Committee on MIGRANT WORKERS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2023"
+date = "2023-08-07"
 
 [[committees]]
 name = "Migrant Workers"

@@ -1,8 +1,11 @@
 id = "01K67YJH5FNB4E6667EW3Z9MYP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00050"
+
+[meta]
 bill_number = 50
 congress = 17
-canonical = "SBN-00050"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-50", "https://web.senate.gov.ph/lisdata/2346320047!.pdf",]
 title = "SAGIP SAKA ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,37 +13,38 @@ long_title = "AN ACT TO PROMOTE FARMER AND FISHERFOLK ENTREPRENEURSHIP AND DEVEL
 scope = "National"
 subjects = [ "Farmers/Fisherfolk", "Sagip Saka Act", "Tax Credit",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-13"
 action = "Returned and submitted jointly by the Committee(s) on AGRICULTURE AND FOOD and WAYS AND MEANS per Committee Report No. 23, recommending that it be substituted by SBN-1281;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-14"
 action = "SUBSTITUTED BY SBN-1281 UNDER COMMITTEE REPORT NO. 23, WHICH BECAME R.A. NO. 11321 ON APRIL 17, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/14/2016"
+date = "2016-12-14"
 
 [[committees]]
 name = "Agriculture and Food"

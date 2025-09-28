@@ -1,8 +1,11 @@
 id = "01K67YCNBWS6CV7M97AFN7985G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00011"
+
+[meta]
 bill_number = 11
 congress = 13
-canonical = "SBN-00011"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-11", "https://web.senate.gov.ph/lisdata/1140564!.pdf",]
 title = "REVISED PUBLIC LAND ACT OF THE PHILIPPINES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "REVISED PUBLIC LAND ACT OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Public Land Act, Revised",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; ENVIRONMENT AND NATURAL RESOURCES; AND WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

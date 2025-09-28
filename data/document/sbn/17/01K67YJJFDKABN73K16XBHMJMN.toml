@@ -1,8 +1,11 @@
 id = "01K67YJJFDKABN73K16XBHMJMN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01763"
+
+[meta]
 bill_number = 1763
 congress = 17
-canonical = "SBN-01763"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1763", "https://web.senate.gov.ph/lisdata/2764923912!.pdf",]
 title = "OPEN ACCESS IN DATA TRANSMISSION ACT"
 date_filed = "2018-03-21"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROMOTING OPEN ACCESS IN DATA TRANSMISSION, PROVIDING ADDIT
 scope = "National"
 subjects = [ "Open Access in Data Transmission", "National Telecommunications Commission (NTC)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2018-03-21"
 action = "Prepared and submitted jointly by the Committee(s) on SCIENCE AND TECHNOLOGY and PUBLIC SERVICES with Senator(s) PAOLO BENIGNO 'BAM' AQUINO IV and SHERWIN T. GATCHALIAN as author(s) per Committee Report No. 306, recommending its approval in substitution of SBNos. 171 and 1644, and taking into consideration HBN-6557;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Sponsor: Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Sponsorship speech of Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Co-sponsorship speech of Senator SHERWIN T. GATCHALIAN;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/21/2018"
+date = "2018-03-21"
 
 [[committees]]
 name = "Science and Technology"

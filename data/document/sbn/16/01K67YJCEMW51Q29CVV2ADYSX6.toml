@@ -1,8 +1,11 @@
 id = "01K67YJCEMW51Q29CVV2ADYSX6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00258"
+
+[meta]
 bill_number = 258
 congress = 16
-canonical = "SBN-00258"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-258", "https://web.senate.gov.ph/lisdata/1612013346!.pdf",]
 title = "COMPUTER SUBJECT AS PART OF THE ELEMENTARY AND HIGH SCHOOL CURRICULA"
 date_filed = "2013-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INCLUDE THE TEACHING OF COMPUTER AS PART OF THE ELEMENTA
 scope = "National"
 subjects = [ "Computer Education",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-02"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Education, Arts and Culture"

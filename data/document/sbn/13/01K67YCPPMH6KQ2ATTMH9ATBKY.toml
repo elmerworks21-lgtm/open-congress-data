@@ -1,8 +1,11 @@
 id = "01K67YCPPMH6KQ2ATTMH9ATBKY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02270"
+
+[meta]
 bill_number = 2270
 congress = 13
-canonical = "SBN-02270"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2270", "https://web.senate.gov.ph/lisdata/53734455!.pdf",]
 title = "LPG RETAILERS REQUIRING TO HAVE SCALE/WEIGHING MACHINE"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL RETAILERS OF LIQUIFIED PETROLEUM GAS (LPG) TO
 scope = "National"
 subjects = [ "Lpg Retailers (Weighing Machine", "Scale)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; and ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/7/2006"
+date = "2006-06-07"
 
 [[committees]]
 name = "Trade and Commerce"

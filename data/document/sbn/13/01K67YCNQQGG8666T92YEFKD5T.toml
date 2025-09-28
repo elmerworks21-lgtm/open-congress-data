@@ -1,8 +1,11 @@
 id = "01K67YCNQQGG8666T92YEFKD5T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00663"
+
+[meta]
 bill_number = 663
 congress = 13
-canonical = "SBN-00663"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-663", "https://web.senate.gov.ph/lisdata/18491224!.pdf",]
 title = "FREE EDUCATION FOR HANDICAPPED CHILDREN"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FREE AND SUITABLE PUBLIC EDUCATION FOR HANDICAPPE
 scope = "National"
 subjects = [ "Children (Handicapped", "Free Education)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Education, Arts and Culture"

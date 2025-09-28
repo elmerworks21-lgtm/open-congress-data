@@ -1,8 +1,11 @@
 id = "01K67YJHTRXH6TDC720NAXCD73"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00993"
+
+[meta]
 bill_number = 993
 congress = 17
-canonical = "SBN-00993"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-993", "https://web.senate.gov.ph/lisdata/2456221137!.pdf",]
 title = "LOCAL DISASTER RISK REDUCTION AND MANAGEMENT"
 date_filed = "2016-08-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE APPLICATION OF THE LOCAL DISASTER RISK REDUCT
 scope = "National"
 subjects = [ "Philippine Disaster Risk Reduction and Management Act of 2010 (R.A.No. 10121)",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-08"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee on NATIONAL DEFENSE AND SECURITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "National Defense and Security"

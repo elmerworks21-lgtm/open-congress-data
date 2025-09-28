@@ -1,8 +1,11 @@
 id = "01K67YJQQY44QKZQQRQMGPGPW5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01921"
+
+[meta]
 bill_number = 1921
 congress = 18
-canonical = "SBN-01921"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1921", "https://web.senate.gov.ph/lisdata/3396030731!.pdf",]
 title = "AMENDING R.A. NO. 11494 (BAYANIHAN TO RECOVER AS ONE ACT)"
 date_filed = "2020-11-18"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11494, OTHERWISE KNOWN AS THE ‘
 scope = "National"
 subjects = [ "Bayanihan to Recover as One",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-11-18"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-11-23"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-15"
 action = "Returned and submitted by the Committee on FINANCE per Committee Report No. 159, recommending that it be considered in HBN-8063;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-15"
 action = "CONSIDERED IN HBN-8063 UNDER COMMITTEE REPORT NO. 159, WHICH BECAME R.A. NO. 11519 ON DECEMBER 23, 2020."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/15/2020"
+date = "2020-12-15"
 
 [[committees]]
 name = "Finance"

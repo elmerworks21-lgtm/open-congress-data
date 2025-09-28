@@ -1,56 +1,60 @@
 id = "01K67YM5PZPMPW708V46FZ31DG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03297"
+
+[meta]
 bill_number = 3297
 congress = 17
-canonical = "HBN-03297"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-3297", "https://web.senate.gov.ph/lisdata/2876825274!.pdf",]
 title = "STRENGTHENING THE COUNTRY'S GROSS INTERNATIONAL RESERVES (GIR)"
 long_title = "AN ACT TO STRENGTHEN THE COUNTRY’S GROSS INTERNATIONAL RESERVES (GIR) AMENDING FOR THE PURPOSE SECTIONS 32 AND 151 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED, AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Gross International Reserves (GIR)",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-12"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-04"
 action = "Returned by the Committee on WAYS AND MEANS per Committee Report No. 539, recommending that it be considered in SBN-2127;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-10"
 action = "CONSIDERED IN SBN-2127, UNDER CTTEE. RPT. NO. 539."
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-07"
 action = "House of Representatives adopted SBN-2127 as an amendment to HBN-3297 on February 6, 2019; (See: O.B. dated June 4, 2019)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-14"
 action = "Letter from Acting Secretary General of the House of Representatives, Mr. Dante Roberto P. Maling, dated February 13, 2019, transmitting nine (9) enrolled copies of the consolidated version of SBN-2127 and HBN-3297, for the signature of Senate Secretary Atty. Myra Marie D. Villarica and Senate President Vicente C. Sotto III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-21"
 action = "Letter for Speaker Gloria Macapagal-Arroyo, dated February 20, 2019, returning eight (8) enrolled copies of the consolidated version of SBN-2127 and HBN-3297, which were signed by Senate Secretary Myra Marie D. Villarica and Senate President Vicente C. Sotto III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Consolidated with SBN-2127, which was Approved and Signed into Law by the President of the Philippines, His Excellency, President Rodrigo Roa Duterte on March 29, 2019 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "REPUBLIC ACT NO. 11256."
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "3/29/2019"
+date = "2019-03-29"
 
 [[committees]]
 name = "Ways and Means"

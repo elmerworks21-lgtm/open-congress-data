@@ -1,8 +1,11 @@
 id = "01K67YJ90ACKHDE4V6689QWP9B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02562"
+
+[meta]
 bill_number = 2562
 congress = 15
-canonical = "SBN-02562"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2562", "https://web.senate.gov.ph/lisdata/102938826!.pdf",]
 title = "WORKERS COMPENSATION ACT OF 2010"
 date_filed = "2010-10-12"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE WORKERS COMPENSATION PROGRAM, THE WORK CON
 scope = "National"
 subjects = [ "Workers Compensation Program", "Labor Code of the Philippines (P.D.No. 442; Amendments)",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-10-12"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-10-13"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/13/2010"
+date = "2010-10-13"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

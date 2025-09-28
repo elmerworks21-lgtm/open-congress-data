@@ -1,8 +1,11 @@
 id = "01K67YCNCNBRETQEWW2BSNHNTX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00053"
+
+[meta]
 bill_number = 53
 congress = 13
-canonical = "SBN-00053"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-53", "https://web.senate.gov.ph/lisdata/1182636!.pdf",]
 title = "HEALTH CARE DELIVERY MODERNIZATION ACT"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE HEALTH CARE DELIVERY
 scope = "National"
 subjects = [ "Health Care Delivery Modernization Act",]
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Senator Angara was made a coauthor on motion of Senator Flavier;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,48 +1,52 @@
 id = "01K67YM6QBZG159VJHD4P87MC9"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08919"
+
+[meta]
 bill_number = 8919
 congress = 17
-canonical = "HBN-08919"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8919", "https://web.senate.gov.ph/lisdata/2961926316!.pdf",]
 title = "RTC (LILOY, ZAMBOANGA DEL NORTE)"
 long_title = "AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE NINTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF LILOY, PROVINCE OF ZAMBOANGA DEL NORTE AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(J) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED."
 scope = "National"
 subjects = [ "Courts (Rtc/Mtc, Creation)", "Judiciary Reorganization Act (Batas Pambansa Blg. 129)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-08"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-04"
 action = "House of Representatives adopted SBN-1840 as an amendment to HBN-8919 on June 3, 2019;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "Letter from Senate Secretary Atty. Myra Marie D. Villarica, dated July 17, 2019, transmitting nine (9) enrolled copies of SBN-1840 which was adopted as an amendment to HBN-8919, for the signature of Speaker Gloria Macapagal-Arroyo and Acting Secretary General of the House of Representatives, Mr. Dante Roberto P. Maling; (Communication received by the HOR on July 19, 2019)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "Letter for Senate Secretary Myra Marie D. Villarica, dated July 24, 2019, returning eight (8) enrolled copies of the consolidated version of SBN-1840 and HBN-8919, which were signed by Speaker Gloria Macapagal-Arroyo and the Acting Secretary General of the House of Representatives, Mr. Dante Roberto P. Maling; (Communication received by the LBIS on July 29, 2019)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "Enrolled copies of SBN-1840 which was adopted as an amendment to HBN-8919, sent to the Office of the President of the Philippines through PLLO for the signature and approval of His Excellency, President Rodrigo Roa Duterte on July 31, 2019;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "Consolidated with SBN-1840, which was Approved and Signed into Law by the President of the Philippines, His Excellency, President Rodrigo Roa Duterte on August 30, 2019 and became (Communication received by the LBIS on September 10, 2019)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-30"
 action = "REPUBLIC ACT NO. 11456. (See: O.B. dated September 23, 2019, 18th Congress)"
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "6/30/2019"
+date = "2019-06-30"
 
 [[committees]]
 name = "Justice and Human Rights"

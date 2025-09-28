@@ -1,8 +1,11 @@
 id = "01K67YJ15WAQ36KXN7YYVC5RS2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00676"
+
+[meta]
 bill_number = 676
 congress = 14
-canonical = "SBN-00676"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-676", "https://web.senate.gov.ph/lisdata/48984272!.pdf",]
 title = "HEALTH MAINTENANCE ORGANIZATIONS (HMOS) ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING AFFORDABLE HEALTH CARE SERVICES, THROUGH THE HEAL
 scope = "National"
 subjects = [ "Health Maintenance Organizations (HMOS)", "Healthcare Services/Health Care Delivery System",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Health and Demography"

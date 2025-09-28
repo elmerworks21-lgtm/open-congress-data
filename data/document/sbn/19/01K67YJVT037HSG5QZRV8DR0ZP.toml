@@ -1,8 +1,11 @@
 id = "01K67YJVT037HSG5QZRV8DR0ZP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01347"
+
+[meta]
 bill_number = 1347
 congress = 19
-canonical = "SBN-01347"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1347", "https://web.senate.gov.ph/lisdata/3953335918!.pdf",]
 title = "PASSIVE INCOME AND FINANCIAL INTERMEDIARY TAXATION ACT"
 date_filed = "2022-09-27"
@@ -10,73 +13,74 @@ long_title = "AN ACT AMENDING SECTIONS 22, 24, 25, 27, 28, 32, 34, 37, 38, 39, 4
 scope = "National"
 subjects = [ "Passive Income/Financial Intermediary Taxation", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-09-27"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-28"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-22"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-29"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-12"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-26"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-01"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-17"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-24"
 action = "Conducted CONSULTATION/OCULAR;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2022"
+date = "2022-09-28"
 
 [[committees]]
 name = "Ways and Means"

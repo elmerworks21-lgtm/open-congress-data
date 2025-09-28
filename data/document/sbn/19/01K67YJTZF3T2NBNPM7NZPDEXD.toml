@@ -1,8 +1,11 @@
 id = "01K67YJTZF3T2NBNPM7NZPDEXD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00155"
+
+[meta]
 bill_number = 155
 congress = 19
-canonical = "SBN-00155"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-155", "https://web.senate.gov.ph/lisdata/3786334304!.pdf",]
 title = "21ST CENTURY SCHOOL BOARDS ACT"
 date_filed = "2022-07-07"
@@ -10,29 +13,30 @@ long_title = "AN ACT FURTHERING LOCAL LEADERSHIP AND ACCOUNTABILITY IN BASIC EDU
 scope = "National"
 subjects = [ "School Boards", "Inclusive Education", "Local Government Code (R.A.No. 7160)", "Basic Education/Basic Education Institutions",]
 authors_raw = "Gatchalian, Win, Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT; BASIC EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-05"
 action = "Letter from Senator LOREN LEGARDA dated September 3, 2024, expressing her intention to co-author of SBN-155, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Local Government"

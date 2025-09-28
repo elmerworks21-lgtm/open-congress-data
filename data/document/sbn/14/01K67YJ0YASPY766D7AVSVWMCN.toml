@@ -1,8 +1,11 @@
 id = "01K67YJ0YASPY766D7AVSVWMCN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00304"
+
+[meta]
 bill_number = 304
 congress = 14
-canonical = "SBN-00304"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-304", "https://web.senate.gov.ph/lisdata/44043807!.pdf",]
 title = "EFFECTIVE MECHANISM TO MINIMIZE PRESENCE OF NUISANCE CANDIDATES"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 69 OF BATAS PAMBANSA BLG. 881, AS AMENDED,
 scope = "National"
 subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "Nuisance Candidates",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-07"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2007"
+date = "2007-08-07"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

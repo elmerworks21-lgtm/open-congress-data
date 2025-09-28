@@ -1,8 +1,11 @@
 id = "01K67YJ3AVAEKRR9KQ9XMEMYRY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03477"
+
+[meta]
 bill_number = 3477
 congress = 14
-canonical = "SBN-03477"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3477", "https://web.senate.gov.ph/lisdata/1270111383!.pdf",]
 title = "CAMARINES NORTE ELECTRIC COOPERATIVE, INC. (CANORECO)"
 date_filed = "2009-10-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONDONING THE PENALTIES OF CAMARINES NORTE ELECTRIC COOPERA
 scope = "Local"
 subjects = [ "Electric Cooperatives",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-07"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-12"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; ENERGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/12/2009"
+date = "2009-10-12"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

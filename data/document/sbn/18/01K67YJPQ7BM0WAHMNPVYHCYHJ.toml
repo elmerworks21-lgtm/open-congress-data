@@ -1,8 +1,11 @@
 id = "01K67YJPQ7BM0WAHMNPVYHCYHJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00493"
+
+[meta]
 bill_number = 493
 congress = 18
-canonical = "SBN-00493"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-493", "https://web.senate.gov.ph/lisdata/3072027564!.pdf",]
 title = "THE FIRECRACKER BAN ACT"
 date_filed = "2019-07-15"
@@ -10,29 +13,30 @@ long_title = "AN ACT BANNING THE USE OF FIRECRACKERS EXCEPT IN DESIGNATED AREAS 
 scope = "National"
 subjects = [ "Firecrackers", "Pyrotechnic Devices",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-15"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

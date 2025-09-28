@@ -1,24 +1,28 @@
 id = "01K67YM6NHS751W85Y3ZKK265M"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08798"
+
+[meta]
 bill_number = 8798
 congress = 17
-canonical = "HBN-08798"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8798", "https://web.senate.gov.ph/lisdata/2937225972!.pdf",]
 title = "MASBATE INSTITUTE OF FISHERIES AND TECHNOLOGY-TICAO ISLAND CAMPUS ACT"
 long_title = "AN ACT ESTABLISHING A CAMPUS OF THE MASBATE INSTITUTE OF FISHERIES AND TECHNOLOGY IN TICAO ISLAND, PROVINCE OF MASBATE TO BE KNOWN AS THE MASBATE INSTITUTE OF FISHERIES AND TECHNOLOGY-TICAO ISLAND CAMPUS, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Institute of Fisheries and Technology",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-23"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/23/2019"
+date = "2019-01-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

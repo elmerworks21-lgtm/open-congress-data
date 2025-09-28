@@ -1,8 +1,11 @@
 id = "01K67YJ3ATVW261JHZBKY62ZCH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03475"
+
+[meta]
 bill_number = 3475
 congress = 14
-canonical = "SBN-03475"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3475", "https://web.senate.gov.ph/lisdata/1269911381!.pdf",]
 title = "DEPENDENT ADULT ABUSE PREVENTION ACT OF 2009"
 date_filed = "2009-10-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING DEPENDENT ADULT ABUSE AND INSTITUTING PROGRAMS A
 scope = "National"
 subjects = [ "Elders", "Senior Citizens",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-07"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-12"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/12/2009"
+date = "2009-10-12"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

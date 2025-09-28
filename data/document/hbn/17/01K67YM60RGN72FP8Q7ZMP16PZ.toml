@@ -1,24 +1,28 @@
 id = "01K67YM60RGN72FP8Q7ZMP16PZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05793"
+
+[meta]
 bill_number = 5793
 congress = 17
-canonical = "HBN-05793"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5793", "https://web.senate.gov.ph/lisdata/2647722767!.pdf",]
 title = "KAPANGYAN FALLS ( PALAWAN)"
 long_title = "AN ACT DECLARING KAPANGYAN FALLS IN THE MUNICIPALITY OF BATARAZA, PROVINCE OF PALAWAN A TOURIST DESTINATION, PROVIDING FOR ITS DEVELOPMENT, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2017"
+date = "2017-08-15"
 
 [[committees]]
 name = "Tourism"

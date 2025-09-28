@@ -1,8 +1,11 @@
 id = "01K67YJ0WX4TET9JBSV3RAFVQ0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00236"
+
+[meta]
 bill_number = 236
 congress = 14
-canonical = "SBN-00236"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-236", "https://web.senate.gov.ph/lisdata/43363732!.pdf",]
 title = "MASTERAL DEGREE AS EQUIVALENT TO PROFESSIONAL ELIGIBILITY IN THE CIVIL SERVICE"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE CONFERMENT OF A MASTERAL DEGREE AS EQUIVALENT
 scope = "National"
 subjects = [ "Masteral Degree", "Civil Service Eligibility",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2007"
+date = "2007-08-01"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

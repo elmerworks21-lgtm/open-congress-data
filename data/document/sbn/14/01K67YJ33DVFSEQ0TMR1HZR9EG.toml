@@ -1,8 +1,11 @@
 id = "01K67YJ33DVFSEQ0TMR1HZR9EG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03186"
+
+[meta]
 bill_number = 3186
 congress = 14
-canonical = "SBN-03186"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3186", "https://web.senate.gov.ph/lisdata/109119671!.pdf",]
 title = "PHTHALATES BAN ON COSMETICS AND PERSONAL CARE PRODUCTS ACT OF 2009"
 date_filed = "2009-04-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE USE AND SALE OF COSMETIC AND PERSONAL CARE 
 scope = "National"
 subjects = [ "Phthalates", "Cosmetic/Personal Care Products",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2009-04-27"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-28"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; TRADE AND COMMERCE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/28/2009"
+date = "2009-04-28"
 
 [[committees]]
 name = "Health and Demography"

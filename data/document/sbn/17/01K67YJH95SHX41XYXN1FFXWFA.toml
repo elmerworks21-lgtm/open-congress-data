@@ -1,8 +1,11 @@
 id = "01K67YJH95SHX41XYXN1FFXWFA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00200"
+
+[meta]
 bill_number = 200
 congress = 17
-canonical = "SBN-00200"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-200", "https://web.senate.gov.ph/lisdata/2362120294!.pdf",]
 title = "MANDATORY MILITARY AND CIVIC RESERVE OFFICERS' TRAINING CORPS"
 date_filed = "2016-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT TO RE-INSTITUTIONALIZE THE MANDATORY MILITARY AND CIVIC RES
 scope = "National"
 subjects = [ "Reserve Officers Training Corps (ROTC)", "Students",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and NATIONAL DEFENSE AND SECURITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, NATIONAL DEFENSE AND SECURITY, YOUTH and FINANCE per Committee Report No. 681, recommending that it be substituted by SBN-2232;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "SUBSTITUTED BY SBN-2232 UNDER COMMITTEE REPORT NO. 681."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

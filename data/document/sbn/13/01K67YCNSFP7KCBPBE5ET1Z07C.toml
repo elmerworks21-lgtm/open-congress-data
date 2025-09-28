@@ -1,8 +1,11 @@
 id = "01K67YCNSFP7KCBPBE5ET1Z07C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00762"
+
+[meta]
 bill_number = 762
 congress = 13
-canonical = "SBN-00762"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-762", "https://web.senate.gov.ph/lisdata/19521371!.pdf",]
 title = "MANNER OF FILLING A VACANCY IN THE CONGRESS OF THE PHIL."
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING THE PROCEDURE FOR THE EXPEDITIOUS HOLDING OF A 
 scope = "National"
 subjects = [ "Congress of the Phil. (Vacancy)", "RA 6645 (Sections 1/2/3)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

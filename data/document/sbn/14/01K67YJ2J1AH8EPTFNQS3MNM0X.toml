@@ -1,8 +1,11 @@
 id = "01K67YJ2J1AH8EPTFNQS3MNM0X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02401"
+
+[meta]
 bill_number = 2401
 congress = 14
-canonical = "SBN-02401"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2401", "https://web.senate.gov.ph/lisdata/76656902!.pdf",]
 title = "EQUITABLE RESIDENTIAL LAND TITLING ACT OF 2008"
 date_filed = "2008-06-11"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROVIDING FOR AN EQUITABLE ACCESS TO OWNERSHIP OF RESIDENTI
 scope = "National"
 subjects = [ "Torrens Title",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2008-06-11"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; ENVIRONMENT AND NATURAL RESOURCES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-08"
 action = "Returned and submitted jointly by the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; ENVIRONMENT AND NATURAL RESOURCES; and FINANCE per Committee Report No. 609, recommending that it be substituted by SBN-3429;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-08"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-08"
 action = "SUBSTITUTED BY SBN-3429, WHICH BECAME R.A.NO. 10023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/8/2009"
+date = "2009-09-08"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

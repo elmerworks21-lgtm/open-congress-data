@@ -1,8 +1,11 @@
 id = "01K67YCNCGWCDZZG56N5ZYHXME"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00044"
+
+[meta]
 bill_number = 44
 congress = 13
-canonical = "SBN-00044"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-44", "https://web.senate.gov.ph/lisdata/1178597!.pdf",]
 title = "REPEALING LAW AUTHORIZING AUTOMATIC APPROPRIATIONS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 31 OF P.D. NO. 1177, SECTION 26 BOOK VI OF
 scope = "National"
 subjects = [ "Automatic Appropriations Repeal", "Pd 1177 (Sec. 31)", "E.O.No. 292 (Sec. 26, Book Vi)",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on FINANCE; and ECONOMIC AFFAIRS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Finance"

@@ -1,8 +1,11 @@
 id = "01K67YJWFJD98YR0BNYP3SQYY2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02247"
+
+[meta]
 bill_number = 2247
 congress = 19
-canonical = "SBN-02247"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2247", "https://web.senate.gov.ph/lisdata/4182638100!.pdf",]
 title = "PHILIPPINE DOWNSTREAM NATURAL GAS INDUSTRY DEVELOPMENT ACT"
 date_filed = "2023-05-24"
@@ -10,53 +13,54 @@ long_title = "AN ACT PROMOTING THE DEVELOPMENT OF THE PHILIPPINE DOWNSTREAM NATU
 scope = "National"
 subjects = [ "Natural Gas Industry", "Downstream Natural Gas Industry",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-24"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-29"
 action = "Read on First Reading and Referred to the Committees on ENERGY; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-20"
 action = "Returned and submitted jointly by the Committees on ENERGY, WAYS AND MEANS and FINANCE per Committee Report No. 304, recommending that it be substituted by SBN-2793;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-20"
 action = "SUBSTITUTED BY SBN-2793 UNDER COMMITTEE REPORT NO. 304."
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/20/2024"
+date = "2024-08-20"
 
 [[committees]]
 name = "Energy"

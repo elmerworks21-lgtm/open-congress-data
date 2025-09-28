@@ -1,8 +1,11 @@
 id = "01K67YCNH7955Y2VV28T0J3E0C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00298"
+
+[meta]
 bill_number = 298
 congress = 13
-canonical = "SBN-00298"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-298", "https://web.senate.gov.ph/lisdata/1455729!.pdf",]
 title = "MUNICIPAL LIBRARIES & BARANGAY READING CENTERS (ESTABLISHMNT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7743, OTHERWISE KNOWN AS 'AN ACT 
 scope = "National"
 subjects = [ "Library/Reading Centers (RA 7743)", "Non-Formal Educ/Remedial Reading Classes",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

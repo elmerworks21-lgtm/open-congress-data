@@ -1,8 +1,11 @@
 id = "01K67YJCT8CJ46ZGPXMZ0C5KS1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00829"
+
+[meta]
 bill_number = 829
 congress = 16
-canonical = "SBN-00829"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-829", "https://web.senate.gov.ph/lisdata/1680714044!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS PENSION FUND ACT OF 2013"
 date_filed = "2013-07-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE OVERSEAS FILIPINO WORKERS PENSION AND APPROPRI
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)", "Pension",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-16"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-12"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2013"
+date = "2013-08-12"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

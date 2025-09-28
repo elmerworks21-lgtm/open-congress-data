@@ -1,8 +1,11 @@
 id = "01K67YJDKTA8DA716NFBPE2MQE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02066"
+
+[meta]
 bill_number = 2066
 congress = 16
-canonical = "SBN-02066"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2066", "https://web.senate.gov.ph/lisdata/1853515696!.pdf",]
 title = "AUTOMATIC TRANSFER OF TITLE TO GOVERNMENT OF EXPROPRIATED LANDS"
 date_filed = "2014-01-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR AUTOMATIC TRANSFER OF TITLE TO GOVERNMENT OF 
 scope = "National"
 subjects = [ "Expropriation", "Land Title/Torrens Title",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2014-01-20"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-01-22"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/22/2014"
+date = "2014-01-22"
 
 [[committees]]
 name = "Justice and Human Rights"

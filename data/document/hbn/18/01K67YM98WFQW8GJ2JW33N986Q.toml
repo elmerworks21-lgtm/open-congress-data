@@ -1,28 +1,32 @@
 id = "01K67YM98WFQW8GJ2JW33N986Q"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07384"
+
+[meta]
 bill_number = 7384
 congress = 18
-canonical = "HBN-07384"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7384", "https://web.senate.gov.ph/lisdata/3353730365!.pdf",]
 title = "MULTI-SPECIES MARINE HATCHERY (CONCEPCION, ILOILO)"
 long_title = "AN ACT ESTABLISHING A SATELLITE MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF CONCEPCION, PROVINCE OF ILOILO AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Multi-Species Marine Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-16"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2020"
+date = "2020-09-16"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

@@ -1,8 +1,11 @@
 id = "01K67YJHNS8KQ873VNDVB4DX3W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00760"
+
+[meta]
 bill_number = 760
 congress = 17
-canonical = "SBN-00760"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-760", "https://web.senate.gov.ph/lisdata/2429220894!.pdf",]
 title = "PROPERTY LEASE REGISTRATION ACT"
 date_filed = "2016-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A SYSTEM OF REGISTRATION FOR LEASE ON REGISTER
 scope = "National"
 subjects = [ "Property Registration",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-10"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2016"
+date = "2016-08-10"
 
 [[committees]]
 name = "Justice and Human Rights"

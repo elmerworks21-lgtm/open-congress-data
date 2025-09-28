@@ -1,8 +1,11 @@
 id = "01K67YJR792XMBBR132QYRAC6F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02393"
+
+[meta]
 bill_number = 2393
 congress = 18
-canonical = "SBN-02393"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2393", "https://web.senate.gov.ph/lisdata/3619632606!.pdf",]
 title = "RENTAL HOUSING SUBSIDY ACT OF 2021"
 date_filed = "2021-09-09"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING A RENTAL SUBSIDY PROGRAM FOR INFORMAL SETTLER 
 scope = "National"
 subjects = [ "Rental Housing Subsidy",]
 authors_raw = "Go, Christopher Lawrence T., Revilla Jr., Ramon Bong, De Lima, Leila M., Tolentino, Francis \"Tol\" N., Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-09"
 action = "Prepared and submitted jointly by the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT and FINANCE with Senators CHRISTOPHER LAWRENCE T. GO, RAMON BONG REVILLA JR., LEILA M. DE LIMA, FRANCIS 'TOL' N. TOLENTINO and SONNY ANGARA as authors per Committee Report No. 305, recommending its approval in substitution of SNos. 1227, 1767, and 1843, taking into consideration HBN-8736;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-13"
 action = "Sponsor: Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-27"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-27"
 action = "Sponsorship speech delivered by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-27"
 action = "Co-sponsorship speech of Senators CHRISTOPHER LAWRENCE T. GO and RAMON BONG REVILLA JR.;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "9/27/2021"
+date = "2021-09-27"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

@@ -1,60 +1,64 @@
 id = "01K67YMD8NCF1CGYEZZWJPHXDV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07909"
+
+[meta]
 bill_number = 7909
 congress = 19
-canonical = "HBN-07909"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7909", "https://web.senate.gov.ph/lisdata/4168537964!.pdf",]
 title = "EXTENDING THE COVERAGE AND PERIOD OF AVAILMENT OF THE ESTATE TAX AMNESTY (R.A. NO. 11213)"
 long_title = "AN ACT EXTENDING THE COVERAGE AND PERIOD OF AVAILMENT OF THE ESTATE TAX AMNESTY, AMENDING FOR THE PURPOSE REPUBLIC ACT NO 11213 AS AMENDED, OTHERWISE KNOWN AS THE ''TAX AMNESTY ACT''"
 scope = "National"
 subjects = [ "Tax Amnesty", "Estate Tax",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-19"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Returned by the Committee on WAYS AND MEANS per Committee Report No. 68, recommending that it be considered in SBN-2219;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "CONSIDERED IN SBN-2219 UNDER COMMITTEE REPORT NO. 68."
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-31"
 action = "House of Representatives adopted SBN-2219 as an amendment to HBN-7909 on May 30, 2023;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-06-13"
 action = "Letter from Secretary General Reginald S. Velasco, transmitting nine (9) enrolled copies of the consolidated version of HBN-7909 and SBN-2219, for the signature of Senate Secretary Renato N. Bantug Jr., and Senate President Juan Miguel ZubiriI;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-04"
 action = "Letter for Speaker Martin G. Romualdez, returning eight (8) enrolled copies of the consolidated version of HBN-7909 and SBN-2219, which were signed by Senate Secretary Renato N. Bantug Jr. and Senate President Juan Miguel F. Zubiri;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-08"
 action = "Enacted into law without Executive approval pursuant to Art. VI, Sec. 27 (1) of the Constitution on August 5, 2023 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-08"
 action = "REPUBLIC ACT NO. 11956."
 
 [[status]]
 status = "Lapsed Into Law"
-date = "8/5/2023"
+date = "2023-08-05"
 
 [[committees]]
 name = "Ways and Means"

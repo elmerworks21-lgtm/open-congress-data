@@ -1,8 +1,11 @@
 id = "01K67YJPGF81D8F8K0DA00B3ZB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00187"
+
+[meta]
 bill_number = 187
 congress = 18
-canonical = "SBN-00187"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-187", "https://web.senate.gov.ph/lisdata/3041027191!.pdf",]
 title = "QUALIFIED RECLUSION PERPETUA ACT"
 date_filed = "2019-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PUNISHING EXTRAORDINARY HEINOUS CRIMES WITH THE PENALTY OF 
 scope = "National"
 subjects = [ "Heinous Crimes", "Qualified Reclusion Perpetua",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJ36EKKXRH8GYD15Y7336"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03308"
+
+[meta]
 bill_number = 3308
 congress = 14
-canonical = "SBN-03308"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3308", "https://web.senate.gov.ph/lisdata/1168610296!.pdf",]
 title = "FREEDOM OF INFORMATION ACT OF 2009"
 date_filed = "2009-06-03"
@@ -10,97 +13,98 @@ long_title = "AN ACT IMPLEMENTING THE RIGHT OF THE PEOPLE TO INFORMATION ON MATT
 scope = "National"
 subjects = [ "Public Access to Official Information",]
 authors_raw = "Revilla Jr., Ramon A., Roxas, Mar, Ejercito-Estrada, Jinggoy P., Villar, Manny, Legarda, Loren B., Cayetano, Alan Peter \"Companero\" S., Cayetano, \"Companera\" Pia S., Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-06-03"
 action = "Prepared and submitted jointly by the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA and CIVIL SERVICE AND GOVERNMENT REORGANIZATION with Senator(s) RAMON A. REVILLA JR., MAR ROXAS, JINGGOY P. EJERCITO-ESTRADA, MANNY VILLAR, LOREN B. LEGARDA, ALAN PETER 'COMPANERO' S. CAYETANO, 'COMPANERA' PIA S. CAYETANO and JUAN MIGUEL F. ZUBIRI as author(s) per Committee Report No. 534, recommending its approval in substitution of SBNos. 16, 109, 576, 592, 1578, 2571 and 3273, taking into consideration HBN-3732 and SRN-11;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-06-03"
 action = "Sponsors: Senator(s) ALAN PETER 'COMPANERO' S. CAYETANO, ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-06-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-26"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-26"
 action = "Sponsorship speech of Senator ALAN PETER 'COMPANERO' S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-26"
 action = "Co-sponsorship speech of Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-12"
 action = "Interpellation of Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-16"
 action = "Interpellation of Senator JOKER P. ARROYO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-07"
 action = "Period of committee amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-07"
 action = "Period of committee amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-07"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-07"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-08"
 action = "Printed copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "In favor: (12) BENIGNO S. AQUINO III, JOKER P. ARROYO, JINGGOY P. EJERCITO-ESTRADA, JUAN PONCE ENRILE, FRANCIS 'CHIZ' G. ESCUDERO, RICHARD 'DICK' J. GORDON, GREGORIO B. HONASAN II, MANUEL 'LITO' M. LAPID, FRANCIS N. PANGILINAN, AQUILINO Q. PIMENTEL JR., RAMON A. REVILLA JR. and JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Against: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Senate requested the House of Representatives for a conference on the disagreeing provisions of SBN-3308 and HBN-3732, designating Senators Cayetano (A.), Zubiri and Cayetano (P.) as its conferees;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-01-26"
 action = "House of Representatives agreed to a conference on the disagreeing provisions of SBN-3308 and HBN-3732, designating Representatives Abante, Jr., Zialcita, Tañada III, Marcoleta, Antonino, Remulla, Villanueva and Cruz-Gonzales as its conferees to the Bicameral Conference Committee on January 18, 2010;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-01"
 action = "Conference Committee Report submitted to the Senate, recommending that SBN-3308, in consolidation with HBN-3732, be approved as reconciled;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-01"
 action = "Conference Committee Report Approved by the Senate;"
 
 [[status]]
 status = "Conference Committee Report Approved by Senate"
-date = "2/1/2010"
+date = "2010-02-01"
 
 [[committees]]
 name = "Public Information and Mass Media"

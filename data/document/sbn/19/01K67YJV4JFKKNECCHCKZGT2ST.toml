@@ -1,8 +1,11 @@
 id = "01K67YJV4JFKKNECCHCKZGT2ST"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00388"
+
+[meta]
 bill_number = 388
 congress = 19
-canonical = "SBN-00388"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-388", "https://web.senate.gov.ph/lisdata/3814934589!.pdf",]
 title = "MAGNA CARTA FOR BARANGAY OFFICIALS ACT"
 date_filed = "2022-07-12"
@@ -10,21 +13,22 @@ long_title = "AN ACT STRENGTHENING THE BARANGAY AS THE BASIC LOCAL GOVERNMENT UN
 scope = "National"
 subjects = [ "Magna Carta for Barangay Officials", "Wage Increase/Salary Increase", "Local Government Units (LGUS)", "Retirement Benefits", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Local Government"

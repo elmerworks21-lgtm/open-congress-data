@@ -1,8 +1,11 @@
 id = "01K67YJVFG8NS7F8JVV9P2EFH1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00889"
+
+[meta]
 bill_number = 889
 congress = 19
-canonical = "SBN-00889"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-889", "https://web.senate.gov.ph/lisdata/3872735234!.pdf",]
 title = "ABOLISHING THE USE OF COMMUNITY TAX CERTIFICATE"
 date_filed = "2022-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT ABOLISHING THE USE OF COMMUNITY TAX CERTIFICATE AND THE POW
 scope = "National"
 subjects = [ "Community Tax", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-26"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Local Government"

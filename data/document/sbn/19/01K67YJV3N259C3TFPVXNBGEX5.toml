@@ -1,8 +1,11 @@
 id = "01K67YJV3N259C3TFPVXNBGEX5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00347"
+
+[meta]
 bill_number = 347
 congress = 19
-canonical = "SBN-00347"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-347", "https://web.senate.gov.ph/lisdata/3810534547!.pdf",]
 title = "INCENTIVES TO LEGAL PROFESSION ENGAGED IN THE DEFENSE OF INDIGENT INDIGENOUS PEOPLES"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR INCENTIVES TO MEMBERS OF THE LEGAL PROFESSION
 scope = "National"
 subjects = [ "Indigenous People", "Legal Profession", "Indigent Persons", "Lawyers",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

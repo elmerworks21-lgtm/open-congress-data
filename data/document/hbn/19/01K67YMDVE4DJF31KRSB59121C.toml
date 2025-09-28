@@ -1,24 +1,28 @@
 id = "01K67YMDVE4DJF31KRSB59121C"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11110"
+
+[meta]
 bill_number = 11110
 congress = 19
-canonical = "HBN-11110"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11110", "https://web.senate.gov.ph/lisdata/4554741471!.pdf",]
 title = "SITIO TIMOGA A TOURISM ZONE (ILIGAN, LANAO DEL NORTE)"
 long_title = "AN ACT DECLARING SITIO TIMOGA, LOCATED IN BARANGAY BURU-UN, CITY OF ILIGAN, PROVINCE OF LANAO DEL NORTE, A TOURISM ZONE"
 scope = "Local"
 subjects = [ "Tourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-12-12"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-17"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/17/2024"
+date = "2024-12-17"
 
 [[committees]]
 name = "Tourism"

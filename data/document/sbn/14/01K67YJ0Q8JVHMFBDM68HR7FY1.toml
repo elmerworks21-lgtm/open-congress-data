@@ -1,8 +1,11 @@
 id = "01K67YJ0Q8JVHMFBDM68HR7FY1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00001"
+
+[meta]
 bill_number = 1
 congress = 14
-canonical = "SBN-00001"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1", "https://web.senate.gov.ph/lisdata/41083505!.pdf",]
 title = "EXEMPTING MEDICINE PURCHASE BY SENIOR CITIZENS FROM VAT"
 date_filed = "2007-06-30"
@@ -10,25 +13,26 @@ long_title = "AN ACT EXEMPTING THE PURCHASE OF MEDICINE BY SENIOR CITIZENS FROM 
 scope = "National"
 subjects = [ "Drugs and Medicines", "Senior Citizens", "National Internal Revenue Code (NIRC)", "Value-Added Tax (VAT Exemption)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-05"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2007"
+date = "2007-07-24"
 
 [[committees]]
 name = "Ways and Means"

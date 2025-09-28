@@ -1,8 +1,11 @@
 id = "01K67YJ2PVB4J7ESSA8XHM80RJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02626"
+
+[meta]
 bill_number = 2626
 congress = 14
-canonical = "SBN-02626"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2626", "https://web.senate.gov.ph/lisdata/85037700!.pdf",]
 title = "TRANS-FATTY ACID LABELING ACT OF 2008"
 date_filed = "2008-09-17"
@@ -10,21 +13,22 @@ long_title = "AN ACT PRESCRIBING THE MANDATORY LABELING REQUIREMENTS FOR FOOD PR
 scope = "National"
 subjects = [ "Food Products", "Label", "Trans-Fatty Acids (Ip-Tfa)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-17"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-22"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2008"
+date = "2008-09-22"
 
 [[committees]]
 name = "Trade and Commerce"

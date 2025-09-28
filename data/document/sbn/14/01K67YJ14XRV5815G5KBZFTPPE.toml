@@ -1,8 +1,11 @@
 id = "01K67YJ14XRV5815G5KBZFTPPE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00625"
+
+[meta]
 bill_number = 625
 congress = 14
-canonical = "SBN-00625"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-625", "https://web.senate.gov.ph/lisdata/48364211!.pdf",]
 title = "CONSUMER FOOD SAFETY ACT"
 date_filed = "2007-07-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO ESTABLISH A COMPREHENSIVE PROGRAM TO ENSURE THE SAFETY O
 scope = "National"
 subjects = [ "Food Products", "Food Safety",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Trade and Commerce"

@@ -1,28 +1,32 @@
 id = "01K67YKZR3G0KD91146DV89XT4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04185"
+
+[meta]
 bill_number = 4185
 congress = 15
-canonical = "HBN-04185"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4185", "https://web.senate.gov.ph/lisdata/1255410608!.pdf",]
 title = "PHILIPPINE MARITIME ZONES ACT"
 long_title = "AN ACT TO DEFINE THE MARITIME ZONES OF THE REPUBLIC OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Maritime Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-12-07"
 action = "Read on First Reading and Referred to the Committee on FOREIGN RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-04-27"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/7/2011"
+date = "2011-12-07"
 
 [[committees]]
 name = "Foreign Relations"

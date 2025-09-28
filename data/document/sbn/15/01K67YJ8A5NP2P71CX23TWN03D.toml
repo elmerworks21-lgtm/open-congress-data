@@ -1,8 +1,11 @@
 id = "01K67YJ8A5NP2P71CX23TWN03D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01710"
+
+[meta]
 bill_number = 1710
 congress = 15
-canonical = "SBN-01710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1710", "https://web.senate.gov.ph/lisdata/92587813!.pdf",]
 title = "SAFER NET ACT"
 date_filed = "2010-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO IMPROVE PUBLIC AWARENESS REGARDING SAFE USE OF THE INTER
 scope = "National"
 subjects = [ "Internet Safety", "National Telecommunications Commission (NTC)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-21"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-08"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2010"
+date = "2010-09-08"
 
 [[committees]]
 name = "Public Services"

@@ -1,24 +1,28 @@
 id = "01K67YKRD0GFXFGXNA0SZWK2VZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05901"
+
+[meta]
 bill_number = 5901
 congress = 13
-canonical = "HBN-05901"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5901", "https://web.senate.gov.ph/lisdata/67625548!.pdf",]
 title = "REFORESTATION PROGRAM FOR THE CARAMAYON WATERSHED (SAMAR)"
 long_title = "AN ACT ESTABLISHING A REFORESTATION PROGRAM FOR THE CARAMAYON WATERSHED IN THE MUNICIPALITY OF CATBALOGAN, PROVINCE OF SAMAR AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Reforestation Program (Caramayon Watershed)", "Caramayon Watershed (Reforestation Program)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives CATALINO V. FIGUEROA and RIZALINA SEACHON-LANETE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Environment and Natural Resources"

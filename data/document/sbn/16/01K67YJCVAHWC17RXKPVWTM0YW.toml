@@ -1,8 +1,11 @@
 id = "01K67YJCVAHWC17RXKPVWTM0YW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00881"
+
+[meta]
 bill_number = 881
 congress = 16
-canonical = "SBN-00881"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-881", "https://web.senate.gov.ph/lisdata/1689514131!.pdf",]
 title = "CENTER FOR AUTISM"
 date_filed = "2013-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A CENTER FOR AUTISM AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Autism",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-17"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2013"
+date = "2013-08-13"
 
 [[committees]]
 name = "Health and Demography"

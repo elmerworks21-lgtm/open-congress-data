@@ -1,8 +1,11 @@
 id = "01K67YJDJZ08ATFXRZ4874WV0S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02032"
+
+[meta]
 bill_number = 2032
 congress = 16
-canonical = "SBN-02032"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2032", "https://web.senate.gov.ph/lisdata/1844115603!.pdf",]
 title = "REGULATING THE POWER OF PHILIPPINE AMUSEMENT AND GAMING CORPORATION (PAGCOR)"
 date_filed = "2013-12-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE POWER OF THE PHILIPPINES AMUSEMENT AND GAMIN
 scope = "National"
 subjects = [ "Philippine Amusement and Gaming Corporation (Pagcor)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-12-11"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-16"
 action = "Read on First Reading and Referred to the Committee(s) on GAMES, AMUSEMENT AND SPORTS; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/16/2013"
+date = "2013-12-16"
 
 [[committees]]
 name = "Games, Amusement and Sports"

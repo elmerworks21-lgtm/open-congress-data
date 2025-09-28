@@ -1,8 +1,11 @@
 id = "01K67YK051R2284Z5K8E7YSZF6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00594"
+
+[meta]
 bill_number = 594
 congress = 20
-canonical = "SBN-00594"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-594", "https://web.senate.gov.ph/lisdata/4718844023!.pdf",]
 title = "PHILIPPINE ORTHOPEDIC CENTER MODERNIZATION ACT"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT MODERNIZING THE PHILIPPINE ORTHOPEDIC CENTER, ENHANCING ITS
 scope = "National"
 subjects = [ "Philippine Orthopedic Center", "Health Care Delivery System",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Health and Demography"

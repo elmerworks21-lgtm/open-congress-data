@@ -1,8 +1,11 @@
 id = "01K67YJ9G0FG7TKP7EX3NMZAEC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03116"
+
+[meta]
 bill_number = 3116
 congress = 15
-canonical = "SBN-03116"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3116", "https://web.senate.gov.ph/lisdata/1274810782!.pdf",]
 title = "FOOD ALLERGENS AWARENESS ACT"
 date_filed = "2012-02-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO RAISE PUBLIC AWARENESS ON THE NATURE OF FOOD ALLERGENS"
 scope = "National"
 subjects = [ "Food Safety", "Allergy",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2012-02-02"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-02-07"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/7/2012"
+date = "2012-02-07"
 
 [[committees]]
 name = "Health and Demography"

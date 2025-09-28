@@ -1,8 +1,11 @@
 id = "01K67YJDQCFTY9RXT9A60VCXCG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02219"
+
+[meta]
 bill_number = 2219
 congress = 16
-canonical = "SBN-02219"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2219", "https://web.senate.gov.ph/lisdata/1907216195!.pdf",]
 title = "BARANGAY HEALTH WORKERS AND SERVICES REFORM ACT OF 2014"
 date_filed = "2014-05-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO IMPROVE AND TO PROMOTE QUALITY DELIVERY OF HEALTH SERVIC
 scope = "National"
 subjects = [ "Barangay Health Worker",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2014-05-08"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2014"
+date = "2014-05-13"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJW60MANZNG7B8KQ53HXA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01852"
+
+[meta]
 bill_number = 1852
 congress = 19
-canonical = "SBN-01852"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1852", "https://web.senate.gov.ph/lisdata/4068337076!.pdf",]
 title = "AMENDING R.A. NO. 11321 (THE SAGIP SAKA ACT)"
 date_filed = "2023-02-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING ADDITIONAL TAX INCENTIVES ON GIFTS AND DONATIONS 
 scope = "National"
 subjects = [ "Sagip Saka Act", "Farmers", "Fisherfolk", "Tax Incentives",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-07"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-13"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/13/2023"
+date = "2023-02-13"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

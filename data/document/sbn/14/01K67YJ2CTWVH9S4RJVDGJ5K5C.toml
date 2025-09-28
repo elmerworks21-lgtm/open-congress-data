@@ -1,8 +1,11 @@
 id = "01K67YJ2CTWVH9S4RJVDGJ5K5C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02187"
+
+[meta]
 bill_number = 2187
 congress = 14
-canonical = "SBN-02187"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2187", "https://web.senate.gov.ph/lisdata/71466386!.pdf",]
 title = "PHILIPPINE HALAL ACT OF 2008"
 date_filed = "2008-04-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE HALAL ACCREDITATION AND REGULATORY 
 scope = "National"
 subjects = [ "Halal Act",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-23"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-23"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; TRADE AND COMMERCE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/23/2008"
+date = "2008-04-23"
 
 [[committees]]
 name = "Agriculture and Food"

@@ -1,8 +1,11 @@
 id = "01K67YCPA667HP9KJWQ7XMF4ZD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01677"
+
+[meta]
 bill_number = 1677
 congress = 13
-canonical = "SBN-01677"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1677", "https://web.senate.gov.ph/lisdata/29092389!.pdf",]
 title = "FUEL-ETHANOL ACT OF 2004"
 date_filed = "2004-08-10"
@@ -10,33 +13,34 @@ long_title = "AN ACT TO PROMOTE THE USE OF ETHYL ALCOHOL OR ETHANOL AS ALTERNATI
 scope = "National"
 subjects = [ "Fuel-Ethanol Act of 2004", "Alcogas Program, Revival", "Ethyl Alcohol Alternative Transport Fuel",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on ENERGY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-14"
 action = "Returned and submitted jointly by the Committee(s) on ENERGY, AGRICULTURE AND FOOD and FINANCE per Committee Report No. 55, recommending that it be substituted by SBN-2226;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-14"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-14"
 action = "SUBSTITUTED BY SBN-2226, WHICH BECAME R.A.NO. 9367."
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-30"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/14/2006"
+date = "2006-03-14"
 
 [[committees]]
 name = "Energy"

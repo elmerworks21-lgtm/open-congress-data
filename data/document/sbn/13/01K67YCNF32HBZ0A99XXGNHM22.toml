@@ -1,8 +1,11 @@
 id = "01K67YCNF32HBZ0A99XXGNHM22"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00185"
+
+[meta]
 bill_number = 185
 congress = 13
-canonical = "SBN-00185"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-185", "https://web.senate.gov.ph/lisdata/13331136!.pdf",]
 title = "PHILIPPINE DENTAL ACT (AMENDMENTS)"
 date_filed = "2004-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED 4419 ALSO KNOWN AS THE PHILI
 scope = "National"
 subjects = [ "Philippine Dental Act (RA 4419", "Amendment",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-30"
 action = "Returned and submitted jointly by the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION, HEALTH AND DEMOGRAPHY, CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and FINANCE per Committee Report No. 232, recommending that it be substituted by SBN-2581;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "SUBSTITUTED BY SBN-2581."
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/31/2007"
+date = "2007-01-31"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

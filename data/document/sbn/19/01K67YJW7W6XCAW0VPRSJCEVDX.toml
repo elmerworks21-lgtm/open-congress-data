@@ -1,8 +1,11 @@
 id = "01K67YJW7W6XCAW0VPRSJCEVDX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01939"
+
+[meta]
 bill_number = 1939
 congress = 19
-canonical = "SBN-01939"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1939", "https://web.senate.gov.ph/lisdata/4094337308!.pdf",]
 title = "SOUTHERN LUZON STATE UNIVERSITY-COLLEGE OF MEDICINE"
 date_filed = "2023-02-28"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING A COLLEGE OF MEDICINE IN THE SOUTHERN LUZON ST
 scope = "National"
 subjects = [ "Schools, Establishment", "State Universities and Colleges (SUCS)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-28"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-01"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-29"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, WAYS AND MEANS and FINANCE per Committee Report No. 110, recommending that it be considered in HBN-7087;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-30"
 action = "CONSIDERED IN HBN-7087 UNDER COMMITTEE REPORT NO. 110."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/30/2023"
+date = "2023-08-30"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

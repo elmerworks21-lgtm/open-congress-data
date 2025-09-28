@@ -1,8 +1,11 @@
 id = "01K67YJ1Q4TA6SEY4GB6132P13"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01517"
+
+[meta]
 bill_number = 1517
 congress = 14
-canonical = "SBN-01517"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1517", "https://web.senate.gov.ph/lisdata/58285190!.pdf",]
 title = "TECH-PREP EDUCATION ACT OF 2007"
 date_filed = "2007-09-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR TECHNICAL PREPARATION EDUCATION IN PUBLIC SEC
 scope = "National"
 subjects = [ "Technical Preparation Education", "State Colleges and Universities (SCUS)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/18/2007"
+date = "2007-09-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJWXADFK3AB8MW3K7C4Z7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02776"
+
+[meta]
 bill_number = 2776
 congress = 19
-canonical = "SBN-02776"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2776", "https://web.senate.gov.ph/lisdata/4451940469!.pdf",]
 title = "GRANTING PHILIPPINE CITIZENSHIP TO STEPHEN DECATUR HAINES"
 date_filed = "2024-08-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO STEPHEN DECATUR HAINES"
 scope = "National"
 subjects = [ "Citizenship",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-07"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 473, recommending that it be considered in HBN-10085;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "CONSIDERED IN HBN-10085 UNDER COMMITTEE REPORT NO. 473;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/27/2025"
+date = "2025-01-27"
 
 [[committees]]
 name = "Justice and Human Rights"

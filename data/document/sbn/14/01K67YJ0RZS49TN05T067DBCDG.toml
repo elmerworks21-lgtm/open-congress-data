@@ -1,8 +1,11 @@
 id = "01K67YJ0RZS49TN05T067DBCDG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00073"
+
+[meta]
 bill_number = 73
 congress = 14
-canonical = "SBN-00073"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-73", "https://web.senate.gov.ph/lisdata/41403543!.pdf",]
 title = "TOTAL LOG BAN"
 date_filed = "2007-06-30"
@@ -10,25 +13,26 @@ long_title = "AN ACT TOTALLY BANNING LOGGING OPERATIONS FOR THE NEXT TWENTY-FIVE
 scope = "National"
 subjects = [ "Log Ban", "Logging Ban",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator LOREN LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-25"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2007"
+date = "2007-07-25"
 
 [[committees]]
 name = "Environment and Natural Resources"

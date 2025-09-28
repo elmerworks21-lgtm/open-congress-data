@@ -1,8 +1,11 @@
 id = "01K67YCPEY1FNGAF8VD56WC63Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01909"
+
+[meta]
 bill_number = 1909
 congress = 13
-canonical = "SBN-01909"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1909", "https://web.senate.gov.ph/lisdata/31952385!.pdf",]
 title = "PSYCHO-TECHNICAL DRIVER ASSESSMENT TESTS"
 date_filed = "2005-02-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR COMPULSORY PSYCHO-TECHNICAL DRIVER ASSESSMENT
 scope = "National"
 subjects = [ "Psycho-Technical Driver Assessment Tests", "Land Transportation Code (RA 4136)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-02-09"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-09"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/9/2005"
+date = "2005-02-09"
 
 [[committees]]
 name = "Public Services"

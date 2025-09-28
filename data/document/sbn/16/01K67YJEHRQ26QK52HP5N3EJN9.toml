@@ -1,8 +1,11 @@
 id = "01K67YJEHRQ26QK52HP5N3EJN9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03135"
+
+[meta]
 bill_number = 3135
 congress = 16
-canonical = "SBN-03135"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3135", "https://web.senate.gov.ph/lisdata/2295919651!.pdf",]
 title = "INFANT AND TODDLER DURABLE PRODUCT SAFETY ACT"
 date_filed = "2016-01-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMULGATE A CONSUMER PRODUCT SAFETY STANDARD FOR EACH D
 scope = "National"
 subjects = [ "Infant/Toddler Product", "Baby/Infant", "Department of Trade and Industry (DTI)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-01-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-01"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/1/2016"
+date = "2016-02-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

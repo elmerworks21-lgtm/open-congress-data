@@ -1,8 +1,11 @@
 id = "01K67YJTZJC31DTZS52V96J1PF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00159"
+
+[meta]
 bill_number = 159
 congress = 19
-canonical = "SBN-00159"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-159", "https://web.senate.gov.ph/lisdata/3786734569!.pdf",]
 title = "AMENDING R.A. NO. 11235 (MOTORCYCLE CRIME PREVENTION ACT)"
 date_filed = "2022-07-07"
@@ -10,49 +13,50 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11235, OTHERWISE KNOWN AS THE ‘
 scope = "National"
 subjects = [ "Motorcycle",]
 authors_raw = "Ejercito, Joseph Victor G., Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-15"
 action = "Letter from Senator RONALD BATO DELA ROSA, conveying his intention to be co-author of SBN-159, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-19"
 action = "Returned and submitted jointly by the Committees on JUSTICE AND HUMAN RIGHTS and PUBLIC SERVICES per Committee Report No. 191, recommending that it be substituted by SBN-2555;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-19"
 action = "SUBSTITUTED BY SBN-2555 UNDER COMMITTEE REPORT NO. 191."
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/19/2024"
+date = "2024-02-19"
 
 [[committees]]
 name = "Justice and Human Rights"

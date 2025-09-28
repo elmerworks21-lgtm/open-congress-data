@@ -1,8 +1,11 @@
 id = "01K67YJPX2YWYP3X3ZF5V76SAC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00763"
+
+[meta]
 bill_number = 763
 congress = 18
-canonical = "SBN-00763"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-763", "https://web.senate.gov.ph/lisdata/3111728016!.pdf",]
 title = "FUNDAMENTAL EQUALITY OF MEN AND WOMEN ON LAWS RELATING TO CRIMES AGAINST CHASTITY"
 date_filed = "2019-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENSURING THE FUNDAMENTAL EQUALITY OF MEN AND WOMEN ON LAWS 
 scope = "National"
 subjects = [ "Crimes Against Chastity", "Revised Penal Code (R.A.No. 3815)", "Marital Infidelity",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2019"
+date = "2019-08-14"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

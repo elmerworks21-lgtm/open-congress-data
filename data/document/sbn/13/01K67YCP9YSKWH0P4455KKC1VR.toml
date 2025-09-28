@@ -1,8 +1,11 @@
 id = "01K67YCP9YSKWH0P4455KKC1VR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01663"
+
+[meta]
 bill_number = 1663
 congress = 13
-canonical = "SBN-01663"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1663", "https://web.senate.gov.ph/lisdata/28802357!.pdf",]
 title = "FILM DISCLOSURE ACT"
 date_filed = "2004-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE CERTAIN DISCLOSURES RELATING TO MATERIALLY ALTER
 scope = "National"
 subjects = [ "Film Disclosure Act", "Movie Industry (Altered Motion Pictures)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Public Information and Mass Media"

@@ -1,8 +1,11 @@
 id = "01K67YJPTPFPAC97R62SZP9KFP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00659"
+
+[meta]
 bill_number = 659
 congress = 18
-canonical = "SBN-00659"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-659", "https://web.senate.gov.ph/lisdata/3102027919!.pdf",]
 title = "USED CAR LEMON ACT OF 2019"
 date_filed = "2019-07-22"
@@ -10,25 +13,26 @@ long_title = "AN ACT REQUIRING USED CAR DEALERS TO PROVIDE CONSUMERS WITH A WRIT
 scope = "National"
 subjects = [ "Lemon Law", "Motor Vehicles",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

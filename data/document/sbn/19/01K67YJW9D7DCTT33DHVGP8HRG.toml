@@ -1,8 +1,11 @@
 id = "01K67YJW9D7DCTT33DHVGP8HRG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02003"
+
+[meta]
 bill_number = 2003
 congress = 19
-canonical = "SBN-02003"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2003", "https://web.senate.gov.ph/lisdata/4116937481!.pdf",]
 title = "SUSTAINABLE CITIES AND COMMUNITIES ACT"
 date_filed = "2023-03-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE DEVELOPMENT OF SUSTAINABLE CITIES AND COM
 scope = "National"
 subjects = [ "Sustainable Cities and Communities",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-14"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-15"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/15/2023"
+date = "2023-03-15"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

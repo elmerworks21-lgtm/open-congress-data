@@ -1,8 +1,11 @@
 id = "01K67YJQ1KSD56ZNKATFQTY5SP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00981"
+
+[meta]
 bill_number = 981
 congress = 18
-canonical = "SBN-00981"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-981", "https://web.senate.gov.ph/lisdata/3138928283!.pdf",]
 title = "RENEWING THE FRANCHISE GRANTED TO ABS-CBN BROADCASTING CORPORATION"
 date_filed = "2019-08-28"
@@ -10,33 +13,34 @@ long_title = "AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE G
 scope = "National"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Recto, Ralph G., De Lima, Leila M., Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-28"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-28"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-20"
 action = "Letter from Senator LEILA M. DE LIMA, dated January 7, 2020, converying her intention to be a co-author of SBN-981, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-19"
 action = "Letter from Senator EMMANUEL 'MANNY' D. PACQUIAO dated February 18, 2020, expressing his intention to co-author SBN-981, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-13"
 action = "Transferred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-19"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2019"
+date = "2019-08-28"
 
 [[committees]]
 name = "Public Services"

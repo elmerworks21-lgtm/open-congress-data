@@ -1,8 +1,11 @@
 id = "01K67YJVXPZENWG1VNEYW1K5YK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01493"
+
+[meta]
 bill_number = 1493
 congress = 19
-canonical = "SBN-01493"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1493", "https://web.senate.gov.ph/lisdata/3983636322!.pdf",]
 title = "GRANTING HAZARD PAY TO COVERED EMPLOYEES OF THE GOVERNMENT"
 date_filed = "2022-11-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING HAZARD PAY TO COVERED EMPLOYEES OF THE GOVERNMENT 
 scope = "National"
 subjects = [ "Hazard Pay", "Government Employees",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-10"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2022"
+date = "2022-11-22"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

@@ -1,8 +1,11 @@
 id = "01K67YJDPGXTSMWNWPY9MQKE80"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02182"
+
+[meta]
 bill_number = 2182
 congress = 16
-canonical = "SBN-02182"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2182", "https://web.senate.gov.ph/lisdata/1896716095!.pdf",]
 title = "ANTI-CORPORAL PUNISHMENT LAW"
 date_filed = "2014-03-31"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROHIBITING THE IMPOSITION OF CORPORAL PUNISHMENT ON CHILDR
 scope = "National"
 subjects = [ "Child Abuse, Exploitation and Discrimination Act (R.A.No. 7610)", "Corporal Punishment",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2014-03-31"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-05"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH; and WOMEN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-25"
 action = "Referred primarily to the Committee on WOMEN, FAMILY RELATIONS AND GENDER EQUALITY and secondarily to the Committee on YOUTH, as manifested by Senator Cayetano (A.);"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/5/2014"
+date = "2014-05-05"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

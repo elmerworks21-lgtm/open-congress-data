@@ -1,8 +1,11 @@
 id = "01K67YJ36K0GTAJNHT78B0A4MW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03312"
+
+[meta]
 bill_number = 3312
 congress = 14
-canonical = "SBN-03312"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3312", "https://web.senate.gov.ph/lisdata/1175310338!.pdf",]
 title = "MINDANAO DEVELOPMENT ADMINISTRATION (MINDA) ACT OF 2009"
 date_filed = "2009-06-08"
@@ -10,27 +13,28 @@ long_title = "AN ACT CREATING THE MINDANAO DEVELOPMENT ADMINISTRATION (MINDA) DE
 scope = "National"
 subjects = [ "Mindanao Development Administration (Minda)",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2009-06-08"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, LOCAL GOVERNMENT and FINANCE per Committee Report No. 717, recommending that it be substituted by SBN-3496;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "SUBSTITUTED BY SBN-3496, WHICH BECAME R.A.NO. 9996."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/14/2009"
+date = "2009-10-14"
 

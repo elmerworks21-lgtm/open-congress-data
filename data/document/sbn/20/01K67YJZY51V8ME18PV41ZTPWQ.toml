@@ -1,8 +1,11 @@
 id = "01K67YJZY51V8ME18PV41ZTPWQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00226"
+
+[meta]
 bill_number = 226
 congress = 20
-canonical = "SBN-00226"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-226", "https://web.senate.gov.ph/lisdata/4670342708!.pdf",]
 title = "ANTI-TICKET SCALPING ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE SELLING AND/OR BUYING OF ADMISSION TICKETS 
 scope = "National"
 subjects = [ "Scalpers", "Anti-Ticket Scalping",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator FRANCIS 'KIKO' PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Justice and Human Rights"

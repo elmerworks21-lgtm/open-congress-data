@@ -1,8 +1,11 @@
 id = "01K67YJCV0G55NRR81J39BQZY4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00867"
+
+[meta]
 bill_number = 867
 congress = 16
-canonical = "SBN-00867"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-867", "https://web.senate.gov.ph/lisdata/1688114117!.pdf",]
 title = "NATIONAL FAMILY COMMISSION OF THE PHILIPPINES ACT OF 2013"
 date_filed = "2013-07-17"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO INSTITUTE THE NATIONAL COMMISSION ON THE FAMILY AND FOR 
 scope = "National"
 subjects = [ "Family Commission",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-17"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-05"
 action = "Change of committee referral from the Committee on Youth, Women and Family Relations to the Committee on WOMEN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2013"
+date = "2013-08-13"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

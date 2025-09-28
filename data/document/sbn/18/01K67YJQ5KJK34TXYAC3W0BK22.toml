@@ -1,8 +1,11 @@
 id = "01K67YJQ5KJK34TXYAC3W0BK22"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01150"
+
+[meta]
 bill_number = 1150
 congress = 18
-canonical = "SBN-01150"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1150", "https://web.senate.gov.ph/lisdata/3181728677!.pdf",]
 title = "SPECIAL EDUCATION ACT OF 2019"
 date_filed = "2019-11-05"
@@ -10,73 +13,74 @@ long_title = "AN ACT INCORPORATING A SYSTEM OF SPECIAL EDUCATION IN ALL PUBLIC A
 scope = "National"
 subjects = [ "Special Education", "Children and Youth with Special Needs (CYSN)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-11-05"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-06"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE; WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-30"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-24"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-11-09"
 action = "Returned and submitted jointly by the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE, WAYS AND MEANS, FINANCE and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY per Committee Report No. 134, recommending that it be substituted by SBN-1907;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-11-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-11-10"
 action = "SUBSTITUTED BY SBN-1907 UNDER COMMITTEE REPORT NO. 134, WHICH BECAME REPUBLIC ACT NO. 11650 ON MARCH 11, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/10/2020"
+date = "2020-11-10"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

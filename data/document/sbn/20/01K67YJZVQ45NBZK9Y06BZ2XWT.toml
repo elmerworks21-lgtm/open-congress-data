@@ -1,8 +1,11 @@
 id = "01K67YJZVQ45NBZK9Y06BZ2XWT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00105"
+
+[meta]
 bill_number = 105
 congress = 20
-canonical = "SBN-00105"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-105", "https://web.senate.gov.ph/lisdata/4658242586!.pdf",]
 title = "EMERGENCY RESPONSE DEPARTMENT (ERD) ACT"
 date_filed = "2025-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE EMERGENCY RESPONSE DEPARTMENT (ERD), APPROPRIA
 scope = "National"
 subjects = [ "Emergency Response Department (ERD)",]
 authors_raw = "Cayetano, Alan Peter \"Compañero\" S."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-03"
 action = "Introduced by Senator ALAN PETER 'COMPAÑERO' S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

@@ -1,8 +1,11 @@
 id = "01K67YJ945KY89M2BVQH43SY7R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02707"
+
+[meta]
 bill_number = 2707
 congress = 15
-canonical = "SBN-02707"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2707", "https://web.senate.gov.ph/lisdata/107959231!.pdf",]
 title = "CREMATORIES REGULATION ACT"
 date_filed = "2011-02-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING CREMATORIES"
 scope = "National"
 subjects = [ "Crematory", "Crematories",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2011-02-17"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-02-21"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/21/2011"
+date = "2011-02-21"
 
 [[committees]]
 name = "Health and Demography"

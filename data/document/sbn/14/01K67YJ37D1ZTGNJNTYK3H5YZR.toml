@@ -1,8 +1,11 @@
 id = "01K67YJ37D1ZTGNJNTYK3H5YZR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03350"
+
+[meta]
 bill_number = 3350
 congress = 14
-canonical = "SBN-03350"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3350", "https://web.senate.gov.ph/lisdata/1200310560!.pdf",]
 title = "CHARTERED CITY (CITY OF DAGUPAN)"
 date_filed = "2009-07-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING JUNE 20 OF EVERY YEAR A SPECIAL NONWORKING HOLIDA
 scope = "Local"
 subjects = [ "Holidays (Special Nonworking Holiday)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2009-07-28"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-11"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2009"
+date = "2009-08-11"
 
 [[committees]]
 name = "Local Government"

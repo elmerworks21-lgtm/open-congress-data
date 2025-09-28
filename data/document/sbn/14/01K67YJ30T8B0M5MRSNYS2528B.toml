@@ -1,8 +1,11 @@
 id = "01K67YJ30T8B0M5MRSNYS2528B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03070"
+
+[meta]
 bill_number = 3070
 congress = 14
-canonical = "SBN-03070"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3070", "https://web.senate.gov.ph/lisdata/103479228!.pdf",]
 title = "PHILIPPINE NATIONAL CANCER CENTER"
 date_filed = "2009-02-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL CANCER CENTER TO BE KNOWN AS THE PH
 scope = "National"
 subjects = [ "Philippine National Cancer Center",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-17"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-18"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/18/2009"
+date = "2009-02-18"
 
 [[committees]]
 name = "Health and Demography"

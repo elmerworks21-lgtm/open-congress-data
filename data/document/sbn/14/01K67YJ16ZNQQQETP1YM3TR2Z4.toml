@@ -1,8 +1,11 @@
 id = "01K67YJ16ZNQQQETP1YM3TR2Z4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00729"
+
+[meta]
 bill_number = 729
 congress = 14
-canonical = "SBN-00729"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-729", "https://web.senate.gov.ph/lisdata/49514335!.pdf",]
 title = "CRIME AGAINST HONOR"
 date_filed = "2007-07-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT DECLARING THE FILING OF FALSE COMPLAINTS AGAINST PUBLIC OFF
 scope = "National"
 subjects = [ "Public Officials/Government Officials", "Crime of Filing False Complaint/Crime Against Honor",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-31"
 action = "Returned and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 88, recommending that it be substituted by SBN-2498;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "SUBSTITUTED BY SBN-2499."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Justice and Human Rights"

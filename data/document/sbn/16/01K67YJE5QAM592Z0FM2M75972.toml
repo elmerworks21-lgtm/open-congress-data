@@ -1,8 +1,11 @@
 id = "01K67YJE5QAM592Z0FM2M75972"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02791"
+
+[meta]
 bill_number = 2791
 congress = 16
-canonical = "SBN-02791"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2791", "https://web.senate.gov.ph/lisdata/2155118317!.pdf",]
 title = "PUBLIC TRANSPORT PRESERVATION ACT"
 date_filed = "2015-06-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ACT NO. 3815, OTHERWISE KNOWN AS THE PENAL CODE, B
 scope = "National"
 subjects = [ "Public Utility Vehicles", "Revised Penal Code (R.A.No. 3815)", "Transportation", "Theft and Robbery",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-06-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-02"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2015"
+date = "2015-06-02"
 
 [[committees]]
 name = "Justice and Human Rights"

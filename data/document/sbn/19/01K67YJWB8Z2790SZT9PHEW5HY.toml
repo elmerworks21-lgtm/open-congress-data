@@ -1,8 +1,11 @@
 id = "01K67YJWB8Z2790SZT9PHEW5HY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02076"
+
+[meta]
 bill_number = 2076
 congress = 19
-canonical = "SBN-02076"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2076", "https://web.senate.gov.ph/lisdata/4140637717!.pdf",]
 title = "DRIVERS SAFETY EDUCATION FOR SENIOR HIGH SCHOOL STUDENTS ACT"
 date_filed = "2023-04-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE TEACHING OF BASIC ROAD SAFETY AND COMPREHENSI
 scope = "National"
 subjects = [ "Drivers Education", "Road Safety Education", "Senior High School", "Curriculum/Curricula",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-04-19"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION; PUBLIC SERVICES; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/8/2023"
+date = "2023-05-08"
 
 [[committees]]
 name = "Basic Education"

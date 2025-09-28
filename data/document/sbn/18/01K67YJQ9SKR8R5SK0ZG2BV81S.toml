@@ -1,8 +1,11 @@
 id = "01K67YJQ9SKR8R5SK0ZG2BV81S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01325"
+
+[meta]
 bill_number = 1325
 congress = 18
-canonical = "SBN-01325"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1325", "https://web.senate.gov.ph/lisdata/3231429163!.pdf",]
 title = "RENAMING MANDAUE CAUSEWAY IN THE CITY OF MANDAUE, CEBU"
 date_filed = "2020-02-06"
@@ -10,37 +13,38 @@ long_title = "AN ACT RENAMING MANDAUE CAUSEWAY IN THE CITY OF MANDAUE, CEBU TO O
 scope = "National"
 subjects = [ "Roads, Change of Name", "Renaming",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-06"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-10"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-14"
 action = "Transferred from the Committee on Rules to the Committee on PUBLIC WORKS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-24"
 action = "Returned and submitted by the Committee on PUBLIC WORKS per Committee Report No. 495, recommending that it be considered in HBN-7669;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "CONSIDERED IN HBN-7669 UNDER COMMITTEE REPORT NO. 495, WHICH BECAME REPUBLIC ACT NO. 11730 ON APRIL 29, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/25/2022"
+date = "2022-01-25"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YJJSDM1R8Y2PE6REVQ5P4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02143"
+
+[meta]
 bill_number = 2143
 congress = 17
-canonical = "SBN-02143"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2143", "https://web.senate.gov.ph/lisdata/2930525905!.pdf",]
 title = "COMPUTER SCIENCE IN SCHOOLS ACT OF 2019"
 date_filed = "2019-01-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT INTEGRATING COMPUTER SCIENCE IN THE CURRICULUM OF THE ENHAN
 scope = "National"
 subjects = [ "Computer Science", "Curriculum/Curricula", "Basic Education Program",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-14"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; SCIENCE AND TECHNOLOGY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2019"
+date = "2019-01-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YCPJP01JQE7X1HVWSSAVW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02086"
+
+[meta]
 bill_number = 2086
 congress = 13
-canonical = "SBN-02086"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2086", "https://web.senate.gov.ph/lisdata/38653230!.pdf",]
 title = "PANDEMIC INFLUENZA PREPAREDNESS ACT"
 date_filed = "2005-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR PANDEMIC INFLUENZA PREPAREDNESS AND TO ESTAB
 scope = "National"
 subjects = [ "Pandemic Influenza Preparedness Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-23"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-24"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2005"
+date = "2005-08-24"
 
 [[committees]]
 name = "Health and Demography"

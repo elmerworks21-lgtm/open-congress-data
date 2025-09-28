@@ -1,8 +1,11 @@
 id = "01K67YJH9FK1WCRZX88YVGQY65"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00214"
+
+[meta]
 bill_number = 214
 congress = 17
-canonical = "SBN-00214"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-214", "https://web.senate.gov.ph/lisdata/2363520282!.pdf",]
 title = "BIBONG BHW ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT CREATING THE COMMUNITY HEALTH WORKER EDUCATION AND TRAINING
 scope = "National"
 subjects = [ "Barangay Health Worker", "Community Health Workers", "R.A.No. 7883 (Barangay Health Workers Benefits and Incentives Act of 1995)",]
 authors_raw = "Hontiveros, Risa, De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator ANA THERESIA HONTIVEROS BARAQUEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-06"
 action = "Letter from Senator LEILA M. DE LIMA dated February 28, 2018, conveying her intention to be made coauthor of SBN-214, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Health and Demography"

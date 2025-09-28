@@ -1,8 +1,11 @@
 id = "01K67YCPRTAFHY4Q86QSJ1W12R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02400"
+
+[meta]
 bill_number = 2400
 congress = 13
-canonical = "SBN-02400"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2400", "https://web.senate.gov.ph/lisdata/55864621!.pdf",]
 title = "INCOME TAXATION FOR INDIVIDUALS (RESTRUCTURING)"
 date_filed = "2006-06-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT RESTRUCTURING THE INCOME TAXATION FOR INDIVIDUALS BY CREATI
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income Tax, Restructuring)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-08"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Ways and Means"

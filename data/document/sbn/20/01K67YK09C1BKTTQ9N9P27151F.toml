@@ -1,8 +1,11 @@
 id = "01K67YK09C1BKTTQ9N9P27151F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00825"
+
+[meta]
 bill_number = 825
 congress = 20
-canonical = "SBN-00825"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-825", "https://web.senate.gov.ph/lisdata/4739143394!.pdf",]
 title = "KATUTUBONG TAGAPAGTANGGOL ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A PROPORTIONATE SCHOOL ADMISSION AND ACCEPTAN
 scope = "National"
 subjects = [ "Katutubong Tagapagtanggol", "School Admission", "Philippine Military Academy (PMA)", "Philippine National Police Academy (PNPA)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS and NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

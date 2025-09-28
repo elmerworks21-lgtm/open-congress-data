@@ -1,8 +1,11 @@
 id = "01K67YJPF4V2YFZDKMP7BPPEQT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00129"
+
+[meta]
 bill_number = 129
 congress = 18
-canonical = "SBN-00129"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-129", "https://web.senate.gov.ph/lisdata/3038127228!.pdf",]
 title = "SOCIAL MEDIA AWARENESS IN SCHOOLS AND UNIVERSITIES ACT OF 2019"
 date_filed = "2019-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCORPORATING THE VALUE OF RESPONSIBLE, FAIR AND TRUTHFUL U
 scope = "National"
 subjects = [ "Social Media", "Schools (Public and Private)", "Primary Education", "Secondary Education", "Curriculum/Curricula",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and PUBLIC INFORMATION AND MASS MEDIA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Referred primarily to the on Committee on BASIC EDUCATION, ARTS AND CULTURE and secondarily to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

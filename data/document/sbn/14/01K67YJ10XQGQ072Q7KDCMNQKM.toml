@@ -1,8 +1,11 @@
 id = "01K67YJ10XQGQ072Q7KDCMNQKM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00431"
+
+[meta]
 bill_number = 431
 congress = 14
-canonical = "SBN-00431"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-431", "https://web.senate.gov.ph/lisdata/46073959!.pdf",]
 title = "FARMERS ORGANIZATION REPRESENTATIVES FOR NATIONAL FOOD AUTHORITY COUNCIL"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE INCLUSION OF REPRESENTATIVES FROM THE PRI
 scope = "National"
 subjects = [ "Farmers Representatives/Farm Workers", "National Food Authority Council",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

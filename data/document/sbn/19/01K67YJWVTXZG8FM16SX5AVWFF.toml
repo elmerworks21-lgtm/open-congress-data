@@ -1,8 +1,11 @@
 id = "01K67YJWVTXZG8FM16SX5AVWFF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02726"
+
+[meta]
 bill_number = 2726
 congress = 19
-canonical = "SBN-02726"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2726", "https://web.senate.gov.ph/lisdata/4430940265!.pdf",]
 title = "CONDOMINIUM REDEVELOPMENT ACT"
 date_filed = "2024-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT LOWERING THE PERCENTAGE REQUIREMENT FOR THE VOLUNTARY DISSO
 scope = "National"
 subjects = [ "Condominium Redevelopment",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-10"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2024"
+date = "2024-07-30"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

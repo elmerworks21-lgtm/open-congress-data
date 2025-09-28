@@ -1,8 +1,11 @@
 id = "01K67YJ2MANM5D1J0FT454S40A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02503"
+
+[meta]
 bill_number = 2503
 congress = 14
-canonical = "SBN-02503"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2503", "https://web.senate.gov.ph/lisdata/79817206!.pdf",]
 title = "WOMEN IN STATE CUSTODY ACT OF 2008"
 date_filed = "2008-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROTECTING WOMEN IN STATE CUSTODY, PRESCRIBING THE MINIMUM 
 scope = "National"
 subjects = [ "Women in State Custody",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-04"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

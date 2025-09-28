@@ -1,8 +1,11 @@
 id = "01K67YCNTT3BG3SCPXW2KAG11G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00840"
+
+[meta]
 bill_number = 840
 congress = 13
-canonical = "SBN-00840"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-840", "https://web.senate.gov.ph/lisdata/20381518!.pdf",]
 title = "PUBLIC ATTORNEY'S OFFICE REORGANIZATION"
 date_filed = "2004-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT REORGANIZING AND STRENGTHENING THE PUBLIC ATTORNEY'S OFFICE
 scope = "National"
 subjects = [ "Public Attorney`S Office Reorganization", "Pao (Citizens Legal Assistance Ofc/Clao)",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-03"
 action = "Returned jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS, CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS, CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE per Committee Report No. 107, recommending that it be considered in SBN-2171;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-09"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-09"
 action = "CONSIDERED IN SBN-2171, WHICH BECAME R.A.NO. 9406."
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/9/2006"
+date = "2006-10-09"
 
 [[committees]]
 name = "Justice and Human Rights"

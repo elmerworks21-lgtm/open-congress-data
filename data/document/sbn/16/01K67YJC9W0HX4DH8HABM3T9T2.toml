@@ -1,8 +1,11 @@
 id = "01K67YJC9W0HX4DH8HABM3T9T2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00032"
+
+[meta]
 bill_number = 32
 congress = 16
-canonical = "SBN-00032"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-32", "https://web.senate.gov.ph/lisdata/1584013085!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING AN ASSISTANCE PROGRAM FOR OVERSEAS FILIPINO WORKE
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; FOREIGN RELATIONS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2013"
+date = "2013-07-23"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

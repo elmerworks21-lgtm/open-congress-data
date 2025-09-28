@@ -1,18 +1,22 @@
 id = "01K67YMDWQ3PM27RK3QC5HRB97"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11254"
+
+[meta]
 bill_number = 11254
 congress = 19
-canonical = "HBN-11254"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11254", "https://web.senate.gov.ph/lisdata/4637842380!.pdf",]
 title = "PROHIBITING ANY ACTIVITY RELATED TO ONLINE COCKFIGHTING OR E-SABONG OPERATION"
 long_title = "AN ACT PROHIBITING ANY ACTIVITY RELATED TO ONLINE COCKFIGHTING OR E-SABONG OPERATIONS AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
 scope = "National"
 subjects = [ "Cockfights and Derbies", "E-Sabong Operations",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-06-09"
 action = "Sent to the Senate requesting for concurrence;"
 
 [[status]]
 status = "Pending First Reading"
-date = "6/9/2025"
+date = "2025-06-09"
 

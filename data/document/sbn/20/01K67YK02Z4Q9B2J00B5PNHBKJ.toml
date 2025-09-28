@@ -1,8 +1,11 @@
 id = "01K67YK02Z4Q9B2J00B5PNHBKJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00483"
+
+[meta]
 bill_number = 483
 congress = 20
-canonical = "SBN-00483"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-483", "https://web.senate.gov.ph/lisdata/4701443016!.pdf",]
 title = "DOCUMENTARY STAMP TAX"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING THE PLEDGE OF PERSONAL PROPERTY COVERING A LOAN O
 scope = "National"
 subjects = [ "Documentary Stamp Tax", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Ways and Means"

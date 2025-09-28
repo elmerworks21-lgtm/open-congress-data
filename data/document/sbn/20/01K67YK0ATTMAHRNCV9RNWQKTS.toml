@@ -1,8 +1,11 @@
 id = "01K67YK0ATTMAHRNCV9RNWQKTS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00903"
+
+[meta]
 bill_number = 903
 congress = 20
-canonical = "SBN-00903"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-903", "https://web.senate.gov.ph/lisdata/4751043515!.pdf",]
 title = "TELEVISION ALTERNATIVE LEARNING SYSTEM ACT"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE TELEVISION BROADCASTING EDUCATION PROGRAM 
 scope = "National"
 subjects = [ "Television Alternative Learning System",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Basic Education"

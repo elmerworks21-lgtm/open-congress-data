@@ -1,24 +1,28 @@
 id = "01K67YMA3Z0C175ZFBFQ04ANSN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10330"
+
+[meta]
 bill_number = 10330
 congress = 18
-canonical = "HBN-10330"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10330", "https://web.senate.gov.ph/lisdata/3674933137!.pdf",]
 title = "NATIONAL MUSEUM OF FILIPINO WOMEN ACT"
 long_title = "AN ACT CREATING THE NATIONAL MUSEUM OF FILIPINO WOMEN AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "National Museum", "Women",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; BASIC EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2021"
+date = "2021-12-06"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

@@ -1,8 +1,11 @@
 id = "01K67YJPEJ50H2KV7HDN58FRTC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00104"
+
+[meta]
 bill_number = 104
 congress = 18
-canonical = "SBN-00104"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-104", "https://web.senate.gov.ph/lisdata/3034427202!.pdf",]
 title = "BASIC EDUCATION TEACHERS PAY INCREASE ACT"
 date_filed = "2019-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR ADDITIONAL SUPPORT AND COMEPENSATION FOR EDUC
 scope = "National"
 subjects = [ "Wage Increase/Salary Increase", "Public School Teachers",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-09"
 action = "Motion of Senator Zubiri to transfer the committee referral of SBN-104 to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION as the primary committee, and to the Committee on BASIC EDUCATION, ARTS AND CULTURE as the secondary committee;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

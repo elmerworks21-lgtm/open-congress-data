@@ -1,8 +1,11 @@
 id = "01K67YJWZQW11X6RYPVQZP4XGB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02851"
+
+[meta]
 bill_number = 2851
 congress = 19
-canonical = "SBN-02851"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2851", "https://web.senate.gov.ph/lisdata/4513941008!.pdf",]
 title = "MINIMUM WAGE FOR FARMERS ACT"
 date_filed = "2024-10-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MINIMUM WAGE FOR FARMERS, APPROPRIATING FUN
 scope = "National"
 subjects = [ "Wage", "Farmers",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2024-10-16"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-04"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/4/2024"
+date = "2024-11-04"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

@@ -1,8 +1,11 @@
 id = "01K67YK0A9HYXXM58CBF0MP2ZF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00874"
+
+[meta]
 bill_number = 874
 congress = 20
-canonical = "SBN-00874"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-874", "https://web.senate.gov.ph/lisdata/4746343465!.pdf",]
 title = "PHILIPPINE MICROBIOLOGY ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE PRACTICE OF MICROBIOLOGY IN THE PHILIPPINES 
 scope = "National"
 subjects = [ "Microbiology",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

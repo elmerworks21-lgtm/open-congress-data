@@ -1,8 +1,11 @@
 id = "01K67YJWHQ5450K596G8SCD5TJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02348"
+
+[meta]
 bill_number = 2348
 congress = 19
-canonical = "SBN-02348"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2348", "https://web.senate.gov.ph/lisdata/4221338402!.pdf",]
 title = "AMENDING R.A. NO. 9136 (THE ELECTRIC POWER INDUSTRY REFORM ACT OF 2001)"
 date_filed = "2023-07-25"
@@ -10,25 +13,26 @@ long_title = "AN ACT SRENGTHENING FURTHER THE ELECTRIC POWER INDUSTRY AMENDING F
 scope = "National"
 subjects = [ "Electric Power Industry", "Electric Power Industry Reform Act /Epira (R.A.No. 9136)",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-25"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "Read on First Reading and Referred to the Committees on ENERGY; PUBLIC SERVICES and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2023"
+date = "2023-08-07"
 
 [[committees]]
 name = "Energy"

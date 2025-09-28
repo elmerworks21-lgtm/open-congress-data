@@ -1,8 +1,11 @@
 id = "01K67YJ1FXZ7PSGSKVSAX88QS9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01161"
+
+[meta]
 bill_number = 1161
 congress = 14
-canonical = "SBN-01161"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1161", "https://web.senate.gov.ph/lisdata/54564821!.pdf",]
 title = "STRENGTHENING LOCAL AUTONOMY/ LOCAL GOVERNMENT UNITS DECENTRALIZATION"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN LOCAL GOVERNMENT UNITS BY AMENDING CERTAIN PR
 scope = "National"
 subjects = [ "Local Government Units (LGUS)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Local Government"

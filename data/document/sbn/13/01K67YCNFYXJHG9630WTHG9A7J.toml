@@ -1,8 +1,11 @@
 id = "01K67YCNFYXJHG9630WTHG9A7J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00230"
+
+[meta]
 bill_number = 230
 congress = 13
-canonical = "SBN-00230"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-230", "https://web.senate.gov.ph/lisdata/1387643!.pdf",]
 title = "INTERNAL REVENUE ALLOTMENT INCREASE FOR LGUS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE INTERNAL REVENUE ALLOTMENTS (IRA) OF LOCAL G
 scope = "National"
 subjects = [ "Internal Revenue Allotments/Ira Increase", "Local Government Units (LGUS)", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-02"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2004"
+date = "2004-08-02"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJDE64B5KM04SZV1X5BQX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01790"
+
+[meta]
 bill_number = 1790
 congress = 16
-canonical = "SBN-01790"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1790", "https://web.senate.gov.ph/lisdata/1799015221!.pdf",]
 title = "RESTRICTIONS ON GARNISHMENT OF COMPENSATION ACT"
 date_filed = "2013-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR RESTRICTIONS ON GARNISHMENT OF COMPENSATION D
 scope = "National"
 subjects = [ "Garnishment of Compensation",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-22"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/22/2013"
+date = "2013-10-22"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

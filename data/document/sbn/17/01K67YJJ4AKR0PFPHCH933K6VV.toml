@@ -1,8 +1,11 @@
 id = "01K67YJJ4AKR0PFPHCH933K6VV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01367"
+
+[meta]
 bill_number = 1367
 congress = 17
-canonical = "SBN-01367"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1367", "https://web.senate.gov.ph/lisdata/2551122028!.pdf",]
 title = "PRIORITY SEATING FOR THE ELDERLY ACT"
 date_filed = "2017-03-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING LAND, AIR, AND SEA TRANSPORT PROVIDERS TO PROVIDE
 scope = "National"
 subjects = [ "Senior Citizen", "Elderly",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2017-03-07"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-08"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/8/2017"
+date = "2017-03-08"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

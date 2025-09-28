@@ -1,8 +1,11 @@
 id = "01K67YCPHEBXVFHJXEKAZG0HWE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02024"
+
+[meta]
 bill_number = 2024
 congress = 13
-canonical = "SBN-02024"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2024", "https://web.senate.gov.ph/lisdata/34502830!.pdf",]
 title = "NATIONAL CONSCIOUSNESS DAY FOR ELEMINATION OF VIOLENCE AGAINST WOMEN"
 date_filed = "2005-05-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING NOVEMBER TWENTY-FIVE OF EVERY YEAR AS NATIONAL CO
 scope = "National"
 subjects = [ "National Consciousness Month (Women)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2005-05-24"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-25"
 action = "Read on First Reading and Referred to the Committee on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/25/2005"
+date = "2005-05-25"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

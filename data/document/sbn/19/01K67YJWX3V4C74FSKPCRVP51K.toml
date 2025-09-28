@@ -1,8 +1,11 @@
 id = "01K67YJWX3V4C74FSKPCRVP51K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02767"
+
+[meta]
 bill_number = 2767
 congress = 19
-canonical = "SBN-02767"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2767", "https://web.senate.gov.ph/lisdata/4449440444!.pdf",]
 title = "MARIANO MARCOS STATE UNIVERSITY HOSPITAL (ILOCOS NORTE)"
 date_filed = "2024-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE MARIANO MARCOS STATE UNIVERSITY HOSPITAL, 
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-06"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-07"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2024"
+date = "2024-08-07"
 
 [[committees]]
 name = "Health and Demography"

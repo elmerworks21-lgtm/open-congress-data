@@ -1,8 +1,11 @@
 id = "01K67YJ0QAPQRC9RT991HGV86Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00002"
+
+[meta]
 bill_number = 2
 congress = 14
-canonical = "SBN-00002"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2", "https://web.senate.gov.ph/lisdata/41103442!.pdf",]
 title = "BARANGAY TANOD BRIGADES BENEFITS AND INCENTIVES"
 date_filed = "2007-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT UPGRADING THE BENEFITS AND INCENTIVES OF BARANGAY TANOD BRI
 scope = "National"
 subjects = [ "Barangay Tanod Brigades (Benefits/Incentives)", "Local Government Code (RA 7160; Amendments)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2007"
+date = "2007-07-24"
 
 [[committees]]
 name = "Local Government"

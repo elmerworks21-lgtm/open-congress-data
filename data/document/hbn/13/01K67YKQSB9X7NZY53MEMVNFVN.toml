@@ -1,24 +1,28 @@
 id = "01K67YKQSB9X7NZY53MEMVNFVN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03354"
+
+[meta]
 bill_number = 3354
 congress = 13
-canonical = "HBN-03354"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-3354", "https://web.senate.gov.ph/lisdata/31482938!.pdf",]
 title = "AGRICULTURAL LAND OPEN FOR DISPOSITION (PIKIT, COTABATO)"
 long_title = "AN ACT DECLARING A PARCEL OF PUBLIC LAND LOCATED IN THE MUNICIPALITY OF PIKIT, PROVINCE OF COTABATO, AN AGRICULTURAL LAND OPEN TO DISPOSITION AND DEVELOPMENT FOR AGRICULTURAL, RESIDENTIAL, INDUSTRIAL, COMMERCIAL, OR OTHER PRODUCTIVE PURPOSES"
 scope = "Local"
 subjects = [ "Agricultural Land (Pikit, Cotabato)", "Land (Public Domain, Pikit, Cotabato)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-01-13"
 action = "Filed in the Senate requesting for concurrence by Representatives TALINO-SANTOS and BANAAG, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-17"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/17/2005"
+date = "2005-01-17"
 
 [[committees]]
 name = "Environment and Natural Resources"

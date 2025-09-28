@@ -1,8 +1,11 @@
 id = "01K67YJPWX33GQT93ZTR0JZA9C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00756"
+
+[meta]
 bill_number = 756
 congress = 18
-canonical = "SBN-00756"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-756", "https://web.senate.gov.ph/lisdata/3111028006!.pdf",]
 title = "THE ENHANCED CONSUMER ACT"
 date_filed = "2019-07-24"
@@ -10,25 +13,26 @@ long_title = "AN ACT GRANTING BROADER PROTECTION TO CONSUMERS AMENDING FOR THE P
 scope = "National"
 subjects = [ "Consumer Act (R.A.No. 7394)", "Consumer Protection", "Consumer Bill of Rights",]
 authors_raw = "Recto, Ralph G., Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-01"
 action = "Letter from Senator WIN GATCHALIAN dated February 22, 2021, expressing his intention to become a co-author of SBN-756, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2019"
+date = "2019-08-14"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

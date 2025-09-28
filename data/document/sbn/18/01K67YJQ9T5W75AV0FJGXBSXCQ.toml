@@ -1,8 +1,11 @@
 id = "01K67YJQ9T5W75AV0FJGXBSXCQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01327"
+
+[meta]
 bill_number = 1327
 congress = 18
-canonical = "SBN-01327"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1327", "https://web.senate.gov.ph/lisdata/3232329169!.pdf",]
 title = "COOPERATIVES OFFICER IN THE MUNICIPAL, CITY AND PROVINCIAL LEVELS"
 date_filed = "2020-02-10"
@@ -10,37 +13,38 @@ long_title = "AN ACT MAKING THE POSITION OF A COOPERATIVES OFFICER MANDATORY IN 
 scope = "National"
 subjects = [ "Cooperatives Officer", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-10"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-11"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and COOPERATIVES;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-29"
 action = "Returned and submitted jointly by the Committee(s) on LOCAL GOVERNMENT and COOPERATIVES per Committee Report No. 117, recommending that it be substituted by SBN-1855;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-29"
 action = "SUBSTITUTED BY SBN-1855, UNDER COMMITTEE REPORT NO. 117."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/29/2020"
+date = "2020-09-29"
 
 [[committees]]
 name = "Local Government"

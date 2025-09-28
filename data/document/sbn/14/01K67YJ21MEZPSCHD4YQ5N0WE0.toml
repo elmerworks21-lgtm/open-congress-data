@@ -1,8 +1,11 @@
 id = "01K67YJ21MEZPSCHD4YQ5N0WE0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01701"
+
+[meta]
 bill_number = 1701
 congress = 14
-canonical = "SBN-01701"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1701", "https://web.senate.gov.ph/lisdata/61225460!.pdf",]
 title = "MAGNA CARTA OF WOMEN"
 date_filed = "2007-10-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF WOMEN"
 scope = "National"
 subjects = [ "Magna Carta of Women", "Cedaw (Convention on the Elimination of All Forms of Discrimination Against Women)",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-04"
 action = "Introduced by Senator 'COMPANERA' PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Returned and submitted by the Committee on YOUTH, WOMEN AND FAMILY RELATIONS per Committee Report No. 76, recommending that it be substituted by SBN-2396;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "SUBSTITUTED BY SBN-2396, WHICH BECAME R.A.NO. 9710."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/11/2008"
+date = "2008-06-11"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

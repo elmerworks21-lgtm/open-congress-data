@@ -1,8 +1,11 @@
 id = "01K67YJEC6HKM90KB1TK36TFBK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02895"
+
+[meta]
 bill_number = 2895
 congress = 16
-canonical = "SBN-02895"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2895", "https://web.senate.gov.ph/lisdata/2193618653!.pdf",]
 title = "REVIVING THE PHILIPPINE MOVIE INDUSTRY"
 date_filed = "2015-08-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT REVIVING THE PHILIPPINE MOVIE INDUSTRY BY PROVIDING INCENTI
 scope = "National"
 subjects = [ "Philippine Movie Industry", "Tax Incentives",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2015-08-11"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-11"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2015"
+date = "2015-08-11"
 
 [[committees]]
 name = "Public Information and Mass Media"

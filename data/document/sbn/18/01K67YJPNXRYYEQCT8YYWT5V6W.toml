@@ -1,8 +1,11 @@
 id = "01K67YJPNXRYYEQCT8YYWT5V6W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00431"
+
+[meta]
 bill_number = 431
 congress = 18
-canonical = "SBN-00431"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-431", "https://web.senate.gov.ph/lisdata/3077727625!.pdf",]
 title = "BPO WORKERS HEALTH AND SAFETY ACT OF 2019"
 date_filed = "2019-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENSURING THE OCCUPATIONAL HEALTH, SAFETY AND WELFARE OF BUS
 scope = "National"
 subjects = [ "Business Process Outsourcing (BPO)", "Health Care", "Occupational Safety",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-15"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

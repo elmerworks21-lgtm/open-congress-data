@@ -1,8 +1,11 @@
 id = "01K67YJV7Z386NKWXS1GHHRQ01"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00547"
+
+[meta]
 bill_number = 547
 congress = 19
-canonical = "SBN-00547"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-547", "https://web.senate.gov.ph/lisdata/3832434763!.pdf",]
 title = "ANTI-FAKE NEWS ACT"
 date_filed = "2022-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO FURTHER PROMOTE PROFESSIONALISM IN INFORMATION DISSEMINA
 scope = "National"
 subjects = [ "Anti-Fake News/Anti-False Content", "Code of Conduct and Ethical Standards (R.A.No. 6713)", "Government Employees", "Government Official/Public Official",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-16"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2022"
+date = "2022-08-16"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

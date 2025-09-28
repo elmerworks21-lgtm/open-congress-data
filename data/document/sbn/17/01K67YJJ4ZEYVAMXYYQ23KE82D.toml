@@ -1,8 +1,11 @@
 id = "01K67YJJ4ZEYVAMXYYQ23KE82D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01392"
+
+[meta]
 bill_number = 1392
 congress = 17
-canonical = "SBN-01392"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1392", "https://web.senate.gov.ph/lisdata/2560922082!.pdf",]
 title = "APPRENTICESHIP TRAINING SYSTEM ACT OF 2017"
 date_filed = "2017-03-14"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR A REVISED NATIONAL APPRENTICESHIP PROGRAM, CL
 scope = "National"
 subjects = [ "Apprentice/Apprenticeship", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2017-03-14"
 action = "Prepared and submitted by the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT with Senator JOEL VILLANUEVA as author per Committee Report No. 54, recommending its approval in substitution of SBN-213;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-15"
 action = "Sponsor: Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-15"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-15"
 action = "Sponsorship speech of Senator JOEL VILLANUEVA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/15/2017"
+date = "2017-03-15"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

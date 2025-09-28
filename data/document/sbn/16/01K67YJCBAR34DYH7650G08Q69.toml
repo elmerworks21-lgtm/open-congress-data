@@ -1,8 +1,11 @@
 id = "01K67YJCBAR34DYH7650G08Q69"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00099"
+
+[meta]
 bill_number = 99
 congress = 16
-canonical = "SBN-00099"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-99", "https://web.senate.gov.ph/lisdata/1596513200!.pdf",]
 title = "LAND ADMINISTRATION REFORM ACT OF 2013"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING REFORMS IN LAND ADMINISTRATION SYSTEM, CREATING
 scope = "National"
 subjects = [ "Land Administration",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2013"
+date = "2013-07-24"
 
 [[committees]]
 name = "Environment and Natural Resources"

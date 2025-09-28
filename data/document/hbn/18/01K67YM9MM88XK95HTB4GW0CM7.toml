@@ -1,24 +1,28 @@
 id = "01K67YM9MM88XK95HTB4GW0CM7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09002"
+
+[meta]
 bill_number = 9002
 congress = 18
-canonical = "HBN-09002"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9002", "https://web.senate.gov.ph/lisdata/3483031665!.pdf",]
 title = "TINAGO FALLS (LINAMON, LANAO DEL NORTE) A TOURIST SPOT"
 long_title = "AN ACT DECLARING TINAGO FALLS LOCATED IN THE MUNICIPALITY OF LINAMON, PROVINCE OF LANAO DEL NORTE, A TOURIST SPOT, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-12"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Read on First Reading and Referred to the Committees on TOURISM; PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Tourism"

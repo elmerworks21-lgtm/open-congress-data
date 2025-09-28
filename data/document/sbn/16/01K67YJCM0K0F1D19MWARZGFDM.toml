@@ -1,8 +1,11 @@
 id = "01K67YJCM0K0F1D19MWARZGFDM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00518"
+
+[meta]
 bill_number = 518
 congress = 16
-canonical = "SBN-00518"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-518", "https://web.senate.gov.ph/lisdata/1640913650!.pdf",]
 title = "SHARI'A DISTRICT COURT SYSTEM"
 date_filed = "2013-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE SHARI’A DISTRICT COURT SYSTEM IN THE AUT
 scope = "National"
 subjects = [ "Sharia Court", "Autonomous Region in Muslim Mindanao (ARMM)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2013"
+date = "2013-08-06"
 
 [[committees]]
 name = "Justice and Human Rights"

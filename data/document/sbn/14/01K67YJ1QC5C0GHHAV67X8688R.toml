@@ -1,8 +1,11 @@
 id = "01K67YJ1QC5C0GHHAV67X8688R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01530"
+
+[meta]
 bill_number = 1530
 congress = 14
-canonical = "SBN-01530"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1530", "https://web.senate.gov.ph/lisdata/58415203!.pdf",]
 title = "CHEAPER MEDICINES ACT OF 2007"
 date_filed = "2007-09-04"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO FIX THE MAXIMUM RETAIL PRICE OF MEDICINES UNDER CERTAIN 
 scope = "National"
 subjects = [ "Medicines (Cheaper Medicines)", "Intellectual Property Code (RA 8293)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-18"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-01"
 action = "Returned and submitted jointly by the Committee(s) on TRADE AND COMMERCE; HEALTH AND DEMOGRAPHY; and FINANCE per Committee Report No. 6, recommending that it be substituted by SBN-1658;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "SUBSTITUTED BY SBN-1658, WHICH BECAME R.A.NO. 9502."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/2/2007"
+date = "2007-10-02"
 
 [[committees]]
 name = "Trade and Commerce"

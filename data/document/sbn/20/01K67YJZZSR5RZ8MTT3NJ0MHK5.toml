@@ -1,8 +1,11 @@
 id = "01K67YJZZSR5RZ8MTT3NJ0MHK5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00311"
+
+[meta]
 bill_number = 311
 congress = 20
-canonical = "SBN-00311"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-311", "https://web.senate.gov.ph/lisdata/4680042807!.pdf",]
 title = "INDIGENOUS COMMUNITY CONSERVED TERRITORIES AND AREAS ACT"
 date_filed = "2025-07-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT RECOGNIZING THE COMMUNITY CONSERVED TERRITORIES AND AREAS O
 scope = "National"
 subjects = [ "Indigenous Cultural Communities", "Indigent Persons",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-09"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-11"
 action = "Read on First Reading and Referred to the Committees on CULTURAL COMMUNITIES AND MUSLIM AFFAIRS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2025"
+date = "2025-08-11"
 
 [[committees]]
 name = "Cultural Communities and Muslim Affairs"

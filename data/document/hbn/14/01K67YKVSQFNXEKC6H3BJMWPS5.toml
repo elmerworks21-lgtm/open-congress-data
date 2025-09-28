@@ -1,24 +1,28 @@
 id = "01K67YKVSQFNXEKC6H3BJMWPS5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03292"
+
+[meta]
 bill_number = 3292
 congress = 14
-canonical = "HBN-03292"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-3292", "https://web.senate.gov.ph/lisdata/67115983!.pdf",]
 title = "PENALTIES FOR ELECTION OFFENSES"
 long_title = "AN ACT INCREASING THE PENALTIES FOR ELECTION OFFENSES ATTENDED BY VIOLENCE, COERCION, INTIMIDATION, FORCE OR THREATS AND FOR OTHER ELECTION OFFENSES"
 scope = "National"
 subjects = [ "Election Offenses",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-02"
 action = "Filed in the Senate requesting for concurrence by Representatives EDCEL C. LAGMAN, ISIDRO S. RODRIGUEZ JR., GILBERTO C. TEODORO JR., ET. AL., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/28/2008"
+date = "2008-01-28"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

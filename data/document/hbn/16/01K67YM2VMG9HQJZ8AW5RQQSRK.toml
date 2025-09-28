@@ -1,28 +1,32 @@
 id = "01K67YM2VMG9HQJZ8AW5RQQSRK"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04577"
+
+[meta]
 bill_number = 4577
 congress = 16
-canonical = "HBN-04577"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4577", "https://web.senate.gov.ph/lisdata/1937416500!.pdf",]
 title = "PRE-HOSPITAL EMERGENCY CARE ACT"
 long_title = "AN ACT INSTITUTIONALIZING A PRE-HOSPITAL EMERGENCY MEDICAL CARE SYSTEM, PROVIDING FOR THE ESTABLISHMENT, SUPERVISION AND REGULATION OF THE PRE-HOSPITAL EMERGENCY CARE PROFESSION, PROVIDING PENALTIES FOR VIOLATIONS THEREOF AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Hospitals", "Health Care Delivery System",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-06-10"
 action = "Introduced by Representatives SUSAN YAP, LANI MERCADO-REVILLA, CHRISTOPHER S. CO and RODEL M. BATOCABE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-30"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2014"
+date = "2014-07-30"
 
 [[committees]]
 name = "Health and Demography"

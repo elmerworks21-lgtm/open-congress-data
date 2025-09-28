@@ -1,8 +1,11 @@
 id = "01K67YJWZ94X40BTK826MD42AB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02835"
+
+[meta]
 bill_number = 2835
 congress = 19
-canonical = "SBN-02835"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2835", "https://web.senate.gov.ph/lisdata/4503440945!.pdf",]
 title = "MANDATORY ESTABLISHMENT OF PROVINCIAL, CITY AND MUNICIPAL POPULATION OFFICE OF 2024"
 date_filed = "2024-09-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE ESTABLISHMENT OF A POPULATION DEVELOPMENT OFF
 scope = "National"
 subjects = [ "Local Government Code (R.A.No. 7160)", "Commission on Population (Popcom)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2024-09-24"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-24"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/24/2024"
+date = "2024-09-24"
 
 [[committees]]
 name = "Local Government"

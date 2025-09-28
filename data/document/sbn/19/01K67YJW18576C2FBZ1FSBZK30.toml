@@ -1,8 +1,11 @@
 id = "01K67YJW18576C2FBZ1FSBZK30"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01649"
+
+[meta]
 bill_number = 1649
 congress = 19
-canonical = "SBN-01649"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1649", "https://web.senate.gov.ph/lisdata/4032436738!.pdf",]
 title = "PHILIPPINE MARITIME ZONES ACT"
 date_filed = "2023-01-11"
@@ -10,45 +13,46 @@ long_title = "AN ACT DEFINING THE MARITIME ZONES UNDER THE JURISDICTION OF THE R
 scope = "National"
 subjects = [ "Maritime Zone",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-11"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committees on FOREIGN RELATIONS and NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-09"
 action = "Transferred to the SPECIAL COMMITTEE ON PHILIPPINE MARITIME AND ADMIRALTY ZONES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-14"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-27"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-10-23"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-21"
 action = "Returned and submitted by the SPECIAL COMMITTEE ON PHILIPPINE MARITIME AND ADMIRALTY ZONES per Committee Report No. 172, recommending that it be substituted by SBN-2492;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "SUBSTITUTED BY SBN-2492 UNDER COMMITTEE REPORT NO. 172, WHICH BECAME R.A. NO. 10264 ON NOVEMBER 7, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/22/2023"
+date = "2023-11-22"
 
 [[committees]]
 name = "Special Committee on Philippine Maritime and Admiralty Zones"

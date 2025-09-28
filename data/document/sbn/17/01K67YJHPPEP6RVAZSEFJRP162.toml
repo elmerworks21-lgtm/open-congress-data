@@ -1,8 +1,11 @@
 id = "01K67YJHPPEP6RVAZSEFJRP162"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00805"
+
+[meta]
 bill_number = 805
 congress = 17
-canonical = "SBN-00805"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-805", "https://web.senate.gov.ph/lisdata/2433720944!.pdf",]
 title = "MULTIPURPOSE GYM IN ALL MUNICIPALITIES AND CITIES ACT OF 2016"
 date_filed = "2016-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A MULTIPURPOSE GYM IN ALL
 scope = "National"
 subjects = [ "Calamity/Disaster", "Gym",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YJ0S8FVKWFRJ7SDBZ99CW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00085"
+
+[meta]
 bill_number = 85
 congress = 14
-canonical = "SBN-00085"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-85", "https://web.senate.gov.ph/lisdata/41473555!.pdf",]
 title = "PROHIBITING DISALLOWING STUDENTS WITH DELINQUENT TUITION FEES TO TAKE FINAL EXAM"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING PRIVATE AND PUBLIC SCHOOLS FROM DISALLOWING STU
 scope = "National"
 subjects = [ "Students",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator MANUEL B. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-25"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2007"
+date = "2007-07-25"
 
 [[committees]]
 name = "Education, Arts and Culture"

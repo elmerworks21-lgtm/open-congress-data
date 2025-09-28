@@ -1,8 +1,11 @@
 id = "01K67YK0CY2QHP1YJN0Z9M6ZBC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01013"
+
+[meta]
 bill_number = 1013
 congress = 20
-canonical = "SBN-01013"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1013", "https://web.senate.gov.ph/lisdata/4758943601!.pdf",]
 title = "BANTAY DAGAT AND INCENTIVES ACT"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING BENEFITS AND INCENTIVES TO ACCREDITED BANTAY DAGAT
 scope = "National"
 subjects = [ "Bantay Dagat", "Sea Patrol", "Benefits and Incentives",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-02"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2025"
+date = "2025-09-02"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

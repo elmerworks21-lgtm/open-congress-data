@@ -1,8 +1,11 @@
 id = "01K67YJHBFADASTE277MQF93J7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00305"
+
+[meta]
 bill_number = 305
 congress = 17
-canonical = "SBN-00305"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-305", "https://web.senate.gov.ph/lisdata/2374320405!.pdf",]
 title = "COOPERATIVE DEVELOPMENT AUTHORITY CHARTER ACT"
 date_filed = "2016-07-04"
@@ -10,29 +13,30 @@ long_title = "AN ACT REORGANIZING THE COOPERATIVE DEVELOPMENT AUTHORITY, REPEALI
 scope = "National"
 subjects = [ "Cooperative Development Authority", "Reorganization",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on COOPERATIVES; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Returned and submitted jointly by the Committee(s) on COOPERATIVES, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, FINANCE and WAYS AND MEANS per Committee Report No. 489, recommending that it be substituted by SBN-2063;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "SUBSTITUTED BY SBN-2063 UNDER COMMITTEE REPORT NO. 489 WHICH BECAME R.A. NO. 11364 ON AUGUST 8, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/9/2018"
+date = "2018-10-09"
 
 [[committees]]
 name = "Cooperatives"

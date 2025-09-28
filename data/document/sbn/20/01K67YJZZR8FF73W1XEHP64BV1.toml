@@ -1,8 +1,11 @@
 id = "01K67YJZZR8FF73W1XEHP64BV1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00309"
+
+[meta]
 bill_number = 309
 congress = 20
-canonical = "SBN-00309"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-309", "https://web.senate.gov.ph/lisdata/4679842805!.pdf",]
 title = "GOVERNMENT ASSISTANCE TO PRIVATE BASIC EDUCATION ACT"
 date_filed = "2025-07-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR GOVERNMENT ASSISTANCE TO PRIVATE BASIC EDUCAT
 scope = "National"
 subjects = [ "Basic Education", "Basic Education Institutions",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-09"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-11"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2025"
+date = "2025-08-11"
 
 [[committees]]
 name = "Basic Education"

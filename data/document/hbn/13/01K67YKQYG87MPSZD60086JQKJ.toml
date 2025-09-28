@@ -1,24 +1,28 @@
 id = "01K67YKQYG87MPSZD60086JQKJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04441"
+
+[meta]
 bill_number = 4441
 congress = 13
-canonical = "HBN-04441"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4441", "https://web.senate.gov.ph/lisdata/43943724!.pdf",]
 title = "TUY NATIONAL HIGH SCHOOL (BATANGAS)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY GUINHAWA, MUNICIPALITY OF TUY, PROVINCE OF BATANGAS TO BE KNOWN AS THE TUY NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Batangas)", "Tuy National High School (Batangas)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representatives EILEEN ERMITA-BUHAIN, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2006"
+date = "2006-01-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

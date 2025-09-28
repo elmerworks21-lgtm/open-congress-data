@@ -1,8 +1,11 @@
 id = "01K67YK04EMH1B0GSQKX7WQQJP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00561"
+
+[meta]
 bill_number = 561
 congress = 20
-canonical = "SBN-00561"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-561", "https://web.senate.gov.ph/lisdata/4712043120!.pdf",]
 title = "THE MAGNA CARTA OF CHILDREN"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA FOR CHILDREN"
 scope = "National"
 subjects = [ "Magna Carta of Children",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

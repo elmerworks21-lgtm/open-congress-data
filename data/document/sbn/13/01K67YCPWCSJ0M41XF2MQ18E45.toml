@@ -1,8 +1,11 @@
 id = "01K67YCPWCSJ0M41XF2MQ18E45"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02574"
+
+[meta]
 bill_number = 2574
 congress = 13
-canonical = "SBN-02574"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2574", "https://web.senate.gov.ph/lisdata/67155502!.pdf",]
 title = "MEDICAL TOURISM ACT OF 2007"
 date_filed = "2007-01-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A COMPREHENSIVE AND HOLISTIC MECHANISM FOR THE 
 scope = "National"
 subjects = [ "Medical Tourism",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-23"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-24"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/24/2007"
+date = "2007-01-24"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJCC0A3CFRPTYRJN862RG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00130"
+
+[meta]
 bill_number = 130
 congress = 16
-canonical = "SBN-00130"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-130", "https://web.senate.gov.ph/lisdata/1594113174!.pdf",]
 title = "AMNESTY PERIOD FOR RECTIFICATION OF SIMULATED BIRTHS EXTENDED UNTIL 2018"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXTENDING THE PRESCRIPTIVE PERIOD FOR RECTIFICATION OF SIMU
 scope = "National"
 subjects = [ "Domestic Adoption Act of 1998 (R.A.No. 8552)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2013"
+date = "2013-07-24"
 
 [[committees]]
 name = "Constitutional Amendments and Revision of Codes"

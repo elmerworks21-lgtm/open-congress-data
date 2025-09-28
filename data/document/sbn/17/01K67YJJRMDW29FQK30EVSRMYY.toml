@@ -1,8 +1,11 @@
 id = "01K67YJJRMDW29FQK30EVSRMYY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02115"
+
+[meta]
 bill_number = 2115
 congress = 17
-canonical = "SBN-02115"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2115", "https://web.senate.gov.ph/lisdata/2906025632!.pdf",]
 title = "OCCIDENTAL MINDORO SPECIAL ECONOMIC ZONE ZONE ACT OF 2018"
 date_filed = "2018-11-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE AND FREE PORT IN THE M
 scope = "National"
 subjects = [ "Economic Zone",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-28"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/3/2018"
+date = "2018-12-03"
 
 [[committees]]
 name = "Economic Affairs"

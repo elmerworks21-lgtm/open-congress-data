@@ -1,24 +1,28 @@
 id = "01K67YKW1YDD456EHWCYAPS34A"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04152"
+
+[meta]
 bill_number = 4152
 congress = 14
-canonical = "HBN-04152"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4152", "https://web.senate.gov.ph/lisdata/78427097!.pdf",]
 title = "AGRICULTURAL LAND (BARANGAY TAMBLER, GEN. SANTOS CITY PROVINCE OF SOUTH COTABATO)"
 long_title = "AN ACT DECLARING TWO (2) PARCELS OF LAND OF THE PUBLIC DOMAIN LOCATED IN BARANGAY TAMBLER, GENERAL SANTOS CITY, PROVINCE OF SOUTH COTABATO AS AGRICULTURAL LAND FOR PUBLIC, QUASI-PUBLIC AND RESETTLEMENT PURPOSES UNDER THE ADMINISTRATION AND MANAGEMENT OF GENERAL SANTOS CITY AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Agricultural Lands",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-04"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-17"
 action = "Filed in the Senate requesting for concurrence by Representatives DARLENE R. ANTONINO-CUSTODIO, IGGY T. ARROYO and FLORENCIO T. MIRAFLORES, as authors;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2008"
+date = "2008-08-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

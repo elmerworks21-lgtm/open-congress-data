@@ -1,8 +1,11 @@
 id = "01K67YJJF9EJ4RGFVJ5EDV2AME"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01759"
+
+[meta]
 bill_number = 1759
 congress = 17
-canonical = "SBN-01759"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1759", "https://web.senate.gov.ph/lisdata/2765423918!.pdf",]
 title = "FREE INDEX-BASED CROP INSURANCE (FIBC) ACT OF 2017"
 date_filed = "2018-03-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN THE RESILIENCY OF SMALL FARMERS AGAINST CLIMA
 scope = "National"
 subjects = [ "Crop Insurance", "Farmers", "Climate Change",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2018-03-20"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-21"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/21/2018"
+date = "2018-03-21"
 
 [[committees]]
 name = "Agriculture and Food"

@@ -1,24 +1,28 @@
 id = "01K67YM69HBG7VKJJWRSMJFB96"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07070"
+
+[meta]
 bill_number = 7070
 congress = 17
-canonical = "HBN-07070"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7070", "https://web.senate.gov.ph/lisdata/2952026191!.pdf",]
 title = "BUTUAN BOAT AS THE NATIONAL BOAT OF THE PHILIPPINES"
 long_title = "AN ACT DECLARING THE BALANGAY, OTHERWISE KNOWN AS THE BUTUAN BOAT, AS THE NATIONAL BOAT OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "National Boat", "Balangay, National Boat",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-04"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/4/2019"
+date = "2019-02-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

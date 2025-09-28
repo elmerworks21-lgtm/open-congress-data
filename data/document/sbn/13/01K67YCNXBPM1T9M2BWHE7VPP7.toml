@@ -1,8 +1,11 @@
 id = "01K67YCNXBPM1T9M2BWHE7VPP7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00981"
+
+[meta]
 bill_number = 981
 congress = 13
-canonical = "SBN-00981"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-981", "https://web.senate.gov.ph/lisdata/21851713!.pdf",]
 title = "DECRIMINALIZING CERTAIN ACTS OF VAGRANCY"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECRIMINALIZING CERTAIN ACTS OF VAGRANCY AMENDING FOR THE P
 scope = "National"
 subjects = [ "Vagrancy (Revised Penal Code)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Justice and Human Rights"

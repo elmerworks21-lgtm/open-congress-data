@@ -1,25 +1,29 @@
 id = "01K67YK0ESTQXDJ6GD939BE157"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01112"
+
+[meta]
 bill_number = 1112
 congress = 20
-canonical = "SBN-01112"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1112", "https://web.senate.gov.ph/lisdata/4765943676!.pdf",]
 title = "TRANSPORTATION NETWORK SERVICE ACT"
 date_filed = "2025-08-07"
 long_title = "AN ACT REGULATING TRANSPORTATION NETWORK SERVICES, IMPOSING AND AUTHORIZING FEES, PROVIDING PENALTIES FOR VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
 scope = "Local"
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator WIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Public Services"

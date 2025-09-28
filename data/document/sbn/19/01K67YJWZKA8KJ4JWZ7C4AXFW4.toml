@@ -1,8 +1,11 @@
 id = "01K67YJWZKA8KJ4JWZ7C4AXFW4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02845"
+
+[meta]
 bill_number = 2845
 congress = 19
-canonical = "SBN-02845"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2845", "https://web.senate.gov.ph/lisdata/4508740979!.pdf",]
 title = "EXPANDING THE PURPOSE AND APPLICATION OF THE SPECIAL EDUCATION FUND (AMENDING RA NO. 7160)"
 date_filed = "2024-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE PURPOSE AND APPLICATION OF THE SPECIAL EDUCAT
 scope = "National"
 subjects = [ "Special Education Fund (SEF)", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2024-10-03"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-04"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and BASIC EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/4/2024"
+date = "2024-11-04"
 
 [[committees]]
 name = "Local Government"

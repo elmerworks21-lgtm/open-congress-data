@@ -1,8 +1,11 @@
 id = "01K67YJJF7K7D0PEHZXCMD3F0S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01756"
+
+[meta]
 bill_number = 1756
 congress = 17
-canonical = "SBN-01756"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1756", "https://web.senate.gov.ph/lisdata/2763523903!.pdf",]
 title = "BORACAY ISLAND COUNCIL"
 date_filed = "2018-03-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE BORACAY ISLAND COUNCIL"
 scope = "National"
 subjects = [ "Boracay Island",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-03-20"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/20/2018"
+date = "2018-03-20"
 
 [[committees]]
 name = "Environment and Natural Resources"

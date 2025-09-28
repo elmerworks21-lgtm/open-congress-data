@@ -1,8 +1,11 @@
 id = "01K67YJPCRK0YZ3G6MG2K6N9SK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00023"
+
+[meta]
 bill_number = 23
 congress = 18
-canonical = "SBN-00023"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-23", "https://web.senate.gov.ph/lisdata/3023927068!.pdf",]
 title = "THE BUDGET REFORM FOR VILLAGE EMPOWERMENT ACT OF 2019"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING BUDGET REFORM THAT WILL ENSURE THE EQUITABLE DI
 scope = "National"
 subjects = [ "Village Empowerment", "Local Government Units (LGUS)",]
 authors_raw = "Lacson, Panfilo \"Ping\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Finance"

@@ -1,8 +1,11 @@
 id = "01K67YJWJZXNNJW745HD8DYFWJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02402"
+
+[meta]
 bill_number = 2402
 congress = 19
-canonical = "SBN-02402"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2402", "https://web.senate.gov.ph/lisdata/4235538539!.pdf",]
 title = "BUY LOCAL ACT"
 date_filed = "2023-08-10"
@@ -10,33 +13,34 @@ long_title = "AN ACT INSTITUTIONALIZING THE PREFERENTIAL TREATMENT IN THE PROCUR
 scope = "National"
 subjects = [ "Buy Local", "Procurement Law", "Local Products",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-10"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-14"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-24"
 action = "Returned and submitted by the Committee on FINANCE per Committee Report No. 107, recommending that it be substituted by SBN-2426;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-29"
 action = "SUBSTITUTED BY SBN-2426 UNDER COMMITTEE REPORT NO. 107, WHICH BECAME REPUBLIC ACT NO. 11981 ON FEBRUARY 26, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/29/2023"
+date = "2023-08-29"
 
 [[committees]]
 name = "Finance"

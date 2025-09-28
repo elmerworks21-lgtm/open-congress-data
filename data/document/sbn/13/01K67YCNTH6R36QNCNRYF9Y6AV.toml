@@ -1,8 +1,11 @@
 id = "01K67YCNTH6R36QNCNRYF9Y6AV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00825"
+
+[meta]
 bill_number = 825
 congress = 13
-canonical = "SBN-00825"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-825", "https://web.senate.gov.ph/lisdata/20231494!.pdf",]
 title = "BARANGAY HEALTH WORKERS SUBSISTENCE ALLOWANCE"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MINIMUM SUBSISTENCE ALLOWANCE FOR BARANGAY 
 scope = "National"
 subjects = [ "Barangay Health Workers Benefits", "RA No. 7883, Amendments",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Health and Demography"

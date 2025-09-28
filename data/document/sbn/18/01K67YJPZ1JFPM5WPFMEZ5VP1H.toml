@@ -1,8 +1,11 @@
 id = "01K67YJPZ1JFPM5WPFMEZ5VP1H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00858"
+
+[meta]
 bill_number = 858
 congress = 18
-canonical = "SBN-00858"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-858", "https://web.senate.gov.ph/lisdata/3123728136!.pdf",]
 title = "CHILD CARE ASSISTANCE ACT"
 date_filed = "2019-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE BARANGAY DAY CARE SYSTEM, AMENDING FOR TH
 scope = "National"
 subjects = [ "Children", "Child Care",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-05"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2019"
+date = "2019-08-19"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

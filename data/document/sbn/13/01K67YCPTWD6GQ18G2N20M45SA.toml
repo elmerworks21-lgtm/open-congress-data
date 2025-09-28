@@ -1,8 +1,11 @@
 id = "01K67YCPTWD6GQ18G2N20M45SA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02506"
+
+[meta]
 bill_number = 2506
 congress = 13
-canonical = "SBN-02506"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2506", "https://web.senate.gov.ph/lisdata/63325248!.pdf",]
 title = "GOVERNMENT PROPERTIES FOR VETERANS' PENSION AND BENEFITS"
 date_filed = "2006-11-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE USE OF THE PROCEEDS FROM THE DEVELOPMENT, LEA
 scope = "National"
 subjects = [ "Government Properties (Veterans Pensions", "Benefits)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2006-11-13"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-14"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/14/2006"
+date = "2006-11-14"
 
 [[committees]]
 name = "National Defense and Security"

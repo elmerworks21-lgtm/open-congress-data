@@ -1,8 +1,11 @@
 id = "01K67YJPQ2CPCEZG4CJ2H9Z1P6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00485"
+
+[meta]
 bill_number = 485
 congress = 18
-canonical = "SBN-00485"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-485", "https://web.senate.gov.ph/lisdata/3073027572!.pdf",]
 title = "FRIENDLY WORKING ENVIRONMENT FOR WOMEN ACT"
 date_filed = "2019-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A FRIENDLY WORKING ENVIRONMENT FOR WOMEN AND FOR O
 scope = "National"
 subjects = [ "Women",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-15"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

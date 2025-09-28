@@ -1,40 +1,44 @@
 id = "01K67YM9KMEBXGX5W1G2NPTY9V"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08957"
+
+[meta]
 bill_number = 8957
 congress = 18
-canonical = "HBN-08957"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8957", "https://web.senate.gov.ph/lisdata/3519132062!.pdf",]
 title = "PHILIPPINE ENTREPRENEURS ACADEMY ACT"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE ENTREPRENEURS ACADEMY, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Philippine Entrepreneurs Academy",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-03"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; TRADE, COMMERCE AND ENTREPRENEURSHIP; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Returned jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, TRADE, COMMERCE AND ENTREPRENEURSHIP, WAYS AND MEANS and FINANCE per Committee Report No. 585, recommending that it be considered in SBN-2205;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "CONSIDERED IN SBN-2205 UNDER COMMITTEE REPORT NO. 585."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/2/2022"
+date = "2022-02-02"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

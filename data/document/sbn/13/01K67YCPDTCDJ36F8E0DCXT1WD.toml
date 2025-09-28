@@ -1,8 +1,11 @@
 id = "01K67YCPDTCDJ36F8E0DCXT1WD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01855"
+
+[meta]
 bill_number = 1855
 congress = 13
-canonical = "SBN-01855"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1855", "https://web.senate.gov.ph/lisdata/30992294!.pdf",]
 title = "MALAMPAYA NATURAL GAS PROJECT TAX ALLOCATION TO AFP"
 date_filed = "2004-11-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOCATING TO THE AFP MODERNIZATION ACT TRUST FUND THE COLL
 scope = "National"
 subjects = [ "Malampaya Natural Gas Project", "AFP Modernization Act Trust Fund", "Taxes/Taxation (Capital Gains Tax/Vat)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-11-16"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-17"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS; NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/17/2004"
+date = "2004-11-17"
 
 [[committees]]
 name = "Ways and Means"

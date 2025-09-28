@@ -1,8 +1,11 @@
 id = "01K67YJR9EW2GGT0ZX78077VG6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02451"
+
+[meta]
 bill_number = 2451
 congress = 18
-canonical = "SBN-02451"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2451", "https://web.senate.gov.ph/lisdata/3666133012!.pdf",]
 title = "NATIONAL LINEWORKER APPRECIATION DAY ACT"
 date_filed = "2021-11-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROCLAIMING THE FIRST MONDAY OF AUGUST EVERY YEAR AS NATION
 scope = "National"
 subjects = [ "National Lineworker Appreciation Day",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2021-11-10"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-22"
 action = "Read on First Reading and Referred to the Committee on ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2021"
+date = "2021-11-22"
 
 [[committees]]
 name = "Energy"

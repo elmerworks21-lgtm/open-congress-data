@@ -1,8 +1,11 @@
 id = "01K67YJH6731S5RTJRZWV75CE2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00082"
+
+[meta]
 bill_number = 82
 congress = 17
-canonical = "SBN-00082"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-82", "https://web.senate.gov.ph/lisdata/2349520123!.pdf",]
 title = "FREEDOM OF INFORMATION ACT"
 date_filed = "2016-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT IMPLEMENTING THE RIGHT OF THE PEOPLE TO INFORMATION ON MATT
 scope = "National"
 subjects = [ "Information",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-18"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 3, recommending that it be substituted by SBN-1208;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-19"
 action = "SUBSTITUTED BY SBN-1208 UNDER C.R. NO. 3."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/19/2016"
+date = "2016-10-19"
 
 [[committees]]
 name = "Public Information and Mass Media"

@@ -1,8 +1,11 @@
 id = "01K67YCNY33BG5B08JSBTXC5P9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01016"
+
+[meta]
 bill_number = 1016
 congress = 13
-canonical = "SBN-01016"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1016", "https://web.senate.gov.ph/lisdata/22231298!.pdf",]
 title = "TAX ON LIFE INSURANCE PREMIUMS REDUCTION"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REDUCING THE TAX INSURANCE PREMIUM UNDER CERTAIN CONDITIONS
 scope = "National"
 subjects = [ "Life Insurance Premiums (Tax Reduction)", "National Internal Revenue Code", "Taxes (Tax Reduction on Life Insurance)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Ways and Means"

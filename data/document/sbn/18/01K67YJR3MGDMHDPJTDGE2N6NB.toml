@@ -1,8 +1,11 @@
 id = "01K67YJR3MGDMHDPJTDGE2N6NB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02340"
+
+[meta]
 bill_number = 2340
 congress = 18
-canonical = "SBN-02340"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2340", "https://web.senate.gov.ph/lisdata/3581832268!.pdf",]
 title = "SUSTAINABLE CITIES AND COMMUNITIES ACT"
 date_filed = "2021-08-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE DEVELOPMENT OF SUSTAINABLE CITIES AND COM
 scope = "National"
 subjects = [ "Sustainable Cities and Communities",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2021-08-02"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT and SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2021"
+date = "2021-08-02"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

@@ -1,8 +1,11 @@
 id = "01K67YJ9BF1Q47MNQCK4WAWWFR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02984"
+
+[meta]
 bill_number = 2984
 congress = 15
-canonical = "SBN-02984"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2984", "https://web.senate.gov.ph/lisdata/1224710330!.pdf",]
 title = "KAAGAPAY FUND OF 2011"
 date_filed = "2011-10-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT APPROPRIATING THE AMOUNT OF TEN BILLION PESOS FOR THE REHAB
 scope = "National"
 subjects = [ "Kaagapay Fund",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2011-10-05"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-10"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/10/2011"
+date = "2011-10-10"
 
 [[committees]]
 name = "Rules"

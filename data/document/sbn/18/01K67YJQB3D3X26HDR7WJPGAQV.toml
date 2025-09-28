@@ -1,8 +1,11 @@
 id = "01K67YJQB3D3X26HDR7WJPGAQV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01374"
+
+[meta]
 bill_number = 1374
 congress = 18
-canonical = "SBN-01374"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1374", "https://web.senate.gov.ph/lisdata/3240129258!.pdf",]
 title = "FRANCHISE OF ABS-CBN CORPORATION"
 date_filed = "2020-02-26"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 1 OF REPUBLIC NO. 7966 TO EXTEND THE TERM 
 scope = "National"
 subjects = [ "Abs-Cbn Corporation",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-26"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-26"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-18"
 action = "Transferred from the Committee on RULES to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/26/2020"
+date = "2020-02-26"
 
 [[committees]]
 name = "Public Services"

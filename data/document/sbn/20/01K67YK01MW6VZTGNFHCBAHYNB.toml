@@ -1,8 +1,11 @@
 id = "01K67YK01MW6VZTGNFHCBAHYNB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00411"
+
+[meta]
 bill_number = 411
 congress = 20
-canonical = "SBN-00411"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-411", "https://web.senate.gov.ph/lisdata/4690342909!.pdf",]
 title = "SENIOR CITIZENS' HOSPITAL ACT OF 2025"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE SENIOR CITIZENS HOSPITAL AND RE
 scope = "National"
 subjects = [ "Senior Citizens Hospital", "Senior Citizen/Elderly",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Health and Demography"

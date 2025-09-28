@@ -1,24 +1,28 @@
 id = "01K67YKR3KMM24ABC7CBE57C2P"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05039"
+
+[meta]
 bill_number = 5039
 congress = 13
-canonical = "HBN-05039"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5039", "https://web.senate.gov.ph/lisdata/51414177!.pdf",]
 title = "PALITOD NATIONAL HIGH SCHOOL (MOUNTAIN PROVINCE)"
 long_title = "AN ACT SEPARATING THE BUTIGUE NATIONAL HIGH SCHOOL – PALITOD EXTENSION IN BARANGAY PALITOD, MUNICIPALITY OF PARACELIS, MOUNTAIN PROVINCE FROM THE BUTIGUE NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE PALITOD NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Mountain Province)", "Palitod National High School (Mountain Province)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives VICTOR S. DOMINGUEZ, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2006"
+date = "2006-05-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

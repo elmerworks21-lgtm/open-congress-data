@@ -1,8 +1,11 @@
 id = "01K67YJWWNBYGZ9V5JTJ7TZ6X4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02761"
+
+[meta]
 bill_number = 2761
 congress = 19
-canonical = "SBN-02761"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2761", "https://web.senate.gov.ph/lisdata/4444240421!.pdf",]
 title = "THE NEW DEVELOPMENT BANK OF THE PHILIPPINES (DBP) ACT"
 date_filed = "2024-07-31"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR A NEW CHARTER FOR THE DEVELOPMENT BANK OF THE
 scope = "National"
 subjects = [ "Development Bank of the Philippines (DBP)",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-31"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-05"
 action = "Read on First Reading and Referred to the Committees on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-28"
 action = "Returned and submitted jointly by the Committees on BANKS, FINANCIAL INSTITUTIONS, AND CURRENCIES, and GOVERNMENT CORPORATION AND PUBLIC ENTERPRISES per Committee Report No. 308, recommending that it be substituted by SBN-2804;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-28"
 action = "SUBSTITUTED BY SBN-2804 UNDER COMMITTEE REPORT NO. 308."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/28/2024"
+date = "2024-08-28"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

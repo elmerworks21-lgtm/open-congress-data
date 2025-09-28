@@ -1,8 +1,11 @@
 id = "01K67YJ0RHEFG57HTAEWCRQBD6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00056"
+
+[meta]
 bill_number = 56
 congress = 14
-canonical = "SBN-00056"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-56", "https://web.senate.gov.ph/lisdata/41033526!.pdf",]
 title = "INTERNET PROTECTION ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING INTERNET CAFES AND EDUCATIONAL INSTITUTIONS WITH 
 scope = "National"
 subjects = [ "Internet Protection", "Computer/Internet/Cyberspace Pornography", "Website",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2007"
+date = "2007-07-25"
 
 [[committees]]
 name = "Education, Arts and Culture"

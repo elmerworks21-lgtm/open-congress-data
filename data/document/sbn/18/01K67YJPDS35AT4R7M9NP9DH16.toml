@@ -1,8 +1,11 @@
 id = "01K67YJPDS35AT4R7M9NP9DH16"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00068"
+
+[meta]
 bill_number = 68
 congress = 18
-canonical = "SBN-00068"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-68", "https://web.senate.gov.ph/lisdata/3029827126!.pdf",]
 title = "EQUAL WEIGHT TO THE DECISIONS OF BOTH PARENTS IN IMPORTANT MATTERS CONCERNING THEIR MARRIAGE/FAMILY"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENSURING THE FUNDAMENTAL EQUALITY OF MEN AND WOMEN UNDER TH
 scope = "National"
 subjects = [ "Marriage", "Family Code(E.O.No. 209)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

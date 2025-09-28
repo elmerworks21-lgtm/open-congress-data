@@ -1,24 +1,28 @@
 id = "01K67YKR5GM3JVX76T989EQW4J"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05150"
+
+[meta]
 bill_number = 5150
 congress = 13
-canonical = "HBN-05150"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5150", "https://web.senate.gov.ph/lisdata/49214043!.pdf",]
 title = "SAN JOSE NATIONAL HIGH SCHOOL (SOUTH COTABATO)"
 long_title = "AN ACT SEPARATING THE BANGA NATIONAL HIGH SCHOOL – SAN JOSE ANNEX IN BARANGAY SAN JOSE, MUNICIPALITY OF BANGA, PROVINCE OF SOUTH COTABATO FROM THE BANGA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SAN JOSE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (South Cotabato)", "San Jose National High School (South Cotabato)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives ARTHUR Y. PINGOY JR., EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2006"
+date = "2006-05-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,24 +1,28 @@
 id = "01K67YKRD39GWJB3011QC72396"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05909"
+
+[meta]
 bill_number = 5909
 congress = 13
-canonical = "HBN-05909"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5909", "https://web.senate.gov.ph/lisdata/67675553!.pdf",]
 title = "BALARA FILTERS NATIONAL PARK (QUEZON CITY)"
 long_title = "AN ACT DECLARING THE BALARA FILTERS COMPOUND IN BARANGAY PANSOL AS A NATIONAL PARK AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Balara Filters National Park",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in Senate requesting for concurrence by Representatives MATIAS V. DEFENSOR JR., LEOVIGILDO B. BANAAG, JOEY SARTE SALCEDA, CATALINO V. FIGUEROA, EDUARDO R. GULLAS, MA. AMELITA C. VILLAROSA, LUIS R. VILLAFUERTE, GILBERT C. REMULLA, JESUS CRISPIN C. REMULLA, J. R. NEREUS O. ACOSTA, ROILO S. GOLEZ and EDUARDO C. FIRMALO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Environment and Natural Resources"

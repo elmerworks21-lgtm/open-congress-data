@@ -1,8 +1,11 @@
 id = "01K67YJDVJVNH6BXNJ82QEE4BF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02391"
+
+[meta]
 bill_number = 2391
 congress = 16
-canonical = "SBN-02391"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2391", "https://web.senate.gov.ph/lisdata/1981516923!.pdf",]
 title = "WOMEN'S PREVENTIVE HEALTH AWARENESS CAMPAIGN"
 date_filed = "2014-09-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR A NATIONAL PUBLIC OUTREACH AND EDUCATION CAM
 scope = "National"
 subjects = [ "Women", "Reproductive Health", "Health Care Delivery System",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-09-08"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-09"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; PUBLIC INFORMATION AND MASS MEDIA; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2014"
+date = "2014-09-09"
 
 [[committees]]
 name = "Health and Demography"

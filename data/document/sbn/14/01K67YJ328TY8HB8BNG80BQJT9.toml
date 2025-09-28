@@ -1,8 +1,11 @@
 id = "01K67YJ328TY8HB8BNG80BQJT9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03131"
+
+[meta]
 bill_number = 3131
 congress = 14
-canonical = "SBN-03131"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3131", "https://web.senate.gov.ph/lisdata/105959406!.pdf",]
 title = "WATER USE EFFICIENCY AND CONSERVATION RESEARCH ACT OF 2009"
 date_filed = "2009-03-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR RESEARCH, DEVELOPMENT, EDUCATION AND TECHNOLO
 scope = "National"
 subjects = [ "Water Resources Management",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-17"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Environment and Natural Resources"

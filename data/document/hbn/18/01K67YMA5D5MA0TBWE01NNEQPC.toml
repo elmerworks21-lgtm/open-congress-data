@@ -1,24 +1,28 @@
 id = "01K67YMA5D5MA0TBWE01NNEQPC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10612"
+
+[meta]
 bill_number = 10612
 congress = 18
-canonical = "HBN-10612"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10612", "https://web.senate.gov.ph/lisdata/3725133613!.pdf",]
 title = "INTERNATIONAL MARITIME INSTRUMENTS DOMESTICATION ACT OF THE PHILIPPINES"
 long_title = "AN ACT PROVIDING FOR THE FULL AND EFFECTIVE IMPLEMENTATION AND ENFORCEMENT OF INTERNATIONAL MARITIME INSTRUMENTS TO WHICH THE PHILIPPINES IS A STATE PARTY"
 scope = "National"
 subjects = [ "International Maritime Instruments Domestication Act of the Philippines",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-02-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/2/2022"
+date = "2022-02-02"
 
 [[committees]]
 name = "Public Services"

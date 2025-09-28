@@ -1,8 +1,11 @@
 id = "01K67YJCHE60TKBZY19W1JXFM1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00398"
+
+[meta]
 bill_number = 398
 congress = 16
-canonical = "SBN-00398"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-398", "https://web.senate.gov.ph/lisdata/1626013489!.pdf",]
 title = "YOUTH SUICIDE PREVENTION ACT"
 date_filed = "2013-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A YOUTH SUICIDE EARLY INTERVENTION AND PREVEN
 scope = "National"
 subjects = [ "Youth Suicide",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Health and Demography"

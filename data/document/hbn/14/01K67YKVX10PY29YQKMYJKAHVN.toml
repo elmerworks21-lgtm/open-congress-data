@@ -1,24 +1,28 @@
 id = "01K67YKVX10PY29YQKMYJKAHVN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03820"
+
+[meta]
 bill_number = 3820
 congress = 14
-canonical = "HBN-03820"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-3820", "https://web.senate.gov.ph/lisdata/1273411417!.pdf",]
 title = "DOÑA AIDA DUMPIT AGRO-INDUSTRIAL TECHNICAL-VOCATIONAL HIGH SCHOOL"
 long_title = "AN ACT ESTABLISHING AN AGRO-INDUSTRIAL HIGH SCHOOL IN BARANGAY SANTIAGO, MUNICIPALITY OF BAUANG, PROVINCE OF LA UNION TO BE KNOWN AS DOÑA AIDA DUMPIT AGRO-INDUSTRIAL TECHNICAL-VOCATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-12"
 action = "Filed in the Senate requesting for concurrence by Representatives TOMAS M. DUMPIT, DEL R. DE GUZMAN, JUNIE E. CUA and EDCEL C. LAGMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/13/2009"
+date = "2009-10-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,24 +1,28 @@
 id = "01K67YM6CPRTNM08887WSNC310"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07545"
+
+[meta]
 bill_number = 7545
 congress = 17
-canonical = "HBN-07545"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7545", "https://web.senate.gov.ph/lisdata/2825824572!.pdf",]
 title = "RECOGNITION OF INDIGENOUS PEOPLES (SARANGANI PROVINCE)"
 long_title = "AN ACT DECLARING OCTOBER 27 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE PROVINCE OF SARANGANI IN RECOGNITION OF ITS INDIGENOUS PEOPLES WHO CONSTITUTE A LARGE PORTION OF THE POPULATION AND HAVE CONTRIBUTED TO THE RICH AND DIVERSE CULTURAL HERITAGE OF THE PROVINCE"
 scope = "Local"
 subjects = [ "Holidays (Special Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-06"
 action = "Read on First Reading and Referred to the Committee on CULTURAL COMMUNITIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2018"
+date = "2018-08-06"
 
 [[committees]]
 name = "Cultural Communities"

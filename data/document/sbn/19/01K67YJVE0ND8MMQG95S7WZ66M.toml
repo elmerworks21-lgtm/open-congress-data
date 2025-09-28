@@ -1,8 +1,11 @@
 id = "01K67YJVE0ND8MMQG95S7WZ66M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00824"
+
+[meta]
 bill_number = 824
 congress = 19
-canonical = "SBN-00824"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-824", "https://web.senate.gov.ph/lisdata/3859335043!.pdf",]
 title = "EXPANDING THE COVERAGE OF THE CENTENARIANS ACT OF 2016"
 date_filed = "2022-07-25"
@@ -10,37 +13,38 @@ long_title = "AN ACT EXPANDING THE COVERAGE OF THE CENTENARIANS ACT OF 2016, AME
 scope = "National"
 subjects = [ "Centenarians",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-21"
 action = "Returned and submitted jointly by the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE per Committee Report No. 61, recommending that it be substituted by SBN-2028;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "SUBSTITUTED BY SBN-2028 UNDER COMMITTEE REPORT NO. 61, WHICH BECAME REPUBLIC ACT NO. 11982 ON FEBRUARY 26, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/22/2023"
+date = "2023-03-22"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

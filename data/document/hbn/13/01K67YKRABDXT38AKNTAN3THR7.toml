@@ -1,24 +1,28 @@
 id = "01K67YKRABDXT38AKNTAN3THR7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05616"
+
+[meta]
 bill_number = 5616
 congress = 13
-canonical = "HBN-05616"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5616", "https://web.senate.gov.ph/lisdata/61155083!.pdf",]
 title = "PUERTO PRINCESA FOUNDATION DAY (JUNE 23)"
 long_title = "AN ACT DECLARING JUNE 23 OF EVERY YEAR A NONWORKING PUBLIC HOLIDAY IN THE ENTIRE PROVINCE OF PALAWAN AND THE CITY OF PUERTO PRINCESA"
 scope = "Local"
 subjects = [ "Holiday: Puerto Princesa Foundation Day (June 23)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-05"
 action = "Filed in the Senate requesting for concurrence by Representative ABRAHAM KAHLIL B. MITRA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-10"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/10/2006"
+date = "2006-10-10"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJQ0TDRE87WR0SCTBJKYT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00944"
+
+[meta]
 bill_number = 944
 congress = 18
-canonical = "SBN-00944"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-944", "https://web.senate.gov.ph/lisdata/3133828235!.pdf",]
 title = "THE BILL OF RIGHTS OF TAXI PASSENGERS"
 date_filed = "2019-08-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT ORDAINING THE BILL OF RIGHTS OF TAXI PASSENGERS"
 scope = "National"
 subjects = [ "Taxi Passengers Bill of Rights",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-20"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2019"
+date = "2019-08-27"
 
 [[committees]]
 name = "Public Services"

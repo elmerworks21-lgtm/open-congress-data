@@ -1,8 +1,11 @@
 id = "01K67YK0R1A9XYJV6DMN8F8XCH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01330"
+
+[meta]
 bill_number = 1330
 congress = 20
-canonical = "SBN-01330"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1330", "https://web.senate.gov.ph/lisdata/4796843990!.pdf",]
 title = "PHILIPPINE NATIONAL BUDGET BLOCKCHAIN ACT"
 date_filed = "2025-09-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE ESTABLISHMENT AND IMPLEMENTATION OF A NATIONA
 scope = "National"
 subjects = [ "Philippine National Budget Blockchain", "Accountability/Transparency", "National Budget",]
 authors_raw = "Aquino, Bam"
-[[legislative_history]]
+
+[[history]]
 date = "2025-09-02"
 action = "Introduced by Senator BAM AQUINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-17"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2025"
+date = "2025-09-17"
 
 [[committees]]
 name = "Science and Technology"

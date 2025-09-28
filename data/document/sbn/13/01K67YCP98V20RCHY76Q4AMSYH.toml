@@ -1,8 +1,11 @@
 id = "01K67YCP98V20RCHY76Q4AMSYH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01625"
+
+[meta]
 bill_number = 1625
 congress = 13
-canonical = "SBN-01625"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1625", "https://web.senate.gov.ph/lisdata/28632262!.pdf",]
 title = "PENALIZING PUBLIC EMPLOYEES WHO REFUSE TO TESTIFY"
 date_filed = "2004-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ORDAINING INSTITUTIONAL RESPONSIBILITY IN GIVING TESTIMONY 
 scope = "National"
 subjects = [ "Public Employees/Government Employees", "Witness (Testimony in Criminal Cases)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Justice and Human Rights"

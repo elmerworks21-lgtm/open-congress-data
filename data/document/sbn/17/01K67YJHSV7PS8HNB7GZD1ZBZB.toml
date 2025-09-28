@@ -1,8 +1,11 @@
 id = "01K67YJHSV7PS8HNB7GZD1ZBZB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00949"
+
+[meta]
 bill_number = 949
 congress = 17
-canonical = "SBN-00949"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-949", "https://web.senate.gov.ph/lisdata/2450721093!.pdf",]
 title = "WHISTLEBLOWER PROTECTION, SECURITY AND BENEFIT ACT OF 2016"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PROTECTION, SECURITY AND BENEFITS OF WHIS
 scope = "National"
 subjects = [ "Whistleblowers",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Justice and Human Rights"

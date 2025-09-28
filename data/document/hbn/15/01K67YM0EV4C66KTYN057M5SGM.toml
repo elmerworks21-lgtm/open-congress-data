@@ -1,24 +1,28 @@
 id = "01K67YM0EV4C66KTYN057M5SGM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06547"
+
+[meta]
 bill_number = 6547
 congress = 15
-canonical = "HBN-06547"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6547", "https://web.senate.gov.ph/lisdata/1417311913!.pdf",]
 title = "SPECIAL EDUCATION (SPED) ACT OF 2012"
 long_title = "AN ACT ESTABLISHING AT LEAST ONE (1) SPECIAL EDUCATION (SPED) CENTER FOR EACH SCHOOL DIVISION AND AT LEAST THREE (3) SPED CENTERS IN BIG SCHOOL DIVISIONS FOR CHILDREN WITH SPECIAL NEEDS (CSN), PROVIDING GUIDELINES THEREFOR AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Special Education",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-09-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-10-08"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; YOUTH, WOMEN AND FAMILY RELATIONS; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/9/2012"
+date = "2012-10-09"
 
 [[committees]]
 name = "Education, Arts and Culture"

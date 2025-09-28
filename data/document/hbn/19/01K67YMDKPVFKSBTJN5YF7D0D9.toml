@@ -1,24 +1,28 @@
 id = "01K67YMDKPVFKSBTJN5YF7D0D9"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09874"
+
+[meta]
 bill_number = 9874
 congress = 19
-canonical = "HBN-09874"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9874", "https://web.senate.gov.ph/lisdata/4363039661!.pdf",]
 title = "FIXING THE SHARE OF THE LOCAL GOVERNMENT UNIT ((GROSS GAMING REVENUE)"
 long_title = "AN ACT FIXING THE SHARE OF THE LOCAL GOVERNMENT UNIT (LGU) HOSTING GAMING OPERATIONS LICENSED OR OPERATED BY THE PHILIPPINE AMUSEMENT AND GAMING CORPORATION (PAGCOR) IN THE PROCEEDS OF THE FRANCHISE TAX, FURTHER AMENDING SECTION 12 OF PRESIDENTIAL DECREE NO. 1869, AS AMENDED"
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Philippine Amusement and Gaming Corporation (Pagcor)", "Franchise Tax",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Read on First Reading and Referred to the Committees on GAMES AND AMUSEMENT; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/20/2024"
+date = "2024-03-20"
 
 [[committees]]
 name = "Games and Amusement"

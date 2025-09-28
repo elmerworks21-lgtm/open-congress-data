@@ -1,24 +1,28 @@
 id = "01K67YKVV48Y0Y33RYQ2GZ4DWK"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03547"
+
+[meta]
 bill_number = 3547
 congress = 14
-canonical = "HBN-03547"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-3547", "https://web.senate.gov.ph/lisdata/1259411280!.pdf",]
 title = "EDAY WATERFALLS (PROVINCE OF SULTAN KUDARAT)"
 long_title = "AN ACT DECLARING THE EDAY WATERFALLS AND ITS PREMISES LOCATED AT BARANGAY EDAY, COLUMBIO, PROVINCE OF SULTAN KUDARAT AS A TOURIST SPOT AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-24"
 action = "Filed in the Senate requesting for concurrence by Representative SUHARTO 'TENG' T. MANGUDADATU as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-28"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2009"
+date = "2009-09-28"
 
 [[committees]]
 name = "Tourism"

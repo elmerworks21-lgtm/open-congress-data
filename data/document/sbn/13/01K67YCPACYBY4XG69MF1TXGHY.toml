@@ -1,8 +1,11 @@
 id = "01K67YCPACYBY4XG69MF1TXGHY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01688"
+
+[meta]
 bill_number = 1688
 congress = 13
-canonical = "SBN-01688"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1688", "https://web.senate.gov.ph/lisdata/29332472!.pdf",]
 title = "WOMEN EMPOWERMENT IN ENTERPRISE ACT"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT EMPOWERING WOMEN BY PROVIDING THEM WITH FINANCIAL, EDUCATIO
 scope = "National"
 subjects = [ "Women Empowerment in Enterprise Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

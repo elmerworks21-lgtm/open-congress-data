@@ -1,8 +1,11 @@
 id = "01K67YJ9Q85KS9JRZ474BN2H46"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03402"
+
+[meta]
 bill_number = 3402
 congress = 15
-canonical = "SBN-03402"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3402", "https://web.senate.gov.ph/lisdata/1514712859!.pdf",]
 title = "REVISED PENAL CODE"
 date_filed = "2013-02-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT REPEALING FOR THIS PURPOSE ARTICLE 133 OF ACT NO. 3815, AS 
 scope = "National"
 subjects = [ "Freedom of Expression", "Revised Penal Code (R.A.No. 3815; Amendments)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-05"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2013"
+date = "2013-02-05"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

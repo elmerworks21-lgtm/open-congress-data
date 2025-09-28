@@ -1,8 +1,11 @@
 id = "01K67YJHX6TFNK1NGKTRRMY9FQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01099"
+
+[meta]
 bill_number = 1099
 congress = 17
-canonical = "SBN-01099"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1099", "https://web.senate.gov.ph/lisdata/2469521279!.pdf",]
 title = "CRIMINAL STREET GANG DETERRENCE AND PUNISHMENT ACT"
 date_filed = "2016-08-25"
@@ -10,21 +13,22 @@ long_title = "AN ACT DETERRING AND PUNISHING THE ESTABLISHMENT AND OPERATION OF 
 scope = "National"
 subjects = [ "Street Gangs",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-25"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-30"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-18"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2016"
+date = "2016-08-30"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

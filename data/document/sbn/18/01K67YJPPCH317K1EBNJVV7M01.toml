@@ -1,8 +1,11 @@
 id = "01K67YJPPCH317K1EBNJVV7M01"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00452"
+
+[meta]
 bill_number = 452
 congress = 18
-canonical = "SBN-00452"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-452", "https://web.senate.gov.ph/lisdata/3080027645!.pdf",]
 title = "ADDITIONAL TEACHERS' INSURANCE ACT"
 date_filed = "2019-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING ADDITIONAL INSURANCE BENEFITS TO ALL PUBLIC SCHOOL
 scope = "National"
 subjects = [ "Public School Teachers", "Insurance",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-15"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; BASIC EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

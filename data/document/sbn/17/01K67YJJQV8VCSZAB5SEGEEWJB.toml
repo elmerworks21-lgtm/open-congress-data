@@ -1,8 +1,11 @@
 id = "01K67YJJQV8VCSZAB5SEGEEWJB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02080"
+
+[meta]
 bill_number = 2080
 congress = 17
-canonical = "SBN-02080"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2080", "https://web.senate.gov.ph/lisdata/2885025378!.pdf",]
 title = "EXTENDING THE FRANCHISE TO CATHOLIC BISHOPS CONFERENCE OF THE PHILIPPINES, INC"
 date_filed = "2018-10-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXTENDING THE FRANCHISE GRANTED TO CATHOLIC BISHOPS CONFERE
 scope = "National"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-18"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-12"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2018"
+date = "2018-11-12"
 
 [[committees]]
 name = "Public Services"

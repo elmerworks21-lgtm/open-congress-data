@@ -1,8 +1,11 @@
 id = "01K67YK0AK9CPYY6C1WS1P9TFH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00891"
+
+[meta]
 bill_number = 891
 congress = 20
-canonical = "SBN-00891"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-891", "https://web.senate.gov.ph/lisdata/4748743491!.pdf",]
 title = "ABOT ALAM ACT"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE 'ABOT ALAM' PROGRAM OF THE DEPARTMEN
 scope = "National"
 subjects = [ "Abot Alam Program", "Out-Of-School Youth",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; YOUTH and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Basic Education"

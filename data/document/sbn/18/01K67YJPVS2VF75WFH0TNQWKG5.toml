@@ -1,8 +1,11 @@
 id = "01K67YJPVS2VF75WFH0TNQWKG5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00710"
+
+[meta]
 bill_number = 710
 congress = 18
-canonical = "SBN-00710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-710", "https://web.senate.gov.ph/lisdata/3103727933!.pdf",]
 title = "MAXIMIZING BENEFITS FROM MINERAL AND MINERAL PRODUCTS AND QUARRY RESOURCES ACT"
 date_filed = "2019-07-24"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE MAXIMIZATION OF BENEFITS FROM FINITE MINE
 scope = "National"
 subjects = [ "Mineral Resources", "Quarry Resources/Quarrying",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Environment and Natural Resources; and the Committee on Climate Change, SBN-710 shall now be referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

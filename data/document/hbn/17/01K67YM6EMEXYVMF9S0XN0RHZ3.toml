@@ -1,24 +1,28 @@
 id = "01K67YM6EMEXYVMF9S0XN0RHZ3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07891"
+
+[meta]
 bill_number = 7891
 congress = 17
-canonical = "HBN-07891"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7891", "https://web.senate.gov.ph/lisdata/2850124884!.pdf",]
 title = "SIARGAO, SURIGAO DEL-NORTE TESDA TRAINING CENTER ACT"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MANPOWER LIVELIHOOD AND SKILLS DEVELOPMENT CENTER IN THE MUNICIPALITY OF DAPA, SIARGAO ISLAND, PROVINCE OF SURIGAO DEL NORTE TO BE KNOWN AS THE SIARGAO, SURIGAO DEL NORTE TESDA TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tesda Training and Accreditation Center",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2018"
+date = "2018-09-05"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJWHXSZSPMA6D8E0R22K6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02356"
+
+[meta]
 bill_number = 2356
 congress = 19
-canonical = "SBN-02356"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2356", "https://web.senate.gov.ph/lisdata/4222038496!.pdf",]
 title = "THE ADDITIONAL P12,000 INCREASE IN THE MINIMUM PAY ACT OF 2023"
 date_filed = "2023-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR ADDITIONAL P 12,000 INCREASE IN THE MINIMUM P
 scope = "National"
 subjects = [ "Wage Increase/Salary Increase", "Public Sector",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-25"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2023"
+date = "2023-08-07"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

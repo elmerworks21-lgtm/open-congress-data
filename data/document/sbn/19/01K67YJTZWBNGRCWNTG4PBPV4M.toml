@@ -1,8 +1,11 @@
 id = "01K67YJTZWBNGRCWNTG4PBPV4M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00173"
+
+[meta]
 bill_number = 173
 congress = 19
-canonical = "SBN-00173"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-173", "https://web.senate.gov.ph/lisdata/3788134322!.pdf",]
 title = "PROTECTION OF TRADITIONAL KNOWLEDGE, TRADITIONAL CULTURAL EXPRESSION AND GENETIC RESOURCES ACT"
 date_filed = "2022-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROTECTING TRADITIONAL KNOWLEDGE, TRADITIONAL CULTURAL EXPR
 scope = "National"
 subjects = [ "Traditional Knowledge/Cultural Expression/Genetic Resources", "Intellectual Property Code", "Patents", "Indigenous People",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and BASIC EDUCATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-14"
 action = "Transfer of secondary referral from the Committee on Basic Education to the Committee on CULTURE AND THE ARTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YCNJSCVBJ2422J9ZZDW9Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00385"
+
+[meta]
 bill_number = 385
 congress = 13
-canonical = "SBN-00385"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-385", "https://web.senate.gov.ph/lisdata/1543843!.pdf",]
 title = "NATIONAL SEAFARERS COMMISSION ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A NATIONAL SEAFARERS COMMISSION, PRESCRIBING ITS P
 scope = "National"
 subjects = [ "National Seafarers Commission (Creation)", "Seamen/Seafarers",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSME¥A;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

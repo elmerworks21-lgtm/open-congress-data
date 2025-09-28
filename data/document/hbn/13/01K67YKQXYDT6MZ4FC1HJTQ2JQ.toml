@@ -1,24 +1,28 @@
 id = "01K67YKQXYDT6MZ4FC1HJTQ2JQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04358"
+
+[meta]
 bill_number = 4358
 congress = 13
-canonical = "HBN-04358"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4358", "https://web.senate.gov.ph/lisdata/43833755!.pdf",]
 title = "NORTHERN SAMAR SECOND DISTRICT ENGINEERING OFFICE"
 long_title = "AN ACT TRANSFERRING THE NORTHERN SAMAR SECOND DISTRICT ENGINEERING OFFICE TO THE MUNICIPALITY OF CATUBIG, PROVINCE OF NORTHERN SAMAR, AMENDING FOR THE PURPOSE SECTION 1 OF REPUBLIC ACT NO. 8478"
 scope = "Local"
 subjects = [ "Northern Samar Second District Engineering Office (Transfer)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-27"
 action = "Filed in the Senate requesting for concurrence by Representative ROMUALDO T. VICENCIO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2006"
+date = "2006-01-16"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YJPSY51FTAQAGDWJMWE5C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00627"
+
+[meta]
 bill_number = 627
 congress = 18
-canonical = "SBN-00627"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-627", "https://web.senate.gov.ph/lisdata/3097327903!.pdf",]
 title = "MAGNA CARTA OF WOMEN"
 date_filed = "2019-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 40 OF REPUBLIC ACT NO. 9710, OTHERWISE KNO
 scope = "National"
 subjects = [ "Magna Carta of Women",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-18"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

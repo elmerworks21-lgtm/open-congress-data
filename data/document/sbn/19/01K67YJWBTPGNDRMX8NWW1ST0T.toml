@@ -1,8 +1,11 @@
 id = "01K67YJWBTPGNDRMX8NWW1ST0T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02101"
+
+[meta]
 bill_number = 2101
 congress = 19
-canonical = "SBN-02101"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2101", "https://web.senate.gov.ph/lisdata/4145737749!.pdf",]
 title = "STUDENT LOAN PAYMENT MORATORIUM DURING DISASTERS AND EMERGENCIES ACT"
 date_filed = "2023-04-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MORATORIUM ON STUDENT LOAN PAYMENT DURING D
 scope = "National"
 subjects = [ "Student Loan Program", "Moratorium",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-04-26"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2023"
+date = "2023-05-09"
 
 [[committees]]
 name = "Rules"

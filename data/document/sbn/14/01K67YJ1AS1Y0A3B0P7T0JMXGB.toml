@@ -1,8 +1,11 @@
 id = "01K67YJ1AS1Y0A3B0P7T0JMXGB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00913"
+
+[meta]
 bill_number = 913
 congress = 14
-canonical = "SBN-00913"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-913", "https://web.senate.gov.ph/lisdata/51724539!.pdf",]
 title = "TREE LEGACY ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,25 +13,26 @@ long_title = "AN ACT INSTITUTING A SELF-SUSTAINING FOREST MANAGEMENT PROGRAM, BY
 scope = "National"
 subjects = [ "Tree Legacy", "Forestry", "Tree Planting",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

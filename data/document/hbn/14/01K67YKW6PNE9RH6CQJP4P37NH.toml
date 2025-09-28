@@ -1,24 +1,28 @@
 id = "01K67YKW6PNE9RH6CQJP4P37NH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04439"
+
+[meta]
 bill_number = 4439
 congress = 14
-canonical = "HBN-04439"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4439", "https://web.senate.gov.ph/lisdata/82777492!.pdf",]
 title = "KORONADAL - TAMPAKAN - COLUMBIO PROVINCIAL ROAD (SULTAN KUDARAT)"
 long_title = "AN ACT CONVERTING THE KORONADAL - TAMPAKAN - COLUMBIO PROVINCIAL ROAD LINKING THE PROVINCE OF SOUTH COTABATO AND SULTAN KUDARAT INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-21"
 action = "Filed in the Senate requesting for concurrence by Representatives DARLENE R. ANTONINO-CUSTODIO and ARTHUR Y. PINGOY JR., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2008"
+date = "2008-09-02"
 
 [[committees]]
 name = "Public Works"

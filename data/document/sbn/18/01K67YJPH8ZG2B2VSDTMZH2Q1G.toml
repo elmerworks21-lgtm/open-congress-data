@@ -1,8 +1,11 @@
 id = "01K67YJPH8ZG2B2VSDTMZH2Q1G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00220"
+
+[meta]
 bill_number = 220
 congress = 18
-canonical = "SBN-00220"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-220", "https://web.senate.gov.ph/lisdata/3047927356!.pdf",]
 title = "RATIONALIZING THE EARMARKING OF VALUE-ADDED TAXATION"
 date_filed = "2019-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING THE EARMARKING OF VALUE-ADDED TAXATION TO ADD
 scope = "National"
 subjects = [ "Taxes (Value-Added Tax / Vat)", "Poverty Alleviation", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-03"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Ways and Means"

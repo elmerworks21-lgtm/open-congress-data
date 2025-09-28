@@ -1,8 +1,11 @@
 id = "01K67YCPZ0DZZ5XFNNJRA474DM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02678"
+
+[meta]
 bill_number = 2678
 congress = 13
-canonical = "SBN-02678"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2678", "https://web.senate.gov.ph/lisdata/72395832!.pdf",]
 title = "GOVERNMENT DATA PRIVACY PROTECTION ACT"
 date_filed = "2007-06-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE SECURITY OF SENSITIVE DATA MAINTAINED BY THE
 scope = "National"
 subjects = [ "Government Data Privacy Protection",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-06"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-06"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/6/2007"
+date = "2007-06-06"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

@@ -1,8 +1,11 @@
 id = "01K67YJV7TKZ80AH7B1Z89WEBK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00539"
+
+[meta]
 bill_number = 539
 congress = 19
-canonical = "SBN-00539"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-539", "https://web.senate.gov.ph/lisdata/3830234739!.pdf",]
 title = "CATV-DTH INDUSTRY DEVELOPMENT ACT"
 date_filed = "2022-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING THE GROWTH AND DEVELOPMENT OF THE CABLE TELEVISIO
 scope = "National"
 subjects = [ "Cable Television", "Direct-To-Home Television (DTH)",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-16"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; PUBLIC INFORMATION AND MASS MEDIA and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2022"
+date = "2022-08-16"
 
 [[committees]]
 name = "Public Services"

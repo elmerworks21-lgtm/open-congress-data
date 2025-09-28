@@ -1,8 +1,11 @@
 id = "01K67YJ9B78QRWZCRQPZSYY0F2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02971"
+
+[meta]
 bill_number = 2971
 congress = 15
-canonical = "SBN-02971"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2971", "https://web.senate.gov.ph/lisdata/1220610293!.pdf",]
 title = "MICROENTERPRISE DEVELOPMENT INSTITUTIONS ACT OF 2011"
 date_filed = "2011-09-21"
@@ -10,33 +13,34 @@ long_title = "AN ACT GOVERNING THE CREATION AND ACCREDITATION OF MICROENTERPRISE
 scope = "National"
 subjects = [ "Microenterprise Development Institutions (Microdevs)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2011-09-21"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-09-21"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-02-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-08-16"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and WAYS AND MEANS per Committee Report No. 323, recommending that it be substituted by SBN-3255;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-08-22"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-08-22"
 action = "SUBSTITUTED BY SBN-3255, under Committee Report No. 323."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/22/2012"
+date = "2012-08-22"
 
 [[committees]]
 name = "Economic Affairs"

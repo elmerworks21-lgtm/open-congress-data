@@ -1,8 +1,11 @@
 id = "01K67YJ125THX795EETYWTWTTV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00490"
+
+[meta]
 bill_number = 490
 congress = 14
-canonical = "SBN-00490"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-490", "https://web.senate.gov.ph/lisdata/46974020!.pdf",]
 title = "ESTABLISHING INTERNAL AUDIT SERVICE (IAS) IN ALL GOVERNMENT AGENCIES AND GOCCS"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER AMENDING SECTIONS THREE AND FOUR OF REPUBLIC ACT NO
 scope = "National"
 subjects = [ "Internal Auditing Act (RA 3456)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Finance"

@@ -1,8 +1,11 @@
 id = "01K67YJ19A79BYTXQFE4HXY8SM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00846"
+
+[meta]
 bill_number = 846
 congress = 14
-canonical = "SBN-00846"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-846", "https://web.senate.gov.ph/lisdata/50734463!.pdf",]
 title = "BUWAN NG WIKANG PAMBANSA"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "PANUKALA PARA PAGTIBAYIN AND DEKLARASYON NG BUWAN NG AGOSTO NG BAW
 scope = "National"
 subjects = [ "Holidays", "Buwan Ng Wikang Pambansa (Agosto)", "National Language",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Education, Arts and Culture"

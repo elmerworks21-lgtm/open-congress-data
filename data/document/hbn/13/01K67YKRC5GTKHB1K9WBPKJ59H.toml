@@ -1,28 +1,32 @@
 id = "01K67YKRC5GTKHB1K9WBPKJ59H"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05842"
+
+[meta]
 bill_number = 5842
 congress = 13
-canonical = "HBN-05842"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5842", "https://web.senate.gov.ph/lisdata/67305515!.pdf",]
 title = "AQUATIC RESEARCH AND EXPERIMENTAL BREEDING STATIONS (CAMARINES SUR)"
 long_title = "AN ACT TO ESTABLISH AN AQUATIC RESEARCH AND EXPERIMENTAL BREEDING STATION FOR LAKE, RIVER AND OTHER INLAND FISHES IN THE PROVINCE OF CAMARINES SUR, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Aquatic Research", "Experimental Breeding Stations (Camarines Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representative LUIS R. VILLAFUERTE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-06"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Agriculture and Food"

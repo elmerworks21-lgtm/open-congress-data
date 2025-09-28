@@ -1,24 +1,28 @@
 id = "01K67YMDJYKZ2M6YAXW7V6SKZE"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09707"
+
+[meta]
 bill_number = 9707
 congress = 19
-canonical = "HBN-09707"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9707", "https://web.senate.gov.ph/lisdata/4332539434!.pdf",]
 title = "MULTI-SPECIES MARINE HATCHERY (MOALBOAL, CEBU)"
 long_title = "AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF MOALBOAL, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Multi-Species Marine Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-01-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-13"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/13/2024"
+date = "2024-02-13"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

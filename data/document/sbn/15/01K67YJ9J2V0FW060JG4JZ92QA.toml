@@ -1,8 +1,11 @@
 id = "01K67YJ9J2V0FW060JG4JZ92QA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03202"
+
+[meta]
 bill_number = 3202
 congress = 15
-canonical = "SBN-03202"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3202", "https://web.senate.gov.ph/lisdata/1323911117!.pdf",]
 title = "BOY SCOUTS OF THE PHILIPPINES CHARTER 2012"
 date_filed = "2012-05-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING THE BOY SCOUTS OF THE PHILIPPINES CHARTER, DEFI
 scope = "National"
 subjects = [ "Boy Scout", "Girl Scout",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2012-05-15"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; YOUTH, WOMEN AND FAMILY RELATIONS and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2012"
+date = "2012-05-16"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

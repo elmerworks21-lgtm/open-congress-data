@@ -1,23 +1,27 @@
 id = "01K67YM9C0009JBPC55W3A0GS9"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07776"
+
+[meta]
 bill_number = 7776
 congress = 18
-canonical = "HBN-07776"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7776", "https://web.senate.gov.ph/lisdata/3402630852!.pdf",]
 title = "ARAW NG ORIENTAL MINDORO (ORIENTAL MINDORO)"
 long_title = "AN ACT DECLARING NOVEMBER 15 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE PROVINCE OF ORIENTAL MINDORO, TO BE KNOWN AS ARAW NG ORIENTAL MINDORO, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY"
 scope = "Local"
-[[legislative_history]]
+
+[[history]]
 date = "2020-11-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-07"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/7/2020"
+date = "2020-12-07"
 
 [[committees]]
 name = "Local Government"

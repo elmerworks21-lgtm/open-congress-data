@@ -1,8 +1,11 @@
 id = "01K67YJZZ1MA3A3S1NS8RTMHG2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00271"
+
+[meta]
 bill_number = 271
 congress = 20
-canonical = "SBN-00271"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-271", "https://web.senate.gov.ph/lisdata/4676042767!.pdf",]
 title = "UPGRADING THE MINIMUM SALARY GRADE LEVEL OF NURSES"
 date_filed = "2025-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING THE MINIMUM SALARY GRADE LEVEL OF NURSES FROM SAL
 scope = "National"
 subjects = [ "Nurses/Nursing", "Salary Grade Level",]
 authors_raw = "Aquino, Bam"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-08"
 action = "Introduced by Senator BAM AQUINO;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2025"
+date = "2025-08-05"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

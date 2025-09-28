@@ -1,8 +1,11 @@
 id = "01K67YJQW57KYYW8DZT51D0JFY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02088"
+
+[meta]
 bill_number = 2088
 congress = 18
-canonical = "SBN-02088"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2088", "https://web.senate.gov.ph/lisdata/3463731456!.pdf",]
 title = "GENDER RESPONSIVE AND INCLUSIVE PANDEMIC MANAGEMENT ACT OF 2021"
 date_filed = "2021-03-08"
@@ -10,33 +13,34 @@ long_title = "AN ACT TO ENSURE GENDER RESPONSIVE AND INCLUSIVE PROTOCOLS AND PRO
 scope = "National"
 subjects = [ "Health Care Delivery System", "Covid-19", "Women",]
 authors_raw = "Hontiveros, Risa, Binay, Maria Lourdes Nancy S., Cayetano, Pia S., De Lima, Leila M., Marcos, Imee R., Poe, Grace, Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-08"
 action = "Introduced by Senators RISA HONTIVEROS, MARIA LOURDES NANCY S. BINAY, PIA S. CAYETANO, LEILA M. DE LIMA, IMEE R. MARCOS, GRACE POE and CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-08"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-31"
 action = "Returned and submitted jointly by the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY, HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 295, recommending that it be substituted by SBN-2372;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-31"
 action = "SUBSTITUTED BY SBN-2372 UNDER COMMITTEE REPORT NO. 295."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/31/2021"
+date = "2021-08-31"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

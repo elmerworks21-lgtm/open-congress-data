@@ -1,8 +1,11 @@
 id = "01K67YK079ATKYC9ECFFFVPH11"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00713"
+
+[meta]
 bill_number = 713
 congress = 20
-canonical = "SBN-00713"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-713", "https://web.senate.gov.ph/lisdata/4724543574!.pdf",]
 title = "NATIONAL ATHLETES AND COACHES BENEFITS AND INCENTIVES ACT"
 date_filed = "2025-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER EXPANDING THE INCENTIVES AND ALLOWANCES GRANTED TO 
 scope = "National"
 subjects = [ "National Athletes and Coaches Benefits and Incentives Act (R.A. No. 10699)",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-17"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committees on SPORTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Sports"

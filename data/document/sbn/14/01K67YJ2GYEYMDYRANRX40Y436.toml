@@ -1,8 +1,11 @@
 id = "01K67YJ2GYEYMDYRANRX40Y436"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02370"
+
+[meta]
 bill_number = 2370
 congress = 14
-canonical = "SBN-02370"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2370", "https://web.senate.gov.ph/lisdata/75566792!.pdf",]
 title = "RED CROSS AND OTHER EMBLEMS BILL"
 date_filed = "2008-06-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT DEFINING THE USE AND PROTECTION OF THE RED CROSS, RED CRESC
 scope = "National"
 subjects = [ "Red Cross",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2008-06-03"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-04"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-04"
 action = "Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-15"
 action = "Referred primarily to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and secondarily to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Referred primarily to the Committee on JUSTICE AND HUMAN RIGHTS; and secondarily to the Committee on NATIONAL DEFENSE AND SECURITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/15/2009"
+date = "2009-04-15"
 
 [[committees]]
 name = "Justice and Human Rights"

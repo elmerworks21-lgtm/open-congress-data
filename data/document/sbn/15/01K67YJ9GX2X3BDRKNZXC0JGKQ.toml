@@ -1,8 +1,11 @@
 id = "01K67YJ9GX2X3BDRKNZXC0JGKQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03148"
+
+[meta]
 bill_number = 3148
 congress = 15
-canonical = "SBN-03148"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3148", "https://web.senate.gov.ph/lisdata/1301610957!.pdf",]
 title = "PLEA BARGAINING ACT OF 2012"
 date_filed = "2012-03-12"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR RULES ON PLEA BARGAINING AGREEMENT IN CRIMINA
 scope = "National"
 subjects = [ "Plea Bargaining",]
 authors_raw = "Drilon, Franklin M., Guingona III, Teofisto \"Tg\", Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2012-03-12"
 action = "Prepared and submitted by the Committee on JUSTICE AND HUMAN RIGHTS with Senator(s) FRANKLIN M. DRILON, TEOFISTO 'TG' GUINGONA III and FRANCIS 'CHIZ' G. ESCUDERO as author(s) per Committee Report No. 134, recommending its approval in substitution of SBNos. 2732 and 2871;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-14"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, TEOFISTO 'TG' GUINGONA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-21"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-21"
 action = "Sponsorship speech of Senator TEOFISTO 'TG' GUINGONA III;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/21/2012"
+date = "2012-03-21"
 
 [[committees]]
 name = "Justice and Human Rights"

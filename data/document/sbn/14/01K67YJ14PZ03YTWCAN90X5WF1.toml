@@ -1,8 +1,11 @@
 id = "01K67YJ14PZ03YTWCAN90X5WF1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00614"
+
+[meta]
 bill_number = 614
 congress = 14
-canonical = "SBN-00614"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-614", "https://web.senate.gov.ph/lisdata/48254200!.pdf",]
 title = "GROUNDS FOR PETITION TO ANNUL PROCLAMATION OF CANDIDATES (ELECTION)"
 date_filed = "2007-07-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO AMEND BATAS PAMBANSA BLG. 881, OTHERWISE KNOWN AS THE OM
 scope = "National"
 subjects = [ "Proclamation (Petition to Annul)", "Omnibus Election Code (Batas Pambansa Blg. 881)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

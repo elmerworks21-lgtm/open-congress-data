@@ -1,24 +1,28 @@
 id = "01K67YKVNRJ8KX1YCAY7ZKGNWA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00280"
+
+[meta]
 bill_number = 280
 congress = 14
-canonical = "HBN-00280"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-280", "https://web.senate.gov.ph/lisdata/93678471!.pdf",]
 title = "LTO OFFICE (CITY OF SAN JOSE DEL MONTE, BULACAN)"
 long_title = "AN ACT ESTABLISHING THE LAND TRANSPORTATION OFFICE IN THE CITY OF SAN JOSE DEL MONTE, BULACAN AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-20"
 action = "Filed in the Senate requesting for concurrence by Representative ARTURO B. ROBES as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2008"
+date = "2008-11-25"
 
 [[committees]]
 name = "Public Services"

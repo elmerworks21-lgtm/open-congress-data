@@ -1,8 +1,11 @@
 id = "01K67YJ0YV04FDAMXNV4KNJSE7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00331"
+
+[meta]
 bill_number = 331
 congress = 14
-canonical = "SBN-00331"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-331", "https://web.senate.gov.ph/lisdata/44313834!.pdf",]
 title = "PHILIPPINE NAVAL ACADEMY"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE NAVAL ACADEMY, APPROPRIATING FU
 scope = "National"
 subjects = [ "Philippine Naval Academy",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2007"
+date = "2007-08-07"
 
 [[committees]]
 name = "National Defense and Security"

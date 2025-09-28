@@ -1,8 +1,11 @@
 id = "01K67YCPB8B090PKZEDPEVEMQ0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01737"
+
+[meta]
 bill_number = 1737
 congress = 13
-canonical = "SBN-01737"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1737", "https://web.senate.gov.ph/lisdata/29462521!.pdf",]
 title = "PRIVATE PROSECUTORS TO ASSIST OMBUDSMAN"
 date_filed = "2004-08-17"
@@ -10,21 +13,22 @@ long_title = "AN ACT ALLOWING PRIVATE PROSECUTORS TO ASSIST THE OFFICE OF THE OM
 scope = "National"
 subjects = [ "Ombudsman Act (R.A.No. 6770)", "Private Prosecutors/Lawyers",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-17"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Justice and Human Rights"

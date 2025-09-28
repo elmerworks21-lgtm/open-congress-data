@@ -1,8 +1,11 @@
 id = "01K67YJD3XA660TCR2YXREWZAH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01289"
+
+[meta]
 bill_number = 1289
 congress = 16
-canonical = "SBN-01289"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1289", "https://web.senate.gov.ph/lisdata/1735714595!.pdf",]
 title = "REVISED PENAL CODE (AMENDING ART. 363 & 364) INCRIMINATING INNOCENT PERSONS"
 date_filed = "2013-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLES 363 AND 364 OF ACT NO. 3815, AS AMENDED, 
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-15"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2013"
+date = "2013-09-02"
 
 [[committees]]
 name = "Justice and Human Rights"

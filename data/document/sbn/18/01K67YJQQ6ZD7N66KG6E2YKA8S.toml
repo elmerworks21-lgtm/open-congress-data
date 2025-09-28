@@ -1,8 +1,11 @@
 id = "01K67YJQQ6ZD7N66KG6E2YKA8S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01888"
+
+[meta]
 bill_number = 1888
 congress = 18
-canonical = "SBN-01888"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1888", "https://web.senate.gov.ph/lisdata/3375830623!.pdf",]
 title = "EXPANDING THE DEFINITION OF MEDICAL DEVICE TO INCLUDE HEALTH APPLICATIONS"
 date_filed = "2020-10-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE DEFINITION OF MEDICAL DEVICE TO INCLUDE HEALT
 scope = "National"
 subjects = [ "Medical Devices", "Health Applications", "Food and Drugs Administration (FDA)",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2020-10-14"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-14"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/14/2020"
+date = "2020-10-14"
 
 [[committees]]
 name = "Health and Demography"

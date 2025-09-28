@@ -1,8 +1,11 @@
 id = "01K67YJ0Y0462PXQ9CJR2CN5YF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00288"
+
+[meta]
 bill_number = 288
 congress = 14
-canonical = "SBN-00288"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-288", "https://web.senate.gov.ph/lisdata/43883791!.pdf",]
 title = "ANTI-CELLPHONE SNATCHING ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT PUNISHING THE SNATCHING OF MOBILE PHONES AND OTHER RELATED 
 scope = "National"
 subjects = [ "Anti-Cellphone Snatching", "Cellular Phones/Cellphones/Mobile Phones",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-06"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 13, recommending that it be substituted by SBN-1697;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "SUBSTITUTED BY SBN-1697."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/3/2007"
+date = "2007-10-03"
 
 [[committees]]
 name = "Justice and Human Rights"

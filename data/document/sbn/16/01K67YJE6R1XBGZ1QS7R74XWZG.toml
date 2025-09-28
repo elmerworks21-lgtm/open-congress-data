@@ -1,8 +1,11 @@
 id = "01K67YJE6R1XBGZ1QS7R74XWZG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02799"
+
+[meta]
 bill_number = 2799
 congress = 16
-canonical = "SBN-02799"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2799", "https://web.senate.gov.ph/lisdata/2162118345!.pdf",]
 title = "RESEARCH EVALUATION PROCESS ESTABLISHMENT ACT"
 date_filed = "2015-06-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ACT NO. 4120, OTHERWISE KNOWN AS AN ACT CREATING A
 scope = "National"
 subjects = [ "National Research Council",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-06-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-08"
 action = "Read on First Reading and Referred to the Committee on SCIENCE AND TECHNOLOGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2015"
+date = "2015-06-08"
 
 [[committees]]
 name = "Science and Technology"

@@ -1,8 +1,11 @@
 id = "01K67YJV2M8CGJ8APVJZHSQAS9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00299"
+
+[meta]
 bill_number = 299
 congress = 19
-canonical = "SBN-00299"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-299", "https://web.senate.gov.ph/lisdata/3805334495!.pdf",]
 title = "ENHANCED BATAS KASAMBAHAY ACT"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR ADDITIONAL RIGHTS AND BENEFITS TO KASAMBAHAYS
 scope = "National"
 subjects = [ "Batas Kasambahay (R.A.No. 10361)", "Domestic Workers",]
 authors_raw = "Cayetano, Alan Peter S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator ALAN PETER S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YK01QW84ABRDAA8XRE6NP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00416"
+
+[meta]
 bill_number = 416
 congress = 20
-canonical = "SBN-00416"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-416", "https://web.senate.gov.ph/lisdata/4690842914!.pdf",]
 title = "ANTI-STUNTING ACTION PLAN (ASAP) COUNCIL ACT OF 2025"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE ANTI-STUNTING ACTION PLAN (ASAP) COUNCIL I
 scope = "National"
 subjects = [ "Anti-Stunting Action Plan (ASAP)",]
 authors_raw = "Cayetano, Alan Peter \"Compañero\" S."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator ALAN PETER S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Health and Demography"

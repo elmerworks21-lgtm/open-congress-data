@@ -1,40 +1,44 @@
 id = "01K67YM9V337KHZD8TAT37H953"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09986"
+
+[meta]
 bill_number = 9986
 congress = 18
-canonical = "HBN-09986"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9986", "https://web.senate.gov.ph/lisdata/3624732700!.pdf",]
 title = "BALO-I BYPASS ROAD (BALO-I, LANAO DEL NORTE)"
 long_title = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A NATIONAL HIGHWAY IN THE MUNICIPALITY OF BALO-I, PROVINCE OF LANAO DEL NORTE TO BE KNOWN AS THE BALO-I BYPASS ROAD AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Roads, Construction",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-20"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Returned and submitted jointly by the Committees on PUBLIC WORKS and FINANCE per Committee Report No. 594, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Sponsor: Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "2/2/2022"
+date = "2022-02-02"
 
 [[committees]]
 name = "Public Works"

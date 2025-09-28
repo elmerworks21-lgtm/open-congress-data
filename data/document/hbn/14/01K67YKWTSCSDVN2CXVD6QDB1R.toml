@@ -1,24 +1,28 @@
 id = "01K67YKWTSCSDVN2CXVD6QDB1R"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05764"
+
+[meta]
 bill_number = 5764
 congress = 14
-canonical = "HBN-05764"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5764", "https://web.senate.gov.ph/lisdata/106149411!.pdf",]
 title = "ARAW NG OPOL"
 long_title = "AN ACT DECLARING JUNE 15 OF EACH YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF OPOL, PROVINCE OF MISAMIS ORIENTAL TO COMMEMORATE ITS FOUNDING ANNIVERSARY AND TO BE KNOWN AS ARAW NG OPOL"
 scope = "Local"
 subjects = [ "Holidays (Special Nonworking Holiday)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-04"
 action = "Filed in the Senate requesting for concurrence by Representatives YEVGENCY VINCENTE B. EMANO and GIORGIDI B. AGGABAO as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJQ4TX17808XER6E7KE4J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01114"
+
+[meta]
 bill_number = 1114
 congress = 18
-canonical = "SBN-01114"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1114", "https://web.senate.gov.ph/lisdata/3170028550!.pdf",]
 title = "GREEN ENERGY EDUCATION ACT OF 2019"
 date_filed = "2019-10-14"
@@ -10,15 +13,16 @@ long_title = "AN ACT AUTHORIZING HIGHER EDUCATION CURRICULUM DEVELOPMENT AND GRA
 scope = "National"
 subjects = [ "Green Energy Education",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-10-14"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-10-28"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "10/28/2019"
+date = "2019-10-28"
 

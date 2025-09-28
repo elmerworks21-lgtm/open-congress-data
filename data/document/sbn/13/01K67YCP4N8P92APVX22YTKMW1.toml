@@ -1,8 +1,11 @@
 id = "01K67YCP4N8P92APVX22YTKMW1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01366"
+
+[meta]
 bill_number = 1366
 congress = 13
-canonical = "SBN-01366"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1366", "https://web.senate.gov.ph/lisdata/25721945!.pdf",]
 title = "INDUSTRIAL ESTATES INCLUDED IN THE DEFINITION OF CONDOMINUM"
 date_filed = "2004-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT MODIFYING THE DEFINITION OF A CONDOMINIUM UNIT, AMENDING FO
 scope = "National"
 subjects = [ "Industrial Estates", "Condominium Act (R.A.No. 7899)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

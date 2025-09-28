@@ -1,8 +1,11 @@
 id = "01K67YJ13TY5E2RRR8VEYNG8YN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00574"
+
+[meta]
 bill_number = 574
 congress = 14
-canonical = "SBN-00574"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-574", "https://web.senate.gov.ph/lisdata/47854116!.pdf",]
 title = "COMPULSORY REGISTRATION OF HEAVY EQUIPMENT"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE COMPULSORY REGISTRATION OF HEAVY EQUIPMEN
 scope = "National"
 subjects = [ "Heavy Equipment (Compulsory Registration)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-22"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/22/2007"
+date = "2007-08-22"
 
 [[committees]]
 name = "Public Works"

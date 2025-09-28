@@ -1,8 +1,11 @@
 id = "01K67YJPSZ4803NHMDZ7GJW7H5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00628"
+
+[meta]
 bill_number = 628
 congress = 18
-canonical = "SBN-00628"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-628", "https://web.senate.gov.ph/lisdata/3097427904!.pdf",]
 title = "REPEALING ART. 133, OFFENDING THE RELIGIOUS FEELINGS (REVISED PENAL CODE)"
 date_filed = "2019-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT REPEALING ARTICLE 133 OF ACT NO. 3816, OTHERWISE KNOWN AS T
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)", "Religion/Beliefs",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-18"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Justice and Human Rights"

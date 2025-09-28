@@ -1,8 +1,11 @@
 id = "01K67YJCZNBDV8TGHB1ZP5SAXX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01085"
+
+[meta]
 bill_number = 1085
 congress = 16
-canonical = "SBN-01085"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1085", "https://web.senate.gov.ph/lisdata/1712214349!.pdf",]
 title = "ENERGY EFFICIENCY AND CONSERVATION ACT OF 2013"
 date_filed = "2013-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING ENERGY EFFICIENCY AND CONSERVATION, ENHA
 scope = "National"
 subjects = [ "Energy Conservation",]
 authors_raw = "Guingona III, Teofisto \"Tg\""
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-23"
 action = "Introduced by Senator TEOFISTO 'TG' GUINGONA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Energy"

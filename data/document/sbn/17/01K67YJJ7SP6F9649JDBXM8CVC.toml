@@ -1,8 +1,11 @@
 id = "01K67YJJ7SP6F9649JDBXM8CVC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01484"
+
+[meta]
 bill_number = 1484
 congress = 17
-canonical = "SBN-01484"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1484", "https://web.senate.gov.ph/lisdata/2615322515!.pdf",]
 title = "AMENDING R.A. NO. 9262 (JOB SECURITY TO WORKING WOMEN WHO ARE VICTIMS OF VIOLENCE)"
 date_filed = "2017-05-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENSURING JOB SECURITY TO WORKING WOMEN WHO ARE VICTIMS OF V
 scope = "National"
 subjects = [ "Women", "Violence Against Women",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2017-05-30"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-31"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/31/2017"
+date = "2017-05-31"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

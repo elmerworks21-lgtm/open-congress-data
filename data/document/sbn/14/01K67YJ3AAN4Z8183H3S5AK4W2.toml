@@ -1,8 +1,11 @@
 id = "01K67YJ3AAN4Z8183H3S5AK4W2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03454"
+
+[meta]
 bill_number = 3454
 congress = 14
-canonical = "SBN-03454"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3454", "https://web.senate.gov.ph/lisdata/1253311218!.pdf",]
 title = "METROPOLITAN TRIAL COURT (CALOOCAN CITY)"
 date_filed = "2009-09-17"
@@ -10,65 +13,66 @@ long_title = "AN ACT CREATING TWO ADDITIONAL BRANCHES OF THE METROPOLITAN TRIAL 
 scope = "Local"
 subjects = [ "Courts (Metropolitan Trial Courts)",]
 authors_raw = "Escudero, Francis \"Chiz\" G., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-17"
 action = "Prepared and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE with Senator(s) FRANCIS 'CHIZ' G. ESCUDERO and EDGARDO J. ANGARA as author(s) per Committee Report No. 628, recommending its approval in substitution of SBN-2823;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-22"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Period of amendment closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Approved on Second Reading without Amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-20"
 action = "Printed copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "In favor: (14) EDGARDO J. ANGARA, BENIGNO S. AQUINO III, JOKER P. ARROYO, 'COMPANERA' PIA S. CAYETANO, MIRIAM DEFENSOR SANTIAGO, JINGGOY P. EJERCITO-ESTRADA, JUAN PONCE ENRILE, RICHARD 'DICK' J. GORDON, GREGORIO B. HONASAN II, PANFILO M. LACSON, MANUEL 'LITO' M. LAPID, FRANCIS N. PANGILINAN, RAMON A. REVILLA JR. and JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Against: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-10"
 action = "Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-17"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
 [[status]]
 status = "Pending in the House of Representatives"
-date = "11/17/2009"
+date = "2009-11-17"
 
 [[committees]]
 name = "Justice and Human Rights"

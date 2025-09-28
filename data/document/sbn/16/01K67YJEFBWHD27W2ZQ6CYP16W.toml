@@ -1,8 +1,11 @@
 id = "01K67YJEFBWHD27W2ZQ6CYP16W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03021"
+
+[meta]
 bill_number = 3021
 congress = 16
-canonical = "SBN-03021"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3021", "https://web.senate.gov.ph/lisdata/2256619265!.pdf",]
 title = "SAFE RIDERS ACT"
 date_filed = "2015-11-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMOTE MANDATORY USE OF HELMETS WHEN RIDING BICYCLES, N
 scope = "National"
 subjects = [ "Bicycle",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-11-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-01"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/1/2015"
+date = "2015-12-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

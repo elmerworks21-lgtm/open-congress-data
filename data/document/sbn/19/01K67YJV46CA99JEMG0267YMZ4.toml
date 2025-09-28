@@ -1,8 +1,11 @@
 id = "01K67YJV46CA99JEMG0267YMZ4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00370"
+
+[meta]
 bill_number = 370
 congress = 19
-canonical = "SBN-00370"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-370", "https://web.senate.gov.ph/lisdata/3813134571!.pdf",]
 title = "JUST AND HUMANE RESETTLEMENT ACT"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING A JUST AND HUMANE CODE OF CONDUCT FOR THE RESET
 scope = "National"
 subjects = [ "Homeless", "Resettlement Program", "Underprivileged Persons", "Just and Humane Resettlement",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

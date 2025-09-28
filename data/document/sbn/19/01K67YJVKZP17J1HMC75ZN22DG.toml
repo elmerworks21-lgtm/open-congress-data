@@ -1,8 +1,11 @@
 id = "01K67YJVKZP17J1HMC75ZN22DG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01080"
+
+[meta]
 bill_number = 1080
 congress = 19
-canonical = "SBN-01080"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1080", "https://web.senate.gov.ph/lisdata/3904935489!.pdf",]
 title = "THE MANGROVE FOREST PROTECTION AND PRESERVATION ACT"
 date_filed = "2022-08-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PRESERVATION, REFORESTATION, AFFORESTATIO
 scope = "National"
 subjects = [ "Mangrove Forests",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-08"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-06"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2022"
+date = "2022-09-06"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

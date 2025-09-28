@@ -1,8 +1,11 @@
 id = "01K67YCNJAFBEN4S7V5KF4M7S7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00360"
+
+[meta]
 bill_number = 360
 congress = 13
-canonical = "SBN-00360"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-360", "https://web.senate.gov.ph/lisdata/1517812!.pdf",]
 title = "DECRIMINALIZING VAGRANCY AND OTHER FELONIES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO IMPROVE THE ADMINISTRATION OF JUSTICE BY DECRIMINALIZING
 scope = "National"
 subjects = [ "Felony/Felonies (Alarms/Scandals)", "Vagrancy, Decriminalizing", "Simple Disobedience to Agent/Authority", "Revised Penal Code",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSME¥A;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Justice and Human Rights"

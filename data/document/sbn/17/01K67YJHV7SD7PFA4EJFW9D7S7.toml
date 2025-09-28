@@ -1,8 +1,11 @@
 id = "01K67YJHV7SD7PFA4EJFW9D7S7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01013"
+
+[meta]
 bill_number = 1013
 congress = 17
-canonical = "SBN-01013"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1013", "https://web.senate.gov.ph/lisdata/2458721170!.pdf",]
 title = "PROCEDURE FOR REGISTRATION OF VOTERS DURING BARANGAY ELECTIONS"
 date_filed = "2016-08-15"
@@ -10,25 +13,26 @@ long_title = "AN ACT STRENGTHENING THE PROCEDURE FOR REGISTRATION OF VOTERS DURI
 scope = "National"
 subjects = [ "Voters Registration", "Elections/Electoral Reforms",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-15"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-17"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-02"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2016"
+date = "2016-08-17"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

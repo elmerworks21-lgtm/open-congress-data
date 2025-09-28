@@ -1,23 +1,27 @@
 id = "01K67YJDEBHTWJZ5ANZ891D1RH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01799"
+
+[meta]
 bill_number = 1799
 congress = 16
-canonical = "SBN-01799"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1799", "https://web.senate.gov.ph/lisdata/1799915232!.pdf",]
 title = "MAGNA CARTA FOR HOMEOWNERS' ASSOCIATIONS"
 date_filed = "2013-10-03"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR HOMEOWNERS' ASSOCIATIONS"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-17"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "10/17/2013"
+date = "2013-10-17"
 

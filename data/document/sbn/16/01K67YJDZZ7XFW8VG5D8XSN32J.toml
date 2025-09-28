@@ -1,8 +1,11 @@
 id = "01K67YJDZZ7XFW8VG5D8XSN32J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02577"
+
+[meta]
 bill_number = 2577
 congress = 16
-canonical = "SBN-02577"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2577", "https://web.senate.gov.ph/lisdata/2041017515!.pdf",]
 title = "RE-NATIONALIZATION OF DEVOLVED HEALTH SERVICES AND FACILITIES ACT OF 2015"
 date_filed = "2015-01-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT REVERTING TO THE NATIONAL GOVERNMENT THE DISCHARGE OF BASIC
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Health Facilities", "Health Care Delivery System", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2015-01-20"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-01-21"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/21/2015"
+date = "2015-01-21"
 
 [[committees]]
 name = "Local Government"

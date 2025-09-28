@@ -1,8 +1,11 @@
 id = "01K67YJJ9H2MNT3P0K4EDYSQDP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01551"
+
+[meta]
 bill_number = 1551
 congress = 17
-canonical = "SBN-01551"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1551", "https://web.senate.gov.ph/lisdata/2649122791!.pdf",]
 title = "AMENDING SEC. 1 OF P.D. NO. 1606, AS AMENDED (LAW CREATING THE SANDIGANBAYAN)"
 date_filed = "2017-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 1 OF PRESIDENTIAL DECREE NO. 1606, AS AMEN
 scope = "National"
 subjects = [ "Sandiganbayan",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-15"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-16"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2017"
+date = "2017-08-16"
 
 [[committees]]
 name = "Justice and Human Rights"

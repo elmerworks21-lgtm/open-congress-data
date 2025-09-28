@@ -1,24 +1,28 @@
 id = "01K67YMDMBE6EPWPVZZFVCFQWS"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10079"
+
+[meta]
 bill_number = 10079
 congress = 19
-canonical = "HBN-10079"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10079", "https://web.senate.gov.ph/lisdata/4410640080!.pdf",]
 title = "THE PHILIPPINE MIDWIFERY LAW"
 long_title = "AN ACT STRENGTHENING THE PRACTICE OF MIDWIFERY AS A PROFESSION IN THE PHILIPPINES, PROVIDING FUNDS THEREFOR, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 2644, OTHERWISE KNOWN AS 'THE PHILIPPINE MIDWIFERY LAW' AND REPUBLIC ACT NO. 7392, OTHERWISE KNOWN AS THE PHILIPPINE MIDWIFERY ACT OF 1992"
 scope = "National"
 subjects = [ "Midwifery",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-22"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2024"
+date = "2024-05-22"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

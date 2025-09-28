@@ -1,8 +1,11 @@
 id = "01K67YCNDZZQ2EGXMWDP633ZT8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00124"
+
+[meta]
 bill_number = 124
 congress = 13
-canonical = "SBN-00124"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-124", "https://web.senate.gov.ph/lisdata/12591010!.pdf",]
 title = "SPORTS EQUAL OPPORTUNITY ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING WOMEN EQUAL OPPORTUNITY TO ATHLETIC SCHOLARSHIP AN
 scope = "National"
 subjects = [ "Sports Equal Opportunity Act", "Women (Athletic Scholarship)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

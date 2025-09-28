@@ -1,8 +1,11 @@
 id = "01K67YJ16NCMCGA6043FS7RKBJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00714"
+
+[meta]
 bill_number = 714
 congress = 14
-canonical = "SBN-00714"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-714", "https://web.senate.gov.ph/lisdata/49364320!.pdf",]
 title = "PROVIDING FOR A CALAMITY RESERVE FUND"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PARAGRAPH (D), SECTION 324 OF REPUBLIC ACT NO. 716
 scope = "National"
 subjects = [ "Local Government Code (RA 7160", "Amendments)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2007"
+date = "2007-08-29"
 
 [[committees]]
 name = "Local Government"

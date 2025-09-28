@@ -1,8 +1,11 @@
 id = "01K67YJHT4T8N3BZXYNMF7MW7J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00963"
+
+[meta]
 bill_number = 963
 congress = 17
-canonical = "SBN-00963"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-963", "https://web.senate.gov.ph/lisdata/2452121103!.pdf",]
 title = "PATERNITY LEAVE ACT"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTIONS 2 AND 3 OF REPUBLIC ACT NO. 8187, OTHERWI
 scope = "National"
 subjects = [ "Paternity Leave", "Leave of Absence",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

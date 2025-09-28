@@ -1,8 +1,11 @@
 id = "01K67YJH9J4GP95R3520A2JTHD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00217"
+
+[meta]
 bill_number = 217
 congress = 17
-canonical = "SBN-00217"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-217", "https://web.senate.gov.ph/lisdata/2363820296!.pdf",]
 title = "SECURITY OF TENURE OF WORKERS IN THE PRIVATE SECTOR"
 date_filed = "2016-06-30"
@@ -10,65 +13,66 @@ long_title = "AN ACT STRENGTHENING THE SECURITY OF TENURE OR WORKERS IN THE PRIV
 scope = "National"
 subjects = [ "Security of Tenure", "Private Sector Employees", "Labor Code of the Philippines (P.D.No. 442)", "Job Contracting",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator ANA THERESIA HONTIVEROS BARAQUEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-17"
 action = "Conducted ORGANIZATIONAL MEETING/BRIEFING;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-05"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-29"
 action = "Returned and submitted by the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT per Committee Report No. 392, recommending that it be substituted by SBN-1826;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-29"
 action = "SUBSTITUTED BY SBN-1826 UNDER COMMITTEE REPORT NO. 392."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/29/2018"
+date = "2018-05-29"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

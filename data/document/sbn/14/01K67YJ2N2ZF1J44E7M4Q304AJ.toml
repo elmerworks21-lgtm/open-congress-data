@@ -1,8 +1,11 @@
 id = "01K67YJ2N2ZF1J44E7M4Q304AJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02541"
+
+[meta]
 bill_number = 2541
 congress = 14
-canonical = "SBN-02541"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2541", "https://web.senate.gov.ph/lisdata/80937314!.pdf",]
 title = "MANDATORY PHILHEALTH COVERAGE OF HOUSEHELPERS"
 date_filed = "2008-08-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE MANDATORY COVERAGE OF ALL HOUSEHELPERS IN THE
 scope = "National"
 subjects = [ "Househelpers", "Philhealth (Philippine Health Insurance Act)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-14"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2008"
+date = "2008-08-19"
 
 [[committees]]
 name = "Health and Demography"

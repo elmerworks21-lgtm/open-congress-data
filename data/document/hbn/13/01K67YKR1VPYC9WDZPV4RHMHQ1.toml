@@ -1,24 +1,28 @@
 id = "01K67YKR1VPYC9WDZPV4RHMHQ1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04830"
+
+[meta]
 bill_number = 4830
 congress = 13
-canonical = "HBN-04830"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4830", "https://web.senate.gov.ph/lisdata/50754153!.pdf",]
 title = "CAROYROYAN NATIONAL HIGH SCHOOL (CAMARINES SUR)"
 long_title = "AN ACT SEPARATING THE PILI NATIONAL HIGH SCHOOL – CAROYROYAN ANNEX IN BARANGAY CAROYROYAN, MUNICIPALITY OF PILI, PROVINCE OF CAMARINES SUR FROM THE PILI NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE CAROYROYAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Camarines Sur)", "Caroyroyan National High School (Camarines Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives LUIS R. VILLAFUERTE, EDMUNDO O. REYES JR., JUAN EDGARDO M. ANGARA and EULOGIO 'AMANG' R. MAGSAYSAY, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2006"
+date = "2006-05-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

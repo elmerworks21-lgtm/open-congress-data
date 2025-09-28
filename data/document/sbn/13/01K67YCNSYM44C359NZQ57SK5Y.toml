@@ -1,8 +1,11 @@
 id = "01K67YCNSYM44C359NZQ57SK5Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00790"
+
+[meta]
 bill_number = 790
 congress = 13
-canonical = "SBN-00790"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-790", "https://web.senate.gov.ph/lisdata/19801419!.pdf",]
 title = "MEDIA SPECIAL PROTECTION AND ADDITIONAL BENEFITS ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING SPECIAL PROTECTION AND ADDITIONAL BENEFITS TO MEDI
 scope = "National"
 subjects = [ "Media Special Protection", "Benefits",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Public Information and Mass Media"

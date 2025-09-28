@@ -1,8 +1,11 @@
 id = "01K67YK01NT2SYM2Y4JN2NQQYB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00412"
+
+[meta]
 bill_number = 412
 congress = 20
-canonical = "SBN-00412"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-412", "https://web.senate.gov.ph/lisdata/4690442910!.pdf",]
 title = "MAGNA CARTA OF BARANGAY HEALTH WORKERS"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF BARANGAY HEALTH WORKERS"
 scope = "National"
 subjects = [ "Magna Carta of Barangay Health Workers",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJ97DYAAZP33CDCWK57PR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02840"
+
+[meta]
 bill_number = 2840
 congress = 15
-canonical = "SBN-02840"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2840", "https://web.senate.gov.ph/lisdata/113359639!.pdf",]
 title = "SPECIAL PROTECTION OF CHILDREN IN SITUATIONS OF ARMED CONFLICT ACT OF 2011"
 date_filed = "2011-05-24"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR THE SPECIAL PROTECTION OF CHILDREN IN SITUATI
 scope = "National"
 subjects = [ "Armed Conflict", "Children and Youth",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-24"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-25"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-24"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/25/2011"
+date = "2011-05-25"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

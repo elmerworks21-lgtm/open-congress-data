@@ -1,8 +1,11 @@
 id = "01K67YJJG19G9C10YGZC16YREX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01788"
+
+[meta]
 bill_number = 1788
 congress = 17
-canonical = "SBN-01788"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1788", "https://web.senate.gov.ph/lisdata/2780824071!.pdf",]
 title = "SHARE OF LOCAL GOVERNMENT UNITS IN INTERNAL REVENUE TAXES"
 date_filed = "2018-04-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENHANCE THE SHARE OF LOCAL GOVERNMENT UNITS IN INTERNAL 
 scope = "National"
 subjects = [ "Internal Revenue Allotment (Local Government Units)", "Taxes/Taxation",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-04-26"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2018"
+date = "2018-05-16"
 
 [[committees]]
 name = "Local Government"

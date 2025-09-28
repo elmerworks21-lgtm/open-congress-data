@@ -1,8 +1,11 @@
 id = "01K67YJD12C32PK6STQ1E6GPF3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01154"
+
+[meta]
 bill_number = 1154
 congress = 16
-canonical = "SBN-01154"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1154", "https://web.senate.gov.ph/lisdata/1720414442!.pdf",]
 title = "PROHIBITING THE SERVICE OF WARRANTS OF ARRESTS DURING NIGHTIME, LEGAL HOLIDAYS OR WEEKENDS"
 date_filed = "2013-07-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE SERVICE OF WARRANTS OF ARRESTS IN CERTAIN C
 scope = "National"
 subjects = [ "Warrant of Arrest",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-30"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-28"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2013"
+date = "2013-08-28"
 
 [[committees]]
 name = "Justice and Human Rights"

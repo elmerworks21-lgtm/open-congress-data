@@ -1,8 +1,11 @@
 id = "01K67YK06YVVNQH42PY8XVZHKP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00695"
+
+[meta]
 bill_number = 695
 congress = 20
-canonical = "SBN-00695"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-695", "https://web.senate.gov.ph/lisdata/4733043329!.pdf",]
 title = "COMPRESSED WORKING HOURS ARRANGEMENT IN THE PRIVATE SECTOR (LABOR CODE OF THE PHILIPPINES)"
 date_filed = "2025-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR COMPRESSED WORKING HOURS ARRANGEMENT IN THE P
 scope = "National"
 subjects = [ "Compressed Workweek", "Private Sector", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-17"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YJHTJKJTDD3VYAKSK1H5F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00984"
+
+[meta]
 bill_number = 984
 congress = 17
-canonical = "SBN-00984"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-984", "https://web.senate.gov.ph/lisdata/2455321128!.pdf",]
 title = "ZERO FOOD WASTE ACT"
 date_filed = "2016-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A SYSTEM OF REDISTRIBUTING AND RECYCLING FOOD
 scope = "National"
 subjects = [ "Food Waste", "Recycling", "Food Security",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-03"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Health and Demography"

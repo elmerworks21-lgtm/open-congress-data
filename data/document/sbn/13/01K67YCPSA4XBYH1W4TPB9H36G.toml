@@ -1,8 +1,11 @@
 id = "01K67YCPSA4XBYH1W4TPB9H36G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02429"
+
+[meta]
 bill_number = 2429
 congress = 13
-canonical = "SBN-02429"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2429", "https://web.senate.gov.ph/lisdata/57364735!.pdf",]
 title = "LIAN NATIONAL HIGH SCHOOL (BATANGAS)"
 date_filed = "2006-08-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY MALARUHATAN
 scope = "Local"
 subjects = [ "Schools, Establishment (Batangas)", "Lian National High School (Batangas)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2006-08-02"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2006"
+date = "2006-08-02"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJJVAY9C9BNEJ2DK41FRX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02226"
+
+[meta]
 bill_number = 2226
 congress = 17
-canonical = "SBN-02226"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2226", "https://web.senate.gov.ph/lisdata/2989126588!.pdf",]
 title = "DEPOSITS DISCLOSURE ACT"
 date_filed = "2019-05-21"
@@ -10,21 +13,22 @@ long_title = "AN ACT ALLOWING DISCLOSURE OF DEPOSITS, REPEALING FOR THE PURPOSE 
 scope = "National"
 subjects = [ "Bank Deposits/Bank Accounts", "Secrecy of Bank Deposits Law (R.A.No. 1405)",]
 authors_raw = "Lacson, Panfilo M., Pimentel, Aquilino Koko III L., De Lima, Leila M., Zubiri, Juan Miguel F., Aquino IV, Paolo Benigno \"Bam\", Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Prepared and submitted by the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES with Senator(s) PANFILO M. LACSON, AQUILINO KOKO III L. PIMENTEL, LEILA M. DE LIMA, JUAN MIGUEL F. ZUBIRI, PAOLO BENIGNO 'BAM' AQUINO IV and FRANCIS 'CHIZ' G. ESCUDERO as author(s) per Committee Report No. 662, recommending its approval in substitution of SBNos. 47, 115, 196, 1124 and 1495;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-21"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO ;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "5/21/2019"
+date = "2019-05-21"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

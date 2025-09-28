@@ -1,8 +1,11 @@
 id = "01K67YJ39GS8NRVNMS9J7PJE89"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03430"
+
+[meta]
 bill_number = 3430
 congress = 14
-canonical = "SBN-03430"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3430", "https://web.senate.gov.ph/lisdata/1241411072!.pdf",]
 title = "AURORA PACIFIC ECONOMIC AND FREEPORT ZONE ACT OF 2009"
 date_filed = "2009-09-08"
@@ -10,27 +13,28 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9490, OTHERWISE KNOWN AS THE AURO
 scope = "Local"
 subjects = [ "Economic Zones",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-08"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-09"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-06"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, LOCAL GOVERNMENT and WAYS AND MEANS per Committee Report No. 687, recommending that it be substituted by SBN-3470;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-06"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-06"
 action = "SUBSTITUTED BY SBN-3470 WHICH BECAME R.A.NO. 10083."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/6/2009"
+date = "2009-10-06"
 

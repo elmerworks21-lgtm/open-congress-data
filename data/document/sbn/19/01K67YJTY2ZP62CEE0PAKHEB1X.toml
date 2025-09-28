@@ -1,8 +1,11 @@
 id = "01K67YJTY2ZP62CEE0PAKHEB1X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00093"
+
+[meta]
 bill_number = 93
 congress = 19
-canonical = "SBN-00093"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-93", "https://web.senate.gov.ph/lisdata/3779634237!.pdf",]
 title = "SATELLITE SPECIALTY HOSPITALS ACT OF 2022"
 date_filed = "2022-07-07"
@@ -10,37 +13,38 @@ long_title = "AN ACT ESTABLISHING SATELLITE SPECIALTY HOSPITALS TO FACILITATE AC
 scope = "National"
 subjects = [ "Satellite Specialty Hospitals",]
 authors_raw = "Angara, Sonny, Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-10-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Letter from Senator RAMON BONG REVILLA JR. conveying his intention to be a co-author of SBN-93, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY, WAYS AND MEANS and FINANCE per Committee Report No. 67, recommending that it be substituted by SBN-2212;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "SUBSTITUTED BY SBN-2212 UNDER COMMITTEE NO. 67, WHICH BECAME REPUBLIC ACT NO. 11959 ON AUGUST 24, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Health and Demography"

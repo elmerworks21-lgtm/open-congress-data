@@ -1,28 +1,32 @@
 id = "01K67YMDQJPVP9K3CX02H5745M"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10512"
+
+[meta]
 bill_number = 10512
 congress = 19
-canonical = "HBN-10512"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10512", "https://web.senate.gov.ph/lisdata/4492340854!.pdf",]
 title = "SAFE OVERHEAD ELECTRIC DISTRIBUTION, CABLE, AND COMMUNICATIONS LINES ACT"
 long_title = "AN ACT MANDATING THE PROPER INSTALLATION AND MAINTENANCE OF OVERHEAD ELECTRIC DISTRIBUTION, COMMUNICATION LINES, AND STRUCTURES BY ALL ELECTRIC DISTRIBUTION, CABLE, AND TELECOMMUNICATIONS COMPANIES FOR PURPOSES OF PUBLIC SAFETY AND GOOD HOUSEKEEPING"
 scope = "National"
 subjects = [ "Telecommunications Service Standards", "Electric Distribution",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and PUBLIC WORKS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2024"
+date = "2024-09-16"
 
 [[committees]]
 name = "Public Services"

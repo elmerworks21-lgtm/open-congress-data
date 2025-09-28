@@ -1,24 +1,28 @@
 id = "01K67YM958C9FGNY9PG9N4QC5A"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06497"
+
+[meta]
 bill_number = 6497
 congress = 18
-canonical = "HBN-06497"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-6497", "https://web.senate.gov.ph/lisdata/3289329796!.pdf",]
 title = "HEALTH FACILITIES AND SERVICES REGULATION ACT"
 long_title = "AN ACT MODERNIZING THE REGULATION OF HEALTH FACILITIES AND SERVICES, AND APPROPRIATING FUNDS THEREFOR, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 4226, OTHERWISE KNOWN AS THE 'HOSPITAL LICENSURE ACT'"
 scope = "National"
 subjects = [ "Hospital Licensure Act (R.A.No. 4226)", "Health Facilities",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-06-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/3/2020"
+date = "2020-06-03"
 
 [[committees]]
 name = "Health and Demography"

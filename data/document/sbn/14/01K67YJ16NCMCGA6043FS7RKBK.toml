@@ -1,8 +1,11 @@
 id = "01K67YJ16NCMCGA6043FS7RKBK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00715"
+
+[meta]
 bill_number = 715
 congress = 14
-canonical = "SBN-00715"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-715", "https://web.senate.gov.ph/lisdata/49374321!.pdf",]
 title = "CONTRACTUAL AND CO-TERMINUS GOVERNMENT EMPLOYEES SECURITY OF TENURE"
 date_filed = "2007-07-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING CIVIL SERVICE ELIGIBILITY TO CONTRACTUAL AND CO-TE
 scope = "National"
 subjects = [ "Contractual", "Co-Terminus, Civil Service Eligibility",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-14"
 action = "Returned and submitted by the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION per Committee Report No. 775, recommending that it be substituted by SBN-3554;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "SUBSTITUTED BY SBN-3554."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/16/2009"
+date = "2009-12-16"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

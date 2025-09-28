@@ -1,8 +1,11 @@
 id = "01K67YJD6THXRRVGT5TJQ6V6Z8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01434"
+
+[meta]
 bill_number = 1434
 congress = 16
-canonical = "SBN-01434"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1434", "https://web.senate.gov.ph/lisdata/1753114766!.pdf",]
 title = "AUTISM AND IMMUNE DEFICIENCY DISORDERS IN INFANTS AND TODDLERS"
 date_filed = "2013-08-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AN ADVISORY COMMITTEE WITHIN THE DEPARTMENT OF
 scope = "National"
 subjects = [ "Autism", "Department of Health (DOH)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-04"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2013"
+date = "2013-09-04"
 
 [[committees]]
 name = "Health and Demography"

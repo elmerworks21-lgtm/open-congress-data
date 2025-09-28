@@ -1,8 +1,11 @@
 id = "01K67YCPT7N5XGAQNT70DBG5CQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02475"
+
+[meta]
 bill_number = 2475
 congress = 13
-canonical = "SBN-02475"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2475", "https://web.senate.gov.ph/lisdata/60695048!.pdf",]
 title = "ANTI-RAPE LAW"
 date_filed = "2006-09-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8353, OTHERWISE KNOWN AS THE ANTI
 scope = "National"
 subjects = [ "Anti-Rape Law (R.A.No. 8353)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-27"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-27"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/27/2006"
+date = "2006-09-27"
 
 [[committees]]
 name = "Justice and Human Rights"

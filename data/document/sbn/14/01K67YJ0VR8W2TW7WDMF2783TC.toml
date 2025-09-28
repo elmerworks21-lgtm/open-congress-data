@@ -1,8 +1,11 @@
 id = "01K67YJ0VR8W2TW7WDMF2783TC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00194"
+
+[meta]
 bill_number = 194
 congress = 14
-canonical = "SBN-00194"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-194", "https://web.senate.gov.ph/lisdata/42943681!.pdf",]
 title = "COMPUTER AS PART OF THE CURRICULA (BOTH PUBLIC AND PRIVATE SCHOOLS)"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INCLUDE THE TEACHING OF COMPUTER AS PART OF THE ELEMENTA
 scope = "National"
 subjects = [ "Computer (Elementary and High School Curricula)", "Curriculum (Primary/Secondary Schools)",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2007"
+date = "2007-07-31"
 
 [[committees]]
 name = "Education, Arts and Culture"

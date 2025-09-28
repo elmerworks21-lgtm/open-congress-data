@@ -1,8 +1,11 @@
 id = "01K67YCPJR0P5VC0AZW779WW1S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02091"
+
+[meta]
 bill_number = 2091
 congress = 13
-canonical = "SBN-02091"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2091", "https://web.senate.gov.ph/lisdata/38703235!.pdf",]
 title = "NATIONAL COMPUTER RECYCLING ACT"
 date_filed = "2005-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH A GRANT AND FEE PROGRAM TO ENCOURAGE AND PROMO
 scope = "National"
 subjects = [ "National Computer Recycling Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-23"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-24"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2005"
+date = "2005-08-24"
 
 [[committees]]
 name = "Environment and Natural Resources"

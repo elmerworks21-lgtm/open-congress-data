@@ -1,8 +1,11 @@
 id = "01K67YJPVGE593JR19BWMAR3HF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00696"
+
+[meta]
 bill_number = 696
 congress = 18
-canonical = "SBN-00696"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-696", "https://web.senate.gov.ph/lisdata/3100327822!.pdf",]
 title = "RECYCLE WASTE ACT OF 2019"
 date_filed = "2019-07-22"
@@ -10,21 +13,22 @@ long_title = "AN ACT REQUIRING THE RECYCLING AND UTILIZATION OF RECYCLED MATERIA
 scope = "National"
 subjects = [ "Recycling", "Waste Management", "Educational Institutions",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; BASIC EDUCATION, ARTS AND CULTURE and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Environment and Natural Resources; and the Committee on Climate Change, SBN-696 shall now be referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

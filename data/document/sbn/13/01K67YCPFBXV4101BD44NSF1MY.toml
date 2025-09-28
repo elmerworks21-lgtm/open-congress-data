@@ -1,8 +1,11 @@
 id = "01K67YCPFBXV4101BD44NSF1MY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01931"
+
+[meta]
 bill_number = 1931
 congress = 13
-canonical = "SBN-01931"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1931", "https://web.senate.gov.ph/lisdata/32372411!.pdf",]
 title = "POTABLE WATER SUPPLY SYSTEM IN EVERY BARANGAY"
 date_filed = "2005-02-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMOTE RURAL HEALTH BY PROVIDING FOR AN ACCELERATED PRO
 scope = "National"
 subjects = [ "Potable Water Supply System (Barangay)", "Water Management",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2005-02-24"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-28"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; ENVIRONMENT AND NATURAL RESOURCES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/28/2005"
+date = "2005-02-28"
 
 [[committees]]
 name = "Health and Demography"

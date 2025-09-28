@@ -1,8 +1,11 @@
 id = "01K67YJRA91DMSZ8BFWGAVTYPV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02487"
+
+[meta]
 bill_number = 2487
 congress = 18
-canonical = "SBN-02487"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2487", "https://web.senate.gov.ph/lisdata/3708733446!.pdf",]
 title = "EXPANDING SURVIVORSHIP BENEFITS OF A DECEASED RETIRED MEMBER OF THE NATIONAL PROSECUTION SERVICE"
 date_filed = "2022-01-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING SURVIVORSHIP BENEFITS TO THE SURVIVING LEGITIMATE
 scope = "National"
 subjects = [ "Survivorship Benefits", "National Prosecution Service",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2022-01-24"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/25/2022"
+date = "2022-01-25"
 
 [[committees]]
 name = "Justice and Human Rights"

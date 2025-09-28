@@ -1,23 +1,27 @@
 id = "01K67YJD1V4TE82P2SPK42HESG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01188"
+
+[meta]
 bill_number = 1188
 congress = 16
-canonical = "SBN-01188"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1188", "https://web.senate.gov.ph/lisdata/1725014479!.pdf",]
 title = "BOTICA SA BARANGAY"
 date_filed = "2013-07-31"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BARANGAY DRUGSTORES, OTHERWISE KNOWN AS BOTICA SA BARANGAY AND FOR OTHER PURPOSES"
 scope = "National"
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-31"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-15"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "8/15/2013"
+date = "2013-08-15"
 

@@ -1,24 +1,28 @@
 id = "01K67YKZHDSQS80WJKZEXV6Y6Q"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02054"
+
+[meta]
 bill_number = 2054
 congress = 15
-canonical = "HBN-02054"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-2054", "https://web.senate.gov.ph/lisdata/114259702!.pdf",]
 title = "FISHERY HATCHERY AND/OR BREEDING FARMS/CENTERS"
 long_title = "AN ACT ESTABLISHING FISHERY HATCHERY AND/OR BREEDING FARMS/CENTERS FOR THE PRODUCTION/MULTIPLICATION OF BANGUS FINGERLINGS, LAPU-LAPU, ALIMANGO AND TILAPIA IN THE MUNICIPALITIES OF MAGSAYSAY AND STA. CRUZ IN THE PROVINCE OF OCCIDENTAL MINDORO AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Fish Breeding",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/7/2011"
+date = "2011-06-07"
 
 [[committees]]
 name = "Agriculture and Food"

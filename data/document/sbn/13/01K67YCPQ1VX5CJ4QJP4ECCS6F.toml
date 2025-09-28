@@ -1,8 +1,11 @@
 id = "01K67YCPQ1VX5CJ4QJP4ECCS6F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02294"
+
+[meta]
 bill_number = 2294
 congress = 13
-canonical = "SBN-02294"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2294", "https://web.senate.gov.ph/lisdata/53994520!.pdf",]
 title = "PATIENTS RIGHT ACT"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT RELATING TO MENTAL HEALTH PATIENT RIGHTS AND TOA HOSPITAL'S
 scope = "National"
 subjects = [ "Patients Right",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Health and Demography"

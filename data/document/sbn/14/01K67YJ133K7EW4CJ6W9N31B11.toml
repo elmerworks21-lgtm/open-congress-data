@@ -1,8 +1,11 @@
 id = "01K67YJ133K7EW4CJ6W9N31B11"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00537"
+
+[meta]
 bill_number = 537
 congress = 14
-canonical = "SBN-00537"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-537", "https://web.senate.gov.ph/lisdata/47484067!.pdf",]
 title = "DOLE REGIONAL DIRECTORS POWER OVER MONETARY CLAIMS/BENEFITS CASES"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING JURISDICTION OVER LABOR CASES BETWEEN THE NATIONAL
 scope = "National"
 subjects = [ "Department of Labor and Employment (DOLE)", "Monetary Claims/Benefits", "National Labor Relations Commission (NLRC)", "Labor Code (Pd 442)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-21"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/21/2007"
+date = "2007-08-21"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

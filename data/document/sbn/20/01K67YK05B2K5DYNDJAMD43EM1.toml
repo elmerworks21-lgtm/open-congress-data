@@ -1,8 +1,11 @@
 id = "01K67YK05B2K5DYNDJAMD43EM1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00611"
+
+[meta]
 bill_number = 611
 congress = 20
-canonical = "SBN-00611"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-611", "https://web.senate.gov.ph/lisdata/4700643008!.pdf",]
 title = "PROTECTION OF STUDENTS RELIGIOUS BELIEF ACT"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROTECTING FREE EXERCISE AND ENJOYMENT OF RELIGION OF STUDE
 scope = "National"
 subjects = [ "Students", "Religion/Beliefs",]
 authors_raw = "Padilla, Robinhood"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator ROBINHOOD PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Basic Education"

@@ -1,8 +1,11 @@
 id = "01K67YJV3504FJJZJCZWG7C77Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00324"
+
+[meta]
 bill_number = 324
 congress = 19
-canonical = "SBN-00324"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-324", "https://web.senate.gov.ph/lisdata/3808134524!.pdf",]
 title = "UPGRADING THE MINIMUM SALARY GRADE LEVEL OF TEACHERS"
 date_filed = "2022-07-12"
@@ -10,21 +13,22 @@ long_title = "AN ACT UPGRADING THE MINIMUM SALARY GRADE LEVEL OF TEACHERS FROM S
 scope = "National"
 subjects = [ "Salary Grade Level", "Teachers", "Wage Increase/Salary Increase",]
 authors_raw = "Angara, Sonny, Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; BASIC EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Letter from Senator FRANCIS G. ESCUDERO conveying his intention to be a co-author of SBN-324, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

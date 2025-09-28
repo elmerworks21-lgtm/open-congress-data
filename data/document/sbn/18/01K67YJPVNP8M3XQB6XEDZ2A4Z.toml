@@ -1,8 +1,11 @@
 id = "01K67YJPVNP8M3XQB6XEDZ2A4Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00704"
+
+[meta]
 bill_number = 704
 congress = 18
-canonical = "SBN-00704"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-704", "https://web.senate.gov.ph/lisdata/3101927918!.pdf",]
 title = "RURAL EMPLOYMENT ASSISTANCE PROGRAM ACT"
 date_filed = "2019-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR RURAL EMPLOYMENT ASSISTANCE PROGRAM AND APPRO
 scope = "National"
 subjects = [ "Rural Employment",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-23"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

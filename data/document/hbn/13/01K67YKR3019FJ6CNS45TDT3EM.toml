@@ -1,24 +1,28 @@
 id = "01K67YKR3019FJ6CNS45TDT3EM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04959"
+
+[meta]
 bill_number = 4959
 congress = 13
-canonical = "HBN-04959"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4959", "https://web.senate.gov.ph/lisdata/53244422!.pdf",]
 title = "ANTI-ENFORCED OR INVOLUNTARY DISAPPEARANCE ACT OF 2006"
 long_title = "AN ACT DEFINING AND PENALIZING ENFORCED OR INVOLUNTARY DISAPPEARANCE AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Anti-Enforced", "Involuntary Disappearance",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-01"
 action = "Filed in the Senate requesting for concurrence by Representatives EDCEL C. LAGMAN, ET. AL. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-05"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2006"
+date = "2006-06-05"
 
 [[committees]]
 name = "Justice and Human Rights"

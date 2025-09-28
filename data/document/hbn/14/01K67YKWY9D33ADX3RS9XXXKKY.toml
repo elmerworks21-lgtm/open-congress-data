@@ -1,24 +1,28 @@
 id = "01K67YKWY9D33ADX3RS9XXXKKY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06185"
+
+[meta]
 bill_number = 6185
 congress = 14
-canonical = "HBN-06185"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6185", "https://web.senate.gov.ph/lisdata/1151010143!.pdf",]
 title = "AGRICULTURAL LAND (CITY OF NAGA, PROVINCE OF CEBU)"
 long_title = "AN ACT DECLARING CERTAIN PARCELS OF LANDS OF THE PUBLIC DOMAIN LOCATED IN THE CITY OF NAGA, PROVINCE OF CEBU AS AGRICULTURAL LAND OPEN TO DISPOSITION FOR AGRICULTURAL, RESIDENTIAL, COMMERCIAL, INDUSTRIAL OR OTHER PRODUCTIVE PURPOSES"
 scope = "Local"
 subjects = [ "Agricultural Lands",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-26"
 action = "Filed in the Senate requesting for concurrence by Representatives EDUARDO R. GULLAS, IGGY T. ARROYO, FLORENCIO T. MIRAFLORES and RAUL V. DEL MAR as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/27/2009"
+date = "2009-05-27"
 
 [[committees]]
 name = "Environment and Natural Resources"

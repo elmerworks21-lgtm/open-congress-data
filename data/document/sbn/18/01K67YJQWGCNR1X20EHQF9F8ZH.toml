@@ -1,8 +1,11 @@
 id = "01K67YJQWGCNR1X20EHQF9F8ZH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02097"
+
+[meta]
 bill_number = 2097
 congress = 18
-canonical = "SBN-02097"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2097", "https://web.senate.gov.ph/lisdata/3465531483!.pdf",]
 title = "SUSPENSION OF PHILHEALTH PREMIUM CONTRIBUTION INCREASE"
 date_filed = "2021-03-10"
@@ -10,25 +13,26 @@ long_title = "AN ACT GRANTING THE PRESIDENT OF THE PHILIPPINES THE POWER TO SUSP
 scope = "National"
 subjects = [ "Universal Health Care", "Philippine Health Insurance Corporation (Philhealth/Phic)",]
 authors_raw = "Marcos, Imee R., Poe, Grace, Zubiri, Juan Miguel \"Migz\" F., Villanueva, Joel, Angara, Sonny, Binay, Maria Lourdes Nancy S., Gatchalian, Win, Gordon, Richard J., Revilla Jr., Ramon Bong, De Lima, Leila M., Go, Christopher Lawrence T., Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-10"
 action = "Prepared and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE with Senators IMEE R. MARCOS, GRACE POE, JUAN MIGUEL 'MIGZ' F. ZUBIRI, JOEL VILLANUEVA, SONNY ANGARA, MARIA LOURDES NANCY S. BINAY, WIN GATCHALIAN, RICHARD J. GORDON, RAMON BONG REVILLA JR., LEILA M. DE LIMA and CHRISTOPHER LAWRENCE T. GO as authors per Committee Report No. 192, recommending its approval in substitution of SBNos. 1966, 1968, 1971, 1975, 1977 and 2000, taking into consideration HBN-8461;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Sponsor: Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-24"
 action = "Letter from Senator CYNTHIA A. VILLAR conveying her intention to be a co-author of SBN-2097, received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "3/10/2021"
+date = "2021-03-10"
 
 [[committees]]
 name = "Health and Demography"

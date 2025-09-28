@@ -1,24 +1,28 @@
 id = "01K67YKX41NYRG7QDD3185HM2Y"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07136"
+
+[meta]
 bill_number = 7136
 congress = 14
-canonical = "HBN-07136"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-7136", "https://web.senate.gov.ph/lisdata/1361512101!.pdf",]
 title = "CONVERSION OF THE WESTERN VISAYAS MEDICAL CENTER"
 long_title = "AN ACT CONVERTING THE WESTERN VISAYAS MEDICAL CENTER INTO A GOVERNMENT-OWNED AND CONTROLLED HOSPITAL CORPORATION WITH THE SAN JOAQUIN MUNICIPAL HOSPITAL AS ITS SUBSIDIARY AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Conversion", "Upgrading",]
-[[legislative_history]]
+
+[[history]]
 date = "2010-02-02"
 action = "Filed in the Senate requesting for concurrence by Representatives JANETTE L. GARIN and ARTHUR Y. PINGOY JR., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-31"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/31/2010"
+date = "2010-05-31"
 
 [[committees]]
 name = "Health and Demography"

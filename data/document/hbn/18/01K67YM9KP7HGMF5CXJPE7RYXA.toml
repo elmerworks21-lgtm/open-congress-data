@@ -1,24 +1,28 @@
 id = "01K67YM9KP7HGMF5CXJPE7RYXA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08960"
+
+[meta]
 bill_number = 8960
 congress = 18
-canonical = "HBN-08960"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8960", "https://web.senate.gov.ph/lisdata/3481731653!.pdf",]
 title = "MURCIELAGOS ISLAND (LABASON, ZAMBOANGA DEL NORTE) AN ECOTOURISM ZONE"
 long_title = "AN ACT DECLARING THE MURCIELAGOS ISLAND PROTECTED LANDSCAPE AND SEASCAPE LOCATED IN THE MUNICIPALITY OF LABASON, PROVINCE OF ZAMBOANGA DEL NORTE, AN ECOTOURISM ZONE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Ecotourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-12"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Tourism"

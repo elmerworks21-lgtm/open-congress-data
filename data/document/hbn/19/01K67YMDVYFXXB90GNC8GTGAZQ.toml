@@ -1,24 +1,28 @@
 id = "01K67YMDVYFXXB90GNC8GTGAZQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11164"
+
+[meta]
 bill_number = 11164
 congress = 19
-canonical = "HBN-11164"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11164", "https://web.senate.gov.ph/lisdata/4575441727!.pdf",]
 title = "TIGAON MOTHER AND CHILD SPECIALTY CENTER (TIGAON, CAMARINES SUR)"
 long_title = "AN ACT ESTABLISHING IN THE MUNICIPALITY OF TIGAON, PROVINCE OF CAMARINES SUR, A BASIC COMPREHENSIVE SPECIALTY CENTER TO BE KNOWN AS THE TIGAON MOTHER AND CHILD SPECIALTY CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Specialty Centers",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-01-23"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/27/2025"
+date = "2025-01-27"
 
 [[committees]]
 name = "Health and Demography"

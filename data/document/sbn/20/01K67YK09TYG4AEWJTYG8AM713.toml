@@ -1,8 +1,11 @@
 id = "01K67YK09TYG4AEWJTYG8AM713"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00849"
+
+[meta]
 bill_number = 849
 congress = 20
-canonical = "SBN-00849"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-849", "https://web.senate.gov.ph/lisdata/4741543418!.pdf",]
 title = "MEDIA AND INFORMATION LITERACY ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT INTEGRATING MEDIA AND INFORMATION LITERACY IN BASIC EDUCATI
 scope = "National"
 subjects = [ "Media and Information Literacy",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Basic Education"

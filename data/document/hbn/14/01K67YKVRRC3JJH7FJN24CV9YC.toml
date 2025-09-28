@@ -1,24 +1,28 @@
 id = "01K67YKVRRC3JJH7FJN24CV9YC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02592"
+
+[meta]
 bill_number = 2592
 congress = 14
-canonical = "HBN-02592"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-2592", "https://web.senate.gov.ph/lisdata/1273111414!.pdf",]
 title = "ROMBLON FOREST PROTECTION AND DEVELOPMENT PROGRAM"
 long_title = "AN ACT ESTABLISHING THE FOREST PROTECTION AND DEVELOPMENT PROGRAM IN THE PROVINCE OF ROMBLON AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Forest Conservation", "Forest Protection",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-12"
 action = "Filed in the Senate requesting for concurrence by Representatives ELEANDRO JESUS F. MADRONA, IGGY T. ARROYO and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/13/2009"
+date = "2009-10-13"
 
 [[committees]]
 name = "Environment and Natural Resources"

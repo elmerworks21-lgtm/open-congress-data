@@ -1,24 +1,28 @@
 id = "01K67YMDC4KT7AYTYFQKVNV07S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08447"
+
+[meta]
 bill_number = 8447
 congress = 19
-canonical = "HBN-08447"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8447", "https://web.senate.gov.ph/lisdata/4299939092!.pdf",]
 title = "MUNICIPALITY OF LABO, PROVINCE OF CAMARINES NORTE AS A TOURISM DEVELOPMENT AREA"
 long_title = "AN ACT DECLARING THE MUNICIPALITY OF LABO, PROVINCE OF CAMARINES NORTE, A TOURISM DEVELOPMENT AREA"
 scope = "Local"
 subjects = [ "Tourism Development Area (TDA)",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-11-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-28"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/28/2023"
+date = "2023-11-28"
 
 [[committees]]
 name = "Tourism"

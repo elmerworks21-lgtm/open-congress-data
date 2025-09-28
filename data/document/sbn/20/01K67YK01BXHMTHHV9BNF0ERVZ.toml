@@ -1,8 +1,11 @@
 id = "01K67YK01BXHMTHHV9BNF0ERVZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00397"
+
+[meta]
 bill_number = 397
 congress = 20
-canonical = "SBN-00397"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-397", "https://web.senate.gov.ph/lisdata/4688942895!.pdf",]
 title = "AMENDING R.A. NO. 6426 (FOREIGN CURRENCY DEPOSIT ACT OF THE PHILIPPINES)"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER STRENGTHENING THE FOREIGN CURRENCY DEPOSIT LAW, AME
 scope = "National"
 subjects = [ "Foreign Currency Deposits",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-12"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2025"
+date = "2025-08-12"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

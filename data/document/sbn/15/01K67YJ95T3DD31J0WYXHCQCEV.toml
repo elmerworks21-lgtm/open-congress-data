@@ -1,8 +1,11 @@
 id = "01K67YJ95T3DD31J0WYXHCQCEV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02782"
+
+[meta]
 bill_number = 2782
 congress = 15
-canonical = "SBN-02782"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2782", "https://web.senate.gov.ph/lisdata/111019465!.pdf",]
 title = "PEOPLE'S PARTICIPATION IN BUDGET DELIBERATIONS ACT"
 date_filed = "2011-03-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE ACTIVE PARTICIPATION OF BONA FIDE PE
 scope = "National"
 subjects = [ "Budget", "Non-Government Organizations (NGO)",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-03-31"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-09"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2011"
+date = "2011-05-09"
 
 [[committees]]
 name = "Finance"

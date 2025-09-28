@@ -1,8 +1,11 @@
 id = "01K67YCNC4JNWHKB6Q0TK2BW23"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00025"
+
+[meta]
 bill_number = 25
 congress = 13
-canonical = "SBN-00025"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-25", "https://web.senate.gov.ph/lisdata/1154578!.pdf",]
 title = "BUDGET IMPOUNDMENT CONTROL ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "THE BUDGET IMPOUNDMENT CONTROL ACT"
 scope = "National"
 subjects = [ "Budget Impoundment Control Act",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Finance"

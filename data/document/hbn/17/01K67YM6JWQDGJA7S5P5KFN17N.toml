@@ -1,24 +1,28 @@
 id = "01K67YM6JWQDGJA7S5P5KFN17N"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08627"
+
+[meta]
 bill_number = 8627
 congress = 17
-canonical = "HBN-08627"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8627", "https://web.senate.gov.ph/lisdata/2919425786!.pdf",]
 title = "RELEASE OF CADAVER FROM THE HOSPITALS AND MEDICAL CLINICS"
 long_title = "AN ACT REQUIRING HOSPITALS, MEDICAL CLINICS, AND OTHER FACILITIES TO RELEASE A CADAVER IN THEIR POSSESSION WITHIN TWENTY-FOUR (24) HOURS FROM THE TIME OF DEATH TO THE FAMILY OR RELATIVES IN RECOGNITION OF RELIGIOUS PRACTICES AND TRADITIONS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9439, ENTITLED AN ACT PROHIBITING THE DETENTION OF PATIENTS IN HOSPITALS AND MEDICAL CUNICS ON GROUNDS OF NONPAYMENT OF HOSPITAL BILLS OR MEDICAL EXPENSES"
 scope = "National"
 subjects = [ "Cadavers/Deceased Persons", "Hospitals", "Patients",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-13"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/13/2018"
+date = "2018-12-13"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YCNPZWSNPE4Y4MBY976F6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00620"
+
+[meta]
 bill_number = 620
 congress = 13
-canonical = "SBN-00620"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-620", "https://web.senate.gov.ph/lisdata/18061181!.pdf",]
 title = "LITERACY PROGRAMS FOR ALL EXPECTANT MOTHERS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING THAT ALL HOSPITALS, CLINICS, HEALTH CENTERS AND O
 scope = "National"
 subjects = [ "Women (Expectant Mothers/Pregnant Women)", "Literacy Programs (Expectant Mothers)", "Maternity Clinics/Hospitals",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-16"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2004"
+date = "2004-08-16"
 
 [[committees]]
 name = "Health and Demography"

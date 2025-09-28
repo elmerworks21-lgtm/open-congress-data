@@ -1,8 +1,11 @@
 id = "01K67YJJ2PDQ166DDHX5QSAZ01"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01308"
+
+[meta]
 bill_number = 1308
 congress = 17
-canonical = "SBN-01308"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1308", "https://web.senate.gov.ph/lisdata/2532221832!.pdf",]
 title = "ENERGY PROCUREMENT ACT OF 2016"
 date_filed = "2017-01-31"
@@ -10,41 +13,42 @@ long_title = "AN ACT INSTITUTIONALIZING REFORMS IN THE PROCUREMENT BY DISTRIBUTI
 scope = "National"
 subjects = [ "Energy Procurement",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2017-01-31"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-01"
 action = "Read on First Reading and Referred to the Committee on ENERGY;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-01"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-04-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-09"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-18"
 action = "Returned and submitted by the Committee on ENERGY per Committee Report No. 231, recommending that it be substituted by SBN-1653;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-22"
 action = "SUBSTITUTED BY SBN-1653 UNDER COMMITTEE REPORT NO. 231."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/22/2018"
+date = "2018-01-22"
 
 [[committees]]
 name = "Energy"

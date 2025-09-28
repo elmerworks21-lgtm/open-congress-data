@@ -1,26 +1,30 @@
 id = "01K67YM03H1CW0FBN9Z31BKJ1H"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05756"
+
+[meta]
 bill_number = 5756
 congress = 15
-canonical = "HBN-05756"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-5756", "https://web.senate.gov.ph/lisdata/1575712937!.pdf",]
 title = "PUBLIC HOSPITAL IN OBANDO, BULACAN"
 long_title = "AN ACT ESTABLISHING A PUBLIC HOSPITAL IN THE MUNICIPALITY OF OBANDO, PROVINCE OF BULACAN AND APPROPRIATING FUNDS THEREFOR."
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-06-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

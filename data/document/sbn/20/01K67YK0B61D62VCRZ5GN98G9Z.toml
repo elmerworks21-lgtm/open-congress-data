@@ -1,8 +1,11 @@
 id = "01K67YK0B61D62VCRZ5GN98G9Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00923"
+
+[meta]
 bill_number = 923
 congress = 20
-canonical = "SBN-00923"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-923", "https://web.senate.gov.ph/lisdata/4753643544!.pdf",]
 title = "LINE WORKERS INSURANCE AND BENEFITS ACT"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR MANDATORY INSURANCE COVERAGE AND BENEFITS FOR
 scope = "National"
 subjects = [ "Line Workers", "Insurance", "Benefits and Incentives",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on ENERGY and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Energy"

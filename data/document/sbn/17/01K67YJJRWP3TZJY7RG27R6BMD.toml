@@ -1,8 +1,11 @@
 id = "01K67YJJRWP3TZJY7RG27R6BMD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02122"
+
+[meta]
 bill_number = 2122
 congress = 17
-canonical = "SBN-02122"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2122", "https://web.senate.gov.ph/lisdata/2908525669!.pdf",]
 title = "RATIONALIZING CREDIT FINANCING FOR LOCAL GOVERNMENT UNITS"
 date_filed = "2018-12-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO RATIONALIZE CREDIT FINANCING FOR LOCAL GOVERNMENT UNITS 
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M., Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-03"
 action = "Prepared and submitted jointly by the Committee(s) on LOCAL GOVERNMENT and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES with Senator(s) JUAN EDGARDO 'SONNY' M. ANGARA and FRANCIS 'CHIZ' G. ESCUDERO as author(s) per Committee Report No. 532, recommending its approval in substitution of SBN-1773;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Sponsor: Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "12/3/2018"
+date = "2018-12-03"
 
 [[committees]]
 name = "Local Government"

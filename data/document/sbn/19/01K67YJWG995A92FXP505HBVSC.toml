@@ -1,8 +1,11 @@
 id = "01K67YJWG995A92FXP505HBVSC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02279"
+
+[meta]
 bill_number = 2279
 congress = 19
-canonical = "SBN-02279"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2279", "https://web.senate.gov.ph/lisdata/4204138248!.pdf",]
 title = "INDIGENOUS CULTURAL COMMUNITIES AND INDIGENOUS PEOPLES COMMUNITY CONSERVED TERRITORIES AND AREAS ACT"
 date_filed = "2023-06-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT RECOGNIZING THE INDIGENOUS CULTURAL COMMUNITIES AND INDIGEN
 scope = "National"
 subjects = [ "Indigenous Cultural Communities", "Indigenous People", "Community Conserved Territories and Areas",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2023-06-19"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-01"
 action = "Read on First Reading and Referred to the Committees on CULTURAL COMMUNITIES AND MUSLIM AFFAIRS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2023"
+date = "2023-08-01"
 
 [[committees]]
 name = "Cultural Communities and Muslim Affairs"

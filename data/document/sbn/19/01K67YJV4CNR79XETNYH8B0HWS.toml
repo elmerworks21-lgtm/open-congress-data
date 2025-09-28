@@ -1,8 +1,11 @@
 id = "01K67YJV4CNR79XETNYH8B0HWS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00379"
+
+[meta]
 bill_number = 379
 congress = 19
-canonical = "SBN-00379"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-379", "https://web.senate.gov.ph/lisdata/3814034580!.pdf",]
 title = "BASIC EDUCATION MENTAL HEALTH AND WELL-BEING PROMOTION ACT"
 date_filed = "2022-07-12"
@@ -10,85 +13,86 @@ long_title = "AN ACT STRENGTHENING THE PROMOTION AND DELIVERY OF MENTAL HEALTH S
 scope = "National"
 subjects = [ "Mental Health", "Basic Education/Basic Education Institutions", "Guidance Counselors",]
 authors_raw = "Gatchalian, Win, Go, Christopher Lawrence T., Binay, Maria Lourdes Nancy S., Revilla Jr., Ramon Bong, Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-31"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-02"
 action = "Letter from Senator CHRISTOPHER LAWRENCE T. GO dated January 31, 2023, expressing his intention to be a co-author of SBN-379, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Letter from Senator MARIA LOURDES NANCY S. BINAY, dated February 1, 2023, conveying her intention to be a co-author of SBN-379, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-09"
 action = "Letter from Senator RAMON 'BONG' REVILLA, JR., dated March 8, 2023, conveying his intention to be a co-author of SBN-379, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-04-17"
 action = "Letter from Senator JOEL VILLANUEVA dated March 29, 2023, conveying his intention to be made co-author of SBN-379, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Returned and submitted jointly by the Committees on BASIC EDUCATION, HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 66, recommending that it be substituted by SBN-2200;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "SUBSTITUTED BY SBN-2200 UNDER COMMITTEE REPORT NO. 66 WHICH BECAME REPUBLIC ACT NO. 12078 ON DECEMBER 6, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Basic Education"

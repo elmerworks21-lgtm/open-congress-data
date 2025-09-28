@@ -1,8 +1,11 @@
 id = "01K67YJWK31TQ2JN786WSP93TG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02407"
+
+[meta]
 bill_number = 2407
 congress = 19
-canonical = "SBN-02407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2407", "https://web.senate.gov.ph/lisdata/4245038632!.pdf",]
 title = "ANTI-FINANCIAL ACCOUNT SCAMMING ACT"
 date_filed = "2023-08-15"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROHIBITING MONEY MULES AND OTHER FRAUDULENT ACTS COMMITTED
 scope = "National"
 subjects = [ "Money Mules", "Fraudulent Activities",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-15"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-22"
 action = "Read on First Reading and Referred to the Committees on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-21"
 action = "Returned and submitted jointly by the Committees on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES, JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 204, recommending that it be substituted by SBN-2560;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-21"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-21"
 action = "SUBSTITUTED BY SBN-2560 UNDER COMMITTEE REPORT NO. 204, WHICH BECAME REPUBLIC ACT NO. 12010 ON JULY 20, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/21/2024"
+date = "2024-02-21"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

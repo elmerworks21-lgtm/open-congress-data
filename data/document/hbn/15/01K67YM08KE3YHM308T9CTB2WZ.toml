@@ -1,26 +1,30 @@
 id = "01K67YM08KE3YHM308T9CTB2WZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06351"
+
+[meta]
 bill_number = 6351
 congress = 15
-canonical = "HBN-06351"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6351", "https://web.senate.gov.ph/lisdata/1567912988!.pdf",]
 title = "CEMENTO PAGASA BARANGAY ROAD (PROVINCE OF AURORA)"
 long_title = "AN ACT CONVERTING THE CEMENTO PAGASA BARANGAY ROAD IN THE PROVINCE OF AURORA INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Roads, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

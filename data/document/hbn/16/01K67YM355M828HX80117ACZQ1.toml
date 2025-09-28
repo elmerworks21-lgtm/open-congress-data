@@ -1,24 +1,28 @@
 id = "01K67YM355M828HX80117ACZQ1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05869"
+
+[meta]
 bill_number = 5869
 congress = 16
-canonical = "HBN-05869"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5869", "https://web.senate.gov.ph/lisdata/2207118802!.pdf",]
 title = "MINING FREE ZONE (MUNICIPALITY OF KIBUNGAN, PROVINCE OF BENGUET)"
 long_title = "AN ACT DECLARING THE MUNICIPALITY OF KIBUNGAN, PROVINCE OF BENGUET A MINING-FREE ZONE AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
 scope = "Local"
 subjects = [ "Mining-Free Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-08-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-01"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2015"
+date = "2015-09-01"
 
 [[committees]]
 name = "Environment and Natural Resources"

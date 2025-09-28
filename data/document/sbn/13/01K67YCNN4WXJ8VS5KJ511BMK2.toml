@@ -1,8 +1,11 @@
 id = "01K67YCNN4WXJ8VS5KJ511BMK2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00513"
+
+[meta]
 bill_number = 513
 congress = 13
-canonical = "SBN-00513"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-513", "https://web.senate.gov.ph/lisdata/1670983!.pdf",]
 title = "OMNIBUS INVESTMENT CODE (AMENDMENTS)"
 date_filed = "2004-06-30"
@@ -10,57 +13,58 @@ long_title = "AN ACT RESTRUCTURING THE FISCAL INCENTIVES UNDER EXECUTIVE ORDER N
 scope = "National"
 subjects = [ "Omnibus Investment Code (Eo 226)", "Taxes (Income Tax Holiday)", "Investments/Incubation Period",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS; and ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-24"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 81, recommending that it be considered in SBN-2411;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-25"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-25"
 action = "SUBSTITUTED BY SBN-2411."
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-22"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-02"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-15"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-23"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-26"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/25/2006"
+date = "2006-07-25"
 
 [[committees]]
 name = "Ways and Means"

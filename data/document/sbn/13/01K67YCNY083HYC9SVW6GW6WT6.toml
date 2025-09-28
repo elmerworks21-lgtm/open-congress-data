@@ -1,8 +1,11 @@
 id = "01K67YCNY083HYC9SVW6GW6WT6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01010"
+
+[meta]
 bill_number = 1010
 congress = 13
-canonical = "SBN-01010"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1010", "https://web.senate.gov.ph/lisdata/22051288!.pdf",]
 title = "CHILDREN'S WELFARE FUND FOR ABANDONED, ABUSED & EXPLOITED"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING CHILDREN'S WELFARE FUND FOR THE PROTECTION AND 
 scope = "National"
 subjects = [ "Children`S Welfare Fund (DSWD", "RA 7610)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

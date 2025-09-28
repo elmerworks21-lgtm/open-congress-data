@@ -1,24 +1,28 @@
 id = "01K67YKRBAE6ER88V7R4EE8S3T"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05693"
+
+[meta]
 bill_number = 5693
 congress = 13
-canonical = "HBN-05693"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5693", "https://web.senate.gov.ph/lisdata/68245604!.pdf",]
 title = "CHEMISTRY LAW OF 2007"
 long_title = "AN ACT TO REGULATE AND MODERNIZE THE PRACTICE OF CHEMISTRY IN THE PHILIPPINES, REPEALING FOR THE PURPOSE REPUBLIC ACT NUMBERED SEVEN HUNDRED FIFTY-FOUR (R.A. NO. 754)"
 scope = "National"
 subjects = [ "Chemistry Law",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-31"
 action = "Filed in the Senate requesting for concurrence by Representatives CONRADO M. ESTRELLA III, J. R. NEREUS O. ACOSTA, FRANCIS 'BLUEBOY' L. NEPOMUCENO, ET. AL.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-31"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/31/2007"
+date = "2007-01-31"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

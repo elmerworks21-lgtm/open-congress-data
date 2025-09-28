@@ -1,8 +1,11 @@
 id = "01K67YJE67NHF9353JA4ZN9TBH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02795"
+
+[meta]
 bill_number = 2795
 congress = 16
-canonical = "SBN-02795"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2795", "https://web.senate.gov.ph/lisdata/2161718341!.pdf",]
 title = "PHILIPPINE NATIONAL POLICE REORGANIZATION ACT OF 2015"
 date_filed = "2015-06-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REORGANIZING THE PHILIPPINE NATIONAL POLICE, PROVIDING FUND
 scope = "National"
 subjects = [ "Philippine National Police (PNP)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2015-06-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-08"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2015"
+date = "2015-06-08"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

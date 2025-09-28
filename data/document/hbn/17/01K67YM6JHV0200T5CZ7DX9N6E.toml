@@ -1,24 +1,28 @@
 id = "01K67YM6JHV0200T5CZ7DX9N6E"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08532"
+
+[meta]
 bill_number = 8532
 congress = 17
-canonical = "HBN-08532"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8532", "https://web.senate.gov.ph/lisdata/2909625676!.pdf",]
 title = "GEN. VICENTE ALVAREZ HIGHWAY"
 long_title = "AN ACT NAMING THE PORTION OF THE LABUAN-LIMPAPA NATIONAL ROAD STRETCHING FROM CROSSING AIRPORT ROAD AND C.A. FERNANDEZ ROAD (BALIWASAN CHICO ROAD) IN BARANGAY BALIWASAN UP TO LIMPAPA BRIDGE IN BARANGAY LIMPAPA IN THE CITY OF ZAMBOANGA AS GEN. VICENTE ALVAREZ HIGHWAY"
 scope = "Local"
 subjects = [ "Roads, Naming",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-29"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-04"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/4/2018"
+date = "2018-12-04"
 
 [[committees]]
 name = "Public Works"

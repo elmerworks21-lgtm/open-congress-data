@@ -1,8 +1,11 @@
 id = "01K67YJ1DGK3S1D1CWYVKXE4JJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01045"
+
+[meta]
 bill_number = 1045
 congress = 14
-canonical = "SBN-01045"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1045", "https://web.senate.gov.ph/lisdata/53214706!.pdf",]
 title = "PENALTY OF USING FICTITIOUS NAME"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING ANY PERSON WHO INDUCES OR CAUSES ANOTHER TO USE 
 scope = "National"
 subjects = [ "Fictitious Name (Use Of, Penalty)", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

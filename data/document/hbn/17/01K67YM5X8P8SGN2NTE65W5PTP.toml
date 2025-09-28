@@ -1,24 +1,28 @@
 id = "01K67YM5X8P8SGN2NTE65W5PTP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05273"
+
+[meta]
 bill_number = 5273
 congress = 17
-canonical = "HBN-05273"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5273", "https://web.senate.gov.ph/lisdata/2601622369!.pdf",]
 title = "TRANSFER OF THE PROVINCIAL AGRARIAN REFORM OFFICE OF LANAO DEL NORTE TO THE MUNICIPALITY OF TUBOD"
 long_title = "AN ACT TRANSFERRING THE PROVINCIAL AGRARIAN REFORM OFFICE OF LANAO DEL NORTE FROM ILIGAN CITY TO THE MUNICIPALITY OF TUBOD, LANAO DEL NORTE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Department of Agrarian Reform (DAR)",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-05-17"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2017"
+date = "2017-05-22"
 
 [[committees]]
 name = "Agrarian Reform"

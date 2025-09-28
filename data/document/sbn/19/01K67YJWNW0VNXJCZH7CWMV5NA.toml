@@ -1,8 +1,11 @@
 id = "01K67YJWNW0VNXJCZH7CWMV5NA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02504"
+
+[meta]
 bill_number = 2504
 congress = 19
-canonical = "SBN-02504"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2504", "https://web.senate.gov.ph/lisdata/4309639197!.pdf",]
 title = "SALARY STANDARDIZATION LAW VI"
 date_filed = "2023-12-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE SALARY SCHEDULE OF CIVILIAN PERSONNEL IN THE
 scope = "National"
 subjects = [ "Salary Standardization", "Civilians Compensation",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-12-05"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-05"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/5/2023"
+date = "2023-12-05"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

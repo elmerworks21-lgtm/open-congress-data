@@ -1,8 +1,11 @@
 id = "01K67YJEBRVM2WY4PGDAD83JGY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02878"
+
+[meta]
 bill_number = 2878
 congress = 16
-canonical = "SBN-02878"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2878", "https://web.senate.gov.ph/lisdata/2187518596!.pdf",]
 title = "ENHANCED AND SUSTAINED UNIVERSAL HEALTH CARE ACT OF 2015 (ENSURE HEALTH ACT)"
 date_filed = "2015-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENHANCE AND SUSTAIN THE UNIVERSAL HEALTH CARE (UHC) BY E
 scope = "Local"
 subjects = [ "Ensure Health Act", "Medical Residency Training",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2015-07-29"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2015"
+date = "2015-08-05"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJJR5PRSACNXZ48DXFRPA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02094"
+
+[meta]
 bill_number = 2094
 congress = 17
-canonical = "SBN-02094"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2094", "https://web.senate.gov.ph/lisdata/2896325511!.pdf",]
 title = "CHARTER OF THE CITY OF MARAMAG"
 date_filed = "2018-11-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE MUNICIPALITY OF MARAMAG IN THE PROVINCE OF B
 scope = "Local"
 subjects = [ "Municipality, Conversion (Cityhood)",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-14"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-19"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/19/2018"
+date = "2018-11-19"
 
 [[committees]]
 name = "Rules"

@@ -1,32 +1,36 @@
 id = "01K67YM62D0CRX3AQKVEZHVE9S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06152"
+
+[meta]
 bill_number = 6152
 congress = 17
-canonical = "HBN-06152"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6152", "https://web.senate.gov.ph/lisdata/2666322884!.pdf",]
 title = "COMPRESSED WORK WEEK SCHEME"
 long_title = "AN ACT INCREASING THE NORMAL WORK HOURS PER DAY UNDER A COMPRESSED WORK WEEK SCHEME, AMENDING ARTICLES 83, 87 AND 91 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Work Schedules", "Labor Code of the Philippines (P.D.No. 442)", "Compressed Workweek",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-29"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-04"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Senate designated Senators Villanueva, Zubiri, Binay, Pimentel and Hontiveros as conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-1571 and HBN-6152;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-27"
 action = "House of Representatives designated Representatives Cuaresma, Ting, Go, Bertiz III and Villarin as its conferees to the Bicameral Conference Committee on the disagreeing provisions of HBN-6152 and SBN-1571 on May 21, 2019;"
 
 [[status]]
 status = "Pending Conference Committee"
-date = "5/21/2019"
+date = "2019-05-21"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

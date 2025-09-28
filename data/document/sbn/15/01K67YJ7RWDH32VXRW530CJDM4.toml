@@ -1,8 +1,11 @@
 id = "01K67YJ7RWDH32VXRW530CJDM4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00864"
+
+[meta]
 bill_number = 864
 congress = 15
-canonical = "SBN-00864"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-864", "https://web.senate.gov.ph/lisdata/83276881!.pdf",]
 title = "RIVER SYSTEMS AND WATERWAYS ECOLOGICAL ZONES ACT OF 2010"
 date_filed = "2010-07-08"
@@ -10,25 +13,26 @@ long_title = "AN ACT DECLARING AND ESTABLISHING RIVERS, RIVER SYSTEMS, BEACHES, 
 scope = "National"
 subjects = [ "Rivers and Waterways",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-08"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-08-01"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2010"
+date = "2010-08-16"
 
 [[committees]]
 name = "Environment and Natural Resources"

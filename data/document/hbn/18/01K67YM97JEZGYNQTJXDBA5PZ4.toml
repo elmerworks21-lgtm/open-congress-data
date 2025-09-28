@@ -1,24 +1,28 @@
 id = "01K67YM97JEZGYNQTJXDBA5PZ4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06939"
+
+[meta]
 bill_number = 6939
 congress = 18
-canonical = "HBN-06939"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-6939", "https://web.senate.gov.ph/lisdata/3327130109!.pdf",]
 title = "CABUYAO CITY, LAGUNA TESDA TRAINING AND ASSESSMENT CENTER ACT"
 long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TRAINING AND ASSESSMENT CENTER IN THE CITY OF CABUYAO, PROVINCE OF LAGUNA, TO BE KNOWN AS THE CABUYAO CITY, LAGUNA TESDA TRAINING AND ASSESSMENT CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tesda Training and Assessment Center",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-08-13"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-24"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2020"
+date = "2020-08-24"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

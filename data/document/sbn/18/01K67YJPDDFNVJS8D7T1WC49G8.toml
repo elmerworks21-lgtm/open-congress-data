@@ -1,8 +1,11 @@
 id = "01K67YJPDDFNVJS8D7T1WC49G8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00052"
+
+[meta]
 bill_number = 52
 congress = 18
-canonical = "SBN-00052"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-52", "https://web.senate.gov.ph/lisdata/3028327111!.pdf",]
 title = "WATER RESOURCES MANAGEMENT ACT"
 date_filed = "2019-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT ADDRESSING THE NATIONAL WATER CRISIS, PROVIDING FOR A COMPR
 scope = "National"
 subjects = [ "Water Resources Management", "Water Crisis",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Public Services"

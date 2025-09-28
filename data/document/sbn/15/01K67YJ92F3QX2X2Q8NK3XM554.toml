@@ -1,8 +1,11 @@
 id = "01K67YJ92F3QX2X2Q8NK3XM554"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02630"
+
+[meta]
 bill_number = 2630
 congress = 15
-canonical = "SBN-02630"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2630", "https://web.senate.gov.ph/lisdata/105589040!.pdf",]
 title = "FOREST SANCTUARIES ACT OF 2011"
 date_filed = "2010-12-20"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROVIDING FOR URBAN AND COUNTRYSIDE GREENING IN THE PHILIPP
 scope = "National"
 subjects = [ "Department of Education, Culture and Sports (DepEd)", "Forest Sanctuary", "Tree Planting",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-12-20"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-01-17"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; EDUCATION, ARTS AND CULTURE and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-01-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-05"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/17/2011"
+date = "2011-01-17"
 
 [[committees]]
 name = "Environment and Natural Resources"

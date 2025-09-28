@@ -1,8 +1,11 @@
 id = "01K67YJWBS7MQJHJSFXQ5E10QQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02099"
+
+[meta]
 bill_number = 2099
 congress = 19
-canonical = "SBN-02099"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2099", "https://web.senate.gov.ph/lisdata/4145537747!.pdf",]
 title = "ENHANCE BATAS KASAMBAHAY ACT OF 2023"
 date_filed = "2023-04-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR ADDITIONAL RIGHTS AND BENEFITS TO KASAMBAHAYS
 scope = "National"
 subjects = [ "Batas Kasambahay (R.A.No. 10361)", "Domestic Workers", "Benefits and Incentives",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-04-26"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2023"
+date = "2023-05-09"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YJWD3QSDGH5MM8GG55BBN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02157"
+
+[meta]
 bill_number = 2157
 congress = 19
-canonical = "SBN-02157"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2157", "https://web.senate.gov.ph/lisdata/4156137842!.pdf",]
 title = "LIFEGUARD ACT OF 2023"
 date_filed = "2023-05-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE EMPLOYMENT OF QUALIFIED LIFEGUARDS IN ALL PUB
 scope = "National"
 subjects = [ "Lifeguard", "Swimming Pools/Bathing Facilities",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-09"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-15"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/15/2023"
+date = "2023-05-15"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

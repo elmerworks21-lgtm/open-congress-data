@@ -1,47 +1,51 @@
 id = "01K67YM9HZAHWK8GE0QEH3VKQ1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08840"
+
+[meta]
 bill_number = 8840
 congress = 18
-canonical = "HBN-08840"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8840", "https://web.senate.gov.ph/lisdata/3471931565!.pdf",]
 title = "NAVOTAS CITY DAY"
 long_title = "AN ACT DECLARING JANUARY 16 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE CITY OF NAVOTAS IN COMMEMORATION OF ITS FOUNDATION DAY"
 scope = "Local"
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-24"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-01"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 367, recommending its approval without amendment ;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-01"
 action = "Sponsor: Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Omnibus sponsorship speech of Senator FRANCIS 'TOL' N. TOLENTINO on HBNos. 5692, 5682, 8380, 7651, 6363, 8839, 7650 and 8840;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "12/6/2021"
+date = "2021-12-06"
 
 [[committees]]
 name = "Local Government"

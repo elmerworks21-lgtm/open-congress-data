@@ -1,24 +1,28 @@
 id = "01K67YKWYMQJCHY1RV5D6HYSS4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06266"
+
+[meta]
 bill_number = 6266
 congress = 14
-canonical = "HBN-06266"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6266", "https://web.senate.gov.ph/lisdata/1353811952!.pdf",]
 title = "TREE FOR LEGACY ACT OF 2010"
 long_title = "AN ACT INSTITUTING A SELF-SUSTAINING FOREST MANAGEMENT PROGRAM, BY PROVIDING INCENTIVES TO TREE PLANTERS ON PRIVATE LANDS, FORESTLANDS AND OTHER PUBLIC LANDS AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Forest Management", "Tree Legacy",]
-[[legislative_history]]
+
+[[history]]
 date = "2010-01-28"
 action = "Filed in the Senate requesting for concurrence by Representatives JUAN EDGARDO M. ANGARA, IGGY T. ARROYO, GENARO RAFAEL K. ALVAREZ III, ANGELITO C. GATLABAYAN and EMIL L. ONG, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-01"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/1/2010"
+date = "2010-02-01"
 
 [[committees]]
 name = "Environment and Natural Resources"

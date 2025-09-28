@@ -1,8 +1,11 @@
 id = "01K67YJWH237397X31GT6WYJQG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02317"
+
+[meta]
 bill_number = 2317
 congress = 19
-canonical = "SBN-02317"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2317", "https://web.senate.gov.ph/lisdata/4211338305!.pdf",]
 title = "DIGITAL SKILLLS AND TECHNOLOGY EDUCATION ACT OF 2023"
 date_filed = "2023-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE INCLUSION OF DIGITAL SKILLS AND RELEVANT TECH
 scope = "National"
 subjects = [ "Digital Technology", "Curriculum/Curricula",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-17"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-02"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; SCIENCE AND TECHNOLOGY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2023"
+date = "2023-08-02"
 
 [[committees]]
 name = "Basic Education"

@@ -1,8 +1,11 @@
 id = "01K67YJQT0S9H61EJG240P75ME"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01999"
+
+[meta]
 bill_number = 1999
 congress = 18
-canonical = "SBN-01999"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1999", "https://web.senate.gov.ph/lisdata/3428731088!.pdf",]
 title = "VACCINE PASSPORT PROGRAM ACT"
 date_filed = "2021-01-20"
@@ -10,37 +13,38 @@ long_title = "AN ACT CREATING A VACCINE PASSPORT PROGRAM, AND PROVIDING FUNDS TH
 scope = "National"
 subjects = [ "Vaccine Passport Program",]
 authors_raw = "Cayetano, Pia S., Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-20"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-20"
 action = "Letter from RAMON BONG REVILLA JR. dated January 21, 2021, expressing his intention to be a co-author of SBN-1999, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-15"
 action = "The Committee on FINANCE was made as the primary committee and the Committee on HEALTH AND DEMOGRAPHY as the secondary committee"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-16"
 action = "Returned and submitted jointly by the Committee(s) on FINANCE, WAYS AND MEANS and HEALTH AND DEMOGRAPHY per Committee Report No. 185, recommending that it be substituted by SBN-2057;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-16"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-16"
 action = "SUBSTITUTED BY SBN-2057 UNDER COMMITTEE REPORT NO. 185, WHICH BECAME REPUBLIC ACT NO. 11525 ON FEBRUARY 26, 2021."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/16/2021"
+date = "2021-02-16"
 
 [[committees]]
 name = "Finance"

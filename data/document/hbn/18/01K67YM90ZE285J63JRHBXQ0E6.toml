@@ -1,28 +1,32 @@
 id = "01K67YM90ZE285J63JRHBXQ0E6"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05568"
+
+[meta]
 bill_number = 5568
 congress = 18
-canonical = "HBN-05568"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-5568", "https://web.senate.gov.ph/lisdata/3199928848!.pdf",]
 title = "BARANGAY GUINHALINAN, BAROBO, SURIGAO DEL SUR"
 long_title = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY GUINHALINAN IN THE MUNICIPALITY OF BAROBO, PROVINCE OF SURIGAO DEL SUR"
 scope = "Local"
 subjects = [ "Barangay, Creation",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-12-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2019"
+date = "2019-12-10"
 
 [[committees]]
 name = "Local Government"

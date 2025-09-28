@@ -1,24 +1,28 @@
 id = "01K67YKR0FYBKPZP3WZ0E9Z1SW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04683"
+
+[meta]
 bill_number = 4683
 congress = 13
-canonical = "HBN-04683"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4683", "https://web.senate.gov.ph/lisdata/44373753!.pdf",]
 title = "EASTERN BOBONGAN - SOMINOT - MIDSALIP - DUMINGAG NATIONAL ROAD (ZAMBOANGA DEL SUR)"
 long_title = "AN ACT CONVERTING THE EASTERN BOBONGAN - SOMINOT - MIDSALIP - DUMINGAG PROVINCIAL ROAD TRAVERSING THE MUNICIPALITIES OF RAMON MAGSAYSAY, SOMINOT, MIDSALIP AND DUMINGAG, PROVINCE OF ZAMBOANGA DEL SUR INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion (Zamboanga Del Sur)", "Eastern Bobongan - Sominot - Midsalip - Dumingag National Road (Zamboanga Del Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representative ISIDORO E. REAL JR. as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-17"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/18/2006"
+date = "2006-01-18"
 
 [[committees]]
 name = "Public Works"

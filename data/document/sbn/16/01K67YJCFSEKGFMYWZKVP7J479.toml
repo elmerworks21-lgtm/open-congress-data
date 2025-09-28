@@ -1,8 +1,11 @@
 id = "01K67YJCFSEKGFMYWZKVP7J479"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00316"
+
+[meta]
 bill_number = 316
 congress = 16
-canonical = "SBN-00316"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-316", "https://web.senate.gov.ph/lisdata/1614613373!.pdf",]
 title = "CREDIT CARD FRAUD ACT"
 date_filed = "2013-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING CREDIT CARD FRAUD AND PROVIDING PENALTIES THEREF
 scope = "National"
 subjects = [ "Credit Card",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-02"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

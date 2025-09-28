@@ -1,23 +1,27 @@
 id = "01K67YM9K06TKWAB2SMGBW70NQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08898"
+
+[meta]
 bill_number = 8898
 congress = 18
-canonical = "HBN-08898"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8898", "https://web.senate.gov.ph/lisdata/3472331583!.pdf",]
 title = "MUNICIPALITY OF QUEZON FOUNDATION DAY (QUEZON, PALAWAN)"
 long_title = "AN ACT DECLARING MAY 15 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE MUNICIPALITY OF QUEZON, PROVINCE OF PALAWAN TO BE KNOWN AS THE MUNICIPALITY OF QUEZON FOUNDATION DAY"
 scope = "Local"
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-24"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/24/2021"
+date = "2021-03-24"
 
 [[committees]]
 name = "Local Government"

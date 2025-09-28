@@ -1,24 +1,28 @@
 id = "01K67YKR6SNEEHY19K31G2V0FB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05225"
+
+[meta]
 bill_number = 5225
 congress = 13
-canonical = "HBN-05225"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5225", "https://web.senate.gov.ph/lisdata/51864257!.pdf",]
 title = "BIKOL HIGH SCHOOL FOR THE ARTS AND CULTURE (CAMARINES SUR)"
 long_title = "AN ACT ESTABLISHING AN ARTS AND CULTURE HIGH SCHOOL IN THE CAPITAL TOWN OF PILI, PROVINCE OF CAMARINES SUR TO BE KNOWN AS THE BIKOL HIGH SCHOOL FOR THE ARTS AND CULTURE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Camarines Sur)", "Bikol High School for the Arts and Culture (Camarines Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives LUIS R. VILLAFUERTE, EDMUNDO O. REYES, JR., JOSE CARLOS V. LACSON and ROLANDO G. ANDAYA, JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-23"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2006"
+date = "2006-05-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

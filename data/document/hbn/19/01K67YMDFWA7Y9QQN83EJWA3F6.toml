@@ -1,24 +1,28 @@
 id = "01K67YMDFWA7Y9QQN83EJWA3F6"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09347"
+
+[meta]
 bill_number = 9347
 congress = 19
-canonical = "HBN-09347"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9347", "https://web.senate.gov.ph/lisdata/4312039219!.pdf",]
 title = "MAGNA CARTA OF THE OUT-OF-SCHOOL YOUTH"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF THE OUT-OF-SCHOOL YOUTH"
 scope = "National"
 subjects = [ "Magna Carta of the Out-Of-School Youth",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-12"
 action = "Read on First Reading and Referred to the Committees on YOUTH and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/12/2023"
+date = "2023-12-12"
 
 [[committees]]
 name = "Youth"

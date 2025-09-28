@@ -1,8 +1,11 @@
 id = "01K67YK021QN6MV36JW6KX2P62"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00432"
+
+[meta]
 bill_number = 432
 congress = 20
-canonical = "SBN-00432"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-432", "https://web.senate.gov.ph/lisdata/4694542948!.pdf",]
 title = "AMENDING R.A. NO. 8550 (THE PHILIPPINE FISHERIES CODE OF 1998)"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8550, OTHERWISE KNOWN AS 'THE PHI
 scope = "National"
 subjects = [ "Philippine Fisheries Code (R.A.No. 8550)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

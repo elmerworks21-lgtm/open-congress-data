@@ -1,36 +1,40 @@
 id = "01K67YM2Y1HHWMNKJB8KMPQ824"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05050"
+
+[meta]
 bill_number = 5050
 congress = 16
-canonical = "HBN-05050"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5050", "https://web.senate.gov.ph/lisdata/2018717297!.pdf",]
 title = "ABAD SANTOS DAY (PROVINCE OF PAMPANGA)"
 long_title = "AN ACT DECLARING FEBRUARY 19 OF EVERY YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF PAMPANGA AND IN THE CITY OF ANGELES TO BE KNOWN AS 'ABAD SANTOS DAY', THEREBY AMENDING REPUBLIC ACT NO. 7552, AS AMENDED, ENTITLED, 'AN ACT DECLARING MAY SEVEN OF EVERY YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF PAMPANGA"
 scope = "Local"
 subjects = [ "Holidays (Non-Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-12-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-09"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-03"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 324, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-08"
 action = "Sponsor: Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "12/8/2015"
+date = "2015-12-08"
 
 [[committees]]
 name = "Local Government"

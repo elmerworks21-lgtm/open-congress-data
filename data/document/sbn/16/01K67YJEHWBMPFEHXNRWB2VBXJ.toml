@@ -1,8 +1,11 @@
 id = "01K67YJEHWBMPFEHXNRWB2VBXJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03142"
+
+[meta]
 bill_number = 3142
 congress = 16
-canonical = "SBN-03142"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3142", "https://web.senate.gov.ph/lisdata/2296819664!.pdf",]
 title = "MUSIC PLAYER NOISE WARNING ACT"
 date_filed = "2016-01-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING A MANUFACTURER FROM DISTRIBUTING PERSONAL AUDIO
 scope = "National"
 subjects = [ "Audio Players", "Label/Labeling",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-01-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-01"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/1/2016"
+date = "2016-02-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

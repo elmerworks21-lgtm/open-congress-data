@@ -1,8 +1,11 @@
 id = "01K67YJ1M503JJZBJ8P63G0B7S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01375"
+
+[meta]
 bill_number = 1375
 congress = 14
-canonical = "SBN-01375"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1375", "https://web.senate.gov.ph/lisdata/56765015!.pdf",]
 title = "COMPUTER PORNOGRAPHY ACT"
 date_filed = "2007-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PUNISH TRANSMISSION OF INDECENT MATERIALS BY COMPUTER TO
 scope = "National"
 subjects = [ "Pornography/Obscenity", "Computer/Internet/Cyberspace Pornography",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-26"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2007"
+date = "2007-09-11"
 
 [[committees]]
 name = "Public Information and Mass Media"

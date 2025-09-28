@@ -1,8 +1,11 @@
 id = "01K67YJWN5FNC6E78XX85S8H4N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02476"
+
+[meta]
 bill_number = 2476
 congress = 19
-canonical = "SBN-02476"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2476", "https://web.senate.gov.ph/lisdata/4297939077!.pdf",]
 title = "GOLF CADDIES WELFARE ACT"
 date_filed = "2023-11-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING AND UPHOLDING THE WELFARE OF GOLF CADDIES"
 scope = "National"
 subjects = [ "Golf Caddies",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2023-11-08"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2023"
+date = "2023-11-22"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

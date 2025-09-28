@@ -1,8 +1,11 @@
 id = "01K67YJ9HJS332CQ4AVE9WGX3R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03178"
+
+[meta]
 bill_number = 3178
 congress = 15
-canonical = "SBN-03178"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3178", "https://web.senate.gov.ph/lisdata/1318911070!.pdf",]
 title = "PHILIPPINE AMUSEMENT AND GAMING COMMISSION (PAGCOM) ACT OF 2012"
 date_filed = "2012-05-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING THE PHILIPPINE AMUSEMENT AND GAMING COMMISSION (PA
 scope = "National"
 subjects = [ "Philippine Amusement and Gaming Commission (Pagcom)", "Philippine Amusement and Gaming Corporation (Pagcor)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2012-05-07"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-09"
 action = "Read on First Reading and Referred to the Committee(s) on GAMES AND AMUSEMENT; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-06-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2012"
+date = "2012-05-09"
 
 [[committees]]
 name = "Games and Amusement"

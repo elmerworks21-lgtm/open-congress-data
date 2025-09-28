@@ -1,24 +1,28 @@
 id = "01K67YM67MVJKR9GYZ9TKS6R1S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06770"
+
+[meta]
 bill_number = 6770
 congress = 17
-canonical = "HBN-06770"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6770", "https://web.senate.gov.ph/lisdata/2849824881!.pdf",]
 title = "SERVICE INCENTIVE LEAVE OF EMPLOYEES"
 long_title = "AN ACT INCREASING THE SERVICE INCENTIVE LEAVE OF EMPLOYEES, AMENDING FOR THE PURPOSE ARTICLE 95 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Service Incentive Leave", "Employees", "Labor Code of the Philippines (P.D.No. 442)", "Leave of Absence",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-05"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2018"
+date = "2018-09-05"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

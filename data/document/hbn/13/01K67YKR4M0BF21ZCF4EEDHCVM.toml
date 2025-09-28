@@ -1,24 +1,28 @@
 id = "01K67YKR4M0BF21ZCF4EEDHCVM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05101"
+
+[meta]
 bill_number = 5101
 congress = 13
-canonical = "HBN-05101"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5101", "https://web.senate.gov.ph/lisdata/51994220!.pdf",]
 title = "KALINGA APAYAO STATE COLLEGE"
 long_title = "AN ACT SEPARATING THE TABUK NATIONAL HIGH SCHOOL IN BARANGAY POBLACION, MUNICIPALITY OF TABUK, PROVINCE OF KALINGA FROM THE KALINGA APAYAO STATE COLLEGE, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED TWO THOUSAND SEVENTEEN AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "State Colleges/Universities (SCUS)", "Kalinga Apayao State College",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives LAURENCE B. WACNANG, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-23"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2006"
+date = "2006-05-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

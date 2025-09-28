@@ -1,8 +1,11 @@
 id = "01K67YJWEKM3W6EA7FXBV4NYS2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02216"
+
+[meta]
 bill_number = 2216
 congress = 19
-canonical = "SBN-02216"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2216", "https://web.senate.gov.ph/lisdata/4171437999!.pdf",]
 title = "REDEFINING THE CRIME OF ILLEGAL RECRUITMENT"
 date_filed = "2023-05-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT REDEFINING THE CRIME OF ILLEGAL RECRUITMENT COMMITTED BY A 
 scope = "National"
 subjects = [ "Illegal Recruitment", "Labor Code of the Philippines (P.D.No. 442)", "Overseas Filipino Workers (OFWS)/ Migrant Workers",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-18"
 action = "Introduced by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Read on First Reading and Referred to the Committee on MIGRANT WORKERS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2023"
+date = "2023-05-22"
 
 [[committees]]
 name = "Migrant Workers"

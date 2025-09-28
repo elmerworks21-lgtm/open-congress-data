@@ -1,8 +1,11 @@
 id = "01K67YJ7N3RTM6DZSDWQ8T56VV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00674"
+
+[meta]
 bill_number = 674
 congress = 15
-canonical = "SBN-00674"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-674", "https://web.senate.gov.ph/lisdata/81856680!.pdf",]
 title = "COMPREHENSIVE DANGEROUS DRUGS ACT"
 date_filed = "2010-07-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT 9165 OTHERWISE 
 scope = "National"
 subjects = [ "Comprehensive Dangerous Drugs Act of 2002, Amendments",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-07"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-10"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-01-26"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Returned and submitted by the Committee on PUBLIC ORDER AND DANGEROUS DRUGS per Committee Report No. 753, recommending that it be substituted by SBN-3403;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "SUBSTITUTED BY SBN-3403 under Committee Report No. 753."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/6/2013"
+date = "2013-02-06"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

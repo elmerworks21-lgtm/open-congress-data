@@ -1,8 +1,11 @@
 id = "01K67YJPE2ZQQPEAYTF87KKRR0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00080"
+
+[meta]
 bill_number = 80
 congress = 18
-canonical = "SBN-00080"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-80", "https://web.senate.gov.ph/lisdata/3031027137!.pdf",]
 title = "ON-SITE, IN-CITY OR NEAR-CITY RESETTLEMENT ACT"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AN ON-SITE, IN-CITY OR NEAR-CITY RESETTLEMENT 
 scope = "National"
 subjects = [ "On-Site, In-City or Near-City Resettlement", "Resettlement Program", "Informal Settlers/Squatters/Squatting", "Urban Development and Housing Act (R.A.No. 7279)",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

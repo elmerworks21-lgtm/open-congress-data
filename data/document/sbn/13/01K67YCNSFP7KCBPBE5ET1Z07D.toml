@@ -1,8 +1,11 @@
 id = "01K67YCNSFP7KCBPBE5ET1Z07D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00763"
+
+[meta]
 bill_number = 763
 congress = 13
-canonical = "SBN-00763"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-763", "https://web.senate.gov.ph/lisdata/19531373!.pdf",]
 title = "MAGNA CARTA OF GOVERNMENT ACCOUNTANTS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF GOVERNMENT ACCOUNTANTS"
 scope = "National"
 subjects = [ "Magna Carta of Government Accountants",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

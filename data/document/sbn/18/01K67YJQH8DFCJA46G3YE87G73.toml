@@ -1,8 +1,11 @@
 id = "01K67YJQH8DFCJA46G3YE87G73"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01633"
+
+[meta]
 bill_number = 1633
 congress = 18
-canonical = "SBN-01633"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1633", "https://web.senate.gov.ph/lisdata/3308329909!.pdf",]
 title = "SOCIAL MODERNIZATION, CONNECTIVITY AND INNOVATION ACT OF 2020"
 date_filed = "2020-06-24"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE AND SUSTAINABLE MODERNIZATION
 scope = "National"
 subjects = [ "School Modernization", "Elementary Education/Primary Education", "Secondary Education", "Pandemic", "Covid-19",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2020-06-24"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2020"
+date = "2020-08-03"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

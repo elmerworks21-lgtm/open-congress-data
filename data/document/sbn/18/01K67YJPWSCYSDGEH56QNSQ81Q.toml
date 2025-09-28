@@ -1,8 +1,11 @@
 id = "01K67YJPWSCYSDGEH56QNSQ81Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00751"
+
+[meta]
 bill_number = 751
 congress = 18
-canonical = "SBN-00751"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-751", "https://web.senate.gov.ph/lisdata/3110328001!.pdf",]
 title = "MEDICAL SCHOLARSHIP AND RETURN SERVICE FOR PRIMARY CARE ACT OF 2019"
 date_filed = "2019-07-24"
@@ -10,29 +13,30 @@ long_title = "AN ACT CREATING MEDICAL SCHOLARSHIP AND RETURN SERVICE PROGRAM FOR
 scope = "National"
 subjects = [ "Medical Scholarship", "Primary Care Provider",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-12"
 action = "Transferred to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION as primary committee and the Committee on HEALTH AND DEMOGRAPHY as secondary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-12"
 action = "Motion of Senator Zubiri that SBNos. 41, 751 and 1487 be considered in Committee Report No. 86;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-12"
 action = "CONSIDERED IN SBN-1520 UNDER COMMITTEE REPORT NO. 86."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/12/2020"
+date = "2020-05-12"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

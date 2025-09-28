@@ -1,8 +1,11 @@
 id = "01K67YJVED6SMV0W8MS4FANMP4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00841"
+
+[meta]
 bill_number = 841
 congress = 19
-canonical = "SBN-00841"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-841", "https://web.senate.gov.ph/lisdata/3865035104!.pdf",]
 title = "WALING-WALING ORCHIDS AS THE SECOND NATIONAL FLOWER OF THE PHILIPPINES"
 date_filed = "2022-07-25"
@@ -10,21 +13,22 @@ long_title = "AN ACT DECLARING THE WALING-WALING ORCHIDS AS THE SECOND NATIONAL 
 scope = "National"
 subjects = [ "Waling-Waling Orchid",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on CULTURE AND THE ARTS and ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Culture and the Arts"

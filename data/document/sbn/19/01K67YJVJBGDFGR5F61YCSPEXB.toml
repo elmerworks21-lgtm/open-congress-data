@@ -1,8 +1,11 @@
 id = "01K67YJVJBGDFGR5F61YCSPEXB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01007"
+
+[meta]
 bill_number = 1007
 congress = 19
-canonical = "SBN-01007"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1007", "https://web.senate.gov.ph/lisdata/3895735407!.pdf",]
 title = "AMENDING CERTAIN PROVISIONS OF R.A. NO. 6847 (PHILIPPINE SPORTS COMMISSION ACT)"
 date_filed = "2022-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 6847, OTHER
 scope = "National"
 subjects = [ "Philippine Sports Commission (PSC)",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-03"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-05"
 action = "Read on First Reading and Referred to the Committees on SPORTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2022"
+date = "2022-09-05"
 
 [[committees]]
 name = "Sports"

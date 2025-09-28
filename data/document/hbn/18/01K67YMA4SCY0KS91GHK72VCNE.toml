@@ -1,24 +1,28 @@
 id = "01K67YMA4SCY0KS91GHK72VCNE"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10502"
+
+[meta]
 bill_number = 10502
 congress = 18
-canonical = "HBN-10502"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10502", "https://web.senate.gov.ph/lisdata/3676533150!.pdf",]
 title = "PRESIDENT RAMON MAGSAYSAY STATE UNIVERSITY-COLLEGE OF MEDICINE"
 long_title = "AN ACT ESTABLISHING A COLLEGE OF MEDICINE IN THE PRESIDENT RAMON MAGSAYSAY STATE UNIVERSITY-MAIN CAMPUS LOCATED IN THE MUNICIPALITY OF IBA, PROVINCE OF ZAMBALES, TO BE KNOWN AS THE ‘PRESIDENT RAMON MAGSAYSAY STATE UNIVERSITY-COLLEGE OF MEDICINE’, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "State Colleges and Universities (SCUS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2021"
+date = "2021-12-06"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

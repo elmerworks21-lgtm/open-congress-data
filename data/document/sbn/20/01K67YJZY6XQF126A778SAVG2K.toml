@@ -1,8 +1,11 @@
 id = "01K67YJZY6XQF126A778SAVG2K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00227"
+
+[meta]
 bill_number = 227
 congress = 20
-canonical = "SBN-00227"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-227", "https://web.senate.gov.ph/lisdata/4670442709!.pdf",]
 title = "CONFIDENTIAL AND INTELLIGENCE FUNDS (CIF) UTILIZATION AND ACCOUNTABILITY ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE ALLOCATION AND UTILIZATION OF CONFIDENTIAL A
 scope = "National"
 subjects = [ "Confidential and Intelligence Funds (CIF)",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator FRANCIS 'KIKO' PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Finance"

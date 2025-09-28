@@ -1,8 +1,11 @@
 id = "01K67YJD6GFM7RFYSTMV7NK19K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01419"
+
+[meta]
 bill_number = 1419
 congress = 16
-canonical = "SBN-01419"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1419", "https://web.senate.gov.ph/lisdata/1751514751!.pdf",]
 title = "ENVIRONMENTAL CLEARANCE CERTIFICATE"
 date_filed = "2013-08-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE PENALTIES IMPOSED AGAINST FAILURE TO SECURE 
 scope = "National"
 subjects = [ "Ancestral Domain", "Environmental Compliance Certificate (ECC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-29"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and CULTURAL COMMUNITIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2013"
+date = "2013-09-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

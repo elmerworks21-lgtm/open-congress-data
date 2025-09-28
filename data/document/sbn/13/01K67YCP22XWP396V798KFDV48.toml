@@ -1,8 +1,11 @@
 id = "01K67YCP22XWP396V798KFDV48"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01227"
+
+[meta]
 bill_number = 1227
 congress = 13
-canonical = "SBN-01227"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1227", "https://web.senate.gov.ph/lisdata/24401806!.pdf",]
 title = "HEALTH MAINTENANCE ORGANIZATIONS (HMOS ) ACT OF 2004"
 date_filed = "2004-07-01"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING AFFORDABLE HEALTH CARE SERVICES, THROUGH THE HEAL
 scope = "National"
 subjects = [ "Health Maintenance Organizations (HMOS)", "Health Care Services",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Health and Demography"

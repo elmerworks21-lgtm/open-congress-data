@@ -1,8 +1,11 @@
 id = "01K67YJPZ0JNAKB4F2K4QA5KJW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00855"
+
+[meta]
 bill_number = 855
 congress = 18
-canonical = "SBN-00855"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-855", "https://web.senate.gov.ph/lisdata/3122828126!.pdf",]
 title = "INTEGRATING PERSONS WITH AUTISM AND OTHER DEVELOPMENTAL DISABILITIES (IPADD) ACT OF 2019"
 date_filed = "2019-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A NATIONAL COMPREHENSIVE PROGRAM FOR THE PREVEN
 scope = "National"
 subjects = [ "Autism", "Developmental Disabilities",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-05"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2019"
+date = "2019-08-19"
 
 [[committees]]
 name = "Health and Demography"

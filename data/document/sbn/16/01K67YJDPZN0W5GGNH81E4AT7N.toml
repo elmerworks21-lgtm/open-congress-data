@@ -1,8 +1,11 @@
 id = "01K67YJDPZN0W5GGNH81E4AT7N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02205"
+
+[meta]
 bill_number = 2205
 congress = 16
-canonical = "SBN-02205"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2205", "https://web.senate.gov.ph/lisdata/1903516156!.pdf",]
 title = "ALIEN SOCIAL INTEGRATION ACT OF 2014"
 date_filed = "2014-05-06"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING LEGAL RESIDENCE STATUS TO CERTAIN ALIENS THROUGH A
 scope = "National"
 subjects = [ "Alien Social Integration",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2014-05-06"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-07"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-04-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/7/2014"
+date = "2014-05-07"
 
 [[committees]]
 name = "Justice and Human Rights"

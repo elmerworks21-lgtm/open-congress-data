@@ -1,24 +1,28 @@
 id = "01K67YMA43AWS1Y6057Q8M48W8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10349"
+
+[meta]
 bill_number = 10349
 congress = 18
-canonical = "HBN-10349"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10349", "https://web.senate.gov.ph/lisdata/3668733060!.pdf",]
 title = "CAPE BOJEADOR LIGHTHOUSE (BURGOS, ILOCOS NORTE), A TOURISM DESTINATION"
 long_title = "AN ACT DECLARING THE CAPE BOJEADOR LIGHTHOUSE LOCATED IN THE MUNICIPALITY OF BURGOS, PROVINCE OF ILOCOS NORTE, A TOURISM DESTINATION, PROVIDING FOR ITS DEVELOPMENT, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Spot", "Tourism",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-11-23"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-24"
 action = "Read on First Reading and Referred to the Committees on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/24/2021"
+date = "2021-11-24"
 
 [[committees]]
 name = "Tourism"

@@ -1,8 +1,11 @@
 id = "01K67YJV1NS864PVYCY8KQ7WKR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00253"
+
+[meta]
 bill_number = 253
 congress = 19
-canonical = "SBN-00253"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-253", "https://web.senate.gov.ph/lisdata/3798234426!.pdf",]
 title = "PHILIPPINE HEALTH MASTER PLAN"
 date_filed = "2022-07-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A HEALTH MASTER PLAN TOWARDS THE INSTITUTION 
 scope = "National"
 subjects = [ "Philippine Health Master Plan", "Health Care Delivery System",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Health and Demography"

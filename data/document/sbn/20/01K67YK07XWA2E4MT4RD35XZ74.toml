@@ -1,8 +1,11 @@
 id = "01K67YK07XWA2E4MT4RD35XZ74"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00747"
+
+[meta]
 bill_number = 747
 congress = 20
-canonical = "SBN-00747"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-747", "https://web.senate.gov.ph/lisdata/4728543284!.pdf",]
 title = "THE PHILIPPINE NURSING PRACTICE ACT"
 date_filed = "2025-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE NURSING LAW TOWARDS A QUALITY
 scope = "National"
 subjects = [ "Health Care Delivery System", "Nurses/Nursing", "Philippine Nursing Act",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-29"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

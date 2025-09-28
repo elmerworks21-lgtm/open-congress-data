@@ -1,8 +1,11 @@
 id = "01K67YJD4KCFAW419KJW0TDADG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01326"
+
+[meta]
 bill_number = 1326
 congress = 16
-canonical = "SBN-01326"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1326", "https://web.senate.gov.ph/lisdata/1742114655!.pdf",]
 title = "NUTRITIONAL CONTENT INFORMATION IN MENU BOARDS ACT"
 date_filed = "2013-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE POSTING OF NUTRITIONAL CONTENT INFORMATION IN
 scope = "National"
 subjects = [ "Nutrition", "Food Establishments",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2013"
+date = "2013-09-03"
 
 [[committees]]
 name = "Health and Demography"

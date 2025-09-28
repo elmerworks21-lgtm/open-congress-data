@@ -1,8 +1,11 @@
 id = "01K67YJX07K37252VBX9QNR8MN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02869"
+
+[meta]
 bill_number = 2869
 congress = 19
-canonical = "SBN-02869"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2869", "https://web.senate.gov.ph/lisdata/4521041098!.pdf",]
 title = "AMENDING R.A.. NO. 8371 (INDIGENOUS PEOPLES RIGHTS ACT OF 1997)"
 date_filed = "2024-11-05"
@@ -10,45 +13,46 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8371 OTHERWISE KNOWN AS THE INDIG
 scope = "National"
 subjects = [ "Indigenous Peoples Right Act (IPRA)",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2024-11-05"
 action = "Introduced by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-12"
 action = "Read on First Reading and Referred to the Committee on CULTURAL COMMUNITIES AND MUSLIM AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-12"
 action = "Read on First Reading and Referred to the Committee on CULTURAL COMMUNITIES AND MUSLIM AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Returned and submitted by the Committee on CULTURAL COMMUNITIES AND MUSLIM AFFAIRS per Committee Report No. 474, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-27"
 action = "Sponsor: Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-28"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-28"
 action = "Sponsorship speech of Senator ROBINHOOD C. PADILLA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "1/28/2025"
+date = "2025-01-28"
 
 [[committees]]
 name = "Cultural Communities and Muslim Affairs"

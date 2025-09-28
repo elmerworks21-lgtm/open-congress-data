@@ -1,24 +1,28 @@
 id = "01K67YM9HQYEJV1E6YR70HQ1MV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08759"
+
+[meta]
 bill_number = 8759
 congress = 18
-canonical = "HBN-08759"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8759", "https://web.senate.gov.ph/lisdata/3462231433!.pdf",]
 title = "LIMAY GENERAL HOSPITAL"
 long_title = "AN ACT ESTABLISHING IN THE MUNICIPALITY OF LIMAY, PROVINCE OF BATAAN, A GENERAL HOSPITAL TO BE KNOWN AS THE LIMAY GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/8/2021"
+date = "2021-03-08"
 
 [[committees]]
 name = "Health and Demography"

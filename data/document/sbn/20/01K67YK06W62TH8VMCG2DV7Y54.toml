@@ -1,8 +1,11 @@
 id = "01K67YK06W62TH8VMCG2DV7Y54"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00692"
+
+[meta]
 bill_number = 692
 congress = 20
-canonical = "SBN-00692"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-692", "https://web.senate.gov.ph/lisdata/4732743326!.pdf",]
 title = "AMENDING REPUBLIC ACT NO. 8047 (BOOK PUBLISHING INDUSTRY DEVELOPMENT ACT)"
 date_filed = "2025-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8047, OTHERWISE KNOWN AS THE BOOK
 scope = "National"
 subjects = [ "Book Publishing", "Books (E-Book)", "Digital Copy",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-17"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and SCIENCE AND TECHNOLOGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Basic Education"

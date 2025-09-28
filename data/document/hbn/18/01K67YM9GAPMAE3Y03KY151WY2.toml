@@ -1,24 +1,28 @@
 id = "01K67YM9GAPMAE3Y03KY151WY2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08377"
+
+[meta]
 bill_number = 8377
 congress = 18
-canonical = "HBN-08377"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8377", "https://web.senate.gov.ph/lisdata/3444231253!.pdf",]
 title = "MANAOAG AS TOURISM DESTINATION (PANGASINAN)"
 long_title = "AN ACT DECLARING THE MUNICIPALITY OF MANAOAG IN THE PROVINCE OF PANGASINAN A TOURISM DESTINATION, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-08"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/8/2021"
+date = "2021-02-08"
 
 [[committees]]
 name = "Tourism"

@@ -1,8 +1,11 @@
 id = "01K67YK0A5MQWX4S1RH7WAWP1B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00866"
+
+[meta]
 bill_number = 866
 congress = 20
-canonical = "SBN-00866"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-866", "https://web.senate.gov.ph/lisdata/4743543439!.pdf",]
 title = "PHILIPPINE CENTERS FOR DISEASE PREVENTION AND CONTROL (CDC) ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE CENTERS FOR DISEASE PREVENTION AND 
 scope = "National"
 subjects = [ "Philippine Centers for Disease Prevention and Control (CDC)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Health and Demography"

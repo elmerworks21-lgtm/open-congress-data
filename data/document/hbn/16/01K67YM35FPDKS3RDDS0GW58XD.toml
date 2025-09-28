@@ -1,24 +1,28 @@
 id = "01K67YM35FPDKS3RDDS0GW58XD"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05910"
+
+[meta]
 bill_number = 5910
 congress = 16
-canonical = "HBN-05910"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5910", "https://web.senate.gov.ph/lisdata/2208818804!.pdf",]
 title = "SEAPORT (BARANGAY MABINI, HIGATANGAN ISLAND, PROVINCE OF BILIRAN)"
 long_title = "AN ACT AUTHORIZING THE CONSTRUCTION OF A SEAPORT IN BARANGAY MABINI, HIGATANGAN ISLAND, MUNICIPALITY OF NAVAL, PROVINCE OF BILIRAN AND PROVIDING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Seaport",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-08-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2015"
+date = "2015-09-01"
 
 [[committees]]
 name = "Public Works"

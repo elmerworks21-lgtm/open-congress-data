@@ -1,8 +1,11 @@
 id = "01K67YJV25P0DAN2ED26HKN0G2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00278"
+
+[meta]
 bill_number = 278
 congress = 19
-canonical = "SBN-00278"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-278", "https://web.senate.gov.ph/lisdata/3793634379!.pdf",]
 title = "RESETTLEMENT, AID AND REHABILITATION SERVICES FOR THE INFORMAL SETTLERS"
 date_filed = "2022-07-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE RESETTLEMENT, AID AND REHABILITATION SERV
 scope = "National"
 subjects = [ "Informal Settlers/Squatters/Squatting", "Resettlement Program", "Rehabilitation/Rehabilitation Fund",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-28"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

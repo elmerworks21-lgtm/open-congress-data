@@ -1,8 +1,11 @@
 id = "01K67YJWCQVMD38591FG5TZKX5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02140"
+
+[meta]
 bill_number = 2140
 congress = 19
-canonical = "SBN-02140"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2140", "https://web.senate.gov.ph/lisdata/4153037817!.pdf",]
 title = "ESTABLISHING THE STANDARDS FOR A LIVING WAGE, AMENDING PD NO. 442 (LABOR CODE OF THE PHILIPPINES)"
 date_filed = "2023-05-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE STANDARDS FOR A LIVING WAGE, AMENDING FOR 
 scope = "National"
 subjects = [ "Wage", "Presidential Decree (P.D.No. 442)", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-08"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-15"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/15/2023"
+date = "2023-05-15"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

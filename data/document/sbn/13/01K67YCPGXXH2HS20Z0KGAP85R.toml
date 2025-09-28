@@ -1,8 +1,11 @@
 id = "01K67YCPGXXH2HS20Z0KGAP85R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01999"
+
+[meta]
 bill_number = 1999
 congress = 13
-canonical = "SBN-01999"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1999", "https://web.senate.gov.ph/lisdata/34252704!.pdf",]
 title = "NO-BIDDING SALE (HOUSING)"
 date_filed = "2005-05-11"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROVIDING FOR THE NO-BIDDING SALE OF GOVERNMENT OWNED PROPE
 scope = "National"
 subjects = [ "Socialized Housing Projects",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2005-05-11"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-05-16"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-09-07"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-21"
 action = "Returned and submitted by the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT per Committee Report No. 161, recommending that it be substituted by SBN-2518;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-22"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-22"
 action = "SUBSTITUTED BY SBN-2518, WHICH BECAME R.A.NO. 9397."
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-08"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/22/2006"
+date = "2006-11-22"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

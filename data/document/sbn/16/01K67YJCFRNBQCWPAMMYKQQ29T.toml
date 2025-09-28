@@ -1,8 +1,11 @@
 id = "01K67YJCFRNBQCWPAMMYKQQ29T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00315"
+
+[meta]
 bill_number = 315
 congress = 16
-canonical = "SBN-00315"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-315", "https://web.senate.gov.ph/lisdata/1614413478!.pdf",]
 title = "CREDIT CARD HOLDERS PROTECTION"
 date_filed = "2013-07-02"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING PROTECTION TO CREDIT CARD HOLDERS BY SETTING A CE
 scope = "National"
 subjects = [ "Credit Card",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-02"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-25"
 action = "Returned and submitted by the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES per Committee Report No. 383, recommending that it be considered in HBN-5417;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-26"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-26"
 action = "CONSIDERED IN HBN-5417 UNDER C.R. NO. 383."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/26/2016"
+date = "2016-01-26"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

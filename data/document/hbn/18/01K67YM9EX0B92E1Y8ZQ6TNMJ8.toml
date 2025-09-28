@@ -1,40 +1,44 @@
 id = "01K67YM9EX0B92E1Y8ZQ6TNMJ8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08196"
+
+[meta]
 bill_number = 8196
 congress = 18
-canonical = "HBN-08196"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8196", "https://web.senate.gov.ph/lisdata/3433331143!.pdf",]
 title = "SAMAR PROVINCIAL HOSPITAL"
 long_title = "AN ACT INCREASING THE BED CAPACITY OF THE SAMAR PROVINCIAL HOSPITAL IN THE CITY OF CATBALOGAN, PROVINCE OF SAMAR, FROM ONE HUNDRED (100) TO TWO HUNDRED TWENTY (220) BEDS, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-25"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-26"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 640, recommending its approval without amendment, taking into consideration SBN-1780;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Sponsor: Senator CHRISTOPHER LAWRENCE T. GO;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YCNWM742XRQPN5051YPPP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00942"
+
+[meta]
 bill_number = 942
 congress = 13
-canonical = "SBN-00942"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-942", "https://web.senate.gov.ph/lisdata/21441671!.pdf",]
 title = "INSTITUTE FOR STRATEGIC STUDIES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AND ESTABLISHING THE INSTITUTE FOR STRATEGIC STUDI
 scope = "National"
 subjects = [ "Institute for Strategic Studies (ISS)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-31"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2004"
+date = "2004-08-31"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

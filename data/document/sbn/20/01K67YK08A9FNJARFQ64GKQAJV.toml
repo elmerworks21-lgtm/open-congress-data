@@ -1,8 +1,11 @@
 id = "01K67YK08A9FNJARFQ64GKQAJV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00769"
+
+[meta]
 bill_number = 769
 congress = 20
-canonical = "SBN-00769"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-769", "https://web.senate.gov.ph/lisdata/4730743306!.pdf",]
 title = "METRO MANILA DRAINAGE MASTER PLAN ACT"
 date_filed = "2025-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE METRO MANILA DRAINAGE MASTER PLAN, A
 scope = "National"
 subjects = [ "Metro Manila Drainage Master Plan",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-29"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS; SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Public Works"

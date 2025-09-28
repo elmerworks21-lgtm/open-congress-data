@@ -1,8 +1,11 @@
 id = "01K67YCNR13DFN8SX16CFJAN0Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00682"
+
+[meta]
 bill_number = 682
 congress = 13
-canonical = "SBN-00682"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-682", "https://web.senate.gov.ph/lisdata/18681243!.pdf",]
 title = "INCREASE PENALTY FOR CUSTODIAL INFIDELITY OF PRISONERS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLES 223 AND 224 OF THE REVISED PENAL CODE PRE
 scope = "National"
 subjects = [ "Prisoner Escape/Evasion", "Custodial Infidelity", "Revised Penal Code (Art. 223/224)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

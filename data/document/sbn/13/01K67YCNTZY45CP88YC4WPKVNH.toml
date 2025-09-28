@@ -1,8 +1,11 @@
 id = "01K67YCNTZY45CP88YC4WPKVNH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00850"
+
+[meta]
 bill_number = 850
 congress = 13
-canonical = "SBN-00850"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-850", "https://web.senate.gov.ph/lisdata/20481535!.pdf",]
 title = "BARANGAY TANOD BRIGADES BENEFITS AND INCENTIVES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING THE BENEFITS AND INCENTIVES OF BARANGAY TANOD BRI
 scope = "National"
 subjects = [ "Barangay Tanod Brigades Benefits",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Local Government"

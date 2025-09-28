@@ -1,40 +1,44 @@
 id = "01K67YM9Q2JRG5YV03AEY7KMSZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09393"
+
+[meta]
 bill_number = 9393
 congress = 18
-canonical = "HBN-09393"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9393", "https://web.senate.gov.ph/lisdata/3525432112!.pdf",]
 title = "DISTRICT ENGINEERING OFFICE (SAMAL, SECOND LEGISLATIVE DISTRICT, DAVAO DEL NORTE)"
 long_title = "AN ACT CREATING A DISTRICT ENGINEERING OFFICE IN THE ISLAND GARDEN CITY OF SAMAL, SECOND LEGISLATIVE DISTRICT OF THE PROVINCE OF DAVAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Engineering District Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-27"
 action = "Returned and submitted jointly by the Committees on PUBLIC WORKS and FINANCE per Committee Report No. 570, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Sponsor: Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "1/31/2022"
+date = "2022-01-31"
 
 [[committees]]
 name = "Public Works"

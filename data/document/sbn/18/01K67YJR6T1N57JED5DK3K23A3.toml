@@ -1,8 +1,11 @@
 id = "01K67YJR6T1N57JED5DK3K23A3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02375"
+
+[meta]
 bill_number = 2375
 congress = 18
-canonical = "SBN-02375"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2375", "https://web.senate.gov.ph/lisdata/3606032477!.pdf",]
 title = "MAGNA CARTA FOR NON-UNIFORMED PERSONNEL"
 date_filed = "2021-08-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING THE MAGNA CARTA FOR NON-UNIFORMED PERSONNEL IN 
 scope = "National"
 subjects = [ "Non-Uniformed Personnel",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2021-08-31"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2021"
+date = "2021-09-01"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

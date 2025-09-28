@@ -1,8 +1,11 @@
 id = "01K67YJHZ0AF87SPJK1YXTY825"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01175"
+
+[meta]
 bill_number = 1175
 congress = 17
-canonical = "SBN-01175"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1175", "https://web.senate.gov.ph/lisdata/2495521459!.pdf",]
 title = "FREE COLLEGE INFORMATION AND COMMUNICATIONS TECHNOLOGY ACT"
 date_filed = "2016-09-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AND PROVIDING FOR FREE COLLEGE EDUCATION IN IN
 scope = "National"
 subjects = [ "Information and Communications Technology (ICT)", "State Colleges and Universities (SCUS)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-09-29"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-04"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/4/2016"
+date = "2016-10-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

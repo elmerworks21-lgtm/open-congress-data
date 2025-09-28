@@ -1,8 +1,11 @@
 id = "01K67YJTYJ06WN02GM9KCM34AA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00116"
+
+[meta]
 bill_number = 116
 congress = 19
-canonical = "SBN-00116"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-116", "https://web.senate.gov.ph/lisdata/3782434265!.pdf",]
 title = "TRANS FAT FREE PHILIPPINES ACT"
 date_filed = "2022-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO PROTECT FILIPINOS FROM THE HARMFUL EFFECTS OF TRANS-FATT
 scope = "National"
 subjects = [ "Trans-Fatty Acids", "Food Safety",]
 authors_raw = "Binay, Maria Lourdes Nancy S., Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP; HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-12"
 action = "Letter from Senator RISA HONTIVEROS, conveying her intention to be a co-author of SBN-116, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

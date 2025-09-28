@@ -1,8 +1,11 @@
 id = "01K67YJ0QQ6Y5SC7JKEK7VGC2M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00020"
+
+[meta]
 bill_number = 20
 congress = 14
-canonical = "SBN-00020"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-20", "https://web.senate.gov.ph/lisdata/41903460!.pdf",]
 title = "HEALTH MAINTENANCE ORGANIZATIONS (HMOS) ACT"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING AFFORDABLE HEALTH CARE SERVICES, THROUGH THE HEAL
 scope = "National"
 subjects = [ "Health Maintenance Organizations (HMOS)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2007"
+date = "2007-07-24"
 
 [[committees]]
 name = "Health and Demography"

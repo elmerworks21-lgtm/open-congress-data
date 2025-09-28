@@ -1,24 +1,28 @@
 id = "01K67YKRAYR36E9ZPP2Z1C99P5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05649"
+
+[meta]
 bill_number = 5649
 congress = 13
-canonical = "HBN-05649"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5649", "https://web.senate.gov.ph/lisdata/62945238!.pdf",]
 title = "MARAYAG NATIONAL HIGH SCHOOL (DAVAO ORIENTAL)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY MARAYAG, MUNICIPALITY OF LUPON, PROVINCE OF DAVAO ORIENTAL TO BE KNOWN AS THE MARAYAG NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Davao Oriental)", "Marayag National High School (Davao Oriental)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-30"
 action = "Filed in the Senate requesting for concurrence by Representatives MAYO Z. ALMARIO, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-08"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/8/2006"
+date = "2006-11-08"
 
 [[committees]]
 name = "Education, Arts and Culture"

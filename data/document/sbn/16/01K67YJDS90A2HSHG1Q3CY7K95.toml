@@ -1,8 +1,11 @@
 id = "01K67YJDS90A2HSHG1Q3CY7K95"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02288"
+
+[meta]
 bill_number = 2288
 congress = 16
-canonical = "SBN-02288"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2288", "https://web.senate.gov.ph/lisdata/1949116606!.pdf",]
 title = "AMENDING SEC. 74, RA 7160 (LIMITATIONS ON RECALL)"
 date_filed = "2014-06-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 74 OF REPUBLIC ACT NO. 7160, ALSO KNOWN AS
 scope = "National"
 subjects = [ "Local Government Code (R.A.No. 7160)", "Government Official/Public Official",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-06-19"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2014"
+date = "2014-07-30"
 
 [[committees]]
 name = "Local Government"

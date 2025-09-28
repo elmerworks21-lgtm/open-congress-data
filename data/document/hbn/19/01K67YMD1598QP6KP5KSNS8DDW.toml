@@ -1,28 +1,32 @@
 id = "01K67YMD1598QP6KP5KSNS8DDW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06413"
+
+[meta]
 bill_number = 6413
 congress = 19
-canonical = "HBN-06413"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6413", "https://web.senate.gov.ph/lisdata/4045436861!.pdf",]
 title = "AMENDING THE CHARTER OF THE CITY OF LAPU-LAPU"
 long_title = "AN ACT AMENDING THE NAME OF THE CITY OF LAPU-LAPU TO THE CITY OF LAPULAPU, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 3134, OTHERWISE KNOWN AS THE CHARTER OF THE CITY OF LAPU-LAPU"
 scope = "Local"
 subjects = [ "City Charter, Revision", "Amendments",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-24"
 action = "Introduced by Representative MA. CYNTHIA K. CHAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/7/2023"
+date = "2023-02-07"
 
 [[committees]]
 name = "Local Government"

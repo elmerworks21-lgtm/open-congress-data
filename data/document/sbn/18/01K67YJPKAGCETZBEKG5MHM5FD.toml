@@ -1,8 +1,11 @@
 id = "01K67YJPKAGCETZBEKG5MHM5FD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00313"
+
+[meta]
 bill_number = 313
 congress = 18
-canonical = "SBN-00313"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-313", "https://web.senate.gov.ph/lisdata/3059527454!.pdf",]
 title = "ESTABLISHING THE FISCAL REGIME FOR THE MINING INDUSTRY"
 date_filed = "2019-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE FISCAL REGIME FOR THE MINING INDUSTRY"
 scope = "National"
 subjects = [ "Taxes/Taxation", "Mineral Resources",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-10"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Ways and Means"

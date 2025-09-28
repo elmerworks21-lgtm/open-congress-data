@@ -1,8 +1,11 @@
 id = "01K67YJVCRB0BH16SAZF10CZ6X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00768"
+
+[meta]
 bill_number = 768
 congress = 19
-canonical = "SBN-00768"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-768", "https://web.senate.gov.ph/lisdata/3855835012!.pdf",]
 title = "AMENDING SECS. 3 AND 4 OF P.D. NO. 1631 (CREATING THE LUNGSOD NG KABATAAN)"
 date_filed = "2022-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTIONS 3 AND 4 OF PRESIDENTIAL DECREE NO. 1631, 
 scope = "National"
 subjects = [ "Lungsod Ng Kabataan",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-19"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Health and Demography"

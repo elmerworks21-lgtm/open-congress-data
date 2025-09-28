@@ -1,8 +1,11 @@
 id = "01K67YCNX4PX65VBVCAAG8F3JK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00972"
+
+[meta]
 bill_number = 972
 congress = 13
-canonical = "SBN-00972"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-972", "https://web.senate.gov.ph/lisdata/21761703!.pdf",]
 title = "RAPE VICTIM ASSISTANCE AND PROTECTION ACT, AMENDMENTS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8505, OTHERWISE KNOWN AS THE RAPE
 scope = "National"
 subjects = [ "Rape Victim Assistance", "RA 8505",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

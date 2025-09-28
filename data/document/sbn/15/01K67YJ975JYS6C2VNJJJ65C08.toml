@@ -1,8 +1,11 @@
 id = "01K67YJ975JYS6C2VNJJJ65C08"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02829"
+
+[meta]
 bill_number = 2829
 congress = 15
-canonical = "SBN-02829"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2829", "https://web.senate.gov.ph/lisdata/112669577!.pdf",]
 title = "INFANT EYE PREVENTIVE HEALTH CARE ACT OF 2011"
 date_filed = "2011-05-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MANDATORY INCLUSION OF OCULAR PROPHYLAXIS
 scope = "National"
 subjects = [ "Newborn Screening",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-17"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2011"
+date = "2011-05-18"
 
 [[committees]]
 name = "Health and Demography"

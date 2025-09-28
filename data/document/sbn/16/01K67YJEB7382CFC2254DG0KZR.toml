@@ -1,8 +1,11 @@
 id = "01K67YJEB7382CFC2254DG0KZR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02852"
+
+[meta]
 bill_number = 2852
 congress = 16
-canonical = "SBN-02852"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2852", "https://web.senate.gov.ph/lisdata/2181618535!.pdf",]
 title = "ON-SITE, IN-CITY OR NEAR-CITY RESETTLEMENT ACT"
 date_filed = "2015-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AN ON-SITE, IN-CITY OR NEAR-CITY RESETTLEMENT 
 scope = "National"
 subjects = [ "Urban Development and Housing Act", "Local Government Units (LGUS)", "Squatters/Squatting",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2015-07-01"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2015"
+date = "2015-07-29"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

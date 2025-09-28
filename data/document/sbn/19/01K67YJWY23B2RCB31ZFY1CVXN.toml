@@ -1,8 +1,11 @@
 id = "01K67YJWY23B2RCB31ZFY1CVXN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02800"
+
+[meta]
 bill_number = 2800
 congress = 19
-canonical = "SBN-02800"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2800", "https://web.senate.gov.ph/lisdata/4469540682!.pdf",]
 title = "FIXING THE TERM OF OFFICE OF BARANGAY OFFICIALS"
 date_filed = "2024-08-21"
@@ -10,37 +13,38 @@ long_title = "AN ACT FIXING THE TERM OF OFFICE OF BARANGAY OFFICIALS AND FOR OTH
 scope = "National"
 subjects = [ "Barangay Officials",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-21"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-27"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-28"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-05"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "Returned and submitted jointly by the Committees on ELECTORAL REFORMS AND PEOPLES PARTICIPATION and LOCAL GOVERNMENT per Committee Report No. 317, recommending that it be considered in SBN-2816;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "SUBSTITUTED BY SBN-2816 UNDER COMMITTEE REPORT NO. 317, WHICH BECAME REPUBLIC ACT NO. 12232 ON AUGUST 13, 2025."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/11/2024"
+date = "2024-09-11"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

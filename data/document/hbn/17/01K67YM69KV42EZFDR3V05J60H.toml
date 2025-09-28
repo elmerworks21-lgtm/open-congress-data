@@ -1,24 +1,28 @@
 id = "01K67YM69KV42EZFDR3V05J60H"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07115"
+
+[meta]
 bill_number = 7115
 congress = 17
-canonical = "HBN-07115"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7115", "https://web.senate.gov.ph/lisdata/2741423643!.pdf",]
 title = "CONVERSION OF IRRIGATED AND IRRIGABLE LANDS"
 long_title = "AN ACT PENALIZING THE CONVERSION OR CAUSING THE CONVERSION OF IRRIGATED AND IRRIGABLE LANDS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO.6657, AS AMENDED, OTHERWISE KNOWN AS THE COMPREHENSIVE AGRARIAN REFORM LAW OF 1988"
 scope = "National"
 subjects = [ "Comprehensive Agrarian Reform Law (Carl; R.A.No. 6657)", "Land Conversion/Reclassification",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-02-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-26"
 action = "Read on First Reading and Referred to the Committee on AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/26/2018"
+date = "2018-02-26"
 
 [[committees]]
 name = "Agrarian Reform"

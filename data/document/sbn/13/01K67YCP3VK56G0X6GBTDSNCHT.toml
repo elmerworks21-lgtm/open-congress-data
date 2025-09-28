@@ -1,8 +1,11 @@
 id = "01K67YCP3VK56G0X6GBTDSNCHT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01324"
+
+[meta]
 bill_number = 1324
 congress = 13
-canonical = "SBN-01324"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1324", "https://web.senate.gov.ph/lisdata/11201903!.pdf",]
 title = "EXTENDING THE TERM OF THE RENTAL LAW FROM DEC. 2004 TO 2007"
 date_filed = "2004-07-06"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING SECTIONS 3 AND 11 OF REPUBLIC ACT NO. 9161, OTHERW
 scope = "National"
 subjects = [ "Rental Reform Act Extension (R.A.9161)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-09"
 action = "Returned by the Committee on Urban Planning, Housing and Resettlement per Committee Report No. 17, recommending that it be substituted by SBN-1956;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-14"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-14"
 action = "SUBSTITUTED BY SBN-1956, WHICH BECAME R.A.NO. 9341."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/14/2005"
+date = "2005-03-14"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

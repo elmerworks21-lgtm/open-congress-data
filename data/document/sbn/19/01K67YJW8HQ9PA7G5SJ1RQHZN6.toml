@@ -1,8 +1,11 @@
 id = "01K67YJW8HQ9PA7G5SJ1RQHZN6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01966"
+
+[meta]
 bill_number = 1966
 congress = 19
-canonical = "SBN-01966"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1966", "https://web.senate.gov.ph/lisdata/4102337384!.pdf",]
 title = "CHARTER DAY IN THE CITY OF BAYUGAN, AGUSAN DEL SUR"
 date_filed = "2023-03-07"
@@ -10,29 +13,30 @@ long_title = "AN ACT DECLARING JUNE 21ST OF EVERY YEAR A SPECIAL NONWORKING HOLI
 scope = "Local"
 subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-07"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-08"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-18"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 130, recommending that it be considered in HBN-758;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-19"
 action = "CONSIDERED IN HBN-758 UNDER COMMITTEE REPORT NO. 130."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/19/2023"
+date = "2023-09-19"
 
 [[committees]]
 name = "Local Government"

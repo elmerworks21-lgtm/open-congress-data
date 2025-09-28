@@ -1,24 +1,28 @@
 id = "01K67YMD07Z1E4KTGAZ8VSCQP7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05962"
+
+[meta]
 bill_number = 5962
 congress = 19
-canonical = "HBN-05962"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-5962", "https://web.senate.gov.ph/lisdata/3997236398!.pdf",]
 title = "SAN MARIANO-PALANAN ECOTOURISM (ISABELA)"
 long_title = "AN ACT DECLARING THE MUNICIPALITY OF SAN MARIANO AND THE MUNICIPALITY OF PALANAN, PROVINCE OF ISABELA, AS ECOTOURISM ZONES, TO BE JOINTLY KNOWN AS THE SAN MARIANO-PALANAN ECOTOURISM CORRIDOR"
 scope = "Local"
 subjects = [ "Ecotourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-29"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/29/2022"
+date = "2022-11-29"
 
 [[committees]]
 name = "Tourism"

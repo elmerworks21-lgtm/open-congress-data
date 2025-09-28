@@ -1,8 +1,11 @@
 id = "01K67YJHQ5W37NVQR7C32J1SV7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00824"
+
+[meta]
 bill_number = 824
 congress = 17
-canonical = "SBN-00824"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-824", "https://web.senate.gov.ph/lisdata/2436520992!.pdf",]
 title = "AUGMENTING THE BUDGET FOR THE K TO 12 PROGRAM OF DEPED"
 date_filed = "2016-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPROVING THE QUALITY OF EDUCATION BY AUGMENTING THE BUDGET
 scope = "National"
 subjects = [ "Department of Education (DepEd)", "K12 Education Program", "Philippine Amusement and Gaming Corporation (Pagcor)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

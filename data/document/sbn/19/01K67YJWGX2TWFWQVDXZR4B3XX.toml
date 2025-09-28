@@ -1,8 +1,11 @@
 id = "01K67YJWGX2TWFWQVDXZR4B3XX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02310"
+
+[meta]
 bill_number = 2310
 congress = 19
-canonical = "SBN-02310"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2310", "https://web.senate.gov.ph/lisdata/4210438297!.pdf",]
 title = "PHILIPPINE ANIMATION INDUSTRY DEVELOPMENT ACT OF 2023"
 date_filed = "2023-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING STATE-OF-THE-ART ANIMATION FACILITIES AND INFR
 scope = "National"
 subjects = [ "Animation Industry",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-17"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-02"
 action = "Read on First Reading and Referred to the Committees on PUBLIC INFORMATION AND MASS MEDIA and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2023"
+date = "2023-08-02"
 
 [[committees]]
 name = "Public Information and Mass Media"

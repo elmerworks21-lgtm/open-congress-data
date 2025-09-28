@@ -1,8 +1,11 @@
 id = "01K67YJVPDW945FZ4Q6Z14AP0A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01191"
+
+[meta]
 bill_number = 1191
 congress = 19
-canonical = "SBN-01191"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1191", "https://web.senate.gov.ph/lisdata/3924835683!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2022-08-16"
@@ -10,41 +13,42 @@ long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
 scope = "National"
 subjects = [ "Magna Carta of Filipino Seafarers",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-16"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Read on First Reading and Referred to the Committee on MIGRANT WORKERS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-02"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Returned and submitted jointly by the Committees on MIGRANT WORKERS, FOREIGN RELATIONS and FINANCE per Committee Report No. 69, recommending that it be substituted by SBN-2221;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "SUBSTITUTED BY SBN-2221 UNDER COMMITTEE REPORT NO. 69, WHICH BECAME REPUBLIC ACT NO. 12021 ON SEPTEMBER 23, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/22/2023"
+date = "2023-05-22"
 
 [[committees]]
 name = "Migrant Workers"

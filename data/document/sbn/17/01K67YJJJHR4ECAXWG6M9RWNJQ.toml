@@ -1,8 +1,11 @@
 id = "01K67YJJJHR4ECAXWG6M9RWNJQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01899"
+
+[meta]
 bill_number = 1899
 congress = 17
-canonical = "SBN-01899"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1899", "https://web.senate.gov.ph/lisdata/2821624542!.pdf",]
 title = "SAFETY NETS IN ACQUISITION OF THE RIGHT OF WAY"
 date_filed = "2018-07-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO FURTHER STRENGTHEN THE SAFETY NETS IN ACQUISITION OF THE
 scope = "National"
 subjects = [ "Right-Of-Way", "Infrastuctures", "Government Projects",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2018-07-31"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-01"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2018"
+date = "2018-08-01"
 
 [[committees]]
 name = "Public Works"

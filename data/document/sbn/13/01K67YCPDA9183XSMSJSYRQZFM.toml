@@ -1,8 +1,11 @@
 id = "01K67YCPDA9183XSMSJSYRQZFM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01836"
+
+[meta]
 bill_number = 1836
 congress = 13
-canonical = "SBN-01836"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1836", "https://web.senate.gov.ph/lisdata/30722261!.pdf",]
 title = "PRIVATE LAWYERS TO ACT AS PROSECUTORS ON BEHALF OF OMBUDSMAN"
 date_filed = "2004-10-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 31 OF REPUBLIC ACT NO. 6770, OTHERWISE KNO
 scope = "National"
 subjects = [ "Prosecutors (Private Lawyers)", "Ombudsman Act (RA 6770, Amendments)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2004-10-27"
 action = "Introduced by Senator PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-27"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/27/2004"
+date = "2004-10-27"
 
 [[committees]]
 name = "Justice and Human Rights"

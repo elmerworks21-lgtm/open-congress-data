@@ -1,8 +1,11 @@
 id = "01K67YJVSXPQ3D55MFJWSZ5EYK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01344"
+
+[meta]
 bill_number = 1344
 congress = 19
-canonical = "SBN-01344"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1344", "https://web.senate.gov.ph/lisdata/3948135873!.pdf",]
 title = "PUBLIC-PRIVATE PARTNERSHIP (PPP) ACT"
 date_filed = "2022-09-21"
@@ -10,37 +13,38 @@ long_title = "AN ACT STRENGTHENING PUBLIC-PRIVATE PARTNERSHIPS, APPROPRIATING FU
 scope = "National"
 subjects = [ "Public-Private Partnership (PPP) Projects",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-09-21"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-28"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS; ECONOMIC AFFAIRS; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-04-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "Returned and submitted by the Committee on PUBLIC WORKS upon the recommendation of the Subcommittee on Public-Private Partnership (PPP) jointly with the Committees on ECONOMIC AFFAIRS, WAYS AND MEANS and FINANCE per Committee Report No. 71, recommending that it be substituted by SBN-2233;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "SUBSTITUTED BY SBN-2233 UNDER COMMITTEE REPORT NO. 71 WHICH BECAME R.A. NO. 11966 ON DECEMBER 5, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/23/2023"
+date = "2023-05-23"
 
 [[committees]]
 name = "Public Works"

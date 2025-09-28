@@ -1,8 +1,11 @@
 id = "01K67YJ3E0886YQ29774VD9P3K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03579"
+
+[meta]
 bill_number = 3579
 congress = 14
-canonical = "SBN-03579"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3579", "https://web.senate.gov.ph/lisdata/1356911975!.pdf",]
 title = "PRE-HOSPITAL EMERGENCY CARE ACT OF 2010"
 date_filed = "2010-02-02"
@@ -10,69 +13,70 @@ long_title = "AN ACT INSTITUTIONALIZING A PRE-HOSPITAL EMERGENCY CARE SYSTEM, PR
 scope = "National"
 subjects = [ "Emergency Care",]
 authors_raw = "Enrile, Juan Ponce, Legarda, Loren B., Angara, Edgardo J., Zubiri, Juan Miguel F., Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2010-02-02"
 action = "Prepared and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE with Senator(s) JUAN PONCE ENRILE, LOREN B. LEGARDA, EDGARDO J. ANGARA, JUAN MIGUEL F. ZUBIRI and RICHARD 'DICK' J. GORDON as author(s) per Committee Report No. 825, recommending its approval in substitution of SBN-3458;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Sponsors: Senator(s) LOREN B. LEGARDA, EDGARDO J. ANGARA, JUAN MIGUEL F. ZUBIRI and RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Sponsorship speech of Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Period of committee amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Period of committee and individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Certified by the President of the Philippines for its IMMEDIATE enactment;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "In favor: (12) EDGARDO J. ANGARA, JOKER P. ARROYO, RODOLFO G. BIAZON, 'COMPANERA' PIA S. CAYETANO, ALAN PETER 'COMPANERO' S. CAYETANO, JINGGOY P. EJERCITO-ESTRADA, FRANCIS 'CHIZ' G. ESCUDERO, RICHARD 'DICK' J. GORDON, GREGORIO B. HONASAN II, MANUEL 'LITO' M. LAPID, FRANCIS N. PANGILINAN and JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Against: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-04"
 action = "Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-06-30"
 action = "Sent to the House of Representatives requesting for concurrence on July 1, 2010;"
 
 [[status]]
 status = "Pending in the House of Representatives"
-date = "6/30/2010"
+date = "2010-06-30"
 
 [[committees]]
 name = "Health and Demography"

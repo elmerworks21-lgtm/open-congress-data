@@ -1,24 +1,28 @@
 id = "01K67YMA6DTB32KSNVTDDJ5KGQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10838"
+
+[meta]
 bill_number = 10838
 congress = 18
-canonical = "HBN-10838"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10838", "https://web.senate.gov.ph/lisdata/3762134069!.pdf",]
 title = "PHILIPPINE CITIZENSHIP TO QINGTONG LYU"
 long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO QINGTONG LYU"
 scope = "National"
 subjects = [ "Citizenship",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-06-01"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-06-01"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/1/2022"
+date = "2022-06-01"
 
 [[committees]]
 name = "Justice and Human Rights"

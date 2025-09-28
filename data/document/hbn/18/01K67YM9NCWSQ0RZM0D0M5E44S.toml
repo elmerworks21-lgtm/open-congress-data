@@ -1,40 +1,44 @@
 id = "01K67YM9NCWSQ0RZM0D0M5E44S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09154"
+
+[meta]
 bill_number = 9154
 congress = 18
-canonical = "HBN-09154"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9154", "https://web.senate.gov.ph/lisdata/3509431934!.pdf",]
 title = "DISTRICT ENGINEERING OFFICE (SIXTH LEGISLATIVE DISTRICT, BATANGAS)"
 long_title = "AN ACT CREATING A DISTRICT ENGINEERING OFFICE IN THE SIXTH LEGISLATIVE DISTRICT OF THE PROVINCE OF BATANGAS, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Engineering District Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-05-26"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-26"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-27"
 action = "Returned and submitted jointly by the Committees on PUBLIC WORKS and FINANCE per Committee Report No. 563, recommending its approval without amendment ;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Sponsor: Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "1/31/2022"
+date = "2022-01-31"
 
 [[committees]]
 name = "Public Works"

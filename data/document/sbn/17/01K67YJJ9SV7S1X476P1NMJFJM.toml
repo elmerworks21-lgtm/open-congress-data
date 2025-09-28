@@ -1,8 +1,11 @@
 id = "01K67YJJ9SV7S1X476P1NMJFJM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01559"
+
+[meta]
 bill_number = 1559
 congress = 17
-canonical = "SBN-01559"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1559", "https://web.senate.gov.ph/lisdata/2656822835!.pdf",]
 title = "HAZARD PAY TO GOVERNMENT EMPLOYEES"
 date_filed = "2017-08-17"
@@ -10,33 +13,34 @@ long_title = "AN ACT GRANTING HAZARD PAY TO COVERED EMPLOYEES OF THE GOVERNMENT 
 scope = "National"
 subjects = [ "Hazard Pay", "Government Employees",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Legarda, Loren B., De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-17"
 action = "Prepared and submitted jointly by the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE with Senator(s) ANTONIO 'SONNY' F. TRILLANES and LOREN B. LEGARDA as author(s) per Committee Report No. 157, recommending its approval in substitution of SBN-503;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-22"
 action = "Sponsor: Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-30"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-30"
 action = "Sponsorship speech of Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-06"
 action = "Letter from Senator LEILA M. DE LIMA dated September 4, 2017, requesting that she be made coauthor of SBN-1559, received by the LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "8/30/2017"
+date = "2017-08-30"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

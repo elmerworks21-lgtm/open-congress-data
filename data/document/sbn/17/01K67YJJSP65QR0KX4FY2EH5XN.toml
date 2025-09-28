@@ -1,8 +1,11 @@
 id = "01K67YJJSP65QR0KX4FY2EH5XN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02157"
+
+[meta]
 bill_number = 2157
 congress = 17
-canonical = "SBN-02157"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2157", "https://web.senate.gov.ph/lisdata/2934725955!.pdf",]
 title = "SENIOR VISION SERVICES ACT"
 date_filed = "2019-01-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL SENIOR VISION SERVICES PROGRAM FOR 
 scope = "National"
 subjects = [ "Senior Citizen/Elderly", "Vision Care",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-21"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-21"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/21/2019"
+date = "2019-01-21"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

@@ -1,28 +1,32 @@
 id = "01K67YM93MABRQMWYDKHASAEJF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06137"
+
+[meta]
 bill_number = 6137
 congress = 18
-canonical = "HBN-06137"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-6137", "https://web.senate.gov.ph/lisdata/3284329699!.pdf",]
 title = "CORPORATE SOCIAL RESPONSIBILITY ACT"
 long_title = "AN ACT ENCOURAGING CORPORATE SOCIAL RESPONSIBILITY, PROVIDING INCENTIVES THEREFOR"
 scope = "National"
 subjects = [ "Corporate Social Responsibility",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-27"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/27/2020"
+date = "2020-05-27"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

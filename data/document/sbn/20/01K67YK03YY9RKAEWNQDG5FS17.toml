@@ -1,8 +1,11 @@
 id = "01K67YK03YY9RKAEWNQDG5FS17"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00535"
+
+[meta]
 bill_number = 535
 congress = 20
-canonical = "SBN-00535"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-535", "https://web.senate.gov.ph/lisdata/4709043090!.pdf",]
 title = "105-DAY EXPANDED MATERNITY LEAVE LAW"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING POST-MATERNITY FLEXIBLE WORK ARRANGEMENT AND EXPAN
 scope = "National"
 subjects = [ "105-Day Expanded Maternity Leave Law", "Maternity Leave",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

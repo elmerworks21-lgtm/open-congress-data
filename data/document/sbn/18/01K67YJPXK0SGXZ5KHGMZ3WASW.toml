@@ -1,8 +1,11 @@
 id = "01K67YJPXK0SGXZ5KHGMZ3WASW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00789"
+
+[meta]
 bill_number = 789
 congress = 18
-canonical = "SBN-00789"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-789", "https://web.senate.gov.ph/lisdata/3114328043!.pdf",]
 title = "ARAW NG KASAMBAHAY"
 date_filed = "2019-07-25"
@@ -10,21 +13,22 @@ long_title = "AN ACT DECLARING JANUARY 18 OF EVERY YEAR A SPECIAL NONWORKING HOL
 scope = "National"
 subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-25"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2019"
+date = "2019-08-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YJJRNQ24YN9B7NJR4SBE6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02116"
+
+[meta]
 bill_number = 2116
 congress = 17
-canonical = "SBN-02116"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2116", "https://web.senate.gov.ph/lisdata/2906125633!.pdf",]
 title = "REPEALING R. A. NO.10912 (CONTINUING PROFESSIONAL DEVELOPMENT ACT OF 2016)"
 date_filed = "2018-11-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT REPEALING REPUBLIC ACT NO. 10912, OTHERWISE KNOWN AS THE â€
 scope = "National"
 subjects = [ "Continuing Professional Development (R.A.No. 10912)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-29"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-03"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/3/2018"
+date = "2018-12-03"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

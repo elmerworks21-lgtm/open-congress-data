@@ -1,24 +1,28 @@
 id = "01K67YMA69SJ9B50QYVRBP01ME"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10802"
+
+[meta]
 bill_number = 10802
 congress = 18
-canonical = "HBN-10802"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10802", "https://web.senate.gov.ph/lisdata/3760634033!.pdf",]
 title = "MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT"
 long_title = "AN ACT EXPANDING THE COVERAGE OF COMPULSORY INSURANCE OF OVERSEAS FILIPINO WORKERS, FURTHER AMENDING REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT OF 1995, AS AMENDED"
 scope = "National"
 subjects = [ "Migrant Workers and Overseas Filipinos",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-05-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-06-01"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/1/2022"
+date = "2022-06-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

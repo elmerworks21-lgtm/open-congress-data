@@ -1,8 +1,11 @@
 id = "01K67YJ94FAAW13Q3SMKNMT5D0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02723"
+
+[meta]
 bill_number = 2723
 congress = 15
-canonical = "SBN-02723"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2723", "https://web.senate.gov.ph/lisdata/108899289!.pdf",]
 title = "PHILIPPINE MARITIME ZONES ACT"
 date_filed = "2011-03-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO DEFINE THE MARITIME ZONES OF THE REPUBLIC OF THE PHILIPP
 scope = "National"
 subjects = [ "Maritime Zone",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2011-03-01"
 action = "Introduced by Senator SERGIO R. OSMENA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-02"
 action = "Read on First Reading and Referred to the Committee on FOREIGN RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-04-27"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/2/2011"
+date = "2011-03-02"
 
 [[committees]]
 name = "Foreign Relations"

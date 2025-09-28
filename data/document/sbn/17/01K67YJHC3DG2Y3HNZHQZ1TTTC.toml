@@ -1,8 +1,11 @@
 id = "01K67YJHC3DG2Y3HNZHQZ1TTTC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00332"
+
+[meta]
 bill_number = 332
 congress = 17
-canonical = "SBN-00332"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-332", "https://web.senate.gov.ph/lisdata/2377120433!.pdf",]
 title = "ANTI-RICE OR CORN HOARDING AND PROFITEERING ACT"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONSIDERING RICE OR CORN HOARDING AND PROFITEERING DURING O
 scope = "National"
 subjects = [ "Economic Sabotage", "Anti-Hoarding", "Price Act", "Calamity/Disaster",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2016"
+date = "2016-08-03"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

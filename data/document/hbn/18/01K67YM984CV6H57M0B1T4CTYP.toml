@@ -1,24 +1,28 @@
 id = "01K67YM984CV6H57M0B1T4CTYP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07029"
+
+[meta]
 bill_number = 7029
 congress = 18
-canonical = "HBN-07029"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7029", "https://web.senate.gov.ph/lisdata/3345130262!.pdf",]
 title = "CUYAPO POLYTECHNIC STATE COLLEGE"
 long_title = "AN ACT ESTABLISHING A POLYTECHNIC STATE COLLEGE IN THE MUNICIPALITY OF CUYAPO, PROVINCE OF NUEVA ECIJA, TO BE KNOWN AS THE CUYAPO POLYTECHNIC STATE COLLEGE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment", "State Colleges and Universities (SCUS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-07"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2020"
+date = "2020-09-07"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

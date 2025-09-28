@@ -1,24 +1,28 @@
 id = "01K67YMDVBXCM0F1H8GJW9D1YX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11105"
+
+[meta]
 bill_number = 11105
 congress = 19
-canonical = "HBN-11105"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11105", "https://web.senate.gov.ph/lisdata/4554341452!.pdf",]
 title = "ENVIRONS OF THE NUESTRA SENORA DE SALVACION CHURCH, TOURISM DESTINATION (LAOANG, NORTHERN SAMAR)"
 long_title = "AN ACT DECLARING THE IMMEDIATE ENVIRONS OF THE NUESTRA SENORA DE SALVACION CHURCH, LOCATED IN BARANGAY NAPOTIOCAN, MUNICIPALITY OF LAOANG, PROVINCE OF NORTHERN SAMAR, A TOURISM DESTINATION"
 scope = "Local"
 subjects = [ "Tourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-12-12"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-17"
 action = "Read on First Reading and Referred to the Committees on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/17/2024"
+date = "2024-12-17"
 
 [[committees]]
 name = "Tourism"

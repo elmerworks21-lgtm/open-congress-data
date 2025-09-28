@@ -1,8 +1,11 @@
 id = "01K67YJ0S61T7A3AXPTV6AAXHS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00082"
+
+[meta]
 bill_number = 82
 congress = 14
-canonical = "SBN-00082"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-82", "https://web.senate.gov.ph/lisdata/41443552!.pdf",]
 title = "NATIONAL LAND USE ACT OF THE PHILIPPINES"
 date_filed = "2007-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLE
 scope = "National"
 subjects = [ "National Land Use",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator GREGORIO HONASAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; URBAN PLANNING, HOUSING AND RESETTLEMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-19"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2007"
+date = "2007-07-25"
 
 [[committees]]
 name = "Environment and Natural Resources"

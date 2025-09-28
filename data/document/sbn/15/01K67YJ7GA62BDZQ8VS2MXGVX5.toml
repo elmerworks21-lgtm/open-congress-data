@@ -1,8 +1,11 @@
 id = "01K67YJ7GA62BDZQ8VS2MXGVX5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00437"
+
+[meta]
 bill_number = 437
 congress = 15
-canonical = "SBN-00437"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-437", "https://web.senate.gov.ph/lisdata/78656697!.pdf",]
 title = "CIVIL SERVICE CODE OF THE PHILIPPINES"
 date_filed = "2010-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A CIVIL SERVICE CODE OF THE PHILIPPINES AND FO
 scope = "National"
 subjects = [ "Civil Service Code",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-04"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2010"
+date = "2010-08-04"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

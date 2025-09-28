@@ -1,24 +1,28 @@
 id = "01K67YMA60YMR7920HB7FEGRX3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10709"
+
+[meta]
 bill_number = 10709
 congress = 18
-canonical = "HBN-10709"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10709", "https://web.senate.gov.ph/lisdata/3757533951!.pdf",]
 title = "HIBAO-AN INTEGRATED SCHOOL (ILOILO CITY)"
 long_title = "AN ACT CONVERTING THE HIBAO-AN ELEMENTARY SCHOOL IN BARANGAY HIBAO-AN SUR, MANDURRIAO DISTRICT, ILOILO CITY INTO AN INTEGRATED SCHOOL TO BE KNOWN AS THE HIBAO-AN INTEGRATED SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-05-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-26"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/26/2022"
+date = "2022-05-26"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

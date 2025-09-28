@@ -1,18 +1,22 @@
 id = "01K67YM6T9Y0F1SPD3A7QA8CPN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09146"
+
+[meta]
 bill_number = 9146
 congress = 17
-canonical = "HBN-09146"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-9146", "https://web.senate.gov.ph/lisdata/3019227012!.pdf",]
 title = "NATIONAL CONVERGENCE INITIATIVE ACT"
 long_title = "AN ACT INSTITUTIONALIZING THE CONVERGENCE STRATEGY FOR SUSTAINABLE RURAL DEVELOPMENT AND PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR"
 scope = "National"
 subjects = [ "Rural Development", "Agricultural Development",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-06-04"
 action = "Sent to the Senate requesting for concurrence;"
 
 [[status]]
 status = "Pending First Reading"
-date = "6/4/2019"
+date = "2019-06-04"
 

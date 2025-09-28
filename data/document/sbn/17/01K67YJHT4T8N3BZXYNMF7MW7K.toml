@@ -1,8 +1,11 @@
 id = "01K67YJHT4T8N3BZXYNMF7MW7K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00964"
+
+[meta]
 bill_number = 964
 congress = 17
-canonical = "SBN-00964"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-964", "https://web.senate.gov.ph/lisdata/2452221104!.pdf",]
 title = "COMPULSORY VOTER EDUCATION ACT OF 2016"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT INTEGRATING VOTER EDUCATION IN THE JUNIOR AND SENIOR HIGH S
 scope = "National"
 subjects = [ "Voters Education", "Elections/Electoral Reforms",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

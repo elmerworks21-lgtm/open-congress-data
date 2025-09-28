@@ -1,28 +1,32 @@
 id = "01K67YM31E1XKF3VCTA0G8B5CA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05585"
+
+[meta]
 bill_number = 5585
 congress = 16
-canonical = "HBN-05585"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5585", "https://web.senate.gov.ph/lisdata/2140718206!.pdf",]
 title = "HAZARDOUS AND RADIOACTIVE WASTES MANAGEMENT ACT"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE HAZARDOUS AND RADIOACTIVE WASTES MANAGEMENT AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
 scope = "National"
 subjects = [ "Hazardous", "Toxic", "Radioactive Wastes Management",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-25"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-21"
 action = "Introduced by Representative MA. LOURDES ACOSTA-ALBA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/25/2015"
+date = "2015-05-25"
 
 [[committees]]
 name = "Environment and Natural Resources"

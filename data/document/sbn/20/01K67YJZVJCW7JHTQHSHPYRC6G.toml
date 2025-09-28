@@ -1,8 +1,11 @@
 id = "01K67YJZVJCW7JHTQHSHPYRC6G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00097"
+
+[meta]
 bill_number = 97
 congress = 20
-canonical = "SBN-00097"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-97", "https://web.senate.gov.ph/lisdata/4657142575!.pdf",]
 title = "FREE ANNUAL MEDICAL CHECK-UP ACT"
 date_filed = "2025-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A FREE ANNUAL MEDICAL CHECK-UP FOR ALL FILIPI
 scope = "National"
 subjects = [ "Universal Health Care", "Health Services",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-03"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Health and Demography"

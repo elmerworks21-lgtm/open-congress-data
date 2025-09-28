@@ -1,8 +1,11 @@
 id = "01K67YJ2FS9WZ6388TADPY98Y8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02321"
+
+[meta]
 bill_number = 2321
 congress = 14
-canonical = "SBN-02321"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2321", "https://web.senate.gov.ph/lisdata/74566670!.pdf",]
 title = "LEGISLATIVE CAREER SERVICE AND A LEGISLATIVE ACADEMY"
 date_filed = "2008-05-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING AND RATIONALIZING THE CAREER SERVICE OF THE C
 scope = "National"
 subjects = [ "Legislative Career Service",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-22"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-26"
 action = "Read on First Reading and Referred to the Committee(s) on ACCOUNTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/26/2008"
+date = "2008-05-26"
 
 [[committees]]
 name = "Accounts"

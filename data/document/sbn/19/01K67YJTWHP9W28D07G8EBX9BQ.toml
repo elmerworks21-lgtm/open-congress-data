@@ -1,8 +1,11 @@
 id = "01K67YJTWHP9W28D07G8EBX9BQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00026"
+
+[meta]
 bill_number = 26
 congress = 19
-canonical = "SBN-00026"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-26", "https://web.senate.gov.ph/lisdata/3772734169!.pdf",]
 title = "KAAYUSAN SA ADHIKAING PAGAMUTAN ACT"
 date_filed = "2022-07-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT ACCELERATING THE IMPLEMENTATION OF THE PHILIPPINE HEALTH FA
 scope = "National"
 subjects = [ "Health Facilities", "Hospitals",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-05"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Health and Demography"

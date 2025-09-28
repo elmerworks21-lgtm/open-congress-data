@@ -1,8 +1,11 @@
 id = "01K67YJ2BS1W7TAVJY43XFGRF5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02142"
+
+[meta]
 bill_number = 2142
 congress = 14
-canonical = "SBN-02142"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2142", "https://web.senate.gov.ph/lisdata/70606302!.pdf",]
 title = "BIO-MEDICAL WASTE CONTROL ACT"
 date_filed = "2008-03-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE REGULATION AND DISPOSAL OF BIO-MEDICAL WA
 scope = "National"
 subjects = [ "Bio-Medical Waste Control",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-03-26"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-21"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/21/2008"
+date = "2008-04-21"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJ91YRWME08JV1ABFTSW3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02611"
+
+[meta]
 bill_number = 2611
 congress = 15
-canonical = "SBN-02611"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2611", "https://web.senate.gov.ph/lisdata/104508945!.pdf",]
 title = "CONVERTING ALL ROADS LEADING TO TOURIST DESTINATIONS AND PORTS AS NATIONAL ROADS"
 date_filed = "2010-11-24"
@@ -10,21 +13,22 @@ long_title = "AN ACT CONVERTING ALL ROADS LEADING TO TOURIST DESTINATIONS AND PO
 scope = "National"
 subjects = [ "Tourism",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2010-11-24"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and TOURISM;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2010"
+date = "2010-11-25"
 
 [[committees]]
 name = "Public Works"

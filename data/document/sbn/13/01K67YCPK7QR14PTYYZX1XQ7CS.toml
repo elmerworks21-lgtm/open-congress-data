@@ -1,8 +1,11 @@
 id = "01K67YCPK7QR14PTYYZX1XQ7CS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02118"
+
+[meta]
 bill_number = 2118
 congress = 13
-canonical = "SBN-02118"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2118", "https://web.senate.gov.ph/lisdata/39963361!.pdf",]
 title = "PHILIPPINE NAVAL ACADEMY"
 date_filed = "2005-09-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE NAVAL ACADEMY AND APPROPRIATING
 scope = "National"
 subjects = [ "Philippine Naval Academy (Establishment)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2005-09-08"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-09-19"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; EDUCATION, ARTS AND CULTURE and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/19/2005"
+date = "2005-09-19"
 
 [[committees]]
 name = "National Defense and Security"

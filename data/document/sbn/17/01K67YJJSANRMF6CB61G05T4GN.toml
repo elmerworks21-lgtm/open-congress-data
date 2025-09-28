@@ -1,8 +1,11 @@
 id = "01K67YJJSANRMF6CB61G05T4GN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02138"
+
+[meta]
 bill_number = 2138
 congress = 17
-canonical = "SBN-02138"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2138", "https://web.senate.gov.ph/lisdata/2927025866!.pdf",]
 title = "LINGAP PARA KAY LOLO AT LOLA ACT"
 date_filed = "2019-01-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING UNIVERSAL SOCIAL PENSION TO ALL SENIOR CITIZENS AG
 scope = "National"
 subjects = [ "Senior Citizen/Elderly", "Pension",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-14"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-14"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/14/2019"
+date = "2019-01-14"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

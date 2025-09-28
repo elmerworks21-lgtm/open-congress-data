@@ -1,8 +1,11 @@
 id = "01K67YJZYA5M6DV9GFV5TV028V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00234"
+
+[meta]
 bill_number = 234
 congress = 20
-canonical = "SBN-00234"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-234", "https://web.senate.gov.ph/lisdata/4671142716!.pdf",]
 title = "REINSTITUTING MANDATORY CREDIT ALLOCATION FOR MICRO, SMALL AND MEDIUM ENTERPRISES"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT REINSTITUTING MANDATORY CREDIT ALLOCATION FOR MICRO, SMALL 
 scope = "National"
 subjects = [ "Micro, Small and Medium Enterprises (Msmes)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and ECONOMIC AFFAIRS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

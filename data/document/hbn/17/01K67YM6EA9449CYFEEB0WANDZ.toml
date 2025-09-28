@@ -1,44 +1,48 @@
 id = "01K67YM6EA9449CYFEEB0WANDZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07844"
+
+[meta]
 bill_number = 7844
 congress = 17
-canonical = "HBN-07844"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7844", "https://web.senate.gov.ph/lisdata/2845524791!.pdf",]
 title = "SURIGAO DEL NORTE FIRST AND SECOND DISTRICT ENGINEERING OFFICES"
 long_title = "AN ACT RENUMBERING THE SURIGAO DEL NORTE FIRST AND SECOND DISTRICT ENGINEERING OFFICES TO CORRESPOND WITH THE LEGISLATIVE DISTRICTS IN THE PROVINCE OF SURIGAO DEL NORTE"
 scope = "Local"
 subjects = [ "Engineering District Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-29"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-08"
 action = "Returned and submitted by the Committee on PUBLIC WORKS per Committee Report No. 487, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Sponsor: Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Sponsorship speech of Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "10/9/2018"
+date = "2018-10-09"
 
 [[committees]]
 name = "Public Works"

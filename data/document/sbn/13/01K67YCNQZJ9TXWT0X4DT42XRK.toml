@@ -1,8 +1,11 @@
 id = "01K67YCNQZJ9TXWT0X4DT42XRK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00677"
+
+[meta]
 bill_number = 677
 congress = 13
-canonical = "SBN-00677"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-677", "https://web.senate.gov.ph/lisdata/18631238!.pdf",]
 title = "SPORTS EQUAL OPPORTUNITY ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING WOMEN EQUAL OPPORTUNITY TO ATHLETIC SCHOLARSHIP AN
 scope = "National"
 subjects = [ "Sports Equal Opportunity Act", "Women (Athletic Scholarship/Prizes)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

@@ -1,24 +1,28 @@
 id = "01K67YMD5XH4N5C03B7KS9K07K"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07358"
+
+[meta]
 bill_number = 7358
 congress = 19
-canonical = "HBN-07358"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7358", "https://web.senate.gov.ph/lisdata/4121937544!.pdf",]
 title = "COMMUNITY FORESTS IN THE SECOND DISTRICT OF CAGAYAN DE ORO CITY, MISAMIS ORIENTAL"
 long_title = "AN ACT ESTABLISHING COMMUNITY FORESTS IN BARANGAYS BALUBAL, CUGMAN, F.S. CATANICO, INHAHAG, TABI.ON, AND AGUSAN, IN THE SECOND DISTRICT OF CAGAYAN DE ORO CITY, PROVINCE OF MISAMIS ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Community Forests",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-21"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/21/2023"
+date = "2023-03-21"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

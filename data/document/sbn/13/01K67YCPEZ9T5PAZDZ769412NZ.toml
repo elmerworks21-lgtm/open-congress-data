@@ -1,8 +1,11 @@
 id = "01K67YCPEZ9T5PAZDZ769412NZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01911"
+
+[meta]
 bill_number = 1911
 congress = 13
-canonical = "SBN-01911"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1911", "https://web.senate.gov.ph/lisdata/31982388!.pdf",]
 title = "YOUTH SUICIDE PREVENTION ACT OF 2005"
 date_filed = "2005-02-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE YOUTH SUICIDE EARLY INTERVENTION AND PREVENTION 
 scope = "National"
 subjects = [ "Youth Suicide Prevention Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-02-09"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-10"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/10/2005"
+date = "2005-02-10"
 
 [[committees]]
 name = "Health and Demography"

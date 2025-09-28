@@ -1,8 +1,11 @@
 id = "01K67YCPACYBY4XG69MF1TXGHX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01687"
+
+[meta]
 bill_number = 1687
 congress = 13
-canonical = "SBN-01687"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1687", "https://web.senate.gov.ph/lisdata/29312471!.pdf",]
 title = "MENSTRUATION LEAVE ACT"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING MENSTRUATION LEAVE OF ONE (1) DAY A MONTH WITH FIF
 scope = "National"
 subjects = [ "Menstruation Leave Act", "Private Sector/Government Employees", "Leave of Absences",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

@@ -1,8 +1,11 @@
 id = "01K67YCPF4HX7CVCCEHJ4Y5WNQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01920"
+
+[meta]
 bill_number = 1920
 congress = 13
-canonical = "SBN-01920"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1920", "https://web.senate.gov.ph/lisdata/32202400!.pdf",]
 title = "OMNIBUS ELECTION CODE (ELECTION EXPENSES)"
 date_filed = "2005-02-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 10 OF BATAS PAMBANSA BLG. 881, OTHERWISE K
 scope = "National"
 subjects = [ "Omnibus Election Code (Bp 881)", "Election Expenses",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2005-02-16"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-21"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/21/2005"
+date = "2005-02-21"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

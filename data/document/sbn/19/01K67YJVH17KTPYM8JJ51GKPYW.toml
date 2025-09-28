@@ -1,8 +1,11 @@
 id = "01K67YJVH17KTPYM8JJ51GKPYW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00949"
+
+[meta]
 bill_number = 949
 congress = 19
-canonical = "SBN-00949"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-949", "https://web.senate.gov.ph/lisdata/3875935212!.pdf",]
 title = "NATIONAL MICRO-, SMALL-, AND MEDIUM-ENTRPRISE (MSME) WEEK ACT"
 date_filed = "2022-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING JUNE 27 TO JULY 2 OF EVERY YEAR AS THE 'NATIONAL 
 scope = "National"
 subjects = [ "Micro, Small and Medium Enterprises (Msmes)",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-01"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-31"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2022"
+date = "2022-08-31"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

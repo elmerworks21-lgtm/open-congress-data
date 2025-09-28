@@ -1,8 +1,11 @@
 id = "01K67YJWEC3S5N3GVTVG8E39XF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02208"
+
+[meta]
 bill_number = 2208
 congress = 19
-canonical = "SBN-02208"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2208", "https://web.senate.gov.ph/lisdata/4169937983!.pdf",]
 title = "NAMRIA MODERNIZATION ACT"
 date_filed = "2023-05-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE NATIONAL MAPPING AND
 scope = "National"
 subjects = [ "National Mapping and Resource Information Authority (Namria)",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-17"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

@@ -1,8 +1,11 @@
 id = "01K67YJJR4MEV4ZRE6A591PP1T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02092"
+
+[meta]
 bill_number = 2092
 congress = 17
-canonical = "SBN-02092"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2092", "https://web.senate.gov.ph/lisdata/2896125509!.pdf",]
 title = "LOCAL HOUSING BOARD AND PEOPLE'S PLANNING ACT OF 2018"
 date_filed = "2018-11-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING LOCAL HOUSING BOARDS IN ALL CITIES AND FIRST TO TH
 scope = "Local"
 subjects = [ "Local Housing Board", "Squatters/Squatting/Informal Settlers", "Urban Development and Housing Act (R.A.No. 7279)",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-14"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-19"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/19/2018"
+date = "2018-11-19"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

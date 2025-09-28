@@ -1,8 +1,11 @@
 id = "01K67YJDHB6HKX9W2APAF0KM5B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01948"
+
+[meta]
 bill_number = 1948
 congress = 16
-canonical = "SBN-01948"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1948", "https://web.senate.gov.ph/lisdata/1831815494!.pdf",]
 title = "ROAD TRAFFIC SAFETY FOR CHILDREN ACT"
 date_filed = "2013-11-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT MAKING ROAD TRAFFIC SAFETY A SEPARATE SUBJECT AND COMPULSOR
 scope = "National"
 subjects = [ "K12 Education Program", "Road Safety",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-03"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/3/2013"
+date = "2013-12-03"
 
 [[committees]]
 name = "Education, Arts and Culture"

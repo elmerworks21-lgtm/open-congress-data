@@ -1,8 +1,11 @@
 id = "01K67YJQR944MEQD8NK8QQ04X2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01932"
+
+[meta]
 bill_number = 1932
 congress = 18
-canonical = "SBN-01932"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1932", "https://web.senate.gov.ph/lisdata/3400230773!.pdf",]
 title = "PENALIZING PERSONS WHO SHALL COMMIT PROHIBITED ACTS DURING A STATE OF PUBLIC HEALTH EMERGENCY"
 date_filed = "2020-11-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING PERSONS WHO SHALL COMMIT PROHIBITED ACTS DURING 
 scope = "National"
 subjects = [ "Unlawful Acts",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-11-25"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-11-25"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2020"
+date = "2020-11-25"
 
 [[committees]]
 name = "Justice and Human Rights"

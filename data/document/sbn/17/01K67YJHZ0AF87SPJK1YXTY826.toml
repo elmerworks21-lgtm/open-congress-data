@@ -1,8 +1,11 @@
 id = "01K67YJHZ0AF87SPJK1YXTY826"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01176"
+
+[meta]
 bill_number = 1176
 congress = 17
-canonical = "SBN-01176"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1176", "https://web.senate.gov.ph/lisdata/2495621460!.pdf",]
 title = "THE CAMPUS SAFETY AND SECURITY ACT"
 date_filed = "2016-09-29"
@@ -10,29 +13,30 @@ long_title = "AN ACT MANDATING HIGHER EDUCATION INSTITUTIONS AND TECHNICAL-VOCAT
 scope = "National"
 subjects = [ "Campus Safety",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-09-29"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-04"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and PUBLIC ORDER AND DANGEROUS DRUGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-07"
 action = "Letter from Senator JOEL VILLANUEVA dated October 25, 2016, requesting that he be made coauthor of SBN-1176, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-06-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/4/2016"
+date = "2016-10-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJCJMXJ5FXCWCJP69RQKB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00454"
+
+[meta]
 bill_number = 454
 congress = 16
-canonical = "SBN-00454"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-454", "https://web.senate.gov.ph/lisdata/1631413553!.pdf",]
 title = "PERSONNEL ECONOMIC RELIEF ALLOWANCE (PERA)"
 date_filed = "2013-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING TO THREE THOUSAND PESOS (P3,000) THE MONTHLY PER
 scope = "National"
 subjects = [ "Personnel Economic Relief Allowance (PERA)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-04"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2013"
+date = "2013-08-05"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

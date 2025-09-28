@@ -1,8 +1,11 @@
 id = "01K67YJJHS88ADYC06QRBYFSCF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01868"
+
+[meta]
 bill_number = 1868
 congress = 17
-canonical = "SBN-01868"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1868", "https://web.senate.gov.ph/lisdata/2810024403!.pdf",]
 title = "CAMPUS PRESS FREEDOM ACT OF 2018"
 date_filed = "2018-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPHOLDING AND PROMOTING CAMPUS JOURNALISM AND CAMPUS PRESS 
 scope = "National"
 subjects = [ "Campus Press Freedom",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-07-10"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2018"
+date = "2018-07-25"
 
 [[committees]]
 name = "Education, Arts and Culture"

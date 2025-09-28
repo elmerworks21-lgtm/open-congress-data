@@ -1,8 +1,11 @@
 id = "01K67YJV3HQV695CPDYK811FXP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00342"
+
+[meta]
 bill_number = 342
 congress = 19
-canonical = "SBN-00342"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-342", "https://web.senate.gov.ph/lisdata/3810034542!.pdf",]
 title = "RAINWATER HARVESTING FACILITY ACT"
 date_filed = "2022-07-12"
@@ -10,25 +13,26 @@ long_title = "AN ACT INSTITUTIONALIZING RAINWATER HARVESTING SYSTEM IN METRO MAN
 scope = "National"
 subjects = [ "Rainwater Harvesting Facility", "Rainwater",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Public Works"

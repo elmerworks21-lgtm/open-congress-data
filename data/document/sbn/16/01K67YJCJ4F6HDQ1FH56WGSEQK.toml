@@ -1,8 +1,11 @@
 id = "01K67YJCJ4F6HDQ1FH56WGSEQK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00432"
+
+[meta]
 bill_number = 432
 congress = 16
-canonical = "SBN-00432"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-432", "https://web.senate.gov.ph/lisdata/1633313572!.pdf",]
 title = "FAIR PLACEMENT FEES FOR OFWS ACT"
 date_filed = "2013-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING CERTAIN ACTS IN THE IMPOSITION OF EXCESSIVE PLAC
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-04"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2013"
+date = "2013-08-05"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

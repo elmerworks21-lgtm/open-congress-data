@@ -1,8 +1,11 @@
 id = "01K67YJ1HFM50FPA2TXKFGX8PD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01240"
+
+[meta]
 bill_number = 1240
 congress = 14
-canonical = "SBN-01240"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1240", "https://web.senate.gov.ph/lisdata/55374943!.pdf",]
 title = "DOWNSTREAM NATURAL GAS INDUSTRY DEVELOPMENT ACT"
 date_filed = "2007-07-17"
@@ -10,21 +13,22 @@ long_title = "AN ACT ORDAINING THE DEVELOPMENT OF THE DOWNSTREAM NATURAL GAS IND
 scope = "National"
 subjects = [ "Downstream Natural Gas Industry",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-17"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; PUBLIC SERVICES; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-03"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Energy"

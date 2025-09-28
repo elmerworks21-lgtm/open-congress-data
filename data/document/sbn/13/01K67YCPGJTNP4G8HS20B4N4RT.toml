@@ -1,8 +1,11 @@
 id = "01K67YCPGJTNP4G8HS20B4N4RT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01980"
+
+[meta]
 bill_number = 1980
 congress = 13
-canonical = "SBN-01980"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1980", "https://web.senate.gov.ph/lisdata/33272460!.pdf",]
 title = "PHILIPPINE PASSPORT ACT OF 2005"
 date_filed = "2005-04-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8239, OTHER
 scope = "National"
 subjects = [ "Passport (Philippine Passport Act)", "R.A.No. 8239, Amendments (Tamper Proof)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2005-04-26"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-04-26"
 action = "Read on First Reading and referred to the Committee(s) on FOREIGN RELATIONS; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/26/2005"
+date = "2005-04-26"
 
 [[committees]]
 name = "Foreign Relations"

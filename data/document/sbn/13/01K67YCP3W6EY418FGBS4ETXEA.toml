@@ -1,8 +1,11 @@
 id = "01K67YCP3W6EY418FGBS4ETXEA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01325"
+
+[meta]
 bill_number = 1325
 congress = 13
-canonical = "SBN-01325"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1325", "https://web.senate.gov.ph/lisdata/25321904!.pdf",]
 title = "TAXPAYERS TO FILE THEIR ASSETS, LIABILITIES AND NETWORTH"
 date_filed = "2004-07-06"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO MAXIMIZE THE COLLECTION OF REVENUES BY REQUIRING THE FIL
 scope = "Local"
 subjects = [ "Taxes (Tax Amnesty for 2001, Prior Yrs)", "Taxes/Taxation (Tax Amnesty: Saln)", "Statement of Assets/Liabilities/Networth",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-06"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 109, recommending that it be substituted by SBN-2479;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-09"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-09"
 action = "SUBSTITUTED BY SBN-2479;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/9/2006"
+date = "2006-10-09"
 
 [[committees]]
 name = "Ways and Means"

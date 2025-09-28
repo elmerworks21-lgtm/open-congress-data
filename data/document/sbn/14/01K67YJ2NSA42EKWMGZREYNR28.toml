@@ -1,8 +1,11 @@
 id = "01K67YJ2NSA42EKWMGZREYNR28"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02576"
+
+[meta]
 bill_number = 2576
 congress = 14
-canonical = "SBN-02576"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2576", "https://web.senate.gov.ph/lisdata/82057400!.pdf",]
 title = "ANTI-MAIL ORDER BRIDE LAW"
 date_filed = "2008-08-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROTECTING FILIPINO WOMEN AGAINST UNSCRUPULOUS INDIVIDUALS 
 scope = "National"
 subjects = [ "Women", "Mail-Order Bride (R.A.No. 6955)", "Internet Publications/Internet Media",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-28"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2008"
+date = "2008-09-01"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

@@ -1,8 +1,11 @@
 id = "01K67YJV379J6GQCDMX02Y9TZG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00326"
+
+[meta]
 bill_number = 326
 congress = 19
-canonical = "SBN-00326"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-326", "https://web.senate.gov.ph/lisdata/3808334526!.pdf",]
 title = "EXPANDING THE INCENTIVES GRANTED TO NATIONAL ATHLETES AND COACHES"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER EXPANDING THE INCENTIVES GRANTED TO NATIONAL ATHLET
 scope = "National"
 subjects = [ "Benefits and Incentives", "National Athletes and Coaches Benefits and Incentives Act (R.A. No. 10699)",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on SPORTS; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Sports"

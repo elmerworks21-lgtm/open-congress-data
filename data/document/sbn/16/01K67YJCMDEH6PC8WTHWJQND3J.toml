@@ -1,8 +1,11 @@
 id = "01K67YJCMDEH6PC8WTHWJQND3J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00539"
+
+[meta]
 bill_number = 539
 congress = 16
-canonical = "SBN-00539"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-539", "https://web.senate.gov.ph/lisdata/1644013681!.pdf",]
 title = "SCIENCE LABORATORY FOR BASIC EDUCATION ACT OF 2013"
 date_filed = "2013-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE ESTABLISHMENT OF FULLY-EQUIPPED SCIENCE LABOR
 scope = "National"
 subjects = [ "Science Laboratories",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2013"
+date = "2013-08-06"
 
 [[committees]]
 name = "Science and Technology"

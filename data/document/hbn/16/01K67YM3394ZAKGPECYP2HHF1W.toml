@@ -1,24 +1,28 @@
 id = "01K67YM3394ZAKGPECYP2HHF1W"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05750"
+
+[meta]
 bill_number = 5750
 congress = 16
-canonical = "HBN-05750"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5750", "https://web.senate.gov.ph/lisdata/2154418312!.pdf",]
 title = "ALBAY WEST COAST"
 long_title = "AN ACT DECLARING THE STRETCH OF BEACHES THAT LINE THE ALBAY WEST COAST IN THE THIRD DISTRICT OF THE PROVINCE OF ALBAY AS TOURIST SPOTS AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-05-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-01"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/1/2015"
+date = "2015-06-01"
 
 [[committees]]
 name = "Tourism"

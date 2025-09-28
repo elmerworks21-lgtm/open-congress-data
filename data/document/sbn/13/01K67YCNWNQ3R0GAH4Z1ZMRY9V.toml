@@ -1,8 +1,11 @@
 id = "01K67YCNWNQ3R0GAH4Z1ZMRY9V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00945"
+
+[meta]
 bill_number = 945
 congress = 13
-canonical = "SBN-00945"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-945", "https://web.senate.gov.ph/lisdata/21471675!.pdf",]
 title = "TRAVEL TAX REFORM ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOCATING THE COLLECTIONS FROM THE TRAVEL TAX TO THE PHILI
 scope = "National"
 subjects = [ "Travel Tax Reform Act", "Philippine Tourism Authority (PTA)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-31"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS; and TOURISM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2004"
+date = "2004-08-31"
 
 [[committees]]
 name = "Ways and Means"

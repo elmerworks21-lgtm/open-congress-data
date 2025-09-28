@@ -1,8 +1,11 @@
 id = "01K67YJ11DF10C32YWCDS0B5SZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00454"
+
+[meta]
 bill_number = 454
 congress = 14
-canonical = "SBN-00454"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-454", "https://web.senate.gov.ph/lisdata/46593982!.pdf",]
 title = "MARINE CASUALTIES MANAGEMENT AND REPORTING ACT"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING MANDATORY REPORTING OF MARINE CASUALTIES"
 scope = "National"
 subjects = [ "Marine Casualties Management and Reporting",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Public Services"

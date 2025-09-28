@@ -1,24 +1,28 @@
 id = "01K67YMDM8MCE5JC44HW06NDMY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10003"
+
+[meta]
 bill_number = 10003
 congress = 19
-canonical = "HBN-10003"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10003", "https://web.senate.gov.ph/lisdata/4383039826!.pdf",]
 title = "BARANGAY INTEGRATED DEVELOPMENT APPROACH FOR NUTRITION IMPROVEMENT (BIDANI) ACT"
 long_title = "AN ACT ESTABLISHING THE BARANGAY INTEGRATED DEVELOPMENT APPROACH FOR NUTRITION IMPROVEMENT OF THE RURAL POOR AS A LINKAGE PROGRAM OF PARTICIPATING STATE UNIVERSITIES AND COLLEGES AND LOCAL UNIVERSITIES AND COLLEGES AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Bidani (Barangay Integrated Development Approach for Nutrition Improvement)",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2024"
+date = "2024-05-06"
 
 [[committees]]
 name = "Health and Demography"

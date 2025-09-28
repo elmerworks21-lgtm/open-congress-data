@@ -1,8 +1,11 @@
 id = "01K67YJ99B6CHXD2DRY13409SY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02905"
+
+[meta]
 bill_number = 2905
 congress = 15
-canonical = "SBN-02905"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2905", "https://web.senate.gov.ph/lisdata/118209971!.pdf",]
 title = "DOMESTIC SHIPPING DEVELOPMENT ACT"
 date_filed = "2011-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CHAPTER V, SECTION 14 OF REPUBLIC ACT NO. 9295, OT
 scope = "National"
 subjects = [ "Domestic Shipping",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2011-07-25"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-03"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2011"
+date = "2011-08-03"
 
 [[committees]]
 name = "Public Services"

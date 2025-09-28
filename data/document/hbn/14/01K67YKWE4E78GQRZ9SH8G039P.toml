@@ -1,24 +1,28 @@
 id = "01K67YKWE4E78GQRZ9SH8G039P"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04759"
+
+[meta]
 bill_number = 4759
 congress = 14
-canonical = "HBN-04759"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4759", "https://web.senate.gov.ph/lisdata/87487950!.pdf",]
 title = "PAWICAN NATIONAL HIGH SCHOOL (OCCIDENTAL MINDORO)"
 long_title = "AN ACT SEPARATING THE ILING NATIONAL HIGH SCHOOL - PAWICAN ANNEX IN BARANGAY PAWICAN ILING, MUNICIPALITY OF SAN JOSE, PROVINCE OF OCCIDENTAL MINDORO FROM THE ILING NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS PAWICAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representatives MA. AMELITA C. VILLAROSA, DEL R. DE GUZMAN and EDCEL C. LAGMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/29/2008"
+date = "2008-09-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

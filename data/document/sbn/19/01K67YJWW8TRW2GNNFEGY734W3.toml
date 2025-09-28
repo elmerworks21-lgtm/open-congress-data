@@ -1,8 +1,11 @@
 id = "01K67YJWW8TRW2GNNFEGY734W3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02746"
+
+[meta]
 bill_number = 2746
 congress = 19
-canonical = "SBN-02746"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2746", "https://web.senate.gov.ph/lisdata/4435240746!.pdf",]
 title = "REVISED GOVERNMENT AUDITING ACT"
 date_filed = "2024-07-23"
@@ -10,53 +13,54 @@ long_title = "AN ACT PROVIDING FOR THE REVISED GOVERNMENT AUDITING CODE OF THE P
 scope = "National"
 subjects = [ "Government Auditing",]
 authors_raw = "Escudero, Francis G., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-23"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Read on First Reading and Referred to the Committees on FINANCE and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-05"
 action = "Transferred primarily to the Committee on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES; and secondarily to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-27"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-04"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-02"
 action = "Letter from Senator JOEL VILLANUEVA, conveying his intention to be made co-author of SBN-2746, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "Returned and submitted jointly by the Committees on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 436, recommending that it be substituted by SBN-2907;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "SUBSTITUTED BY SBN-2907 UNDER COMMITTEE REPORT NO. 436."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/18/2024"
+date = "2024-12-18"
 
 [[committees]]
 name = "Constitutional Amendments and Revision of Codes"

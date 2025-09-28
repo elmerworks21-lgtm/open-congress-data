@@ -1,8 +1,11 @@
 id = "01K67YJH5YMQT7VC994PGZA57R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00068"
+
+[meta]
 bill_number = 68
 congress = 17
-canonical = "SBN-00068"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-68", "https://web.senate.gov.ph/lisdata/2348120105!.pdf",]
 title = "PUBLIC TELECOMMUNICATIONS ACT OF THE PHILIPPINES"
 date_filed = "2016-06-30"
@@ -10,37 +13,38 @@ long_title = "AN ACT EXPANDING THE COVERAGE AND STRENGTHENING THE POWERS OF THE 
 scope = "National"
 subjects = [ "National Telecommunications Commission (NTC)", "Public Telecommunications Act of the Philippines (R.A.No.7925)", "Telecommunications",]
 authors_raw = "Recto, Ralph G., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-14"
 action = "Letter from Senator JOEL VILLANUEVA dated October 25, 2016, requesting that he be made coauthor of SBN-68, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-01"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-19"
 action = "Returned and submitted by the Committee on PUBLIC SERVICES per Committee Report No. 302, recommending that it be substituted by SBN-1755;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "SUBSTITUTED BY SBN-1755 UNDER COMMITTEE REPORT NO. 302."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/20/2018"
+date = "2018-03-20"
 
 [[committees]]
 name = "Public Services"

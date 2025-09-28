@@ -1,8 +1,11 @@
 id = "01K67YJRAQ52WCXBA54A76EQQT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02502"
+
+[meta]
 bill_number = 2502
 congress = 18
-canonical = "SBN-02502"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2502", "https://web.senate.gov.ph/lisdata/3722733573!.pdf",]
 title = "YOUNG FARMERS AND FISHERFOLK CHALLENGE PROGRAM"
 date_filed = "2022-01-31"
@@ -10,41 +13,42 @@ long_title = "AN ACT ESTABLISHING THE YOUNG FARMERS AND FISHERFOLK CHALLENGE PRO
 scope = "National"
 subjects = [ "Fisherfolk", "Young Farmers Program",]
 authors_raw = "Marcos, Imee R., Angara, Sonny, Revilla Jr., Ramon Bong, Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2022-01-31"
 action = "Prepared and submitted jointly by the Committees on YOUTH, AGRICULTURE, FOOD AND AGRARIAN REFORM, WAYS AND MEANS and FINANCE with Senators IMEE R. MARCOS and SONNY ANGARA as authors per Committee Report No. 581, recommending its approval in substitution of SBN-884, taking into consideration HBN-9575;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Sponsor: Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Letter from Senator RAMON BONG REVILLA JR. expressing his intent to be a co-author of SBN-2502, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Letter from Senator FRANCIS 'KIKO' N. PANGILINAN requesting to be made co-author of SBN-2502, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Sponsorship speech delivered by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Senators JUAN MIGUEL 'MIGZ' F. ZUBIRI and JOEL VILLANUEVA were made co-sponsors;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/2/2022"
+date = "2022-02-02"
 
 [[committees]]
 name = "Youth"

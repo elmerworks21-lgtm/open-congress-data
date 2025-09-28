@@ -1,25 +1,29 @@
 id = "01K67YJ2JD85D11DX2ZRSQEK1P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02415"
+
+[meta]
 bill_number = 2415
 congress = 14
-canonical = "SBN-02415"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2415", "https://web.senate.gov.ph/lisdata/77066944!.pdf",]
 title = "PHILIPPINE PUBLIC SAFETY COLLEGE SYSTEM ACT OF 2008"
 date_filed = "2008-06-24"
 long_title = "AN ACT TO STRENGTHEN THE PHILIPPINE PUBLIC SAFETY COLLEGE SYSTEM AS THE PREMIER EDUCATIONAL INSTITUTION FOR TRAINING, HUMAN RESOURCES DEVELOPMENT AND CONTINUING EDUCATION OF ALL POLICE, FIRE AND JAIL MANAGEMENT PERSONNEL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "National"
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-06-24"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS; EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2008"
+date = "2008-07-29"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

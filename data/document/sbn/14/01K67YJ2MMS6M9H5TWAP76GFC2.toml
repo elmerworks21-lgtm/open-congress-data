@@ -1,8 +1,11 @@
 id = "01K67YJ2MMS6M9H5TWAP76GFC2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02519"
+
+[meta]
 bill_number = 2519
 congress = 14
-canonical = "SBN-02519"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2519", "https://web.senate.gov.ph/lisdata/80057241!.pdf",]
 title = "TOXIC SUBSTANCES AND HAZARDOUS AND NUCLEAR WASTES CONTROL ACT OF 1990"
 date_filed = "2008-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO FURTHER PROTECT THE ENVIRONMENT FROM TOXIC SUBSTANCES AN
 scope = "National"
 subjects = [ "Toxic Substances/Hazardous Waste", "R.A.No. 6969, Amendments",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-06"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-11"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/11/2008"
+date = "2008-08-11"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,24 +1,28 @@
 id = "01K67YM5N8F3GX7R1RSK3GW02J"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-01616"
+
+[meta]
 bill_number = 1616
 congress = 17
-canonical = "HBN-01616"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-1616", "https://web.senate.gov.ph/lisdata/2695723177!.pdf",]
 title = "EXEMPTING SYSTEM LOSS CHARGE FROM THE VALUE-ADDED TAX"
 long_title = "AN ACT EXEMPTING THE SYSTEM LOSS CHARGE COMPONENT IN THE SALE OF ELECTRICITY BY DISTRIBUTION COMPANIES AND ELECTRIC COOPERATIVES FROM THE COVERAGE OF THE VALUE-ADDED TAX, AMENDING FOR THE PURPOSE SECTION 109 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
 scope = "National"
 subjects = [ "Electric Cooperatives", "National Internal Revenue Code (NIRC)", "Tax Exemption", "Taxes (Value-Added Tax / Vat)",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-11-29"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-04"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/4/2017"
+date = "2017-12-04"
 
 [[committees]]
 name = "Ways and Means"

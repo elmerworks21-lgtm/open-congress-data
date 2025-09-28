@@ -1,8 +1,11 @@
 id = "01K67YJQ8DXF8TF07F1WJXNEDR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01265"
+
+[meta]
 bill_number = 1265
 congress = 18
-canonical = "SBN-01265"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1265", "https://web.senate.gov.ph/lisdata/3214828996!.pdf",]
 title = "LIVING ORGAN DONORS ACT OF 2020"
 date_filed = "2020-01-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE DONATION AND TRANSPLANTATION OF HUMAN ORGANS
 scope = "National"
 subjects = [ "Organ Donation",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2020-01-14"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-21"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/21/2020"
+date = "2020-01-21"
 
 [[committees]]
 name = "Health and Demography"

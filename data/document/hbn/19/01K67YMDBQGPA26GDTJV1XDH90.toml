@@ -1,52 +1,56 @@
 id = "01K67YMDBQGPA26GDTJV1XDH90"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08325"
+
+[meta]
 bill_number = 8325
 congress = 19
-canonical = "HBN-08325"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8325", "https://web.senate.gov.ph/lisdata/4191438168!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS HOSPITAL ACT"
 long_title = "AN ACT ESTABLISHING THE OVERSEAS FILIPINO WORKERS HOSPITAL, AS A LEVEL III HOSPITAL UNDER THE DIRECT SUPERVISION AND CONTROL OF THE DEPARTMENT OF MIGRANT WORKERS, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFWS)/ Migrant Workers", "Hospitals, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-25"
 action = "Read on First Reading and Referred to the Committees on MIGRANT WORKERS; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-16"
 action = "Transferred primarily to the Committee on HEALTH AND DEMOGRAPHY; and secondarily to the Committees on MIGRANT WORKERS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "Returned jointly by the Committees on HEALTH AND DEMOGRAPHY, MIGRANT WORKERS, WAYS AND MEANS and FINANCE per Committee Report No. 321, recommending that it be considered in SBN-2822;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "CONSIDERED IN SBN-2822 UNDER COMMITTEE REPORT NO. 321."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/11/2024"
+date = "2024-09-11"
 
 [[committees]]
 name = "Health and Demography"

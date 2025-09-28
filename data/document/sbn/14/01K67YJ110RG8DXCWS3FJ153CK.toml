@@ -1,8 +1,11 @@
 id = "01K67YJ110RG8DXCWS3FJ153CK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00435"
+
+[meta]
 bill_number = 435
 congress = 14
-canonical = "SBN-00435"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-435", "https://web.senate.gov.ph/lisdata/46123963!.pdf",]
 title = "GENERIC ACT"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER ENSURING THE USE OF THE GENERIC NAMES IN THE MANUFA
 scope = "National"
 subjects = [ "Generic Act (RA 6675)", "Drugs and Medicines", "Generic Drugs Board, Creation",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Health and Demography"

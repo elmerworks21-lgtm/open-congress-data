@@ -1,8 +1,11 @@
 id = "01K67YJCPSKTDFBNYXZ0EMYZ9S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00657"
+
+[meta]
 bill_number = 657
 congress = 16
-canonical = "SBN-00657"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-657", "https://web.senate.gov.ph/lisdata/1659313831!.pdf",]
 title = "LOCAL GOVERNMENT UNITS (LGU) SOLIDARITY FUND FOR DISASTER RESPONSE AND RECOVERY ACT"
 date_filed = "2013-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE SOLIDARITY FUND OF THE LOCAL GOVERNMENT UN
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Disaster Awareness/Mitigation",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Local Government"

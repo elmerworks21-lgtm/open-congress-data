@@ -1,8 +1,11 @@
 id = "01K67YJW167895AQ637NKDVF4J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01646"
+
+[meta]
 bill_number = 1646
 congress = 19
-canonical = "SBN-01646"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1646", "https://web.senate.gov.ph/lisdata/4031236727!.pdf",]
 title = "CAAP DEVELOPMENT AND MODERNIZATION FUND ACT OF 2023"
 date_filed = "2023-01-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR DEVELOPMENT AND MODERNIZATION FUND FOR THE CI
 scope = "National"
 subjects = [ "Civil Aviation Authority of the Philippines",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-10"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/23/2023"
+date = "2023-01-23"
 
 [[committees]]
 name = "Public Services"

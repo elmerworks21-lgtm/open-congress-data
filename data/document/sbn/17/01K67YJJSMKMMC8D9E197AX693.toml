@@ -1,8 +1,11 @@
 id = "01K67YJJSMKMMC8D9E197AX693"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02154"
+
+[meta]
 bill_number = 2154
 congress = 17
-canonical = "SBN-02154"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2154", "https://web.senate.gov.ph/lisdata/2934325951!.pdf",]
 title = "FREEPORT AREA OF QUIRINO (FAQ) ACT"
 date_filed = "2019-01-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE AND FREEPORT IN THE AR
 scope = "National"
 subjects = [ "Freeport Area of Quirino (FAQ)",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-16"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-21"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/21/2019"
+date = "2019-01-21"
 
 [[committees]]
 name = "Economic Affairs"

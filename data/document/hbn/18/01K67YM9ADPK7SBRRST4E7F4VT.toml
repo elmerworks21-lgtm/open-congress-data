@@ -1,28 +1,32 @@
 id = "01K67YM9ADPK7SBRRST4E7F4VT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07648"
+
+[meta]
 bill_number = 7648
 congress = 18
-canonical = "HBN-07648"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7648", "https://web.senate.gov.ph/lisdata/3361230468!.pdf",]
 title = "BARANGAY CASIKLAN (AGUSAN DEL NORTE)"
 long_title = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY CASIKLAN IN THE MUNICIPALITY OF LAS NIEVES, PROVINCE OF AGUSAN DEL NORTE"
 scope = "Local"
 subjects = [ "Barangay, Creation",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-29"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/29/2020"
+date = "2020-09-29"
 
 [[committees]]
 name = "Local Government"

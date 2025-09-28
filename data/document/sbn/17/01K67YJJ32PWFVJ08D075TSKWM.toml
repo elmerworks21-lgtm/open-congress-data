@@ -1,8 +1,11 @@
 id = "01K67YJJ32PWFVJ08D075TSKWM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01320"
+
+[meta]
 bill_number = 1320
 congress = 17
-canonical = "SBN-01320"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1320", "https://web.senate.gov.ph/lisdata/2536121862!.pdf",]
 title = "PALLIATIVE AND HOSPICE CARE ACT"
 date_filed = "2017-02-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT INTEGRATING PALLIATIVE AND HOSPICE CARE INTO THE PHILIPPINE
 scope = "National"
 subjects = [ "Palliative Care",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2017-02-09"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-13"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/13/2017"
+date = "2017-02-13"
 
 [[committees]]
 name = "Health and Demography"

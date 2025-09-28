@@ -1,8 +1,11 @@
 id = "01K67YJX1W17M1TBYGFD4S3R84"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02926"
+
+[meta]
 bill_number = 2926
 congress = 19
-canonical = "SBN-02926"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2926", "https://web.senate.gov.ph/lisdata/4570141673!.pdf",]
 title = "INCREASING THE AGE OF RETIREMENT FOR OFFICERS AND NON-OFFICERS OF THE PNP"
 date_filed = "2025-01-20"
@@ -10,37 +13,38 @@ long_title = "AN ACT INCREASING THE COMPULSORY AGE OF RETIREMENT FOR OFFICERS AN
 scope = "National"
 subjects = [ "Philippine National Police (PNP)", "Retirement Age",]
 authors_raw = "Marcos, Imee R., Dela Rosa, Ronald \"Bato\", Ejercito, Joseph Victor G., Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2025-01-20"
 action = "Prepared and submitted jointly by the Committees on PUBLIC ORDER AND DANGEROUS DRUGS and LOCAL GOVERNMENT with Senators IMEE R. MARCOS, RONALD 'BATO' DELA ROSA and JOSEPH VICTOR G. EJERCITO as authors per Committee Report No. 450, recommending its approval in substitution of S. Nos. 2758 and 2919;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-20"
 action = "Sponsor: Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-20"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-20"
 action = "Sponsorship speech delivered by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-20"
 action = "Co-sponsorship speech of Senators FRANCIS 'TOL' N. TOLENTINO, JINGGOY E. ESTRADA, ROBINHOOD C. PADILLA and JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-20"
 action = "Senator JINGGOY E. ESTRADA was made a co-author;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "1/20/2025"
+date = "2025-01-20"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

@@ -1,24 +1,28 @@
 id = "01K67YM6RMM8E6HZ4QPNAR5DYA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09028"
+
+[meta]
 bill_number = 9028
 congress = 17
-canonical = "HBN-09028"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-9028", "https://web.senate.gov.ph/lisdata/2990426615!.pdf",]
 title = "STO, DOMINGO, STA, CATALINA, BANTAY, SAN ILDEFONSO, ETC, AS TOURIST DESTINATIONS (ILOCOS SUR)"
 long_title = "AN ACT DECLARING THE MUNICIPALITIES OF STO. DOMINGO, STA. CATALINA, BANTAY, SAN ILDEFONSO, SAN VICENTE, SINAIT, CABUGAO, SAN JUAN, MAGSINGAL AND CAOAYAN, PROVINCE OF ILOCOS SUR AS TOURIST DESTINATIONS, PROVIDING FOR THEIR DEVELOPMENT AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Tourism"

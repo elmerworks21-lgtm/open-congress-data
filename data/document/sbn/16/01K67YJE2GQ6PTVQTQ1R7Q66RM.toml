@@ -1,8 +1,11 @@
 id = "01K67YJE2GQ6PTVQTQ1R7Q66RM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02683"
+
+[meta]
 bill_number = 2683
 congress = 16
-canonical = "SBN-02683"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2683", "https://web.senate.gov.ph/lisdata/2073617829!.pdf",]
 title = "SOUTH COTABATO STATE COLLEGE"
 date_filed = "2015-03-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE SURALLAH NATIONAL AGRICULTURAL SCHOOL IN THE
 scope = "Local"
 subjects = [ "State Colleges and Universities (SCUS)", "Schools, Conversion",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2015-03-10"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-11"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/11/2015"
+date = "2015-03-11"
 
 [[committees]]
 name = "Rules"

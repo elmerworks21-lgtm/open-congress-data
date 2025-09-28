@@ -1,48 +1,52 @@
 id = "01K67YM2R0BV2GWJTQ4VGE5WZN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04013"
+
+[meta]
 bill_number = 4013
 congress = 16
-canonical = "HBN-04013"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4013", "https://web.senate.gov.ph/lisdata/2004117157!.pdf",]
 title = "GOV. BADO DANGWA NATIONAL ROAD (PROVINCE OF BENGUET)"
 long_title = "AN ACT RENAMING THE ACOP - TUBLAY, KAPANGAN - KIBUNGAN - BAKUN - SINIPSIP, BUGUIAS SECONDARY NATIONAL ROAD IN THE PROVINCE OF BENGUET TO GOV. BADO DANGWA NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Naming",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-11-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-11-18"
 action = "Read on First Reading and Referred to the Committee on PUBLIC WORKS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-12"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-24"
 action = "Returned and submitted by the Committee on PUBLIC WORKS per Committee Report No. 207, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-24"
 action = "Sponsor: Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-15"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-15"
 action = "Omnibus Sponsorship speech of Senator FERDINAND 'BONGBONG' R. MARCOS on 3 House Bills renaming national roads (HBN-1140, 1247, 4215, 4013, 4012, and 5204);"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "12/15/2015"
+date = "2015-12-15"
 
 [[committees]]
 name = "Public Works"

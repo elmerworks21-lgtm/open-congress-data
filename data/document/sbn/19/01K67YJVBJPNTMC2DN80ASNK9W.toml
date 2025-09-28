@@ -1,8 +1,11 @@
 id = "01K67YJVBJPNTMC2DN80ASNK9W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00709"
+
+[meta]
 bill_number = 709
 congress = 19
-canonical = "SBN-00709"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-709", "https://web.senate.gov.ph/lisdata/3838234836!.pdf",]
 title = "SOCIAL MEDIA AWARENESS IN SCHOOLS AND UNIVERSITIES ACT OF 2022"
 date_filed = "2022-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCORPORATING THE VALUE OF RESPONSIBLE, FAIR AND TRUTHFUL U
 scope = "National"
 subjects = [ "Social Media",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2022"
+date = "2022-08-23"
 
 [[committees]]
 name = "Basic Education"

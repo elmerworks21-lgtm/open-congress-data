@@ -1,24 +1,28 @@
 id = "01K67YKW1PJMTTZ9CAHR30DEXB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04114"
+
+[meta]
 bill_number = 4114
 congress = 14
-canonical = "HBN-04114"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4114", "https://web.senate.gov.ph/lisdata/75066756!.pdf",]
 title = "INCREASE CAPITAL STOCK OF LWUA"
 long_title = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 198, AS AMENDED, OTHERWISE KNOWN AS THE PROVINCIAL WATER UTILITIES ACT OF 1973"
 scope = "National"
 subjects = [ "Local Water Utilities Administration (LWUA)",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-28"
 action = "Filed in the Senate requesting for concurrence by Representatives ERIC D. SINGSON, ROGER G. MERCADO and EDCEL C. LAGMAN, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2008"
+date = "2008-06-02"
 
 [[committees]]
 name = "Public Works"

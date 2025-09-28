@@ -1,8 +1,11 @@
 id = "01K67YJHSBM4WFB5PNBQ1ST9Y0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00928"
+
+[meta]
 bill_number = 928
 congress = 17
-canonical = "SBN-00928"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-928", "https://web.senate.gov.ph/lisdata/2448521069!.pdf",]
 title = "CYBERCRIME PREVENTION ACT OF 2012"
 date_filed = "2016-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECRIMINALIZING LIBEL, REPEALING FOR THIS PURPOSE ARTICLES 
 scope = "National"
 subjects = [ "Cybercrime", "Revised Penal Code (R.A.No. 3815)", "Libel",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Justice and Human Rights"

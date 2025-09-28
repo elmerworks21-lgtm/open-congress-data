@@ -1,8 +1,11 @@
 id = "01K67YCPKJQVKZZC2CGFG9HBJS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02134"
+
+[meta]
 bill_number = 2134
 congress = 13
-canonical = "SBN-02134"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2134", "https://web.senate.gov.ph/lisdata/40533406!.pdf",]
 title = "LIABILITY OF SHIP AGENTS IN COASTWISE/FOREIGN TRADE"
 date_filed = "2005-09-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT LIMITING THE LIABILITY OF SHIP AGENTS ENGAGED IN COASTWISE 
 scope = "National"
 subjects = [ "Ship Agents (Coastwise/Foreign Trade)", "Code of Commerce (Arts. 586, 587, 618, 826)",]
 authors_raw = "Flavier, Juan M."
-[[legislative_history]]
+
+[[history]]
 date = "2005-09-26"
 action = "Introduced by Senator JUAN M. FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-09-27"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/27/2005"
+date = "2005-09-27"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YCPS15QFF41ZP0MSSS9FC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02413"
+
+[meta]
 bill_number = 2413
 congress = 13
-canonical = "SBN-02413"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2413", "https://web.senate.gov.ph/lisdata/56664718!.pdf",]
 title = "CELLULAR PHONE MESSAGE SPAMMING PROTECTION ACT OF 2006"
 date_filed = "2006-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE USE OF TEXT, GRAPHICS, MULTIMEDIA AND OTHER 
 scope = "National"
 subjects = [ "Cell Phones/Cellular Phones Sms", "Cellular Phones/Cell Phones Spamming Ban",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2006-07-26"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-26"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/26/2006"
+date = "2006-07-26"
 
 [[committees]]
 name = "Public Services"

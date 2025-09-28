@@ -1,24 +1,28 @@
 id = "01K67YKRAYR36E9ZPP2Z1C99P6"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05650"
+
+[meta]
 bill_number = 5650
 congress = 13
-canonical = "HBN-05650"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5650", "https://web.senate.gov.ph/lisdata/62955239!.pdf",]
 title = "PRESIDENT DIOSDADO MACAPAGAL MEMORIAL NATIONAL HIGH SCHOOL"
 long_title = "AN ACT SEPARATING THE MALAMIG NATIONAL HIGH SCHOOL - EXTENSION IN BARANGAY MALIGAYA, MUNICIPALITY OF GLORIA, PROVINCE OF ORIENTAL MINDORO FROM THE MALAMIG NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE PRESIDENT DIOSDADO MACAPAGAL MEMORIAL NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Oriental Mindoro)", "President Diosdado Macapagal Memorial National High School",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-10-30"
 action = "Filed in the Senate requesting for concurrence by Representatives ALFONSO V. UMALI JR., EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-08"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/8/2006"
+date = "2006-11-08"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJ114TZTJ2BR4K7XKFG5G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00441"
+
+[meta]
 bill_number = 441
 congress = 14
-canonical = "SBN-00441"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-441", "https://web.senate.gov.ph/lisdata/46183969!.pdf",]
 title = "FINANCIAL ASSISTANCE TO THE FAMILY OF KILLED SK, BARANGAY OFFICERS"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING SPECIAL FINANCIAL ASSISTANCE AND BENEFITS TO THE F
 scope = "National"
 subjects = [ "Barangay Officials", "Sangguniang Kabataan (SK)", "Barangay Tanod Brigades (Benefits/Incentives)", "Financial Assistance and Benefits",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Local Government"

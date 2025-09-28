@@ -1,8 +1,11 @@
 id = "01K67YJ22Q1H5Q6RA0AQEZ0KS7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01755"
+
+[meta]
 bill_number = 1755
 congress = 14
-canonical = "SBN-01755"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1755", "https://web.senate.gov.ph/lisdata/62055536!.pdf",]
 title = "CLEAN COMMON CARRIERS ACT OF 2007"
 date_filed = "2007-10-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE PENALTIES OF DRIVERS AND OPERATORS OF COMMON
 scope = "National"
 subjects = [ "Clean Common Carriers",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/5/2007"
+date = "2007-11-05"
 
 [[committees]]
 name = "Justice and Human Rights"

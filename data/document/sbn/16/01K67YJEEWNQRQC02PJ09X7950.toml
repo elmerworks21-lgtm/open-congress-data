@@ -1,8 +1,11 @@
 id = "01K67YJEEWNQRQC02PJ09X7950"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03000"
+
+[meta]
 bill_number = 3000
 congress = 16
-canonical = "SBN-03000"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3000", "https://web.senate.gov.ph/lisdata/2247519182!.pdf",]
 title = "UNLAWFUL ACQUISITION, OR POSSESSION OF FIREARMS AND AMMUNITION"
 date_filed = "2015-11-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10591, OTHERWISE KNOWN AS AN ACT 
 scope = "National"
 subjects = [ "Firearms", "Tanim-Bala (Planting Bullets)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2015-11-04"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-09"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/9/2015"
+date = "2015-11-09"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

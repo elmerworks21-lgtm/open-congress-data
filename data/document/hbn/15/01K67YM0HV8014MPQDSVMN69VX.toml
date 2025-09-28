@@ -1,44 +1,48 @@
 id = "01K67YM0HV8014MPQDSVMN69VX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06852"
+
+[meta]
 bill_number = 6852
 congress = 15
-canonical = "HBN-06852"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6852", "https://web.senate.gov.ph/lisdata/1522712888!.pdf",]
 title = "DESIGN CENTER OF THE PHILIPPINES"
 long_title = "AN ACT PROMOTING AND STRENGTHENING FILIPINO DESIGN, PROVIDING FOR THE PURPOSE A NATIONAL DESIGN POLICY AND RENAMING THE PRODUCT DEVELOPMENT AND DESIGN CENTER OF THE PHILIPPINES INTO THE DESIGN CENTER OF THE PHILIPPINES AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Design Center of the Philippines",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-06"
 action = "Senate adopted HBN-6852 as an amendment to SBN-3071."
 
-[[legislative_history]]
+[[history]]
 date = "2013-03-18"
 action = "Enrolled copies of the consolidated version of HBN-6852 and SBN-3071, received by the Senate for the signature of Acting Senate Secretary Edwin B. Bellen and Senate President Juan Ponce Enrile;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-18"
 action = "Enrolled copies of the consolidated version of HBN-6852 and SBN-3071, sent back to the House of Representatives, already signed by Acting Senate Secretary Edwin B. Bellen and Senate President Juan Ponce Enrile;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-05-15"
 action = "Approved and signed into law, in consolidation with SBN-3071, by the President of the Philippines, His Excellency President Benigno S. Aquino III and became;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-05-15"
 action = "REPUBLIC ACT NO. 10557."
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "5/15/2013"
+date = "2013-05-15"
 
 [[committees]]
 name = "Rules"

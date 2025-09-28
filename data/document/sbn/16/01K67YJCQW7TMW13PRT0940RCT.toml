@@ -1,8 +1,11 @@
 id = "01K67YJCQW7TMW13PRT0940RCT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00711"
+
+[meta]
 bill_number = 711
 congress = 16
-canonical = "SBN-00711"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-711", "https://web.senate.gov.ph/lisdata/1660413842!.pdf",]
 title = "ALIS TB ACT OF 2013"
 date_filed = "2013-07-10"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROMOTING THE TREATMENT AND ERADICATION OF TUBERCULOSIS, AM
 scope = "National"
 subjects = [ "Tuberculosis", "National Health Insurance", "Philippine Health Insurance Corporation (Philhealth)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-10"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-20"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, EDUCATION, ARTS AND CULTURE and FINANCE per Committee Report No. 146, recommending that it be considered in SBN-2653;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-25"
 action = "CONSIDERED IN SBN-2653 UNDER C.R. NO. 146 WHICH BECAME R.A.NO. 10767 ON APRIL 26, 2016."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/25/2015"
+date = "2015-05-25"
 
 [[committees]]
 name = "Health and Demography"

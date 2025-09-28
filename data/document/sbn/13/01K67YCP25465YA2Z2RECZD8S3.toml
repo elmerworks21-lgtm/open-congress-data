@@ -1,8 +1,11 @@
 id = "01K67YCP25465YA2Z2RECZD8S3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01232"
+
+[meta]
 bill_number = 1232
 congress = 13
-canonical = "SBN-01232"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1232", "https://web.senate.gov.ph/lisdata/24451811!.pdf",]
 title = "PENALIZING THE FAILURE TO REPORT ACTS OF HAZING"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING THE FAILURE TO REPORT ACTS OF HAZING, AMENDING R
 scope = "National"
 subjects = [ "Hazing (Failure to Report)", "R.A. 8049 (Hazing Regulation Act)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

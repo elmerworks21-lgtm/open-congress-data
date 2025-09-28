@@ -1,8 +1,11 @@
 id = "01K67YCNKFHMC1EDEPXSAFYQFY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00424"
+
+[meta]
 bill_number = 424
 congress = 13
-canonical = "SBN-00424"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-424", "https://web.senate.gov.ph/lisdata/1580882!.pdf",]
 title = "NATIONAL TELECOMMUNICATIONS COMMISSION REORGANIZATION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REORGANIZING THE NATIONAL TELECOMMUNICATIONS COMMISSION, DE
 scope = "National"
 subjects = [ "National Telecommunications Commission", "Reorganization (NTC)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Public Services"

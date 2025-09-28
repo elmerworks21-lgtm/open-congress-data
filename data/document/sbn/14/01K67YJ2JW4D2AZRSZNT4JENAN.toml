@@ -1,8 +1,11 @@
 id = "01K67YJ2JW4D2AZRSZNT4JENAN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02438"
+
+[meta]
 bill_number = 2438
 congress = 14
-canonical = "SBN-02438"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2438", "https://web.senate.gov.ph/lisdata/77296969!.pdf",]
 title = "GETTING YOUTH RE-INVESTED IN ENVIRONMENTAL EDUCATION NOW ACT; OR GREEN ACT"
 date_filed = "2008-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENHANCE ENVIRONMENTAL JUSTICE EDUCATION IN HIGH SCHOOLS 
 scope = "National"
 subjects = [ "Differently Abled", "Disabled", "Handicapped", "Disadvantaged",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2008"
+date = "2008-07-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

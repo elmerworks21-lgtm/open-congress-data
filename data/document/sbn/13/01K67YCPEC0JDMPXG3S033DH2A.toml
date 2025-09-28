@@ -1,8 +1,11 @@
 id = "01K67YCPEC0JDMPXG3S033DH2A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01879"
+
+[meta]
 bill_number = 1879
 congress = 13
-canonical = "SBN-01879"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1879", "https://web.senate.gov.ph/lisdata/31392338!.pdf",]
 title = "UNIFORM REQUIREMENTS AND/OR PROCEDURE FOR MAKING ARREST"
 date_filed = "2005-01-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE UNIFORM REQUIREMENTS AND/OR PROCEDURE FOR MAKING
 scope = "National"
 subjects = [ "Arrest (Uniform Requirements/Procedure)", "Warrant of Arrest",]
 authors_raw = "Lim, Alfredo S."
-[[legislative_history]]
+
+[[history]]
 date = "2005-01-10"
 action = "Introduced by Senator ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-11"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/11/2005"
+date = "2005-01-11"
 
 [[committees]]
 name = "Justice and Human Rights"

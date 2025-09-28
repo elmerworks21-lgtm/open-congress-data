@@ -1,24 +1,28 @@
 id = "01K67YM2MT57M70YCZZ820S7JX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02230"
+
+[meta]
 bill_number = 2230
 congress = 16
-canonical = "HBN-02230"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-2230", "https://web.senate.gov.ph/lisdata/1878115925!.pdf",]
 title = "PARANG DISTRICT HOSPITAL"
 long_title = "AN ACT ESTABLISHING A TEN (10)-BED CAPACITY DISTRICT HOSPITAL IN THE MUNICIPALITY OF PARANG, PROVINCE OF MAGUINDANAO TO BE KNOWN AS THE PARANG DISTRICT HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-02-25"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/3/2014"
+date = "2014-03-03"
 
 [[committees]]
 name = "Health and Demography"

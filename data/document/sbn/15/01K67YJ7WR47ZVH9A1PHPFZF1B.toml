@@ -1,8 +1,11 @@
 id = "01K67YJ7WR47ZVH9A1PHPFZF1B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01049"
+
+[meta]
 bill_number = 1049
 congress = 15
-canonical = "SBN-01049"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1049", "https://web.senate.gov.ph/lisdata/85467102!.pdf",]
 title = "SPECIAL ALLOWANCE FOR THE OFFICERS AND EMPLOYEES OF THE COMMISSION ON AUDIT (COA)"
 date_filed = "2010-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING ADDITIONAL COMPENSATION IN THE FORM OF SPECIAL ALL
 scope = "National"
 subjects = [ "Commission on Audit (COA)",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-08"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-23"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2010"
+date = "2010-08-23"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

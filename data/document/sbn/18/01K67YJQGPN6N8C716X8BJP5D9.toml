@@ -1,8 +1,11 @@
 id = "01K67YJQGPN6N8C716X8BJP5D9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01606"
+
+[meta]
 bill_number = 1606
 congress = 18
-canonical = "SBN-01606"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1606", "https://web.senate.gov.ph/lisdata/3303229878!.pdf",]
 title = "INCREASING THE BED CAPACITY OF THE NORTHERN MINDANAO MEDICAL CENTER"
 date_filed = "2020-06-18"
@@ -10,29 +13,30 @@ long_title = "AN ACT INCREASING THE BED CAPACITY OF THE NORTHERN MINDANAO MEDICA
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-06-18"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 520, recommending that it be considered in HBN-7974;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "CONSIDERED IN HBN-7974 UNDER COMMITTEE REPORT NO. 520, WHICH BECAME REPUBLIC ACT NO. 11716 ON APRIL 29, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/25/2022"
+date = "2022-01-25"
 
 [[committees]]
 name = "Health and Demography"

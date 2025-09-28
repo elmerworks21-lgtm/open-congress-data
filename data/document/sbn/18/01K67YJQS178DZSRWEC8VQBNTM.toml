@@ -1,8 +1,11 @@
 id = "01K67YJQS178DZSRWEC8VQBNTM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01957"
+
+[meta]
 bill_number = 1957
 congress = 18
-canonical = "SBN-01957"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1957", "https://web.senate.gov.ph/lisdata/3417930979!.pdf",]
 title = "SARANGANI SPECIAL ECONOMIC ZONE AND FREEPORT ACT"
 date_filed = "2020-12-16"
@@ -10,41 +13,42 @@ long_title = "AN ACT ESTABLISHING THE SPECIAL ECONOMIC ZONE AND FREEPORT IN THE 
 scope = "Local"
 subjects = [ "Special Economic Zone",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2020-12-16"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-18"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-22"
 action = "Returned and submitted jointly by the Committees on ECONOMIC AFFAIRS, LOCAL GOVERNMENT, WAYS AND MEANS and FINANCE per Committee Report No. 441, recommending its approval with amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-17"
 action = "Sponsor: Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Sponsorship speech of Senator IMEE R. MARCOS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/2/2022"
+date = "2022-02-02"
 
 [[committees]]
 name = "Economic Affairs"

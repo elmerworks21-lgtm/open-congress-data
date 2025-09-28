@@ -1,8 +1,11 @@
 id = "01K67YJQHNEAM8M5T7VF5TZCM0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01653"
+
+[meta]
 bill_number = 1653
 congress = 18
-canonical = "SBN-01653"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1653", "https://web.senate.gov.ph/lisdata/3313829995!.pdf",]
 title = "EASTERN VISAYAS STATE UNIVERSITY DULAG CAMPUS ACT"
 date_filed = "2020-07-07"
@@ -10,29 +13,30 @@ long_title = "AN ACT CONVERTING THE DULAG SATELLITE CAMPUS OF THE EASTERN VISAYA
 scope = "Local"
 subjects = [ "Schools, Conversion",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-07-07"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-27"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE per Committee Report No. 314, recommending that it be considered in HBN-4959;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-27"
 action = "CONSIDERED IN HBN-4959 UNDER COMMITTEE REPORT NO. 314, WHICH BECAME R.A. NO. 11779 ON MAY 29, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/27/2021"
+date = "2021-09-27"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

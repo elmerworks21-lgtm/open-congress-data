@@ -1,8 +1,11 @@
 id = "01K67YJZZ2KKQ9580DVMQQ8640"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00273"
+
+[meta]
 bill_number = 273
 congress = 20
-canonical = "SBN-00273"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-273", "https://web.senate.gov.ph/lisdata/4676242769!.pdf",]
 title = "P200 DAILY MINIMUM WAGE INCREASE ACT OF 2025"
 date_filed = "2025-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A TWO HUNDRED PESOS (P200.00) DAILY MINIMUM W
 scope = "National"
 subjects = [ "Wage", "Wage Increase/Salary Increase",]
 authors_raw = "Aquino, Bam"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-08"
 action = "Introduced by Senator BAM AQUINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-05"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2025"
+date = "2025-08-05"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,24 +1,28 @@
 id = "01K67YKWXBADTJP61END26Q0N8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06096"
+
+[meta]
 bill_number = 6096
 congress = 14
-canonical = "HBN-06096"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6096", "https://web.senate.gov.ph/lisdata/111379871!.pdf",]
 title = "RETIREMENT BENEFITS"
 long_title = "AN ACT REQUIRING ALL GOVERNMENT OFFICES TO ENSURE THE RELEASE OF THE RETIREMENT BENEFITS OF ITS EMPLOYEES WITHIN FIFTEEN DAYS FROM RETIREMENT"
 scope = "National"
 subjects = [ "Retirement Benefits Payment (Immediate Release)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-07"
 action = "Filed in the Senate requesting for concurrence by Representatives ROILO S. GOLEZ, RAUL T. GONZALEZ JR., JOSE CARLOS V. LACSON, MA. AMELITA C. VILLAROSA and EDUARDO C. ZIALCITA, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-11"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/11/2009"
+date = "2009-05-11"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

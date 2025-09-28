@@ -1,8 +1,11 @@
 id = "01K67YJVY3Z4F4WBVA3EE1DRDD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01511"
+
+[meta]
 bill_number = 1511
 congress = 19
-canonical = "SBN-01511"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1511", "https://web.senate.gov.ph/lisdata/3989336332!.pdf",]
 title = "INCREASING THE SERVICE INCENTIVE LEAVE OF EMPLOYESS"
 date_filed = "2022-11-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE SERVICE INCENTIVE LEAVE OF EMPLOYEES, AMENDI
 scope = "National"
 subjects = [ "Service Incentive Leave", "Presidential Decree (P.D.No. 442)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-16"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2022"
+date = "2022-11-22"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

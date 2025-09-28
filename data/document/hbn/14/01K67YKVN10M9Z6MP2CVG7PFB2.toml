@@ -1,23 +1,27 @@
 id = "01K67YKVN10M9Z6MP2CVG7PFB2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00066"
+
+[meta]
 bill_number = 66
 congress = 14
-canonical = "HBN-00066"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-66", "https://web.senate.gov.ph/lisdata/1272911423!.pdf",]
 title = "NATIONAL MUSEUM ACT"
 long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED EIGHTY-FOUR HUNDRED NINETY-TWO, OTHERWISE KNOWN AS THE NATIONAL MUSEUM ACT OF 1998"
 scope = "National"
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-12"
 action = "Filed in the Senate requesting for concurrence by Representatives ROZZANO RUFINO B. BIAZON, DEL R. DE GUZMAN, JUNIE E. CUA, MARIA ISABELLE CLIMACO and NEPTALI M. GONZALES II as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/13/2009"
+date = "2009-10-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

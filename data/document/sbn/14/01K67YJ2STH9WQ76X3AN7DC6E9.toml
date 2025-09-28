@@ -1,8 +1,11 @@
 id = "01K67YJ2STH9WQ76X3AN7DC6E9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02759"
+
+[meta]
 bill_number = 2759
 congress = 14
-canonical = "SBN-02759"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2759", "https://web.senate.gov.ph/lisdata/96798778!.pdf",]
 title = "TANAY REGIONAL TRIAL COURT (RIZAL)"
 date_filed = "2008-11-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING TWO ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COUR
 scope = "Local"
 subjects = [ "Courts (Regional Trial Courts)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-11"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/16/2008"
+date = "2008-12-16"
 
 [[committees]]
 name = "Justice and Human Rights"

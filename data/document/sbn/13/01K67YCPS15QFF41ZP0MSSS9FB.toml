@@ -1,8 +1,11 @@
 id = "01K67YCPS15QFF41ZP0MSSS9FB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02412"
+
+[meta]
 bill_number = 2412
 congress = 13
-canonical = "SBN-02412"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2412", "https://web.senate.gov.ph/lisdata/56654719!.pdf",]
 title = "STUDENT VOUCHER SYSTEM OF PRIVATE EDUCATION"
 date_filed = "2006-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER EXPANDING THE COVERAGE OF THE COLLEGE STUDENT BENEF
 scope = "National"
 subjects = [ "Student Voucher System of Private Education Student Financial Asst. (Pesfa)", "Expanded Gastpe (Students/Teachers)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2006-07-26"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/26/2006"
+date = "2006-07-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJCQS423311BXMX9P6JB7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00706"
+
+[meta]
 bill_number = 706
 congress = 16
-canonical = "SBN-00706"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-706", "https://web.senate.gov.ph/lisdata/1659413833!.pdf",]
 title = "CIVIL CODE"
 date_filed = "2013-07-10"
@@ -10,21 +13,22 @@ long_title = "“AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 386 OR T
 scope = "National"
 subjects = [ "Civil Code of the Philippines",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-10"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-11"
 action = "Change of Committee Referral from the Committee on Constitutional Amendments, Revision of Codes and Laws to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Justice and Human Rights"

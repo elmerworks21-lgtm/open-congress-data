@@ -1,8 +1,11 @@
 id = "01K67YCNP921YDAQMTAZG3ZV5Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00579"
+
+[meta]
 bill_number = 579
 congress = 13
-canonical = "SBN-00579"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-579", "https://web.senate.gov.ph/lisdata/17341110!.pdf",]
 title = "BONBON NATIONAL HIGH SCHOOL, IN LIBON, ALBAY"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT SEPARATING THE BONBON EXTENSION HIGH SCHOOL IN BARANGAY BON
 scope = "Local"
 subjects = [ "Schools, Conversion (Albay)", "Bonbon National High School", "Libon Municipal Agro-Industrial Hs",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-11"
 action = "Read on First Reading and referred to the Committee(s) on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-30"
 action = "Transferred to the Committee on EDUCATION, ARTS AND CULTURE, on motion of Senator Pangilinan;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2006"
+date = "2006-08-30"
 
 [[committees]]
 name = "Education, Arts and Culture"

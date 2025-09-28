@@ -1,8 +1,11 @@
 id = "01K67YJDQA9VK2Y9DPXA19P018"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02215"
+
+[meta]
 bill_number = 2215
 congress = 16
-canonical = "SBN-02215"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2215", "https://web.senate.gov.ph/lisdata/1906816190!.pdf",]
 title = "COMMUNITY DISASTER WAREHOUSE BILL"
 date_filed = "2014-05-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING EMERGENCY WAREHOUSES IN AREAS DEVASTATED BY CALAM
 scope = "National"
 subjects = [ "Calamity/Disaster", "Emergency Response/Emergency Preparedness",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2014-05-07"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-12"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/12/2014"
+date = "2014-05-12"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

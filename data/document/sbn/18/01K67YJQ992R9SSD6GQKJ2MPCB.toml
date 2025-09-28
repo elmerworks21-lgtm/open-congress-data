@@ -1,8 +1,11 @@
 id = "01K67YJQ992R9SSD6GQKJ2MPCB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01306"
+
+[meta]
 bill_number = 1306
 congress = 18
-canonical = "SBN-01306"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1306", "https://web.senate.gov.ph/lisdata/3227729123!.pdf",]
 title = "REDEFINING THE MANDATE OF THE PUBLIC ATTORNEY’S OFFICE (PAO)"
 date_filed = "2020-02-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REDEFINING THE MANDATE OF THE PUBLIC ATTORNEY’S OFFICE (P
 scope = "National"
 subjects = [ "Public Attorneys Office (PAO)", "Administrative Code of 1987 (E.O.No. 292)",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-03"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-03"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/3/2020"
+date = "2020-02-03"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,24 +1,28 @@
 id = "01K67YMCV9REGQG8QMC2GYWKZK"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-01863"
+
+[meta]
 bill_number = 1863
 congress = 19
-canonical = "HBN-01863"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-1863", "https://web.senate.gov.ph/lisdata/4048136888!.pdf",]
 title = "PROVINCIAL AGRARIAN REFORM OFFICE (TUBOD, LANAO DEL NORTE)"
 long_title = "AN ACT TRANSFERRING THE PROVINCIAL AGRARIAN REFORM OFFICE OF LANAO DEL NORTE FROM ILIGAN CITY TO THE MUNICIPALITY OF TUBOD, LANAO DEL NORTE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Lanao Del Norte Agrarian Reform",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/7/2023"
+date = "2023-02-07"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

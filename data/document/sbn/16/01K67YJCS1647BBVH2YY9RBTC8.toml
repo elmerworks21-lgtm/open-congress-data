@@ -1,8 +1,11 @@
 id = "01K67YJCS1647BBVH2YY9RBTC8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00766"
+
+[meta]
 bill_number = 766
 congress = 16
-canonical = "SBN-00766"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-766", "https://web.senate.gov.ph/lisdata/1671313949!.pdf",]
 title = "AGRICULTURE EDUCATION ACT OF 2013"
 date_filed = "2013-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING AGRICULTURE EDUCATION IN THE PHILIPPINES BY E
 scope = "National"
 subjects = [ "Agriculture Education",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-15"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-12"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; AGRICULTURE AND FOOD; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2013"
+date = "2013-08-12"
 
 [[committees]]
 name = "Education, Arts and Culture"

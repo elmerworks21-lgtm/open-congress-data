@@ -1,24 +1,28 @@
 id = "01K67YMD1QQDEDTKXZ5NT52ZSS"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06524"
+
+[meta]
 bill_number = 6524
 congress = 19
-canonical = "HBN-06524"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6524", "https://web.senate.gov.ph/lisdata/4021236621!.pdf",]
 title = "EXTENDING IMPLEMENTATION OF AGRICULTURAL COMPETITIVENESS ENHANCEMENT FUND (ACEF)"
 long_title = "AN ACT FURTHER EXTENDING THE PERIOD OF IMPLEMENTATION OF THE AGRICULTURAL COMPETITIVENESS ENHANCEMENT FUND (ACEF), AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8178, AS AMENDED BY REPUBLIC ACT NOS. 9496, 10848 AND 11203, ENTITLED: ''AN ACT REPLACING QUANTITATIVE IMPORT RESTRICTIONS ON AGRICULTURAL PRODUCTS, EXCEPT RICE, WITH TARIFFS, CREATING THE AGRICULTURAL COMPETITIVENESS ENHANCEMENT FUND, AND FOR OTHER PURPOSES''"
 scope = "National"
 subjects = [ "Agricultural Competitiveness Enhancement Fund (ACEF)",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/24/2023"
+date = "2023-01-24"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

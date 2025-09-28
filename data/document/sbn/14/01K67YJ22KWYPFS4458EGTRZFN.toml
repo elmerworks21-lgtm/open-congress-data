@@ -1,8 +1,11 @@
 id = "01K67YJ22KWYPFS4458EGTRZFN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01748"
+
+[meta]
 bill_number = 1748
 congress = 14
-canonical = "SBN-01748"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1748", "https://web.senate.gov.ph/lisdata/61985529!.pdf",]
 title = "THE ANTI-CYBERSEX ACT OF 2007"
 date_filed = "2007-10-16"
@@ -10,21 +13,22 @@ long_title = "AN ACT CLASSIFYING CYBERSEX OPERATIONS AS A FORM OF PROSTITUTION A
 scope = "National"
 subjects = [ "Anti-Cybersex",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and SCIENCE AND TECHNOLOGY;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-12"
 action = "Referred primarily to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2007"
+date = "2007-11-12"
 
 [[committees]]
 name = "Public Information and Mass Media"

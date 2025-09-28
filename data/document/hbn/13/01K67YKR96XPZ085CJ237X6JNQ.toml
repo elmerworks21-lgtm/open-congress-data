@@ -1,24 +1,28 @@
 id = "01K67YKR96XPZ085CJ237X6JNQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05539"
+
+[meta]
 bill_number = 5539
 congress = 13
-canonical = "HBN-05539"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5539", "https://web.senate.gov.ph/lisdata/59664931!.pdf",]
 title = "SEBUCAO NATIONAL HIGH SCHOOL (ZAMBOANGA DEL SUR)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY SEBUCAO, MUNICIPALITY OF DUMALINAO, PROVINCE OF ZAMBOANGA DEL SUR TO BE KNOWN AS THE SEBUCAO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Zamboanga Del Sur)", "Sebucao National High School (Zamboanga Del Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-07"
 action = "Filed in the Senate requesting for concurrence by Representatives ANTONIO H. CERILLES, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-12"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/12/2006"
+date = "2006-09-12"
 
 [[committees]]
 name = "Education, Arts and Culture"

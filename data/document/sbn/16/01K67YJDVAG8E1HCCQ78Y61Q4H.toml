@@ -1,8 +1,11 @@
 id = "01K67YJDVAG8E1HCCQ78Y61Q4H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02378"
+
+[meta]
 bill_number = 2378
 congress = 16
-canonical = "SBN-02378"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2378", "https://web.senate.gov.ph/lisdata/1971316838!.pdf",]
 title = "AMENDING ART. 15, RA 3720 ( FOOD AND DRUG AND COSMETIC ACT)"
 date_filed = "2014-08-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLE 15 OF R.A. NO. 3720, ALSO KNOWN AS THE FOO
 scope = "National"
 subjects = [ "Food Products Label",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-08-27"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2014"
+date = "2014-09-01"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

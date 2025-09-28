@@ -1,8 +1,11 @@
 id = "01K67YJVBHA0TEHF1J690GQB5C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00708"
+
+[meta]
 bill_number = 708
 congress = 19
-canonical = "SBN-00708"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-708", "https://web.senate.gov.ph/lisdata/3838134835!.pdf",]
 title = "NATIONAL DAY AGAINST HOMOPHOBIA, BIPHOBIA, TRANSPHOBIA AND PHOBIAS FOR PERSONS OF DIVERSE SOGIESC"
 date_filed = "2022-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING MAY 17 OF EVERY YEAR AS THE NATIONAL DAY AGAINST 
 scope = "National"
 subjects = [ "Homophobia/Biphobia/Transphobia/Phobias", "Sexual Orientation, Gender Identity or Expression, or Sex Characteristics or Sex (Sogiesc)",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2022"
+date = "2022-08-23"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

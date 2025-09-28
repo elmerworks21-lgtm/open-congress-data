@@ -1,8 +1,11 @@
 id = "01K67YJCE2QAHSM7Y7T34EP9W4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00231"
+
+[meta]
 bill_number = 231
 congress = 16
-canonical = "SBN-00231"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-231", "https://web.senate.gov.ph/lisdata/1607913317!.pdf",]
 title = "PHILIPPINE ARBITRATION COMMISSION ACT OF 2013"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE PHILIPPINE ARBITRATION COMMISSION AND INSTITUT
 scope = "National"
 subjects = [ "Philippine Arbitration Commission", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2013"
+date = "2013-07-30"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,24 +1,28 @@
 id = "01K67YMDJZYBRFQV2SBQFN2608"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09710"
+
+[meta]
 bill_number = 9710
 congress = 19
-canonical = "HBN-09710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9710", "https://web.senate.gov.ph/lisdata/4385839849!.pdf",]
 title = "SWARA SUG MEDIA CORPORATION"
 long_title = "AN ACT REVOKING THE LEGISLATIVE FRANCHISE GRANTED TO SWARA SUG MEDIA CORPORATION, OPERATING UNDER THE BUSINESS NAME SONSHINE MEDIA NETWORK INTERNATIONAL, REPEALING FOR THE PURPOSE REPUBLIC ACT NO- 11422, ENTITLED “AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO SWARA SUG MEDIA CORPORATION UNDER REPUBLIC ACT NO. 8122, ENTITLED 'AN ACT GRANTING THE SWARA SUG MEDIA CORPORATION OF THE PHILIPPINES A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN FOR COMMERCIAL PURPOSES RADIO AND TELEVISION BROADCASTING STATIONS IN THE PHILIPPINES AND FOR OTHER PURPOSES'"
 scope = "Local"
 subjects = [ "Franchise Sales", "Franchise Business",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2024"
+date = "2024-05-06"
 
 [[committees]]
 name = "Public Services"

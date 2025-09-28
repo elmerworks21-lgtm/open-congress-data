@@ -1,8 +1,11 @@
 id = "01K67YJZX9Y9H62NVCN3JQP0CN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00179"
+
+[meta]
 bill_number = 179
 congress = 20
-canonical = "SBN-00179"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-179", "https://web.senate.gov.ph/lisdata/4665642661!.pdf",]
 title = "CANCER MEDICINE AND TREATMENT FUND FOR FILIPINOS"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A CANCER MEDICINE AND TREATMENT ASSISTANCE FUN
 scope = "National"
 subjects = [ "Indigent Persons", "Medical Assistance", "Cancer Medicine and Treatment Fund",]
 authors_raw = "Villar, Camille A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator CAMILLE A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Health and Demography"

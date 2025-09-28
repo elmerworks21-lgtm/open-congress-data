@@ -1,8 +1,11 @@
 id = "01K67YJWYASW9M1BZ5J4QRZR2D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02809"
+
+[meta]
 bill_number = 2809
 congress = 19
-canonical = "SBN-02809"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2809", "https://web.senate.gov.ph/lisdata/4475940747!.pdf",]
 title = "AMENDING R.A. NO. 8525, ADOPT-A-SCHOOL ACT OF 1998"
 date_filed = "2024-09-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER STRENGTHENING THE INCENTIVES FOR PRIVATE SECTOR PAR
 scope = "National"
 subjects = [ "Adopt-A-School",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2024-09-03"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-04"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2024"
+date = "2024-09-04"
 
 [[committees]]
 name = "Basic Education"

@@ -1,8 +1,11 @@
 id = "01K67YJWGZ7K86WZ90FG3SPPZ0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02312"
+
+[meta]
 bill_number = 2312
 congress = 19
-canonical = "SBN-02312"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2312", "https://web.senate.gov.ph/lisdata/4210638299!.pdf",]
 title = "TECHNICAL-VOCATIONAL EDUCATION AND TRAINING FOR REHABILITATED DRUG DEPENDENTS ACT"
 date_filed = "2023-07-17"
@@ -10,29 +13,30 @@ long_title = "AN ACT MANDATING THE TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AU
 scope = "National"
 subjects = [ "Drug Addict/Persons Who Use Drugs (PWUD)", "Technical Vocational Education and Training (TVET)", "Technical-Vocational (Tech-Voc)", "Technical Education and Skills Development Authority (Tesda)",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-17"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-02"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2023"
+date = "2023-08-02"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

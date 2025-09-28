@@ -1,8 +1,11 @@
 id = "01K67YJ1GGT1EHDG0PX7R7BM3F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01191"
+
+[meta]
 bill_number = 1191
 congress = 14
-canonical = "SBN-01191"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1191", "https://web.senate.gov.ph/lisdata/54866281!.pdf",]
 title = "EDUCATIONAL BENEFITS FOR MINOR CHILDREN OF SOLDIERS AND POLICEMEN SLAIN IN LINE OF DUTY"
 date_filed = "2007-07-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR EDUCATIONAL BENEFITS FOR THE MINOR CHILDREN O
 scope = "National"
 subjects = [ "Armed Forces of the Philippines (AFP)", "Orphaned Minor Children", "Philippine National Police (PNP)",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-05"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; PUBLIC ORDER AND ILLEGAL DRUGS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "National Defense and Security"

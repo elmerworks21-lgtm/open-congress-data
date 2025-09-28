@@ -1,8 +1,11 @@
 id = "01K67YJPJEM5WPN56VM1X1XPAY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00272"
+
+[meta]
 bill_number = 272
 congress = 18
-canonical = "SBN-00272"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-272", "https://web.senate.gov.ph/lisdata/3055627416!.pdf",]
 title = "PUBLIC SCHOOL LAND USE DEVELOPMENT AND INFRASTRUCTURE PLAN (LUDIP) ACT"
 date_filed = "2019-07-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT REQUIRING ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOLS TO PR
 scope = "National"
 subjects = [ "Land Use", "Infrastructures", "School Sites/School Campus",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-08"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Transferred from the Committee on Education, Arts and Culture to the Committee on BASIC EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

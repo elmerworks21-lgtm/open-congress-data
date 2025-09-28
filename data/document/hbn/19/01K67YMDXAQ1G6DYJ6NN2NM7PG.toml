@@ -1,24 +1,28 @@
 id = "01K67YMDXAQ1G6DYJ6NN2NM7PG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11349"
+
+[meta]
 bill_number = 11349
 congress = 19
-canonical = "HBN-11349"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11349", "https://web.senate.gov.ph/lisdata/4589841930!.pdf",]
 title = "RTC IN THE TENTH JUDICIAL REGION (QUEZON, BUKIDNON)"
 long_title = "AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE TENTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF QUEZON, PROVINCE OF BUKIDNON, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(K) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED"
 scope = "Local"
 subjects = [ "Courts (Rtc", "Mtc, Additional Branch)",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-02-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2025"
+date = "2025-02-05"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJVQ18G216HXDA7MKJEGJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01218"
+
+[meta]
 bill_number = 1218
 congress = 19
-canonical = "SBN-01218"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1218", "https://web.senate.gov.ph/lisdata/3920335640!.pdf",]
 title = "ROMBLON ELECTRIC COOPERATIVE INC."
 date_filed = "2022-08-23"
@@ -10,37 +13,38 @@ long_title = "AN ACT GRANTING THE ROMBLON ELECTRIC COOPERATIVE INC. A FRANCHISE 
 scope = "Local"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-23"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-30"
 action = "Transferred from the Committee on Rules to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-05"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-29"
 action = "Returned and submitted by the Committee on PUBLIC SERVICES per Committee Report No. 247, recommending that it be substituted by HBN-9154;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-29"
 action = "CONSIDERED IN SBN-1218 UNDER COMMITTEE REPORT NO. 247;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "4/29/2024"
+date = "2024-04-29"
 
 [[committees]]
 name = "Public Services"

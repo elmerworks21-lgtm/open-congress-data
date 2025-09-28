@@ -1,8 +1,11 @@
 id = "01K67YJVP61TCHQFZ4X2J53QGC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01180"
+
+[meta]
 bill_number = 1180
 congress = 19
-canonical = "SBN-01180"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1180", "https://web.senate.gov.ph/lisdata/3921435651!.pdf",]
 title = "MEDICAL RESERVE CORPS ACT OF 2022"
 date_filed = "2022-08-16"
@@ -10,37 +13,38 @@ long_title = "AN ACT INSTITUTING THE MEDICAL RESERVE CORPS, APPROPRIATING FUNDS 
 scope = "National"
 subjects = [ "Medical Reserve Corps",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-16"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-28"
 action = "Referred to the Sub-Committee on Medical Reserve Corp.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2022"
+date = "2022-09-07"
 
 [[committees]]
 name = "Health and Demography"

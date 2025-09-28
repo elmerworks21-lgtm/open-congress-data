@@ -1,8 +1,11 @@
 id = "01K67YJW5SGFCKRT9A46BPJ26X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01847"
+
+[meta]
 bill_number = 1847
 congress = 19
-canonical = "SBN-01847"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1847", "https://web.senate.gov.ph/lisdata/4067237068!.pdf",]
 title = "STRENGTHENING THE COMMISSION ON ELECTIONS"
 date_filed = "2023-02-07"
@@ -10,37 +13,38 @@ long_title = "AN ACT STRENGTHENING THE COMMISSION ON ELECTIONS (COMELEC) INCREAS
 scope = "National"
 subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "Commission on Election (Comelec)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-07"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Read on First Reading and Referred to the Committees on ELECTORAL REFORMS AND PEOPLES PARTICIPATION; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "Returned and submitted jointly by the Committees on ELECTORAL REFORMS AND PEOPLES PARTICIPATION, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 318, recommending that it be substituted by SBN-2817;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-11"
 action = "SUBSTITUTED BY SBN-2817 UNDER COMMITTEE REPORT NO. 318."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/11/2024"
+date = "2024-09-11"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

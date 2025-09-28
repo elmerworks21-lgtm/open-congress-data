@@ -1,8 +1,11 @@
 id = "01K67YCP0B70MMD52QKKXCFKDW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01132"
+
+[meta]
 bill_number = 1132
 congress = 13
-canonical = "SBN-01132"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1132", "https://web.senate.gov.ph/lisdata/23381626!.pdf",]
 title = "ILL-GOTTEN WEALTH INFORMANTS REWARD"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REWARD INFORMANTS WHO HELP IDENTIFY, LOCATE AND RECOVER 
 scope = "National"
 subjects = [ "Ill-Gotten Wealth Informants Reward", "Marcos",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Justice and Human Rights"

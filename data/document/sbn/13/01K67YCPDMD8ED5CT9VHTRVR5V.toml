@@ -1,8 +1,11 @@
 id = "01K67YCPDMD8ED5CT9VHTRVR5V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01848"
+
+[meta]
 bill_number = 1848
 congress = 13
-canonical = "SBN-01848"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1848", "https://web.senate.gov.ph/lisdata/30912283!.pdf",]
 title = "PUBLIC BROADCASTING TAX INCENTIVES ACT"
 date_filed = "2004-11-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING QUALITY NON-COMMERCIAL AND PRIMARILY EDUCATIONAL,
 scope = "National"
 subjects = [ "Public Broadcasting Tax Incentives Act", "Television/Radio Programs", "Mass Media (Broadcast Media)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2004-11-11"
 action = "Introduced by Senator PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-16"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; EDUCATION, ARTS AND CULTURE; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/16/2004"
+date = "2004-11-16"
 
 [[committees]]
 name = "Public Information and Mass Media"

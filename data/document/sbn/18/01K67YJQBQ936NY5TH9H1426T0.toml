@@ -1,8 +1,11 @@
 id = "01K67YJQBQ936NY5TH9H1426T0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01397"
+
+[meta]
 bill_number = 1397
 congress = 18
-canonical = "SBN-01397"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1397", "https://web.senate.gov.ph/lisdata/3249429364!.pdf",]
 title = "MAGSINGAL DISTRICT HOSPITAL (ILOCOS SUR)"
 date_filed = "2020-03-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT INCREASING THE BED CAPACITY OF MAGSINGAL DISTRICT HOSPITAL,
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-03-04"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-11"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 632, recommending that it be considered in HBN-8190;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "CONSIDERED IN HBN-8190 UNDER COMMITTEE REPORT NO. 632."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Health and Demography"

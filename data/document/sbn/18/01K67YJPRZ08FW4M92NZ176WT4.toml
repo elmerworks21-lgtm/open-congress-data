@@ -1,8 +1,11 @@
 id = "01K67YJPRZ08FW4M92NZ176WT4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00578"
+
+[meta]
 bill_number = 578
 congress = 18
-canonical = "SBN-00578"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-578", "https://web.senate.gov.ph/lisdata/3086127843!.pdf",]
 title = "ABOT ALAM ACT OF 2019"
 date_filed = "2019-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE 'ABOT ALAM' PROGRAM OF THE DEPARTMEN
 scope = "National"
 subjects = [ "Abot Alam Program", "Department of Education (DepEd)",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-17"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE; YOUTH; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

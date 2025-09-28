@@ -1,24 +1,28 @@
 id = "01K67YKVRRC3JJH7FJN24CV9YB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02586"
+
+[meta]
 bill_number = 2586
 congress = 14
-canonical = "HBN-02586"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-2586", "https://web.senate.gov.ph/lisdata/93898488!.pdf",]
 title = "LTO DISTRICT OFFICE (MUNICIPALITY OF BAROTAC VIEJO, ILOILO)"
 long_title = "AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE (LTO) EXTENSION OFFICE LOCATED IN THE MUNICIPALITY OF BAROTAC VIEJO, ILOILO INTO A REGULAR LTO DISTRICT OFFICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-20"
 action = "Filed in the Senate requesting for concurrence by Representative NIEL C. TUPAS JR. as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2008"
+date = "2008-11-25"
 
 [[committees]]
 name = "Public Services"

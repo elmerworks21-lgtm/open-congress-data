@@ -1,8 +1,11 @@
 id = "01K67YJHWM131WTVPKX1PCBJJC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01070"
+
+[meta]
 bill_number = 1070
 congress = 17
-canonical = "SBN-01070"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1070", "https://web.senate.gov.ph/lisdata/2466021253!.pdf",]
 title = "AMENDING SECS. 2 & 55 OF RA. NO. 8291 (GSIS SYSTEM ACT OF 1997)"
 date_filed = "2016-08-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING THE CHANGE OF STATUS OF A MEMBER OF THE GOVER
 scope = "National"
 subjects = [ "Government Service Insurance System (GSIS)", "Retirement (Special Retirement Act; Age 70 Years Above)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-25"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-30"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2016"
+date = "2016-08-30"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

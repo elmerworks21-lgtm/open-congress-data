@@ -1,8 +1,11 @@
 id = "01K67YJ1KK2SAJSMQC7JG6FNTG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01348"
+
+[meta]
 bill_number = 1348
 congress = 14
-canonical = "SBN-01348"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1348", "https://web.senate.gov.ph/lisdata/56485045!.pdf",]
 title = "MAKING MALVERSATION OF RECLAIMED LANDS A CRIME"
 date_filed = "2007-07-24"
@@ -10,21 +13,22 @@ long_title = "AN ACT MAKING THE MALVERSATION OF RECLAIMED LANDS A CRIME, AMENDIN
 scope = "National"
 subjects = [ "Revised Penal Code (RA 3815", "Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-24"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-29"
 action = "Senator Escudero manifested that all bills with provisions pertaining to Land Registration Authority, be transferred to the Committee on ENVIRONMENT AND NATURAL RESOURCES, in view of E.O.No. 690, signed by President Arroyo, transferring the LRA from the Department of Justice to the Department of Environment and Natural Resources;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/29/2008"
+date = "2008-04-29"
 
 [[committees]]
 name = "Environment and Natural Resources"

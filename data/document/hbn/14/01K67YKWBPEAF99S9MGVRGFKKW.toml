@@ -1,24 +1,28 @@
 id = "01K67YKWBPEAF99S9MGVRGFKKW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04630"
+
+[meta]
 bill_number = 4630
 congress = 14
-canonical = "HBN-04630"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4630", "https://web.senate.gov.ph/lisdata/85367736!.pdf",]
 title = "CONSUELO - CORAZON - GEN. LUNA - MABUHAY - SALVACION - PILAR ROAD"
 long_title = "AN ACT CONVERTING THE COSUELO - CORAZON - GEN. LUNA - MABUHAY - SALVACION - PILAR ROAD, PROVINCE OF SURIGAO DEL NORTE INTO A NATIONAL SECONDARY ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-22"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representative FRANCISCO T. MATUGAS as author ;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2008"
+date = "2008-09-22"
 
 [[committees]]
 name = "Public Works"

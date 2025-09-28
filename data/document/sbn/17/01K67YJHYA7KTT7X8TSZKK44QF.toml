@@ -1,8 +1,11 @@
 id = "01K67YJHYA7KTT7X8TSZKK44QF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01145"
+
+[meta]
 bill_number = 1145
 congress = 17
-canonical = "SBN-01145"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1145", "https://web.senate.gov.ph/lisdata/2482121371!.pdf",]
 title = "THE HEALTHY BULILIT ACT"
 date_filed = "2016-09-14"
@@ -10,41 +13,42 @@ long_title = "AN ACT FOR SCALING UP NUTRITION DURING THE FIRST 1000 DAYS OF LIFE
 scope = "National"
 subjects = [ "Nutrition", "Maternal/Infant Health",]
 authors_raw = "Hontiveros, Risa, Villanueva, Joel, Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2016-09-14"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-14"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-15"
 action = "Letter from Senator JOEL VILLANUEVA dated October 25, 2016, requesting that he be made co-author of SBN-1145, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-26"
 action = "Letter from Senator MARIA LOURDES NANCY S. BINAY of even dated, requested her to be a coauthor of SBN-1145, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-01"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE per Committee Report No. 145, recommending that it be substituted by SBN-1537;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-02"
 action = "SUBSTITUTED BY SBN-1537 UNDER COMMITTEE REPORT NO. 145, WHICH BECAME R.A.NO. 11148 ON NOVEMBER 29, 2018."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/2/2017"
+date = "2017-08-02"
 
 [[committees]]
 name = "Health and Demography"

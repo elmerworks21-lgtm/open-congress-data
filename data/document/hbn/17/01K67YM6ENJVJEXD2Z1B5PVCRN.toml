@@ -1,24 +1,28 @@
 id = "01K67YM6ENJVJEXD2Z1B5PVCRN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07973"
+
+[meta]
 bill_number = 7973
 congress = 17
-canonical = "HBN-07973"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7973", "https://web.senate.gov.ph/lisdata/2903625609!.pdf",]
 title = "AMENDING LABOR CODE OF THE PHILIPPINES (REMEDY OF FILING A PETITION FOR CERTIORARI TO THE SC)"
 long_title = "AN ACT PROVIDING FOR THE REMEDY OF FILING A PETITION FOR CERTIORARI TO THE SUPREME COURT TO REVIEW THE DECISIONS OF THE NATIONAL LABOR RELATIONS COMMISSION, AMENDING FOR THE PURPOSE ARTICLES 229 AND 230 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE 'LABOR CODE OF THE PHILIPPINES'"
 scope = "National"
 subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "National Labor Relations Commission (NLRC)", "Supreme Court",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-28"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/28/2018"
+date = "2018-11-28"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

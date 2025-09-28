@@ -1,8 +1,11 @@
 id = "01K67YJD3DVKG6B5JKHYKHTAG5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01266"
+
+[meta]
 bill_number = 1266
 congress = 16
-canonical = "SBN-01266"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1266", "https://web.senate.gov.ph/lisdata/1733714575!.pdf",]
 title = "NURSE IN EVERY BARANGAY ACT"
 date_filed = "2013-08-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE EMPLOYMENT OF NURSES, ASSIGNING ONE REGIS
 scope = "National"
 subjects = [ "Nurses",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-12"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2013"
+date = "2013-09-02"
 
 [[committees]]
 name = "Health and Demography"

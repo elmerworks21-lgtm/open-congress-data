@@ -1,8 +1,11 @@
 id = "01K67YJX3XB4RCAB42ZB0HABQP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03005"
+
+[meta]
 bill_number = 3005
 congress = 19
-canonical = "SBN-03005"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-3005", "https://web.senate.gov.ph/lisdata/4635042310!.pdf",]
 title = "LAW ENFORCEMENT BODY-WORN CAMERA ACT"
 date_filed = "2025-06-09"
@@ -10,21 +13,22 @@ long_title = "AN ACT MANDATING LAW ENFORCEMENT OFFICERS TO USE A BODY-WORN CAMER
 scope = "National"
 subjects = [ "Body-Worn Camera",]
 authors_raw = "Dela Rosa, Ronald \"Bato\", Ejercito, Joseph Victor G., Gatchalian, Win, Revilla Jr., Ramon Bong, Tulfo, Raffy T., Escudero, Francis G., Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2025-06-09"
 action = "Prepared and submitted jointly by the Committees on PUBLIC ORDER AND DANGEROUS DRUGS and FINANCE with Senators RONALD 'BATO' DELA ROSA, JOSEPH VICTOR G. EJERCITO, WIN GATCHALIAN, RAMON BONG REVILLA JR., RAFFY T. TULFO, FRANCIS G. ESCUDERO and GRACE POE as authors per Committee Report No. 584, recommending its approval in substitution of S. Nos. 436, 1057, 1520, and 2199;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Sponsor: Senator Ronald 'Bato' Dela Rosa;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "6/9/2025"
+date = "2025-06-09"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

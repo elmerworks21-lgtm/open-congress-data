@@ -1,24 +1,28 @@
 id = "01K67YKVNT5WMYT557562J2T60"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00373"
+
+[meta]
 bill_number = 373
 congress = 14
-canonical = "HBN-00373"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-373", "https://web.senate.gov.ph/lisdata/93688472!.pdf",]
 title = "LTO DISTRICT OFFICE (PARAÑAQUE CITY)"
 long_title = "AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE EXTENSION OFFICE LOCATED IN PARAÑAQUE CITY INTO A REGULAR LTO DISTRICT OFFICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-20"
 action = "Filed in the Senate requesting for concurrence by Representatives ROILO S. GOLEZ and EDUARDO C. ZIALCITA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2008"
+date = "2008-11-25"
 
 [[committees]]
 name = "Public Services"

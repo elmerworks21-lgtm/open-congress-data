@@ -1,8 +1,11 @@
 id = "01K67YJ1DV2P0HQDTVPC268ZJD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01063"
+
+[meta]
 bill_number = 1063
 congress = 14
-canonical = "SBN-01063"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1063", "https://web.senate.gov.ph/lisdata/53444702!.pdf",]
 title = "COMPUTER RENTAL SHOPS REGULATION"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE OPERATION OF COMPUTER RENTAL SHOPS AND SIMIL
 scope = "National"
 subjects = [ "Computer Rental Shops", "Internet Cafes",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator 'COMPANERA' PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Trade and Commerce"

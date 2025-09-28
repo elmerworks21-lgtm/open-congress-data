@@ -1,24 +1,28 @@
 id = "01K67YM9HHHW8DZ9E1JJTKNXKC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08737"
+
+[meta]
 bill_number = 8737
 congress = 18
-canonical = "HBN-08737"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8737", "https://web.senate.gov.ph/lisdata/3470631531!.pdf",]
 title = "OFF-CAMPUS EDUCATION ACT"
 long_title = "AN ACT REGULATING THE CONDUCT OF OFF-CAMPUS EDUCATIONAL ACTIVITIES BY PUBLIC AND PRIVATE SCHOOLS"
 scope = "National"
 subjects = [ "Off-Campus Activities", "Educational Institutions", "Schools (Public and Private)",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-17"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION, ARTS AND CULTURE and HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/17/2021"
+date = "2021-03-17"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

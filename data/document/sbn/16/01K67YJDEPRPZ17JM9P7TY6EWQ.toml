@@ -1,8 +1,11 @@
 id = "01K67YJDEPRPZ17JM9P7TY6EWQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01817"
+
+[meta]
 bill_number = 1817
 congress = 16
-canonical = "SBN-01817"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1817", "https://web.senate.gov.ph/lisdata/1801715250!.pdf",]
 title = "INCREASE PENALTY FOR UNLAWFUL APPOINTMENTS, AMENDING REVISED PENAL CODE"
 date_filed = "2013-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING ARTICLE 244 OF ACT NO. 3815, AS AMENDED, OTHERWISE
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)", "Appointments",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-22"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/22/2013"
+date = "2013-10-22"
 
 [[committees]]
 name = "Justice and Human Rights"

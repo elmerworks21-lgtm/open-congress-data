@@ -1,8 +1,11 @@
 id = "01K67YJDF9Y42SJS0BAGV8Q4NG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01843"
+
+[meta]
 bill_number = 1843
 congress = 16
-canonical = "SBN-01843"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1843", "https://web.senate.gov.ph/lisdata/1804915282!.pdf",]
 title = "LABOR CODE OF THE PHILIPPINES (AMENDING ARTICLES 223 AND 224)"
 date_filed = "2013-10-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING RELIEFS FROM THE EXECUTION OF FINAL DECISIONS
 scope = "National"
 subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "National Labor Relations Commission (NLRC)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-23"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/23/2013"
+date = "2013-10-23"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

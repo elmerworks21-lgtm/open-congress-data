@@ -1,8 +1,11 @@
 id = "01K67YJDNSMZEQ4ZQ2GV5KQMZQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02154"
+
+[meta]
 bill_number = 2154
 congress = 16
-canonical = "SBN-02154"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2154", "https://web.senate.gov.ph/lisdata/1883815962!.pdf",]
 title = "LADDERIZED EDUCATION ACT OF 2014"
 date_filed = "2014-03-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT STRENGTHENING THE LADDERIZED INTERFACE BETWEEN TECHNICAL-VO
 scope = "National"
 subjects = [ "Ladderized Education",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2014-03-03"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-05"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-03"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE per Committee Report No. 44, recommending that it be substituted by SBN-2272;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-04"
 action = "SUBSTITUTED BY SBN-2272 UNDER C.R.NO. 44."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/4/2014"
+date = "2014-06-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

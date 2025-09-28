@@ -1,24 +1,28 @@
 id = "01K67YKR1NV8GMW8WGEGZR63KA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04821"
+
+[meta]
 bill_number = 4821
 congress = 13
-canonical = "HBN-04821"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4821", "https://web.senate.gov.ph/lisdata/44623690!.pdf",]
 title = "QUIPAYO NATIONAL HIGH SCHOOL (CAMARINES SUR)"
 long_title = "AN ACT SEPARATING THE CALABANGA HIGH SCHOOL - QUIPAYO ANNEX IN BARANGAY QUIPAYO, MUNICIPALITY OF CALABANGA, PROVINCE OF CAMARINES SUR FROM THE CALABANGA HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE QUIPAYO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Camarines Sur)", "Quipayo National High School (Camarines Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representatives LUIS R. VILLAFUERTE, EDMUNDO O. REYES JR., ROLANDO G. ANDAYA JR. and EULOGIO 'AMANG' R. MAGSAYSAY, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/18/2006"
+date = "2006-01-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

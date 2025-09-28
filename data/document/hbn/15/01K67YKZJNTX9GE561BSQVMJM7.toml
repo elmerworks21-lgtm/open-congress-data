@@ -1,28 +1,32 @@
 id = "01K67YKZJNTX9GE561BSQVMJM7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02338"
+
+[meta]
 bill_number = 2338
 congress = 15
-canonical = "HBN-02338"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-2338", "https://web.senate.gov.ph/lisdata/1193710065!.pdf",]
 title = "LAND TRANSPORTATION OFFICE (LTO) EXTENSION, MUNICIPALITY OF INFANTA, PROVINCE OF QUEZON"
 long_title = "AN ACT ESTABLISHING AN EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF INFANTA, PROVINCE OF QUEZON AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-08-10"
 action = "Introduced by Representatives WILFREDO MARK M. ENVERGA, ROGER G. MERCADO and JOSEPH EMELIO A. ABAYA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2011"
+date = "2011-08-15"
 
 [[committees]]
 name = "Public Services"

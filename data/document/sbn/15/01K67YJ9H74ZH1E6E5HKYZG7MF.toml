@@ -1,8 +1,11 @@
 id = "01K67YJ9H74ZH1E6E5HKYZG7MF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03162"
+
+[meta]
 bill_number = 3162
 congress = 15
-canonical = "SBN-03162"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3162", "https://web.senate.gov.ph/lisdata/1316511046!.pdf",]
 title = "MICROENTERPRISE DEVELOPMENT INSTITUTIONS OF 2011"
 date_filed = "2012-03-21"
@@ -10,29 +13,30 @@ long_title = "AN ACT GOVERNING THE CREATION AND ACCREDITATION OF MICROENTERPRISE
 scope = "National"
 subjects = [ "Microenterprise Development Institutions (Microdevs)",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2012-03-21"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-08-16"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and WAYS AND MEANS per Committee Report No. 323, recommending that it be substituted by SBN-3255;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-08-22"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-08-22"
 action = "SUBSTITUTED BY SBN-3255, under Committee Report No. 323."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/22/2012"
+date = "2012-08-22"
 
 [[committees]]
 name = "Economic Affairs"

@@ -1,8 +1,11 @@
 id = "01K67YJDHGKYMTAHVG0S28Z13B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01956"
+
+[meta]
 bill_number = 1956
 congress = 16
-canonical = "SBN-01956"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1956", "https://web.senate.gov.ph/lisdata/1832615502!.pdf",]
 title = "AMENDING SEC. 393 (D), RA 7160 (UPGRADING THE BENEFITS AND INCENTIVES OF BARANGAY TANOD BRIGADES)"
 date_filed = "2013-11-27"
@@ -10,29 +13,30 @@ long_title = "AN ACT UPGRADING THE BENEFITS AND INCENTIVES OF BARANGAY TANOD BRI
 scope = "National"
 subjects = [ "Local Government Code (R.A.No. 7160)", "Barangay Tanod Brigades",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-27"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-03"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-21"
 action = "Returned and submitted jointly by the Committee(s) on LOCAL GOVERNMENT, FINANCE, WAYS AND MEANS and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT per Committee Report No. 31, recommending that it be considered in SBN-12;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-26"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-26"
 action = "CONSIDERED IN SBN-12 UNDER C.R.NO. 31."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/26/2014"
+date = "2014-05-26"
 
 [[committees]]
 name = "Local Government"

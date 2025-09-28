@@ -1,26 +1,30 @@
 id = "01K67YM0H1X56ENKQQDRAYA3F0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06793"
+
+[meta]
 bill_number = 6793
 congress = 15
-canonical = "HBN-06793"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6793", "https://web.senate.gov.ph/lisdata/1569913001!.pdf",]
 title = "SPECIAL NONWORKING PUBLIC HOLIDAY (MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE)"
 long_title = "AN ACT DECLARING DECEMBER 3 OF EVERY YEAR AS A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE TO BE KNOWN AS PALOMPON FOUNDATION DAY"
 scope = "Local"
 subjects = [ "Holidays (Non-Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

@@ -1,24 +1,28 @@
 id = "01K67YKR141JB9MK7PRHD20WNJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04758"
+
+[meta]
 bill_number = 4758
 congress = 13
-canonical = "HBN-04758"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4758", "https://web.senate.gov.ph/lisdata/44483795!.pdf",]
 title = "SABANG NATIONAL HIGH SCHOOL (CAMARINES SUR)"
 long_title = "AN ACT SEPARATING THE CAMARINES SUR NATIONAL HIGH SCHOOL - SABANG ANNEX IN BARANGAY SABANG, NAGA CITY, PROVINCE OF CAMARINES SUR FROM THE CAMARINES SUR NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SABANG NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Camarines Sur)", "Sabang National High School (Camarines Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-27"
 action = "Filed in the Senate requesting for concurrence by Representatives LUIS R. VILLAFUERTE, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/18/2006"
+date = "2006-01-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

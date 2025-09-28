@@ -1,8 +1,11 @@
 id = "01K67YJ2W9JFMF5XXN196STRRJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02880"
+
+[meta]
 bill_number = 2880
 congress = 14
-canonical = "SBN-02880"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2880", "https://web.senate.gov.ph/lisdata/93158429!.pdf",]
 title = "ENTREPRENEURSHIP"
 date_filed = "2008-11-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING INCLUSION OF ENTREPRENEURSHIP AS A SEPARATE SUBJE
 scope = "National"
 subjects = [ "Curriculum", "Entrepreneurship Education",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-13"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/19/2008"
+date = "2008-11-19"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJCZSGSG84CS107S6HET7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01090"
+
+[meta]
 bill_number = 1090
 congress = 16
-canonical = "SBN-01090"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1090", "https://web.senate.gov.ph/lisdata/1712914357!.pdf",]
 title = "LIGA NG BAYANING KABATAAN (LBK)"
 date_filed = "2013-07-24"
@@ -10,49 +13,50 @@ long_title = "AN ACT ESTABLISHING THE LIGA NG BAYANING KABATAAN (LBK) AMENDING F
 scope = "National"
 subjects = [ "Local Government Code (R.A.No. 7160)", "Liga Ng Bayaning Kabataan (LBK)", "Youth",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-24"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-25"
 action = "Change of committee referral from the Committee on Youth, Women and Family Relations to the Comittee on YOUTH as secondary referral;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-11-26"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-01-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-09"
 action = "Returned and submitted jointly by the Committee(s) on LOCAL GOVERNMENT, ELECTORAL REFORMS AND PEOPLES PARTICIPATION, FINANCE and YOUTH per Committee Report No. 75, recommending that it be substituted by SBN-2401;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-09"
 action = "SUBSTITUTED BY SBN-2401 UNDER C.R. NO. 75. WHICH BECAME R.A.NO. 10742 ON JANUARY 15, 2016."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/9/2014"
+date = "2014-09-09"
 
 [[committees]]
 name = "Local Government"

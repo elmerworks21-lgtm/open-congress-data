@@ -1,8 +1,11 @@
 id = "01K67YJ1G91R84PJRK5EP6HFHQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01181"
+
+[meta]
 bill_number = 1181
 congress = 14
-canonical = "SBN-01181"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1181", "https://web.senate.gov.ph/lisdata/54764856!.pdf",]
 title = "COLLECTIVE INVESTMENT SCHEMES LAW"
 date_filed = "2007-07-04"
@@ -10,53 +13,54 @@ long_title = "COLLECTIVE INVESTMENT SCHEMES LAW"
 scope = "National"
 subjects = [ "Collective Investment Schemes Law",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and TRADE AND COMMERCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-24"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-31"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

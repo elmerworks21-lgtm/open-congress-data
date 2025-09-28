@@ -1,8 +1,11 @@
 id = "01K67YJQT5NX3KSN5ZRQM9X0SM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02005"
+
+[meta]
 bill_number = 2005
 congress = 18
-canonical = "SBN-02005"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2005", "https://web.senate.gov.ph/lisdata/3430031100!.pdf",]
 title = "MANDATING ANNUAL PSYCHIATRIC, PSYCHOLOGICAL DRUG AND PHYSICAL TESTS FOR POLICE OFFICERS"
 date_filed = "2021-01-21"
@@ -10,21 +13,22 @@ long_title = "AN ACT MANDATING ANNUAL PSYCHIATRIC, PSYCHOLOGICAL DRUG AND PHYSIC
 scope = "National"
 subjects = [ "Philippine National Police (PNP)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-21"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-25"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/25/2021"
+date = "2021-01-25"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

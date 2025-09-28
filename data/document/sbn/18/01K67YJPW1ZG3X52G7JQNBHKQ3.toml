@@ -1,8 +1,11 @@
 id = "01K67YJPW1ZG3X52G7JQNBHKQ3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00722"
+
+[meta]
 bill_number = 722
 congress = 18
-canonical = "SBN-00722"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-722", "https://web.senate.gov.ph/lisdata/3107427971!.pdf",]
 title = "STIFFER PENALTIES FOR WILFUL OR INDISCRIMINATE DISCHARGE OF FIREARMS"
 date_filed = "2019-07-24"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR STIFFER PENALTIES FOR WILFUL OR INDISCRIMINAT
 scope = "National"
 subjects = [ "Firearms", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Returned and submitted jointly by the Committees on PUBLIC ORDER AND DANGEROUS DRUGS and JUSTICE AND HUMAN RIGHTS per Committee Report No. 580, recommending that it be substituted by SBN-2501;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "SUBSTITUTED BY SBN-2501 UNDER COMMITTEE REPORT NO. 580."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/31/2022"
+date = "2022-01-31"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

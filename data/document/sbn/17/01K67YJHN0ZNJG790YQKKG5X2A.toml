@@ -1,8 +1,11 @@
 id = "01K67YJHN0ZNJG790YQKKG5X2A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00724"
+
+[meta]
 bill_number = 724
 congress = 17
-canonical = "SBN-00724"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-724", "https://web.senate.gov.ph/lisdata/2424320857!.pdf",]
 title = "PUBLIC SCHOOL SECURITY ACT OF 2016"
 date_filed = "2016-07-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING STIFFER PENALTIES FOR THEFT, ROBBERY AND DESTRUCT
 scope = "National"
 subjects = [ "Public School Security", "Theft and Robbery",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2016"
+date = "2016-08-10"
 
 [[committees]]
 name = "Education, Arts and Culture"

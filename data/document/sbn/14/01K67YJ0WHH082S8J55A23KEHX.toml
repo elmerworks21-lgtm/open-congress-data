@@ -1,8 +1,11 @@
 id = "01K67YJ0WHH082S8J55A23KEHX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00218"
+
+[meta]
 bill_number = 218
 congress = 14
-canonical = "SBN-00218"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-218", "https://web.senate.gov.ph/lisdata/43183714!.pdf",]
 title = "CHILDREN'S HEALTH INSURANCE PROGRAM"
 date_filed = "2007-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT INSTITUTING MECHANISMS FOR THE ESTABLISHMENT OF A CHILDRENâ
 scope = "National"
 subjects = [ "National Health Insurance Act", "Childrens Health Insurance Program", "Philhealth (Philippine Health Insurance Act)", "R.A.No. 7875, Amendments",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2007"
+date = "2007-08-01"
 
 [[committees]]
 name = "Health and Demography"

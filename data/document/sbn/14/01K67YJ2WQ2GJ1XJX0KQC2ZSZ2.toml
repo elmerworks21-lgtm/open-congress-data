@@ -1,8 +1,11 @@
 id = "01K67YJ2WQ2GJ1XJX0KQC2ZSZ2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02901"
+
+[meta]
 bill_number = 2901
 congress = 14
-canonical = "SBN-02901"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2901", "https://web.senate.gov.ph/lisdata/94578560!.pdf",]
 title = "CALBAYOG CITY DISTRICT HOSPITAL"
 date_filed = "2008-11-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE EASTERN VISAYAS REGIONAL MEDICAL CENTER IN T
 scope = "Local"
 subjects = [ "Hospitals, Conversion", "Upgrading",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-25"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-26"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/26/2008"
+date = "2008-11-26"
 
 [[committees]]
 name = "Health and Demography"

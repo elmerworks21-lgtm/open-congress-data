@@ -1,8 +1,11 @@
 id = "01K67YJ1YZR05ZDCQ0W39EBGP5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01624"
+
+[meta]
 bill_number = 1624
 congress = 14
-canonical = "SBN-01624"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1624", "https://web.senate.gov.ph/lisdata/59475310!.pdf",]
 title = "MISCELLANEOUS AND OTHER FEES CONSULTATION ACT OF 2007"
 date_filed = "2007-09-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING THAT ALL EDUCATIONAL INSTITUTIONS, WHETHER PUBLIC
 scope = "National"
 subjects = [ "Miscellaneous Fees",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-20"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-24"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/24/2007"
+date = "2007-09-24"
 
 [[committees]]
 name = "Education, Arts and Culture"

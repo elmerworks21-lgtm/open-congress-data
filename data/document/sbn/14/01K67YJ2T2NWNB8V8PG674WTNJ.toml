@@ -1,8 +1,11 @@
 id = "01K67YJ2T2NWNB8V8PG674WTNJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02772"
+
+[meta]
 bill_number = 2772
 congress = 14
-canonical = "SBN-02772"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2772", "https://web.senate.gov.ph/lisdata/96928791!.pdf",]
 title = "BAGO CITY REGIONAL TRIAL COURT (NEGROS OCCIDENTAL)"
 date_filed = "2008-11-11"
@@ -10,29 +13,30 @@ long_title = "AN ACT CREATING ONE ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT 
 scope = "Local"
 subjects = [ "Courts (Regional Trial Courts)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-11"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Returned and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 833, recommending that it be substituted by SBN-3583;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "SUBSTITUTED BY SBN-3583."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/2/2010"
+date = "2010-02-02"
 
 [[committees]]
 name = "Justice and Human Rights"

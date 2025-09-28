@@ -1,8 +1,11 @@
 id = "01K67YJ9BF1Q47MNQCK4WAWWFQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02983"
+
+[meta]
 bill_number = 2983
 congress = 15
-canonical = "SBN-02983"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2983", "https://web.senate.gov.ph/lisdata/1224010327!.pdf",]
 title = "PHILIPPINE CITIZENSHIP TO JESSIE JOSEPHINE C. LICHAUCO"
 date_filed = "2011-10-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO JESSIE JOSEPHINE C. LICH
 scope = "Local"
 subjects = [ "Citizenship",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2011-10-04"
 action = "Introduced by Senator SERGIO R. OSMENA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-05"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/5/2011"
+date = "2011-10-05"
 
 [[committees]]
 name = "Rules"

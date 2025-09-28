@@ -1,8 +1,11 @@
 id = "01K67YJC9J4NWHQP3CZC49WK5W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00022"
+
+[meta]
 bill_number = 22
 congress = 16
-canonical = "SBN-00022"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-22", "https://web.senate.gov.ph/lisdata/1583013067!.pdf",]
 title = "STRENGTHENING THE NATIONAL WAGES AND PRODUCTIVITY COMMISSION"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER STRENGTHENING THE NATIONAL WAGES AND PRODUCTIVITY C
 scope = "National"
 subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "National Wages and Productivity Commission", "Department of Trade and Industry (DTI)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-23"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2013"
+date = "2013-07-23"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

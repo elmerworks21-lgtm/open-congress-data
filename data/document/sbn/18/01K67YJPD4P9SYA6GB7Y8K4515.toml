@@ -1,8 +1,11 @@
 id = "01K67YJPD4P9SYA6GB7Y8K4515"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00040"
+
+[meta]
 bill_number = 40
 congress = 18
-canonical = "SBN-00040"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-40", "https://web.senate.gov.ph/lisdata/3025627089!.pdf",]
 title = "SINGLE-USE PLASTICS REGULATION AND MANAGEMENT ACT OF 2019"
 date_filed = "2019-07-01"
@@ -10,41 +13,42 @@ long_title = "AN ACT REGULATING THE MANUFACTURING, IMPORTATION AND USE OF SINGLE
 scope = "National"
 subjects = [ "Plastic", "Plastic Bags", "Plastic Products", "Plastic Waste",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N., De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TRADE, COMMERCE AND ENTREPRENEURSHIP; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Environment and Natural Resources; and the Committee on Climate Change, SBN-40 shall now be referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE)"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-31"
 action = "Letter from Senator LEILA M. DE LIMA, dated August 24, 2021, conveying her intention to be a co-author of SBN-40, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Returned and submitted jointly by the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE, TRADE, COMMERCE AND ENTREPRENEURSHIP, WAYS AND MEANS and FINANCE per Committee Report No. 328, recommending that it be considered in SBN-2425;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "SUBSTITUTED BY SBN-2425 UNDER COMMITTEE REPORT NO. 328, WHICH BECAME REPUBLIC ACT NO. 11898 ON JULY 23, 2022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/29/2021"
+date = "2021-09-29"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

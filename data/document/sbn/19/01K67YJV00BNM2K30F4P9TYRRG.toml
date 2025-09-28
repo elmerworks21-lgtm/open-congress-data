@@ -1,8 +1,11 @@
 id = "01K67YJV00BNM2K30F4P9TYRRG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00179"
+
+[meta]
 bill_number = 179
 congress = 19
-canonical = "SBN-00179"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-179", "https://web.senate.gov.ph/lisdata/3788734328!.pdf",]
 title = "NEW OMNIBUS ELECTION CODE OF 2022"
 date_filed = "2022-07-07"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR THE NEW OMNIBUS ELECTION CODE OF 2022"
 scope = "National"
 subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Transfer of primary referral to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION, making the Committee on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES as secondary referral;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-04-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

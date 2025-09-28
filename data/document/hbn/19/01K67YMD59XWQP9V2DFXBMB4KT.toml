@@ -1,28 +1,32 @@
 id = "01K67YMD59XWQP9V2DFXBMB4KT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07294"
+
+[meta]
 bill_number = 7294
 congress = 19
-canonical = "HBN-07294"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7294", "https://web.senate.gov.ph/lisdata/4158637870!.pdf",]
 title = "MULTI-SPECIES MARINE HATCHERY (TALISAY, NEGROS OCCIDENTAL)"
 long_title = "AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN SITIO MAMBUCOG, BARANGAY ZONE XVI, CITY OF TALISAY, PROVINCE OF NEGROS OCCIDENTAL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Multi-Species Marine Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2023"
+date = "2023-05-16"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

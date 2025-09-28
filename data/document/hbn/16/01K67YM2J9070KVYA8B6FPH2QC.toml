@@ -1,24 +1,28 @@
 id = "01K67YM2J9070KVYA8B6FPH2QC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00398"
+
+[meta]
 bill_number = 398
 congress = 16
-canonical = "HBN-00398"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-398", "https://web.senate.gov.ph/lisdata/1869415820!.pdf",]
 title = "PREGNANCY TESTING OF ALL WOMEN OF CHILDBEARING AGE WHO WILL UNDERGO COSMETIC SURGERY"
 long_title = "AN ACT PROVIDING FOR THE MANDATORY PREGNANCY TESTING OF ALL WOMEN OF CHILDBEARING AGE WHO WILL UNDERGO COSMETIC SURGERY, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Pregnancy", "Women", "Cosmetic Surgery",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-02-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-12"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and WOMEN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/12/2014"
+date = "2014-02-12"
 
 [[committees]]
 name = "Health and Demography"

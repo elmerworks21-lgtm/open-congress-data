@@ -1,8 +1,11 @@
 id = "01K67YJ1MQGGCB2WYSK9NHDH78"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01402"
+
+[meta]
 bill_number = 1402
 congress = 14
-canonical = "SBN-01402"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1402", "https://web.senate.gov.ph/lisdata/57015066!.pdf",]
 title = "GOOD SAMARITAN ACT OF 2007"
 date_filed = "2007-07-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMOTE DONATIONS IN GOOD FAITH OF MEDICINES, FOOD PRODU
 scope = "National"
 subjects = [ "Good Samaritan Act of 2007", "Donations", "Immunity From Suit",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-30"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-17"
 action = "Read on First Reading and Referred to the Committee on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2007"
+date = "2007-09-17"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

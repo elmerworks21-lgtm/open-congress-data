@@ -1,8 +1,11 @@
 id = "01K67YJW0CGWSG8RDP7W5WM3GY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01610"
+
+[meta]
 bill_number = 1610
 congress = 19
-canonical = "SBN-01610"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1610", "https://web.senate.gov.ph/lisdata/4019836608!.pdf",]
 title = "FREE LEGAL EDUCATION ACT OF 2023"
 date_filed = "2022-12-14"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROMOTING ACCESS TO QUALITY LEGAL EDUCATION BY PROVIDING FO
 scope = "National"
 subjects = [ "Education",]
 authors_raw = "Tulfo, Raffy T., Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-14"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-14"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 231, recommending that it be substituted by SBN-2596;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "SUBSTITUTED BY SBN-2596 UNDER COMMITTEE REPORT NO. 231;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-13"
 action = "Letter from Senator JOSEPH G. EJERCITO, dated May 8, 2024, conveying his intention to be a co-author of SBN-1610 (substituted by SBN-2596), received by LBIS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/13/2024"
+date = "2024-03-13"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

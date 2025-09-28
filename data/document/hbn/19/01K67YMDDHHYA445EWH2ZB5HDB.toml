@@ -1,24 +1,28 @@
 id = "01K67YMDDHHYA445EWH2ZB5HDB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08719"
+
+[meta]
 bill_number = 8719
 congress = 19
-canonical = "HBN-08719"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8719", "https://web.senate.gov.ph/lisdata/4300239095!.pdf",]
 title = "MUNICIPALITY OF JOSE PANGANIBAN, PROVINCE OF CAMARINES NORTE, A TOURISM DEVELOPMENT AREA"
 long_title = "AN ACT DECLARING THE MUNICIPALITY OF JOSE PANGANIBAN, PROVINCE OF CAMARINES NORTE, A TOURISM DEVELOPMENT AREA"
 scope = "Local"
 subjects = [ "Tourism Development Area (TDA)",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-11-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-28"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/28/2023"
+date = "2023-11-28"
 
 [[committees]]
 name = "Tourism"

@@ -1,23 +1,27 @@
 id = "01K67YM95ZYZ6MFNSKFK4550V7"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06697"
+
+[meta]
 bill_number = 6697
 congress = 18
-canonical = "HBN-06697"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-6697", "https://web.senate.gov.ph/lisdata/3471531561!.pdf",]
 title = "CITY CHARTER ANNIVERSARY DAY (GENERAL SANTOS CITY)"
 long_title = "AN ACT DECLARING JUNE 15 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE CITY OF GENERAL SANTOS IN COMMEMORATION OF ITS CITY CHARTER ANNIVERSARY"
 scope = "Local"
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-24"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/24/2021"
+date = "2021-03-24"
 
 [[committees]]
 name = "Local Government"

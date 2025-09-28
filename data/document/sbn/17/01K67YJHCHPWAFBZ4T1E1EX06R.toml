@@ -1,8 +1,11 @@
 id = "01K67YJHCHPWAFBZ4T1E1EX06R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00354"
+
+[meta]
 bill_number = 354
 congress = 17
-canonical = "SBN-00354"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-354", "https://web.senate.gov.ph/lisdata/2379220455!.pdf",]
 title = "SECURED TRANSACTIONS ACT"
 date_filed = "2016-07-04"
@@ -10,37 +13,38 @@ long_title = "AN ACT STRENGTHENING THE SECURED TRANSACTIONS LEGAL FRAMEWORK IN T
 scope = "National"
 subjects = [ "Micro, Small and Medium Enterprises", "Personal Property",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-16"
 action = "Returned and submitted jointly by the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and FINANCE per Committee Report No. 86, recommending that it be substituted by SBN-1459;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "SUBSTITUTED BY SBN-1459 UNDER COMMITTEE REPORT NO. 86, WHICH BECAME R.A.NO. 11057 ON AUGUST 17, 2018."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/17/2017"
+date = "2017-05-17"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

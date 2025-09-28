@@ -1,8 +1,11 @@
 id = "01K67YJ10KPGCDWDQ4YST0W36E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00417"
+
+[meta]
 bill_number = 417
 congress = 14
-canonical = "SBN-00417"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-417", "https://web.senate.gov.ph/lisdata/45923939!.pdf",]
 title = "CREATING THE CENTER FOR STUDIES ON INDIGENOUS CULTURAL COMMUNITIES IN U.P."
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AND ESTABLISHING THE CENTER FOR STUDIES ON INDIGEN
 scope = "National"
 subjects = [ "Tribal Communities/Cultural Communities", "Center for Studies on Indigenous Cultural Communities",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on CULTURAL COMMUNITIES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Cultural Communities"

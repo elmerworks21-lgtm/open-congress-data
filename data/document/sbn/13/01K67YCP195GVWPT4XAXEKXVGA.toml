@@ -1,8 +1,11 @@
 id = "01K67YCP195GVWPT4XAXEKXVGA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01183"
+
+[meta]
 bill_number = 1183
 congress = 13
-canonical = "SBN-01183"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1183", "https://web.senate.gov.ph/lisdata/23961763!.pdf",]
 title = "SIGNAGE/LARGE BILLBOARDS ON THE SITES OF ROAD WORKS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PREVENT WANTON AND INDISCRIMINATE ROAD DIGGINGS AND ROAD
 scope = "National"
 subjects = [ "Signage/Billboards (Road Works)", "Road Diggings/Repairs (Signage)",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Public Works"

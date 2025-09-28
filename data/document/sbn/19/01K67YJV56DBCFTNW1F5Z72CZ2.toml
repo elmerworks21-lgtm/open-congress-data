@@ -1,8 +1,11 @@
 id = "01K67YJV56DBCFTNW1F5Z72CZ2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00418"
+
+[meta]
 bill_number = 418
 congress = 19
-canonical = "SBN-00418"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-418", "https://web.senate.gov.ph/lisdata/3817834616!.pdf",]
 title = "AMENDING R.A. NO. 6938 (COOPERATIVE CODE OF THE PHILIPPINES), AS AMENDED"
 date_filed = "2022-07-12"
@@ -10,57 +13,58 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6938, OTHERWISE KNOWN AS THE 'COO
 scope = "National"
 subjects = [ "Cooperative Code of the Philippines (R.A. No. 6938)",]
 authors_raw = "Marcos, Imee R., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committee on COOPERATIVES;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Conducted ORGANIZATIONAL MEETING/BRIEFING;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Letter from Senator LOREN LEGARDA, expressing her intention to co-author SBN-418, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-04"
 action = "Returned and submitted jointly by the Committees on COOPERATIVES, CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES, WAYS AND MEANS, and FINANCE per Committee Report No. 313, recommending that it be substituted by SBN-2811;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-04"
 action = "SUBSTITUTED BY SBN-2811 UNDER COMMITTEE REPORT NO. 313."
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-11"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-02"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/4/2024"
+date = "2024-09-04"
 
 [[committees]]
 name = "Cooperatives"

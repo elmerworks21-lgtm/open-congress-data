@@ -1,24 +1,28 @@
 id = "01K67YKQRCHS3NSW05CRH7YMMR"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02186"
+
+[meta]
 bill_number = 2186
 congress = 13
-canonical = "HBN-02186"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-2186", "https://web.senate.gov.ph/lisdata/50444122!.pdf",]
 title = "PALATONG NATIONAL HIGH SCHOOL (BENGUET)"
 long_title = "AN ACT SEPARATING THE LEPANTO NATIONAL HIGH SCHOOL – PALATONG EXTENSION IN BARANGAY TABIO, MUNICIPALITY OF MANKAYAN, PROVINCE OF BENGUET FROM THE LEPANTO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE PALATONG NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Benguet)", "Palatong National High School (Benguet)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives SAMUEL M. DANGWA, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2006"
+date = "2006-05-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJC9EJQVP1HFV637P3EVS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00016"
+
+[meta]
 bill_number = 16
 congress = 16
-canonical = "SBN-00016"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-16", "https://web.senate.gov.ph/lisdata/1582413061!.pdf",]
 title = "SUBMISSION OF WAIVER BY PUBLIC OFFICIALS/EMPLOYEES IN FAVOR OF THE OMBUDSMAN RE BANK DEPOSITS"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING PUBLIC OFFICIALS AND EMPLOYEES TO SUBMIT A WRITTE
 scope = "National"
 subjects = [ "Bank Deposits/Bank Accounts", "Government Official/Public Official",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2013"
+date = "2013-07-23"
 
 [[committees]]
 name = "Justice and Human Rights"

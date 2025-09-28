@@ -1,8 +1,11 @@
 id = "01K67YJ38PXH6PTDWCRYE1E8RT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03397"
+
+[meta]
 bill_number = 3397
 congress = 14
-canonical = "SBN-03397"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3397", "https://web.senate.gov.ph/lisdata/1218210698!.pdf",]
 title = "INCENTIVES TO THE MANUFACTURE OF HYBRID VEHICLES"
 date_filed = "2009-08-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING INCENTIVES TO THE MANUFACTURE, SALE AND IMPORTATI
 scope = "National"
 subjects = [ "Motor Vehicle",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-19"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-24"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS and TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2009"
+date = "2009-08-24"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJQYSRY91SS8TXYDJRPAY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02194"
+
+[meta]
 bill_number = 2194
 congress = 18
-canonical = "SBN-02194"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2194", "https://web.senate.gov.ph/lisdata/3501431841!.pdf",]
 title = "CEBU CITY MEDICAL CENTER"
 date_filed = "2021-05-17"
@@ -10,21 +13,22 @@ long_title = "AN ACT CONVERTING THE CEBU CITY MEDICAL CENTER IN THE CITY OF CEBU
 scope = "Local"
 subjects = [ "Hospitals, Conversion",]
 authors_raw = "Marcos, Imee R., Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2021-05-17"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-18"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-20"
 action = "Senator VICENTE C. SOTTO III was made a co-author ;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2021"
+date = "2021-05-18"
 
 [[committees]]
 name = "Health and Demography"

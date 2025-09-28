@@ -1,24 +1,28 @@
 id = "01K67YKR189P40MTM7JP585HRP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04768"
+
+[meta]
 bill_number = 4768
 congress = 13
-canonical = "HBN-04768"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4768", "https://web.senate.gov.ph/lisdata/50034982!.pdf",]
 title = "BRGY. STO. NIÑO AGRICULTURAL LAND (OCCIDENTAL MINDORO)"
 long_title = "AN ACT DECLARING A PARCEL OF LAND OF THE PUBLIC DOMAIN LOCATED IN BARANGAY STO. NIÑO, MUNICIPALITY OF SABLAYAN, PROVINCE OF OCCIDENTAL MINDORO AN AGRICULTURAL LAND OPEN TO DISPOSITION FOR RESIDENTIAL, COMMERCIAL, INDUSTRIAL AND OTHER PRODUCTIVE PURPOSES"
 scope = "Local"
 subjects = [ "Buffer Zones (Brgy. Sto. Niño Agricultural Land", "Occidental Mindoro)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives MA. AMELITA C. VILLAROSA and LEOVIGILDO B. BANAAG, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-17"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2006"
+date = "2006-05-17"
 
 [[committees]]
 name = "Environment and Natural Resources"

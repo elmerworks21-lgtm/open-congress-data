@@ -1,8 +1,11 @@
 id = "01K67YJQWMAGT4H3E3SRBAQ9FJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02102"
+
+[meta]
 bill_number = 2102
 congress = 18
-canonical = "SBN-02102"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2102", "https://web.senate.gov.ph/lisdata/3476931567!.pdf",]
 title = "LIFELINE RATE FOR INTERNET SERVICES"
 date_filed = "2021-03-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPLEMENTING A LIFEL INE RATE FOR INTERNET SERVICES, AMENDI
 scope = "National"
 subjects = [ "Internet Service Providers", "Public Telecommunications Act (R.A.No.7925)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-15"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-15"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/15/2021"
+date = "2021-03-15"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJ2ZRD079KMH9BBRY5J5F"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03019"
+
+[meta]
 bill_number = 3019
 congress = 14
-canonical = "SBN-03019"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3019", "https://web.senate.gov.ph/lisdata/101139049!.pdf",]
 title = "LAND TRANSPORTATION OFFICE (BONGAO, PROVINCE OF TAWI-TAWI)"
 date_filed = "2009-01-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION O
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2009-01-27"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-28"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/28/2009"
+date = "2009-01-28"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YK065NN792Y2M9T0SZ8ES"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00653"
+
+[meta]
 bill_number = 653
 congress = 20
-canonical = "SBN-00653"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-653", "https://web.senate.gov.ph/lisdata/4715143151!.pdf",]
 title = "MAGNA CARTA FOR TRICYCLE DRIVERS AND OPERATORS"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA FOR TRICYCLE DRIVERS AND OPER
 scope = "National"
 subjects = [ "Magna Carta for Tricycle Drivers and Operators", "Drivers/Operators",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Public Services"

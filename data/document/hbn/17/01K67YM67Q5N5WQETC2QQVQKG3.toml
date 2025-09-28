@@ -1,24 +1,28 @@
 id = "01K67YM67Q5N5WQETC2QQVQKG3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06779"
+
+[meta]
 bill_number = 6779
 congress = 17
-canonical = "HBN-06779"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6779", "https://web.senate.gov.ph/lisdata/2724223464!.pdf",]
 title = "CHURCH ANNULMENT DECREE"
 long_title = "AN ACT RECOGNIZING THE CIVIL EFFECTS OF CHURCH ANNULMENT DECREE"
 scope = "National"
 subjects = [ "Family Code(E.O.No. 209)", "Annulment (Church)", "Marriage",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-01-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-05"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2018"
+date = "2018-02-05"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

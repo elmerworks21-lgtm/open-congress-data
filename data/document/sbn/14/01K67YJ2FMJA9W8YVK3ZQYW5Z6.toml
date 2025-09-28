@@ -1,8 +1,11 @@
 id = "01K67YJ2FMJA9W8YVK3ZQYW5Z6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02316"
+
+[meta]
 bill_number = 2316
 congress = 14
-canonical = "SBN-02316"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2316", "https://web.senate.gov.ph/lisdata/74526666!.pdf",]
 title = "ANNUAL MARKETING EXPENSES REPORT FOR DRUG MANUFACTURERS ACT OF 2008"
 date_filed = "2008-05-21"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO REQUIRE MANUFACTURERS OR LABELERS OF PRESCRIPTION DRUGS 
 scope = "National"
 subjects = [ "Drugs and Medicines", "Label",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-21"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-26"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; and HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/26/2008"
+date = "2008-05-26"
 
 [[committees]]
 name = "Trade and Commerce"

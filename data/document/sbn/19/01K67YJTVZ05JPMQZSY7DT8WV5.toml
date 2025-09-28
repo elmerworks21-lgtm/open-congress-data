@@ -1,8 +1,11 @@
 id = "01K67YJTVZ05JPMQZSY7DT8WV5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00021"
+
+[meta]
 bill_number = 21
 congress = 19
-canonical = "SBN-00021"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-21", "https://web.senate.gov.ph/lisdata/3772234164!.pdf",]
 title = "AMENDING SEC. 2 OF R. A. NO. 10868 (THE CENTENARIANS ACT OF 2016)"
 date_filed = "2022-07-05"
@@ -10,45 +13,46 @@ long_title = "AN ACT AMENDING SECTION 2 OF REPUBLIC ACT NO. 10868, OTHERWISE KNO
 scope = "National"
 subjects = [ "Centenarians",]
 authors_raw = "Revilla Jr., Ramon Bong, Go, Christopher Lawrence T., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-05"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-21"
 action = "Letter from Senator CHRISTOPHER LAWRENCE T. GO dated March 20, 2023, conveying his intention to be co-author of SBN-21, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-21"
 action = "Returned and submitted jointly by the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE per Committee Report No. 61, recommending that it be substituted by SBN-2028;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "SUBSTITUTED BY SBN-2028 UNDER COMMITTEE REPORT NO. 61, WHICH BECAME REPUBLIC ACT NO. 11982 ON FEBRUARY 26, 2024."
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-26"
 action = "Letter from Senator LOREN LEGARDA dated September 18, 2023, expressing her intention to co-author of SBN-21, received by LBIS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/22/2023"
+date = "2023-03-22"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

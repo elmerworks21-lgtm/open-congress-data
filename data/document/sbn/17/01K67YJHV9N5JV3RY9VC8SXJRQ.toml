@@ -1,8 +1,11 @@
 id = "01K67YJHV9N5JV3RY9VC8SXJRQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01015"
+
+[meta]
 bill_number = 1015
 congress = 17
-canonical = "SBN-01015"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1015", "https://web.senate.gov.ph/lisdata/2459221172!.pdf",]
 title = "NATIONAL LAND USE ACT OF THE PHILIPPINES OF 2016"
 date_filed = "2016-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLE
 scope = "National"
 subjects = [ "National Land Use Act",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-15"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-17"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2016"
+date = "2016-08-17"
 
 [[committees]]
 name = "Environment and Natural Resources"

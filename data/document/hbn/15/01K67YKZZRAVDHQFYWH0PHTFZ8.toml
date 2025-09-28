@@ -1,26 +1,30 @@
 id = "01K67YKZZRAVDHQFYWH0PHTFZ8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05205"
+
+[meta]
 bill_number = 5205
 congress = 15
-canonical = "HBN-05205"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-5205", "https://web.senate.gov.ph/lisdata/1566712975!.pdf",]
 title = "LA LIBERTAD NATIONAL TECHNICAL-VOCATIONAL HIGH SCHOOL"
 long_title = "AN ACT CONVERTING THE LA LIBERTAD NATIONAL HIGH SCHOOL IN BARANGAY SOUTH POBLACION, MUNICIPALITY OF LA LIBERTAD, PROVINCE OF NEGROS ORIENTAL INTO A NATIONAL TECHNICAL-VOCATIONAL HIGH SCHOOL TO BE KNOWN AS LA LIBERTAD NATIONAL TECHNICAL-VOCATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

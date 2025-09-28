@@ -1,24 +1,28 @@
 id = "01K67YM9516NZ4TVC9WW3703EF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06448"
+
+[meta]
 bill_number = 6448
 congress = 18
-canonical = "HBN-06448"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-6448", "https://web.senate.gov.ph/lisdata/3283729711!.pdf",]
 title = "KAPANGYAN FALLS IN THE MUNICIPALITY OF BATARAZA, PALAWAN AN ECOTOURISM SITE"
 long_title = "AN ACT DECLARING KAPANGYAN FALLS IN THE MUNICIPALITY OF BATARAZA, PROVINCE OF PALAWAN AN ECOTOURISM SITE, PROVIDING FOR ITS DEVELOPMENT AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Ecological Tourism Zone", "Ecotourism Site",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-27"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/27/2020"
+date = "2020-05-27"
 
 [[committees]]
 name = "Tourism"

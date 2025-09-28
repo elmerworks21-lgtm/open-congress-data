@@ -1,8 +1,11 @@
 id = "01K67YJ18WA358D08JWNW31VKP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00825"
+
+[meta]
 bill_number = 825
 congress = 14
-canonical = "SBN-00825"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-825", "https://web.senate.gov.ph/lisdata/50534441!.pdf",]
 title = "DEBT MANAGEMENT BOARD CHARTER"
 date_filed = "2007-07-03"
@@ -10,15 +13,16 @@ long_title = "AN ACT CREATING THE DEBT MANAGEMENT BOARD, APPROPRIATING FUNDS THE
 scope = "National"
 subjects = [ "Debt Management Board Charter",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 

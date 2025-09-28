@@ -1,8 +1,11 @@
 id = "01K67YJW2XF56TQNGFB9XNTEPN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01724"
+
+[meta]
 bill_number = 1724
 congress = 19
-canonical = "SBN-01724"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1724", "https://web.senate.gov.ph/lisdata/4043036839!.pdf",]
 title = "WORKPLACE AND WORKERS WELLNESS ACT"
 date_filed = "2023-01-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING WORKERS' HEALTH AND WELLNESS BY PROVIDING INCENTI
 scope = "National"
 subjects = [ "Workers Health and Wellness",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-23"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-30"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2023"
+date = "2023-01-30"
 
 [[committees]]
 name = "Health and Demography"

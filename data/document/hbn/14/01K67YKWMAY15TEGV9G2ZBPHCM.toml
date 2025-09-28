@@ -1,24 +1,28 @@
 id = "01K67YKWMAY15TEGV9G2ZBPHCM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05247"
+
+[meta]
 bill_number = 5247
 congress = 14
-canonical = "HBN-05247"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5247", "https://web.senate.gov.ph/lisdata/94398517!.pdf",]
 title = "PAGLAUM NATIONAL HIGH SCHOOL - ENCLARO ANNEX (NEGROS OCCIDENTAL)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY ENCLARO, MUNICIPALITY OF BINALBAGAN, PROVINCE OF NEGROS OCCIDENTAL TO BE KNOWN AS PAGLAUM NATIONAL HIGH SCHOOL - ENCLARO ANNEX AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-20"
 action = "Filed in the Senate requesting for concurrence by Representatives IGGY T. ARROYO, DEL R. DE GUZMAN and EDCEL C. LAGMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2008"
+date = "2008-11-25"
 
 [[committees]]
 name = "Education, Arts and Culture"

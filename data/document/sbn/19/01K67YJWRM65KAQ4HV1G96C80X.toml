@@ -1,8 +1,11 @@
 id = "01K67YJWRM65KAQ4HV1G96C80X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02597"
+
+[meta]
 bill_number = 2597
 congress = 19
-canonical = "SBN-02597"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2597", "https://web.senate.gov.ph/lisdata/4367039698!.pdf",]
 title = "STRENGTHENING THE LEGAL EDUCATION BOARD"
 date_filed = "2024-03-11"
@@ -10,45 +13,46 @@ long_title = "AN ACT STRENGTHENING THE LEGAL EDUCATION BOARD, AMENDING FOR THE P
 scope = "National"
 subjects = [ "Legal Education",]
 authors_raw = "Tulfo, Raffy T., Escudero, Francis G., Tolentino, Francis \"Tol\" N., Angara, Sonny, Lapid, Manuel \"Lito\" M., Gatchalian, Win, Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-11"
 action = "Prepared and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, JUSTICE AND HUMAN RIGHTS, WAYS AND MEANS and FINANCE with Senators RAFFY T. TULFO, FRANCIS G. ESCUDERO, FRANCIS 'TOL' N. TOLENTINO and SONNY ANGARA as authors per Committee Report No. 232, Recommending its approval in substitution of S. No. 1653;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Sponsor: Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Sponsorship speech of Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Co-sponsorship speech of Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Letter from Senator MANUEL LITO M. LAPID, dated March 18, 2024, requesting that he be made co-author of SBN-2597, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Letter from Senator WIN GATCHALIAN dated September 11, 2024, conveying his intention to be co-author of SBN-2597, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-02"
 action = "Letter from Senator JOEL VILLANUEVA, conveying his intention to be made co-author of SBN-2597, received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/19/2024"
+date = "2024-03-19"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

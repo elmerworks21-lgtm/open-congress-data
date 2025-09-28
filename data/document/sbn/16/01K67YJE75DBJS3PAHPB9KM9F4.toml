@@ -1,8 +1,11 @@
 id = "01K67YJE75DBJS3PAHPB9KM9F4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02804"
+
+[meta]
 bill_number = 2804
 congress = 16
-canonical = "SBN-02804"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2804", "https://web.senate.gov.ph/lisdata/2163018353!.pdf",]
 title = "BARANGAY BREASTFEEDING CENTERS ACT"
 date_filed = "2015-06-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A BREASTFEEDING CENTER IN EVERY BARANGAY THROU
 scope = "National"
 subjects = [ "Breastfeeding",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-06-08"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-09"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/9/2015"
+date = "2015-06-09"
 
 [[committees]]
 name = "Health and Demography"

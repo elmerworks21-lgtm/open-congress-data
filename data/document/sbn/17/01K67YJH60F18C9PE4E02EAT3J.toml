@@ -1,8 +1,11 @@
 id = "01K67YJH60F18C9PE4E02EAT3J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00071"
+
+[meta]
 bill_number = 71
 congress = 17
-canonical = "SBN-00071"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-71", "https://web.senate.gov.ph/lisdata/2348420124!.pdf",]
 title = "PHILIPPINE NATIONAL POLICE (PNP) COMPENSATION ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE MINIMUM BASE PAY AND ALLOWANCES OF THE PHILI
 scope = "National"
 subjects = [ "Philippine National Police (PNP)",]
 authors_raw = "Cayetano, Alan Peter Companero S."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator ALAN PETER COMPANERO S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/26/2016"
+date = "2016-07-26"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

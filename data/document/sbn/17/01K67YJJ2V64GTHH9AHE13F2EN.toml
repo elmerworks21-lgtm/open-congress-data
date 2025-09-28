@@ -1,8 +1,11 @@
 id = "01K67YJJ2V64GTHH9AHE13F2EN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01312"
+
+[meta]
 bill_number = 1312
 congress = 17
-canonical = "SBN-01312"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1312", "https://web.senate.gov.ph/lisdata/2534021845!.pdf",]
 title = "MANDATORY COLLECTION OF BIOLOGICAL SPECIMEN AND IDENTIFICATION SAMPLES ACT OF 2017"
 date_filed = "2017-02-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING CREMATORIES TO COLLECT FROM THE DECEDENT’S REMA
 scope = "National"
 subjects = [ "Crematory/Crematories", "Biological Evidence", "Dna Facilities",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2017-02-01"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-06"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/6/2017"
+date = "2017-02-06"
 
 [[committees]]
 name = "Health and Demography"

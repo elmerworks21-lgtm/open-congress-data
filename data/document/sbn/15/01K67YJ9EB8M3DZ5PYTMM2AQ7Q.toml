@@ -1,8 +1,11 @@
 id = "01K67YJ9EB8M3DZ5PYTMM2AQ7Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03053"
+
+[meta]
 bill_number = 3053
 congress = 15
-canonical = "SBN-03053"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3053", "https://web.senate.gov.ph/lisdata/1247110542!.pdf",]
 title = "REGIONAL TRIAL COURT (PANIQUI, TARLAC)"
 date_filed = "2011-11-16"
@@ -10,109 +13,110 @@ long_title = "AN ACT CREATING FOUR ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COU
 scope = "National"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2011-11-16"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-21"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-04-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-06"
 action = "Returned and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE per Committee Report No. 350, recommending its approval with amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-10"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Period of committee amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Period of committee amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-11"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-12"
 action = "Printed copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-17"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-17"
 action = "In favor: (20) EDGARDO J. ANGARA, JOKER P. ARROYO, ALAN PETER COMPANERO S. CAYETANO, PIA S. CAYETANO, FRANKLIN M. DRILON, JINGGOY P. EJERCITO-ESTRADA, JUAN PONCE ENRILE, FRANCIS 'CHIZ' G. ESCUDERO, TEOFISTO 'TG' GUINGONA III, GREGORIO B. HONASAN II, PANFILO M. LACSON, MANUEL 'LITO' M. LAPID, LOREN B. LEGARDA, FERDINAND 'BONGBONG' R. MARCOS, SERGIO R. OSMENA III, FRANCIS N. PANGILINAN, AQUILINO KOKO III L. PIMENTEL, RALPH G. RECTO, RAMON A. REVILLA JR. and VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-17"
 action = "Against: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-17"
 action = "Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-20"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-04"
 action = "House of Representatives adopted SBN-3053, 3054 and 3055 as an amendment to HBN-6753 on January 28, 2013;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-04"
 action = "Enrolled copies of the consolidated version of SBN-3053 and HBN-6753, sent to the House of Representatives for the signature of the Speaker and the Secretary General;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-23"
 action = "Enrolled copies of the consolidated version of SBN-3053 and HBN-6753, received by the Senate, which were already signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-04-29"
 action = "Enrolled copies of the consolidated version of SBN-3053 and HBN-6753, sent to the Office of the President of the Philippines, through PLLO, for the signature and approval of His Excellency, President Benigno S. Aquino III;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-05-22"
 action = "Approved and signed into law, in consolidation with HBN-6753, by the President of the Philippines, His Excellency President Benigno S. Aquino III, and became"
 
-[[legislative_history]]
+[[history]]
 date = "2013-05-22"
 action = "REPUBLIC ACT NO. 10562."
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "5/22/2013"
+date = "2013-05-22"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJV1J1XT1CH5KV4V9KRR6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00249"
+
+[meta]
 bill_number = 249
 congress = 19
-canonical = "SBN-00249"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-249", "https://web.senate.gov.ph/lisdata/3796834411!.pdf",]
 title = "SPECIALTY CENTERS IN DOH HOSPITALS AND MEDICAL CENTERS ACT"
 date_filed = "2022-07-11"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING SPECIALTY CENTERS ATTACHED TO EXISTING HOSPITA
 scope = "National"
 subjects = [ "Department of Health (DOH)", "Hospitals (Specialized Hospitals, Phca, Lcp, Nkfp, Lnk, Tgh)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-10-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY, WAYS AND MEANS and FINANCE per Committee Report No. 67, recommending that it be substituted by SBN-2212;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "SUBSTITUTED BY SBN-2212 UNDER COMMITTEE REPORT NO. 67, WHICH BECAME REPUBLIC ACT NO. 11959 ON AUGUST 24, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Health and Demography"

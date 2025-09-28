@@ -1,8 +1,11 @@
 id = "01K67YCNRGNQCCRQW1Q4RCXFH8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00710"
+
+[meta]
 bill_number = 710
 congress = 13
-canonical = "SBN-00710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-710", "https://web.senate.gov.ph/lisdata/19001277!.pdf",]
 title = "FAMILY HOME EXEMPT FROM EXECUTION/FORCED SALE/ATTACHMENT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUGMENTING THE MAXIMUM VALUE OF THE FAMILY HOME EXEMPT FROM
 scope = "National"
 subjects = [ "Family Home (Execution/Forced Sale)", "Family Code (Eo 209, Article 157)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-18"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2004"
+date = "2004-08-18"
 
 [[committees]]
 name = "Justice and Human Rights"

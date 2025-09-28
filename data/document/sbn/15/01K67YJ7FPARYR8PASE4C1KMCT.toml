@@ -1,8 +1,11 @@
 id = "01K67YJ7FPARYR8PASE4C1KMCT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00407"
+
+[meta]
 bill_number = 407
 congress = 15
-canonical = "SBN-00407"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-407", "https://web.senate.gov.ph/lisdata/77866659!.pdf",]
 title = "NATIONAL ASTHMA PROGRAM ACT"
 date_filed = "2010-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A NATIONAL ASTHMA EDUCATION AND PREVENTION PROGRAM
 scope = "National"
 subjects = [ "Asthma",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-04"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2010"
+date = "2010-08-04"
 
 [[committees]]
 name = "Health and Demography"

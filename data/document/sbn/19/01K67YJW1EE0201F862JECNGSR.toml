@@ -1,8 +1,11 @@
 id = "01K67YJW1EE0201F862JECNGSR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01658"
+
+[meta]
 bill_number = 1658
 congress = 19
-canonical = "SBN-01658"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1658", "https://web.senate.gov.ph/lisdata/4033436748!.pdf",]
 title = "TANODBATA ACT"
 date_filed = "2023-01-12"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING THE OFFICE OF TANODBATA AND PROVIDING FUNDS THEREF
 scope = "National"
 subjects = [ "Tanodbata",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-12"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/23/2023"
+date = "2023-01-23"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

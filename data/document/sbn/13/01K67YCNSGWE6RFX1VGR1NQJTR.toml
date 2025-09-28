@@ -1,8 +1,11 @@
 id = "01K67YCNSGWE6RFX1VGR1NQJTR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00765"
+
+[meta]
 bill_number = 765
 congress = 13
-canonical = "SBN-00765"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-765", "https://web.senate.gov.ph/lisdata/19551376!.pdf",]
 title = "MARITIME AND OCEAN AFFAIRS CENTER ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE MARITIME AND OCEAN AFFAIRS CENTER AS AN AT
 scope = "National"
 subjects = [ "Maritime and Ocean Affairs Center", "Department of Foreign Affairs (DFA)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on FOREIGN RELATIONS; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Foreign Relations"

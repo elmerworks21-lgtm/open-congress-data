@@ -1,8 +1,11 @@
 id = "01K67YJWSJAD367C2Z95N19N4T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02625"
+
+[meta]
 bill_number = 2625
 congress = 19
-canonical = "SBN-02625"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2625", "https://web.senate.gov.ph/lisdata/4381939820!.pdf",]
 title = "PHILIPPINE CORN INDUSTRY DEVELOPMENT ACT"
 date_filed = "2024-03-19"
@@ -10,61 +13,62 @@ long_title = "AN ACT TO DEVELOP THE PHILIPPINE CORN INDUSTRY, ENHANCE THE AVAILA
 scope = "National"
 subjects = [ "Philippine Corn Industry Development",]
 authors_raw = "Villar, Cynthia A., Villanueva, Joel, Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-19"
 action = "Prepared and submitted jointly by the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE with Senator CYNTHIA A. VILLAR as author per Committee Report No. 246, recommending its approval in substitution of S. No. 120;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Sponsor: Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Sponsorship speech delivered by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Manifestation of Senator JOEL VILLANUEVA that he be made co-author and co-sponsor;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Letter from Senator JOEL VILLANUEVA, conveying his intention to be made co-author of SBN-2625, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "Letter from Senator MARIA LOURDES NANCY S. BINAY dated August 12, 2024, conveying her intention to be a co-author of SBN-2625, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-21"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-21"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-22"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-22"
 action = "Conducted CONSULTATION/OCULAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-23"
 action = "Conducted CONSULTATION/OCULAR;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/20/2024"
+date = "2024-03-20"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

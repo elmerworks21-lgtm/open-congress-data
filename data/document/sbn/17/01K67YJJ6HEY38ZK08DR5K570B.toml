@@ -1,8 +1,11 @@
 id = "01K67YJJ6HEY38ZK08DR5K570B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01448"
+
+[meta]
 bill_number = 1448
 congress = 17
-canonical = "SBN-01448"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1448", "https://web.senate.gov.ph/lisdata/2594222312!.pdf",]
 title = "AMENDING CHAPTER 5, TITLE 3, BOOK 1 OF ACT NO. 3815 (REVISED PENAL CODE)"
 date_filed = "2017-05-10"
@@ -10,41 +13,42 @@ long_title = "AN ACT AUTHORIZING THE COURT TO REQUIRE COMMUNITY SERVICE IN LIEU 
 scope = "National"
 subjects = [ "Community Work/Community Service", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M., Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2017-05-10"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-15"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-22"
 action = "Letter from Senator JOSEPH VICTOR G. EJERCITO dated May 22, 2017 requesting that he be made co-author of SBN-1448, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 621, recommending that it be substituted by SBN-2195;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-30"
 action = "SUBSTITUTED BY SBN-2195 UNDER COMMITTEE REPORT NO. 621 WHICH BECAME R.A. NO. 11362 ON AUGUST 8, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/30/2019"
+date = "2019-01-30"
 
 [[committees]]
 name = "Justice and Human Rights"

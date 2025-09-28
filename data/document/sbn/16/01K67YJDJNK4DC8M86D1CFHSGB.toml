@@ -1,8 +1,11 @@
 id = "01K67YJDJNK4DC8M86D1CFHSGB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02017"
+
+[meta]
 bill_number = 2017
 congress = 16
-canonical = "SBN-02017"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2017", "https://web.senate.gov.ph/lisdata/1842515589!.pdf",]
 title = "TRAUMA CENTER ACT, RA 8505 (RAPE VICTIMS ASSISTANCE AND PROTECTION ACT)"
 date_filed = "2013-12-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8505, OTHERWISE KNOWN AS THE RAPE
 scope = "National"
 subjects = [ "Rape Victim Assistance and Protection Act (R.A.No. 8505)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-12-11"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-16"
 action = "Read on First Reading and Referred to the Committee on WOMEN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/16/2013"
+date = "2013-12-16"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

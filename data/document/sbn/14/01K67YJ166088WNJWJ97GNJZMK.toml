@@ -1,8 +1,11 @@
 id = "01K67YJ166088WNJWJ97GNJZMK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00691"
+
+[meta]
 bill_number = 691
 congress = 14
-canonical = "SBN-00691"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-691", "https://web.senate.gov.ph/lisdata/49134288!.pdf",]
 title = "BREAST CARE CENTERS"
 date_filed = "2007-07-03"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BREAST CARE CENTERS IN E
 scope = "National"
 subjects = [ "Breast Care Centers",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Health and Demography"

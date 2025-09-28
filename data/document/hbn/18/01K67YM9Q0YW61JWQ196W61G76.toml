@@ -1,40 +1,44 @@
 id = "01K67YM9Q0YW61JWQ196W61G76"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09391"
+
+[meta]
 bill_number = 9391
 congress = 18
-canonical = "HBN-09391"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9391", "https://web.senate.gov.ph/lisdata/3525232110!.pdf",]
 title = "DISTRICT ENGINEERING OFFICE (NUEVA VISCAYA)"
 long_title = "AN ACT RECONSTITUTING THE NUEVA VISCAYA DISTRICT ENGINEERING OFFICE IN THE PROVINCE OF NUEVA VISCAYA INTO THREE SEPARATE DISTRICT ENGINEERING OFFICES, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Engineering District Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-27"
 action = "Returned and submitted jointly by the Committees on PUBLIC WORKS and FINANCE per Committee Report No. 566, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Sponsor: Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "1/31/2022"
+date = "2022-01-31"
 
 [[committees]]
 name = "Public Works"

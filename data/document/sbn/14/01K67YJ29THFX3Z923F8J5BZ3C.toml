@@ -1,8 +1,11 @@
 id = "01K67YJ29THFX3Z923F8J5BZ3C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02056"
+
+[meta]
 bill_number = 2056
 congress = 14
-canonical = "SBN-02056"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2056", "https://web.senate.gov.ph/lisdata/68026026!.pdf",]
 title = "FRAMEWORK FOR THE TRANSFER OF SCIENCE AND TECHNOLOGY"
 date_filed = "2008-02-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING A FRAMEWORK FOR THE TRANSFER OF SCIENCE AND TECHN
 scope = "National"
 subjects = [ "Overseas Contract Workers (OCWS)", "Overseas Filipino Workers (OFWs)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-06"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-06"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/6/2008"
+date = "2008-02-06"
 
 [[committees]]
 name = "Science and Technology"

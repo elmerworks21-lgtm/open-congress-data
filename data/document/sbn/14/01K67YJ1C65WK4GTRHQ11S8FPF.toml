@@ -1,8 +1,11 @@
 id = "01K67YJ1C65WK4GTRHQ11S8FPF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00980"
+
+[meta]
 bill_number = 980
 congress = 14
-canonical = "SBN-00980"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-980", "https://web.senate.gov.ph/lisdata/52464612!.pdf",]
 title = "WOMEN'S MEDICAL AND HOSPITALIZATION BENEFITS ACT"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FREE MEDICAL AND HOSPITALIZATION BENEFITS TO INDIG
 scope = "National"
 subjects = [ "Womens Medical", "Hospitalization Benefits",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Health and Demography"

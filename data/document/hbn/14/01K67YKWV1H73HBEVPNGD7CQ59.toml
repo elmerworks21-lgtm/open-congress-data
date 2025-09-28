@@ -1,24 +1,28 @@
 id = "01K67YKWV1H73HBEVPNGD7CQ59"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05792"
+
+[meta]
 bill_number = 5792
 congress = 14
-canonical = "HBN-05792"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5792", "https://web.senate.gov.ph/lisdata/106769529!.pdf",]
 title = "SUSTAINABLE FOREST MANAGEMENT ACT OF 2009"
 long_title = "AN ACT PROVIDING FOR SUSTAINABLE FOREST MANAGEMENT"
 scope = "National"
 subjects = [ "Sustainable Forest Management",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-11"
 action = "Filed in the Senate requesting for concurrence by Representatives ISIDRO S. RODRIGUEZ JR., MONICO O. PUENTEVELLA, RAUL T. GONZALEZ JR., ROGER G. MERCADO, IGGY T. ARROYO, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Environment and Natural Resources"

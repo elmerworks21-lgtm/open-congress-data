@@ -1,8 +1,11 @@
 id = "01K67YJTX04X2NNV3WKASZ09FB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00046"
+
+[meta]
 bill_number = 46
 congress = 19
-canonical = "SBN-00046"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-46", "https://web.senate.gov.ph/lisdata/3774734189!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2022-07-06"
@@ -10,57 +13,58 @@ long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
 scope = "National"
 subjects = [ "Magna Carta of Filipino Seafarers",]
 authors_raw = "Estrada, Jinggoy E., Padilla, Robinhood C., Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-06"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FOREIGN RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Transferred from the Committee on Labor, Employment and Human Resources Development to the Committee on MIGRANT WORKERS as primary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-14"
 action = "Letter from Senator ROBINHOOD C. PADILLA expressing his intention to co-author SBN-46, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-10-04"
 action = "Letter from Senator CYNTHIA A. VILLAR dated September 13, 2022, conveying her intention to be a co-author of SBN-46, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-02"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Returned and submitted jointly by the Committees on MIGRANT WORKERS, FOREIGN RELATIONS and FINANCE per Committee Report No. 69, recommending that it be substituted by SBN-2221;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "SUBSTITUTED BY SBN-2221 UNDER COMMITTEE REPORT NO. 69, WHICH BECAME REPUBLIC ACT NO. 12021 ON SEPTEMBER 23, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/22/2023"
+date = "2023-05-22"
 
 [[committees]]
 name = "Migrant Workers"

@@ -1,8 +1,11 @@
 id = "01K67YJQS5VM04X468R07TV3W1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01962"
+
+[meta]
 bill_number = 1962
 congress = 18
-canonical = "SBN-01962"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1962", "https://web.senate.gov.ph/lisdata/3423131033!.pdf",]
 title = "PROVINCIAL OFFICE OF THE COMMISSION ON HIGHER EDUCATION IN THE PROVINCE OF NORTHERN SAMAR"
 date_filed = "2020-12-21"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING A PROVINCIAL OFFICE OF THE COMMISSION ON HIGHE
 scope = "Local"
 subjects = [ "Commission on Higher Education (CHED)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2020-12-21"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-18"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Returned and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE per Committee Report No. 429, recommending that it be considered in HBN-7969;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "CONSIDERED IN HBN-7969 UNDER COMMITTEE REPORT NO. 429."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/15/2021"
+date = "2021-12-15"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

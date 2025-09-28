@@ -1,8 +1,11 @@
 id = "01K67YJ3BN35273MDN3J5QAJA2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03503"
+
+[meta]
 bill_number = 3503
 congress = 14
-canonical = "SBN-03503"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3503", "https://web.senate.gov.ph/lisdata/1284311513!.pdf",]
 title = "PLAIN LANGUAGE IN HEALTH INSURANCE ACT"
 date_filed = "2009-10-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENHANCE CITIZEN AWARENESS OF INSURANCE INFORMATION AND S
 scope = "National"
 subjects = [ "Insurance",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-27"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-09"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/9/2009"
+date = "2009-11-09"
 
 [[committees]]
 name = "Health and Demography"

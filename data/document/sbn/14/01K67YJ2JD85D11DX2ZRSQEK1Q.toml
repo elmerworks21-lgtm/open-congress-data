@@ -1,8 +1,11 @@
 id = "01K67YJ2JD85D11DX2ZRSQEK1Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02416"
+
+[meta]
 bill_number = 2416
 congress = 14
-canonical = "SBN-02416"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2416", "https://web.senate.gov.ph/lisdata/77076945!.pdf",]
 title = "REDUCING THE RATE OF DEGRADATION OF MARINE RESOURCES"
 date_filed = "2008-06-24"
@@ -10,25 +13,26 @@ long_title = "AN ACT AMENDING SECTIONS 91 AND 97 OF REPUBLIC ACT NO. 8550, OTHER
 scope = "National"
 subjects = [ "R.A.No. 8550 (Philippine Fisheries Code)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-06-24"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2008"
+date = "2008-07-29"
 
 [[committees]]
 name = "Agriculture and Food"

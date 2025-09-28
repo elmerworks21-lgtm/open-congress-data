@@ -1,8 +1,11 @@
 id = "01K67YJ18CRTC35AXZTR90RAF0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00799"
+
+[meta]
 bill_number = 799
 congress = 14
-canonical = "SBN-00799"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-799", "https://web.senate.gov.ph/lisdata/50234416!.pdf",]
 title = "WATER RESOURCES MANAGEMENT ACT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ADDRESS THE NATIONAL WATER CRISIS PROVIDING FOR A COMPRE
 scope = "National"
 subjects = [ "Water Resources Management",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; ENVIRONMENT AND NATURAL RESOURCES; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Public Services"

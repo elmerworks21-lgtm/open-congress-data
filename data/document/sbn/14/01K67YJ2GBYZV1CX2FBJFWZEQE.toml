@@ -1,8 +1,11 @@
 id = "01K67YJ2GBYZV1CX2FBJFWZEQE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02346"
+
+[meta]
 bill_number = 2346
 congress = 14
-canonical = "SBN-02346"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2346", "https://web.senate.gov.ph/lisdata/75146728!.pdf",]
 title = "FOSTER CARE ACT OF 2008"
 date_filed = "2008-05-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN AND PROPAGATE FOSTER CARE FOR ABUSED, ABANDON
 scope = "National"
 subjects = [ "Foster Care Act",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-28"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2008"
+date = "2008-06-02"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

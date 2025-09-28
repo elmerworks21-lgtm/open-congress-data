@@ -1,8 +1,11 @@
 id = "01K67YJWATTFKT6EP07JSX2GME"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02055"
+
+[meta]
 bill_number = 2055
 congress = 19
-canonical = "SBN-02055"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2055", "https://web.senate.gov.ph/lisdata/4136837685!.pdf",]
 title = "THE FREE TERTIARY AGRICULTURAL EDUCATION ACT"
 date_filed = "2023-03-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FREE TERTIARY AGRICULTURAL EDUCATION, AND OTHER RE
 scope = "National"
 subjects = [ "Agricultural Education", "Tertiary Education", "Indigent Children", "Farmers",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-30"
 action = "Introduced by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/8/2023"
+date = "2023-05-08"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

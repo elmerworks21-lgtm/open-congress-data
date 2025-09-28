@@ -1,8 +1,11 @@
 id = "01K67YJVHEATG6YMPTAS8Q53E6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00968"
+
+[meta]
 bill_number = 968
 congress = 19
-canonical = "SBN-00968"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-968", "https://web.senate.gov.ph/lisdata/3877835233!.pdf",]
 title = "ABOGADO PARA SA BAYAN ACT"
 date_filed = "2022-08-01"
@@ -10,25 +13,26 @@ long_title = "AN ACT TO ENCOURAGE MORE FILIPINO LAWYERS TO SERVE THE PEOPLE AND 
 scope = "National"
 subjects = [ "Abogado Para Sa Bayan", "Lawyers", "Public Attorneys Office (PAO)",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-01"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-05"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-18"
 action = "Transferred primarily to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-18"
 action = "Manifestation of Senator Tolentino that SBN-968 be considered as part of Committee Report No. 231 which reported out SBN-2596;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/18/2024"
+date = "2024-09-18"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

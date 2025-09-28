@@ -1,8 +1,11 @@
 id = "01K67YJ16JK8G51RTBNWW4REWK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00710"
+
+[meta]
 bill_number = 710
 congress = 14
-canonical = "SBN-00710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-710", "https://web.senate.gov.ph/lisdata/49324316!.pdf",]
 title = "USE OF MUSLIM OR ISLAMIC WORD IN MEDIA"
 date_filed = "2007-07-03"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROHIBITING THE USE OF THE WORD ‘MUSLIM’ OR ‘ISLAMIC�
 scope = "National"
 subjects = [ "Muslim", "Islamic Word",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2007"
+date = "2007-08-29"
 
 [[committees]]
 name = "Public Information and Mass Media"

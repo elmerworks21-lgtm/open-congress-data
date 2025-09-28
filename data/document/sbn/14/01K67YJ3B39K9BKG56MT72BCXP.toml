@@ -1,8 +1,11 @@
 id = "01K67YJ3B39K9BKG56MT72BCXP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03486"
+
+[meta]
 bill_number = 3486
 congress = 14
-canonical = "SBN-03486"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3486", "https://web.senate.gov.ph/lisdata/1277411457!.pdf",]
 title = "LONG-TERM CARE FIRE SAFETY ACT"
 date_filed = "2009-10-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO AUTHORIZE THE SECRETARY OF HEALTH TO MAKE GRANTS TO PROM
 scope = "National"
 subjects = [ "Secretary, Department of Health (DOH)", "Fire Protection",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/14/2009"
+date = "2009-10-14"
 
 [[committees]]
 name = "Health and Demography"

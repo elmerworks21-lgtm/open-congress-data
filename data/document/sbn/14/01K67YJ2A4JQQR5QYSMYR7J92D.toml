@@ -1,8 +1,11 @@
 id = "01K67YJ2A4JQQR5QYSMYR7J92D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02072"
+
+[meta]
 bill_number = 2072
 congress = 14
-canonical = "SBN-02072"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2072", "https://web.senate.gov.ph/lisdata/68706087!.pdf",]
 title = "MAGNA CARTA FOR HOMEOWNERS' ASSOCIATIONS OF 2008"
 date_filed = "2008-02-12"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR HOMEOWNERS' ASSOCIATIONS"
 scope = "National"
 subjects = [ "Magna Carta for Homeowners Associations",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-12"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-13"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-04"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-02"
 action = "Returned and submitted by the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT per Committee Report No. 253, recommending that it be substituted by SBN-3106;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-02"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-02"
 action = "SUBSTITUTED BY SBN-3106."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/2/2009"
+date = "2009-03-02"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

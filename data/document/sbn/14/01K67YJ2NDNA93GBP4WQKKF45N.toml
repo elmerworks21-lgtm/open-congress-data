@@ -1,8 +1,11 @@
 id = "01K67YJ2NDNA93GBP4WQKKF45N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02556"
+
+[meta]
 bill_number = 2556
 congress = 14
-canonical = "SBN-02556"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2556", "https://web.senate.gov.ph/lisdata/81387364!.pdf",]
 title = "AGGRESSIVE DRIVING REGULATION"
 date_filed = "2008-08-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REGULATE AGGRESSIVE DRIVING"
 scope = "National"
 subjects = [ "Driving (Aggressive Driving Behavior)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-21"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-27"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2008"
+date = "2008-08-27"
 
 [[committees]]
 name = "Justice and Human Rights"

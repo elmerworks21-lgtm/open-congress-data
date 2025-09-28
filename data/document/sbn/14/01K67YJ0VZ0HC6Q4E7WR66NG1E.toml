@@ -1,8 +1,11 @@
 id = "01K67YJ0VZ0HC6Q4E7WR66NG1E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00204"
+
+[meta]
 bill_number = 204
 congress = 14
-canonical = "SBN-00204"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-204", "https://web.senate.gov.ph/lisdata/43043700!.pdf",]
 title = "ELECTRONIC MEDICAL RECORDS ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT MAKING AVAILABLE ELECTRONIC MEDICAL RECORDS OF ALL PATIENTS
 scope = "National"
 subjects = [ "Electronic Medical Records", "Department of Health (DOH)", "Healthcare Services/Health Care Delivery System", "Patients",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2007"
+date = "2007-08-01"
 
 [[committees]]
 name = "Health and Demography"

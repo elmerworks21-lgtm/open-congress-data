@@ -1,8 +1,11 @@
 id = "01K67YJ2PREEAFBHH3S7F2T3B0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02622"
+
+[meta]
 bill_number = 2622
 congress = 14
-canonical = "SBN-02622"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2622", "https://web.senate.gov.ph/lisdata/84357633!.pdf",]
 title = "SUPPLEMENTAL APPROPRIATION"
 date_filed = "2008-09-16"
@@ -10,33 +13,34 @@ long_title = "AN ACT APPROPRIATING THE SUM OF TWENTY BILLION PESOS (P20,000,000,
 scope = "National"
 subjects = [ "Supplemental Appropriation", "Paglaum Fund",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-17"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-28"
 action = "Referred to the Committee on FINANCE on motion of Senator Zubiri;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-20"
 action = "Returned and submitted by the Committee on FINANCE per Committee Report No. 302, recommending that it be considered in HBN-5604;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-21"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-21"
 action = "CONSIDERED IN HBN-5604."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "4/21/2009"
+date = "2009-04-21"
 
 [[committees]]
 name = "Finance"

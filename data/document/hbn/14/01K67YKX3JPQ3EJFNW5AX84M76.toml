@@ -1,48 +1,52 @@
 id = "01K67YKX3JPQ3EJFNW5AX84M76"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07022"
+
+[meta]
 bill_number = 7022
 congress = 14
-canonical = "HBN-07022"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-7022", "https://web.senate.gov.ph/lisdata/1336511853!.pdf",]
 title = "INFANT AND YOUNG CHILD FEEDING ACT OF 2009"
 long_title = "AN ACT TO PROTECT, PROMOTE AND SUPPORT PROPER INFANT AND YOUNG CHILD FEEDING BY REGULATING THE MARKETING OF CERTAIN FOODS FOR INFANTS AND YOUNG CHILDREN"
 scope = "National"
 subjects = [ "Infant",]
-[[legislative_history]]
+
+[[history]]
 date = "2010-01-12"
 action = "Filed in the Senate requesting for concurrence by Representatives ANNA YORK P. BONDOC, LORNA C. SILVERIO, ANA THERESIA 'RISA' B. HONTIVEROS-BARANQUEL, MUJIV S. HATAMAN and EDUARDO C. ZIALCITA, ET. AL., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS and TRADE AND COMMERCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-01-12"
 action = "Certified by the President of the Philippines for its IMMEDIATE enactment on 12/07/2009;(See: O.B. dated December 9, 2009);"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Returned and submitted jointly by the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS and TRADE AND COMMERCE per Committee Report No. 837, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Sponsors: Senator(s) M. A. MADRIGAL, MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-02"
 action = "Sponsorship speech of Senator Madrigal inserted into the Record;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/2/2010"
+date = "2010-02-02"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

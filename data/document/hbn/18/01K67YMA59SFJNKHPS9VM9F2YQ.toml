@@ -1,24 +1,28 @@
 id = "01K67YMA59SFJNKHPS9VM9F2YQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10589"
+
+[meta]
 bill_number = 10589
 congress = 18
-canonical = "HBN-10589"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10589", "https://web.senate.gov.ph/lisdata/3701533355!.pdf",]
 title = "BATAAN PENINSULA STATE UNIVERSITY-BAGAC CAMPUS"
 long_title = "AN ACT CONVERTING THE BATAAN PENINSULA STATE UNIVERSITY-BAGAC EXTENSION CAMPUS IN THE MUNICIPALITY OF BAGAC, PROVINCE OF BATAAN, INTO A REGULAR CAMPUS OF THE BATAAN PENINSULA STATE UNIVERSITY, TO BE KNOWN AS THE 'BATAAN PENINSULA STATE UNIVERSITY-BAGAC CAMPUS', AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "State Colleges and Universities (SCUS)", "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-01-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-26"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/26/2022"
+date = "2022-01-26"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

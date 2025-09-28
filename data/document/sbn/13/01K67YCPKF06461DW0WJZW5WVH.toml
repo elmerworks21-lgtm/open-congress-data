@@ -1,8 +1,11 @@
 id = "01K67YCPKF06461DW0WJZW5WVH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02128"
+
+[meta]
 bill_number = 2128
 congress = 13
-canonical = "SBN-02128"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2128", "https://web.senate.gov.ph/lisdata/40453394!.pdf",]
 title = "JURISDICTION OF LABOR ARBITERS (NLRC/DOLE)"
 date_filed = "2005-09-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE JURISDICTION OF LABOR CASES BETWEEN THE NATION
 scope = "National"
 subjects = [ "Labor Arbiters", "National Labor Relations Commission", "Dept. of Labor and Employment (DOLE)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-09-22"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-09-26"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/26/2005"
+date = "2005-09-26"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

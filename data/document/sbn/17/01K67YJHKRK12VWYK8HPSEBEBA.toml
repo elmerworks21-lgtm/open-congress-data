@@ -1,8 +1,11 @@
 id = "01K67YJHKRK12VWYK8HPSEBEBA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00665"
+
+[meta]
 bill_number = 665
 congress = 17
-canonical = "SBN-00665"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-665", "https://web.senate.gov.ph/lisdata/2415520791!.pdf",]
 title = "PHILIPPINE BAMBOO INDUSTRY DEVELOPMENT COUNCIL ACT"
 date_filed = "2016-07-20"
@@ -10,49 +13,50 @@ long_title = "AN ACT TO PROMOTE THE DEVELOPMENT OF THE BAMBOO INDUSTRY IN THE PH
 scope = "National"
 subjects = [ "Bamboo Industry",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "Returned and submitted jointly by the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP, WAYS AND MEANS and FINANCE per Committee Report No. 116, recommending that it be substituted by SBN-1478;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "Sponsor: Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "SUBSTITUTED BY SBN-1478 UNDER COMMITTEE REPORT NO. 116."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/30/2017"
+date = "2017-05-30"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

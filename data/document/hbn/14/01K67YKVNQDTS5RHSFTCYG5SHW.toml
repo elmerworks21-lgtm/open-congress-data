@@ -1,24 +1,28 @@
 id = "01K67YKVNQDTS5RHSFTCYG5SHW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00263"
+
+[meta]
 bill_number = 263
 congress = 14
-canonical = "HBN-00263"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-263", "https://web.senate.gov.ph/lisdata/111119864!.pdf",]
 title = "FOSTER CARE ACT OF 2009"
 long_title = "AN ACT TO STRENGTHEN AND PROPAGATE FOSTER CARE FOR ABANDONED AND NEGLECTED CHILDREN AND OTHER CHILDREN WITH SPECIAL NEEDS, PROVIDING APPROPRIATIONS THEREFOR AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Foster Care Act",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-07"
 action = "Filed in the Senate requesting for concurrence by Representatives DARLENE R. ANTONINO-CUSTODIO, EILEEN ERMITA-BUHAIN, ARTHUR D. DEFENSOR and SALVADOR H. ESCUDERO III, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-11"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/11/2009"
+date = "2009-05-11"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

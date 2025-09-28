@@ -1,8 +1,11 @@
 id = "01K67YCNM5RF1RW2R82Q8E66KW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00461"
+
+[meta]
 bill_number = 461
 congress = 13
-canonical = "SBN-00461"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-461", "https://web.senate.gov.ph/lisdata/1619920!.pdf",]
 title = "ZAMBOANGA INTERNATIONAL AIRPORT AUTHORITY CHARTER"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE ZAMBOANGA INTERNATIONAL AIRPORT AUTHORITY, TRA
 scope = "National"
 subjects = [ "Zamboanga Int`L. Airport Authority", "Airport Authority (Creation)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; PUBLIC SERVICES; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

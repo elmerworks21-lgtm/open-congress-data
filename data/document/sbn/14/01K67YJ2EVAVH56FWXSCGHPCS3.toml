@@ -1,25 +1,29 @@
 id = "01K67YJ2EVAVH56FWXSCGHPCS3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02278"
+
+[meta]
 bill_number = 2278
 congress = 14
-canonical = "SBN-02278"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2278", "https://web.senate.gov.ph/lisdata/73246547!.pdf",]
 title = "MERCURY USE IN SCHOOLS PROHIBITION ACT OF 2008"
 date_filed = "2008-05-13"
 long_title = "AN ACT TO PROHIBIT THE USE, PURCHASE AND STORAGE OF ELEMENTAL MERCURY BY SCHOOLS"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-13"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2008"
+date = "2008-05-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

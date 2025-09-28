@@ -1,8 +1,11 @@
 id = "01K67YJD53S88Q8F9QMHKHXEF8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01353"
+
+[meta]
 bill_number = 1353
 congress = 16
-canonical = "SBN-01353"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1353", "https://web.senate.gov.ph/lisdata/1749514682!.pdf",]
 title = "INDOOR FIRING RANGE REGULATORY ACT"
 date_filed = "2013-08-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING INDOOR FIRING RANGES"
 scope = "National"
 subjects = [ "Firing Range",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-22"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2013"
+date = "2013-09-03"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

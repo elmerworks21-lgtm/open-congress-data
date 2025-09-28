@@ -1,8 +1,11 @@
 id = "01K67YJ9822N9WM5BFE3N1YTDP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02859"
+
+[meta]
 bill_number = 2859
 congress = 15
-canonical = "SBN-02859"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2859", "https://web.senate.gov.ph/lisdata/114619727!.pdf",]
 title = "DIOSDADO MACAPAGAL AGRICULTURE AND SCIENCE STATE UNIVERSITY (DMASSU)"
 date_filed = "2011-06-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE PAMPANGA AGRICULTURAL COLLEGE IN THE MUNICIP
 scope = "Local"
 subjects = [ "State Colleges and Universities (SCUS)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-06-01"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/7/2011"
+date = "2011-06-07"
 
 [[committees]]
 name = "Education, Arts and Culture"

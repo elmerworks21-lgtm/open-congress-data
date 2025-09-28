@@ -1,8 +1,11 @@
 id = "01K67YJD9K6T0V4R7D433TJAZD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01576"
+
+[meta]
 bill_number = 1576
 congress = 16
-canonical = "SBN-01576"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1576", "https://web.senate.gov.ph/lisdata/1768014893!.pdf",]
 title = "NATIONAL FLOOD RESEARCH AND EDUCATION ACT"
 date_filed = "2013-09-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE OFFICE OF FLOOD RESEARCH AND POLICY TO PLA
 scope = "National"
 subjects = [ "Flood", "Drainage Systems",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-05"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2013"
+date = "2013-09-11"
 
 [[committees]]
 name = "National Defense and Security"

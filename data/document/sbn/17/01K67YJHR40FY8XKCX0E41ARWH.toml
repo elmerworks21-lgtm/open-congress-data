@@ -1,8 +1,11 @@
 id = "01K67YJHR40FY8XKCX0E41ARWH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00870"
+
+[meta]
 bill_number = 870
 congress = 17
-canonical = "SBN-00870"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-870", "https://web.senate.gov.ph/lisdata/2442320980!.pdf",]
 title = "ENHANCED CODE OF CONDUCT AND ETHICAL STANDARDS FOR PUBLIC SERVANTS OF 2016"
 date_filed = "2016-07-26"
@@ -10,25 +13,26 @@ long_title = "AN ACT STRENGTHENING THE CODE OF CONDUCT AND ETHICAL STANDARDS FOR
 scope = "National"
 subjects = [ "Code of Conduct and Ethical Standards (R.A.No. 6713)", "Government Official/Public Official",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-26"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

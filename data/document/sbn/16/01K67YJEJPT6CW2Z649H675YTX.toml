@@ -1,8 +1,11 @@
 id = "01K67YJEJPT6CW2Z649H675YTX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03184"
+
+[meta]
 bill_number = 3184
 congress = 16
-canonical = "SBN-03184"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3184", "https://web.senate.gov.ph/lisdata/2311319852!.pdf",]
 title = "IMPORTED PRODUCE LABELING ACT"
 date_filed = "2016-01-28"
@@ -10,19 +13,20 @@ long_title = "AN ACT REQUIRING COUNTRY-OF-ORIGIN LABELING OF PERISHABLE AGRICULT
 scope = "National"
 subjects = [ "Label/Labeling", "Food Products Label", "Agricultural Products",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-01-28"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Motion of the Majority Leader, Senator Alan Peter Compañero S. Cayetano, that the matters appearing in the Reference of Business for todays session be deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "5/30/2016"
+date = "2016-05-30"
 

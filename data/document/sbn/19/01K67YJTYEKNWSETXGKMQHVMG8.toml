@@ -1,8 +1,11 @@
 id = "01K67YJTYEKNWSETXGKMQHVMG8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00109"
+
+[meta]
 bill_number = 109
 congress = 19
-canonical = "SBN-00109"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-109", "https://web.senate.gov.ph/lisdata/3781734258!.pdf",]
 title = "PANDEMIC AND OTHER PUBLIC HEALTH EMERGENCY PREPAREDNESS ACT"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PANDEMIC AND OTHER PUBLIC HEALTH EMERGENCY P
 scope = "National"
 subjects = [ "Pandemic", "Emergency Response/Emergency Preparedness",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Health and Demography"

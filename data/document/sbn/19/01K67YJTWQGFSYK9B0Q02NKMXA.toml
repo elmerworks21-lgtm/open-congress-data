@@ -1,8 +1,11 @@
 id = "01K67YJTWQGFSYK9B0Q02NKMXA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00033"
+
+[meta]
 bill_number = 33
 congress = 19
-canonical = "SBN-00033"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-33", "https://web.senate.gov.ph/lisdata/3773434176!.pdf",]
 title = "TOURIST PROTECTION AND ASSISTANCE ACT"
 date_filed = "2022-07-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AN INTER-AGENCY GOVERNMENT TASK FORCE FOR THE 
 scope = "National"
 subjects = [ "Tourist Protection",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-05"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Tourism"

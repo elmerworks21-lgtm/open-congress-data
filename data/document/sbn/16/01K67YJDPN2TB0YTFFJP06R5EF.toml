@@ -1,8 +1,11 @@
 id = "01K67YJDPN2TB0YTFFJP06R5EF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02191"
+
+[meta]
 bill_number = 2191
 congress = 16
-canonical = "SBN-02191"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2191", "https://web.senate.gov.ph/lisdata/1901216134!.pdf",]
 title = "GLOBAL AUTISM ASSISTANCE ACT"
 date_filed = "2014-04-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A HEALTH AND EDUCATION GRANT PROGRAM RELATED T
 scope = "National"
 subjects = [ "Autism",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-04-28"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-06"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2014"
+date = "2014-05-06"
 
 [[committees]]
 name = "Health and Demography"

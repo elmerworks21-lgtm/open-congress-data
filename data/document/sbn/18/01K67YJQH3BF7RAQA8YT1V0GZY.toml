@@ -1,8 +1,11 @@
 id = "01K67YJQH3BF7RAQA8YT1V0GZY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01627"
+
+[meta]
 bill_number = 1627
 congress = 18
-canonical = "SBN-01627"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1627", "https://web.senate.gov.ph/lisdata/3316429990!.pdf",]
 title = "USM-KABACAN COTOBATO-TESDA TRAINING AND ASSESSMENT CENTER"
 date_filed = "2020-07-16"
@@ -10,15 +13,16 @@ long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT A
 scope = "Local"
 subjects = [ "Tesda Training and Assessment Center",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-07-16"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-07-16"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "7/16/2020"
+date = "2020-07-16"
 

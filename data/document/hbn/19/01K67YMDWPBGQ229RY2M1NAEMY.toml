@@ -1,18 +1,22 @@
 id = "01K67YMDWPBGQ229RY2M1NAEMY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11253"
+
+[meta]
 bill_number = 11253
 congress = 19
-canonical = "HBN-11253"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11253", "https://web.senate.gov.ph/lisdata/4637742379!.pdf",]
 title = "COCKPIT REGULATION LAW OF 2024"
 long_title = "AN ACT PROHIBITING THE ESTABLISHMENT AND OPERATION OF COCKPITS AND OTHER STRUCTURES OR FACILITIES FOR HOLDING COCKFIGHTS WITHIN A RADIUS OF FIVE HUNDRED LINEAL METERS FROM ANY EXISTING RESIDENTIAL OR COMMERCIAL AREA, SCHOOLS AND OTHER EDUCATIONAL INSTITUTIONS, CHURCH BUILDINGS AND OTHER PLACES OF WORSHIP, AND HOSPITALS, AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
 scope = "National"
 subjects = [ "Cockpit Regulation Law",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-06-09"
 action = "Sent to the Senate requesting for concurrence;"
 
 [[status]]
 status = "Pending First Reading"
-date = "6/9/2025"
+date = "2025-06-09"
 

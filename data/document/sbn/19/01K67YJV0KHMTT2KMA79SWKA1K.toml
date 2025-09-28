@@ -1,8 +1,11 @@
 id = "01K67YJV0KHMTT2KMA79SWKA1K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00204"
+
+[meta]
 bill_number = 204
 congress = 19
-canonical = "SBN-00204"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-204", "https://web.senate.gov.ph/lisdata/3791234355!.pdf",]
 title = "PHILIPPINE NATIONAL POLICE REVITALIZATION AND CAPABILITY ENHANCEMENT ACT"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE REVITALIZATION AND CAPABILITY ENHANCEMENT
 scope = "National"
 subjects = [ "Philippine National Police (PNP)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-08"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS; LOCAL GOVERNMENT; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/8/2022"
+date = "2022-07-08"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

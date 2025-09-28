@@ -1,8 +1,11 @@
 id = "01K67YJX0KA089SQA4CZ7Q4HPP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02880"
+
+[meta]
 bill_number = 2880
 congress = 19
-canonical = "SBN-02880"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2880", "https://web.senate.gov.ph/lisdata/4533741230!.pdf",]
 title = "PEOPLES FREEDOM OF INFORMATION ACT"
 date_filed = "2024-11-25"
@@ -10,33 +13,34 @@ long_title = "AN ACT IMPLEMENTING THE PEOPLE'S RIGHT TO INFORMATION AND THE CONS
 scope = "National"
 subjects = [ "Peoples Freedom of Information",]
 authors_raw = "Poe, Grace, Villanueva, Joel, Angara, Sonny, Revilla Jr., Ramon Bong, Legarda, Loren B., Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2024-11-25"
 action = "Prepared and submitted jointly by the Committees on PUBLIC INFORMATION AND MASS MEDIA, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE with Senators GRACE POE, JOEL VILLANUEVA, SONNY ANGARA, RAMON BONG REVILLA JR., LOREN B. LEGARDA and ROBINHOOD C. PADILLA as authors per Committee Report No. 368, recommending its approval in substitution of S. Nos. 100, 933, 1006, 1101, and 2321;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-25"
 action = "Sponsor: Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-26"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-26"
 action = "Sponsorship speech delivered by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-26"
 action = "Co-sponsorship speech of Senators JOEL VILLANUEVA, RAMON BONG REVILLA JR., GRACE POE and LOREN B. LEGARDA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "11/26/2024"
+date = "2024-11-26"
 
 [[committees]]
 name = "Public Information and Mass Media"

@@ -1,24 +1,28 @@
 id = "01K67YMD93AVW6B6BW1D31VMGQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08034"
+
+[meta]
 bill_number = 8034
 congress = 19
-canonical = "HBN-08034"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8034", "https://web.senate.gov.ph/lisdata/4191938172!.pdf",]
 title = "TWIN ISLANDS OF SAN PEDRO AND SAN PABLO ECOTOURISM ZONES (HINUNANGAN, SOUTHERN LEYTE)"
 long_title = "AN ACT DECLARING THE TWIN ISLANDS OF SAN PEDRO AND SAN PABLO, LOCATED IN THE MUNICIPALITY OF HINUNANGAN, PROVINCE OF SOUTHERN LEYTE, AS ECOTOURISM ZONES"
 scope = "Local"
 subjects = [ "Ecotourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-30"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-25"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2023"
+date = "2023-07-25"
 
 [[committees]]
 name = "Tourism"

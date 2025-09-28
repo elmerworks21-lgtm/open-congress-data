@@ -1,8 +1,11 @@
 id = "01K67YJW7ZZNT53BHD36JKZX1E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01942"
+
+[meta]
 bill_number = 1942
 congress = 19
-canonical = "SBN-01942"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1942", "https://web.senate.gov.ph/lisdata/4094937311!.pdf",]
 title = "DR. ELEUTERIO R. VIOLAGO GENERAL HOSPITAL"
 date_filed = "2023-02-28"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING A LEVEL II GENERAL HOSPITAL IN SAN JOSE CITY, 
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-28"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-06"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-23"
 action = "Transfer of primary referral from the Committee on Rules to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-05"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 272, recommending that it be considered in HBN-9624;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "CONSIDERED IN HBN-9624 UNDER COMMITTEE REPORT NO. 272, WHICH BECAME REPUBLIC ACT NO. 12113 ON DECEMBER 13, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/6/2024"
+date = "2024-08-06"
 
 [[committees]]
 name = "Health and Demography"

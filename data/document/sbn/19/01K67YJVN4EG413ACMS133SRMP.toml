@@ -1,8 +1,11 @@
 id = "01K67YJVN4EG413ACMS133SRMP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01131"
+
+[meta]
 bill_number = 1131
 congress = 19
-canonical = "SBN-01131"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1131", "https://web.senate.gov.ph/lisdata/3911635554!.pdf",]
 title = "MEDICAL RESERVE CORPS ACT"
 date_filed = "2022-08-11"
@@ -10,37 +13,38 @@ long_title = "AN ACT ESTABLISHING A MEDICAL RESERVE CORPS, AND APPROPRIATING FUN
 scope = "National"
 subjects = [ "Medical Reserve Corps",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-11"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-06"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-28"
 action = "Referred to the Sub-Committee on Medical Reserve Corp.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2022"
+date = "2022-09-06"
 
 [[committees]]
 name = "Health and Demography"

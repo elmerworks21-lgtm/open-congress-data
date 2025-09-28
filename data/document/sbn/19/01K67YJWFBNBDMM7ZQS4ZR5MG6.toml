@@ -1,8 +1,11 @@
 id = "01K67YJWFBNBDMM7ZQS4ZR5MG6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02241"
+
+[meta]
 bill_number = 2241
 congress = 19
-canonical = "SBN-02241"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2241", "https://web.senate.gov.ph/lisdata/4181438087!.pdf",]
 title = "DECLARING THE FUYOT SPRINGS NATIONAL PARK, CITY OF ILIGAN, AN ECOTOURISM DESTINATION"
 date_filed = "2023-05-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE FUYOT SPRINGS NATIONAL PARK LOCATED IN BARANG
 scope = "National"
 subjects = [ "Ecotourism Destination", "Parks",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-24"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-29"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/29/2023"
+date = "2023-05-29"
 
 [[committees]]
 name = "Tourism"

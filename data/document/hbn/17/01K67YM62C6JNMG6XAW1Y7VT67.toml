@@ -1,24 +1,28 @@
 id = "01K67YM62C6JNMG6XAW1Y7VT67"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06138"
+
+[meta]
 bill_number = 6138
 congress = 17
-canonical = "HBN-06138"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6138", "https://web.senate.gov.ph/lisdata/2990226613!.pdf",]
 title = "TRAVEL TAX EXEMPTION TO DEPENDENTS OF MARRIED OR SOLO PARENT OVERSEAS FILIPINO WORKERS"
 long_title = "AN ACT GRANTING TRAVEL TAX EXEMPTION TO DEPENDENTS OF MARRIED OR SOLO PARENT OVERSEAS FILIPINO WORKERS, AMENDING FOR THE PURPOSE SECTIONS 3 AND 35 OF REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE “MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT OF 1995”, AS AMENDED BY REPUBLIC ACT NO. 10022"
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)", "Travel Tax", "Migrant Workers and Overseas Filipinos Act of 1995 (R.A.No. 8042)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJ19Z633CZKM58NTN2P2Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00875"
+
+[meta]
 bill_number = 875
 congress = 14
-canonical = "SBN-00875"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-875", "https://web.senate.gov.ph/lisdata/51284496!.pdf",]
 title = "BUDGETARY REFORM ACT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE SUBMISSION TO CONGRESS OF THE CORPORATE BUDGE
 scope = "National"
 subjects = [ "Budget Reform", "Government-Owned and Controlled Corporations (GOCC)",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE; and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Finance"

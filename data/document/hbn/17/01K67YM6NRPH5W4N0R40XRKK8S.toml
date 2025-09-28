@@ -1,24 +1,28 @@
 id = "01K67YM6NRPH5W4N0R40XRKK8S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08815"
+
+[meta]
 bill_number = 8815
 congress = 17
-canonical = "HBN-08815"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8815", "https://web.senate.gov.ph/lisdata/2938325991!.pdf",]
 title = "DAVAO ORIENTAL MINING-FREE ZONE ACT"
 long_title = "AN ACT DECLARING DAVAO ORIENTAL A MINING-FREE ZONE AND PROVIDING PENALTIES THEREFOR"
 scope = "Local"
 subjects = [ "Mining-Free Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-23"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/23/2019"
+date = "2019-01-23"
 
 [[committees]]
 name = "Environment and Natural Resources"

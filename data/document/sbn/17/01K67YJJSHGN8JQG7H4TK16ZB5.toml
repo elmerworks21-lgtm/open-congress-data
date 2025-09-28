@@ -1,8 +1,11 @@
 id = "01K67YJJSHGN8JQG7H4TK16ZB5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02149"
+
+[meta]
 bill_number = 2149
 congress = 17
-canonical = "SBN-02149"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2149", "https://web.senate.gov.ph/lisdata/2932025921!.pdf",]
 title = "GREEN PACKAGING ACT OF 2019"
 date_filed = "2019-01-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE USE OF SUSTAINABLE PACKAGING OF CONSUMER PROD
 scope = "National"
 subjects = [ "Recycling", "Packaging (Bio-Degradable Materials)", "Consumer Products",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-15"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-16"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TRADE, COMMERCE AND ENTREPRENEURSHIP; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2019"
+date = "2019-01-16"
 
 [[committees]]
 name = "Environment and Natural Resources"

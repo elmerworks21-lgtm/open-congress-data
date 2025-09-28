@@ -1,28 +1,32 @@
 id = "01K67YM9B7EW7TE7JV29CK5R4K"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07704"
+
+[meta]
 bill_number = 7704
 congress = 18
-canonical = "HBN-07704"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7704", "https://web.senate.gov.ph/lisdata/3367130567!.pdf",]
 title = "CRAB HATCHERY (KUMALARANG, ZAMBOANGA DEL SUR)"
 long_title = "AN ACT ESTABLISHING A CRAB HATCHERY IN THE MUNICIPALITY OF KUMALARANG, PROVINCE OF ZAMBOANGA DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Crab Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-10-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-07"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-13"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/7/2020"
+date = "2020-10-07"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

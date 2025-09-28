@@ -1,8 +1,11 @@
 id = "01K67YJQ6RCHC1TYFDHS77GBFT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01199"
+
+[meta]
 bill_number = 1199
 congress = 18
-canonical = "SBN-01199"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1199", "https://web.senate.gov.ph/lisdata/3192828776!.pdf",]
 title = "MANDATORY PALAY PURCHASE ACT"
 date_filed = "2019-11-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUTHORIZING THE DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMEN
 scope = "National"
 subjects = [ "Rice Subsidy Program", "Pantawid Pamilyang Pilipino Program (4PS)", "National Food Authority (NFA)", "Department of Social Welfare and Development (DSWD)", "Farmers", "General Appropriations Act (GAA)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2019-11-27"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-27"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE, FOOD AND AGRARIAN REFORM; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/27/2019"
+date = "2019-11-27"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

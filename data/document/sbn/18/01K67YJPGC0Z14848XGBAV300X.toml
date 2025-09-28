@@ -1,8 +1,11 @@
 id = "01K67YJPGC0Z14848XGBAV300X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00181"
+
+[meta]
 bill_number = 181
 congress = 18
-canonical = "SBN-00181"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-181", "https://web.senate.gov.ph/lisdata/3042327197!.pdf",]
 title = "UNIFIED CORRECTIONS AND JAIL MANAGEMENT SYSTEMS ACT OF 2019"
 date_filed = "2019-07-02"
@@ -10,37 +13,38 @@ long_title = "AN ACT INSTITUTING A UNIFIED CORRECTIONS AND JAIL MANAGEMENT SYSTE
 scope = "National"
 subjects = [ "Jail Facility/Prison Facility", "Unified Corrections and Jail Management System", "Prison Management/Prison Reform",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; PUBLIC ORDER AND DANGEROUS DRUGS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Justice and Human Rights"

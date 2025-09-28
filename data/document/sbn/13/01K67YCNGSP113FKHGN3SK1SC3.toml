@@ -1,8 +1,11 @@
 id = "01K67YCNGSP113FKHGN3SK1SC3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00275"
+
+[meta]
 bill_number = 275
 congress = 13
-canonical = "SBN-00275"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-275", "https://web.senate.gov.ph/lisdata/1433694!.pdf",]
 title = "ENTREPINOY DEVELOPMENT ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE ENTREPINOY DEVELOPMENT AUTHORITY THEREBY INSTI
 scope = "National"
 subjects = [ "Entrepinoy Development Authority", "Livelihood Movement (Entrepinoy Dev`T)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

@@ -1,24 +1,28 @@
 id = "01K67YKW8E82VR8DPPXRWMR76Y"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04512"
+
+[meta]
 bill_number = 4512
 congress = 14
-canonical = "HBN-04512"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4512", "https://web.senate.gov.ph/lisdata/84477663!.pdf",]
 title = "BALIWAGAN - MAN-IBAY NATIONAL ROAD (MISAMIS ORIENTAL)"
 long_title = "AN ACT CONVERTING THE BALIWAGAN - MAN-IBAY ROAD TRAVERSING THE MUNICIPALITIES OF BALINGASAG AND CLAVERIA, PROVINCE OF MISAMIS ORIENTAL INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representatives YEVGENCY VINCENTE B. EMANO and DANILO P. LAGBAS as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2008"
+date = "2008-09-17"
 
 [[committees]]
 name = "Public Works"

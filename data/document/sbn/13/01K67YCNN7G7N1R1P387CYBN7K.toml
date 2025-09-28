@@ -1,8 +1,11 @@
 id = "01K67YCNN7G7N1R1P387CYBN7K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00518"
+
+[meta]
 bill_number = 518
 congress = 13
-canonical = "SBN-00518"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-518", "https://web.senate.gov.ph/lisdata/1675993!.pdf",]
 title = "NATIONAL ECOTOURISM POLICY ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A NATIONAL ECOTOURISM POLICY, ESTABLISHING A 
 scope = "National"
 subjects = [ "Ecotourism Policy Act, National",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Environment and Natural Resources"

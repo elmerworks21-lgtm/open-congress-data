@@ -1,8 +1,11 @@
 id = "01K67YJHS1AG68C15R8W8BFBKC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00913"
+
+[meta]
 bill_number = 913
 congress = 17
-canonical = "SBN-00913"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-913", "https://web.senate.gov.ph/lisdata/2446921054!.pdf",]
 title = "PEOPLE'S BROADCASTING CORPORATION CHARTER"
 date_filed = "2016-07-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE PEOPLE'S BROADCASTING CORPORATION, ABOLISH
 scope = "Local"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-28"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Public Services"

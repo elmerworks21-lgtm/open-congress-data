@@ -1,8 +1,11 @@
 id = "01K67YJTY10B1JRMT6WRXW8PYS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00092"
+
+[meta]
 bill_number = 92
 congress = 19
-canonical = "SBN-00092"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-92", "https://web.senate.gov.ph/lisdata/3779534236!.pdf",]
 title = "HEALTHCARE FACILITY AUGMENTATION ACT"
 date_filed = "2022-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A HOSPITAL IN STATE COLLEGES AND UNIVERSITIES 
 scope = "National"
 subjects = [ "Health Facilities", "State Universities and Colleges (SUCS)", "Hospitals", "Health Care",]
 authors_raw = "Angara, Sonny, Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-14"
 action = "Letter from Senator JOEL VILLANUEVA dated December 6, 2022, conveying his intention to be made co-author of SBN-92, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Health and Demography"

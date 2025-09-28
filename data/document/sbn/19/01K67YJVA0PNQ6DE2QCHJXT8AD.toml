@@ -1,8 +1,11 @@
 id = "01K67YJVA0PNQ6DE2QCHJXT8AD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00638"
+
+[meta]
 bill_number = 638
 congress = 19
-canonical = "SBN-00638"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-638", "https://web.senate.gov.ph/lisdata/3848134937!.pdf",]
 title = "UPGRADING THE MINIMUM SALARY GRADE LEVEL OF NURSES"
 date_filed = "2022-07-14"
@@ -10,21 +13,22 @@ long_title = "AN ACT UPGRADING THE MINIMUM SALARY GRADE LEVEL OF NURSES FROM SAL
 scope = "National"
 subjects = [ "Salary Grade Level", "Nurses/Nursing", "Philippine Nursing Act",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-14"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-17"
 action = "Conducted CONSULTATION/OCULAR;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2022"
+date = "2022-08-17"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

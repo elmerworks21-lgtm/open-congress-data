@@ -1,8 +1,11 @@
 id = "01K67YJCHH3THX6RKS7XT03R63"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00402"
+
+[meta]
 bill_number = 402
 congress = 16
-canonical = "SBN-00402"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-402", "https://web.senate.gov.ph/lisdata/1629213530!.pdf",]
 title = "FAMILY LEAVE ACT"
 date_filed = "2013-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FAMILY LEAVE TO ELIGIBLE EMPLOYEES"
 scope = "National"
 subjects = [ "Leave of Absence (Family", "Medical Leave)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-05"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2013"
+date = "2013-08-05"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YJ1PW3RCQ1WRX2P09570J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01505"
+
+[meta]
 bill_number = 1505
 congress = 14
-canonical = "SBN-01505"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1505", "https://web.senate.gov.ph/lisdata/58165178!.pdf",]
 title = "WOMEN AND CHILDREN'S RESOURCES ACT OF 2007"
 date_filed = "2007-09-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH A NATIONAL PROGRAM THAT WILL PROVIDE PREGNANT 
 scope = "National"
 subjects = [ "Abortion", "Women and Childrens Resources",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-18"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/18/2007"
+date = "2007-09-18"
 
 [[committees]]
 name = "Health and Demography"

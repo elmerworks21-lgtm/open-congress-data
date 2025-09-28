@@ -1,8 +1,11 @@
 id = "01K67YJ1B8D6G3KH1A3YSA1D09"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00934"
+
+[meta]
 bill_number = 934
 congress = 14
-canonical = "SBN-00934"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-934", "https://web.senate.gov.ph/lisdata/51934560!.pdf",]
 title = "BREAST CARE CENTERS"
 date_filed = "2007-07-04"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BREAST CARE CENTERS IN E
 scope = "National"
 subjects = [ "Breast Care Centers",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator LOREN LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Health and Demography"

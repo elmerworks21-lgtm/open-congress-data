@@ -1,24 +1,28 @@
 id = "01K67YKR9M9WJV8WQSXBWHJG7Z"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05561"
+
+[meta]
 bill_number = 5561
 congress = 13
-canonical = "HBN-05561"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5561", "https://web.senate.gov.ph/lisdata/60044954!.pdf",]
 title = "ROSITA NATIONAL HIGH SCHOOL (SURIGAO DEL NORTE)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY ROSITA, MUNICIPALITY OF LIBJO, PROVINCE OF SURIGAO DEL NORTE TO BE KNOWN AS THE ROSITA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Surigao Del Norte)", "Rosita National High School (Surigao Del Norte)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-07"
 action = "Filed in the Senate requesting for concurrence by Representatives GLENDA B. ECLEO, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2006"
+date = "2006-09-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

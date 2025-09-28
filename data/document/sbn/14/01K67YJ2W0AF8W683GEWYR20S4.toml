@@ -1,8 +1,11 @@
 id = "01K67YJ2W0AF8W683GEWYR20S4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02866"
+
+[meta]
 bill_number = 2866
 congress = 14
-canonical = "SBN-02866"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2866", "https://web.senate.gov.ph/lisdata/92308401!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSION DEVELOPMENT FUND"
 date_filed = "2008-11-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A NATIONAL LABOR RELATIONS COMMISSION DEVELOPM
 scope = "National"
 subjects = [ "National Labor Relations Commission (NLRC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-11"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-18"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-04"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/18/2008"
+date = "2008-11-18"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

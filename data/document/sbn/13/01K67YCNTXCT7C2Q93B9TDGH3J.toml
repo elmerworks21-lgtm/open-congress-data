@@ -1,8 +1,11 @@
 id = "01K67YCNTXCT7C2Q93B9TDGH3J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00846"
+
+[meta]
 bill_number = 846
 congress = 13
-canonical = "SBN-00846"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-846", "https://web.senate.gov.ph/lisdata/20441528!.pdf",]
 title = "CORPORATE ACCOUNTABILITY AND RESPONSIBILITY ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROTECT INVESTORS BY IMPROVING THE ACCURACY AND RELIABIL
 scope = "National"
 subjects = [ "Corporate Accountability", "Responsibility",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-24"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/24/2004"
+date = "2004-08-24"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

@@ -1,8 +1,11 @@
 id = "01K67YJZZAF7HT78MAJ7PXQZ7H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00287"
+
+[meta]
 bill_number = 287
 congress = 20
-canonical = "SBN-00287"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-287", "https://web.senate.gov.ph/lisdata/4677642783!.pdf",]
 title = "NATIONAL LAND USE ACT OF 2025"
 date_filed = "2025-07-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLE
 scope = "National"
 subjects = [ "National Land Use",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-09"
 action = "Introduced by Senator FRANCIS 'KIKO' PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-05"
 action = "Read on First Reading and Referred to the Committees on SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2025"
+date = "2025-08-05"
 
 [[committees]]
 name = "Sustainable Development Goals, Innovation and Futures Thinking"

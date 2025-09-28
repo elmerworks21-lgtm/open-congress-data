@@ -1,8 +1,11 @@
 id = "01K67YCPR9AR6KGJYGYJA9NBNT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02370"
+
+[meta]
 bill_number = 2370
 congress = 13
-canonical = "SBN-02370"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2370", "https://web.senate.gov.ph/lisdata/55564591!.pdf",]
 title = "HARDSHIP ALLOWANCES TO PHYSICIANS/DENTISTS/NURSES"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUTHORIZING THE SECRETARY OF HEALTH TO PAY HARDSHIP ALLOWAN
 scope = "National"
 subjects = [ "Hardship Allowances (Physicians", "Dentists", "Nurses", "Midwives)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Health and Demography"

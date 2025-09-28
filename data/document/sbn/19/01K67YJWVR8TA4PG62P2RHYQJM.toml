@@ -1,8 +1,11 @@
 id = "01K67YJWVR8TA4PG62P2RHYQJM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02724"
+
+[meta]
 bill_number = 2724
 congress = 19
-canonical = "SBN-02724"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2724", "https://web.senate.gov.ph/lisdata/4430740263!.pdf",]
 title = "STRENGTHENING THE RIGHTS OF PATIENTS AGAINST HOSPITAL DETENTION"
 date_filed = "2024-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE RIGHTS OF PATIENTS AGAINST HOSPITAL DETEN
 scope = "National"
 subjects = [ "Hospitals (Hospital Deposits/Hospital Bills/Expenses)", "Hospital Detention",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-10"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2024"
+date = "2024-07-30"
 
 [[committees]]
 name = "Health and Demography"

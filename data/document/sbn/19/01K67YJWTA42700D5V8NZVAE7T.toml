@@ -1,8 +1,11 @@
 id = "01K67YJWTA42700D5V8NZVAE7T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02662"
+
+[meta]
 bill_number = 2662
 congress = 19
-canonical = "SBN-02662"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2662", "https://web.senate.gov.ph/lisdata/4403939995!.pdf",]
 title = "LIVING WAGE ACT"
 date_filed = "2024-05-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE STANDARDS FOR A LIVING WAGE, AMENDING FOR 
 scope = "National"
 subjects = [ "Living Wage", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-07"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-13"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2024"
+date = "2024-05-13"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

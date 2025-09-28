@@ -1,8 +1,11 @@
 id = "01K67YJ37YBS558BFV6AR68TJB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03374"
+
+[meta]
 bill_number = 3374
 congress = 14
-canonical = "SBN-03374"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3374", "https://web.senate.gov.ph/lisdata/1204410599!.pdf",]
 title = "CREMATORIES REGULATION ACT"
 date_filed = "2009-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING CREMATORIES"
 scope = "National"
 subjects = [ "Crematories",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-12"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2009"
+date = "2009-08-12"
 
 [[committees]]
 name = "Health and Demography"

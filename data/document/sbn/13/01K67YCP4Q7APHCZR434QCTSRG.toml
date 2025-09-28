@@ -1,8 +1,11 @@
 id = "01K67YCP4Q7APHCZR434QCTSRG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01369"
+
+[meta]
 bill_number = 1369
 congress = 13
-canonical = "SBN-01369"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1369", "https://web.senate.gov.ph/lisdata/25751948!.pdf",]
 title = "EXEMPTING POP AND ROCK CONCERTS FROM AMUSEMENT TAX"
 date_filed = "2004-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING POP AND ROCK CONCERTS FROM THE AMUSEMENT TAX, AME
 scope = "National"
 subjects = [ "Pop & Rock Concerts/Amusement Tax Exempt", "Taxes (Amusement Tax Exemption)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,24 +1,28 @@
 id = "01K67YM6Q9ARDYAW62JGE392R8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08916"
+
+[meta]
 bill_number = 8916
 congress = 17
-canonical = "HBN-08916"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8916", "https://web.senate.gov.ph/lisdata/2965926363!.pdf",]
 title = "AGUSAN DEL SUR STATE UNIVERSITY (ADSSU)"
 long_title = "AN ACT CONVERTING THE AGUSAN DEL SUR STATE COLLEGE OF AGRICULTURE AND TECHNOLOGY (ASSCAT) IN THE MUNICIPALITY OF BUNAWAN, PROVINCE OF AGUSAN DEL SUR INTO A STATE UNIVERSITY, INTEGRATING THEREWITH THE SATELLITE CAMPUS IN THE MUNICIPALITY OF TRENTO AND ALL OTHER CAMPUSES TO BE ESTABLISHED IN THE FUTURE, IN THE PROVINCE OF AGUSAN DEL SUR, TO BE KNOWN AS THE AGUSAN DEL SUR STATE UNIVERSITY (ADSSU), AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "State Colleges and Universities (SCUS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-07"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-20"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/20/2019"
+date = "2019-05-20"
 
 [[committees]]
 name = "Education, Arts and Culture"

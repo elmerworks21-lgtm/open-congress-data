@@ -1,8 +1,11 @@
 id = "01K67YCP04AAJ7EK775SY4WEEJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01121"
+
+[meta]
 bill_number = 1121
 congress = 13
-canonical = "SBN-01121"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1121", "https://web.senate.gov.ph/lisdata/23271605!.pdf",]
 title = "LOCAL GOVERNMENT CODE (AMENDMENTS)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN LOCAL GOVERNMENT UNITS BY AMENDING CERTAIN PR
 scope = "National"
 subjects = [ "Local Government Code (RA 7160)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Local Government"

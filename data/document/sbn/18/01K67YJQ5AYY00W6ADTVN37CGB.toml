@@ -1,8 +1,11 @@
 id = "01K67YJQ5AYY00W6ADTVN37CGB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01137"
+
+[meta]
 bill_number = 1137
 congress = 18
-canonical = "SBN-01137"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1137", "https://web.senate.gov.ph/lisdata/3175028599!.pdf",]
 title = "DEPARTMENT OF WATER RESOURCES MANAGEMENT ACT"
 date_filed = "2019-11-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF WATER RESOURCES MANAGEMENT, DEFI
 scope = "National"
 subjects = [ "Department of Water Resources Management", "Water Resources Management",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2019-11-04"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/5/2019"
+date = "2019-11-05"
 
 [[committees]]
 name = "Public Services"

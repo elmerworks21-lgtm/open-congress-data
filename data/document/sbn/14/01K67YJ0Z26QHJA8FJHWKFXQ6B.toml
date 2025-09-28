@@ -1,8 +1,11 @@
 id = "01K67YJ0Z26QHJA8FJHWKFXQ6B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00341"
+
+[meta]
 bill_number = 341
 congress = 14
-canonical = "SBN-00341"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-341", "https://web.senate.gov.ph/lisdata/44413844!.pdf",]
 title = "CHILDREN'S WELFARE FUND"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING CHILDREN’S WELFARE FUND FOR THE PROTECTION AN
 scope = "National"
 subjects = [ "Childrens Welfare Fund", "R.A.No. 7610, Amendments",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2007"
+date = "2007-08-07"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

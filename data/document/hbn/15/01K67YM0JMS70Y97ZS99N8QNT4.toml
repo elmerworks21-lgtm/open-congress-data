@@ -1,26 +1,30 @@
 id = "01K67YM0JMS70Y97ZS99N8QNT4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06909"
+
+[meta]
 bill_number = 6909
 congress = 15
-canonical = "HBN-06909"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6909", "https://web.senate.gov.ph/lisdata/1574612928!.pdf",]
 title = "REVISED ANTI-CARNAPPING ACT"
 long_title = "AN ACT PROVIDING FOR A REVISED CARNAPPING ACT, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 6539, OTHERWISE KNOWN AS THE ANTI-CARNAPPING ACT OF 1972."
 scope = "National"
 subjects = [ "Carnap",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-06-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

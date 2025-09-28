@@ -1,8 +1,11 @@
 id = "01K67YCPRNMYC7ZVX1B4NYNCV3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02390"
+
+[meta]
 bill_number = 2390
 congress = 13
-canonical = "SBN-02390"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2390", "https://web.senate.gov.ph/lisdata/55764611!.pdf",]
 title = "PERIOD OF PREVENTIVE IMPRISONMENT"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PARAGRAPH 3, ARTICLE 29 OF ACT NO.3815, AS AMENDED
 scope = "National"
 subjects = [ "Revised Penal Code (RA 3815)", "Preventive Imprisonment (Offenders)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Justice and Human Rights"

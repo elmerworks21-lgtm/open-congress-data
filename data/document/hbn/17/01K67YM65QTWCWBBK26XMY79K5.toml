@@ -1,24 +1,28 @@
 id = "01K67YM65QTWCWBBK26XMY79K5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06585"
+
+[meta]
 bill_number = 6585
 congress = 17
-canonical = "HBN-06585"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-6585", "https://web.senate.gov.ph/lisdata/2705523279!.pdf",]
 title = "TALA ECOTOURISM ZONE (BATAAN)"
 long_title = "AN ACT DECLARING BARANGAY TALA IN THE MUNICIPALITY OF ORANI, PROVINCE OF BATAAN AN ECOTOURISM ZONE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Department of Tourism (DOT)", "Tourism (Ecotourism Zone/Ecotourism Site)",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-12-12"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/13/2017"
+date = "2017-12-13"
 
 [[committees]]
 name = "Environment and Natural Resources"

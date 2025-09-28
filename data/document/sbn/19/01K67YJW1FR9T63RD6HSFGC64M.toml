@@ -1,8 +1,11 @@
 id = "01K67YJW1FR9T63RD6HSFGC64M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01659"
+
+[meta]
 bill_number = 1659
 congress = 19
-canonical = "SBN-01659"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1659", "https://web.senate.gov.ph/lisdata/4033536749!.pdf",]
 title = "TRABAHO SA ORAS NG PAGBANGON ACT"
 date_filed = "2023-01-12"
@@ -10,45 +13,46 @@ long_title = "AN ACT CREATING THE TRABAHO SA ORAS NG PAGBANGON PROGRAM, APPROPRI
 scope = "National"
 subjects = [ "Trabaho", "Job Generation Program",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-12"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-23"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-25"
 action = "Transferred from the Committee on Labor, Employment and Human Resources Development to the Committee on ECONOMIC AFFAIRS as primary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-25"
 action = "Referred to the Sub-Committee on Economic Affairs;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-26"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-02"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "Returned and submitted jointly by the Sub-Committee on SBN-129 - National Employment Recovery Strategy (NERS) of the ECONOMIC AFFAIRS; Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 63, recommending that it be substituted by SBN-2035;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-22"
 action = "SUBSTITUTED BY SBN-2035 UNDER COMMITTEE REPORT NO. 63 WHICH BECAME R.A. NO. 11962 ON SEPTEMBER 28, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/22/2023"
+date = "2023-03-22"
 
 [[committees]]
 name = "Economic Affairs"

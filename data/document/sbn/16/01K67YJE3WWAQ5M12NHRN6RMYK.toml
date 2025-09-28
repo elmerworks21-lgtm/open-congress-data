@@ -1,8 +1,11 @@
 id = "01K67YJE3WWAQ5M12NHRN6RMYK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02744"
+
+[meta]
 bill_number = 2744
 congress = 16
-canonical = "SBN-02744"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2744", "https://web.senate.gov.ph/lisdata/2118618036!.pdf",]
 title = "TARLAC AGRICULTURAL UNIVERSITY"
 date_filed = "2015-05-04"
@@ -10,25 +13,26 @@ long_title = "AN ACT CONVERTING THE TARLAC COLLEGE OF AGRICULTURE (TCA) IN THE M
 scope = "Local"
 subjects = [ "State Colleges and Universities (SCUS)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2015-05-04"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-06"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-19"
 action = "Motion of Senator Angara to change the committee referral from the Committee on Rules to the Committee on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-26"
 action = "Letter of Senator JUAN EDGARDO 'SONNY' M. ANGARA dated January 25, 2016, requesting that he be made coauthor of SBN-2744, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2015"
+date = "2015-05-06"
 
 [[committees]]
 name = "Education, Arts and Culture"

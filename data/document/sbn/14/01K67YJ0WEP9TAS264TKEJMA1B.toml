@@ -1,8 +1,11 @@
 id = "01K67YJ0WEP9TAS264TKEJMA1B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00214"
+
+[meta]
 bill_number = 214
 congress = 14
-canonical = "SBN-00214"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-214", "https://web.senate.gov.ph/lisdata/43143710!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
 scope = "National"
 subjects = [ "Magna Carta of Filipino Seafarers",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2007"
+date = "2007-08-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

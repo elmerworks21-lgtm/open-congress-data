@@ -1,8 +1,11 @@
 id = "01K67YJ2EPZ6KFN4JXZSKSB9WB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02271"
+
+[meta]
 bill_number = 2271
 congress = 14
-canonical = "SBN-02271"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2271", "https://web.senate.gov.ph/lisdata/73166540!.pdf",]
 title = "INCLUSION OF ATHLETES WITH DISABILITIES (AWD) ACCREDITED BY THE NATIONAL PARALYMPIC COMMITTEE"
 date_filed = "2008-05-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING CASH AND OTHER NON-MONETARY BENEFITS AND INCENTIVE
 scope = "National"
 subjects = [ "Athletes/Coaches/Trainers Incentives", "Differently Abled/Disabled/Handicapped/Disadvantaged",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-12"
 action = "Introduced by Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-12"
 action = "Read on First Reading and Referred to the Committee(s) on GAMES, AMUSEMENT AND SPORTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/12/2008"
+date = "2008-05-12"
 
 [[committees]]
 name = "Games, Amusement and Sports"

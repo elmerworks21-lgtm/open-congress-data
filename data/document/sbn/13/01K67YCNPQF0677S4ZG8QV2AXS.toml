@@ -1,8 +1,11 @@
 id = "01K67YCNPQF0677S4ZG8QV2AXS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00604"
+
+[meta]
 bill_number = 604
 congress = 13
-canonical = "SBN-00604"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-604", "https://web.senate.gov.ph/lisdata/17901164!.pdf",]
 title = "GENETICALLY ENGINEERED FOOD RIGHT TO KNOW ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE THAT FOOD, MEAT AND POULTRY PRODUCTS THAT CONTAI
 scope = "National"
 subjects = [ "Food Label (Genetically Engineered Food)", "Meat and Poultry Products (GMOS)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-16"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2004"
+date = "2004-08-16"
 
 [[committees]]
 name = "Trade and Commerce"

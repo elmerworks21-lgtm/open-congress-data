@@ -1,8 +1,11 @@
 id = "01K67YJZX9Y9H62NVCN3JQP0CP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00180"
+
+[meta]
 bill_number = 180
 congress = 20
-canonical = "SBN-00180"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-180", "https://web.senate.gov.ph/lisdata/4665742662!.pdf",]
 title = "DIALYSIS CENTER ACT"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT
 scope = "National"
 subjects = [ "Dialysis Center", "Hospitals (Government Hospitals)", "Indigent Persons",]
 authors_raw = "Villar, Camille A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator CAMILLE A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Health and Demography"

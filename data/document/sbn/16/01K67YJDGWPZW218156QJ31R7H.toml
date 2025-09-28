@@ -1,8 +1,11 @@
 id = "01K67YJDGWPZW218156QJ31R7H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01925"
+
+[meta]
 bill_number = 1925
 congress = 16
-canonical = "SBN-01925"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1925", "https://web.senate.gov.ph/lisdata/1824815445!.pdf",]
 title = "OSTEOPOROSIS EDUCATION AND PREVENTION ACT"
 date_filed = "2013-11-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL CAMPAIGN FOR OSTEOPOROSIS EDUCATION
 scope = "National"
 subjects = [ "Osteoporosis",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-11-25"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2013"
+date = "2013-11-25"
 
 [[committees]]
 name = "Health and Demography"

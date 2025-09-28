@@ -1,8 +1,11 @@
 id = "01K67YJX1FRJPFNPPPCNKKGEY5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02907"
+
+[meta]
 bill_number = 2907
 congress = 19
-canonical = "SBN-02907"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2907", "https://web.senate.gov.ph/lisdata/4557441514!.pdf",]
 title = "REVISED GOVERNMENT AUDITING ACT"
 date_filed = "2024-12-18"
@@ -10,37 +13,38 @@ long_title = "AN ACT REVISING PRESIDENTIAL DECREE NO. 1445, SERIES OF 1978, AS A
 scope = "National"
 subjects = [ "Revised Government Auditing",]
 authors_raw = "Escudero, Francis G., Villanueva, Joel, Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2024-12-18"
 action = "Prepared and submitted jointly by the Committees on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE with Senators FRANCIS G. ESCUDERO, JOEL VILLANUEVA and ROBINHOOD C. PADILLA as authors per Committee Report No. 436, recommending its approval in substitution of S. No. 2746, taking into consideration H. No. 9674;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "Sponsor: Senators FRANCIS G. ESCUDERO and ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "Sponsorship speech of Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-18"
 action = "Co-sponsorship speech of Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-22"
 action = "Interpellation of Senator AQUILINO 'KOKO' PIMENTEL III;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "12/18/2024"
+date = "2024-12-18"
 
 [[committees]]
 name = "Constitutional Amendments and Revision of Codes"

@@ -1,24 +1,28 @@
 id = "01K67YKVWZQMDTXTW2NBM140PH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03815"
+
+[meta]
 bill_number = 3815
 congress = 14
-canonical = "HBN-03815"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-3815", "https://web.senate.gov.ph/lisdata/1259911286!.pdf",]
 title = "KALINGA PROVINCE"
 long_title = "AN ACT DECLARING THE PROVINCE OF KALINGA IN THE CORDILLERA REGION AS AN ECOTOURISM ZONE AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Ecotourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-24"
 action = "Filed in the Senate requesting for concurrence by Representative MANUEL S. AGYAO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-28"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2009"
+date = "2009-09-28"
 
 [[committees]]
 name = "Tourism"

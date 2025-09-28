@@ -1,8 +1,11 @@
 id = "01K67YJHHVP7BZNXRKJ41AAN9S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00574"
+
+[meta]
 bill_number = 574
 congress = 17
-canonical = "SBN-00574"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-574", "https://web.senate.gov.ph/lisdata/2404220697!.pdf",]
 title = "TRANSFERRING THE PNPA AND PNTI FROM THE PHIL. PUBLIC SAFETY COLLEGE TO THE PHIL. NATIONAL POLICE"
 date_filed = "2016-07-19"
@@ -10,37 +13,38 @@ long_title = "AN ACT TRANSFERRING THE PHILIPPINE NATIONAL POLICE ACADEMY (PNPA),
 scope = "National"
 subjects = [ "Philippine National Police Academy (PNPA)", "Police National Training Institute (PNTI)", "Philippine Public Safety College System", "Philippine National Police (PNP)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-24"
 action = "On motion of Senator Sotto III, Senator Villanueva was made coauthor of the bill;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-10-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-31"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS, EDUCATION, ARTS AND CULTURE and FINANCE per Committee Report No. 413, recommending that it be substituted by SBN-1898;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-01"
 action = "SUBSTITUTED BY SBN-1898 UNDER COMMITTEE REPORT NO. 413, WHICH BECAME R.A. NO. 11279 ON APRIL 12, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/1/2018"
+date = "2018-08-01"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

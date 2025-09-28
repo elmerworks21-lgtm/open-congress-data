@@ -1,24 +1,28 @@
 id = "01K67YKX1AB4DW08S70VZW4B53"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06564"
+
+[meta]
 bill_number = 6564
 congress = 14
-canonical = "HBN-06564"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6564", "https://web.senate.gov.ph/lisdata/1248611161!.pdf",]
 title = "MAUJAO NATIONAL HIGH SCHOOL (PROVINCE OF ORIENTAL MINDORO)"
 long_title = "AN ACT SEPARATING THE BULALACAO NATIONAL HIGH SCHOOL - MAUJAO EXTENSION IN BARANGAY MAUJAO, MUNICIPALITY OF BULALACAO, PROVINCE OF ORIENTAL MINDORO FROM THE BULALACAO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS MAUJAO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-15"
 action = "Filed in the Senate requesting for concurrence by Representatives ALFONSO V. UMALI JR., DEL R. DE GUZMAN and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2009"
+date = "2009-09-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

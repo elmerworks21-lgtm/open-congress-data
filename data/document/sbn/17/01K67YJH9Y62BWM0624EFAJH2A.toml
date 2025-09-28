@@ -1,8 +1,11 @@
 id = "01K67YJH9Y62BWM0624EFAJH2A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00233"
+
+[meta]
 bill_number = 233
 congress = 17
-canonical = "SBN-00233"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-233", "https://web.senate.gov.ph/lisdata/2366520312!.pdf",]
 title = "REQUIREMENTS OF CONVERSION OF A MUNICIPALITY INTO A COMPONENT CITY"
 date_filed = "2016-07-04"
@@ -10,29 +13,30 @@ long_title = "AN ACT EXEMPTING FROM THE POPULATION AND THE LAND AREA REQUIREMENT
 scope = "National"
 subjects = [ "Local Government Code (R.A.No. 7160)", "Municipality, Conversion (Cityhood)", "Income Requirement (Cityhood, Creation of Municipality/Province)",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-31"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 396, recommending that it be substituted by SBN-1842;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-24"
 action = "SUBSTITUTED BY SBN-1842 UNDER COMMITTEE REPORT NO. 396."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/24/2018"
+date = "2018-07-24"
 
 [[committees]]
 name = "Local Government"

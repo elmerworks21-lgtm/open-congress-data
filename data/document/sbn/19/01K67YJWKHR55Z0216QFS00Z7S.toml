@@ -1,8 +1,11 @@
 id = "01K67YJWKHR55Z0216QFS00Z7S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02424"
+
+[meta]
 bill_number = 2424
 congress = 19
-canonical = "SBN-02424"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2424", "https://web.senate.gov.ph/lisdata/4252838695!.pdf",]
 title = "INCREASING THE REPRESENTATION OF FILIPINO MIGRANT WORKERS IN THE BOARD OF DIRECTORS OF PHILHEALTH"
 date_filed = "2023-08-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE REPRESENTATION OF FILIPINO MIGRANT WORKERS I
 scope = "National"
 subjects = [ "Filipino Migrant Workers", "Philippine Health Insurance Corporation (Philhealth/Phic)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-23"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-29"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and MIGRANT WORKERS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2023"
+date = "2023-08-29"
 
 [[committees]]
 name = "Health and Demography"

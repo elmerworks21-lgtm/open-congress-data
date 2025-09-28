@@ -1,68 +1,72 @@
 id = "01K67YKR0NF06RVZVZC8DR6C1K"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04711"
+
+[meta]
 bill_number = 4711
 congress = 13
-canonical = "HBN-04711"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4711", "https://web.senate.gov.ph/lisdata/50004978!.pdf",]
 title = "JOSE MARIA C. PANGANIBAN DAY (CAMARINES NORTE)"
 long_title = "AN ACT DECLARING FEBRUARY 1 OF EVERY YEAR A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE PROVINCE OF CAMARINES NORTE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9090, ENTITLED AN ACT DECLARING FEBRUARY FIRST OF EVERY YEAR AS ‘JOSE MARIA C. PANGANIBAN DAY’ AND A SPECIAL WORKING PUBLIC HOLIDAY IN THE PROVINCE OF CAMARINES NORTE"
 scope = "Local"
 subjects = [ "Holiday: Jose Maria C. Panganiban Day",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representative RENATO J. UNICO JR., as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-17"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-10"
 action = "Returned by the Committee on LOCAL GOVERNMENT per Committee Report No. 127, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Sponsor: Senator ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Sponsorship speech of Senator(s) ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Interpellation of Senator(s) JUAN PONCE ENRILE, EDGARDO J. ANGARA and RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Manifestation of Senator(s)ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Interpellation of Senator(s) FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-14"
 action = "Period of committee amendments closed; Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-12"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "11/24/2006"
+date = "2006-11-24"
 
 [[committees]]
 name = "Local Government"

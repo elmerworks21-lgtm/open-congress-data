@@ -1,24 +1,28 @@
 id = "01K67YMA63YPV3E88MA8BV0K6X"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10713"
+
+[meta]
 bill_number = 10713
 congress = 18
-canonical = "HBN-10713"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10713", "https://web.senate.gov.ph/lisdata/3757933954!.pdf",]
 title = "PAOAY LAKE PROTECTED LANDSCAPE ACT"
 long_title = "AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITY OF PAOAY IN THE PROVINCE OF ILOCOS NORTE, A PROTECTED AREA WITH THE CATEGORY OF PROTECTED LANDSCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREA SYSTEM, TO BE REFERRED TO AS THE PAOAY LAKE PROTECTED LANDSCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Protected Area", "Protected Landscape",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-05-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-26"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/26/2022"
+date = "2022-05-26"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

@@ -1,8 +1,11 @@
 id = "01K67YJWCHHJJNQF4ZV708Y96G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02131"
+
+[meta]
 bill_number = 2131
 congress = 19
-canonical = "SBN-02131"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2131", "https://web.senate.gov.ph/lisdata/4151437801!.pdf",]
 title = "EXEMPTING MICROINSURANCE POLICIES FROM VALUE-ADDED TAX, AMENDING NATIONAL INTERNAL REVENUE CODE"
 date_filed = "2023-05-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING MICROINSURANCE POLICIES FROM VALUE-ADDED TAX, TAX
 scope = "National"
 subjects = [ "Microinsurance", "Taxes (Value-Added Tax / Vat)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-10"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2023"
+date = "2023-05-10"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJH9ZQARH3CN548JK7GR5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00235"
+
+[meta]
 bill_number = 235
 congress = 17
-canonical = "SBN-00235"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-235", "https://web.senate.gov.ph/lisdata/2367420314!.pdf",]
 title = "ANIMAL WELFARE ACT OF 1998. AMENDMENT PROHIBITING DOG-FIGHTING/HORSE-FIGHTING"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8485 ENTITLED, AN ACT TO PROMOTE 
 scope = "National"
 subjects = [ "Animal Welfare",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Agriculture and Food"

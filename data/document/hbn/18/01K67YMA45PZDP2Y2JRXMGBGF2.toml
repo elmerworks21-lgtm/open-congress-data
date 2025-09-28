@@ -1,24 +1,28 @@
 id = "01K67YMA45PZDP2Y2JRXMGBGF2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10372"
+
+[meta]
 bill_number = 10372
 congress = 18
-canonical = "HBN-10372"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10372", "https://web.senate.gov.ph/lisdata/3675533139!.pdf",]
 title = "REPEALING THE RESERVA TRONCAL PROVISION (NEW CIVIL CODE)"
 long_title = "AN ACT REPEALING THE RESERVA TRONCAL PROVISION UNDER ARTICLE 891 OF REPUBLIC ACT NO. 386, AS AMENDED, OTHERWISE KNOWN AS THE NEW CIVIL CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "New Civil Code (RA 386)",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2021"
+date = "2021-12-06"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

@@ -1,8 +1,11 @@
 id = "01K67YJH7MG0QYWXNPDHQ4SNG4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00140"
+
+[meta]
 bill_number = 140
 congress = 17
-canonical = "SBN-00140"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-140", "https://web.senate.gov.ph/lisdata/2355921229!.pdf",]
 title = "FREE IRRIGATION REFORM AND RESTRUCTURING ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,45 +13,46 @@ long_title = "AN ACT PROVIDING FOR FREE IRRIGATION SERVICES TO FARMERS, AMENDING
 scope = "National"
 subjects = [ "Farmers", "Irrigation", "National Irrigation Administration",]
 authors_raw = "Villar, Cynthia A., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-18"
 action = "Letter from Senator LOREN B. LEGARDA dated August 10, 2016, requesting that she be made co-author of SBN-140, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-04-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-22"
 action = "Returned and submitted jointly by the Committee(s) on AGRICULTURE AND FOOD and FINANCE per Committee Report No. 103, recommending that it be substituted by SBN-1465;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-22"
 action = "Sponsor: Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-22"
 action = "SUBSTITUTED BY SBN-1465 UNDER COMMITTEE REPORT NO. 103, WHICH BECAME R.A. NO. 10969 ON FEBRUARY 2, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/22/2017"
+date = "2017-05-22"
 
 [[committees]]
 name = "Agriculture and Food"

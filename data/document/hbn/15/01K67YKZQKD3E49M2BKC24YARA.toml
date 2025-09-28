@@ -1,24 +1,28 @@
 id = "01K67YKZQKD3E49M2BKC24YARA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04097"
+
+[meta]
 bill_number = 4097
 congress = 15
-canonical = "HBN-04097"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4097", "https://web.senate.gov.ph/lisdata/1261710665!.pdf",]
 title = "NATIONAL TEACHERS' DAY ACT"
 long_title = "AN ACT DECLARING OCTOBER 5 OF EVERY YEAR AS 'NATIONAL TEACHERS'DAY'"
 scope = "National"
 subjects = [ "Teachers",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-12-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-01-16"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/16/2012"
+date = "2012-01-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJ2E9G05S0W7PKZ5HGBZK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02252"
+
+[meta]
 bill_number = 2252
 congress = 14
-canonical = "SBN-02252"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2252", "https://web.senate.gov.ph/lisdata/72806508!.pdf",]
 title = "FIRECRACKER FACTORIES CHILDREN EMPLOYMENT BAN"
 date_filed = "2008-05-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROHIBITING OWNERS OF FIRECRACKER FACTORIES FROM EMPLOYING 
 scope = "National"
 subjects = [ "Firecrackers",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-07"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-07"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND ILLEGAL DRUGS and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/7/2008"
+date = "2008-05-07"
 
 [[committees]]
 name = "Public Order and Illegal Drugs"

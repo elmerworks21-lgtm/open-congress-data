@@ -1,24 +1,28 @@
 id = "01K67YM6012M383PAR4D9PHJR0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05707"
+
+[meta]
 bill_number = 5707
 congress = 17
-canonical = "HBN-05707"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5707", "https://web.senate.gov.ph/lisdata/2637822684!.pdf",]
 title = "RIGHTSIZING THE NATIONAL GOVERNMENT ACT"
 long_title = "AN ACT RIGHTSIZING THE NATIONAL GOVERNMENT TO IMPROVE PUBLIC SERVICE DELIVERY"
 scope = "National"
 subjects = [ "Rightsizing the National Government", "Government Reorganization", "Reorganization",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-07-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2017"
+date = "2017-08-01"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

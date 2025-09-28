@@ -1,8 +1,11 @@
 id = "01K67YJWC9JXM8A48N2KED29M4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02121"
+
+[meta]
 bill_number = 2121
 congress = 19
-canonical = "SBN-02121"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2121", "https://web.senate.gov.ph/lisdata/4150037787!.pdf",]
 title = "E-SPORTS ACT OF 2023"
 date_filed = "2023-05-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AND ORGANIZING THE PHILIPPINE ELECTRONIC SPORT
 scope = "National"
 subjects = [ "Philippine Electronic Sports Commission",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-03"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-10"
 action = "Read on First Reading and Referred to the Committee(s) on SPORTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2023"
+date = "2023-05-10"
 
 [[committees]]
 name = "Sports"

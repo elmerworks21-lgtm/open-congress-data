@@ -1,8 +1,11 @@
 id = "01K67YJRAM0C3MR1QYJVTJHVS6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02500"
+
+[meta]
 bill_number = 2500
 congress = 18
-canonical = "SBN-02500"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2500", "https://web.senate.gov.ph/lisdata/3722533571!.pdf",]
 title = "BUREAU OF IMMIGRATION MODERNIZATION ACT"
 date_filed = "2022-01-31"
@@ -10,33 +13,34 @@ long_title = "AN ACT MODERNIZING THE BUREAU OF IMMIGRATION BY DEFINING ITS POWER
 scope = "National"
 subjects = [ "Bureau of Immigration Modernization Act",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Marcos, Imee R., Go, Christopher Lawrence T., Dela Rosa, Ronald \"Bato\", Gordon, Richard J., Revilla Jr., Ramon Bong, Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-01-31"
 action = "Prepared and submitted jointly by the Committees on JUSTICE AND HUMAN RIGHTS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE with Senators JUAN MIGUEL 'MIGZ' F. ZUBIRI, IMEE R. MARCOS, CHRISTOPHER LAWRENCE T. GO, RONALD 'BATO' DELA ROSA, RICHARD J. GORDON, RAMON BONG REVILLA JR. and SONNY ANGARA as authors per Committee Report No. 579, recommending its approval in substitution of SBNos. 107, 885, 1649 and 2416, taking into consideration HBN-8850;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Sponsor: Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Sponsorship speech delivered by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-02-02"
 action = "Co-sponsorship speech of Senators JUAN MIGUEL 'MIGZ' F. ZUBIRI and RONALD 'BATO' DELA ROSA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/2/2022"
+date = "2022-02-02"
 
 [[committees]]
 name = "Justice and Human Rights"

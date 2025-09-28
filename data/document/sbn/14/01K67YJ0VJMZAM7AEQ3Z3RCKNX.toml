@@ -1,8 +1,11 @@
 id = "01K67YJ0VJMZAM7AEQ3Z3RCKNX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00185"
+
+[meta]
 bill_number = 185
 congress = 14
-canonical = "SBN-00185"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-185", "https://web.senate.gov.ph/lisdata/45043672!.pdf",]
 title = "REALTY INSTALLMENT BUYER PROTECTION ACT"
 date_filed = "2007-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE ADDITIONAL PROTECTION TO BUYERS OF REAL ESTATE O
 scope = "National"
 subjects = [ "Real Estate/Subdivision Owners, Additional Protection", "R.A.No. 6552, Amendments", "Realty Installment Buyer Protection Act",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-23"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2007"
+date = "2007-07-31"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

@@ -1,8 +1,11 @@
 id = "01K67YJEE9YQE7XB2MQTWM12SC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02977"
+
+[meta]
 bill_number = 2977
 congress = 16
-canonical = "SBN-02977"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2977", "https://web.senate.gov.ph/lisdata/2234219061!.pdf",]
 title = "EMPLOYEE WELFARE SERVICES"
 date_filed = "2015-10-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 442, OR THE LABOR CODE OF 
 scope = "National"
 subjects = [ "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-10-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-10-06"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/6/2015"
+date = "2015-10-06"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

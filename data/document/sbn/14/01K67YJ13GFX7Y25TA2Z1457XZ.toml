@@ -1,8 +1,11 @@
 id = "01K67YJ13GFX7Y25TA2Z1457XZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00557"
+
+[meta]
 bill_number = 557
 congress = 14
-canonical = "SBN-00557"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-557", "https://web.senate.gov.ph/lisdata/47684099!.pdf",]
 title = "TO INCLUDE ACADEMIC EDUCATIONAL INSTITUTIONS UNDER THE COVERAGE OF ART. 2180 OF THE CIVIL CODE"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 386, OTHERWISE KNOWN AS THE CIVIL
 scope = "National"
 subjects = [ "Civil Code (R.A.No. 386, Amendments)", "Academic Educational Institutions Liability for Negligent Acts of Students",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-22"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/22/2007"
+date = "2007-08-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

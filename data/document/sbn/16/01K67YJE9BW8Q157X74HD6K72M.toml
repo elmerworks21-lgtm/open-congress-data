@@ -1,8 +1,11 @@
 id = "01K67YJE9BW8Q157X74HD6K72M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02817"
+
+[meta]
 bill_number = 2817
 congress = 16
-canonical = "SBN-02817"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2817", "https://web.senate.gov.ph/lisdata/2164618413!.pdf",]
 title = "SCHOLARSHIP GRANTS TO PUBLIC SCHOOL TEACHERS AND THEIR CHILDREN ACT"
 date_filed = "2015-06-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING SCHOLARSHIP GRANTS TO PUBLIC SCHOOL TEAC
 scope = "National"
 subjects = [ "Scholarship Grants", "Teachers",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-06-08"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-09"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/9/2015"
+date = "2015-06-09"
 
 [[committees]]
 name = "Education, Arts and Culture"

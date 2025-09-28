@@ -1,8 +1,11 @@
 id = "01K67YJ9AS3KVBJ0HV0S15Y40Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02956"
+
+[meta]
 bill_number = 2956
 congress = 15
-canonical = "SBN-02956"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2956", "https://web.senate.gov.ph/lisdata/1216210252!.pdf",]
 title = "HOUSING BAN ALONG RIVERBANKS ACT OF 2011"
 date_filed = "2011-09-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO BAN THE CONSTRUCTION OF HOUSES ALONG RIVER BANKS, WATERW
 scope = "National"
 subjects = [ "Housing Projects", "Rivers and Waterways",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2011-09-06"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-09-07"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2011"
+date = "2011-09-07"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

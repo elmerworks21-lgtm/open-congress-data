@@ -1,8 +1,11 @@
 id = "01K67YJQTE67J5EXHPAN0CC7AB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02019"
+
+[meta]
 bill_number = 2019
 congress = 18
-canonical = "SBN-02019"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2019", "https://web.senate.gov.ph/lisdata/3437931189!.pdf",]
 title = "AMENDING SEC.13 ART. XVI OF R.A. 11054 (ORGANIC LAW FOR THE BARMM)"
 date_filed = "2021-01-25"
@@ -10,37 +13,38 @@ long_title = "AN ACT AMENDING SECTION 13 ARTICLE XVI OF REPUBLIC ACT 11054, ENTI
 scope = "National"
 subjects = [ "Bangsamoro",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-25"
 action = "Introduced by Senator AQUILINO 'KOKO' III PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-26"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-20"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 258, recommending that it be substituted by SBN-2214;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-20"
 action = "SUBSTITUTED BY SBN-2214 UNDER COMMITTEE REPORT NO. 258, WHICH BECAME REPUBLIC ACT NO. 11593 ON OCTOBER 28, 2021."
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-14"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/20/2021"
+date = "2021-05-20"
 
 [[committees]]
 name = "Local Government"

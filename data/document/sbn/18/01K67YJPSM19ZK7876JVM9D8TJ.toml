@@ -1,8 +1,11 @@
 id = "01K67YJPSM19ZK7876JVM9D8TJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00611"
+
+[meta]
 bill_number = 611
 congress = 18
-canonical = "SBN-00611"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-611", "https://web.senate.gov.ph/lisdata/3095327887!.pdf",]
 title = "DIALYSIS TREATMENTS TO INDIGENT PATIENTS"
 date_filed = "2019-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE ESTABLISHMENT OF DIALYSIS CLINICS IN ALL NATI
 scope = "National"
 subjects = [ "Dialysis Center", "Dialysis Treatment", "Indigent Persons",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-18"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Health and Demography"

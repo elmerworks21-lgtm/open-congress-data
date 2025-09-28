@@ -1,24 +1,28 @@
 id = "01K67YKQWMNC5RK4X0MWX0KGNH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04156"
+
+[meta]
 bill_number = 4156
 congress = 13
-canonical = "HBN-04156"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4156", "https://web.senate.gov.ph/lisdata/35983060!.pdf",]
 title = "PAGSANGAAN - TIGUM - CABUGAO NORTE - STA. BARBARA NATIONAL ROAD (ILOILO)"
 long_title = "AN ACT CONVERTING THE PAGSANGAAN - TIAGUM - CABUGAO NORTE - STA. BARBARA ROAD IN THE MUNICIPALITIES OF PAVIA AND STA. BARBARA, PROVINCE OF ILOILO INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion (Iloilo)", "Pagsangaan - Tigum - Cabugao Norte - Sta. Barbara National Road (Iloilo)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-02"
 action = "Filed in the Senate requesting for concurrence by Representative JUDY SYJUCO as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-09"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2005"
+date = "2005-08-09"
 
 [[committees]]
 name = "Public Works"

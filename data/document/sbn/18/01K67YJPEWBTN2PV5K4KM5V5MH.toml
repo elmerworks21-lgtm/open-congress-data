@@ -1,8 +1,11 @@
 id = "01K67YJPEWBTN2PV5K4KM5V5MH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00118"
+
+[meta]
 bill_number = 118
 congress = 18
-canonical = "SBN-00118"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-118", "https://web.senate.gov.ph/lisdata/3035927216!.pdf",]
 title = "EDUCATIONAL ASSISTANCE TO PUBLIC SCHOOL TEACHERS"
 date_filed = "2019-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR EDUCATIONAL ASSISTANCE TO PUBLIC SCHOOL TEACH
 scope = "National"
 subjects = [ "Public School Teachers", "Educational Benefits", "Scholarship Grants",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Referred primarily to the on Committee on BASIC EDUCATION, ARTS AND CULTURE and secondarily to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

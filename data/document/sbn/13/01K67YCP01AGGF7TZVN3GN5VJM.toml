@@ -1,8 +1,11 @@
 id = "01K67YCP01AGGF7TZVN3GN5VJM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01115"
+
+[meta]
 bill_number = 1115
 congress = 13
-canonical = "SBN-01115"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1115", "https://web.senate.gov.ph/lisdata/23211536!.pdf",]
 title = "CHARTER OF ILOILO INTERNATIONAL AIRPORT AUTHORITY"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE ILOILO INTERNATIONAL AIRPORT AUTHORITY, PRESCR
 scope = "National"
 subjects = [ "Iloilo International Airport Authority",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on GOVERMENT CORPORATIONS AND PUBLIC ENTERPRISES; PUBLIC SERVICES; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

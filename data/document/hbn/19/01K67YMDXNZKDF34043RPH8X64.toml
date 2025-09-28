@@ -1,18 +1,22 @@
 id = "01K67YMDXNZKDF34043RPH8X64"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11371"
+
+[meta]
 bill_number = 11371
 congress = 19
-canonical = "HBN-11371"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11371", "https://web.senate.gov.ph/lisdata/4636842369!.pdf",]
 title = "SORSOGON POLYTECHNIC INSTITUTE (API) ACT"
 long_title = "AN ACT CONVERTING THE SORSOGON NATIONAL AGRICULTURAL SCHOOL IN THE MUNICIPALITY OF CASTILLA, PROVINCE OF SORSOGON, INTO A POLYTECHNIC INSTITUTION TO BE ADMINISTERED AND SUPERVISED BY THE TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Sorsogon Polytechnic Institute (SPI)",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-06-09"
 action = "Sent to the Senate requesting for concurrence;"
 
 [[status]]
 status = "Pending First Reading"
-date = "6/9/2025"
+date = "2025-06-09"
 

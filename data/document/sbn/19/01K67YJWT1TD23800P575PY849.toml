@@ -1,8 +1,11 @@
 id = "01K67YJWT1TD23800P575PY849"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02649"
+
+[meta]
 bill_number = 2649
 congress = 19
-canonical = "SBN-02649"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2649", "https://web.senate.gov.ph/lisdata/4400639950!.pdf",]
 title = "AMENDING R.A. NO. 8291 (THE GOVERNMENT SERVICE INSURANCE SYSTEMS ACT OF 1997)"
 date_filed = "2024-05-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING AN OPTION TO ELECTED GOVERNMENT OFFICALS TO PAY V
 scope = "National"
 subjects = [ "Government Service Insurance System (GSIS)", "Government Official/Public Official",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-02"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2024"
+date = "2024-05-06"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

@@ -1,8 +1,11 @@
 id = "01K67YJQTKS2JTF0YM4M8YFXDH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02025"
+
+[meta]
 bill_number = 2025
 congress = 18
-canonical = "SBN-02025"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2025", "https://web.senate.gov.ph/lisdata/3439231201!.pdf",]
 title = "ORGANIC LAW FOR THE BANGSAMORO AUTONOMOUS REGION"
 date_filed = "2021-01-27"
@@ -10,41 +13,42 @@ long_title = "AN ACT AMENDING SECTION 13, ARTICLE XVI OF REPUBLIC ACT NO. 11054 
 scope = "National"
 subjects = [ "Bangsamoro",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-27"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-27"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-20"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 258, recommending that it be substituted by SBN-2214;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-20"
 action = "SUBSTITUTED BY SBN-2214 UNDER COMMITTEE REPORT NO. 258, WHICH BECAME REPUBLIC ACT NO. 11593 ON OCTOBER 28, 2021."
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-14"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/20/2021"
+date = "2021-05-20"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJ38M4FV4MRJEN5ZX5A1Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03395"
+
+[meta]
 bill_number = 3395
 congress = 14
-canonical = "SBN-03395"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3395", "https://web.senate.gov.ph/lisdata/1217410642!.pdf",]
 title = "MAASIM-KIAMBA-MAITUM INDUSTRIAL TRIANGLE SPECIAL ECONOMIC ZONE ACT"
 date_filed = "2009-08-18"
@@ -10,27 +13,28 @@ long_title = "AN ACT ESTABLISHING THE MAASIM-KIAMBA-MAITUM INDUSTRIAL TRIANGLE S
 scope = "National"
 subjects = [ "Economic Zones",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-18"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; LOCAL GOVERNMENT; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, LOCAL GOVERNMENT, WAYS AND MEANS and FINANCE per Committee Report No. 718, recommending that it be substituted by SBN-3497;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "SUBSTITUTED BY SBN-3497."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/14/2009"
+date = "2009-10-14"
 

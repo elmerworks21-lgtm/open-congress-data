@@ -1,8 +1,11 @@
 id = "01K67YJWHKDYEZACNCRY1QVFHR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02342"
+
+[meta]
 bill_number = 2342
 congress = 19
-canonical = "SBN-02342"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2342", "https://web.senate.gov.ph/lisdata/4220138391!.pdf",]
 title = "NARS PARA SA BAYAN ACT"
 date_filed = "2023-07-24"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING A NURSING SCHOLARSHIP AND RETURN SERVICE PROGR
 scope = "National"
 subjects = [ "Nurses/Nursing", "Students", "Scholarship Grants",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-24"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2023"
+date = "2023-08-07"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

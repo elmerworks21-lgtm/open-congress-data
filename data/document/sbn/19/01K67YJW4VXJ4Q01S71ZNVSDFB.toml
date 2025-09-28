@@ -1,8 +1,11 @@
 id = "01K67YJW4VXJ4Q01S71ZNVSDFB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01810"
+
+[meta]
 bill_number = 1810
 congress = 19
-canonical = "SBN-01810"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1810", "https://web.senate.gov.ph/lisdata/4057236982!.pdf",]
 title = "NATIONAL HAZARD MAPPING ACT OF 2023"
 date_filed = "2023-01-31"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE ISSUANCE OF A LIST OF LOW-LYING AREAS OF 
 scope = "National"
 subjects = [ "Map (National Geohazard Map)", "National Hazard Mapping",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-31"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-01"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; SCIENCE AND TECHNOLOGY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-17"
 action = "Letter from Senator JOEL VILLANUEVA, dated June 21, 2023, conveying his intention to be made co-author of SBN-1810, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/1/2023"
+date = "2023-02-01"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

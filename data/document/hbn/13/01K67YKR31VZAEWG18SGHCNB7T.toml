@@ -1,24 +1,28 @@
 id = "01K67YKR31VZAEWG18SGHCNB7T"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04969"
+
+[meta]
 bill_number = 4969
 congress = 13
-canonical = "HBN-04969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4969", "https://web.senate.gov.ph/lisdata/50874165!.pdf",]
 title = "BITAOGAN NATIONAL HIGH SCHOOL (CAMARINES SUR)"
 long_title = "AN ACT CONVERTING THE BITAOGAN HIGH SCHOOL IN BARANGAY BITAOGAN, MUNICIPALITY OF PRESENTACION, PROVINCE OF CAMARINES SUR INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BITAOGAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Camarines Sur)", "Bitaogan National High School (Camarines Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives ARNULFO P. FUENTEBELLA, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2006"
+date = "2006-05-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

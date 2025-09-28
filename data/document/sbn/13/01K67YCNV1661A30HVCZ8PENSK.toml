@@ -1,8 +1,11 @@
 id = "01K67YCNV1661A30HVCZ8PENSK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00854"
+
+[meta]
 bill_number = 854
 congress = 13
-canonical = "SBN-00854"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-854", "https://web.senate.gov.ph/lisdata/20521543!.pdf",]
 title = "YOUTH CENTER ACT OF THE PHILIPPINES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A YOUTH CENTER IN THE FIFTEEN (15) REGIONS OF 
 scope = "National"
 subjects = [ "Youth Center (Establishment)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2004"
+date = "2004-08-30"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

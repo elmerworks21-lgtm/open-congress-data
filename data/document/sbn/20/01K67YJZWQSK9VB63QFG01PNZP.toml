@@ -1,8 +1,11 @@
 id = "01K67YJZWQSK9VB63QFG01PNZP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00150"
+
+[meta]
 bill_number = 150
 congress = 20
-canonical = "SBN-00150"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-150", "https://web.senate.gov.ph/lisdata/4662742631!.pdf",]
 title = "AMENDING R.A. NO. 1405 (SECRECY OF BANK DEPOSITS LAW)"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING GOVERNMENT OFFICIALS AND EMPLOYEES FROM THE PROHI
 scope = "National"
 subjects = [ "Secrecy of Bank Deposits Law (R.A.No. 1405)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-30"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2025"
+date = "2025-07-30"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

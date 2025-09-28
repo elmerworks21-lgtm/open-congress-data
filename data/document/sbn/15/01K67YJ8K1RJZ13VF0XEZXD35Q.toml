@@ -1,8 +1,11 @@
 id = "01K67YJ8K1RJZ13VF0XEZXD35Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02152"
+
+[meta]
 bill_number = 2152
 congress = 15
-canonical = "SBN-02152"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2152", "https://web.senate.gov.ph/lisdata/96918317!.pdf",]
 title = "AGOO-DAMORTIS PROTECTED SEASCAPE AND LANDSCAPE ACT OF 2010"
 date_filed = "2010-07-27"
@@ -10,33 +13,34 @@ long_title = "AN ACT ESTABLISHING THE AGOO-DAMORTIS PROTECTED SEASCAPE AND LANDS
 scope = "National"
 subjects = [ "Protected Landscape", "Protected Area",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-27"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-20"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-12"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-03"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE per Committee Report No. 329, recommending that it be substituted by SBN-3268;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-04"
 action = "SUBSTITUTED BY SBN-3268, UNDER COMMITTEE REPORT NO. 329."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/4/2012"
+date = "2012-09-04"
 
 [[committees]]
 name = "Environment and Natural Resources"

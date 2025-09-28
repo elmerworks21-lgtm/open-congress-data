@@ -1,8 +1,11 @@
 id = "01K67YJJ9MGHJ1ERRHE95C1D09"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01554"
+
+[meta]
 bill_number = 1554
 congress = 17
-canonical = "SBN-01554"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1554", "https://web.senate.gov.ph/lisdata/2649522797!.pdf",]
 title = "ABOLISHING THE ROAD BOARD AS THE REGULATORY AGENCY OF THE MOTOR VEHICLE USER'S CHARGE"
 date_filed = "2017-08-15"
@@ -10,33 +13,34 @@ long_title = "AN ACT ABOLISHING THE ROAD BOARD AS THE REGULATORY AGENCY OF THE M
 scope = "National"
 subjects = [ "Motor Vehicles Users Charge (MVUC) (R.A.No. 8794)", "Department of Public Works and Highways (DPWH)", "Department of Transportation (DOTR)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-15"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; and PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-22"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC WORKS and PUBLIC SERVICES per Committee Report No. 171, recommending that it be substituted by SBN-1620;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-27"
 action = "SUBSTITUTED BY SBN-1620 UNDER COMMITTEE REPORT NO. 171, WHICH BECAME R.A. NO. 11239 ON MARCH 8, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/27/2017"
+date = "2017-11-27"
 
 [[committees]]
 name = "Public Works"

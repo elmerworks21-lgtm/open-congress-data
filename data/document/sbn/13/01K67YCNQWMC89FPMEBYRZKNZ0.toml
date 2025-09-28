@@ -1,8 +1,11 @@
 id = "01K67YCNQWMC89FPMEBYRZKNZ0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00672"
+
+[meta]
 bill_number = 672
 congress = 13
-canonical = "SBN-00672"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-672", "https://web.senate.gov.ph/lisdata/18581233!.pdf",]
 title = "MEDIA PROTECTION FOR THE DISABLED ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING THE NEGATIVE PORTRAYAL OF A PERSON WITH A DISABI
 scope = "National"
 subjects = [ "Media Protection for Disabled Person",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Public Information and Mass Media"

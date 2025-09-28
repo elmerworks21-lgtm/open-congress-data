@@ -1,8 +1,11 @@
 id = "01K67YJJN0GXKS6DQ1KZRK3510"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01994"
+
+[meta]
 bill_number = 1994
 congress = 17
-canonical = "SBN-01994"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1994", "https://web.senate.gov.ph/lisdata/2856624974!.pdf",]
 title = "DISASTER RESILIENCE ACT OF 2018"
 date_filed = "2018-09-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING IT
 scope = "National"
 subjects = [ "Department of Disaster Resilience", "Disaster Risk Reduction and Management", "Resilience",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-09-11"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-12"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/12/2018"
+date = "2018-09-12"
 
 [[committees]]
 name = "National Defense and Security"

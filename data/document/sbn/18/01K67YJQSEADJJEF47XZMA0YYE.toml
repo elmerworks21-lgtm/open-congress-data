@@ -1,8 +1,11 @@
 id = "01K67YJQSEADJJEF47XZMA0YYE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01974"
+
+[meta]
 bill_number = 1974
 congress = 18
-canonical = "SBN-01974"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1974", "https://web.senate.gov.ph/lisdata/3424731047!.pdf",]
 title = "THE FOOD AND DRUG ADMINISTRATION AS AN INDEPENDENT AGENCY"
 date_filed = "2021-01-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING THE FOOD AND DRUG ADMINISTRATION AS AN INDEPEND
 scope = "National"
 subjects = [ "Food and Drugs Administration (FDA)",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-07"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-19"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/19/2021"
+date = "2021-01-19"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJHG7WAH8HVJ0VQMM0QK3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00493"
+
+[meta]
 bill_number = 493
 congress = 17
-canonical = "SBN-00493"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-493", "https://web.senate.gov.ph/lisdata/2393320574!.pdf",]
 title = "PLANTILLA POSITION IN THE DEPARTMENT OF EDUCATION FOR VOLUNTEER TEACHERS"
 date_filed = "2016-07-19"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING PLANTILLA POSITION IN THE DEPARTMENT OF EDUCATION 
 scope = "National"
 subjects = [ "Department of Education (DepEd)", "Teachers",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJD8WDXBDPAKCAKNPTGMW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01539"
+
+[meta]
 bill_number = 1539
 congress = 16
-canonical = "SBN-01539"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1539", "https://web.senate.gov.ph/lisdata/1764114874!.pdf",]
 title = "TRANSPARENCY IN EXPROPRIATION ACT OF 2013"
 date_filed = "2013-09-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING TRANSPARENCY OF INFORMATION IN EXPROPRIATION PROC
 scope = "National"
 subjects = [ "Government Projects", "Expropriation",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-05"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on FINANCE; and PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2013"
+date = "2013-09-10"
 
 [[committees]]
 name = "Finance"

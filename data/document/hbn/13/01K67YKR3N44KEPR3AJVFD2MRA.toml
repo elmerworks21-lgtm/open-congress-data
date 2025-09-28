@@ -1,24 +1,28 @@
 id = "01K67YKR3N44KEPR3AJVFD2MRA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05043"
+
+[meta]
 bill_number = 5043
 congress = 13
-canonical = "HBN-05043"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5043", "https://web.senate.gov.ph/lisdata/51444180!.pdf",]
 title = "MAURARO NATIONAL HIGH SCHOOL (ALBAY)"
 long_title = "AN ACT SEPARATING THE MAURARO EXTENSION HIGH SCHOOL IN BARANGAY MAURARO, MUNICIPALITY OF GUINOBATAN, PROVINCE OF ALBAY FROM THE MALIPO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MAURARO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Albay)", "Mauraro National High School (Albay)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives JOEY SARTE SALCEDA, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2006"
+date = "2006-05-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

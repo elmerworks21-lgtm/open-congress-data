@@ -1,8 +1,11 @@
 id = "01K67YJ396HMRR68P204QHHNXZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03417"
+
+[meta]
 bill_number = 3417
 congress = 14
-canonical = "SBN-03417"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3417", "https://web.senate.gov.ph/lisdata/1232610983!.pdf",]
 title = "ACCOUNTABILITY IN INTERNATIONAL TRADE NEGOTIATIONS LAW OF THE PHILIPPINES"
 date_filed = "2009-08-26"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING A FRAMEWORK FOR RESPONSIBLE AND ACCOUNTABLE TR
 scope = "National"
 subjects = [ "Trade Policy Development", "Negotiations",]
 authors_raw = "Roxas, Mar, Lapid, Manuel \"Lito\" M., Defensor Santiago, Miriam, Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-26"
 action = "Prepared and submitted jointly by the Committee(s) on TRADE AND COMMERCE, FOREIGN RELATIONS and FINANCE with Senator(s) MAR ROXAS, MANUEL 'LITO' M. LAPID, MIRIAM DEFENSOR SANTIAGO and EDGARDO J. ANGARA as author(s) per Committee Report No. 566, Recommending its approval in substitution of SBNos. 252 and 1612, taking into consideration HBN-5971.;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-01"
 action = "Sponsor: Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-16"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-16"
 action = "Sponsorship speech of Senator MAR ROXAS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "9/16/2009"
+date = "2009-09-16"
 
 [[committees]]
 name = "Trade and Commerce"

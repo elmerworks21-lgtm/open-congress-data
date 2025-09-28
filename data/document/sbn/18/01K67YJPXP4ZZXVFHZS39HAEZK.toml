@@ -1,8 +1,11 @@
 id = "01K67YJPXP4ZZXVFHZS39HAEZK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00795"
+
+[meta]
 bill_number = 795
 congress = 18
-canonical = "SBN-00795"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-795", "https://web.senate.gov.ph/lisdata/3114928049!.pdf",]
 title = "FREEDOM OF INFORMATION ACT OF 2019"
 date_filed = "2019-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE RIGHT OF CITIZENS TO INFORMATION HELD BY 
 scope = "National"
 subjects = [ "Information", "Government Agencies",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-25"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2019"
+date = "2019-08-14"
 
 [[committees]]
 name = "Public Information and Mass Media"

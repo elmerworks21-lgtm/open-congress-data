@@ -1,8 +1,11 @@
 id = "01K67YJQ2827P3JP9A209F3TXN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01010"
+
+[meta]
 bill_number = 1010
 congress = 18
-canonical = "SBN-01010"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1010", "https://web.senate.gov.ph/lisdata/3143328330!.pdf",]
 title = "STIFFER PENALTIES FOR THE NON-REMITTANCE OF SSS, PHILHEALTH AND PAG-IBIG FUND CONTRIBUTIONS"
 date_filed = "2019-09-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPOSING STIFFER PENALTIES FOR THE NON-REMITTANCE OF MANDAT
 scope = "National"
 subjects = [ "Remittance", "Mandatory Government Contributions", "Social Security System (SSS)", "Philippine Health Insurance Corporation (Philhealth/Phic)", "Home Development Mutual Fund (Hdmf/Pag-Ibig Fund)", "Economic Sabotage",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-09-04"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-09"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2019"
+date = "2019-09-09"
 
 [[committees]]
 name = "Justice and Human Rights"

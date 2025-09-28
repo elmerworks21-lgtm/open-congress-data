@@ -1,24 +1,28 @@
 id = "01K67YKWW31MJWK9RGKRJ80S1R"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05960"
+
+[meta]
 bill_number = 5960
 congress = 14
-canonical = "HBN-05960"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5960", "https://web.senate.gov.ph/lisdata/107269558!.pdf",]
 title = "KAYSAKAT NATIONAL HIGH SCHOOL"
 long_title = "AN ACT SEPARATING THE ANTIPOLO NATIONAL HIGH SCHOOL - KAYSAKAT ANNEX IN BARANGAY SAN JOSE, CITY OF ANTIPOLO FROM THE ANTIPOLO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS KAYSAKAT NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-11"
 action = "Filed in the Senate requesting for concurrence by Representatives ANGELITO C. GATLABAYAN, DEL R. DE GUZMAN, EDCEL C. LAGMAN and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

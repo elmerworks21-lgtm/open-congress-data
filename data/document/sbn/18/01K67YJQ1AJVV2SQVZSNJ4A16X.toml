@@ -1,8 +1,11 @@
 id = "01K67YJQ1AJVV2SQVZSNJ4A16X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00968"
+
+[meta]
 bill_number = 968
 congress = 18
-canonical = "SBN-00968"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-968", "https://web.senate.gov.ph/lisdata/3137228267!.pdf",]
 title = "REVITALIZED RESERVE OFFICERS' TRAINING CORPS ACT"
 date_filed = "2019-08-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE CITIZEN ARMED FORCES OF THE PHILIPPINES, 
 scope = "National"
 subjects = [ "Citizen Service Training Course", "Reserve Officers Training Corps (ROTC)", "Tertiary Education",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-27"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2019"
+date = "2019-08-28"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

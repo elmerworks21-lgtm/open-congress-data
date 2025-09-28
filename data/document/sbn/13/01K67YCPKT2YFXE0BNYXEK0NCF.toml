@@ -1,8 +1,11 @@
 id = "01K67YCPKT2YFXE0BNYXEK0NCF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02141"
+
+[meta]
 bill_number = 2141
 congress = 13
-canonical = "SBN-02141"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2141", "https://web.senate.gov.ph/lisdata/41063418!.pdf",]
 title = "BODY PIERCING AND TATTOOING REGULATION ACT"
 date_filed = "2005-10-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REGULATE BODY PIERCING AND TATTOOING"
 scope = "National"
 subjects = [ "Body Piercing", "Tattooing Regulation",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-10-13"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-24"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/24/2005"
+date = "2005-10-24"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJWB4CN7WD2DD5AS1EC0T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02069"
+
+[meta]
 bill_number = 2069
 congress = 19
-canonical = "SBN-02069"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2069", "https://web.senate.gov.ph/lisdata/4138937706!.pdf",]
 title = "RENAMING THE AGHAM ROAD AND THE BIR ROAD AS SENATOR MIRIAM P. DEFENSOR-SANTIAGO AVENUE"
 date_filed = "2023-04-17"
@@ -10,37 +13,38 @@ long_title = "AN ACT RENAMING THE AGHAM ROAD AND THE BIR ROAD, STRETCHING FROM N
 scope = "Local"
 subjects = [ "Roads, Change of Name", "Renaming",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2023-04-17"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-08"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Transferred from the Committee on Rules to the Committee on PUBLIC WORKS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-24"
 action = "Returned and submitted by the Committee on PUBLIC WORKS per Committee Report No. 76, recommending that it be considered in HBN-7413;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-24"
 action = "CONSIDERED IN HBN-7413 UNDER COMMITTEE REPORT NO. 76 WHICH BECAME R.A. NO. 11963 ON OCTOBER 12, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/24/2023"
+date = "2023-05-24"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YJ30G08AY4HG6Z6DAATK3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03055"
+
+[meta]
 bill_number = 3055
 congress = 14
-canonical = "SBN-03055"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3055", "https://web.senate.gov.ph/lisdata/102749148!.pdf",]
 title = "MAGNA CARTA FOR PROBATION AND PAROLE WORKERS"
 date_filed = "2009-02-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR PROBATION AND PAROLE WORKER
 scope = "National"
 subjects = [ "Magna Carta for Probation and Parole Workers",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-11"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-11"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/11/2009"
+date = "2009-02-11"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

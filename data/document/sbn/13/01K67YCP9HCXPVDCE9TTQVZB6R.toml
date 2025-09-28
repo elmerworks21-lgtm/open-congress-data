@@ -1,8 +1,11 @@
 id = "01K67YCP9HCXPVDCE9TTQVZB6R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01639"
+
+[meta]
 bill_number = 1639
 congress = 13
-canonical = "SBN-01639"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1639", "https://web.senate.gov.ph/lisdata/28202296!.pdf",]
 title = "FAMILY RESERVE ACT"
 date_filed = "2004-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH A NATIONAL CENTER FOR INFORMATION AND TECHNICA
 scope = "National"
 subjects = [ "Family Reserve Act", "Nat. Center for Information/Technical",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Health and Demography"

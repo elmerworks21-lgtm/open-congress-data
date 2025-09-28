@@ -1,8 +1,11 @@
 id = "01K67YJ26WYVX8H98X542VQJQW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01942"
+
+[meta]
 bill_number = 1942
 congress = 14
-canonical = "SBN-01942"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1942", "https://web.senate.gov.ph/lisdata/65525799!.pdf",]
 title = "CREATING THE HISTORIC BUILDING SURVEY AND DOCUMENTATION CENTER WITHIN THE NHI"
 date_filed = "2007-12-06"
@@ -10,37 +13,38 @@ long_title = "AN ACT TO CONSERVE, PROMOTE AND POPULARIZE THE PHILIPPINES' HISTOR
 scope = "National"
 subjects = [ "National Historical Institute (NHI)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-12-06"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, FINANCE, FOREIGN RELATIONS, URBAN PLANNING, HOUSING AND RESETTLEMENT and WAYS AND MEANS per Committee Report No. 244, recommending that it be substituted by SBN-3014;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-26"
 action = "SUBSTITUTED BY SBN-3014, WHICH BECAME R.A.NO. 10066."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/26/2009"
+date = "2009-01-26"
 
 [[committees]]
 name = "Education, Arts and Culture"

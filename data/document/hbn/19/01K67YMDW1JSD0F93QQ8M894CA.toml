@@ -1,24 +1,28 @@
 id = "01K67YMDW1JSD0F93QQ8M894CA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11168"
+
+[meta]
 bill_number = 11168
 congress = 19
-canonical = "HBN-11168"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11168", "https://web.senate.gov.ph/lisdata/4563941578!.pdf",]
 title = "MACAHAMBUS GORGE ECOTOURISM ZONE ACT"
 long_title = "AN ACT DECLARING THE MACAHAMBUS GORGE AND ITS IMMEDIATE ENVIRONS, LOCATED IN BARANGAY LUMBIA, CITY OF CAGAYAN DE ORO, PROVINCE OF MISAMIS ORIENTAL, AN ECOTOURISM ZONE"
 scope = "Local"
 subjects = [ "Ecotourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-12-19"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-14"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/14/2025"
+date = "2025-01-14"
 
 [[committees]]
 name = "Tourism"

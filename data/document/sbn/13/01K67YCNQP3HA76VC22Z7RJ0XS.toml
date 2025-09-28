@@ -1,8 +1,11 @@
 id = "01K67YCNQP3HA76VC22Z7RJ0XS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00661"
+
+[meta]
 bill_number = 661
 congress = 13
-canonical = "SBN-00661"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-661", "https://web.senate.gov.ph/lisdata/18471222!.pdf",]
 title = "CHILDREN'S MEDIA PROTECTION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT LIMITING EXPOSURE OF CHILDREN TO VIOLENT PROGRAMMING ON TEL
 scope = "National"
 subjects = [ "Children`S Media Protection At",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Public Information and Mass Media"

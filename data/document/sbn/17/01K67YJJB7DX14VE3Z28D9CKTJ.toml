@@ -1,8 +1,11 @@
 id = "01K67YJJB7DX14VE3Z28D9CKTJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01610"
+
+[meta]
 bill_number = 1610
 congress = 17
-canonical = "SBN-01610"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1610", "https://web.senate.gov.ph/lisdata/2687623089!.pdf",]
 title = "CONSTITUTIONAL EDUCATION ACT"
 date_filed = "2017-11-08"
@@ -10,25 +13,26 @@ long_title = "AN ACT INTEGRATING EDUCATION ON THE 1987 CONSTITUTION OF THE REPUB
 scope = "National"
 subjects = [ "Constitutional Education", "Curriculum/Curricula", "Secondary Education",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2017-11-08"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-11-20"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-12-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/20/2017"
+date = "2017-11-20"
 
 [[committees]]
 name = "Education, Arts and Culture"

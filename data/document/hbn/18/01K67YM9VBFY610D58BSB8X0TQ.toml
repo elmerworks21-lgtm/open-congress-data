@@ -1,24 +1,28 @@
 id = "01K67YM9VBFY610D58BSB8X0TQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09999"
+
+[meta]
 bill_number = 9999
 congress = 18
-canonical = "HBN-09999"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9999", "https://web.senate.gov.ph/lisdata/3625732710!.pdf",]
 title = "IDENTIFYING TOURISM DEVELOPMENT AREAS IN THE PROVINCE OF ISABELA"
 long_title = "AN ACT IDENTIFYING TOURISM DEVELOPMENT AREAS IN THE PROVINCE OF ISABELA, MANDATING SUPPORT FOR TOURISM DEVELOPMENT, CREATING THE ISABELA TOURISM COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-20"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2021"
+date = "2021-09-20"
 
 [[committees]]
 name = "Tourism"

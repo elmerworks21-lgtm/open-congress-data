@@ -1,8 +1,11 @@
 id = "01K67YJWV3XZEB9KY66BQK052H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02696"
+
+[meta]
 bill_number = 2696
 congress = 19
-canonical = "SBN-02696"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2696", "https://web.senate.gov.ph/lisdata/4417440160!.pdf",]
 title = "PHILIPPINE CITIZENSHIP TO MATTHEW JAMES RAMOS"
 date_filed = "2024-05-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO MATTHEW JAMES RAMOS"
 scope = "National"
 subjects = [ "Philippine Citizenship",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-22"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-29"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2024"
+date = "2024-07-29"
 
 [[committees]]
 name = "Rules"

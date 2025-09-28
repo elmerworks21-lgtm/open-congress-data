@@ -1,8 +1,11 @@
 id = "01K67YJHG9GZDG245TCYS68S2B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00495"
+
+[meta]
 bill_number = 495
 congress = 17
-canonical = "SBN-00495"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-495", "https://web.senate.gov.ph/lisdata/2393520577!.pdf",]
 title = "CHILDREN'S CANCER HOSPITAL ACT OF 2016"
 date_filed = "2016-07-19"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING THE CHILDREN'S CANCER HOSPITAL OF THE PHILIPPI
 scope = "National"
 subjects = [ "Children/Child Care", "Cancer Care Centers", "Hospitals",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-31"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY, EDUCATION, ARTS AND CULTURE, LOCAL GOVERNMENT, SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, WAYS AND MEANS and FINANCE per Committee Report No. 399, recommending that it be considered in SBN-1850;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-24"
 action = "SUBSTITUTED BY SBN-1850 UNDER COMMITTEE REPORT NO. 399, WHICH BECAME R.A.NO. 11215 ON FEBRUARY 14, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/24/2018"
+date = "2018-07-24"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YCPMYNSV8TF5G7PR424F5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02200"
+
+[meta]
 bill_number = 2200
 congress = 13
-canonical = "SBN-02200"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2200", "https://web.senate.gov.ph/lisdata/45013643!.pdf",]
 title = "MAGNA CARTA FOR DAY CARE WORKERS"
 date_filed = "2006-01-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING THE MAGNA CARTA FOR DAY CARE WORKERS, PROVIDING FU
 scope = "National"
 subjects = [ "Magna Carta for Day Care Workers",]
 authors_raw = "Madrigal, M. A."
-[[legislative_history]]
+
+[[history]]
 date = "2006-01-30"
 action = "Introduced by Senator M. A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-31"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/31/2006"
+date = "2006-01-31"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

@@ -1,24 +1,28 @@
 id = "01K67YM6JWQDGJA7S5P5KFN17M"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08626"
+
+[meta]
 bill_number = 8626
 congress = 17
-canonical = "HBN-08626"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8626", "https://web.senate.gov.ph/lisdata/2919325785!.pdf",]
 title = "PHILIPPINE INDIGENOUS GAMES PRESERVATION ACT"
 long_title = "AN ACT PRESERVING THE INDIGENOUS GAMES OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Indigenous Games", "Indigenous Cultural Communities",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-13"
 action = "Read on First Reading and Referred to the Committee(s) on SPORTS; and CULTURAL COMMUNITIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/13/2018"
+date = "2018-12-13"
 
 [[committees]]
 name = "Sports"

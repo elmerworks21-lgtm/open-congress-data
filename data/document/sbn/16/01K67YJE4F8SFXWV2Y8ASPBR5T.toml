@@ -1,8 +1,11 @@
 id = "01K67YJE4F8SFXWV2Y8ASPBR5T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02768"
+
+[meta]
 bill_number = 2768
 congress = 16
-canonical = "SBN-02768"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2768", "https://web.senate.gov.ph/lisdata/2132118142!.pdf",]
 title = "UPGRADING THE AMAI PAKPAK MEDICAL CENTER MARAWI CITY, LANAO DEL SUR"
 date_filed = "2015-05-18"
@@ -10,41 +13,42 @@ long_title = "AN ACT UPGRADING THE AMAI PAKPAK MEDICAL CENTER IN MARAWI CITY, LA
 scope = "National"
 subjects = [ "Hospitals, Upgrading",]
 authors_raw = "Guingona III, Teofisto \"Tg\""
-[[legislative_history]]
+
+[[history]]
 date = "2015-05-18"
 action = "Introduced by Senator TEOFISTO 'TG' GUINGONA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-02"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-02"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 465, recommending its approval with amendments, taking into consideration HBN-5436;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-02"
 action = "Sponsor: Senator TEOFISTO 'TG' GUINGONA III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "Omnibus sponsorship speech of Senator TEOFISTO 'TG' GUINGONA III on SBNos. 2768, 2915 and HBN-5852;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/3/2016"
+date = "2016-02-03"
 
 [[committees]]
 name = "Health and Demography"

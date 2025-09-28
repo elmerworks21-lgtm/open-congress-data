@@ -1,8 +1,11 @@
 id = "01K67YJ2ZBRXFCBY1KF42HF866"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03003"
+
+[meta]
 bill_number = 3003
 congress = 14
-canonical = "SBN-03003"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3003", "https://web.senate.gov.ph/lisdata/99078950!.pdf",]
 title = "HOSPITAL-ACQUIRED INFECTION"
 date_filed = "2009-01-20"
@@ -10,17 +13,18 @@ long_title = "HOSPITAL INFECTIONS DISCLOSURE ACT"
 scope = "National"
 subjects = [ "Hospital Infection Reporting",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-01-20"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-21"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/21/2009"
+date = "2009-01-21"
 
 [[committees]]
 name = "Health and Demography"

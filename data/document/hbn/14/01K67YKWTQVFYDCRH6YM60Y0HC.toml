@@ -1,24 +1,28 @@
 id = "01K67YKWTQVFYDCRH6YM60Y0HC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05758"
+
+[meta]
 bill_number = 5758
 congress = 14
-canonical = "HBN-05758"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5758", "https://web.senate.gov.ph/lisdata/103399214!.pdf",]
 title = "MARIKINA CITY CHARTER DAY"
 long_title = "AN ACT DECLARING DECEMBER 8 OF EACH YEAR AS 'MARIKINA CITY DAY' AND A SPECIAL NONWORKING HOLIDAY IN THE CITY OF MARIKINA TO COMMEMORATE ITS FOUNDING ANNIVERSARY"
 scope = "Local"
 subjects = [ "Holidays (Special Nonworking Holiday)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-16"
 action = "Filed in the Senate requesting for concurrence by Representatives GILBERTO C. TEODORO JR. and GIORGIDI B. AGGABAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-17"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/17/2009"
+date = "2009-02-17"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJPTVEZAJFMCT877AB31N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00666"
+
+[meta]
 bill_number = 666
 congress = 18
-canonical = "SBN-00666"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-666", "https://web.senate.gov.ph/lisdata/3103027927!.pdf",]
 title = "PRENATAL LEAVE BENEFITS FOR FEMALE EMPLOYEES"
 date_filed = "2019-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING PRENATAL LEAVE BENEFITS FOR FEMALE EMPLOYEES"
 scope = "National"
 subjects = [ "Pre-Natal Leave", "Pregnancy", "Women",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

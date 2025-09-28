@@ -1,8 +1,11 @@
 id = "01K67YJW02FVTZRYKNRPRHJTZ6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01600"
+
+[meta]
 bill_number = 1600
 congress = 19
-canonical = "SBN-01600"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1600", "https://web.senate.gov.ph/lisdata/4011636567!.pdf",]
 title = "SOGIESC EQUALITY ACT"
 date_filed = "2022-12-06"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF SEXUAL ORIENTATI
 scope = "National"
 subjects = [ "Sexual Orientation (Lesbians/Gays/Sogie)", "Sogiesc Equality",]
 authors_raw = "Hontiveros, Risa, Legarda, Loren B., Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-06"
 action = "Prepared and submitted jointly by the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE with Senators RISA HONTIVEROS, LOREN B. LEGARDA and MARK A. VILLAR as authors per Committee Report No. 15, recommending its approval in substitution of SBNos. 139, 245 and 442;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-07"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-07"
 action = "Sponsor: Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-08"
 action = "Referred to the Committee on RULES for further study;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "12/7/2022"
+date = "2022-12-07"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

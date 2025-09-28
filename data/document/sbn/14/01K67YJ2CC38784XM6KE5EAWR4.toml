@@ -1,8 +1,11 @@
 id = "01K67YJ2CC38784XM6KE5EAWR4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02169"
+
+[meta]
 bill_number = 2169
 congress = 14
-canonical = "SBN-02169"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2169", "https://web.senate.gov.ph/lisdata/71256359!.pdf",]
 title = "ELEVATE THE POSITION OF ALL SECRETARIES TO THE SANGGUNIANS"
 date_filed = "2008-04-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO UPGRADE THE POSITION OF SECRETARIES TO THE SANGGUNIAN, A
 scope = "National"
 subjects = [ "Local Government Code (RA 7160", "Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-17"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-22"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/22/2008"
+date = "2008-04-22"
 
 [[committees]]
 name = "Local Government"

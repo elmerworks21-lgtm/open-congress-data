@@ -1,8 +1,11 @@
 id = "01K67YJDSBM0WYN0RH8F3GN92W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02290"
+
+[meta]
 bill_number = 2290
 congress = 16
-canonical = "SBN-02290"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2290", "https://web.senate.gov.ph/lisdata/1949316608!.pdf",]
 title = "HIGH SCHOOL GRADUATE EMPOWERMENT ACT"
 date_filed = "2014-06-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PREVENT EMPLOYMENT DISCRIMINATION AGAINST HIGH SCHOOL GR
 scope = "National"
 subjects = [ "High School Reform", "Employment Discrimination",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-06-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2014"
+date = "2014-07-30"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

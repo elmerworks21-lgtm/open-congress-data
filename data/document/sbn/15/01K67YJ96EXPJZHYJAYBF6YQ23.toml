@@ -1,8 +1,11 @@
 id = "01K67YJ96EXPJZHYJAYBF6YQ23"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02807"
+
+[meta]
 bill_number = 2807
 congress = 15
-canonical = "SBN-02807"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2807", "https://web.senate.gov.ph/lisdata/112039516!.pdf",]
 title = "UNIFORM SYSTEM OF PRELIMINARY INVESTIGATION"
 date_filed = "2011-05-09"
@@ -10,21 +13,22 @@ long_title = "AN ACT REPEALING REPUBLIC ACT NO. 5180, AS AMENDED, 'AN ACT PRESCR
 scope = "National"
 subjects = [ "Preliminary Investigation",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-09"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-10"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2011"
+date = "2011-05-10"
 
 [[committees]]
 name = "Justice and Human Rights"

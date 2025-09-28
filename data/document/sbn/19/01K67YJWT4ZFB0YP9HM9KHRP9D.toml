@@ -1,8 +1,11 @@
 id = "01K67YJWT4ZFB0YP9HM9KHRP9D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02653"
+
+[meta]
 bill_number = 2653
 congress = 19
-canonical = "SBN-02653"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2653", "https://web.senate.gov.ph/lisdata/4402239981!.pdf",]
 title = "INCLUSION OF RIZAL AS NATURALIST AND MEDICAL DOCTOR IN THE TEACHING OF RIZAL IN SCHOOLS"
 date_filed = "2024-05-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE INCLUSION OF RIZAL AS A NATURALIST AND MEDICA
 scope = "National"
 subjects = [ "Rizal Law (Amending R.A. No. 1425)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-06"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2024"
+date = "2024-05-06"
 
 [[committees]]
 name = "Basic Education"

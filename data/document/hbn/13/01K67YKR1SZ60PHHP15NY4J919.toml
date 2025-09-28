@@ -1,24 +1,28 @@
 id = "01K67YKR1SZ60PHHP15NY4J919"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04827"
+
+[meta]
 bill_number = 4827
 congress = 13
-canonical = "HBN-04827"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4827", "https://web.senate.gov.ph/lisdata/50734151!.pdf",]
 title = "CABANTIAN NATIONAL HIGH SCHOOL (DAVAO)"
 long_title = "AN ACT SEPARATING THE BERNARDO D. CARPIO NATIONAL HIGH SCHOOL – CABANTIAN ANNEX IN BARANGAY CABANTIAN, DISTRICT OF BUHANGIN, CITY OF DAVAO FROM THE BERNARDO D. CARPIO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE CABANTIAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Davao)", "Cabantian National High School (Davao)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives VINCENT J. GARCIA, EDMUNDO O. REYES JR., ROLANDO G. ANDAYA JR. and EULOGIO 'AMANG' R. MAGSAYSAY, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2006"
+date = "2006-05-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

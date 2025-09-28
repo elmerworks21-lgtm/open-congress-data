@@ -1,8 +1,11 @@
 id = "01K67YJ0SBNY9JXE2EV85Z1KEH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00089"
+
+[meta]
 bill_number = 89
 congress = 14
-canonical = "SBN-00089"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-89", "https://web.senate.gov.ph/lisdata/41513559!.pdf",]
 title = "PHILIPPINE LEMON LAW"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING PROTECTION AND REMEDIES TO BUYERS OF NEW AND USED
 scope = "National"
 subjects = [ "Lemon Law (Motor Vehicles)", "Motor Vehicle Buyers Protection (Lemon Law)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator MANUEL B. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-25"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2007"
+date = "2007-07-25"
 
 [[committees]]
 name = "Trade and Commerce"

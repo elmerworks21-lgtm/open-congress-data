@@ -1,8 +1,11 @@
 id = "01K67YJWT9FXKMY3V31WEY2WP0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02661"
+
+[meta]
 bill_number = 2661
 congress = 19
-canonical = "SBN-02661"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2661", "https://web.senate.gov.ph/lisdata/4403839994!.pdf",]
 title = "POLLEN AND MIX MOLD DETECTION AND MANAGEMENT ACT"
 date_filed = "2024-05-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING A POLLEN AND MIX MOLD DETECTION AND MANAGEMENT PR
 scope = "National"
 subjects = [ "Pollen and Mix Mold Dtection", "Detention Facilities",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-07"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-13"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2024"
+date = "2024-05-13"
 
 [[committees]]
 name = "Science and Technology"

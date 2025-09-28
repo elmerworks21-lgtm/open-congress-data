@@ -1,8 +1,11 @@
 id = "01K67YJQSADYXFSD617EXBGBYQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01969"
+
+[meta]
 bill_number = 1969
 congress = 18
-canonical = "SBN-01969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1969", "https://web.senate.gov.ph/lisdata/3424231043!.pdf",]
 title = "CCF LIFE ACADEMY FOUNDATION INC."
 date_filed = "2021-01-05"
@@ -10,37 +13,38 @@ long_title = "AN ACT RECOGNIZING CCF LIFE ACADEMY FOUNDATION INC. AS AN EDUCATIO
 scope = "National"
 subjects = [ "Life Academy Foundation Inc.",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-05"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-19"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-08"
 action = "Transferred from the Committee on Rules to the Committee on BASIC EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-25"
 action = "Returned and submitted by the Committee on BASIC EDUCATION, ARTS AND CULTURE per Committee Report No. 286, recommending that it be substituted by SBN-2364;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-25"
 action = "SUBSTITUTED BY SBN-2364 UNDER COMMITTEE REPORT NO. 286."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/25/2021"
+date = "2021-08-25"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

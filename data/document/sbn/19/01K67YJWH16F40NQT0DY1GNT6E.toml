@@ -1,8 +1,11 @@
 id = "01K67YJWH16F40NQT0DY1GNT6E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02315"
+
+[meta]
 bill_number = 2315
 congress = 19
-canonical = "SBN-02315"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2315", "https://web.senate.gov.ph/lisdata/4210938302!.pdf",]
 title = "ESTABLISHING NURSERY AND CHILDCARE FACILITIES PROXIMATE TO PUBLIC SCHOOLS"
 date_filed = "2023-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING NURSERY AND CHILDCARE FACILITIES PROXIMATE TO 
 scope = "National"
 subjects = [ "Nursery Program", "Children/Child Care", "Public School Teachers",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-07-17"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-02"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2023"
+date = "2023-08-02"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

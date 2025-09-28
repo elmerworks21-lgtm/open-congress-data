@@ -1,8 +1,11 @@
 id = "01K67YJZYNBTHR5GX620HMCSM1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00250"
+
+[meta]
 bill_number = 250
 congress = 20
-canonical = "SBN-00250"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-250", "https://web.senate.gov.ph/lisdata/4672742732!.pdf",]
 title = "AMENDING R.A. NO. 3815 AND 10175 (DECRIMINALIZING LIBEL)"
 date_filed = "2025-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECRIMINALIZING LIBEL, REPEALING FOR THIS PURPOSE ARTICLES 
 scope = "National"
 subjects = [ "Cybercrime Prevention", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-08"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJHRZ4WFH7W93P6W94W2W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00910"
+
+[meta]
 bill_number = 910
 congress = 17
-canonical = "SBN-00910"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-910", "https://web.senate.gov.ph/lisdata/2446621051!.pdf",]
 title = "AMENDING P.D. NO. 1146, THE REVISED GOVERNMENT SERVICE INSURANCE SYSTEM ACT OF 1977"
 date_filed = "2016-07-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE INCLUSION OF ELECTED AND APPOINTED BARANGAY O
 scope = "National"
 subjects = [ "Government Service Insurance System (GSIS)", "Barangay Officials",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-28"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

@@ -1,8 +1,11 @@
 id = "01K67YJQBF65SKHRDV9KMCCQT2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01387"
+
+[meta]
 bill_number = 1387
 congress = 18
-canonical = "SBN-01387"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1387", "https://web.senate.gov.ph/lisdata/3243829294!.pdf",]
 title = "INCREASING THE BED CAPACITY OF THE SOUTHERN ISABELA MEDICAL CENTER IN SANTIAGO CITY, ISABELA"
 date_filed = "2020-03-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE BED CAPACITY OF THE SOUTHERN ISABELA MEDICAL
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-03-02"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/3/2020"
+date = "2020-03-03"
 
 [[committees]]
 name = "Health and Demography"

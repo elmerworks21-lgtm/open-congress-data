@@ -1,8 +1,11 @@
 id = "01K67YJHSJHBMGBB5AV17BW8D5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00937"
+
+[meta]
 bill_number = 937
 congress = 17
-canonical = "SBN-00937"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-937", "https://web.senate.gov.ph/lisdata/2449521078!.pdf",]
 title = "DEPARTMENT OF OCEAN, FISHERIES AND AQUATIC RESOURCES ACT"
 date_filed = "2016-08-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING A DEPARTMENT OF OCEAN, FISHERIES AND AQUATIC RESOU
 scope = "National"
 subjects = [ "Department of Ocean, Fisheries and Aquatic Resources",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-01"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Agriculture and Food"

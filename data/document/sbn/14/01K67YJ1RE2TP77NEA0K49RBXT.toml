@@ -1,8 +1,11 @@
 id = "01K67YJ1RE2TP77NEA0K49RBXT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01573"
+
+[meta]
 bill_number = 1573
 congress = 14
-canonical = "SBN-01573"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1573", "https://web.senate.gov.ph/lisdata/58905248!.pdf",]
 title = "COMPULSORY HEALTH INSURANCE COVERAGE TO ACCREDITED BARANGAY HEALTH WORKERS"
 date_filed = "2007-09-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING THE BENEFITS AND INCENTIVES TO ACCREDITED BARANGA
 scope = "National"
 subjects = [ "Barangay Health Worker",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-12"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-19"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/19/2007"
+date = "2007-09-19"
 
 [[committees]]
 name = "Health and Demography"

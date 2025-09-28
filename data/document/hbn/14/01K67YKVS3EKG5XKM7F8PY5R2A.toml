@@ -1,24 +1,28 @@
 id = "01K67YKVS3EKG5XKM7F8PY5R2A"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02982"
+
+[meta]
 bill_number = 2982
 congress = 14
-canonical = "HBN-02982"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-2982", "https://web.senate.gov.ph/lisdata/111939908!.pdf",]
 title = "TOURIST ZONE (DON CARLOS, PROVINCE OF BUKIDNON)"
 long_title = "AN ACT DECLARING LAKE PINAMALOY IN THE MUNICIPALITY OF DON CARLOS IN THE PROVINCE OF BUKIDNON AS A TOURIST ZONE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourist Zone", "Tourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-12"
 action = "Filed in the Senate requesting for concurrence by Representatives JOSE MA. F. ZUBIRI III and GILBERTO C. TEODORO JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2009"
+date = "2009-05-13"
 
 [[committees]]
 name = "Tourism"

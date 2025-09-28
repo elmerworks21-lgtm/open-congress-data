@@ -1,8 +1,11 @@
 id = "01K67YJWZWKCFZ2XPJW6E14PZF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02860"
+
+[meta]
 bill_number = 2860
 congress = 19
-canonical = "SBN-02860"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2860", "https://web.senate.gov.ph/lisdata/4516641029!.pdf",]
 title = "DISASTER FOOD BANK AND STOCKPILE ACT"
 date_filed = "2024-10-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DISASTER FOOD BANK AND
 scope = "National"
 subjects = [ "Disaster Food Bank and Stockpile",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2024-10-28"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-04"
 action = "Read on First Reading and Referred to the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/4/2024"
+date = "2024-11-04"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

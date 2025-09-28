@@ -1,8 +1,11 @@
 id = "01K67YJQX1RTY0TCPN7AR56PAK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02118"
+
+[meta]
 bill_number = 2118
 congress = 18
-canonical = "SBN-02118"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2118", "https://web.senate.gov.ph/lisdata/3478731620!.pdf",]
 title = "DR. PAULINO J. GARCIA MEMORIAL RESEARCH AND MEDICAL CENTER IN THE CITY OF CABANATUAN"
 date_filed = "2021-03-24"
@@ -10,33 +13,34 @@ long_title = "AN ACT INCREASING THE BED CAPACITY OF DR. PAULINO J. GARCIA MEMORI
 scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity", "Hospitals, Upgrading",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-24"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-24"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 522, recommending that it be considered in HBN-8225;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "CONSIDERED IN HBN-8225 UNDER COMMITTEE REPORT NO. 522."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/25/2022"
+date = "2022-01-25"
 
 [[committees]]
 name = "Health and Demography"

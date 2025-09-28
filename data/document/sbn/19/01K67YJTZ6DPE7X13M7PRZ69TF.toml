@@ -1,8 +1,11 @@
 id = "01K67YJTZ6DPE7X13M7PRZ69TF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00144"
+
+[meta]
 bill_number = 144
 congress = 19
-canonical = "SBN-00144"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-144", "https://web.senate.gov.ph/lisdata/3785234293!.pdf",]
 title = "FREE DIALYSIS FOR SENIOR CITIZENS ACT OF 2022"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FREE HEMODIALYSIS, PERITONEAL DIALYSIS, AND OTHER
 scope = "National"
 subjects = [ "Senior Citizen/Elderly", "Dialysis Treatment",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Health and Demography"

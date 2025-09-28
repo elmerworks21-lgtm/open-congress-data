@@ -1,8 +1,11 @@
 id = "01K67YCNXR99Q5Y8KNESD2GK1Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00997"
+
+[meta]
 bill_number = 997
 congress = 13
-canonical = "SBN-00997"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-997", "https://web.senate.gov.ph/lisdata/22011729!.pdf",]
 title = "INTEGRATED MAGNA CARTA OF TEACHERS/NON-TEACHING PERSONNEL"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 4670, OTHERWISE KNOWN AS THE MAGN
 scope = "National"
 subjects = [ "Integrated Magna Carta for Teachers", "Non-Teaching Personnel",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

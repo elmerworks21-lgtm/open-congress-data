@@ -1,8 +1,11 @@
 id = "01K67YJV7D6VV35B7TJZNHQP7C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00520"
+
+[meta]
 bill_number = 520
 congress = 19
-canonical = "SBN-00520"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-520", "https://web.senate.gov.ph/lisdata/3828134719!.pdf",]
 title = "SHARK CONSERVATION ACT OF THE PHILIPPINES"
 date_filed = "2022-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE CATCHING, SALE, PURCHASE, POSSESSION, TRANSP
 scope = "National"
 subjects = [ "Sharks, Rays and Chimaeras", "Conservation",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-16"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2022"
+date = "2022-08-16"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

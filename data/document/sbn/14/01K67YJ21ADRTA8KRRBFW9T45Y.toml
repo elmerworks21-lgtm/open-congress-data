@@ -1,8 +1,11 @@
 id = "01K67YJ21ADRTA8KRRBFW9T45Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01692"
+
+[meta]
 bill_number = 1692
 congress = 14
-canonical = "SBN-01692"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1692", "https://web.senate.gov.ph/lisdata/60885435!.pdf",]
 title = "PUV-CLEANLINESS ACT"
 date_filed = "2007-10-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING MAINTENANCE OF CLEANLINESS ON PUBLIC UTILITY VEHI
 scope = "National"
 subjects = [ "Public Utility Vehicles",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-02"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/3/2007"
+date = "2007-10-03"
 
 [[committees]]
 name = "Public Services"

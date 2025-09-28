@@ -1,8 +1,11 @@
 id = "01K67YJ8VHE5FQWA385A2SEMBH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02523"
+
+[meta]
 bill_number = 2523
 congress = 15
-canonical = "SBN-02523"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2523", "https://web.senate.gov.ph/lisdata/102178730!.pdf",]
 title = "RETIREMENT AND SEPARATION FOR MILITARY PERSONNEL OF THE AFP"
 date_filed = "2010-09-14"
@@ -10,25 +13,26 @@ long_title = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 1638 AS AMENDED, O
 scope = "National"
 subjects = [ "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-09-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-28"
 action = "Read on First Reading and Referred to the Committee on NATIONAL DEFENSE AND SECURITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-10-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-10-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2010"
+date = "2010-09-28"
 
 [[committees]]
 name = "National Defense and Security"

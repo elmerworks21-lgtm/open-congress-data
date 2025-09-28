@@ -1,28 +1,32 @@
 id = "01K67YM9ZTTSTSR2H5CZF4K2CA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10246"
+
+[meta]
 bill_number = 10246
 congress = 18
-canonical = "HBN-10246"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10246", "https://web.senate.gov.ph/lisdata/3642332869!.pdf",]
 title = "BARANGAY TABLONNORTHERN MINDANAO MEDICAL CENTER SATELLITE DISTRICT HOSPITAL"
 long_title = "AN ACT ESTABLISHING IN BARANGAY TABLON, CAGAYAN DE ORO CITY, PROVINCE OF MISAMIS ORIENTAL, A SATELLITE DISTRICT HOSPITAL OF THE NORTHERN MINDANAO MEDICAL CENTER, TO BE KNOWN AS THE BARANGAY TABLONNORTHERN MINDANAO MEDICAL CENTER SATELLITE DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-03-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/29/2021"
+date = "2021-09-29"
 
 [[committees]]
 name = "Health and Demography"

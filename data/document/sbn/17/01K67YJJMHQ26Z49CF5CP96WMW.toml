@@ -1,8 +1,11 @@
 id = "01K67YJJMHQ26Z49CF5CP96WMW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01978"
+
+[meta]
 bill_number = 1978
 congress = 17
-canonical = "SBN-01978"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1978", "https://web.senate.gov.ph/lisdata/2850524902!.pdf",]
 title = "AMENDING SEC. 173.1(A) OF R.A. 8293 (THE PHILIPPINE INTELLECTUAL PROPERTY CODE)"
 date_filed = "2018-09-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT CLARIFYING THE SCOPE OF DERIVATIVE WORKS, AMENDING FOR THE 
 scope = "National"
 subjects = [ "Intellectual Property Code",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2018-09-04"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-05"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2018"
+date = "2018-09-05"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

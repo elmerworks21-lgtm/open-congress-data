@@ -1,8 +1,11 @@
 id = "01K67YJW8N2WY2Q4E58GTRDWTB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01974"
+
+[meta]
 bill_number = 1974
 congress = 19
-canonical = "SBN-01974"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1974", "https://web.senate.gov.ph/lisdata/4104537402!.pdf",]
 title = "PUBLIC-PRIVATE PARTNERSHIP (PPP) ACT"
 date_filed = "2023-03-07"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR THE ENABLING ENVIRONMENT TO FOSTER THE GROWTH
 scope = "National"
 subjects = [ "Public-Private Partnership (PPP) Projects",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-07"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-08"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS; ECONOMIC AFFAIRS; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-04-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-18"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "Returned and submitted by the Committee on PUBLIC WORKS upon the recommendation of the Subcommittee on Public-Private Partnership (PPP) jointly with the Committees on ECONOMIC AFFAIRS, WAYS AND MEANS and FINANCE per Committee Report No. 71, recommending that it be substituted by SBN-2233;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "SUBSTITUTED BY SBN-2233 UNDER COMMITTEE REPORT NO. 71 WHICH BECAME R.A. NO. 11966 ON DECEMBER 5, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/23/2023"
+date = "2023-05-23"
 
 [[committees]]
 name = "Public Works"

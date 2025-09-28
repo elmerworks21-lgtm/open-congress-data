@@ -1,8 +1,11 @@
 id = "01K67YJ1H4P52WV7NSHA5VC3F4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01224"
+
+[meta]
 bill_number = 1224
 congress = 14
-canonical = "SBN-01224"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1224", "https://web.senate.gov.ph/lisdata/55204933!.pdf",]
 title = "IFUGAO STATE UNIVERSITY (IFSU)"
 date_filed = "2007-07-10"
@@ -10,33 +13,34 @@ long_title = "AN ACT TO ACCELERATE THE SOCIO-CULTURAL AND ECONOMIC DEVELOPMENT O
 scope = "Local"
 subjects = [ "Ifugao State University (IFSU)", "State Colleges and Universities (SCUS)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-06-02"
 action = "Transferred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-27"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE per Committee Report No. 536, recommending that it be substituted by HBN-4409;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-29"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-29"
 action = "CONSIDERED IN HBN-4409."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/29/2009"
+date = "2009-07-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YCNQR4M237MS97F0ASS1S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00664"
+
+[meta]
 bill_number = 664
 congress = 13
-canonical = "SBN-00664"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-664", "https://web.senate.gov.ph/lisdata/18501225!.pdf",]
 title = "MEDIA SPECIAL PROTECTION AND ADDITIONAL BENEFITS ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING SPECIAL PROTECTION AND ADDITIONAL BENEFITS TO MEDI
 scope = "National"
 subjects = [ "Media Special Protection", "Benefits Act",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-17"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2004"
+date = "2004-08-17"
 
 [[committees]]
 name = "Public Information and Mass Media"

@@ -1,8 +1,11 @@
 id = "01K67YJ143X58MKNQTGX7PKFDJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00587"
+
+[meta]
 bill_number = 587
 congress = 14
-canonical = "SBN-00587"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-587", "https://web.senate.gov.ph/lisdata/47984129!.pdf",]
 title = "POLITICAL PARTY DEVELOPMENT ACT OF 2007"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE POLITICAL PARTY SYSTEM, APPROPRIATING FUN
 scope = "National"
 subjects = [ "Political Party Development",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-22"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/22/2007"
+date = "2007-08-22"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

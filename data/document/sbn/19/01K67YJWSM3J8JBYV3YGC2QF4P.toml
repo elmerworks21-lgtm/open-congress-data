@@ -1,8 +1,11 @@
 id = "01K67YJWSM3J8JBYV3YGC2QF4P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02628"
+
+[meta]
 bill_number = 2628
 congress = 19
-canonical = "SBN-02628"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2628", "https://web.senate.gov.ph/lisdata/4390739869!.pdf",]
 title = "RETIREMENT BENEFITS OF JUSTICES, JUDGES, AND JUDICIARY OFFICIALS WITH JUDICIAL RANK, SALARY"
 date_filed = "2024-04-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT STANDARDIZING THE RETIREMENT BENEFITS OF JUSTICES, JUDGES, 
 scope = "National"
 subjects = [ "Retirement Benefits", "Judges", "Justices, Judges, and Judiciary Officials",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2024-04-02"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-29"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/29/2024"
+date = "2024-04-29"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

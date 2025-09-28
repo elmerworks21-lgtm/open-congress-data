@@ -1,8 +1,11 @@
 id = "01K67YCNDFWT0G6Q4XVW47VWN9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00096"
+
+[meta]
 bill_number = 96
 congress = 13
-canonical = "SBN-00096"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-96", "https://web.senate.gov.ph/lisdata/1224825!.pdf",]
 title = "EXCELLENCE THROUGH CHOICE TO ELEVATE LEARNING ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE EDUCATIONAL OPPORTUNITIES FOR DISADVANTAGED CHIL
 scope = "National"
 subjects = [ "Choice to Elevate Learning Act", "Children (Disadvantaged/Educ. Opportuni",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; YOUTH, WOMEN AND FAMILY RELATIONS; WAYS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Education, Arts and Culture"

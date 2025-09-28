@@ -1,8 +1,11 @@
 id = "01K67YJ1BZMBV20CFJ03RJYHHE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00968"
+
+[meta]
 bill_number = 968
 congress = 14
-canonical = "SBN-00968"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-968", "https://web.senate.gov.ph/lisdata/52344600!.pdf",]
 title = "PESTICIDE FOOD SAFETY ACT"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REGULATE PESTICIDE CHEMICAL RESIDUES IN FOOD"
 scope = "National"
 subjects = [ "Pesticide Chemical",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-05"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2007"
+date = "2007-09-05"
 
 [[committees]]
 name = "Agriculture and Food"

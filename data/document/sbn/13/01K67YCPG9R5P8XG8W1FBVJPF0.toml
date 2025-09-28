@@ -1,8 +1,11 @@
 id = "01K67YCPG9R5P8XG8W1FBVJPF0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01968"
+
+[meta]
 bill_number = 1968
 congress = 13
-canonical = "SBN-01968"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1968", "https://web.senate.gov.ph/lisdata/32952448!.pdf",]
 title = "FISCAL RESPONSIBILITY ACT"
 date_filed = "2005-03-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTILLING FISCAL DISCIPLINE IN THE PUBLIC SECTOR BY SPECIF
 scope = "National"
 subjects = [ "Fiscal Responsibility Act", "Government Revenue/Expenditure/Borrowing", "Transparency/Accountability",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-17"
 action = "Introduced by Senator VILLAR, JR."
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-18"
 action = "Read on First Reading and referred to the Committee(s) on FINANCE; ECONOMIC AFFAIRS; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/18/2005"
+date = "2005-03-18"
 
 [[committees]]
 name = "Finance"

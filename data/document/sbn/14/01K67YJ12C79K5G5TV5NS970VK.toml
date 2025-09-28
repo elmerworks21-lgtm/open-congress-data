@@ -1,8 +1,11 @@
 id = "01K67YJ12C79K5G5TV5NS970VK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00500"
+
+[meta]
 bill_number = 500
 congress = 14
-canonical = "SBN-00500"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-500", "https://web.senate.gov.ph/lisdata/47074030!.pdf",]
 title = "SUMMARY OF INCOME AND REVENUE (LOCAL GOVERNMENT)"
 date_filed = "2007-07-02"
@@ -10,33 +13,34 @@ long_title = "AN ACT REQUIRING PROVINCIAL GOVERNORS, CITY AND MUNICIPAL MAYORS A
 scope = "National"
 subjects = [ "Summary of Income and Revenue (Local Government)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-23"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 34, recommending that it be substituted by SBN-2006;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "SUBSTITUTED BY SBN-2006."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/28/2008"
+date = "2008-01-28"
 
 [[committees]]
 name = "Local Government"

@@ -1,24 +1,28 @@
 id = "01K67YMDMXD6GJGWV4GF5MZ8S2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10113"
+
+[meta]
 bill_number = 10113
 congress = 19
-canonical = "HBN-10113"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10113", "https://web.senate.gov.ph/lisdata/4383539831!.pdf",]
 title = "MOUNT KITUVED A TOURISM DESTINATION (CARMEN, COTABATO)"
 long_title = "AN ACT DECLARING MOUNT KITUVED, LOCATED IN BARANGAY BENTANGAN, MUNICIPALITY OF CARMEN, PROVINCE OF COTABATO, A TOURISM DESTINATION"
 scope = "Local"
 subjects = [ "Tourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2024"
+date = "2024-05-06"
 
 [[committees]]
 name = "Tourism"

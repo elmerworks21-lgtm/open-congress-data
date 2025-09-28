@@ -1,8 +1,11 @@
 id = "01K67YJV4E3TNYKGB6P977Y96B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00381"
+
+[meta]
 bill_number = 381
 congress = 19
-canonical = "SBN-00381"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-381", "https://web.senate.gov.ph/lisdata/3814234582!.pdf",]
 title = "AMENDING P.D. NO. 87 (OIL EXPLORATION AND DEVELOPMENT ACT)"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 87, OTHERWISE KNOW
 scope = "National"
 subjects = [ "Oil and Gas Exploration",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committee on ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Energy"

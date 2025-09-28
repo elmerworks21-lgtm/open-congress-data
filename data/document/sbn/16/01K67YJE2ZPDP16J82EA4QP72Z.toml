@@ -1,8 +1,11 @@
 id = "01K67YJE2ZPDP16J82EA4QP72Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02702"
+
+[meta]
 bill_number = 2702
 congress = 16
-canonical = "SBN-02702"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2702", "https://web.senate.gov.ph/lisdata/2078517879!.pdf",]
 title = "YOUTH PARTICIPATION IN DISASTER RISK REDUCTION AND MANAGEMENT ACT"
 date_filed = "2015-03-17"
@@ -10,37 +13,38 @@ long_title = "AN ACT INCLUDING RESPONSIVE, EMPOWERED AND SERVICE-CENTERED YOUTH 
 scope = "National"
 subjects = [ "Disaster Awareness/Mitigation", "Youth", "Philippine Disaster Risk Reduction and Management Act of 2010 (R.A.No. 10121)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2015-03-17"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-18"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and YOUTH;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-04"
 action = "Upon motion of Senator Aquino, the Committee on YOUTH was made as the primary commitee and the Committee on NATIONAL DEFENSE AND SECURITY was made as the secondary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-12"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-27"
 action = "Returned and submitted jointly by the Committee(s) on YOUTH and NATIONAL DEFENSE AND SECURITY per Committee Report No. 161, recommending that it be substituted by SBN-2789;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-27"
 action = "SUBSTITUTED BY SBN-2789 UNDER C.R. NO. 161."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/27/2015"
+date = "2015-05-27"
 
 [[committees]]
 name = "Youth"

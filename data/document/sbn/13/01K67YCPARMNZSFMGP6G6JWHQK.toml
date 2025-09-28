@@ -1,8 +1,11 @@
 id = "01K67YCPARMNZSFMGP6G6JWHQK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01710"
+
+[meta]
 bill_number = 1710
 congress = 13
-canonical = "SBN-01710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1710", "https://web.senate.gov.ph/lisdata/28932494!.pdf",]
 title = "FOOD DONATION ACT"
 date_filed = "2004-08-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENCOURAGE THE DONATION OF FOOD FOR CHARITABLE PURPOSES"
 scope = "National"
 subjects = [ "Food Donation Act",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-10"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Health and Demography"

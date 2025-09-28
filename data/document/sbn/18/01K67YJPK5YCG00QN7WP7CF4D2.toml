@@ -1,8 +1,11 @@
 id = "01K67YJPK5YCG00QN7WP7CF4D2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00306"
+
+[meta]
 bill_number = 306
 congress = 18
-canonical = "SBN-00306"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-306", "https://web.senate.gov.ph/lisdata/3058827447!.pdf",]
 title = "BARANGAY OFFICIALS RETIREMENT BENEFITS ACT OF 2019"
 date_filed = "2019-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING RETIREMENT BENEFITS TO ALL ELECTIVE OR APPOINTIVE 
 scope = "National"
 subjects = [ "Barangay Officials", "Retirement Benefits",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-10"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Local Government"

@@ -1,24 +1,28 @@
 id = "01K67YKWWXSMRETJ21NVNAZHA9"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06046"
+
+[meta]
 bill_number = 6046
 congress = 14
-canonical = "HBN-06046"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6046", "https://web.senate.gov.ph/lisdata/112249932!.pdf",]
 title = "IGNACIO TAN COMPREHENSIVE NATIONAL HIGH SCHOOL"
 long_title = "AN ACT ESTABLISHING A COMPREHENSIVE NATIONAL HIGH SCHOOL IN BARANGAY BAGUMBANG, MUNICIPALITY OF BONIFACIO, PROVINCE OF MISAMIS OCCIDENTAL TO BE KNOWN AS IGNACIO TAN COMPREHENSIVE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-12"
 action = "Filed in the Senate requesting for concurrence by Representatives HERMINIA M. RAMIRO, DEL R. DE GUZMAN and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2009"
+date = "2009-05-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

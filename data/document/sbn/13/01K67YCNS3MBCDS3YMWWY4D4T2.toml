@@ -1,8 +1,11 @@
 id = "01K67YCNS3MBCDS3YMWWY4D4T2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00742"
+
+[meta]
 bill_number = 742
 congress = 13
-canonical = "SBN-00742"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-742", "https://web.senate.gov.ph/lisdata/19321339!.pdf",]
 title = "RATIONALIZING THE FUNCTIONS OF THE PHIL. PORTS AUTHORITY"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE OMNIBUS AMENDMENTS TO PRESIDENTIAL DECREE
 scope = "National"
 subjects = [ "Phil. Ports Authority (Rationalizing)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-18"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2004"
+date = "2004-08-18"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

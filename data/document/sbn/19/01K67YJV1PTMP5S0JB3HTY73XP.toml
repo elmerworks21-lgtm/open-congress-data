@@ -1,8 +1,11 @@
 id = "01K67YJV1PTMP5S0JB3HTY73XP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00254"
+
+[meta]
 bill_number = 254
 congress = 19
-canonical = "SBN-00254"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-254", "https://web.senate.gov.ph/lisdata/3798534427!.pdf",]
 title = "VAPES AND HTPS REGULATION ACT"
 date_filed = "2022-07-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE MANUFACTURE, IMPORTATION, SALE, DISTRIBUTION
 scope = "National"
 subjects = [ "Vaporized Nicotine Products/Vape", "Tobacco Products/Tobacco Industry",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2022"
+date = "2022-08-03"
 
 [[committees]]
 name = "Health and Demography"

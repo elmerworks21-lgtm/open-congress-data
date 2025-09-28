@@ -1,48 +1,52 @@
 id = "01K67YKZX2JRZRAF8T3VPPMPAX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04758"
+
+[meta]
 bill_number = 4758
 congress = 15
-canonical = "HBN-04758"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4758", "https://web.senate.gov.ph/lisdata/1191510125!.pdf",]
 title = "NORTHWEST PANAY PENINSULA NATURAL PARK (NPPNP) ACT"
 long_title = "AN ACT DECLARING THE NORTHWEST PANAY PENINSULA LOCATED IN THE MUNICIPALITIES OF NABAS, MALAY AND BURUANGA, PROVINCE OF AKLAN, AND IN THE MUNICIPALITIES OF LIBERTAD AND PANDAN, PROVINCE OF ANTIQUE AS A PROTECTED AREA UNDER THE CATEGORY OF NATURAL PARK, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
 scope = "Local"
 subjects = [ "Protected Landscape", "Protected Area",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-08-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-17"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-12"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-22"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE per Committee Report No. 489, recommending its approval with amendments by substitution;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-28"
 action = "Sponsors: Senator(s) FRANCIS 'CHIZ' G. ESCUDERO, FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-12-05"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-12-05"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "12/5/2012"
+date = "2012-12-05"
 
 [[committees]]
 name = "Environment and Natural Resources"

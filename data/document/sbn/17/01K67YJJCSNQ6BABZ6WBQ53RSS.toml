@@ -1,8 +1,11 @@
 id = "01K67YJJCSNQ6BABZ6WBQ53RSS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01661"
+
+[meta]
 bill_number = 1661
 congress = 17
-canonical = "SBN-01661"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1661", "https://web.senate.gov.ph/lisdata/2716623389!.pdf",]
 title = "THE BASIC LAW FOR THE BANGSAMORO AND ABOLISHING THE AUTONOMOUS REGION IN MUSLIM MINDANAO"
 date_filed = "2018-01-23"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR THE BASIC LAW FOR THE BANGSAMORO AND ABOLISHI
 scope = "National"
 subjects = [ "Bangsamoro Basic Law", "Autonomous Region in Muslim Mindanao (ARMM)", "Abolition",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2018-01-23"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-23"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-28"
 action = "Returned and submitted jointly by the Committee(s) on LOCAL GOVERNMENT, FINANCE, CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES and WAYS AND MEANS per Committee Report No. 255, recommending that it be substituted by SBN-1717;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-28"
 action = "SUBSTITUTED BY SBN-1717 UNDER COMMITTEE REPORT NO. 255, WHICH BECAME R.A.NO. 11054 ON JULY 27, 2018."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/28/2018"
+date = "2018-02-28"
 
 [[committees]]
 name = "Local Government"

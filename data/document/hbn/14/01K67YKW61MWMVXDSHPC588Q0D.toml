@@ -1,24 +1,28 @@
 id = "01K67YKW61MWMVXDSHPC588Q0D"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04403"
+
+[meta]
 bill_number = 4403
 congress = 14
-canonical = "HBN-04403"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4403", "https://web.senate.gov.ph/lisdata/82627481!.pdf",]
 title = "TIGAON VINAGRE - HUYON-HUYON (TIGAON) - STO. ÑINO (SAGÑAY) PROVINCIAL ROAD (CAMARINES SUR)"
 long_title = "AN ACT CONVERTING THE TIGAON VINAGRE - HUYON-HUYON (TIGAON) - STO. NIÑO (SAGÑAY) ROAD, PROVINCE OF CAMARINES SUR INTO A NATIONAL SECONDARY ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-21"
 action = "Filed in the Senate requesting for concurrence by Representative ARNULFO P. FUENTEBELLA, as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2008"
+date = "2008-09-02"
 
 [[committees]]
 name = "Public Works"

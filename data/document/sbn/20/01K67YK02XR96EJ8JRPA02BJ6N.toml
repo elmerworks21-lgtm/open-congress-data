@@ -1,8 +1,11 @@
 id = "01K67YK02XR96EJ8JRPA02BJ6N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00479"
+
+[meta]
 bill_number = 479
 congress = 20
-canonical = "SBN-00479"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-479", "https://web.senate.gov.ph/lisdata/4701043012!.pdf",]
 title = "PHILIPPINE FILM COMMISSION ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING AND SUPPORTING THE DEVELOPMENT AND GROWTH OF THE 
 scope = "National"
 subjects = [ "Philippine Film Commission",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator JINGGOY ESTRADA EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on PUBLIC INFORMATION AND MASS MEDIA; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Public Information and Mass Media"

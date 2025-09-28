@@ -1,8 +1,11 @@
 id = "01K67YJCVSKZMZ2H6ZSB26JYAV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00901"
+
+[meta]
 bill_number = 901
 congress = 16
-canonical = "SBN-00901"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-901", "https://web.senate.gov.ph/lisdata/1692714170!.pdf",]
 title = "NATIONAL MILITARY APPRECIATION WEEK"
 date_filed = "2013-07-18"
@@ -10,33 +13,34 @@ long_title = "AN ACT DECLARING THE LAST FULL WEEK OF AUGUST AS NATIONAL MILITARY
 scope = "National"
 subjects = [ "Holidays (Special Working)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-18"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and NATIONAL DEFENSE AND SECURITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-20"
 action = "The Committee on NATIONAL DEFENSE AND SECURITY was made as the primary committee and The Committee on EDUCATION, ARTS AND CULTURE as secondary committee on motion of Senator Cayetano (A.);"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-09"
 action = "Returned and submitted jointly by the Committee(s) on NATIONAL DEFENSE AND SECURITY and EDUCATION, ARTS AND CULTURE per Committee Report No. 100, recommending that it be considered in HBN-945;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-10"
 action = "CONSIDERED IN HBN-945 UNDER C.R. NO. 100."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/10/2015"
+date = "2015-02-10"
 
 [[committees]]
 name = "National Defense and Security"

@@ -1,24 +1,28 @@
 id = "01K67YKWRZ2MCAJVMXRAAHNPAN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05523"
+
+[meta]
 bill_number = 5523
 congress = 14
-canonical = "HBN-05523"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5523", "https://web.senate.gov.ph/lisdata/101799067!.pdf",]
 title = "POOR LITIGANTS EQUALIZATION ACT OF 2008"
 long_title = "AN ACT EXEMPTING POOR LITIGANTS FROM POSTING BAIL WHEN CHARGED WITH NON-CAPITAL OFFENSES FOR THE FIRST TIME AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Poor Litigants",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-01-29"
 action = "Filed in the Senate requesting for concurrence by Representatives JOSEPH F. VIOLAGO, MATIAS V. DEFENSOR JR., JOSE G. SOLIS and GEORGE P. ARNAIZ as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-02"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/2/2009"
+date = "2009-02-02"
 
 [[committees]]
 name = "Justice and Human Rights"

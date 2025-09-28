@@ -1,8 +1,11 @@
 id = "01K67YJDCK7YET9V4WD1ATC1AA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01710"
+
+[meta]
 bill_number = 1710
 congress = 16
-canonical = "SBN-01710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1710", "https://web.senate.gov.ph/lisdata/1785215077!.pdf",]
 title = "SCHOOL BUS SAFETY ACT OF 2013"
 date_filed = "2013-09-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING SCHOOL BUS SAFETY STANDARDS AND FOR OTHER PURPO
 scope = "National"
 subjects = [ "School Bus",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-18"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-24"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/24/2013"
+date = "2013-09-24"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJPH40ZE2GG3RRP400WCH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00214"
+
+[meta]
 bill_number = 214
 congress = 18
-canonical = "SBN-00214"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-214", "https://web.senate.gov.ph/lisdata/3047227350!.pdf",]
 title = "SENIOR HIGH SCHOOL AGRICULTURAL STRAND ACT"
 date_filed = "2019-07-02"
@@ -10,25 +13,26 @@ long_title = "AN ACT AMENDING REPUBLIC ACT 10533, OTHERWISE KNOWN AS THE ENHANCE
 scope = "National"
 subjects = [ "Enhanced Basic Education Act (R.A.No. 10533)", "Secondary Education", "Agriculture Education", "Curriculum/Curricula",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; AGRICULTURE AND FOOD and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Transferred from the Committee on Education, Arts and Culture to the Committee on BASIC EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform, SBN-214 shall now be referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

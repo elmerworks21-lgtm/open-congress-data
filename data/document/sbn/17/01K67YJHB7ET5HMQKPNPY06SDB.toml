@@ -1,8 +1,11 @@
 id = "01K67YJHB7ET5HMQKPNPY06SDB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00294"
+
+[meta]
 bill_number = 294
 congress = 17
-canonical = "SBN-00294"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-294", "https://web.senate.gov.ph/lisdata/2373120376!.pdf",]
 title = "AMENDING SEC. 84, NATIONAL INTERNAL REVENUE CODE (RATES OF ESTATE TAX)"
 date_filed = "2016-07-04"
@@ -10,45 +13,46 @@ long_title = "AN ACT AMENDING SECTION 84 OF CHAPTER I, TITLE III OF THE NATIONAL
 scope = "National"
 subjects = [ "Taxes (Estate Tax)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-31"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-14"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-06"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 164, recommending that it be substituted by SBN-1592;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-20"
 action = "SUBSTITUTED BY SBN-1592 UNDER COMMITTEE REPORT NO. 164."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/20/2017"
+date = "2017-09-20"
 
 [[committees]]
 name = "Ways and Means"

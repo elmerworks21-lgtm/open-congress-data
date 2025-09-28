@@ -1,8 +1,11 @@
 id = "01K67YJR181FEWJKV2MWNV127V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02290"
+
+[meta]
 bill_number = 2290
 congress = 18
-canonical = "SBN-02290"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2290", "https://web.senate.gov.ph/lisdata/3527032138!.pdf",]
 title = "URBAN GREEN PATCHES PROGRAM ACT"
 date_filed = "2021-06-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE URBAN GREEN PATCHES PROGRAM AND PROVIDING 
 scope = "National"
 subjects = [ "Urban Green Patches Program",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-09"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2021"
+date = "2021-07-28"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

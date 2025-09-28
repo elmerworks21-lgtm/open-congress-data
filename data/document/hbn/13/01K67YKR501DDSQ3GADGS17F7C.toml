@@ -1,24 +1,28 @@
 id = "01K67YKR501DDSQ3GADGS17F7C"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05119"
+
+[meta]
 bill_number = 5119
 congress = 13
-canonical = "HBN-05119"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5119", "https://web.senate.gov.ph/lisdata/60235019!.pdf",]
 title = "HEALTH MAINTENANCE ORGANIZATIONS ACT OF 2006"
 long_title = "AN ACT REGULATING THE ESTABLISHMENT AND OPERATIONS OF HEALTH MAINTENANCE ORGANIZATIONS (HMOS), PROVIDING THEM INCENTIVES AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Health Maintenance Organizations (HMOS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-14"
 action = "Filed in the Senate requesting for concurrence by Representatives EMILIO C. MACIAS II, RODRIGUEZ D. DADIVAS, NANETTE CASTELO-DAZA, EUFROCINO M. CODILLA SR., EDGAR M. CHATTO, ET. AL. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-18"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/18/2006"
+date = "2006-09-18"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,24 +1,28 @@
 id = "01K67YKZCN4JQWTBJ8DMXYYNHM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00287"
+
+[meta]
 bill_number = 287
 congress = 15
-canonical = "HBN-00287"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-287", "https://web.senate.gov.ph/lisdata/113049623!.pdf",]
 title = "COMPOSTELA VALLEY LTO OFFICE"
 long_title = "AN ACT ESTABLISHING THE LAND TRANSPORTATION OFFICE OF COMPOSTELA VALLEY PROVINCE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/25/2011"
+date = "2011-05-25"
 
 [[committees]]
 name = "Public Services"

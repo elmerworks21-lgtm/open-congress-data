@@ -1,8 +1,11 @@
 id = "01K67YJVY63D7FVGGGA95FJ36X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01514"
+
+[meta]
 bill_number = 1514
 congress = 19
-canonical = "SBN-01514"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1514", "https://web.senate.gov.ph/lisdata/3989636335!.pdf",]
 title = "BASIC ROAD SAFETY AND COMPREHENSIVE DRIVERS EDUCATION"
 date_filed = "2022-11-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE TEACHING OF BASIC ROAD SAFETY AND COMPREHENSI
 scope = "National"
 subjects = [ "Road Safety Education", "Road Safety",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-16"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; PUBLIC SERVICES; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2022"
+date = "2022-11-22"
 
 [[committees]]
 name = "Basic Education"

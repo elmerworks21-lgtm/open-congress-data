@@ -1,8 +1,11 @@
 id = "01K67YJ3381WDAZVRNPAGVM6RZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03178"
+
+[meta]
 bill_number = 3178
 congress = 14
-canonical = "SBN-03178"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3178", "https://web.senate.gov.ph/lisdata/108669640!.pdf",]
 title = "HUMAN ORGAN TRANSPLANT ACT"
 date_filed = "2009-04-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REGULATE ORGAN TRANSPLANTATION AND APPROPRIATING FUNDS T
 scope = "National"
 subjects = [ "Human Organ and Tissue Procurement and Transplant",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2009-04-21"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-22"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/22/2009"
+date = "2009-04-22"
 
 [[committees]]
 name = "Health and Demography"

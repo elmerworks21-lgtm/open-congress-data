@@ -1,8 +1,11 @@
 id = "01K67YK01XKDR873VPEJKE7N4C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00425"
+
+[meta]
 bill_number = 425
 congress = 20
-canonical = "SBN-00425"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-425", "https://web.senate.gov.ph/lisdata/4693842941!.pdf",]
 title = "NEW OMNIBUS ELECTION CODE OF 2025"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE NEW OMNIBUS ELECTION CODE OF 2025"
 scope = "National"
 subjects = [ "New Omnibus Election Code",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on ELECTORAL REFORMS AND PEOPLES PARTICIPATION and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

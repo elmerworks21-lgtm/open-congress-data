@@ -1,24 +1,28 @@
 id = "01K67YKR6MSRWBRQNY4D5MJ13D"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05209"
+
+[meta]
 bill_number = 5209
 congress = 13
-canonical = "HBN-05209"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5209", "https://web.senate.gov.ph/lisdata/49704088!.pdf",]
 title = "DON VICTORIANO NATIONAL HIGH SCHOOL (MISAMIS OCCIDENTAL)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF DON VICTORIANO, PROVINCE OF MISAMIS OCCIDENTAL TO BE KNOWN AS THE DON VICTORIANO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Misamis Occidental)", "Don Victoriano National High School (Misamis Occidental)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives HERMINIA M. RAMIRO, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2006"
+date = "2006-05-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

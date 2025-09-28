@@ -1,8 +1,11 @@
 id = "01K67YCNV2XB6YB18KFV5KG6Z0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00855"
+
+[meta]
 bill_number = 855
 congress = 13
-canonical = "SBN-00855"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-855", "https://web.senate.gov.ph/lisdata/20531544!.pdf",]
 title = "SUBSTITUTING 'SALARIES & WAGES' FOR 'PERSONAL SERVICES'/LGUS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 325 (A) OF REPUBLIC ACT NO. 7160, OTHERWIS
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Local Government Code (RA 7160)", "Salaries/Wages (Personal Services; LGUs)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2004"
+date = "2004-08-30"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJWX43YH3Q84R9MSJGA9X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02768"
+
+[meta]
 bill_number = 2768
 congress = 19
-canonical = "SBN-02768"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2768", "https://web.senate.gov.ph/lisdata/4449540445!.pdf",]
 title = "ANTI-BOMB JOKE ACT OF 2024"
 date_filed = "2024-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE DISSEMINATION OF FALSE INFORMATION ON BOMB 
 scope = "National"
 subjects = [ "Anti-Bomb Joke", "False Bomb Threat",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-06"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-07"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2024"
+date = "2024-08-07"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

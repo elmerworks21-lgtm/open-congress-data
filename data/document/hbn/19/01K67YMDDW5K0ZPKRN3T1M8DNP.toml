@@ -1,40 +1,44 @@
 id = "01K67YMDDW5K0ZPKRN3T1M8DNP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08969"
+
+[meta]
 bill_number = 8969
 congress = 19
-canonical = "HBN-08969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8969", "https://web.senate.gov.ph/lisdata/4282238957!.pdf",]
 title = "MILITARY AND UNIFORMED PERSONNEL PENSION SYSTEM ACT"
 long_title = "AN ACT CREATING A SUSTAINABLE FISCAL FRAMEWORK FOR THE PENSION SYSTEM OF THE MILITARY AND UNIFORMED PERSONNEL, PROVIDING MECHANISMS FOR THE DISPOSITION OF GOVERNMENT ASSETS FOR THE PURPOSE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Military and Uniformed Personnel", "Pension",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-27"
 action = "Read on First Reading and Referred to the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-10-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "Returned jointly by the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION, GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES, WAYS AND MEANS and FINANCE per Committee Report No. 173, recommending that it be considered in SBN-2501;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-29"
 action = "CONSIDERED IN SBN-2501 UNDER COMMITTEE REPORT NO. 173."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/29/2023"
+date = "2023-11-29"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

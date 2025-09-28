@@ -1,8 +1,11 @@
 id = "01K67YJCG1GJY7HHZXJSZH7Y8Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00328"
+
+[meta]
 bill_number = 328
 congress = 16
-canonical = "SBN-00328"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-328", "https://web.senate.gov.ph/lisdata/1619413422!.pdf",]
 title = "NATIONAL CONSCIOUSNESS WEEK AGAINST COUNTERFEIT MEDICINES ACT"
 date_filed = "2013-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING EVERY THIRD WEEK OF NOVEMBER OF EVERY YEAR AS NAT
 scope = "National"
 subjects = [ "Counterfeit Medicines", "Holidays, National",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Health and Demography"

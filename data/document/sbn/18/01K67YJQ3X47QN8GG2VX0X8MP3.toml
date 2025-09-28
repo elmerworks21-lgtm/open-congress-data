@@ -1,8 +1,11 @@
 id = "01K67YJQ3X47QN8GG2VX0X8MP3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01078"
+
+[meta]
 bill_number = 1078
 congress = 18
-canonical = "SBN-01078"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1078", "https://web.senate.gov.ph/lisdata/3162928477!.pdf",]
 title = "TOTAL ELECTRIFICATION IN HOUSEHOLDS AND PUBLIC SCHOOLS ACT"
 date_filed = "2019-09-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ACCELERATING THE COUNTRY’S TOTAL ELECTRIFICATION OF HOUSE
 scope = "National"
 subjects = [ "Solar Energy", "Households", "Malampaya Natural Gas Project/Malampaya Deep Water Gas-To-Power Project",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-09-30"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-10-01"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/1/2019"
+date = "2019-10-01"
 
 [[committees]]
 name = "Energy"

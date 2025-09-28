@@ -1,24 +1,28 @@
 id = "01K67YKR6Y9JPKZDJ4KPPVZ84T"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05234"
+
+[meta]
 bill_number = 5234
 congress = 13
-canonical = "HBN-05234"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5234", "https://web.senate.gov.ph/lisdata/52324262!.pdf",]
 title = "PANIPUAN INTEGRATED HIGH SCHOOL (PAMPANGA)"
 long_title = "AN ACT ESTABLISHING AN INTEGRATED HIGH SCHOOL IN BARANGAY PANIPUAN, CITY OF SAN FERNANDO, PAMPANGA TO BE KNOWN AS THE PANIPUAN INTEGRATED HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Pampanga)", "Panipuan Integrated High School (Pampanga)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives REY B. AQUINO, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON, ROLANDO G. ANDAYA JR. and GENEROSO DC. TULAGAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-24"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/24/2006"
+date = "2006-05-24"
 
 [[committees]]
 name = "Education, Arts and Culture"

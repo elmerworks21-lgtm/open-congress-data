@@ -1,28 +1,32 @@
 id = "01K67YMDQQ2K89JT02B5WMQ6H4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10560"
+
+[meta]
 bill_number = 10560
 congress = 19
-canonical = "HBN-10560"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10560", "https://web.senate.gov.ph/lisdata/4492140852!.pdf",]
 title = "LAKE MAPANUEPE (SAN MARCELINO, ZAMBALES) A TOURISM DESTINATION"
 long_title = "AN ACT DECLARING LAKE MAPANUEPE, LOCATED IN BARANGAY AGLAO, MUNICIPALITY OF SAN MARCELINO, PROVINCE OF ZAMBALES, A TOURISM DESTINATION"
 scope = "Local"
 subjects = [ "Tourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-14"
 action = "Approved on Third Reading by the House of Representatives on August 13, 2024;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2024"
+date = "2024-09-16"
 
 [[committees]]
 name = "Tourism"

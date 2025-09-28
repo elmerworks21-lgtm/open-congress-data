@@ -1,24 +1,28 @@
 id = "01K67YM97HHPWZNS9YB271YSX5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06930"
+
+[meta]
 bill_number = 6930
 congress = 18
-canonical = "HBN-06930"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-6930", "https://web.senate.gov.ph/lisdata/3342430231!.pdf",]
 title = "FAMILY TREE PLANTING ACT"
 long_title = "AN ACT REQUIRING PARENTS TO PLANT TWO (2) TREES FOR EVERY CHILD BORN TO THEM AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Tree Planting", "Cutting", "Burning",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-01"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2020"
+date = "2020-09-02"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

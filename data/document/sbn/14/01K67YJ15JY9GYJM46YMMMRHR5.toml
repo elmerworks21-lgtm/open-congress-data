@@ -1,8 +1,11 @@
 id = "01K67YJ15JY9GYJM46YMMMRHR5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00661"
+
+[meta]
 bill_number = 661
 congress = 14
-canonical = "SBN-00661"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-661", "https://web.senate.gov.ph/lisdata/48834252!.pdf",]
 title = "PROSTATE CANCER PUBLIC AWARENESS ACT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PROGRAM FOR PUBLIC EDUCATION ON PROSTATE CAN
 scope = "National"
 subjects = [ "Prostate Cancer Public Awareness",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-28"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2007"
+date = "2007-08-28"
 
 [[committees]]
 name = "Health and Demography"

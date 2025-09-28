@@ -1,24 +1,28 @@
 id = "01K67YMA3Z0C175ZFBFQ04ANSM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10329"
+
+[meta]
 bill_number = 10329
 congress = 18
-canonical = "HBN-10329"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10329", "https://web.senate.gov.ph/lisdata/3674633131!.pdf",]
 title = "PUBLIC SCHOOLS OF THE FUTURE IN TECHNOLOGY (PSOFT) ACT"
 long_title = "AN ACT ESTABLISHING THE PUBLIC SCHOOLS OF THE FUTURE IN TECHNOLOGY AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Department of Education (DepEd)", "School Modernization", "Innovations/Innovative Technology",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION, ARTS AND CULTURE; SUSTAINABLE DEVELOPMENT GOALS, INNOVATION AND FUTURES THINKING and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2021"
+date = "2021-12-06"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

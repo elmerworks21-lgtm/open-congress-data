@@ -1,8 +1,11 @@
 id = "01K67YCNHTMAK3Y9XG8HYYMGZ8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00330"
+
+[meta]
 bill_number = 330
 congress = 13
-canonical = "SBN-00330"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-330", "https://web.senate.gov.ph/lisdata/1487782!.pdf",]
 title = "MAYON VOLCANO RECONSTRUCTION AND REDEVELOPMENT FUND"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE MAYON RECONSTRUCTION AND REDEVELOPMENT FUND, A
 scope = "National"
 subjects = [ "Mayon Volcano Reconstruction Fund",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Finance"

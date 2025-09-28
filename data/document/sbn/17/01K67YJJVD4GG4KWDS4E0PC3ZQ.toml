@@ -1,8 +1,11 @@
 id = "01K67YJJVD4GG4KWDS4E0PC3ZQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02229"
+
+[meta]
 bill_number = 2229
 congress = 17
-canonical = "SBN-02229"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2229", "https://web.senate.gov.ph/lisdata/2996926679!.pdf",]
 title = "PHILIPPINE DAY OF REMEMBRANCE FOR ROAD CRASH VICTIMS, SURVIVORS AND FAMILIES"
 date_filed = "2019-05-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT DESIGNATING THE THIRD SUNDAY OF NOVEMBER AS THE PHILIPPINE 
 scope = "National"
 subjects = [ "Road Crash Victims", "Road Traffic Victims",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-22"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJ77P43F6X0BEXPEHVWPE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00030"
+
+[meta]
 bill_number = 30
 congress = 15
-canonical = "SBN-00030"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-30", "https://web.senate.gov.ph/lisdata/74056000!.pdf",]
 title = "NATIONAL TELECOMMUNICATIONS COMMISSION REORGANIZATION"
 date_filed = "2010-07-01"
@@ -10,25 +13,26 @@ long_title = "AN ACT REORGANIZING THE NATIONAL TELECOMMUNICATIONS COMMISSION, DE
 scope = "National"
 subjects = [ "National Telecommunications Commission (NTC)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-01"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-07-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-02-01"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2010"
+date = "2010-07-27"
 
 [[committees]]
 name = "Public Services"

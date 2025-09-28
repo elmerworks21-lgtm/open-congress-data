@@ -1,24 +1,28 @@
 id = "01K67YM5M148SGF94MB316BE5N"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00198"
+
+[meta]
 bill_number = 198
 congress = 17
-canonical = "HBN-00198"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-198", "https://web.senate.gov.ph/lisdata/2649722781!.pdf",]
 title = "REGIONAL TRIAL COURT (BAYBAY, LEYTE)"
 long_title = "AN ACT CREATING AN ADDITIONAL REGIONAL TRIAL COURT BRANCH IN THE PROVINCE OF LEYTE TO BE STATIONED IN THE CITY OF BAYBAY, FURTHER AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (I) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Courts (Rtc/Mtc, Creation)", "Judiciary Reorganization Act (Batas Pambansa Blg. 129)",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-16"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2017"
+date = "2017-08-16"
 
 [[committees]]
 name = "Justice and Human Rights"

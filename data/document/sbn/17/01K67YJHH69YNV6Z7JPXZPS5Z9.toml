@@ -1,8 +1,11 @@
 id = "01K67YJHH69YNV6Z7JPXZPS5Z9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00541"
+
+[meta]
 bill_number = 541
 congress = 17
-canonical = "SBN-00541"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-541", "https://web.senate.gov.ph/lisdata/2398520596!.pdf",]
 title = "PROFESSIONAL FILIPINO ATHLETES RETIREMENT, HEALTH CARE AND DEATH BENEFITS ACT OF 2016"
 date_filed = "2016-07-19"
@@ -10,41 +13,42 @@ long_title = "AN ACT GRANTING RETIREMENT, HEALTH CARE AND DEATH BENEFITS TO PROF
 scope = "National"
 subjects = [ "Professional Filipino Athletes", "Athletes",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on SPORTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-09-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-24"
 action = "Returned and submitted jointly by the Committee(s) on SPORTS, HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 31, recommending that it be substituted by SBN-1306;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-25"
 action = "SUBSTITUTED BY SBN-1306 UNDER COMMITTEE REPORT NO. 31."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/25/2017"
+date = "2017-01-25"
 
 [[committees]]
 name = "Sports"

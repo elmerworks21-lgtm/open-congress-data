@@ -1,8 +1,11 @@
 id = "01K67YJ2WXQA5SJF50E69WDNHZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02910"
+
+[meta]
 bill_number = 2910
 congress = 14
-canonical = "SBN-02910"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2910", "https://web.senate.gov.ph/lisdata/94728579!.pdf",]
 title = "LANGUYAN - PARANGPANTAY - KUALABARO"
 date_filed = "2008-11-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE LANGUYAN - PARANGPANTAY - KUALABARO PROVINCI
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-27"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2008"
+date = "2008-12-10"
 
 [[committees]]
 name = "Public Works"

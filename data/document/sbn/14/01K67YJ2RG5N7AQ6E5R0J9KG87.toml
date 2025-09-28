@@ -1,8 +1,11 @@
 id = "01K67YJ2RG5N7AQ6E5R0J9KG87"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02698"
+
+[meta]
 bill_number = 2698
 congress = 14
-canonical = "SBN-02698"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2698", "https://web.senate.gov.ph/lisdata/91098287!.pdf",]
 title = "MANDATORY EMPLOYERS' INSURANCE FOR OVERSEAS FILIPINO WORKERS ACT OF 2008"
 date_filed = "2008-11-06"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO PROVIDE A MANDATORY EMPLOYERS' INSURANCE FOR ALL LEGALLY
 scope = "National"
 subjects = [ "Overseas Contract Workers (OCWS)", "Overseas Filipino Workers (OFWs)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-06"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-11"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT, FOREIGN RELATIONS and FINANCE per Committee Report No. 506, recommending that it be substituted by SBN-3286;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "SUBSTITUTED BY SBN-3286, WHICH LAPSED INTO LAW AND BECAME R.A.NO. 10022."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/27/2009"
+date = "2009-05-27"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

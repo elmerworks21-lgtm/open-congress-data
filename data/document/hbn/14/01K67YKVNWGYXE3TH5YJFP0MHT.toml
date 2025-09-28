@@ -1,24 +1,28 @@
 id = "01K67YKVNWGYXE3TH5YJFP0MHT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00387"
+
+[meta]
 bill_number = 387
 congress = 14
-canonical = "HBN-00387"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-387", "https://web.senate.gov.ph/lisdata/1186510430!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS (OFW) LIBERALIZATION ACT OF 2009"
 long_title = "AN ACT LIBERALIZING AND ACCELERATING THE PROCESSING AND DEPLOYMENT OF OVERSEAS FILIPINO WORKERS, AND APPROPRIATING THE NECESSARY FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Overseas Contract Workers (OCWS)", "Overseas Filipino Workers (OFWs)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-06-23"
 action = "Filed in the Senate requesting for concurrence by Representatives ROILO S. GOLEZ, MANUEL 'WAY KURAT' E.. ZAMORA, JUNIE E. CUA and REX GATCHALIAN, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; FOREIGN RELATIONS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2009"
+date = "2009-07-29"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

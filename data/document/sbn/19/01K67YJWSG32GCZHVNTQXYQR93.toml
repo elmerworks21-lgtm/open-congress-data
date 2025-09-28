@@ -1,8 +1,11 @@
 id = "01K67YJWSG32GCZHVNTQXYQR93"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02623"
+
+[meta]
 bill_number = 2623
 congress = 19
-canonical = "SBN-02623"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2623", "https://web.senate.gov.ph/lisdata/4382039817!.pdf",]
 title = "OFFICE OF THE CHIEF STATE COUNSEL ACT"
 date_filed = "2024-03-19"
@@ -10,33 +13,34 @@ long_title = "AN ACT STRENGTHENING THE LEGAL STAFF OF THE DEPARTMENT OF JUSTICE,
 scope = "National"
 subjects = [ "Legal Staff", "Office of the Chief State Counsel",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-19"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Returned and submitted jointly by the Committees on JUSTICE AND HUMAN RIGHTS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 531, recommending that it be substituted by SBN-2987;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "SUBSTITUTED BY SBN-2987 UNDER COMMITTEE REPORT NO. 531."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/5/2025"
+date = "2025-02-05"
 
 [[committees]]
 name = "Justice and Human Rights"

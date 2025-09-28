@@ -1,8 +1,11 @@
 id = "01K67YJHRG1Q8GHQ3T6C372A5R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00887"
+
+[meta]
 bill_number = 887
 congress = 17
-canonical = "SBN-00887"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-887", "https://web.senate.gov.ph/lisdata/2444321026!.pdf",]
 title = "URBAN DEVELOPMENT AND HOUSING ACT"
 date_filed = "2016-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPHOLDING THE RIGHT OF ACQUISITION BY QUALIFIED BENEFICIARI
 scope = "National"
 subjects = [ "Urban Development and Housing Act (R.A.No. 7279)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-26"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

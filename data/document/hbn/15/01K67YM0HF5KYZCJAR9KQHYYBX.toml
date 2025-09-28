@@ -1,24 +1,28 @@
 id = "01K67YM0HF5KYZCJAR9KQHYYBX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06826"
+
+[meta]
 bill_number = 6826
 congress = 15
-canonical = "HBN-06826"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6826", "https://web.senate.gov.ph/lisdata/1513712786!.pdf",]
 title = "WEST PROSPERIDAD NATIONAL HIGH SCHOOL"
 long_title = "AN ACT SEPARATING THE LUCENA NATIONAL HIGH SCHOOL - WEST PROSPERIDAD ANNEX IN BARANGAY LAS NAVAS, MUNICIPALITY OF WEST PROSPERIDAD, PROVINCEOF AGUSAN DEL SUR FROM THE LUCENA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS WEST PROSPERIDAD NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-01-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2013"
+date = "2013-02-05"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJPH0MBG37FA4KP4TJDHN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00208"
+
+[meta]
 bill_number = 208
 congress = 18
-canonical = "SBN-00208"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-208", "https://web.senate.gov.ph/lisdata/3046627344!.pdf",]
 title = "DEPARTMENT OF WATER RESOURCES MANAGEMENT ACT"
 date_filed = "2019-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF WATER RESOURCES MANAGEMENT, DEFI
 scope = "National"
 subjects = [ "Department of Water Resources Management", "Water Resources Management",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Public Services"

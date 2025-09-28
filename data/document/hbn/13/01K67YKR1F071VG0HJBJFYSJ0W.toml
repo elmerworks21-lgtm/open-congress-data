@@ -1,24 +1,28 @@
 id = "01K67YKR1F071VG0HJBJFYSJ0W"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04811"
+
+[meta]
 bill_number = 4811
 congress = 13
-canonical = "HBN-04811"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4811", "https://web.senate.gov.ph/lisdata/44533789!.pdf",]
 title = "SAN ISIDRO NATIONAL HIGH SCHOOL (ZAMBOANGA SIBUGAY)"
 long_title = "AN ACT SEPARATING THE SAN ISIDRO NATIONAL HIGH SCHOOL - SAN ISIDRO ANNEX IN BARANGAY SAN ISIDRO, MUNICIPALITY OF TUNGAWAN, PROVINCE OF ZAMBOANGA SIBUGAY FROM THE TUNGAWAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SAN ISIDRO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Zamboanga Sibugay)", "San Isidro National High School (Zamboanga Sibugay)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-12-22"
 action = "Filed in the Senate requesting for concurrence by Representatives BELMA A. CABILAO, EDMUNDO O. REYES JR., ROLANDO G. ANDAYA JR. and MA. MILAGROS 'MITOS' H. MAGSAYSAY as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/18/2006"
+date = "2006-01-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

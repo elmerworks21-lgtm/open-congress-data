@@ -1,8 +1,11 @@
 id = "01K67YJCMBJBPXBN153CW7STQC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00536"
+
+[meta]
 bill_number = 536
 congress = 16
-canonical = "SBN-00536"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-536", "https://web.senate.gov.ph/lisdata/1643513676!.pdf",]
 title = "BANNING THE CATCHING, SALE, PURCHASE, IMPORTATION AND EXPORTATION OF ALL SHARKS AND RAYS"
 date_filed = "2013-07-08"
@@ -10,41 +13,42 @@ long_title = "AN ACT BANNING THE CATCHING, SALE, PURCHASE, POSSESSION, TRANSPORT
 scope = "National"
 subjects = [ "Sharks", "Rays",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-06"
 action = "Returned and submitted jointly by the Committee(s) on AGRICULTURE AND FOOD, ENVIRONMENT AND NATURAL RESOURCES and FINANCE per Committee Report No. 23, recommending that it be substituted by SBN-2207;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-06"
 action = "SUBSTITUTED BY SBN-2207 UNDER C.R. NO. 23."
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-17"
 action = "Returned and submitted jointly by the Committee(s) on AGRICULTURE AND FOOD, ENVIRONMENT AND NATURAL RESOURCES and FINANCE per Committee Report No. 76, recommending that it be substituted by SBN-2414;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-22"
 action = "SUBSTITUTED BY SBN-2414, WHICH LAPSED INTO LAW AND BECAME REPUBLIC ACT NO. 10654 ON FEBRUARY 27, 2015."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/22/2014"
+date = "2014-09-22"
 
 [[committees]]
 name = "Agriculture and Food"

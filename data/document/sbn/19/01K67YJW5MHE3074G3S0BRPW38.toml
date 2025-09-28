@@ -1,8 +1,11 @@
 id = "01K67YJW5MHE3074G3S0BRPW38"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01843"
+
+[meta]
 bill_number = 1843
 congress = 19
-canonical = "SBN-01843"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1843", "https://web.senate.gov.ph/lisdata/4066937062!.pdf",]
 title = "AMENDING R A. NO. 11037 (THE MASUSTANSYANG PAGKAIN PARA SA BATANG PILIPINO ACT)"
 date_filed = "2023-02-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE COVERAGE OF THE FREE SCHOOL MEALS PROGRAM AND
 scope = "National"
 subjects = [ "Feeding Program", "Small Scale Farmers", "Masustansyang Pagkain Para Sa Batang Pilipino",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-06"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and YOUTH;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/7/2023"
+date = "2023-02-07"
 
 [[committees]]
 name = "Basic Education"

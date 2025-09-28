@@ -1,8 +1,11 @@
 id = "01K67YCPHQ9QNS53XW821YGQ94"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02036"
+
+[meta]
 bill_number = 2036
 congress = 13
-canonical = "SBN-02036"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2036", "https://web.senate.gov.ph/lisdata/34722909!.pdf",]
 title = "CUSTOMS BROKERS ACT OF 2004 (AMENDMENTS)"
 date_filed = "2005-06-02"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING SEC. 6, 27, 28 AND 29 OF REPUBLIC ACT NO. 9280 OTH
 scope = "National"
 subjects = [ "Customs Brokers Act (R.A. 9280)",]
 authors_raw = "Pimentel Jr., Aquilino Q., Lacson, Panfilo M., Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2005-06-02"
 action = "Introduced by Senators AQUILINO Q. PIMENTEL JR., PANFILO M. LACSON and RAMON B. MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-06"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-06"
 action = "Returned and submitted jointly by the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION, WAYS AND MEANS and TRADE AND COMMERCE per Committee Report No. 257, recommending that it be substituted by SBN-2597;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-06"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-06"
 action = "SUBSTITUTED BY SBN-2597."
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/6/2007"
+date = "2007-02-06"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

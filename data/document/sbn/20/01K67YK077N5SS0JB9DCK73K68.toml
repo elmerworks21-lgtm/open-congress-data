@@ -1,8 +1,11 @@
 id = "01K67YK077N5SS0JB9DCK73K68"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00710"
+
+[meta]
 bill_number = 710
 congress = 20
-canonical = "SBN-00710"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-710", "https://web.senate.gov.ph/lisdata/4724143241!.pdf",]
 title = "BARANGAY CCTV SURVEILLANCE ACT OF 2025"
 date_filed = "2025-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE INSTALLATION OF CLOSED-CIRCUIT TELEVISION (CC
 scope = "National"
 subjects = [ "Surveillance Camera", "Barangay Cctv Surveillance",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-17"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committees on PUBLIC ORDER AND DANGEROUS DRUGS; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

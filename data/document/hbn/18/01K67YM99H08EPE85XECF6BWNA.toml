@@ -1,24 +1,28 @@
 id = "01K67YM99H08EPE85XECF6BWNA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07511"
+
+[meta]
 bill_number = 7511
 congress = 18
-canonical = "HBN-07511"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7511", "https://web.senate.gov.ph/lisdata/3350130313!.pdf",]
 title = "HAGONOY, BULACAN TESDA TRAINING AND ASSESSMENT CENTER ACT"
 long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TRAINING AND ASSESSMENT CENTER IN THE MUNICIPALITY OF HAGONOY, PROVINCE OF BULACAN, TO BE KNOWN AS THE HAGONOY, BULACAN TESDA TRAINING AND ASSESSMENT CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tesda Training and Accreditation Center", "Technical Education and Skills Development Authority (Tesda)",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-14"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2020"
+date = "2020-09-14"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

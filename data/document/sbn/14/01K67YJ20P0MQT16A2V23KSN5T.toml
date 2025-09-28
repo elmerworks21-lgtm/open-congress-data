@@ -1,8 +1,11 @@
 id = "01K67YJ20P0MQT16A2V23KSN5T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01660"
+
+[meta]
 bill_number = 1660
 congress = 14
-canonical = "SBN-01660"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1660", "https://web.senate.gov.ph/lisdata/60525398!.pdf",]
 title = "BARANGAY AND SANGGUNIANG KABATAAN ELECTIONS RESETTING TO SECOND MONDAY OF MAY, 2008"
 date_filed = "2007-10-01"
@@ -10,49 +13,50 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9340, RESETTING THE SYNCHRONIZED 
 scope = "National"
 subjects = [ "Sangguniang Kabataan (SK)", "Barangay Election Resetting",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-01"
 action = "Prepared and submitted by the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS with Senator RICHARD 'DICK' J. GORDON and the Members of the Committee as authors per Committee Report No. 9, recommending its approval in substitution of HBN-2417;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Sponsor: Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Certified by the President of the Philippines for its immediate enactment on October 1, 2007;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Sponsorship speech of Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Inquiry of Senator BENIGNO S. AQUINO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Motion of Senator Pangilinan, that the manifestations, clarifications and questions of Senator Aquino, be referred to the Committee on Rules;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "Remarks of Senator AQUILINO Q. PIMENTEL, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-13"
 action = "SENT TO THE ARCHIVES;"
 
 [[status]]
 status = "Sent to the Archives"
-date = "11/13/2007"
+date = "2007-11-13"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

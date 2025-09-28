@@ -1,8 +1,11 @@
 id = "01K67YJVHEATG6YMPTAS8Q53E5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00967"
+
+[meta]
 bill_number = 967
 congress = 19
-canonical = "SBN-00967"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-967", "https://web.senate.gov.ph/lisdata/3877735232!.pdf",]
 title = "PILI INDUSTRY DEVELOPMENT ACT"
 date_filed = "2022-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEVELOPING THE PILI INDUSTRY, CREATING FOR THE PURPOSE THE 
 scope = "National"
 subjects = [ "Pili Industry",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-01"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-05"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2022"
+date = "2022-09-05"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

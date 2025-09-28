@@ -1,8 +1,11 @@
 id = "01K67YCPNYFFWXY1PE4CNRGB2V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02243"
+
+[meta]
 bill_number = 2243
 congress = 13
-canonical = "SBN-02243"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2243", "https://web.senate.gov.ph/lisdata/49804020!.pdf",]
 title = "SALARY STANDARDIZATION LAW (BIR, EXEMPTION)"
 date_filed = "2006-05-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING THE BUREAU OF INTERNAL REVENUE FROM THE COVERAGE 
 scope = "National"
 subjects = [ "Salary Standardization Law Exemption", "Bureau of Internal Revenue (BIR)",]
 authors_raw = "Lim, Alfredo S."
-[[legislative_history]]
+
+[[history]]
 date = "2006-05-09"
 action = "Introduced by Senator ALFREDO S. LIM;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-15"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2006"
+date = "2006-05-16"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

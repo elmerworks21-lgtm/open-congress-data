@@ -1,8 +1,11 @@
 id = "01K67YCP61R159CKA2H658XDSS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01442"
+
+[meta]
 bill_number = 1442
 congress = 13
-canonical = "SBN-01442"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1442", "https://web.senate.gov.ph/lisdata/26572021!.pdf",]
 title = "PENALIZING EMPLOYER WHO GIVES PREFERENCE TO MALE EMPLOYEE"
 date_filed = "2004-07-15"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOM
 scope = "National"
 subjects = [ "Employment Discrimination", "Gender Discrimination (Male Preference)", "Women Discrimination/Labor Code/P.D. 442",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-15"
 action = "Introduced by Senator DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-09"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

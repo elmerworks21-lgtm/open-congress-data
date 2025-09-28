@@ -1,8 +1,11 @@
 id = "01K67YJWED0M90MHJDPSAY6447"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02209"
+
+[meta]
 bill_number = 2209
 congress = 19
-canonical = "SBN-02209"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2209", "https://web.senate.gov.ph/lisdata/4170037984!.pdf",]
 title = "PLASTIC STRAWS BAN ACT"
 date_filed = "2023-05-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING ALL RESTAURANTS, HOTELS, INNS, FASTFOOD, CENTERS,
 scope = "National"
 subjects = [ "Plastic", "Plastic Bags", "Plastic Products", "Plastic Waste",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-17"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

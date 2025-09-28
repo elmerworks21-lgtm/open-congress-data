@@ -1,8 +1,11 @@
 id = "01K67YJ7912XVMSAH8NJTDEKC7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00087"
+
+[meta]
 bill_number = 87
 congress = 15
-canonical = "SBN-00087"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-87", "https://web.senate.gov.ph/lisdata/75426087!.pdf",]
 title = "RURAL LIVELIHOOD AND ECONOMIC DEVELOPMENT FUND"
 date_filed = "2010-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT APPROPRIATING THE AMOUNT OF TWO HUNDRED THOUSAND PESOS (P20
 scope = "National"
 subjects = [ "Rural Livelihood and Economic Development Fund",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-01"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-07-27"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2010"
+date = "2010-07-27"
 
 [[committees]]
 name = "Rules"

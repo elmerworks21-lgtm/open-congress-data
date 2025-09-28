@@ -1,24 +1,28 @@
 id = "01K67YM6B6M53M6QDMG4Q8HG37"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07373"
+
+[meta]
 bill_number = 7373
 congress = 17
-canonical = "HBN-07373"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7373", "https://web.senate.gov.ph/lisdata/2824424560!.pdf",]
 title = "GREEN BUILDING ACT"
 long_title = "AN ACT REQUIRING THE PLANTING OF TREES FOR ANY CONSTRUCTION OF RESIDENTIAL, COMMERCIAL, INDUSTRIAL AND PUBLIC BUILDINGS"
 scope = "National"
 subjects = [ "Green Building Code", "Tree Planting",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-06"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2018"
+date = "2018-08-06"
 
 [[committees]]
 name = "Environment and Natural Resources"

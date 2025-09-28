@@ -1,8 +1,11 @@
 id = "01K67YCNSNQWXTE2WWERCSYC8S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00773"
+
+[meta]
 bill_number = 773
 congress = 13
-canonical = "SBN-00773"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-773", "https://web.senate.gov.ph/lisdata/19631389!.pdf",]
 title = "PEDESTRIAN SAFETY LAW"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING MEASURES TO ENSURE PEDESTRIAN SAFETY AND CONVENIE
 scope = "National"
 subjects = [ "Pedestrian Safety",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC WORKS; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Public Works"

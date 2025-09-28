@@ -1,32 +1,36 @@
 id = "01K67YMD40SVS3R7TN38DW3K07"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06914"
+
+[meta]
 bill_number = 6914
 congress = 19
-canonical = "HBN-06914"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6914", "https://web.senate.gov.ph/lisdata/4084137213!.pdf",]
 title = "CEBU TECHNOLOGICAL UNIVERSITY SYSTEM"
 long_title = "AN ACT CONVERTING THE CEBU TECHNOLOGICAL UNIVERSITY INTO A UNIVERSITY SYSTEM TO BE KNOWN AS THE CEBU TECHNOLOGICAL UNIVERSITY SYSTEM, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-22"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-19"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/22/2023"
+date = "2023-02-22"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

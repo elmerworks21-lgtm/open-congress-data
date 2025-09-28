@@ -1,24 +1,28 @@
 id = "01K67YMD52HPDB3MKKDZT4N2VN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07208"
+
+[meta]
 bill_number = 7208
 congress = 19
-canonical = "HBN-07208"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7208", "https://web.senate.gov.ph/lisdata/4104937406!.pdf",]
 title = "NATIONAL FARMER’S DAY (SPECIAL WORKING HOLIDAY IN THE ENTIRE COUNTRY )"
 long_title = "AN ACT DECLARING JANUARY 22 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE ENTIRE COUNTRY TO BE KNOWN AS ''NATIONAL FARMER’S DAY''"
 scope = "National"
 subjects = [ "Holidays (Special Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-07"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-13"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/13/2023"
+date = "2023-03-13"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

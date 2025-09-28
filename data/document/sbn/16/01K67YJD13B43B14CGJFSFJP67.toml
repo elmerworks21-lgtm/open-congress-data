@@ -1,8 +1,11 @@
 id = "01K67YJD13B43B14CGJFSFJP67"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01156"
+
+[meta]
 bill_number = 1156
 congress = 16
-canonical = "SBN-01156"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1156", "https://web.senate.gov.ph/lisdata/1720614444!.pdf",]
 title = "MAGNA CARTA FOR YOUTH"
 date_filed = "2013-07-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT RECOGNIZING THE POTENTIALS OF THE FILIPINO YOUTH TOWARD NAT
 scope = "National"
 subjects = [ "Magna Carta for Youth",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-30"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-28"
 action = "Read on First Reading and Referred to the Committee on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-03-05"
 action = "Change of committee referral from the Committee on Youth, Women and Family Relations to the Committee on YOUTH;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2013"
+date = "2013-08-28"
 
 [[committees]]
 name = "Youth"

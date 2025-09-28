@@ -1,8 +1,11 @@
 id = "01K67YCP9TNQF4RPA08ETKKM9K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01656"
+
+[meta]
 bill_number = 1656
 congress = 13
-canonical = "SBN-01656"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1656", "https://web.senate.gov.ph/lisdata/28722332!.pdf",]
 title = "PRESIDENTIAL DEBATE REFORM ACT"
 date_filed = "2004-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH THE PRESIDENTIAL DEBATE COMMISSION"
 scope = "National"
 subjects = [ "Presidential Debate Commission", "Elections/Electoral Reforms (Candidates)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; PUBLIC INFORMATION AND MASS MEDIA; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

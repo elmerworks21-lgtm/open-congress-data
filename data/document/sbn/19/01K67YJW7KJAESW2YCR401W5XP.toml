@@ -1,8 +1,11 @@
 id = "01K67YJW7KJAESW2YCR401W5XP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01926"
+
+[meta]
 bill_number = 1926
 congress = 19
-canonical = "SBN-01926"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1926", "https://web.senate.gov.ph/lisdata/4091737280!.pdf",]
 title = "CHARTER OF THE CITY OF LILOAN"
 date_filed = "2023-02-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE MUNICIPALITY OF LILOAN IN THE PROVINCE OF CE
 scope = "Local"
 subjects = [ "Municipality, Conversion (Cityhood)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-27"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-28"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/28/2023"
+date = "2023-02-28"
 
 [[committees]]
 name = "Rules"

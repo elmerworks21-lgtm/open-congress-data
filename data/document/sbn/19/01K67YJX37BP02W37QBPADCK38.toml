@@ -1,8 +1,11 @@
 id = "01K67YJX37BP02W37QBPADCK38"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02979"
+
+[meta]
 bill_number = 2979
 congress = 19
-canonical = "SBN-02979"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2979", "https://web.senate.gov.ph/lisdata/4591541951!.pdf",]
 title = "AGRARIAN AND AGRICULTURAL WRITING OFF OR CONDONATION AND RESTRUCTURING OF LOANS ACT"
 date_filed = "2025-02-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT PROVIDING FOR THE WRITING OFF OF LOANS OR CONDONATION OF UN
 scope = "National"
 subjects = [ "Condonation", "Fisherfolk", "Farmers",]
 authors_raw = "Hontiveros, Risa, Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-02-04"
 action = "Prepared and submitted by the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM with Senators RISA HONTIVEROS and CYNTHIA A. VILLAR as authors per Committee Report No. 524, recommending its approval in substitution of S. No. 2744, taking into consideration H. No. 5702;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-04"
 action = "Sponsor: Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Sponsorship speech delivered by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Co-sponsorship speech of Senator RONALD 'BATO' DELA ROSA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/5/2025"
+date = "2025-02-05"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

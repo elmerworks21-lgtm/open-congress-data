@@ -1,24 +1,28 @@
 id = "01K67YM9HAJZBVW9RN9YYSM0GT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08659"
+
+[meta]
 bill_number = 8659
 congress = 18
-canonical = "HBN-08659"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8659", "https://web.senate.gov.ph/lisdata/3457231404!.pdf",]
 title = "LABANGAN, ZAMBOANGA DEL SUR TESDA TRAINING AND ASSESSMENT CENTER"
 long_title = "AN ACT ESTABLISHING A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TRAINING AND ASSESSMENT CENTER IN THE MUNICIPALITY OF LABANGAN, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS THE LABANGAN, ZAMBOANGA DEL SUR TESDA TRAINING AND ASSESSMENT CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tesda Training and Assessment Center",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-01"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/1/2021"
+date = "2021-03-01"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

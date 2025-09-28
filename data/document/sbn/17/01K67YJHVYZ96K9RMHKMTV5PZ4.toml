@@ -1,8 +1,11 @@
 id = "01K67YJHVYZ96K9RMHKMTV5PZ4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01047"
+
+[meta]
 bill_number = 1047
 congress = 17
-canonical = "SBN-01047"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1047", "https://web.senate.gov.ph/lisdata/2463121212!.pdf",]
 title = "MANDATORY NUTRITIONAL LABELING BY FOOD SERVICE ESTABLISHMENT ACT"
 date_filed = "2016-08-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE POSTING OF NUTRITIONAL INFORMATION ON MENU IT
 scope = "National"
 subjects = [ "Label/Labeling", "Nutrition", "Food Establishments", "Food Products Label",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-18"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-22"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/22/2016"
+date = "2016-08-22"
 
 [[committees]]
 name = "Health and Demography"

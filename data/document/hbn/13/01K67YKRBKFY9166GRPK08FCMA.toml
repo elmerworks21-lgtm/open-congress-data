@@ -1,24 +1,28 @@
 id = "01K67YKRBKFY9166GRPK08FCMA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05776"
+
+[meta]
 bill_number = 5776
 congress = 13
-canonical = "HBN-05776"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5776", "https://web.senate.gov.ph/lisdata/63775361!.pdf",]
 title = "MAPULANG LUPA NATIONAL HIGH SCHOOL (VALENZUELA CITY)"
 long_title = "AN ACT SEPARATING THE VALENZUELA NATIONAL HIGH SCHOOL – MAPULANG LUPA ANNEX IN BARANGAY MAPULANG LUPA, VALENZUELA CITY, METRO MANILA FROM THE VALENZUELA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MAPULANG LUPA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Valenzuela)", "Mapulang Lupa National Hs (Valenzuela City)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-11-22"
 action = "Filed in the Senate requesting for concurrence by Representatives ANTONIO M. SERAPIO, JOSE CARLOS V. LACSON, JOEY SARTE SALCEDA and MARY ANN L. SUSANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-23"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/23/2006"
+date = "2006-11-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

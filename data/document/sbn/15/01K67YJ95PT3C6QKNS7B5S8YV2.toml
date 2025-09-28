@@ -1,8 +1,11 @@
 id = "01K67YJ95PT3C6QKNS7B5S8YV2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02776"
+
+[meta]
 bill_number = 2776
 congress = 15
-canonical = "SBN-02776"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2776", "https://web.senate.gov.ph/lisdata/110959459!.pdf",]
 title = "LAND ADMINISTRATION REFORM ACT OF 2011"
 date_filed = "2011-03-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING REFORMS IN LAND ADMINISTRATION"
 scope = "National"
 subjects = [ "Land Administration",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-03-31"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-09"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2011"
+date = "2011-05-09"
 
 [[committees]]
 name = "Environment and Natural Resources"

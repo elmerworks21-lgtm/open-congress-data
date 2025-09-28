@@ -1,8 +1,11 @@
 id = "01K67YJ30YH72YRD1877RD24RS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03076"
+
+[meta]
 bill_number = 3076
 congress = 14
-canonical = "SBN-03076"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3076", "https://web.senate.gov.ph/lisdata/103899259!.pdf",]
 title = "SODIUM TETRABORATE DECAHYDRATE (BORAX) LABELING ACT OF 2009"
 date_filed = "2009-02-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING THE MANDATORY LABELING REQUIREMENTS FOR FOOD PR
 scope = "National"
 subjects = [ "Label", "Food Products", "Borax (Sodium Tetraborate Decahydrate)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-18"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-24"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/24/2009"
+date = "2009-02-24"
 
 [[committees]]
 name = "Trade and Commerce"

@@ -1,8 +1,11 @@
 id = "01K67YJQTKS2JTF0YM4M8YFXDJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02026"
+
+[meta]
 bill_number = 2026
 congress = 18
-canonical = "SBN-02026"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2026", "https://web.senate.gov.ph/lisdata/3439531204!.pdf",]
 title = "BENGUET LEGISLATIVE DISTRICTS"
 date_filed = "2021-01-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT REAPPORTIONING THE PROVINCE OF BENGUET INTO TWO (2) LEGISLA
 scope = "Local"
 subjects = [ "Legislative Districts",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-27"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-27"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/27/2021"
+date = "2021-01-27"
 
 [[committees]]
 name = "Rules"

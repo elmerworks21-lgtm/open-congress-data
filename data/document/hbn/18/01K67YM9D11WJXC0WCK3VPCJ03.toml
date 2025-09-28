@@ -1,24 +1,28 @@
 id = "01K67YM9D11WJXC0WCK3VPCJ03"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07984"
+
+[meta]
 bill_number = 7984
 congress = 18
-canonical = "HBN-07984"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7984", "https://web.senate.gov.ph/lisdata/3406330865!.pdf",]
 title = "MT. TAPULAO (PALAUIG, ZAMBALES)"
 long_title = "AN ACT DECLARING MT. TAPULAO LOCATED IN THE MUNICIPALITY OF PALAUIG, PROVINCE OF ZAMBALES, AN ECOTOURISM ZONE AND FOREST RESERVE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism (Ecotourism Zone/Ecotourism Site)", "Forest Reserve",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-12-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-12-09"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/9/2020"
+date = "2020-12-09"
 
 [[committees]]
 name = "Tourism"

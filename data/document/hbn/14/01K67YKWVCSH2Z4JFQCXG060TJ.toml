@@ -1,24 +1,28 @@
 id = "01K67YKWVCSH2Z4JFQCXG060TJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05864"
+
+[meta]
 bill_number = 5864
 congress = 14
-canonical = "HBN-05864"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5864", "https://web.senate.gov.ph/lisdata/106799534!.pdf",]
 title = "INTERNAL DISPLACEMENT ACT OF 2009"
 long_title = "AN ACT IMPROVING PHILIPPINE COMMITMENT TO HUMAN RIGHTS PROMOTION AND PROTECTION BY PROVIDING THE NECESSARY MECHANISMS FOR THE PREVENTION OF THE OCCURRENCE AND THE PROTECTION FROM ADVERSE EFFECTS OF INTERNAL DISPLACEMENT AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Internal Displacement Act", "Human Rights",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-11"
 action = "Filed in the Senate requesting for concurrence by Representatives ANA THERESIA 'RISA' B. HONTIVEROS-BARANQUEL, ISIDRO S. RODRIGUEZ JR., LORENZO R. TANADA III, JUNIE E. CUA, EDCEL C. LAGMAN, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Justice and Human Rights"

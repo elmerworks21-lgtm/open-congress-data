@@ -1,8 +1,11 @@
 id = "01K67YJD2QHD02Q3YS23TJCE9T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01232"
+
+[meta]
 bill_number = 1232
 congress = 16
-canonical = "SBN-01232"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1232", "https://web.senate.gov.ph/lisdata/1729914534!.pdf",]
 title = "NATIONAL FOOD AUTHORITY RATIONALIZATION ACT OF 2013"
 date_filed = "2013-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN AND REORIENT THE MANDATE OF THE NATIONAL FOOD
 scope = "National"
 subjects = [ "National Food Authority (NFA)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-06"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2013"
+date = "2013-08-28"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

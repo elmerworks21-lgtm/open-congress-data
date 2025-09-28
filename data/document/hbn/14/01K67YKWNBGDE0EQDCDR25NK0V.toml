@@ -1,24 +1,28 @@
 id = "01K67YKWNBGDE0EQDCDR25NK0V"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05296"
+
+[meta]
 bill_number = 5296
 congress = 14
-canonical = "HBN-05296"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5296", "https://web.senate.gov.ph/lisdata/94338543!.pdf",]
 title = "STO. NINO NATIONAL HIGH SCHOOL (DAVAO)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY STO. NINO, TUGBOK DISTRICT, CITY OF DAVAO TO BE KNOWN AS STO. NINO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-20"
 action = "Filed in the Senate requesting for concurrence by Representatives ISIDRO T. UNGAB, DEL R. DE GUZMAN and EDCEL C. LAGMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2008"
+date = "2008-11-25"
 
 [[committees]]
 name = "Education, Arts and Culture"

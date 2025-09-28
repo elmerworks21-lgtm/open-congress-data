@@ -1,24 +1,28 @@
 id = "01K67YMD43JGFFMHFYN38TM5QX"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06931"
+
+[meta]
 bill_number = 6931
 congress = 19
-canonical = "HBN-06931"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-6931", "https://web.senate.gov.ph/lisdata/4083437206!.pdf",]
 title = "SAN ROQUE PARISH CHURCH (CAVITE), A TOURISM DESTINATION"
 long_title = "AN ACT DECLARING THE IMMEDIATE ENVIRONS OF THE SAN ROQUE PARISH CHURCH, ALSO KNOWN AS THE DIOCESAN SHRINE OF NUESTRA SENORA DELA SOLEDAD DE PORTA VAGA, LOCATED IN THE CITY OF CAVITE, PROVINCE OF CAVITE, A TOURISM DESTINATION"
 scope = "Local"
 subjects = [ "Tourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-22"
 action = "Read on First Reading and Referred to the Committees on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/22/2023"
+date = "2023-02-22"
 
 [[committees]]
 name = "Tourism"

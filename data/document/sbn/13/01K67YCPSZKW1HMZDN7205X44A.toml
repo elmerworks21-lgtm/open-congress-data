@@ -1,8 +1,11 @@
 id = "01K67YCPSZKW1HMZDN7205X44A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02464"
+
+[meta]
 bill_number = 2464
 congress = 13
-canonical = "SBN-02464"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2464", "https://web.senate.gov.ph/lisdata/60145029!.pdf",]
 title = "LEMON LAW OF 2006"
 date_filed = "2006-09-13"
@@ -10,73 +13,74 @@ long_title = "AN ACT PROVIDING PROTECTION FOR BUYERS OF MOTOR VEHICLES, ENFORCIN
 scope = "National"
 subjects = [ "Lemon Car",]
 authors_raw = "Villar Jr., Manuel B., Pimentel Jr., Aquilino Q., Defensor Santiago, Miriam, Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-13"
 action = "Prepared and submitted by the Committee on TRADE AND COMMERCE with Senator(s) MANUEL B. VILLAR JR., AQUILINO Q. PIMENTEL JR., MIRIAM DEFENSOR SANTIAGO and MAR ROXAS as author(s) per Committee Report No. 102, recommending its approval in substitution of SBNos. 775, 1812, 2445 and SRN-104, taking into consideration HBN-5303;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-18"
 action = "Sponsor: Senator Roxas;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Sponsorship speech of Senator(s) Roxas;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Period of amendment closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Approved on Second Reading without amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-12"
 action = "Printed copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-19"
 action = "House of Representatives requested the Senate for a conference on the disagreeing provisions of SBN-2464 and HBN-5303, and has designated Representatives Puentevella, Cua, Zamora, Garin and Magtubo as its conferees on February 7, 2007;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-19"
 action = "Approved on Third Reading; In favor: (16) Senators Arroyo, Companera Pia S. Cayetano, Drilon, Jinggoy Ejercito Estrada, Luisa Loi Ejercito Estrada, Flavier, Richard Dick Gordon, Lacson, Manuel Lito M. Lapid, Lim, M.A. Madrigal, Magsaysay, Jr., Pimentel, Jr., Revilla, Jr., Roxas, and Villar; Against: N o n e; Abstention: N o n e;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-20"
 action = "Sent to the House of Representatives for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-04"
 action = "Senate accepted the request of the House of Representatives for a conference on the disagreeing provisions of SBN-2464 and HBN-5303, designating Senators Roxas, Companera Pia S. Cayetano and Lacson as its conferees;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-07"
 action = "Conference Committee Report submitted to the Senate recommending that SBN-2464 in consolidation with HBN-5303 be approved as reconciled;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-07"
 action = "Sponsorship speech of Senator Drilon on the Conference Committee Report;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-07"
 action = "Conference Committee Report approved by the Senate;"
 
 [[status]]
 status = "Pending Conference Committee"
-date = "2/19/2007"
+date = "2007-02-19"
 
 [[committees]]
 name = "Trade and Commerce"

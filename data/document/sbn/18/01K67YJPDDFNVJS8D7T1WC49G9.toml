@@ -1,8 +1,11 @@
 id = "01K67YJPDDFNVJS8D7T1WC49G9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00053"
+
+[meta]
 bill_number = 53
 congress = 18
-canonical = "SBN-00053"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-53", "https://web.senate.gov.ph/lisdata/3028427112!.pdf",]
 title = "EXPANDING THE CRIME OF ECONOMIC SABOTAGE"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE SCOPE OF THE CRIME OF ECONOMIC SABOTAGE AMEND
 scope = "National"
 subjects = [ "Economic Sabotage", "Pyramid Promotional Schemes", "Estafa", "Swindling",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Justice and Human Rights"

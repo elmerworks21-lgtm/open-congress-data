@@ -1,48 +1,52 @@
 id = "01K67YKZCHH0B4NAT9B05AK3HY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00187"
+
+[meta]
 bill_number = 187
 congress = 15
-canonical = "HBN-00187"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-187", "https://web.senate.gov.ph/lisdata/113019617!.pdf",]
 title = "BAYAWAN CITY LTO DISTRICT OFFICE"
 long_title = "AN ACT CONVERTING THE BAYAWAN CITY LAND TRANSPORTATION OFFICE (LTO) EXTENSION OFFICE INTO A REGULAR LTO DISTRICT OFFICE"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-06-04"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC SERVICES and FINANCE per Committee Report No. 165, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-06-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-06-04"
 action = "Sponsor: Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Transferred form the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Sponsorship speech of Senator RAMON A. REVILLA JR.;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/5/2013"
+date = "2013-02-05"
 
 [[committees]]
 name = "Public Services"

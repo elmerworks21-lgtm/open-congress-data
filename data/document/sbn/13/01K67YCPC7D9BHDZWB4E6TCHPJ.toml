@@ -1,8 +1,11 @@
 id = "01K67YCPC7D9BHDZWB4E6TCHPJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01783"
+
+[meta]
 bill_number = 1783
 congress = 13
-canonical = "SBN-01783"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1783", "https://web.senate.gov.ph/lisdata/30042567!.pdf",]
 title = "TAX EXEMPTION PRIVILEGES OF ELECTRIC COOPERATIVES"
 date_filed = "2004-09-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO RESTORE THE TAX EXEMPTION PRIVILEGES OF ELECTRIC COOPERA
 scope = "National"
 subjects = [ "Taxes (Tax Exemption Privileges)", "Electric Cooperatives (Tax Exemption)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-15"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on First Reading and referred to the Committee(s) on COOPERATIVES; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2004"
+date = "2004-09-22"
 
 [[committees]]
 name = "Cooperatives"

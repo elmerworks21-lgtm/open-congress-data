@@ -1,72 +1,76 @@
 id = "01K67YMD9WGDFA1GYZFAH7BVVK"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08210"
+
+[meta]
 bill_number = 8210
 congress = 19
-canonical = "HBN-08210"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-8210", "https://web.senate.gov.ph/lisdata/4381239807!.pdf",]
 title = "ARAL PROGRAM ACT"
 long_title = "AN ACT ESTABLISHING AN ACADEMIC RECOVERY AND ACCESSIBLE LEARNING PROGRAM AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Academic Recovery and Accessible Learning Program",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-19"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-30"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-30"
 action = "Senate designated Senators Gatchalian, Binay, Cayetano Pia, Tolentino and Hontiveros as conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-1604 and HBN-8210;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "House of Representatives designated Representatives Romulo, Go, Quimbo, Rama and Libanan as conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-1604 and HBN-8210 on May 20, 2024;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "Conference Committee Report on the disagreeing provisions of SBN-1604 and HBN-8210, submitted to the Senate, recommending that SBN-1604, in consolidation with HBN-8210, be approved in accordance with the attached copy of the bill as reconciled and approved by the conferees;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "Sponsorship speech of Senator WIN GATCHALIAN on the conference committee report;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-13"
 action = "Conference Committee Report Approved by the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-09"
 action = "Conference Committee Report Approved by the House of Representatives on August 13, 2024;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-12"
 action = "Letter for Senate Secretary Renato N. Bantug Jr., dated September 9, 2024, returning eight (8) enrolled copies of the consolidated version of SBN-1604 and HBN-8210, which were signed by Speaker Ferdinand Martin G. Romualdez and Secretary General Reginald S. Velasco;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-04"
 action = "Letter from Senate Secretary Renato N. Bantug Jr., dated September 3, 2024, transmitting nine (9) enrolled copies of the consolidated version of SBN-1604 and HBN-8210, for the signature of Speaker Ferdinand Martin G. Romualdez and Secretary General Reginald S. Velasco;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Enrolled copies of the consolidated version of SBN-1604 and HBN-8210, sent to the Office of the President for the signature of the President of the Philippines, His Excellency, President Ferdinand Romualdez Marcos Jr.;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-28"
 action = "Consolidated with SBN-1604, which was approved and signed into law by the President of the Philippines, His Excellency, President Ferdinand Romualdez Marcos Jr. on October 16, 2024 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-28"
 action = "REPUBLIC ACT NO. 12028."
 
-[[legislative_history]]
+[[history]]
 date = "2024-11-27"
 action = "Transmitted to the Legislative Record and Archives Service for safekeeping and preservation."
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "10/16/2024"
+date = "2024-10-16"
 
 [[committees]]
 name = "Rules"

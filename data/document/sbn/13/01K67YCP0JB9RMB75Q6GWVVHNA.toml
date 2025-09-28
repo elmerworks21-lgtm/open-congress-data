@@ -1,8 +1,11 @@
 id = "01K67YCP0JB9RMB75Q6GWVVHNA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01144"
+
+[meta]
 bill_number = 1144
 congress = 13
-canonical = "SBN-01144"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1144", "https://web.senate.gov.ph/lisdata/23501645!.pdf",]
 title = "MAGNA CARTA FOR PHILIPPINE BUSINESS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE RIGHTS AND DUTIES OF ENTREPRENEURS, THE COMMIT
 scope = "National"
 subjects = [ "Magna Carta for Philippine Business",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; ECONOMIC AFFAIRS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Trade and Commerce"

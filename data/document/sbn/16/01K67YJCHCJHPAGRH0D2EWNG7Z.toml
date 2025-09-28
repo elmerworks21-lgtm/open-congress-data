@@ -1,8 +1,11 @@
 id = "01K67YJCHCJHPAGRH0D2EWNG7Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00395"
+
+[meta]
 bill_number = 395
 congress = 16
-canonical = "SBN-00395"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-395", "https://web.senate.gov.ph/lisdata/1625713486!.pdf",]
 title = "BPA IN BABY PRODUCTS PROHIBITION ACT"
 date_filed = "2013-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE SALE OF BABY FOOD PRODUCTS WITH BPA AND PRO
 scope = "National"
 subjects = [ "Bisphenol A", "Baby Food Products",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

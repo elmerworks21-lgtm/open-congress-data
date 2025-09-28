@@ -1,8 +1,11 @@
 id = "01K67YJCXZVAJDQKB6MF937KTS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01002"
+
+[meta]
 bill_number = 1002
 congress = 16
-canonical = "SBN-01002"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1002", "https://web.senate.gov.ph/lisdata/1699614324!.pdf",]
 title = "NATIONAL RESEACH, DEVELOPMENT AND EXTENSION CENTER FOR PINEAPPLE (NRDECP)"
 date_filed = "2013-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH THE NATIONAL RESEARCH, DEVELOPMENT AND EXTENSI
 scope = "National"
 subjects = [ "Pineapple",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-22"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; TRADE AND COMMERCE; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Agriculture and Food"

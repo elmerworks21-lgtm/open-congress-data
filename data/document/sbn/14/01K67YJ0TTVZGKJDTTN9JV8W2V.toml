@@ -1,8 +1,11 @@
 id = "01K67YJ0TTVZGKJDTTN9JV8W2V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00153"
+
+[meta]
 bill_number = 153
 congress = 14
-canonical = "SBN-00153"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-153", "https://web.senate.gov.ph/lisdata/42523640!.pdf",]
 title = "PHILIPPINE GOAT AND SHEEP ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE PHILIPPINE GOAT AND SHEEP CENTER"
 scope = "National"
 subjects = [ "Philippine Goat and Sheep Center",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2007"
+date = "2007-07-31"
 
 [[committees]]
 name = "Agriculture and Food"

@@ -1,8 +1,11 @@
 id = "01K67YJJE2G2RHPJX7H76CHSB9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01713"
+
+[meta]
 bill_number = 1713
 congress = 17
-canonical = "SBN-01713"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1713", "https://web.senate.gov.ph/lisdata/2744223676!.pdf",]
 title = "VALUE FOR MONEY PROCUREMENT ACT"
 date_filed = "2018-02-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A VALUE FOR MONEY PROCUREMENT, AMENDING FOR T
 scope = "National"
 subjects = [ "Government Procurement",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2018-02-27"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-02-28"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/28/2018"
+date = "2018-02-28"
 
 [[committees]]
 name = "Finance"

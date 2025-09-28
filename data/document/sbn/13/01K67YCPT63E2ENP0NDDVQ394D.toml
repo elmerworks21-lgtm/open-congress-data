@@ -1,8 +1,11 @@
 id = "01K67YCPT63E2ENP0NDDVQ394D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02473"
+
+[meta]
 bill_number = 2473
 congress = 13
-canonical = "SBN-02473"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2473", "https://web.senate.gov.ph/lisdata/60595041!.pdf",]
 title = "BLINDNESS PREVENTION ACT OF 2006"
 date_filed = "2006-09-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE ENABLING MECHANISMS FOR THE PREVENTION OF
 scope = "National"
 subjects = [ "Blindness Prevention", "Sight/Visual Impairedness Prevention",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2006-09-25"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-26"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/26/2006"
+date = "2006-09-26"
 
 [[committees]]
 name = "Health and Demography"

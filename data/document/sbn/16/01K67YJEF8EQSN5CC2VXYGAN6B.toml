@@ -1,8 +1,11 @@
 id = "01K67YJEF8EQSN5CC2VXYGAN6B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03015"
+
+[meta]
 bill_number = 3015
 congress = 16
-canonical = "SBN-03015"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3015", "https://web.senate.gov.ph/lisdata/2259919309!.pdf",]
 title = "OLD-AGE PENSION OF MILITARY VETERANS"
 date_filed = "2015-11-24"
@@ -10,15 +13,16 @@ long_title = "AN ACT TO INCREASE THE OLD-AGE PENSION OF MILITARY VETERANS AMENDI
 scope = "National"
 subjects = [ "Pension", "Veterans",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2015-11-24"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-24"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "11/24/2015"
+date = "2015-11-24"
 

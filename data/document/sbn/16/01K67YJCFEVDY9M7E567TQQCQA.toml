@@ -1,8 +1,11 @@
 id = "01K67YJCFEVDY9M7E567TQQCQA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00299"
+
+[meta]
 bill_number = 299
 congress = 16
-canonical = "SBN-00299"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-299", "https://web.senate.gov.ph/lisdata/1617913406!.pdf",]
 title = "RIVER DEVELOPMENT AUTHORITY"
 date_filed = "2013-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING EACH CITY OR MUNICIPALITY TO CREATE A RIVER DEVEL
 scope = "National"
 subjects = [ "Rivers and Waterways",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-02"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "Environment and Natural Resources"

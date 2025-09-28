@@ -1,8 +1,11 @@
 id = "01K67YJ97818CKGEY6JF8D75A7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02834"
+
+[meta]
 bill_number = 2834
 congress = 15
-canonical = "SBN-02834"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2834", "https://web.senate.gov.ph/lisdata/112749583!.pdf",]
 title = "ACCELERATED RETIREMENT OF INEFFICIENT VEHICLES ACT"
 date_filed = "2011-05-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ACCELERATE MOTOR FUEL SAVINGS NATIONWIDE AND PROVIDE INC
 scope = "National"
 subjects = [ "Motor Vehicles",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-19"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-23"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2011"
+date = "2011-05-23"
 
 [[committees]]
 name = "Energy"

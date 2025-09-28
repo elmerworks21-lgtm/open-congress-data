@@ -1,8 +1,11 @@
 id = "01K67YJCN0HR4FB7RHSR4ECGCW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00568"
+
+[meta]
 bill_number = 568
 congress = 16
-canonical = "SBN-00568"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-568", "https://web.senate.gov.ph/lisdata/1650213743!.pdf",]
 title = "DEATH OR PHYSICAL INJURIES INFLICTED UNDER EXCEPTIONAL CIRCUMSTANCES"
 date_filed = "2013-07-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT REPEALING ARTICLE 247 OF ACT NO. 3815, ALSO KNOWN AS THE PE
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-11"
 action = "Change of Committee Referral from the Committee on Constitutional Amendments, Revision of Codes and Laws to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2013"
+date = "2013-08-06"
 
 [[committees]]
 name = "Justice and Human Rights"

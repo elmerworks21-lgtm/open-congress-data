@@ -1,8 +1,11 @@
 id = "01K67YJ7K78T22CJDDAT9F4VGN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00579"
+
+[meta]
 bill_number = 579
 congress = 15
-canonical = "SBN-00579"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-579", "https://web.senate.gov.ph/lisdata/79906471!.pdf",]
 title = "ANTI-OBSCENITY ACT OF 2010"
 date_filed = "2010-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROHIBITING THE DEMONSTRATION, PERFORMANCE OR EXHIBITION IN
 scope = "National"
 subjects = [ "Anti-Obscenity", "Anti-Smut Campaign",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-07"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-09"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and PUBLIC INFORMATION AND MASS MEDIA;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2010"
+date = "2010-08-09"
 
 [[committees]]
 name = "Justice and Human Rights"

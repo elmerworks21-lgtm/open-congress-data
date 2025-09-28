@@ -1,24 +1,28 @@
 id = "01K67YM6AK84WC1C4V6YKZQRZ2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07291"
+
+[meta]
 bill_number = 7291
 congress = 17
-canonical = "HBN-07291"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7291", "https://web.senate.gov.ph/lisdata/2763723899!.pdf",]
 title = "IMMACULATE CONCEPTION PARISH CHURCH (PILGRIMAGE SITE AND TOURIST DESTINATION)"
 long_title = "AN ACT DECLARING IMMACULATE CONCEPTION PARISH CHURCH, SANCTUARY OF THE HOLY FACE OF JESUS, IN THE MUNICIPALITY OF NAMPICUAN, PROVINCE OF NUEVA ECIJA A PILGRIMAGE SITE AND TOURIST DESTINATION, PROVIDING FOR ITS DEVELOPMENT AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Pilgrimage Site", "Tourist Spot",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-03-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/20/2018"
+date = "2018-03-20"
 
 [[committees]]
 name = "Tourism"

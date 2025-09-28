@@ -1,8 +1,11 @@
 id = "01K67YJV8MBAGM6545QN7J5ME6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00577"
+
+[meta]
 bill_number = 577
 congress = 19
-canonical = "SBN-00577"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-577", "https://web.senate.gov.ph/lisdata/3835634807!.pdf",]
 title = "PHILIPPINE EXTRACTIVE INDUSTRIES TRANSPARENCY INITIATIVE ACT"
 date_filed = "2022-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CREATION OF THE PHILIPPINE EXTRACTIVE IND
 scope = "National"
 subjects = [ "Extractive Industries",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-14"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2022"
+date = "2022-08-17"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

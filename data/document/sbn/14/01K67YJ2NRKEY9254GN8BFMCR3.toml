@@ -1,8 +1,11 @@
 id = "01K67YJ2NRKEY9254GN8BFMCR3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02574"
+
+[meta]
 bill_number = 2574
 congress = 14
-canonical = "SBN-02574"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2574", "https://web.senate.gov.ph/lisdata/81977398!.pdf",]
 title = "AGRO-LIVESTOCK AND ECO-TOURISM PARK (ZAMBOANGA SIBUGAY)"
 date_filed = "2008-08-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE AGRO-LIVESTOCK AND ECO-TOURISM PARK LOCATED I
 scope = "Local"
 subjects = [ "Tourist Spot (Eco-Tourism Park)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-28"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-01"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2008"
+date = "2008-09-01"
 
 [[committees]]
 name = "Rules"

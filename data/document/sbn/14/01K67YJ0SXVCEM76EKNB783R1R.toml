@@ -1,8 +1,11 @@
 id = "01K67YJ0SXVCEM76EKNB783R1R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00115"
+
+[meta]
 bill_number = 115
 congress = 14
-canonical = "SBN-00115"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-115", "https://web.senate.gov.ph/lisdata/41953597!.pdf",]
 title = "MANDATORY GOOD CONDUCT ALLOWANCE TO PRISONERS"
 date_filed = "2007-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT GRANTING MANDATORY GOOD CONDUCT ALLOWANCE TO PRISONERS WHO 
 scope = "National"
 subjects = [ "Prisoner (Allowance for Good Conduct)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator AQUILINO Q. PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-30"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-26"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 4, recommending that it be substituted by SBN-1647;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-26"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-26"
 action = "SUBSTITUTED BY SBN-1647."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/26/2007"
+date = "2007-09-26"
 
 [[committees]]
 name = "Justice and Human Rights"

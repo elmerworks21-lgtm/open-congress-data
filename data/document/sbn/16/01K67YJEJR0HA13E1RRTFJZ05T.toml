@@ -1,8 +1,11 @@
 id = "01K67YJEJR0HA13E1RRTFJZ05T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03187"
+
+[meta]
 bill_number = 3187
 congress = 16
-canonical = "SBN-03187"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3187", "https://web.senate.gov.ph/lisdata/2311619855!.pdf",]
 title = "AMENDING P.D. NO. 1146, THE REVISED GOVERNMENT SERVICE INSURANCE SYSTEM ACT OF 1977"
 date_filed = "2016-02-01"
@@ -10,19 +13,20 @@ long_title = "AN ACT PROVIDING FOR THE WAIVER OF THE RETIREMENT AGE REQUIREMENT 
 scope = "National"
 subjects = [ "Retirement Age", "Government Employees", "Government Service Insurance System (GSIS)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-02-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Motion of the Majority Leader, Senator Alan Peter Compañero S. Cayetano, that the matters appearing in the Reference of Business for todays session be deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "5/30/2016"
+date = "2016-05-30"
 

@@ -1,8 +1,11 @@
 id = "01K67YJVD8Z1AXPZ3765KRZZB3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00791"
+
+[meta]
 bill_number = 791
 congress = 19
-canonical = "SBN-00791"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-791", "https://web.senate.gov.ph/lisdata/3860735061!.pdf",]
 title = "DISASTER RESILIENCE ACT"
 date_filed = "2022-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING IT
 scope = "National"
 subjects = [ "Disaster Resilience", "Department of Disaster Resilience",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

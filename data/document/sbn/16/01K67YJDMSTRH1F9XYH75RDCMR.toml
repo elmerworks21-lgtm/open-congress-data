@@ -1,8 +1,11 @@
 id = "01K67YJDMSTRH1F9XYH75RDCMR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02111"
+
+[meta]
 bill_number = 2111
 congress = 16
-canonical = "SBN-02111"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2111", "https://web.senate.gov.ph/lisdata/1868215809!.pdf",]
 title = "GSIS MEMBERS' CHANGE OF STATUS RATIONALIZATION (FROM ACTIVE TO SPECIAL)"
 date_filed = "2014-02-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING THE CHANGE OF STATUS OF A MEMBER OF THE GOVER
 scope = "National"
 subjects = [ "Government Service Insurance System (GSIS)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2014-02-10"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-11"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/11/2014"
+date = "2014-02-11"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

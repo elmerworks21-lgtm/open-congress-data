@@ -1,8 +1,11 @@
 id = "01K67YK00QEJZVRG1XX38F4AJ9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00362"
+
+[meta]
 bill_number = 362
 congress = 20
-canonical = "SBN-00362"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-362", "https://web.senate.gov.ph/lisdata/4685342860!.pdf",]
 title = "TEACHER SALARY INCREASE ACT"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A TWENTY THOUSAND PESO ACROSS-THE-BOARD INCRE
 scope = "National"
 subjects = [ "Teachers", "Wage Increase/Salary Increase",]
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-12"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; BASIC EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2025"
+date = "2025-08-12"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

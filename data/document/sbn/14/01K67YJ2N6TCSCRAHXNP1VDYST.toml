@@ -1,8 +1,11 @@
 id = "01K67YJ2N6TCSCRAHXNP1VDYST"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02547"
+
+[meta]
 bill_number = 2547
 congress = 14
-canonical = "SBN-02547"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2547", "https://web.senate.gov.ph/lisdata/81067346!.pdf",]
 title = "VAT EXEMPTION ON SALE OF ELECTRICITY TO RESIDENTIAL CONSUMERS"
 date_filed = "2008-08-19"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXEMPTING THE SALE OF ELECTRICITY TO RESIDENTIAL CONSUMERS 
 scope = "National"
 subjects = [ "Value-Added Tax (VAT Exemption)", "Electricity",]
 authors_raw = "Enrile, Juan Ponce"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-19"
 action = "Introduced by Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS and ENERGY;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2008"
+date = "2008-08-19"
 
 [[committees]]
 name = "Ways and Means"

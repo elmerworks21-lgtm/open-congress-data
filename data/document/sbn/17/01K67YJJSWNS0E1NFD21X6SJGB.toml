@@ -1,8 +1,11 @@
 id = "01K67YJJSWNS0E1NFD21X6SJGB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02164"
+
+[meta]
 bill_number = 2164
 congress = 17
-canonical = "SBN-02164"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2164", "https://web.senate.gov.ph/lisdata/2935425961!.pdf",]
 title = "AMENDING R.A NO. 6977 (THE MAGNA CARTA FOR MICRO, SMALL AND MEDIUM ENTERPRISES)"
 date_filed = "2019-01-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER PROMOTING ENTREPRENEURSHIP BY STRENGTHENING, EMPOWE
 scope = "National"
 subjects = [ "Micro, Small and Medium Enterprises",]
 authors_raw = "Pimentel, Aquilino Koko III L."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-21"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-22"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; ECONOMIC AFFAIRS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/22/2019"
+date = "2019-01-22"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

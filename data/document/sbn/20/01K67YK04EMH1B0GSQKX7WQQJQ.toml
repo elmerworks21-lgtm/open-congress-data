@@ -1,8 +1,11 @@
 id = "01K67YK04EMH1B0GSQKX7WQQJQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00562"
+
+[meta]
 bill_number = 562
 congress = 20
-canonical = "SBN-00562"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-562", "https://web.senate.gov.ph/lisdata/4712143121!.pdf",]
 title = "GENDER RESPONSIVE AND INCLUSIVE EMERGENCY MANAGEMENT ACT OF 2025"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENSURE GENDER-RESPONSIVE AND INCLUSIVE PROTOCOLS AND PRO
 scope = "National"
 subjects = [ "Gender Responsive and Inclusive Pandemic and Disaster Management",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

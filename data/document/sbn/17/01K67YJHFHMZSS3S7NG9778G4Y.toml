@@ -1,8 +1,11 @@
 id = "01K67YJHFHMZSS3S7NG9778G4Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00460"
+
+[meta]
 bill_number = 460
 congress = 17
-canonical = "SBN-00460"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-460", "https://web.senate.gov.ph/lisdata/2389720524!.pdf",]
 title = "ELECTRIC, HYBRID AND OTHER FUEL VEHICLES INCENTIVES ACT OF 2016"
 date_filed = "2016-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING INCENTIVES FOR THE MANUFACTURE, ASSEMBLY, CONVERS
 scope = "National"
 subjects = [ "E-Vehicle (Electronic Vehicles)", "Hybrid Cars", "Motor Vehicles",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Ways and Means"

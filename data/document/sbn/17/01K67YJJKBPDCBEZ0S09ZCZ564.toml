@@ -1,8 +1,11 @@
 id = "01K67YJJKBPDCBEZ0S09ZCZ564"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01937"
+
+[meta]
 bill_number = 1937
 congress = 17
-canonical = "SBN-01937"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1937", "https://web.senate.gov.ph/lisdata/2835724705!.pdf",]
 title = "INCREASING THE PENALTIES FOR THE DETENTION OF PATIENTS AND CADAVERS IN HOSPITALS"
 date_filed = "2018-08-15"
@@ -10,21 +13,22 @@ long_title = "AN ACT INCREASING THE PENALTIES FOR THE DETENTION OF PATIENTS AND 
 scope = "National"
 subjects = [ "Hospitals (Hospital Deposits/Hospital Bills/Expenses)", "Patients", "Cadavers/Deceased Persons",]
 authors_raw = "Hontiveros, Risa, Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-15"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-12"
 action = "Letter from Senator JOSEPH VICTOR G. EJERCITO dated August 29, 2018, conveying his intention to be made coauthor of SBN-1937, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2018"
+date = "2018-08-15"
 
 [[committees]]
 name = "Health and Demography"

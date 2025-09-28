@@ -1,8 +1,11 @@
 id = "01K67YJVQQ153WBGYMAEY8EF5T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01250"
+
+[meta]
 bill_number = 1250
 congress = 19
-canonical = "SBN-01250"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1250", "https://web.senate.gov.ph/lisdata/3926435699!.pdf",]
 title = "ONLINE TRANSACTIONS ACT"
 date_filed = "2022-08-31"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROMOTING ONLINE TRANSACTIONS, SAFEGUARDING THE RIGHTS OF C
 scope = "National"
 subjects = [ "Online Transactions", "Consumer Bill of Rights",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-31"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-10-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-06"
 action = "Returned and submitted jointly by the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP, WAYS AND MEANS and FINANCE per Committee Report No. 22, recommending that it be substituted by SBN-1846;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "SUBSTITUTED BY SBN-1846 UNDER COMMITTEE REPORT NO. 22, WHICH BECAME RA NO. 11967 ON DECEMBER 5, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/7/2023"
+date = "2023-02-07"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,24 +1,28 @@
 id = "01K67YKR4VFXPR1DQQSQHTHTHF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05112"
+
+[meta]
 bill_number = 5112
 congress = 13
-canonical = "HBN-05112"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5112", "https://web.senate.gov.ph/lisdata/52094229!.pdf",]
 title = "MAMBUSAO NATIONAL HIGH SCHOOL (CAPIZ)"
 long_title = "AN ACT SEPARATING THE DAVID MOISES MEMORIAL HIGH SCHOOL ANNEX IN BARANGAY TUMALALUD, MUNICIPALITY OF MAMBUSAO, PROVINCE OF CAPIZ FROM THE DAVID MOISES MEMORIAL HIGH SCHOOL IN BARANGAY BALIT, MUNICIPALITY OF MAMBUSAO, PROVINCE OF CAPIZ, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MAMBUSAO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Capiz)", "Mambusao National High School (Capiz)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-25"
 action = "Filed in the Senate requesting for concurrence by Representatives FRED H. CASTRO, EDMUNDO O. REYES, JR., JOSE CARLOS V. LACSON, and ROLANDO G. ANDAYA, JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-23"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2006"
+date = "2006-05-23"
 
 [[committees]]
 name = "Education, Arts and Culture"

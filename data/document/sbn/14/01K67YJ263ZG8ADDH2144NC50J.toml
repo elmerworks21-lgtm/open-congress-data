@@ -1,8 +1,11 @@
 id = "01K67YJ263ZG8ADDH2144NC50J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01903"
+
+[meta]
 bill_number = 1903
 congress = 14
-canonical = "SBN-01903"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1903", "https://web.senate.gov.ph/lisdata/64795754!.pdf",]
 title = "UNIVERSITY OF THE PHILIPPINES CHARTER OF 2007"
 date_filed = "2007-11-26"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO STRENGTHEN THE UNIVERSITY OF THE PHILIPPINES AS THE NATI
 scope = "National"
 subjects = [ "University of the Philippines Charter (U.P. Charter)",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-11-26"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-26"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-17"
 action = "Returned and submitted jointly by the Committee(s) on EDUCATION, ARTS AND CULTURE, FINANCE and WAYS AND MEANS per Committee Report No. 24, recommending that it be substituted by SBN-1964;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-17"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-17"
 action = "SUBSTITUTED BY SBN-1964, WHICH BECAME R.A.No. 9500."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/17/2007"
+date = "2007-12-17"
 
 [[committees]]
 name = "Education, Arts and Culture"

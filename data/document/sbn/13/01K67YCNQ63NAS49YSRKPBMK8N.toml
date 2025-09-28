@@ -1,8 +1,11 @@
 id = "01K67YCNQ63NAS49YSRKPBMK8N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00633"
+
+[meta]
 bill_number = 633
 congress = 13
-canonical = "SBN-00633"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-633", "https://web.senate.gov.ph/lisdata/18191194!.pdf",]
 title = "OVERSEAS FILIPNO WORKERS BENEFITS AND SPECIAL PRIVILEGES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO RECOGNIZE AND REWARD THE CONTRIBUTION OF OVERSEAS FILIPI
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFWs", "Benefits",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-16"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; FOREIGN RELATIONS; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2004"
+date = "2004-08-16"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

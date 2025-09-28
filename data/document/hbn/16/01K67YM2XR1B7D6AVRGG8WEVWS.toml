@@ -1,28 +1,32 @@
 id = "01K67YM2XR1B7D6AVRGG8WEVWS"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04985"
+
+[meta]
 bill_number = 4985
 congress = 16
-canonical = "HBN-04985"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4985", "https://web.senate.gov.ph/lisdata/2004417160!.pdf",]
 title = "OVERSEAS WORKERS CREDIT ASSISTANCE ACT"
 long_title = "AN ACT ESTABLISHING A CREDIT ASSISTANCE PROGRAM FOR OVERSEAS FILIPINO WORKERS"
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-11-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-11-18"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-01-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/18/2014"
+date = "2014-11-18"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

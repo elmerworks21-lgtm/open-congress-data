@@ -1,24 +1,28 @@
 id = "01K67YKQQWF1G9T863K4J53V1H"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-01418"
+
+[meta]
 bill_number = 1418
 congress = 13
-canonical = "HBN-01418"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-1418", "https://web.senate.gov.ph/lisdata/58024826!.pdf",]
 title = "EMPLOYEES COMPENSATION AND STATE INSURANCE FUND"
 long_title = "AN ACT EXPANDING THE COVERAGE OF THE EMPLOYEES COMPENSATION AND STATE INSURANCE FUND TO INCLUDE RETIRED EMPLOYEES AGED SEVENTY (70) AND BELOW WHO SUBSEQUENTLY REACQUIRED EMPLOYMENT, AMENDING FOR THE PURPOSE THE LABOR CODE OF THE PHILIPPINES, AS AMENDED"
 scope = "National"
 subjects = [ "Employees Compensation/State Insurance Fund", "Labor Code of the Philippines (Pd 442)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-08-14"
 action = "Filed in the Senate requesting for concurrence by Representatives ROSELLER L. BARINAGA, CARMEN L. CARI, EUFROCINO M. CODILLA SR., HUSSIN U. AMIN and EULOGIO 'AMANG' R. MAGSAYSAY, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-15"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2006"
+date = "2006-08-15"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

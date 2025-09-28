@@ -1,8 +1,11 @@
 id = "01K67YCPYZ96VHZW4V91VW41XW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02676"
+
+[meta]
 bill_number = 2676
 congress = 13
-canonical = "SBN-02676"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2676", "https://web.senate.gov.ph/lisdata/72375830!.pdf",]
 title = "COMMUNITY HEALTH WORKERS ACT"
 date_filed = "2007-06-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING GRANTS TO COMMUNITY HEALTH WORKERS IN ORDER TO PR
 scope = "National"
 subjects = [ "Community Health Workers",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-06"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-06"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/6/2007"
+date = "2007-06-06"
 
 [[committees]]
 name = "Health and Demography"

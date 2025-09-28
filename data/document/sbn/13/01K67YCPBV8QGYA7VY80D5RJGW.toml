@@ -1,8 +1,11 @@
 id = "01K67YCPBV8QGYA7VY80D5RJGW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01763"
+
+[meta]
 bill_number = 1763
 congress = 13
-canonical = "SBN-01763"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1763", "https://web.senate.gov.ph/lisdata/29812547!.pdf",]
 title = "GENETICALLY-MODIFIED ORGANISMS FOOD PRODUCTS LABELING"
 date_filed = "2004-09-09"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE MANDATORY LABELING OF FOOD AND PRODUCTS CONTA
 scope = "National"
 subjects = [ "Food/Food Products Labeling (GMO)", "Genetically-Modified Organisms (GMO)", "Consumer`S Act (R.A. 7494; Amendments)",]
 authors_raw = "Madrigal, M. A."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-09"
 action = "Introduced by Senator M.A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2004"
+date = "2004-09-22"
 
 [[committees]]
 name = "Trade and Commerce"

@@ -1,8 +1,11 @@
 id = "01K67YCNNJW16STD0DHXNART8W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00539"
+
+[meta]
 bill_number = 539
 congress = 13
-canonical = "SBN-00539"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-539", "https://web.senate.gov.ph/lisdata/16961034!.pdf",]
 title = "DIGITAL EDUCATION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR DIGITAL EDUCATION PARTNERSHIPS"
 scope = "National"
 subjects = [ "Digital Education Partnerships", "Ready-To-Learn Television Programming",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; PUBLIC INFORMATION AND MASS MEDIA; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Education, Arts and Culture"

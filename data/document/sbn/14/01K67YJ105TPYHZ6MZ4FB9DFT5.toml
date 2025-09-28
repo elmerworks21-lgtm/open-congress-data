@@ -1,8 +1,11 @@
 id = "01K67YJ105TPYHZ6MZ4FB9DFT5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00395"
+
+[meta]
 bill_number = 395
 congress = 14
-canonical = "SBN-00395"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-395", "https://web.senate.gov.ph/lisdata/45683916!.pdf",]
 title = "COMPLIANCE TO THE WRIT OF HABEAS CORPUS ACT OF 2007"
 date_filed = "2007-07-02"
@@ -10,29 +13,30 @@ long_title = "AN ACT PENALIZING DISOBEDIENCE TO THE WRIT OF HABEAS CORPUS AND OT
 scope = "National"
 subjects = [ "Writ of Habeas Corpus",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-13"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-17"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 235, recommending that it be substituted by SBN-2973;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-17"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-17"
 action = "SUBSTITUTED BY SBN-2973."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/17/2008"
+date = "2008-12-17"
 
 [[committees]]
 name = "Justice and Human Rights"

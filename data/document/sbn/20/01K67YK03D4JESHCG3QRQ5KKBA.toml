@@ -1,8 +1,11 @@
 id = "01K67YK03D4JESHCG3QRQ5KKBA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00507"
+
+[meta]
 bill_number = 507
 congress = 20
-canonical = "SBN-00507"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-507", "https://web.senate.gov.ph/lisdata/4705643058!.pdf",]
 title = "CREATION OF ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURTS IN AURORA, PROVINCE OF ISABELA"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AN ADDITIONAL BRANCH IN THE SECOND JUDICIAL REGION
 scope = "National"
 subjects = [ "Judiciary Reorganization Act (Batas Pambansa Blg. 129)", "Courts (Rtc/Mtc, Additional Branch)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Justice and Human Rights"

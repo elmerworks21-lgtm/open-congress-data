@@ -1,24 +1,28 @@
 id = "01K67YM386SHX1CFAM8BW7EM54"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06196"
+
+[meta]
 bill_number = 6196
 congress = 16
-canonical = "HBN-06196"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-6196", "https://web.senate.gov.ph/lisdata/2246819175!.pdf",]
 title = "KALANGUYA INDIGENOUS PEOPLE"
 long_title = "AN ACT ESTABLISHING THE KALANGUYA CENTER FOR THE 6TH DISTRICT OF PANGASINAN, 1ST DISTRICT OF NUEVA ECIJA, AND THE PROVINCES OF IFUGAO, BENGUET, AND NUEVA VIZCAYA, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Indigenous Cultural Communities",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-10-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-04"
 action = "Read on First Reading and Referred to the Committee(s) on CULTURAL COMMUNITIES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/4/2015"
+date = "2015-11-04"
 
 [[committees]]
 name = "Cultural Communities"

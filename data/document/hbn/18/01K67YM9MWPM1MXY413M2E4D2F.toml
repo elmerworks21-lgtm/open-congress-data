@@ -1,24 +1,28 @@
 id = "01K67YM9MWPM1MXY413M2E4D2F"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09070"
+
+[meta]
 bill_number = 9070
 congress = 18
-canonical = "HBN-09070"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9070", "https://web.senate.gov.ph/lisdata/3519432064!.pdf",]
 title = "SATELLITE-BASED TECHNOLOGIES PROMOTION ACT"
 long_title = "AN ACT DEREGULATING SATELLITE-BASED TECHNOLOGIES, MANDATING RELEVANT AGENCIES TO PROMOTE THE DEVELOPMENT OF SATELLITE-BASED TECHNOLOGIES DEDICATED TO EDUCATION AND OTHER CIVIC CAUSES"
 scope = "National"
 subjects = [ "Satellite-Based Technologies",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-06-03"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and SCIENCE AND TECHNOLOGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/3/2021"
+date = "2021-06-03"
 
 [[committees]]
 name = "Public Services"

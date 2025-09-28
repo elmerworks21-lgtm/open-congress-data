@@ -1,8 +1,11 @@
 id = "01K67YCP4CJ1QCXD1Q58KDM432"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01350"
+
+[meta]
 bill_number = 1350
 congress = 13
-canonical = "SBN-01350"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1350", "https://web.senate.gov.ph/lisdata/25391929!.pdf",]
 title = "LIMITING DIRECT GOVERNMENT GUARANTEES"
 date_filed = "2004-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED SIX THOUSAND NINE HUNDRED FI
 scope = "National"
 subjects = [ "Direct Government Guarantees", "R.A.No. 6957 (Build-Operate-Transfer Law", "Infrastructure Projects/B.O.T. Law",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Seantor RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC WORKS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Public Works"

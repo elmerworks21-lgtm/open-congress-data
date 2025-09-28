@@ -1,8 +1,11 @@
 id = "01K67YJJNG0PETXX51P7KJN954"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02015"
+
+[meta]
 bill_number = 2015
 congress = 17
-canonical = "SBN-02015"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2015", "https://web.senate.gov.ph/lisdata/2865525106!.pdf",]
 title = "BARANGAY INTEGRATED DEVELOPMENT APPROACH FOR NUTRITION IMPROVEMENT (BIDANI) ACT"
 date_filed = "2018-09-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE BARANGAY INTEGRATED DEVELOPMENT APPROACH F
 scope = "National"
 subjects = [ "Bidani (Barangay Integrated Development Approach for Nutrition Improvement)", "State Colleges and Universities (SCUS)",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2018-09-19"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-19"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/19/2018"
+date = "2018-09-19"
 
 [[committees]]
 name = "Health and Demography"

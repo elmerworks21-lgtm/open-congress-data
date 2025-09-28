@@ -1,8 +1,11 @@
 id = "01K67YJV86EAJXHAPWQVDKABT7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00557"
+
+[meta]
 bill_number = 557
 congress = 19
-canonical = "SBN-00557"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-557", "https://web.senate.gov.ph/lisdata/3833434785!.pdf",]
 title = "THE ANTI-PROSTITUTION ACT"
 date_filed = "2022-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT ADDRESSING THE SYSTEM OF PROSTITUTION, IMPOSING PENALTIES O
 scope = "National"
 subjects = [ "Prostitution", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2022"
+date = "2022-08-17"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,84 +1,88 @@
 id = "01K67YM8WZF05PPGJDAD8Q2Q06"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-01026"
+
+[meta]
 bill_number = 1026
 congress = 18
-canonical = "HBN-01026"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-1026", "https://web.senate.gov.ph/lisdata/3132228233!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE (AMENDMENTS)"
 long_title = "AN ACT AMENDING SECTIONS 141, 142, 143, 144, 147, 150, 152, 263, 265, AND 288-A, AND ADDING A NEW SECTION 290-A TO REPUBLIC ACT NO. 8424, AS AMENDED, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997"
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Alcoholic Beverages", "Taxes (Excise Tax)", "Taxes/Taxation", "Taxes (Ad Valorem Tax)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-27"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-05"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-25"
 action = "Returned by the Committee on WAYS AND MEANS per Committee Report No. 6, recommending that it be considered in SBN-1074;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-25"
 action = "CONSIDERED IN SBN-1074 UNDER COMMITTEE REPORT NO. 6."
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-16"
 action = "Senate requested the House of Representatives for a conference on the disagreeing provisions of SBN-1074 and HBN-1026, designating Senators Cayetano, Recto, Marcos, Tolentino and Drilon as its conferees;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-17"
 action = "House of Representatives designated Representatives Salceda, Garin, Suansing, Tan, Yap, Villafuerte, Jr., Duavit, Savellano, Abu, Advincula and Sy-Alvarado as conferees to the Bicameral Conference Committee on the disagreeing provisions of HBN-1026 and SBN-1074; (See: O.B. dated January 20, 2020)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-18"
 action = "Conference Committee Report on the disagreeing provisions of SBN-1074 and HBN-1026, submitted to the Senate, commending that HBN-1026, in consolidation with SBN-1074, be approved in accordance with the attached copy of the bill as reconciled and approved by the conferees;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-18"
 action = "Sponsorship speech on the conference committee report of Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-18"
 action = "Conference Committee Report Approved by the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-18"
 action = "Conference Committee Report Approved by the House of Representatives; (See: O.B. dated January 20, 2020)"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-23"
 action = "Letter for Senate Secretary Myra Marie D. Villarica, dated December 23, 2019, transmitting nine (9) enrolled copies of the consolidated version of HBN-1026 and SBN-1074;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-23"
 action = "Letter for Speaker Alan Peter Cayetano, dated December 23, 2019, returning eight (8) enrolled copies of the consolidated version of HBN-1026 and SBN-1074, which were signed by Senate Secretary Myra Marie D. Villarica and Senate President Vicente C. Sotto III;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-23"
 action = "Approved and signed into law, in consolidation with SBN-1074, by the President of the Philippines, His Excellency, President Rodrigo Roa Duterte, vetoing Section 5, on January 22, 2020 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-23"
 action = "REPUBLIC ACT NO. 11467."
 
 [[status]]
 status = "Approved by the President of the Philippines, Vetoed Other Parts"
-date = "1/22/2020"
+date = "2020-01-22"
 
 [[committees]]
 name = "Ways and Means"

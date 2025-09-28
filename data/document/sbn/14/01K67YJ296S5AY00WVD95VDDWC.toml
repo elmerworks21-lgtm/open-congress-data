@@ -1,8 +1,11 @@
 id = "01K67YJ296S5AY00WVD95VDDWC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02028"
+
+[meta]
 bill_number = 2028
 congress = 14
-canonical = "SBN-02028"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2028", "https://web.senate.gov.ph/lisdata/67605981!.pdf",]
 title = "EDUCATION INITIATIVES ACT OF 2008"
 date_filed = "2008-01-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING GRANTS TO PUBLIC EDUCATIONAL INSTITUTIONS IN ORDE
 scope = "National"
 subjects = [ "Education Initiatives",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-30"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2008"
+date = "2008-01-30"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YCPK68SDHNM8XPVVNHTMZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02115"
+
+[meta]
 bill_number = 2115
 congress = 13
-canonical = "SBN-02115"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2115", "https://web.senate.gov.ph/lisdata/39493364!.pdf",]
 title = "ANTI-ANIMAL CRUELTY DEPICTION ACT OF 2005"
 date_filed = "2005-09-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PUNISH DEPICTION OF ANIMAL CRUELTY"
 scope = "National"
 subjects = [ "Anti-Animal Cruelty Depiction",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-09-06"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-09-06"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2005"
+date = "2005-09-06"
 
 [[committees]]
 name = "Environment and Natural Resources"

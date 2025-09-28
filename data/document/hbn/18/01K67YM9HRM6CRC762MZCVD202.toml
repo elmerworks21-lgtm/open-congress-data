@@ -1,24 +1,28 @@
 id = "01K67YM9HRM6CRC762MZCVD202"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08773"
+
+[meta]
 bill_number = 8773
 congress = 18
-canonical = "HBN-08773"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8773", "https://web.senate.gov.ph/lisdata/3465031478!.pdf",]
 title = "BALO-I MAN-MADE LAKE AN ECOTOURISM ZONE (BALO-I, LANAO DEL NORTE)"
 long_title = "AN ACT DECLARING THE BALO-I MAN-MADE LAKE AND ITS IMMEDIATE ENVIRONS LOCATED IN THE MUNICIPALITY OF BALO-I, PROVINCE OF LANAO DEL NORTE, AN ECOTOURISM ZONE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Ecological Tourism Zone", "Ecotourism Site",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/10/2021"
+date = "2021-03-10"
 
 [[committees]]
 name = "Tourism"

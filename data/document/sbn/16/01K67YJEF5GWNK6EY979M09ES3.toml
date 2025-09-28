@@ -1,8 +1,11 @@
 id = "01K67YJEF5GWNK6EY979M09ES3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03011"
+
+[meta]
 bill_number = 3011
 congress = 16
-canonical = "SBN-03011"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3011", "https://web.senate.gov.ph/lisdata/2254919244!.pdf",]
 title = "AIR PASSENGER BILL OF RIGHTS ACT"
 date_filed = "2015-11-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR A BILL OF RIGHTS FOR AIR PASSENGERS, PENALIZI
 scope = "National"
 subjects = [ "Airline Passengers Bill of Rights",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2015-11-24"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-26"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/26/2015"
+date = "2015-11-26"
 
 [[committees]]
 name = "Public Services"

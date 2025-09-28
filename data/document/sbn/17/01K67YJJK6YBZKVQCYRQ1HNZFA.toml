@@ -1,8 +1,11 @@
 id = "01K67YJJK6YBZKVQCYRQ1HNZFA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01930"
+
+[meta]
 bill_number = 1930
 congress = 17
-canonical = "SBN-01930"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1930", "https://web.senate.gov.ph/lisdata/2832624667!.pdf",]
 title = "ESTABLISHING THE AUTONOMOUS REGION OF THE CORDILLERA"
 date_filed = "2018-08-09"
@@ -10,17 +13,18 @@ long_title = "AN ORGANIC ACT ESTABLISHING THE AUTONOMOUS REGION OF THE CORDILLER
 scope = "National"
 subjects = [ "Autonomous Region of the Cordillera (ARC)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-09"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; ELECTORAL REFORMS AND PEOPLES PARTICIPATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2018"
+date = "2018-08-14"
 
 [[committees]]
 name = "Local Government"

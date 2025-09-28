@@ -1,8 +1,11 @@
 id = "01K67YJVKC5RKP0SN3D10XF89T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01053"
+
+[meta]
 bill_number = 1053
 congress = 19
-canonical = "SBN-01053"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1053", "https://web.senate.gov.ph/lisdata/3900735457!.pdf",]
 title = "REVISED WAREHOUSE RECEIPTS LAW OF THE PHILIPPINES"
 date_filed = "2022-08-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT STRENGTHENING AND MODERNIZING THE WAREHOUSE RECEIPTS SYSTEM
 scope = "National"
 subjects = [ "Warehouse Receipts",]
 authors_raw = "Gatchalian, Win, Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-08"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-06"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-06-22"
 action = "Letter from Senator JOEL VILLANUEVA dated June 13, 2023, conveying his intention to be made co-author of SBN-1053, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2022"
+date = "2022-09-06"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YJDF2M7BBJCWS8SBXJ5BG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01833"
+
+[meta]
 bill_number = 1833
 congress = 16
-canonical = "SBN-01833"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1833", "https://web.senate.gov.ph/lisdata/1803315266!.pdf",]
 title = "PILIPINAS"
 date_filed = "2013-10-10"
@@ -10,17 +13,18 @@ long_title = "ISANG BATAS NA NAGTATAKDA NA ANG KATAWAGAN SA ATING BANSA AY REPUB
 scope = "National"
 subjects = [ "Pilipinas",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-10"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-22"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/22/2013"
+date = "2013-10-22"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJCDE2RQ9M00JF3ZMMBSE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00199"
+
+[meta]
 bill_number = 199
 congress = 16
-canonical = "SBN-00199"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-199", "https://web.senate.gov.ph/lisdata/1602513262!.pdf",]
 title = "EXPANDED GOVERNMENT ASSISTANCE TO STUDENTS AND TEACHER IN PRIVATE EDUCATION ACT"
 date_filed = "2013-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT FURTHER AMENDING REPUBLIC ACT NO. 6729, AS AMENDED, OTHERWI
 scope = "National"
 subjects = [ "Government Assistance to Students and Teachers in Private Education (Gastpe)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2013"
+date = "2013-07-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJX3RG8MPFNWFGB1KQ88Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02999"
+
+[meta]
 bill_number = 2999
 congress = 19
-canonical = "SBN-02999"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2999", "https://web.senate.gov.ph/lisdata/4624442178!.pdf",]
 title = "DECLARATION OF STATE OF IMMINENT DISASTER ACT"
 date_filed = "2025-05-29"
@@ -10,117 +13,118 @@ long_title = "AN ACT ESTABLISHING A MECHANISM ON THE DECLARATION OF STATE OF IMM
 scope = "National"
 subjects = [ "Declaration of State of Imminent Disaster",]
 authors_raw = "Estrada, Jinggoy E., Cayetano, Pia S., Villanueva, Joel, Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2025-05-29"
 action = "Prepared and submitted jointly by the Committees on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION and FINANCE with Senator JINGGOY E. ESTRADA as author per Committee Report No. 533, Recommending its approval in substitution of S. No. 2643 taking into consideration H. No. 10422;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Sponsor: Senator JINGGOY ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Sponsorship speech of Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Co-sponsorship speech of Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-02"
 action = "Senator PIA S. CAYETANO was made a co-author;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-03"
 action = "Interpellation of Senator AQUILINO 'KOKO' PIMENTEL III;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-03"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-04"
 action = "Letter from Senator JOEL VILLANUEVA, conveying his intention to be made co-author of SBN-2999, received by LBIS;;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-04"
 action = "Period of individual amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-04"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-04"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-06"
 action = "Printed copies were electronically distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Senator FRANCIS 'TOL' N. TOLENTINO was made a co-author;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "In favor: (21) Senators MARIA LOURDES NANCY S. BINAY, ALAN PETER S. CAYETANO, PIA S. CAYETANO, RONALD 'BATO' DELA ROSA, JOSEPH VICTOR G. EJERCITO, FRANCIS G. ESCUDERO, JINGGOY E. ESTRADA, WIN GATCHALIAN, CHRISTOPHER LAWRENCE T. GO, RISA HONTIVEROS, MANUEL 'LITO' M. LAPID, IMEE R. MARCOS, AQUILINO 'KOKO' III PIMENTEL, GRACE POE, RAMON BONG REVILLA JR., FRANCIS 'TOL' N. TOLENTINO, RAFFY T. TULFO, JOEL VILLANUEVA, MARK A. VILLAR, CYNTHIA A. VILLAR and JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Against: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Abstention: (None) ;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-09"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-06-11"
 action = "House of Representatives adopted SBN-2999 as an amendment to HBN-10422 on June 10, 2025;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-05-29"
 action = "Introduced by Senators JINGGOY E. ESTRADA, PIA S. CAYETANO, JOEL VILLANUEVA and FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-06"
 action = "Letter from Senate Secretary Renato N. Bantug Jr. transmitting nine (9) enrolled copies of SBN-2999/HBN-10422, for the signature of Speaker Ferdinand Martin G. Romualdez and Secretary General Reginald S. Velasco;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-14"
 action = "Letter for Senate Secretary Renato N. Bantug Jr., returning eight (8) enrolled copies of of SBN-2999 and HBN-10422, which were signed by Speaker Ferdinand Martin G. Romualdez and Secretary General Reginald S. Velasco;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-14"
 action = "Enrolled copies of SBN-2999 and HBN-10422, sent to the Office of the President for the signature of the President of the Philippines, His Excellency, President Ferdinand R. Marcos Jr.;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-17"
 action = "Approved and signed into law by the President of the Philippines, His Excellency, President Ferdinand Romualdez Marcos Jr. on Septembe 12, 2025 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-17"
 action = "REPUBLIC ACT NO. 12287."
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "9/12/2025"
+date = "2025-09-12"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

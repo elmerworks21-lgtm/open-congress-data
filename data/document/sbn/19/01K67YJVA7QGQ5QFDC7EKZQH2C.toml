@@ -1,8 +1,11 @@
 id = "01K67YJVA7QGQ5QFDC7EKZQH2C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00648"
+
+[meta]
 bill_number = 648
 congress = 19
-canonical = "SBN-00648"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-648", "https://web.senate.gov.ph/lisdata/3850934964!.pdf",]
 title = "AMENDING R.A. NO. 11697 (ELECTRIC VEHICLE INDUSTRY DEVELOPMENT ACT)"
 date_filed = "2022-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11697 OTHERWISE KNOWN AS THE 'ELE
 scope = "National"
 subjects = [ "Electric Vehicles", "Electric Vehicles Industry Development (EVID)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-14"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Read on First Reading and Referred to the Committees on ENERGY; TRADE, COMMERCE AND ENTREPRENEURSHIP and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2022"
+date = "2022-08-17"
 
 [[committees]]
 name = "Energy"

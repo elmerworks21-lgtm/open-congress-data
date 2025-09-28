@@ -1,8 +1,11 @@
 id = "01K67YCPE425QFQQP1W3G7QBAM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01867"
+
+[meta]
 bill_number = 1867
 congress = 13
-canonical = "SBN-01867"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1867", "https://web.senate.gov.ph/lisdata/31142315!.pdf",]
 title = "FRANCHISE TAX ON TELEPHONE AND TELEGRAPH COMPANIES"
 date_filed = "2004-11-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE REIMPOSITION OF THE FRANCHISE TAX ON TELE
 scope = "National"
 subjects = [ "Taxes/Taxation (Franchise Tax; Vat)", "Franchise Tax (Telephone/Telegraph/Tv)",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2004-11-30"
 action = "Introduced by Senator DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-11-30"
 action = "Read on First Reading and referred to the Committee(s) on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/30/2004"
+date = "2004-11-30"
 
 [[committees]]
 name = "Ways and Means"

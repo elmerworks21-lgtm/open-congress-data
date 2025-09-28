@@ -1,8 +1,11 @@
 id = "01K67YJ2P3PV8G4NRN70SAQW2A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02589"
+
+[meta]
 bill_number = 2589
 congress = 14
-canonical = "SBN-02589"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2589", "https://web.senate.gov.ph/lisdata/83137560!.pdf",]
 title = "CRIMES AGAINST INTERNATIONAL HUMANITARIAN LAW"
 date_filed = "2008-09-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT DEFINING AND PENALIZING CRIMES AGAINST INTERNATIONAL HUMANI
 scope = "National"
 subjects = [ "International Crimes",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-02"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FOREIGN RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-04"
 action = "Manifestation of Senator Zubiri that SBN-2589 be incorporated in CR-134 (SBN-2669);"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/4/2008"
+date = "2008-09-04"
 
 [[committees]]
 name = "Justice and Human Rights"

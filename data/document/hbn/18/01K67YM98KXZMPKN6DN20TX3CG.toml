@@ -1,52 +1,56 @@
 id = "01K67YM98KXZMPKN6DN20TX3CG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07322"
+
+[meta]
 bill_number = 7322
 congress = 18
-canonical = "HBN-07322"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7322", "https://web.senate.gov.ph/lisdata/3342330227!.pdf",]
 title = "LANAO DEL NORTE REGIONAL MEDICAL CENTER"
 long_title = "AN ACT UPGRADING THE LANAO DEL NORTE PROVINCIAL HOSPITAL, LOCATED IN THE MUNICIPALITY OF BAROY, LANAO DEL NORTE INTO A REGIONAL MEDICAL CENTER TO BE KNOWN AS THE LANAO DEL NORTE REGIONAL MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Upgrading",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-01"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-15"
 action = "Returned and submitted jointly by the Committees on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 183, recommending its approval with amendments, taking into consideration SBN-1874;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-16"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-16"
 action = "Sponsor: Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Omnibus sponsorship speech of Senator CHRISTOPHER LAWRENCE T. GO on HBNos. 6727, 2582, 6498, 6729, 6728, 6730, 6971, 6972, 6753, 7322 and 6849;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-19"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Health and Demography"

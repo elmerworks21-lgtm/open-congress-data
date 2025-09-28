@@ -1,8 +1,11 @@
 id = "01K67YJQ5459DTHQ40C5MD2WTS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01128"
+
+[meta]
 bill_number = 1128
 congress = 18
-canonical = "SBN-01128"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1128", "https://web.senate.gov.ph/lisdata/3174028589!.pdf",]
 title = "INDIGENOUS CULTURAL COMMUNITIES AND INDIGENOUS PEOPLES COMMUNITY CONSERVED TERRITORIES AND AREAS ACT"
 date_filed = "2019-11-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT RECOGNIZING THE INDIGENOUS CULTURAL COMMUNITIES AND INDIGEN
 scope = "National"
 subjects = [ "Indigenous Cultural Communities",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2019-11-04"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-05"
 action = "Read on First Reading and Referred to the Committee(s) on CULTURAL COMMUNITIES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/5/2019"
+date = "2019-11-05"
 
 [[committees]]
 name = "Cultural Communities"

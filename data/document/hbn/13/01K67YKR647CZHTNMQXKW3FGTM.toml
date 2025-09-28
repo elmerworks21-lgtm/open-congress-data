@@ -1,24 +1,28 @@
 id = "01K67YKR647CZHTNMQXKW3FGTM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05183"
+
+[meta]
 bill_number = 5183
 congress = 13
-canonical = "HBN-05183"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5183", "https://web.senate.gov.ph/lisdata/49474069!.pdf",]
 title = "BULAWAN NATIONAL HIGH SCHOOL (ZAMBOANGA SIBUGAY)"
 long_title = "AN ACT SEPARATING THE PAYAO NATIONAL HIGH SCHOOL – BULAWAN ANNEX IN BARANGAY BULAWAN, MUNICIPALITY OF PAYAO, PROVINCE OF ZAMBOANGA SIBUGAY FROM THE PAYAO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BULAWAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Zamboanga Sibugay)", "Bulawan National High School (Zamboanga Sibugay)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives BELMA A. CABILAO, EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2006"
+date = "2006-05-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

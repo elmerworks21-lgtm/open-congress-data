@@ -1,8 +1,11 @@
 id = "01K67YJWVYDF3GVM128EK2YDXG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02732"
+
+[meta]
 bill_number = 2732
 congress = 19
-canonical = "SBN-02732"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2732", "https://web.senate.gov.ph/lisdata/4432940275!.pdf",]
 title = "OFFICE OF THE CHIEF STATE COUNSEL ACT"
 date_filed = "2024-07-16"
@@ -10,33 +13,34 @@ long_title = "AN ACT STRENGTHENING THE LEGAL STAFF OF THE DEPARTMENT OF JUSTICE,
 scope = "National"
 subjects = [ "Office of the Chief State Counsel", "Legal Staff",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-16"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-30"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Returned and submitted jointly by the Committees on JUSTICE AND HUMAN RIGHTS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 531, recommending that it be considered in SBN-2987;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "CONSIDERED IN SBN-2987 UNDER COMMITTEE REPORT NO. 531."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/5/2025"
+date = "2025-02-05"
 
 [[committees]]
 name = "Justice and Human Rights"

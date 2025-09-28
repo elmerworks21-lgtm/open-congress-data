@@ -1,8 +1,11 @@
 id = "01K67YJWKP9Y19NSGTY5E9G63G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02429"
+
+[meta]
 bill_number = 2429
 congress = 19
-canonical = "SBN-02429"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2429", "https://web.senate.gov.ph/lisdata/4260038752!.pdf",]
 title = "AMENDING R.A.NO. 7743 (ESTABLISHMENT OF CONGRESSIONAL, CITY, AND MUNICIPAL LIBRARIES)"
 date_filed = "2023-08-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7743, OTHERWISE KNOWN AS AN ACT P
 scope = "National"
 subjects = [ "Library/District Library/Barangay Reading Centers", "Public Libraries and Reading Centers",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-30"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2023"
+date = "2023-09-04"
 
 [[committees]]
 name = "Basic Education"

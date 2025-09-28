@@ -1,8 +1,11 @@
 id = "01K67YJVD7R8DYP52YJ1ZRKKKB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00790"
+
+[meta]
 bill_number = 790
 congress = 19
-canonical = "SBN-00790"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-790", "https://web.senate.gov.ph/lisdata/3860435058!.pdf",]
 title = "THE NATIONAL MARICULTURE PROGRAM ACT"
 date_filed = "2022-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE NATIONAL MARICULTURE PROGRAM AND PROVIDING
 scope = "National"
 subjects = [ "National Mariculture Program",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

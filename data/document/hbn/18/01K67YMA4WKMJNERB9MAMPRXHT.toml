@@ -1,28 +1,32 @@
 id = "01K67YMA4WKMJNERB9MAMPRXHT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10519"
+
+[meta]
 bill_number = 10519
 congress = 18
-canonical = "HBN-10519"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-10519", "https://web.senate.gov.ph/lisdata/3682033195!.pdf",]
 title = "EASTERN CORDILLERA REGIONAL HOSPITAL (MAYOYAO, IFUGAO)"
 long_title = "AN ACT ESTABLISHING IN THE MUNICIPALITY OF MAYOYAO, PROVINCE OF IFUGAO, A LEVEL II GENERAL HOSPITAL TO BE KNOWN AS THE EASTERN CORDILLERA REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-12-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-15"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-03-22"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/15/2021"
+date = "2021-12-15"
 
 [[committees]]
 name = "Health and Demography"

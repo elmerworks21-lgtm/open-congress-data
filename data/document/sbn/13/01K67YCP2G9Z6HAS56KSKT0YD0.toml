@@ -1,8 +1,11 @@
 id = "01K67YCP2G9Z6HAS56KSKT0YD0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01252"
+
+[meta]
 bill_number = 1252
 congress = 13
-canonical = "SBN-01252"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1252", "https://web.senate.gov.ph/lisdata/24631831!.pdf",]
 title = "ECONOMIC ESPIONAGE AND PROTECTION OF PROPRIETARY INFORMATION"
 date_filed = "2004-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING THE CRIME OF ECONOMIC ESPIONAGE AND PROVIDING PENA
 scope = "National"
 subjects = [ "Economic Espionage (Crime)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Trade and Commerce"

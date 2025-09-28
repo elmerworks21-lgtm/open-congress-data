@@ -1,8 +1,11 @@
 id = "01K67YCNJ8EB2BT7VRA3KZ98NH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00355"
+
+[meta]
 bill_number = 355
 congress = 13
-canonical = "SBN-00355"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-355", "https://web.senate.gov.ph/lisdata/1512807!.pdf",]
 title = "PHILIPPINE PASSPORT ACT, AMENDMENTS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO FURTHER PROTECT THE INTEGRITY OF A PASSPORT, AMENDING FO
 scope = "National"
 subjects = [ "Phil. Passport Act (RA 8239/Amendments)", "Passport Forgery (Punishment)", "Baptismal Certificate (Lost Birth Cert.)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSME¥A;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Foreign Relations"

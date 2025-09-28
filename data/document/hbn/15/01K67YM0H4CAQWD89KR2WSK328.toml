@@ -1,26 +1,30 @@
 id = "01K67YM0H4CAQWD89KR2WSK328"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06799"
+
+[meta]
 bill_number = 6799
 congress = 15
-canonical = "HBN-06799"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6799", "https://web.senate.gov.ph/lisdata/1570313005!.pdf",]
 title = "JUDICIARY REORGANIZATION ACT (SAN JOSE DEL MONTE CITY, PROVINCE OF BULACAN)"
 long_title = "AN ACT CREATING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE PROVINCE OF BULACAN TO BE STATIONED IN SAN JOSE DEL MONTE CITY, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (C) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Judiciary Reorganization Act",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

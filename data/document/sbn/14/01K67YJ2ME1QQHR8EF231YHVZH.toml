@@ -1,8 +1,11 @@
 id = "01K67YJ2ME1QQHR8EF231YHVZH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02509"
+
+[meta]
 bill_number = 2509
 congress = 14
-canonical = "SBN-02509"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2509", "https://web.senate.gov.ph/lisdata/79767212!.pdf",]
 title = "REHABILITATION, SELF-DEVELOPMENT AND SELF-RELIANCE OF DISABLED PERSONS"
 date_filed = "2008-08-04"
@@ -10,33 +13,34 @@ long_title = "AN ACT CREATING THE PERSONS WITH DISABILITIES AFFAIRS OFFICE IN EV
 scope = "National"
 subjects = [ "Differently Abled/Disabled/Handicapped/Disadvantaged", "Persons with Disabilities (PWD)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-04"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Returned and submitted jointly by the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, LOCAL GOVERNMENT and FINANCE per Committee Report No. 776, recommending that it be substituted by SBN-3560;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "SUBSTITUTED BY SBN-3560, WHICH BECAME R.A.NO. 10070."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/16/2009"
+date = "2009-12-16"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

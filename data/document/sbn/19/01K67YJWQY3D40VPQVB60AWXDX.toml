@@ -1,8 +1,11 @@
 id = "01K67YJWQY3D40VPQVB60AWXDX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02576"
+
+[meta]
 bill_number = 2576
 congress = 19
-canonical = "SBN-02576"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2576", "https://web.senate.gov.ph/lisdata/4358039619!.pdf",]
 title = "STANDARDIZING THE RETIREMENT BENEFITS OF JUSTICES, JUDGES, AND JUDICIARY OFFICIALS"
 date_filed = "2024-02-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT STANDARDIZING THE RETIREMENT BENEFITS OF JUSTICES, JUDGES, 
 scope = "National"
 subjects = [ "Retirement Benefits", "Justices, Judges, and Judiciary Officials",]
 authors_raw = "Revilla Jr., Ramon Bong, Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2024-02-27"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-28"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-23"
 action = "Letter from Senator JOSEPH VICTOR G. EJERCITO dated May 15, 2024, conveying his intention to be made co-author of SBN-2576, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/4/2024"
+date = "2024-03-04"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

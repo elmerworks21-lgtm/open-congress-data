@@ -1,8 +1,11 @@
 id = "01K67YCNXNZ1NA0QGC49C0SBSK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00992"
+
+[meta]
 bill_number = 992
 congress = 13
-canonical = "SBN-00992"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-992", "https://web.senate.gov.ph/lisdata/21961724!.pdf",]
 title = "NATIONAL FAMILY COMMISSION OF THE PHILIPPINES OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INSTITUTE THE NATIONAL COMMISSION ON THE FAMILY AND FOR 
 scope = "National"
 subjects = [ "National Commission on the Family",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

@@ -1,8 +1,11 @@
 id = "01K67YCP4RF23VMZ9Y6V4JVCVK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01371"
+
+[meta]
 bill_number = 1371
 congress = 13
-canonical = "SBN-01371"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1371", "https://web.senate.gov.ph/lisdata/25771950!.pdf",]
 title = "AUTOMATED SYSTEM FOR VOTING, COUNTING, CANVASSING OF VOTES"
 date_filed = "2004-07-06"
@@ -10,49 +13,50 @@ long_title = "AN ACT TO AMEND CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8436, ENTIT
 scope = "National"
 subjects = [ "Automated Election System (R.A.No. 9369)", "Elections/Electoral Reforms (Automated)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-15"
 action = "Returned and submitted by the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS per Committee Report No. 58, recommending that it be substituted by SBN-2231;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-20"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-20"
 action = "SUBSTITUTED BY SBN-2231, WHICH BECAME R.A.NO. 9369."
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-15"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-07"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/20/2006"
+date = "2006-03-20"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

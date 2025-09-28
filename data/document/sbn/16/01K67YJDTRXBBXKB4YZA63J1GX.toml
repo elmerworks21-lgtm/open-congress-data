@@ -1,8 +1,11 @@
 id = "01K67YJDTRXBBXKB4YZA63J1GX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02354"
+
+[meta]
 bill_number = 2354
 congress = 16
-canonical = "SBN-02354"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2354", "https://web.senate.gov.ph/lisdata/1963816763!.pdf",]
 title = "NATIONAL CAPITAL AND SEAT OF GOVERNMENT OF THE PHILIPPINES"
 date_filed = "2014-08-13"
@@ -10,21 +13,22 @@ long_title = "AN ACT CONSTITUTING A COMMISSION FOR THE PURPOSE OF STUDYING THE F
 scope = "National"
 subjects = [ "Seat of Government", "National Capital Commission for Capital Relocation",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2014-08-13"
 action = "Prepared and submitted jointly by the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE with Senator ANTONIO 'SONNY' F. TRILLANES as author per Committee Report No. 66, recommending its approval in substitution of SBN-655;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-13"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-13"
 action = "Sponsor: Senator ANTONIO 'SONNY' F. TRILLANES;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "8/13/2014"
+date = "2014-08-13"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

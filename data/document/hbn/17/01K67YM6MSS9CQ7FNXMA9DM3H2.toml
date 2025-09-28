@@ -1,24 +1,28 @@
 id = "01K67YM6MSS9CQ7FNXMA9DM3H2"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08724"
+
+[meta]
 bill_number = 8724
 congress = 17
-canonical = "HBN-08724"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8724", "https://web.senate.gov.ph/lisdata/2932925934!.pdf",]
 title = "BARANGAY KAPATAGAN ECOTOURISM SITE (DAVAO DEL SUR)"
 long_title = "AN ACT DECLARING BARANGAY KAPATAGAN LOCATED IN THE CITY OF DIGOS, PROVINCE OF DAVAO DEL SUR AN ECOTOURISM SITE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Aqua-Ecotourism Site",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-21"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/21/2019"
+date = "2019-01-21"
 
 [[committees]]
 name = "Environment and Natural Resources"

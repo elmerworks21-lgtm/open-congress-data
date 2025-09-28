@@ -1,8 +1,11 @@
 id = "01K67YCNQDG9BBAREWNKHE9H2M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00645"
+
+[meta]
 bill_number = 645
 congress = 13
-canonical = "SBN-00645"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-645", "https://web.senate.gov.ph/lisdata/18311206!.pdf",]
 title = "MATURE AND OLDER WORKERS ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH A JOB TRAINING PROGRAM FOR MATURE OR OLDER WOR
 scope = "National"
 subjects = [ "Mature and Older Workers Act", "Senior Citizens (Job Training Programs)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-16"
 action = "Read on First Reading and referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2004"
+date = "2004-08-16"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

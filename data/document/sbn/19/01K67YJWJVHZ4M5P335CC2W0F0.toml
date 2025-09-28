@@ -1,8 +1,11 @@
 id = "01K67YJWJVHZ4M5P335CC2W0F0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02396"
+
+[meta]
 bill_number = 2396
 congress = 19
-canonical = "SBN-02396"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2396", "https://web.senate.gov.ph/lisdata/4233638519!.pdf",]
 title = "SOGIE-BASED ANTI-DISCRIMINATION ACT"
 date_filed = "2023-08-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING DISCRIMINATION, MARGINALIZATION, AND VIOLENCE C
 scope = "National"
 subjects = [ "Sogiesc Equality", "Anti-Discrimination",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-08"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-09"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2023"
+date = "2023-08-09"
 
 [[committees]]
 name = "Rules"

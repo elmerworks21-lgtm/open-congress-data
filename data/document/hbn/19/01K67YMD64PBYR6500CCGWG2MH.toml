@@ -1,36 +1,40 @@
 id = "01K67YMD64PBYR6500CCGWG2MH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07387"
+
+[meta]
 bill_number = 7387
 congress = 19
-canonical = "HBN-07387"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-7387", "https://web.senate.gov.ph/lisdata/4129337615!.pdf",]
 title = "PHILIPPINE CROP INSURANCE CORPORATION"
 long_title = "AN ACT EXPANDING THE SERVICES OF THE PHILIPPINE CROP INSURANCE CORPORATION AND ENCOURAGING PRIVATE SECTOR PARTICIPATION IN AGRICULTURAL INSURANCE, FURTHER AMENDING PRESIDENTIAL DECREE NO. 1467, CREATING THE PHILIPPINE CROP INSURANCE CORPORATION, AS AMENDED"
 scope = "National"
 subjects = [ "Philippine Crop Insurance Corporation",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Read on First Reading and Referred to the Committees on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and AGRICULTURE, FOOD AND AGRARIAN REFORM;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-18"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-06"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/9/2023"
+date = "2023-05-09"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

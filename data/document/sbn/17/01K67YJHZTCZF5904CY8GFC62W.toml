@@ -1,8 +1,11 @@
 id = "01K67YJHZTCZF5904CY8GFC62W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01212"
+
+[meta]
 bill_number = 1212
 congress = 17
-canonical = "SBN-01212"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1212", "https://web.senate.gov.ph/lisdata/2503321558!.pdf",]
 title = "PHILIPPINE INVESTMENT FUND CORPORATION ACT"
 date_filed = "2016-10-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PHILIPPINE SOVEREIGN WEALTH FUND PROVIDING F
 scope = "National"
 subjects = [ "Investments",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2016-10-19"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-07"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2016"
+date = "2016-11-07"
 
 [[committees]]
 name = "Economic Affairs"

@@ -1,8 +1,11 @@
 id = "01K67YJ1RD1F9R2CZ064Z0251Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01572"
+
+[meta]
 bill_number = 1572
 congress = 14
-canonical = "SBN-01572"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1572", "https://web.senate.gov.ph/lisdata/58895247!.pdf",]
 title = "ANTI-BUSINESS SOFTWARE COPYRIGHT PROTECTION ACT OF 2007"
 date_filed = "2007-09-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE ENFORCEMENT OF THE COPYRIGHT PROTECTION O
 scope = "National"
 subjects = [ "Computer Hardware/Software", "Business Software Copyright Piracy Enforcement Unit, Creation",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-11"
 action = "Introduced by Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-19"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/19/2007"
+date = "2007-09-19"
 
 [[committees]]
 name = "Trade and Commerce"

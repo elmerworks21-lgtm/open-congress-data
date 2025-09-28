@@ -1,8 +1,11 @@
 id = "01K67YJWY5ZTBBW3AVEK33PX8Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02803"
+
+[meta]
 bill_number = 2803
 congress = 19
-canonical = "SBN-02803"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2803", "https://web.senate.gov.ph/lisdata/4471740694!.pdf",]
 title = "AMENDING SEC. 271 OF ACT NO. 2711 (THE REVISED AMINISTRATIVE CODE), AS AMENDED"
 date_filed = "2024-08-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 271 OF ACT NO. 2711, OTHERWISE KNOWN AS TH
 scope = "National"
 subjects = [ "Administrative Code", "Leave of Absence",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-27"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-28"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2024"
+date = "2024-08-28"
 
 [[committees]]
 name = "Justice and Human Rights"

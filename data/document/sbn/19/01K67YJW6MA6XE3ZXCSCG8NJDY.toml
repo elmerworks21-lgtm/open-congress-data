@@ -1,8 +1,11 @@
 id = "01K67YJW6MA6XE3ZXCSCG8NJDY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01879"
+
+[meta]
 bill_number = 1879
 congress = 19
-canonical = "SBN-01879"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1879", "https://web.senate.gov.ph/lisdata/4075837149!.pdf",]
 title = "GUIGUINTO HALAMANAN FESTIVAL ACT"
 date_filed = "2023-02-14"
@@ -10,33 +13,34 @@ long_title = "AN ACT DECLARING THE HALAMANAN FESTIVAL OF THE MUNICIPALITY OF GUI
 scope = "Local"
 subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-14"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-15"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-15"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 169, recommending that it be considered in HBN-5830;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-11-22"
 action = "CONSIDERED IN HBN-5830 UNDER COMMITTEE REPORT NO. 169, WHICH BECAME REPUBLIC ACT NO. 12104 ON DECEMBER 13, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/22/2023"
+date = "2023-11-22"
 
 [[committees]]
 name = "Local Government"

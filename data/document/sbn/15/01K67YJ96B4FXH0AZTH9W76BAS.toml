@@ -1,8 +1,11 @@
 id = "01K67YJ96B4FXH0AZTH9W76BAS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02804"
+
+[meta]
 bill_number = 2804
 congress = 15
-canonical = "SBN-02804"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2804", "https://web.senate.gov.ph/lisdata/112009513!.pdf",]
 title = "ANTIPOLO 2ND DISTRICT HOSPITAL"
 date_filed = "2011-05-09"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A THIRTY (30)-BED HOSPITAL IN THE SECOND DISTR
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-09"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-10"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-09-12"
 action = "Transferred from the Committee on Rules to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/12/2011"
+date = "2011-09-12"
 
 [[committees]]
 name = "Health and Demography"

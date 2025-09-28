@@ -1,8 +1,11 @@
 id = "01K67YJ8KB1ZN1KMFREBWKN73Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02166"
+
+[meta]
 bill_number = 2166
 congress = 15
-canonical = "SBN-02166"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2166", "https://web.senate.gov.ph/lisdata/97488335!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE, EXEMPTING PLEDGE OF PERSONAL PROPERTY FROM DOCUMENTARY STAMP TAX"
 date_filed = "2010-07-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING PLEDGE OF PERSONAL PROPERTY COVERING A LOAN OF MO
 scope = "National"
 subjects = [ "Documentary Stamp Tax", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-27"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-20"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2010"
+date = "2010-09-20"
 
 [[committees]]
 name = "Ways and Means"

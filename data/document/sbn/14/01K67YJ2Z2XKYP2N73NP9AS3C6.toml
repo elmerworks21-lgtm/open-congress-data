@@ -1,8 +1,11 @@
 id = "01K67YJ2Z2XKYP2N73NP9AS3C6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02989"
+
+[meta]
 bill_number = 2989
 congress = 14
-canonical = "SBN-02989"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2989", "https://web.senate.gov.ph/lisdata/98318903!.pdf",]
 title = "DOG BITE LAW OF 2009"
 date_filed = "2009-01-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT RELATING TO THE LIABILITY OF OWNERS OF DOGS BITING OR INJUR
 scope = "National"
 subjects = [ "Dog Bites",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-01-15"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-20"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2009"
+date = "2009-01-20"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJHABBXWR5CDS2GEZG567"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00253"
+
+[meta]
 bill_number = 253
 congress = 17
-canonical = "SBN-00253"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-253", "https://web.senate.gov.ph/lisdata/2369220334!.pdf",]
 title = "AMENDING ARTS. 180, 183, REVISED PENAL CODE (PENALTY ON FALSE TESTIMONY)"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO AMEND ARTICLES 180, 183 AND 184 OF SECTION TWO, CHAPTER 
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)", "False Testimony/False Confessions",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Justice and Human Rights"

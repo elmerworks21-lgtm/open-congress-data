@@ -1,8 +1,11 @@
 id = "01K67YJPSE2BGFCSNPC9QDX0TG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00601"
+
+[meta]
 bill_number = 601
 congress = 18
-canonical = "SBN-00601"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-601", "https://web.senate.gov.ph/lisdata/3094427877!.pdf",]
 title = "EXCLUDING OVERTIME PAY FROM COMPUTATION OF TAXABLE INCOME"
 date_filed = "2019-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXCLUDING OVERTIME PAY FROM THE COMPUTATION OF TAXABLE INCO
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income Tax)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-17"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Ways and Means"

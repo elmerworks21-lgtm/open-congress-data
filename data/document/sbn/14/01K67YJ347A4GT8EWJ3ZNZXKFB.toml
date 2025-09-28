@@ -1,8 +1,11 @@
 id = "01K67YJ347A4GT8EWJ3ZNZXKFB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03221"
+
+[meta]
 bill_number = 3221
 congress = 14
-canonical = "SBN-03221"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3221", "https://web.senate.gov.ph/lisdata/110939805!.pdf",]
 title = "ENTRY LEVEL SALARY OF HUMAN RESOURCES FOR HEALTH OF 2009"
 date_filed = "2009-05-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE ENTRY LEVEL SALARY OF PRIORITY HUMAN RESOURC
 scope = "National"
 subjects = [ "Medical Practitioners (Physicians, Doctors, Dentists, Nurses, Etc.)", "Public Health Workers",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-06"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-11"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/11/2009"
+date = "2009-05-11"
 
 [[committees]]
 name = "Health and Demography"

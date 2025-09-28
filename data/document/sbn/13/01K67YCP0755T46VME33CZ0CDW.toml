@@ -1,8 +1,11 @@
 id = "01K67YCP0755T46VME33CZ0CDW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01125"
+
+[meta]
 bill_number = 1125
 congress = 13
-canonical = "SBN-01125"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1125", "https://web.senate.gov.ph/lisdata/23311613!.pdf",]
 title = "FOSTER CARE ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,25 +13,26 @@ long_title = "AN ACT TO STRENGTHEN AND PROPAGATE FOSTER CARE FOR ABANDONED, NEGL
 scope = "National"
 subjects = [ "Foster Care Act",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

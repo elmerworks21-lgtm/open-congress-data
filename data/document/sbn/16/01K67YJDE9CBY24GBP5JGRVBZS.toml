@@ -1,8 +1,11 @@
 id = "01K67YJDE9CBY24GBP5JGRVBZS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01795"
+
+[meta]
 bill_number = 1795
 congress = 16
-canonical = "SBN-01795"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1795", "https://web.senate.gov.ph/lisdata/1799515226!.pdf",]
 title = "PRODUCT LIABILITY ACT"
 date_filed = "2013-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING LEGAL STANDARDS AND PROCEDURES FOR PRODUCT LIA
 scope = "National"
 subjects = [ "Product Liability Litigation",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-22"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/22/2013"
+date = "2013-10-22"
 
 [[committees]]
 name = "Justice and Human Rights"

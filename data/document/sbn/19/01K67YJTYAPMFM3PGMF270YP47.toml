@@ -1,8 +1,11 @@
 id = "01K67YJTYAPMFM3PGMF270YP47"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00104"
+
+[meta]
 bill_number = 104
 congress = 19
-canonical = "SBN-00104"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-104", "https://web.senate.gov.ph/lisdata/3781234253!.pdf",]
 title = "THE MOTORCYCLES-FOR-HIRE ACT OF 2022"
 date_filed = "2022-07-07"
@@ -10,37 +13,38 @@ long_title = "AN ACT ALLOWING AND REGULATING THE USE OF MOTORCYCLES AS PUBLIC UT
 scope = "National"
 subjects = [ "Motorcycles-For-Hire", "Motorcycle", "Public Utility Vehicles", "Land Transportation and Traffic Code (R.A.No. 4136)",]
 authors_raw = "Poe, Grace, Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "Letter from Senator RONALD 'BATO' DELA ROSA, conveying his intention to be made co-author of SBN-104, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-14"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Public Services"

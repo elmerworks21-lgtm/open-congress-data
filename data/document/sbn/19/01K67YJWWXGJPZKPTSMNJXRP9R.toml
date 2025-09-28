@@ -1,8 +1,11 @@
 id = "01K67YJWWXGJPZKPTSMNJXRP9R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02764"
+
+[meta]
 bill_number = 2764
 congress = 19
-canonical = "SBN-02764"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2764", "https://web.senate.gov.ph/lisdata/4446640416!.pdf",]
 title = "COLLECTION OF TRAVEL TAX"
 date_filed = "2024-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 1183, OTHERWISE KNOWN AS T
 scope = "National"
 subjects = [ "Travel Tax",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-05"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "Read on First Reading and Referred to the Committees on WAYS AND MEANS and TOURISM;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2024"
+date = "2024-08-06"
 
 [[committees]]
 name = "Ways and Means"

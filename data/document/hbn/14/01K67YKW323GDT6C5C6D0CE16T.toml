@@ -1,24 +1,28 @@
 id = "01K67YKW323GDT6C5C6D0CE16T"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04249"
+
+[meta]
 bill_number = 4249
 congress = 14
-canonical = "HBN-04249"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4249", "https://web.senate.gov.ph/lisdata/1142610092!.pdf",]
 title = "INFANT-EYE PRESERVATION ACT OF 2009"
 long_title = "AN ACT MANDATING OCULAR PROPHYLAXIS ON NEWBORNS"
 scope = "National"
 subjects = [ "Newborn Infants", "Eye Examinations",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-26"
 action = "Filed in the Senate requesting for concurrence by Representatives PHILIP A. PICHAY, NERISSA CORAZON SOON-RUIZ, ARTHUR Y. PINGOY JR., MARIA EVITA R. ARAGO and NEPTALI M. GONZALES II as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/27/2009"
+date = "2009-05-27"
 
 [[committees]]
 name = "Health and Demography"

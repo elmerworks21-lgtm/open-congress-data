@@ -1,8 +1,11 @@
 id = "01K67YJW3BG7Y47NSA4P6GVPBE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01743"
+
+[meta]
 bill_number = 1743
 congress = 19
-canonical = "SBN-01743"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1743", "https://web.senate.gov.ph/lisdata/4047436881!.pdf",]
 title = "DECLARING THE PARAISO TI CARIBQUIB AN ECOTOURISM DESTINATION"
 date_filed = "2023-01-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE PARAISO TI CARIBQUIB LOCATED IN SITIO DARAMUA
 scope = "Local"
 subjects = [ "Ecotourism Destination",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-23"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-30"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2023"
+date = "2023-01-30"
 
 [[committees]]
 name = "Tourism"

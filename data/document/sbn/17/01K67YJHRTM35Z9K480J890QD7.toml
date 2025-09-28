@@ -1,8 +1,11 @@
 id = "01K67YJHRTM35Z9K480J890QD7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00902"
+
+[meta]
 bill_number = 902
 congress = 17
-canonical = "SBN-00902"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-902", "https://web.senate.gov.ph/lisdata/2445821043!.pdf",]
 title = "PARTICIPATORY GOVERNANCE THROUGH CSOS EMPOWERMENT ACT OF 2016"
 date_filed = "2016-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE PARTICIPATION OF CIVIL SOCIETY ORGANIZATI
 scope = "National"
 subjects = [ "Civil Society Organization (CSO)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-26"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-16"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2016"
+date = "2016-08-16"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

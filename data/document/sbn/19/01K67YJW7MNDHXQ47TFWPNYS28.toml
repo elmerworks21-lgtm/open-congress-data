@@ -1,8 +1,11 @@
 id = "01K67YJW7MNDHXQ47TFWPNYS28"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01927"
+
+[meta]
 bill_number = 1927
 congress = 19
-canonical = "SBN-01927"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1927", "https://web.senate.gov.ph/lisdata/4090237281!.pdf",]
 title = "THE SAN MARIANO-PALANAN ECOTOURISM CORRIDOR"
 date_filed = "2023-02-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING THE MUNICIPALITY OF SAN MARIANO AND THE MUNICIPAL
 scope = "National"
 subjects = [ "Ecotourism Zone",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-27"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-28"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/28/2023"
+date = "2023-02-28"
 
 [[committees]]
 name = "Tourism"

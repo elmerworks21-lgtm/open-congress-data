@@ -1,8 +1,11 @@
 id = "01K67YJWRSW9HMSH2EY4GGWNJP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02604"
+
+[meta]
 bill_number = 2604
 congress = 19
-canonical = "SBN-02604"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2604", "https://web.senate.gov.ph/lisdata/4373139738!.pdf",]
 title = "LOCAL GOVERNANCE MERITOCRACY ACT"
 date_filed = "2024-03-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONSOLIDATING ALL PERFORMANCE MEASUREMENT TOOLS AND REWARDS
 scope = "National"
 subjects = [ "Seal of Good Local Governance",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-13"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-13"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/13/2024"
+date = "2024-03-13"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YK0AGDH8YBQCPE0KXR28R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00885"
+
+[meta]
 bill_number = 885
 congress = 20
-canonical = "SBN-00885"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-885", "https://web.senate.gov.ph/lisdata/4747843482!.pdf",]
 title = "CNSP BIRTH REGISTRATION ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER STRENGTHENING THE SYSTEM OF BIRTH REGISTRATION OF C
 scope = "National"
 subjects = [ "Children in Need of Special Protection (CSNP)", "Birth Registration",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

@@ -1,24 +1,28 @@
 id = "01K67YKVP1H54GS0GPCKV1KTQ5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00534"
+
+[meta]
 bill_number = 534
 congress = 14
-canonical = "HBN-00534"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-534", "https://web.senate.gov.ph/lisdata/80207260!.pdf",]
 title = "RENAMING BARANGAY MATACLA TO BARANGAY MAYOR LORENZO P. PADUA, CAMARINES SUR"
 long_title = "AN ACT TO CHANGE THE NAME OF BARANGAY MATACLA IN THE MUNICIPALITY OF GOA, PROVINCE OF CAMARINES SUR TO BARANGAY MAYOR LORENZO P. PADUA"
 scope = "Local"
 subjects = [ "Barangay, Renaming",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-11"
 action = "Filed in the Senate requesting for concurrence by Representative ARNULFO P. FUENTEBELLA as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-12"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2008"
+date = "2008-08-12"
 
 [[committees]]
 name = "Local Government"

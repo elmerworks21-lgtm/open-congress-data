@@ -1,24 +1,28 @@
 id = "01K67YMDH7TERA2PBW83E2A2QY"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09549"
+
+[meta]
 bill_number = 9549
 congress = 19
-canonical = "HBN-09549"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9549", "https://web.senate.gov.ph/lisdata/4592641961!.pdf",]
 title = "RECLASSIFYING AS AGRICULTURAL LAND A PARCEL OF LAND (LAMITAN, BASILAN)"
 long_title = "AN ACT RECLASSIFYING AS AGRICULTURAL LAND A PARCEL OF LAND OF THE PUBLIC DOMAIN SITUATED AT THE CITY OF LAMITAN, PROVINCE OF BASILAN, BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, TO BE RESERVED FOR THE EXCLUSIVE USE OF THE PROVINCIAL GOVERNMENT OF BASILAN AS THE SITE OF ITS GOVERNMENT CENTER AND HOUSING PROJECTS"
 scope = "Local"
 subjects = [ "Agricultural Land",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-02-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-02-05"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2025"
+date = "2025-02-05"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

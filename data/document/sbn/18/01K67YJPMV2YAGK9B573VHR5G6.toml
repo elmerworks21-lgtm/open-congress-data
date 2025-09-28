@@ -1,8 +1,11 @@
 id = "01K67YJPMV2YAGK9B573VHR5G6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00382"
+
+[meta]
 bill_number = 382
 congress = 18
-canonical = "SBN-00382"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-382", "https://web.senate.gov.ph/lisdata/3068027528!.pdf",]
 title = "DEATH PENALTY ON THE HEINOUS CRIME OF RAPE WITH HOMICIDE"
 date_filed = "2019-07-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO IMPOSE THE DEATH PENALTY ON THE HEINOUS CRIME OF RAPE WI
 scope = "National"
 subjects = [ "Death Penalty", "Rape", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-11"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Justice and Human Rights"

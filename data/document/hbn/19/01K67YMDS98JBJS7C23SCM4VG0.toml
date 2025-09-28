@@ -1,28 +1,32 @@
 id = "01K67YMDS98JBJS7C23SCM4VG0"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10783"
+
+[meta]
 bill_number = 10783
 congress = 19
-canonical = "HBN-10783"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10783", "https://web.senate.gov.ph/lisdata/4481840795!.pdf",]
 title = "LTFRB OFFICE (OLONGAPO CITY, ZAMBALES)"
 long_title = "AN ACT ESTABLISHING A LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD OFFICE IN THE CITY OF OLONGAPO, PROVINCE OF ZAMBALES, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Land Transportation Franchising and Regulatory Board (Ltfrb)",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-09-09"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-24"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-10-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/24/2024"
+date = "2024-09-24"
 
 [[committees]]
 name = "Public Services"

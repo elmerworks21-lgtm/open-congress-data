@@ -1,8 +1,11 @@
 id = "01K67YJW54PC8DHAA0XT760FRZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01823"
+
+[meta]
 bill_number = 1823
 congress = 19
-canonical = "SBN-01823"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1823", "https://web.senate.gov.ph/lisdata/4058837001!.pdf",]
 title = "AMENDING SECS. 6 AND 10 OF R. A. NO. 10000 (THE AGRI-AGRA REFORM CREDIT ACT OF 2009)"
 date_filed = "2023-01-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONSOLIDATING THE LOAN ALLOCATION PROVIDED FOR AGRICULTURE 
 scope = "National"
 subjects = [ "Agri-Agra Reform Credit (R.A.No. 10000)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-31"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-06"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/6/2023"
+date = "2023-02-06"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

@@ -1,24 +1,28 @@
 id = "01K67YKZDW7X71RE5JZ8WHPGEE"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00839"
+
+[meta]
 bill_number = 839
 congress = 15
-canonical = "HBN-00839"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-839", "https://web.senate.gov.ph/lisdata/113129630!.pdf",]
 title = "CONCEPCION LTO THIRD DISTRICT OFFICE (TARLAC)"
 long_title = "AN ACT ESTABLISHING A REGULAR DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF CONCEPCION, PROVINCE OF TARLAC AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/25/2011"
+date = "2011-05-25"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJ3CA1SA7TQ759F9H6TSZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03532"
+
+[meta]
 bill_number = 3532
 congress = 14
-canonical = "SBN-03532"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3532", "https://web.senate.gov.ph/lisdata/1301511689!.pdf",]
 title = "ANTI-GRAFT AND CORRUPT PRACTICES ACT"
 date_filed = "2009-11-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 5 OF REPUBLIC ACT NO. 3019 ALSO KNOWN AS T
 scope = "National"
 subjects = [ "Anti-Graft and Corrupt Practices",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-11-16"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-11-17"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/17/2009"
+date = "2009-11-17"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

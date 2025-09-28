@@ -1,8 +1,11 @@
 id = "01K67YJHGEB4JHTJBVANK7CK6G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00504"
+
+[meta]
 bill_number = 504
 congress = 17
-canonical = "SBN-00504"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-504", "https://web.senate.gov.ph/lisdata/2394420664!.pdf",]
 title = "CONSOLIDATING THE LAWS GRANTING REWARDS TO INFORMERS OF VIOLATIONS OF CUSTOM LAW"
 date_filed = "2016-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONSOLIDATING THE LAWS GRANTING REWARDS TO INFORMERS OF VIO
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Tariff and Customs Code (P.D.No. 1464)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Ways and Means"

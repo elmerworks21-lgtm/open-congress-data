@@ -1,8 +1,11 @@
 id = "01K67YCPFNDC69QVSTF4Q7873S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01946"
+
+[meta]
 bill_number = 1946
 congress = 13
-canonical = "SBN-01946"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1946", "https://web.senate.gov.ph/lisdata/32582426!.pdf",]
 title = "STUDENT SUICIDE PREVENTION ACT OF 2005"
 date_filed = "2005-03-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO EMPOWER THE DEPARTMENT OF EDUCATION (DEPED), THE COMMISS
 scope = "National"
 subjects = [ "Student Suicide Prevention Act of 2005", "Dept. of Education (DepEd)", "Commission on Higher Education (CHED)", "Tesda (Tech. Educ. & Skills Devt. Autho.",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-07"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/7/2005"
+date = "2005-03-07"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJ0VQN3KB4ME57D5J6TA3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00192"
+
+[meta]
 bill_number = 192
 congress = 14
-canonical = "SBN-00192"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-192", "https://web.senate.gov.ph/lisdata/42923679!.pdf",]
 title = "CORPORATE ACCOUNTABILITY AND RESPONSIBILITY ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROTECT INVESTORS BY IMPROVING THE ACCURACY AND RELIABIL
 scope = "National"
 subjects = [ "Corporate Accountability and Responsibility Act",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-31"
 action = "Read on First Reading and Referred to the Committee on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2007"
+date = "2007-07-31"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

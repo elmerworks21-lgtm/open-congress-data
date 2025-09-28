@@ -1,24 +1,28 @@
 id = "01K67YM6KG5SV4EG47SFK55T0Q"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08655"
+
+[meta]
 bill_number = 8655
 congress = 17
-canonical = "HBN-08655"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8655", "https://web.senate.gov.ph/lisdata/2919625788!.pdf",]
 title = "EXPANDED ANTI-VIOLENCE AGAINST WOMEN AND THEIR CHIDLREN (E-VAWC) ACT"
 long_title = "AN ACT DEFINING ELECTRONIC VIOLENCE AGAINST WOMEN AND THEIR CHILDREN, PROVIDING PROTECTIVE MEASURES, AND PRESCRIBING PENALTIES FOR VIOLATIONS THEREOF, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9262, OTHERWISE KNOWN AS THE “ANTI-VIOLENCE AGAINST WOMEN AND THEIR CHILDREN ACT OF 2004”"
 scope = "National"
 subjects = [ "Anti-Violence Against Women and Children (VAWC)(R.A.No. 9262)", "E-Vawc", "Women", "Children/Child Care",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-12-13"
 action = "Read on First Reading and Referred to the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY; and SCIENCE AND TECHNOLOGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/13/2018"
+date = "2018-12-13"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

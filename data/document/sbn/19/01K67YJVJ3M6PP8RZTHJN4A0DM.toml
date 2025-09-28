@@ -1,8 +1,11 @@
 id = "01K67YJVJ3M6PP8RZTHJN4A0DM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00994"
+
+[meta]
 bill_number = 994
 congress = 19
-canonical = "SBN-00994"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-994", "https://web.senate.gov.ph/lisdata/3894135394!.pdf",]
 title = "AUTHORIZING WIRETAPPING IN CASES INVOLVING VIOLATIONS OF THE COMPREHENSIVE DANGEROUS DRUGS ACT"
 date_filed = "2022-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUTHORIZING WIRETAPPING IN CASES INVOLVING VIOLATIONS OF RE
 scope = "National"
 subjects = [ "Wiretapping", "Comprehensive Dangerous Drugs Act of 2002 (R.A.No. 9165)",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-03"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-05"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2022"
+date = "2022-09-05"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

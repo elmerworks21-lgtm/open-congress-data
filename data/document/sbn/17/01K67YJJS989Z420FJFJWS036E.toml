@@ -1,8 +1,11 @@
 id = "01K67YJJS989Z420FJFJWS036E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02136"
+
+[meta]
 bill_number = 2136
 congress = 17
-canonical = "SBN-02136"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2136", "https://web.senate.gov.ph/lisdata/2924125833!.pdf",]
 title = "CONDONATION OF LOAN INTEREST ARREARAGES AND PENALTIES IN FAVOR OF LOCAL WATER DISTRICTS ACT OF 2018"
 date_filed = "2018-12-13"
@@ -10,21 +13,22 @@ long_title = "AN ACT GRANTING ONE-TIME CONDONATION OF INTEREST ARREARAGES AND PE
 scope = "National"
 subjects = [ "Local Water Districts", "Condonation", "Loans/Forbearances (Rates of Interest)", "Local Water Utilities Administration (LWUA)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-12-13"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-14"
 action = "Read on First Reading and Referred to the Committee on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-14"
 action = "Referred secondarily to the Committee on WAYS AND MEANS, on motion of Senator Zubiri;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/14/2019"
+date = "2019-01-14"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

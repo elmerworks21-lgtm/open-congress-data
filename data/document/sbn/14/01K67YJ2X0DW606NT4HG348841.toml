@@ -1,8 +1,11 @@
 id = "01K67YJ2X0DW606NT4HG348841"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02915"
+
+[meta]
 bill_number = 2915
 congress = 14
-canonical = "SBN-02915"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2915", "https://web.senate.gov.ph/lisdata/94778584!.pdf",]
 title = "PUERTO PRINCESA (APPORTIONMENT OF THE LONE LEGISLATIVE DISTRICT)"
 date_filed = "2008-11-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE APPORTIONMENT OF THE LONE LEGISLATIVE DIS
 scope = "Local"
 subjects = [ "Legislative District",]
 authors_raw = "Enrile, Juan Ponce"
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-27"
 action = "Introduced by Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2008"
+date = "2008-12-10"
 
 [[committees]]
 name = "Local Government"

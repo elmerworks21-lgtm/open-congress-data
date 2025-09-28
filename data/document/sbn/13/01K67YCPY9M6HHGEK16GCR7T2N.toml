@@ -1,8 +1,11 @@
 id = "01K67YCPY9M6HHGEK16GCR7T2N"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02635"
+
+[meta]
 bill_number = 2635
 congress = 13
-canonical = "SBN-02635"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2635", "https://web.senate.gov.ph/lisdata/71555808!.pdf",]
 title = "ANTI-SEXUAL HARASSMENT ACT (AMENDMENTS)"
 date_filed = "2007-06-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7877, ALSO KNOWN AS THE ANTI-SEXU
 scope = "National"
 subjects = [ "Anti-Sexual Harassment (RA 7877)", "Sexual Harassment (RA 7877, Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-05"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2007"
+date = "2007-06-05"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

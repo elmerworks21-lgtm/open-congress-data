@@ -1,8 +1,11 @@
 id = "01K67YCNZH1W9N4HTN032HH03C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01090"
+
+[meta]
 bill_number = 1090
 congress = 13
-canonical = "SBN-01090"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1090", "https://web.senate.gov.ph/lisdata/22981476!.pdf",]
 title = "COMPUTER EDUCATION PROGRAM INTEGRATION IN EDUCATIONAL SYSTEM"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INTEGRATE COMPUTER EDUCATION PROGRAM INTO THE EDUCATIONA
 scope = "National"
 subjects = [ "Computer Education Program",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-06"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2004"
+date = "2004-09-06"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YCPCK4TKQ1ETX9MF9BEDG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01804"
+
+[meta]
 bill_number = 1804
 congress = 13
-canonical = "SBN-01804"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1804", "https://web.senate.gov.ph/lisdata/30272199!.pdf",]
 title = "COMFORT WOMEN COMPENSATION AND BENEFIT ACT OF 2004"
 date_filed = "2004-09-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR PENSION AND HEALTH BENEFITS TO COMFORT WOMEN,
 scope = "National"
 subjects = [ "Comfort Women Compensation and Benefit", "Pension/Health Benefits (Comfort Women)",]
 authors_raw = "Cayetano, Companera Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-23"
 action = "Introduced by Senator COMPANERA PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-10-25"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/25/2004"
+date = "2004-10-25"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

@@ -1,8 +1,11 @@
 id = "01K67YCNNP50QWNTGY4VZSKPHW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00546"
+
+[meta]
 bill_number = 546
 congress = 13
-canonical = "SBN-00546"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-546", "https://web.senate.gov.ph/lisdata/17031045!.pdf",]
 title = "LOCAL SCHOOL BOARDS (STRENGTHENING)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING LOCAL SCHOOL BOARDS, AMENDING FOR THE PURPOSE
 scope = "National"
 subjects = [ "Local School Boards (Strengthening)", "Local Government Code (RA 7160)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Local Government"

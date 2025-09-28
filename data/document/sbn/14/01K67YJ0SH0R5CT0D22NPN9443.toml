@@ -1,8 +1,11 @@
 id = "01K67YJ0SH0R5CT0D22NPN9443"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00097"
+
+[meta]
 bill_number = 97
 congress = 14
-canonical = "SBN-00097"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-97", "https://web.senate.gov.ph/lisdata/41653567!.pdf",]
 title = "BOOKS FOR THE BARRIOS ACT"
 date_filed = "2007-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING THE BOOKS FOR THE BARRIOS PROGRAM AND APPROPRI
 scope = "National"
 subjects = [ "Books for the Barrios",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator MANUEL B. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-25"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; LOCAL GOVERNMENT; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/25/2007"
+date = "2007-07-25"
 
 [[committees]]
 name = "Education, Arts and Culture"

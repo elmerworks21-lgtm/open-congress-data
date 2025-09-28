@@ -1,8 +1,11 @@
 id = "01K67YJCYFXJ4BGQFBEA8BG7W8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01027"
+
+[meta]
 bill_number = 1027
 congress = 16
-canonical = "SBN-01027"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1027", "https://web.senate.gov.ph/lisdata/1703714365!.pdf",]
 title = "PHILIPPINE FAIR COMPETITION ACT OF 2013"
 date_filed = "2013-07-22"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROMOTING COMPETITION TO PROTECT CONSUMER WELFARE, ADVANCE 
 scope = "National"
 subjects = [ "Competition Act",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-22"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE; ECONOMIC AFFAIRS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-16"
 action = "Returned and submitted jointly by the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP, ECONOMIC AFFAIRS, FINANCE and JUSTICE AND HUMAN RIGHTS per Committee Report No. 56, recommending that it be substituted by SBN-2282;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-07-30"
 action = "SUBSTITUTED BY SBN-2282 UNDER C.R.NO. 56, WHICH BECAME R.A.NO. 10667 ON JULY 22, 2015."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "7/30/2014"
+date = "2014-07-30"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

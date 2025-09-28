@@ -1,24 +1,28 @@
 id = "01K67YM6FMK1449FMN6WKQPS75"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08151"
+
+[meta]
 bill_number = 8151
 congress = 17
-canonical = "HBN-08151"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8151", "https://web.senate.gov.ph/lisdata/2858624975!.pdf",]
 title = "MARITIME INDUSTRY AUTHORITY SATELLITE EXTENSION OFFICE (CALBAYOG, SAMAR)"
 long_title = "AN ACT CONVERTING THE SATELLITE OFFICE OF THE MARITIME INDUSTRY AUTHORITY LOCATED IN CALBAYOG CITY, PROVINCE OF SAMAR INTO AN EXTENSION OFFICE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Maritime Industry Authority (Marina)",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-09-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-12"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/12/2018"
+date = "2018-09-12"
 
 [[committees]]
 name = "Public Services"

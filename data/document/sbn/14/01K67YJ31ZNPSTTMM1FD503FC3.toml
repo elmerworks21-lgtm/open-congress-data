@@ -1,8 +1,11 @@
 id = "01K67YJ31ZNPSTTMM1FD503FC3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03118"
+
+[meta]
 bill_number = 3118
 congress = 14
-canonical = "SBN-03118"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3118", "https://web.senate.gov.ph/lisdata/105739382!.pdf",]
 title = "COLLEGE SCHOLARSHIP TO VALEDICTORIANS/SALUTATORIANS STUDENTS"
 date_filed = "2009-03-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING COLLEGE SCHOLARSHIP TO STUDENTS WHO GRADUATED AS V
 scope = "National"
 subjects = [ "Scholarship Grants", "Students",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-04"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/13/2009"
+date = "2009-04-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

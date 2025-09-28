@@ -1,8 +1,11 @@
 id = "01K67YJWF3TVXHRB14CQNSYNJQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02231"
+
+[meta]
 bill_number = 2231
 congress = 19
-canonical = "SBN-02231"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2231", "https://web.senate.gov.ph/lisdata/4176538043!.pdf",]
 title = "PHILIPPINE NUTRITION LABELING ACT OF 2023"
 date_filed = "2023-05-23"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO PRESCRIBE NUTRITION LABELING FOR FOOD PRODUCTS, AND PROV
 scope = "National"
 subjects = [ "Nutrition", "Label/Labeling",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-23"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-23"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2023"
+date = "2023-05-23"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

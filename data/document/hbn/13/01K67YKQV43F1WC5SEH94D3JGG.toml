@@ -1,28 +1,32 @@
 id = "01K67YKQV43F1WC5SEH94D3JGG"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04090"
+
+[meta]
 bill_number = 4090
 congress = 13
-canonical = "HBN-04090"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4090", "https://web.senate.gov.ph/lisdata/36583104!.pdf",]
 title = "PALAWAN PORTS AND PIERS ROADS NATIONAL SECONDARY ROAD"
 long_title = "AN ACT CONVERTING ALL ROADS LEADING TO PORTS AND/OR PIERS IN THE SECOND DISTRICT OF PALAWAN INTO NATIONAL SECONDARY ROADS"
 scope = "Local"
 subjects = [ "Roads, Conversion (Palawan Ports/Piers)", "Palawan Ports and Piers National Seconday Roads",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-02"
 action = "Introduced by Representative ABRAHAM KAHLIL B. MITRA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-02"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2005"
+date = "2005-08-10"
 
 [[committees]]
 name = "Public Works"

@@ -1,8 +1,11 @@
 id = "01K67YCNQ2P6VN757S6SKWQC06"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00626"
+
+[meta]
 bill_number = 626
 congress = 13
-canonical = "SBN-00626"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-626", "https://web.senate.gov.ph/lisdata/18121187!.pdf",]
 title = "HEALTH CARE DELIVERY MODERNIZATION ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE HEALTH CARE DELIVERY
 scope = "National"
 subjects = [ "Health Care Delivery Modernization Act",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-16"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2004"
+date = "2004-08-16"
 
 [[committees]]
 name = "Health and Demography"

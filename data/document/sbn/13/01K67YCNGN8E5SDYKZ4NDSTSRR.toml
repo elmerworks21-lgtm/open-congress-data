@@ -1,8 +1,11 @@
 id = "01K67YCNGN8E5SDYKZ4NDSTSRR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00267"
+
+[meta]
 bill_number = 267
 congress = 13
-canonical = "SBN-00267"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-267", "https://web.senate.gov.ph/lisdata/1425686!.pdf",]
 title = "NUTRITION INFORMATION LABELING FOR CONSUMER PRODUCTS"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL CONSUMER PRODUCTS TO SPECIFY IN THEIR RESPECT
 scope = "National"
 subjects = [ "Nutrition Information Labeling", "Consumer Products Labeling", "Consumer Act (RA 7394/Amendments)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Trade and Commerce"

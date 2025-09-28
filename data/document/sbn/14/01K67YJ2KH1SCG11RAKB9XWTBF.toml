@@ -1,8 +1,11 @@
 id = "01K67YJ2KH1SCG11RAKB9XWTBF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02466"
+
+[meta]
 bill_number = 2466
 congress = 14
-canonical = "SBN-02466"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2466", "https://web.senate.gov.ph/lisdata/79317164!.pdf",]
 title = "CORPORATION ENGAGED IN NATIONAL WEALTH DEVELOPMENT, DIRECT REMITTANCE OF 40% SHARE TO LGUS"
 date_filed = "2008-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE DIRECT REMITTANCE TO THE HOST LOCAL GOVER
 scope = "National"
 subjects = [ "Local Government Code (RA 7160; Amendments)", "Local Government Units (LGUS)", "National Wealth Taxes",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-24"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Local Government"

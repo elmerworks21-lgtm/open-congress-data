@@ -1,8 +1,11 @@
 id = "01K67YJ16CF4GCG2NTSR1K3WP5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00701"
+
+[meta]
 bill_number = 701
 congress = 14
-canonical = "SBN-00701"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-701", "https://web.senate.gov.ph/lisdata/49234298!.pdf",]
 title = "NATIONAL RAILWAYS ACT"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ACCELERATING THE DEVELOPMENT OF A NATIONAL RAILWAY SYSTEM, 
 scope = "National"
 subjects = [ "National Railways Authority (NRA)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2007"
+date = "2007-08-29"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

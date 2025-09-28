@@ -1,8 +1,11 @@
 id = "01K67YJWQN4SFW9JPAAKHKE930"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02569"
+
+[meta]
 bill_number = 2569
 congress = 19
-canonical = "SBN-02569"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2569", "https://web.senate.gov.ph/lisdata/4354839627!.pdf",]
 title = "CREATION OF A TRIPARTITE COUNCIL"
 date_filed = "2024-02-22"
@@ -10,49 +13,50 @@ long_title = "AN ACT ESTABLISHING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, 
 scope = "National"
 subjects = [ "Tripartite Council", "Unemployment", "Labor Empowerment (To Address Job-Skill Mismatch)",]
 authors_raw = "Villar, Mark A., Escudero, Francis G., Estrada, Jinggoy E., Angara, Sonny, Lapid, Manuel \"Lito\" M., Tulfo, Raffy T., Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2024-02-22"
 action = "Prepared and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE with Senators MARK A. VILLAR, FRANCIS G. ESCUDERO, JINGGOY E. ESTRADA and SONNY ANGARA as authors per Committee Report No. 207, recommeding its approval in substitution of S. No. 2333, taking into consideration H. No. 7370;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-26"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-26"
 action = "Sponsor: Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Sponsor: Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Sponsorship speech of Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Co-sponsorship speech of Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-19"
 action = "Letter from Senator MANUEL LITO M. LAPID, dated March 18, 2024, requesting that he be made co-author of SBN-2569, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-20"
 action = "Letter from Senator RAFFY TULFO, conveying his intention to be made co-author of SBN-2569, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Letter from Senator WIN GATCHALIAN dated September 11, 2024, conveying his intention to be co-author of SBN-2569, received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "3/19/2024"
+date = "2024-03-19"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

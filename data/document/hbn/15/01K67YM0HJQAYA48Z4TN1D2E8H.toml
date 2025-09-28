@@ -1,24 +1,28 @@
 id = "01K67YM0HJQAYA48Z4TN1D2E8H"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06831"
+
+[meta]
 bill_number = 6831
 congress = 15
-canonical = "HBN-06831"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-6831", "https://web.senate.gov.ph/lisdata/1519412857!.pdf",]
 title = "MABUHAY NATIONAL HIGH SCHOOL"
 long_title = "AN ACT SEPARATING THE LOS ARCOS NATIONAL HIGH SCHOOL - MABUHAY ANNEX IN BARANGAY MABUHAY, MUNICIPALITY OF PROSPERIDAD, PROVINCE OF AGUSAN DEL SUR FROM THE LOS ARCOS NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS MABUHAY NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-02-05"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/5/2013"
+date = "2013-02-05"
 
 [[committees]]
 name = "Education, Arts and Culture"

@@ -1,8 +1,11 @@
 id = "01K67YJ9549FNA334RX6K3SYX1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02749"
+
+[meta]
 bill_number = 2749
 congress = 15
-canonical = "SBN-02749"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2749", "https://web.senate.gov.ph/lisdata/109919363!.pdf",]
 title = "REGULATING THE USE OF PLASTIC BAGS"
 date_filed = "2011-03-17"
@@ -10,21 +13,22 @@ long_title = "AN ACT REGULATING THE USE OF PLASTIC BAGS, AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Plastic", "Shopping Bags",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2011-03-17"
 action = "Introduced by Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-21"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/21/2011"
+date = "2011-03-21"
 
 [[committees]]
 name = "Trade and Commerce"

@@ -1,25 +1,29 @@
 id = "01K67YJ1HX66MK4CB977QBKTHD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01261"
+
+[meta]
 bill_number = 1261
 congress = 14
-canonical = "SBN-01261"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1261", "https://web.senate.gov.ph/lisdata/55584849!.pdf",]
 title = "RIGHT TO TRAVEL"
 date_filed = "2007-07-18"
 long_title = "AN ACT SAFEGUARDING THE PEOPLE’S THE RIGHT TO TRAVEL BY PROVIDING GUIDELINES UNDER WHICH SUCH RIGHT MAY BE REGULATED"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2007"
+date = "2007-09-10"
 
 [[committees]]
 name = "Justice and Human Rights"

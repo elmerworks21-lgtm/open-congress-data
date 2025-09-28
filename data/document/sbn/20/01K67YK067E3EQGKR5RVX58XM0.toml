@@ -1,8 +1,11 @@
 id = "01K67YK067E3EQGKR5RVX58XM0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00657"
+
+[meta]
 bill_number = 657
 congress = 20
-canonical = "SBN-00657"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-657", "https://web.senate.gov.ph/lisdata/4715543155!.pdf",]
 title = "PINEAPPLE EXPORT PROMOTION ACT"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT URGING THE COMPREHENSIVE PLANNING, DEVELOPMENT, AND EXPORT 
 scope = "National"
 subjects = [ "Pineapple", "Pineapple Export Promotion",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM; TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

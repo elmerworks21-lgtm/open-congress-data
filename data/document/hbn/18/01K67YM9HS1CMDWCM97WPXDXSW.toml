@@ -1,24 +1,28 @@
 id = "01K67YM9HS1CMDWCM97WPXDXSW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08774"
+
+[meta]
 bill_number = 8774
 congress = 18
-canonical = "HBN-08774"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8774", "https://web.senate.gov.ph/lisdata/3465131479!.pdf",]
 title = "SAGRADA FAMILIA CAVES ECOTOURISM ZONE (STA. CRUZ, ZAMBALES)"
 long_title = "AN ACT DECLARING THE SAGRADA FAMILIA CAVES LOCATED IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF ZAMBALES, AN ECOTOURISM ZONE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Ecological Tourism Zone", "Ecotourism Site",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/10/2021"
+date = "2021-03-10"
 
 [[committees]]
 name = "Tourism"

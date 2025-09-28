@@ -1,8 +1,11 @@
 id = "01K67YCPKA3199TKDHFCSR1V43"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02121"
+
+[meta]
 bill_number = 2121
 congress = 13
-canonical = "SBN-02121"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2121", "https://web.senate.gov.ph/lisdata/40043348!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSIONS FRANKING PRIVILEGE"
 date_filed = "2005-09-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FRANKING PRIVILEGE TO THE NATIONAL LABOR RELATIONS
 scope = "National"
 subjects = [ "National Labor Relations Commission", "Nlrc (Franking Privilege)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2005-09-19"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-09-19"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/19/2005"
+date = "2005-09-19"
 
 [[committees]]
 name = "Public Services"

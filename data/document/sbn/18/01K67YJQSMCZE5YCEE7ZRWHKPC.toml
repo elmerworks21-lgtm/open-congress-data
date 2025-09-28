@@ -1,8 +1,11 @@
 id = "01K67YJQSMCZE5YCEE7ZRWHKPC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01981"
+
+[meta]
 bill_number = 1981
 congress = 18
-canonical = "SBN-01981"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1981", "https://web.senate.gov.ph/lisdata/3425531055!.pdf",]
 title = "TELECOMMUNICATIONS COVERAGE DATA DISCLOSURE ACT"
 date_filed = "2021-01-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING PUBLIC TELECOMMUNICATIONS ENTITIES TO DISCLOSE SE
 scope = "National"
 subjects = [ "Telecommunications Data Disclosure",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-12"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-19"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/19/2021"
+date = "2021-01-19"
 
 [[committees]]
 name = "Public Services"

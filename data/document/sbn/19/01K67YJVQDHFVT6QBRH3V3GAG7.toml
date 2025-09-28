@@ -1,8 +1,11 @@
 id = "01K67YJVQDHFVT6QBRH3V3GAG7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01236"
+
+[meta]
 bill_number = 1236
 congress = 19
-canonical = "SBN-01236"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1236", "https://web.senate.gov.ph/lisdata/3923635673!.pdf",]
 title = "NEGROS ISLAND REGION ACT OF 2022"
 date_filed = "2022-08-31"
@@ -10,41 +13,42 @@ long_title = "AN ACT ESTABLISHING THE NEGROS ISLAND REGION TO BE KNOWN AS REGION
 scope = "National"
 subjects = [ "Negros Island",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-31"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-10-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-06"
 action = "Returned and submitted jointly by the Committees on LOCAL GOVERNMENT and FINANCE per Committee Report No. 177, recommending that it be substituted by SBN-2507;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-06"
 action = "SUBSTITUTED BY SBN-2507 UNDER COMMITTEE REPORT NO. 177."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/6/2023"
+date = "2023-12-06"
 
 [[committees]]
 name = "Local Government"

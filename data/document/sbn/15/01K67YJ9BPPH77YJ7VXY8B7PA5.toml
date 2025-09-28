@@ -1,8 +1,11 @@
 id = "01K67YJ9BPPH77YJ7VXY8B7PA5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02994"
+
+[meta]
 bill_number = 2994
 congress = 15
-canonical = "SBN-02994"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2994", "https://web.senate.gov.ph/lisdata/1234310354!.pdf",]
 title = "FINAL FOREST LIMITS ACT OF 2011"
 date_filed = "2011-10-12"
@@ -10,37 +13,38 @@ long_title = "AN ACT PROVIDING FOR THE DELINEATION OF THE SPECIFIC FOREST LIMITS
 scope = "National"
 subjects = [ "Forest Land", "Forest Limits",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2011-10-12"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-14"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-07-05"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-08"
 action = "Returned and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, LOCAL GOVERNMENT and FINANCE per Committee Report No. 464, recommending that it be substituted by SBN-3326;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-12"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-11-12"
 action = "SUBSTITUTED BY SBN-3326, UNDER COMMITTEE REPORT NO. 464."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/12/2012"
+date = "2012-11-12"
 
 [[committees]]
 name = "Environment and Natural Resources"

@@ -1,24 +1,28 @@
 id = "01K67YM2PGV72ETS48QNB1D8TS"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03515"
+
+[meta]
 bill_number = 3515
 congress = 16
-canonical = "HBN-03515"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-3515", "https://web.senate.gov.ph/lisdata/1870115822!.pdf",]
 title = "IDLE GOVERNMENT-OWNED LANDS DISPOSITION ACT OF 2014"
 long_title = "AN ACT PRESCRIBING THE MECHANISMS TO FACILITATE THE DISPOSITION OF IDLE GOVERNMENT-OWNED LANDS FOR SOCIALIZED HOUSING"
 scope = "National"
 subjects = [ "Government Property", "Housing (Socialized Housing)",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-02-11"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-12"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/12/2014"
+date = "2014-02-12"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

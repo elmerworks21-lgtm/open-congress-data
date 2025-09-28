@@ -1,8 +1,11 @@
 id = "01K67YJ0YW0V3G2CZZJRTCHGAX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00333"
+
+[meta]
 bill_number = 333
 congress = 14
-canonical = "SBN-00333"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-333", "https://web.senate.gov.ph/lisdata/44333836!.pdf",]
 title = "PHILIPPINE INFORMATION AGENCY (PIA) WELFARE FUND"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE PHILIPPINE INFORMATION AGENCY (PIA), AMEN
 scope = "National"
 subjects = [ "Philippine Information Agency (PIA)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2007"
+date = "2007-08-07"
 
 [[committees]]
 name = "Public Information and Mass Media"

@@ -1,8 +1,11 @@
 id = "01K67YJDM2BH2Z7XRZ5YWM2Q46"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02079"
+
+[meta]
 bill_number = 2079
 congress = 16
-canonical = "SBN-02079"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2079", "https://web.senate.gov.ph/lisdata/1856315713!.pdf",]
 title = "RICE FERTILIZER SUBSIDY ACT OF 2013"
 date_filed = "2014-01-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A FERTILIZER SUBSIDY PROGRAM FOR RICE FARMERS"
 scope = "National"
 subjects = [ "Farmers/Fisherfolk", "Fertilizer",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-01-22"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-01-27"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/27/2014"
+date = "2014-01-27"
 
 [[committees]]
 name = "Agriculture and Food"

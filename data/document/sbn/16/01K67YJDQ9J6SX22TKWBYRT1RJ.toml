@@ -1,8 +1,11 @@
 id = "01K67YJDQ9J6SX22TKWBYRT1RJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02214"
+
+[meta]
 bill_number = 2214
 congress = 16
-canonical = "SBN-02214"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2214", "https://web.senate.gov.ph/lisdata/1906716189!.pdf",]
 title = "BIG DATA ACT OF 2014"
 date_filed = "2014-05-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE ESTABLISHMENT OF THE PHILIPPINE BIG 
 scope = "National"
 subjects = [ "Philippine Big Data Center",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
-[[legislative_history]]
+
+[[history]]
 date = "2014-05-07"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-12"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/12/2014"
+date = "2014-05-12"
 
 [[committees]]
 name = "Science and Technology"

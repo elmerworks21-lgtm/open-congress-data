@@ -1,8 +1,11 @@
 id = "01K67YJQV5G98V93AK4Z1QSR95"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02048"
+
+[meta]
 bill_number = 2048
 congress = 18
-canonical = "SBN-02048"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2048", "https://web.senate.gov.ph/lisdata/3448331288!.pdf",]
 title = "GOVERNMENT FINANCIAL INSTITUTIONS (GFIS) UNIFIED INITIATIVES TO DISTRISSED ENTERPRISES"
 date_filed = "2021-02-10"
@@ -10,49 +13,50 @@ long_title = "AN ACT PROVIDING FOR GOVERNMENT FINANCIAL INSTITUTIONS UNIFIED INI
 scope = "National"
 subjects = [ "Government Financial Institutions",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2021-02-10"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-10"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-10"
 action = "Transferred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-17"
 action = "Transferred from the Committee on RULES to the Committees on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-03"
 action = "Also referred to the Committees on WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-04-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/10/2021"
+date = "2021-02-10"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

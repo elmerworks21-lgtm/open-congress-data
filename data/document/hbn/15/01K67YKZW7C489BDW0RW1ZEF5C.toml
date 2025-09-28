@@ -1,24 +1,28 @@
 id = "01K67YKZW7C489BDW0RW1ZEF5C"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04672"
+
+[meta]
 bill_number = 4672
 congress = 15
-canonical = "HBN-04672"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4672", "https://web.senate.gov.ph/lisdata/115589826!.pdf",]
 title = "NATIONAL CHILDREN'S MONTH ACT"
 long_title = "AN ACT DECLARING THE CELEBRATION OF THE NATIONAL CHILDREN'S MONTH IN THE COUNTRY ON OCTOBER OF EVERY YEAR"
 scope = "National"
 subjects = [ "National Child Awareness Month",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-06-08"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-08"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2011"
+date = "2011-06-08"
 
 [[committees]]
 name = "Education, Arts and Culture"

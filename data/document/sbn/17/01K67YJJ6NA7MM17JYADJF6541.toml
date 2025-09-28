@@ -1,8 +1,11 @@
 id = "01K67YJJ6NA7MM17JYADJF6541"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01451"
+
+[meta]
 bill_number = 1451
 congress = 17
-canonical = "SBN-01451"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1451", "https://web.senate.gov.ph/lisdata/2595522319!.pdf",]
 title = "MILITARY AND UNIFORMED PERSONNEL INSURANCE FUND ACT OF 2017"
 date_filed = "2017-05-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE MILITARY AND UNIFORMED PERSONNEL PENSION 
 scope = "National"
 subjects = [ "Military and Uniformed Personnel", "Pension", "Insurance", "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2017-05-15"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-15"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; NATIONAL DEFENSE AND SECURITY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/15/2017"
+date = "2017-05-15"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

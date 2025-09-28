@@ -1,8 +1,11 @@
 id = "01K67YJ0T2WP4MWCBA28CW1S6T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00122"
+
+[meta]
 bill_number = 122
 congress = 14
-canonical = "SBN-00122"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-122", "https://web.senate.gov.ph/lisdata/42203604!.pdf",]
 title = "REVISED PHILIPPINE AMUSEMENT AND GAMING CORPORATION (PAGCOR) ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO STRENGTHEN AND RATIONALIZE THE AUTHORITY, POWERS, FUNCTI
 scope = "National"
 subjects = [ "Presidential Decrees (P.D.No. 1869/Pagcor Charter)", "Philippine Amusement and Gaming Corporation (Pagcor)",]
 authors_raw = "Enrile, Juan Ponce"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator JUAN PONCE ENRILE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-30"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2007"
+date = "2007-07-30"
 
 [[committees]]
 name = "Rules"

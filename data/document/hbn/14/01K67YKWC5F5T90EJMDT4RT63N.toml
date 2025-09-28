@@ -1,24 +1,28 @@
 id = "01K67YKWC5F5T90EJMDT4RT63N"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04652"
+
+[meta]
 bill_number = 4652
 congress = 14
-canonical = "HBN-04652"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4652", "https://web.senate.gov.ph/lisdata/85577755!.pdf",]
 title = "BARANGAY BARAS TO BARANGAY SAN VICENTE"
 long_title = "AN ACT CONVERTING THE ROAD WHICH STARTS IN BARANGAY BARAS TO BARANGAY SAN VICENTE IN THE MUNICIPALITY OF CANAMAN AND WHICH TRAVERSES QUEROBAC, BAGUMBAYAN SUR AND ENDS IN STA. CRUZ ROAD, NAGA CITY INTO A NATIONAL SECONDARY ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representative LUIS R. VILLAFUERTE as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-22"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2008"
+date = "2008-09-22"
 
 [[committees]]
 name = "Public Works"

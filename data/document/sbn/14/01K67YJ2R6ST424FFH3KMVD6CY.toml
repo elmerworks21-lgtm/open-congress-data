@@ -1,8 +1,11 @@
 id = "01K67YJ2R6ST424FFH3KMVD6CY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02683"
+
+[meta]
 bill_number = 2683
 congress = 14
-canonical = "SBN-02683"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2683", "https://web.senate.gov.ph/lisdata/90678247!.pdf",]
 title = "TEEN DATING VIOLENCE ACT OF 2008"
 date_filed = "2008-10-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE DEPARTMENT OF EDUCATION TO INCLUDE DATING VIO
 scope = "National"
 subjects = [ "Department of Education (DepEd)", "Physical Education, Health and Music (PEHM) Curriculum", "Teen Violence",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-11"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/11/2008"
+date = "2008-11-11"
 
 [[committees]]
 name = "Education, Arts and Culture"

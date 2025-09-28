@@ -1,8 +1,11 @@
 id = "01K67YJ796EJT2RNRM98CG47PW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00096"
+
+[meta]
 bill_number = 96
 congress = 15
-canonical = "SBN-00096"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-96", "https://web.senate.gov.ph/lisdata/75646104!.pdf",]
 title = "COMPULSORY TEACHING OF ETHICS ACT OF 2010"
 date_filed = "2010-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO MAKE A SEPARATE COURSE ON ETHICS COMPULSORY AT ALL LEVEL
 scope = "National"
 subjects = [ "Ethics",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-07-27"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2010"
+date = "2010-07-27"
 
 [[committees]]
 name = "Education, Arts and Culture"

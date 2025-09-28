@@ -1,8 +1,11 @@
 id = "01K67YJV5RPBP2RBR9KC0GDFB4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00443"
+
+[meta]
 bill_number = 443
 congress = 19
-canonical = "SBN-00443"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-443", "https://web.senate.gov.ph/lisdata/3820434642!.pdf",]
 title = "TEACHERS HOME IN SCHOOL ACT"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING FREE ON-SITE LIVING FACILITIES FOR PUBLIC SCHO
 scope = "National"
 subjects = [ "Public School Teachers", "Free On-Site Living Facility", "Teachers Home in School", "On-Site, In-City or Near-City Resettlement",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committees on URBAN PLANNING, HOUSING AND RESETTLEMENT; PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2022"
+date = "2022-08-10"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

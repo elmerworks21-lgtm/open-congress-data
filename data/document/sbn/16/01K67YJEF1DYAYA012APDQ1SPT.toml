@@ -1,8 +1,11 @@
 id = "01K67YJEF1DYAYA012APDQ1SPT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03004"
+
+[meta]
 bill_number = 3004
 congress = 16
-canonical = "SBN-03004"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3004", "https://web.senate.gov.ph/lisdata/2249019196!.pdf",]
 title = "RIGHT OF WAY FOR NATIONAL GOVERNMENT INFRASTRUCTURE PROJECTS"
 date_filed = "2015-11-09"
@@ -10,93 +13,94 @@ long_title = "AN ACT STRENGTHENING THE PROCESS OF ACQUIRING THE RIGHT OF WAY FOR
 scope = "National"
 subjects = [ "Right-Of-Way", "Infrastuctures",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R., Villar, Cynthia A., Lapid, Manuel \"Lito\" M., Guingona III, Teofisto \"Tg\", Pimentel, Aquilino Koko III L., Angara, Juan Edgardo \"Sonny\" M., Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2015-11-09"
 action = "Prepared and submitted jointly by the Committee(s) on PUBLIC WORKS, JUSTICE AND HUMAN RIGHTS, WAYS AND MEANS and FINANCE with Senator(s) FERDINAND 'BONGBONG' R. MARCOS, CYNTHIA A. VILLAR, MANUEL 'LITO' M. LAPID, TEOFISTO 'TG' GUINGONA III, AQUILINO KOKO III L. PIMENTEL, JUAN EDGARDO 'SONNY' M. ANGARA and LOREN B. LEGARDA as author(s) per Committee Report No. 292, recommending its approval in substitution of SBNos. 2145, 2180 and 2447;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-10"
 action = "Sponsor: Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-07"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-07"
 action = "Sponsorship speech of Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-07"
 action = "Inquiry of the Chair;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-09"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-09"
 action = "Period of committee amendments (Senate Adopted HBN-5588 as committee amendment);"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-09"
 action = "Period of committee amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-09"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-09"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-10"
 action = "Printed Copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-14"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-14"
 action = "In favor: (16) JUAN EDGARDO 'SONNY' M. ANGARA, PAOLO BENIGNO 'BAM' AQUINO IV, MARIA LOURDES NANCY S. BINAY, PIA S. CAYETANO, FRANKLIN M. DRILON, JOSEPH VICTOR G. EJERCITO, FRANCIS 'CHIZ' G. ESCUDERO, TEOFISTO 'TG' GUINGONA III, GREGORIO B. HONASAN II, LOREN B. LEGARDA, SERGIO R. OSMENA III, AQUILINO KOKO III L. PIMENTEL, GRACE L. POE, RALPH G. RECTO, VICENTE C. SOTTO III and CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-14"
 action = "Against: N o n e ;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-14"
 action = "Abstention: N o n e ;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-14"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-27"
 action = "Enrolled copies of the consolidated version of SBN-3004 and HBN-5588, received by the Senate already signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "Enrolled copies of the consolidated version of HBN-5588 and SBN-3004, sent to the House of Representatives already signed by Senate Secretary Yabes and Senate President Drilon;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Consolidated with HBN-5588, which was Approved and Signed into Law by the President of the Philippines, His Excellency, President Benigno S. Aquino III on March 7, 2016 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "REPUBLIC ACT NO. 10752."
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "3/7/2016"
+date = "2016-03-07"
 
 [[committees]]
 name = "Public Works"

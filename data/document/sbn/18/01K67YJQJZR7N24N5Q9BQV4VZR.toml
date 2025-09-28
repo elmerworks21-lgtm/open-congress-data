@@ -1,8 +1,11 @@
 id = "01K67YJQJZR7N24N5Q9BQV4VZR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01718"
+
+[meta]
 bill_number = 1718
 congress = 18
-canonical = "SBN-01718"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1718", "https://web.senate.gov.ph/lisdata/3323130072!.pdf",]
 title = "CONVERTING THE ASIPULO-LAMUT-LAGAWE-AGUINALDO PROVINCIAL ROAD IN THE PROVINCE OF IFUGAO"
 date_filed = "2020-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE ASIPULO-LAMUT-LAGAWE-AGUINALDO PROVINCIAL RO
 scope = "Local"
 subjects = [ "Roads, Conversion",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-07-23"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-03"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2020"
+date = "2020-08-03"
 
 [[committees]]
 name = "Rules"

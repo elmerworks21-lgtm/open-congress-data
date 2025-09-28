@@ -1,8 +1,11 @@
 id = "01K67YJH7B097ZHNR4TE5F6BTA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00128"
+
+[meta]
 bill_number = 128
 congress = 17
-canonical = "SBN-00128"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-128", "https://web.senate.gov.ph/lisdata/2354720162!.pdf",]
 title = "CONSTITUTIONAL CONVENTION ACT OF 2016"
 date_filed = "2016-06-30"
@@ -10,25 +13,26 @@ long_title = "AN ACT CONSTITUTING A CONSTITUTIONAL CONVENTION TO AMEND THE 1987 
 scope = "National"
 subjects = [ "Constitutional Amendments", "Constitutional Convention",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES; and ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-12-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-15"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "1/15/2018"
+date = "2018-01-15"
 
 [[committees]]
 name = "Constitutional Amendments and Revision of Codes"

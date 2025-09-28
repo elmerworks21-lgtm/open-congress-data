@@ -1,24 +1,28 @@
 id = "01K67YM91B83NS1YVFJKT2MT08"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05665"
+
+[meta]
 bill_number = 5665
 congress = 18
-canonical = "HBN-05665"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-5665", "https://web.senate.gov.ph/lisdata/3210928951!.pdf",]
 title = "RTC (MATI, DAVAO ORIENTAL)"
 long_title = "AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND TWO (2) ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COURT IN CITIES IN THE ELEVENTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF MATI, PROVINCE OF DAVAO ORIENTAL, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTIONS 14(L) AND 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED"
 scope = "National"
 subjects = [ "Courts (Rtc/Mtc, Creation)", "Judiciary Reorganization Act (Batas Pambansa Blg. 129)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-12-18"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2020"
+date = "2020-01-20"
 
 [[committees]]
 name = "Justice and Human Rights"

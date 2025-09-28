@@ -1,8 +1,11 @@
 id = "01K67YJPQ1JWGQ25YPWDGMXYR2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00484"
+
+[meta]
 bill_number = 484
 congress = 18
-canonical = "SBN-00484"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-484", "https://web.senate.gov.ph/lisdata/3073127573!.pdf",]
 title = "EXEMPTING ALL VEHICLES FROM PAYING TOLL FEES ON CERTAIN HOLIDAYS, AMENDING P.D.NO. 1112"
 date_filed = "2019-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXEMPTING ALL VEHICLES FROM PAYING TOLL FEES ON CERTAIN HOL
 scope = "National"
 subjects = [ "Motor Vehicles", "Toll Fees", "Presidential Decree (P.D.No. 1112; Toll Regulatory Board)",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-15"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Public Services"

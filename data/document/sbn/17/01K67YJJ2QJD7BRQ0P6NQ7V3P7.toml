@@ -1,8 +1,11 @@
 id = "01K67YJJ2QJD7BRQ0P6NQ7V3P7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01309"
+
+[meta]
 bill_number = 1309
 congress = 17
-canonical = "SBN-01309"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1309", "https://web.senate.gov.ph/lisdata/2532321833!.pdf",]
 title = "AMENDING R.A. NO. 10068 (ORGANIC AGRICULTURE ACT OF 2010)"
 date_filed = "2017-01-31"
@@ -10,29 +13,30 @@ long_title = "AN ACT STRENGTHENING SUSTAINABLE AGRICULTURE AND ENHANCING SUPPORT
 scope = "National"
 subjects = [ "Organic Agriculture/Organic Farming", "Farmers",]
 authors_raw = "Poe, Grace L."
-[[legislative_history]]
+
+[[history]]
 date = "2017-01-31"
 action = "Introduced by Senator GRACE L. POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-01"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE AND FOOD;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-04"
 action = "Returned and submitted by the Committee on AGRICULTURE AND FOOD per Committee Report No. 625, recommending that it be substituted by SBN-2203;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-04"
 action = "SUBSTITUTED BY SBN-2203 UNDER COMMITTEE REPORT NO. 625."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/4/2019"
+date = "2019-02-04"
 
 [[committees]]
 name = "Agriculture and Food"

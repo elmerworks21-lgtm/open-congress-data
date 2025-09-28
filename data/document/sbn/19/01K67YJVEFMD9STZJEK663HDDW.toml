@@ -1,8 +1,11 @@
 id = "01K67YJVEFMD9STZJEK663HDDW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00844"
+
+[meta]
 bill_number = 844
 congress = 19
-canonical = "SBN-00844"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-844", "https://web.senate.gov.ph/lisdata/3865735110!.pdf",]
 title = "ADDITIONAL TEACHERS' INSURANCE ACT"
 date_filed = "2022-07-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING ADDITIONAL INSURANCE BENEFITS TO ALL PUBLIC SCHOOL
 scope = "National"
 subjects = [ "Public School Teachers", "Insurance", "Benefits and Incentives",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committees on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; BASIC EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

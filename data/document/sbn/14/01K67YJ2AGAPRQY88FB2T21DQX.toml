@@ -1,61 +1,65 @@
 id = "01K67YJ2AGAPRQY88FB2T21DQX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02086"
+
+[meta]
 bill_number = 2086
 congress = 14
-canonical = "SBN-02086"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2086", "https://web.senate.gov.ph/lisdata/68936105!.pdf",]
 title = "2008 EMERGENCY MANAGEMENT AGENCY ACT"
 date_filed = "2008-02-18"
 long_title = "AN ACT ESTABLISHING THE EMERGENCY MANAGEMENT AGENCY (EMA) AND PROVIDING FUNDS THEREFOR"
 scope = "National"
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-02-18"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-19"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-26"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-15"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-23"
 action = "Returned and submitted jointly by the Committee(s) on NATIONAL DEFENSE AND SECURITY, LOCAL GOVERNMENT, PUBLIC SERVICES and FINANCE per Committee Report No. 248, recommending that it be substituted by SBN-3086;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-23"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-23"
 action = "SUBSTITUTED BY SBN-3086, WHICH BECAME R.A.NO. 10121."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/23/2009"
+date = "2009-02-23"
 
 [[committees]]
 name = "National Defense and Security"

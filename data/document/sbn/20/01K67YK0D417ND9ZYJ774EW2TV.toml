@@ -1,8 +1,11 @@
 id = "01K67YK0D417ND9ZYJ774EW2TV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01023"
+
+[meta]
 bill_number = 1023
 congress = 20
-canonical = "SBN-01023"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1023", "https://web.senate.gov.ph/lisdata/4762943645!.pdf",]
 title = "EXAPNDED MAGNA CARTA OF PUBLIC HEALTH WORKERS ACT"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS REPUBLIC ACT NUMBER SEVEN THOUSAN
 scope = "National"
 subjects = [ "Magna Carta for Public Health Workers",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-02"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/2/2025"
+date = "2025-09-02"
 
 [[committees]]
 name = "Health and Demography"

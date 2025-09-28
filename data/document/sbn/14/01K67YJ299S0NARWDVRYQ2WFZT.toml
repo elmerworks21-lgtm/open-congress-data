@@ -1,33 +1,37 @@
 id = "01K67YJ299S0NARWDVRYQ2WFZT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02033"
+
+[meta]
 bill_number = 2033
 congress = 14
-canonical = "SBN-02033"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2033", "https://web.senate.gov.ph/lisdata/67475992!.pdf",]
 title = "PRISON RAPE ELIMINATION ACT OF 2008"
 date_filed = "2008-01-29"
 long_title = "AN ACT TO PROVIDE FOR THE ANALYSIS OF THE INCIDENCE AND EFFECTS OF PRISON RAPE AND TO PROVIDE INFORMATION, RESOURCES, RECOMMENDATIONS, FUNDING, AND PUNISHMENT TO PROTECT INDIVIDUALS FROM PRISON RAPE"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-30"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; PUBLIC ORDER AND ILLEGAL DRUGS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-03-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2008"
+date = "2008-01-30"
 
 [[committees]]
 name = "Justice and Human Rights"

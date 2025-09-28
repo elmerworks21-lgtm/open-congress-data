@@ -1,8 +1,11 @@
 id = "01K67YJ2KSYD56ZEPMF3YAP72Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02479"
+
+[meta]
 bill_number = 2479
 congress = 14
-canonical = "SBN-02479"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2479", "https://web.senate.gov.ph/lisdata/79527184!.pdf",]
 title = "DOCUMENTARY STAMP TAX EXEMPTION ON MONEY TRANSFER REMITTED BY OFWS"
 date_filed = "2008-07-24"
@@ -10,25 +13,26 @@ long_title = "ANACT EXEMPTING MONEY TRANSFER TO THE PHILIPPINES OF OVERSEAS FORE
 scope = "National"
 subjects = [ "Documentary Stamp Tax", "Overseas Contract Workers (OCWS)/Overseas Filipino Workers (OFWs)", "R.A.No. 8424 (Tax Reform Act of 1997), Amendments",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-24"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-11"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Ways and Means"

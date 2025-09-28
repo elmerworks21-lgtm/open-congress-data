@@ -1,8 +1,11 @@
 id = "01K67YK0CEZ3AM7X11QGRQBAZB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00988"
+
+[meta]
 bill_number = 988
 congress = 20
-canonical = "SBN-00988"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-988", "https://web.senate.gov.ph/lisdata/4744243446!.pdf",]
 title = "FREE MENSTRUAL PRODUCTS ACT"
 date_filed = "2025-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING MENSTRUAL HEALTH AND HYGIENE BY PROVIDING FREE ME
 scope = "National"
 subjects = [ "Free Menstrual Health and Hygiene Products",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-06"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; BASIC EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Health and Demography"

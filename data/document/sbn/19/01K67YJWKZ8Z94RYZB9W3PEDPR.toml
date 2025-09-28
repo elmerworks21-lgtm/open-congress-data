@@ -1,8 +1,11 @@
 id = "01K67YJWKZ8Z94RYZB9W3PEDPR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02438"
+
+[meta]
 bill_number = 2438
 congress = 19
-canonical = "SBN-02438"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2438", "https://web.senate.gov.ph/lisdata/4269038822!.pdf",]
 title = "PHILIPPINE ARCHIPELAGIC SEA LANES ACT"
 date_filed = "2023-09-12"
@@ -10,49 +13,50 @@ long_title = "AN ACT TO ESTABLISH THE ARCHIPELAGIC SEA LANES IN THE PHILIPPINE A
 scope = "National"
 subjects = [ "Archipelagic Sea Lanes",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-09-12"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-13"
 action = "Read on First Reading and Referred to the SPECIAL COMMITTEE ON PHILIPPINE MARITIME AND ADMIRALTY ZONES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-10-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-19"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-08"
 action = "Returned and submitted by the SPECIAL COMMITTEE ON PHILIPPINE MARITIME AND ADMIRALTY ZONES per Committee Report No. 251, recommending that it be substituted by SBN-2665;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-08"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-08"
 action = "SUBSTITUTED BY SBN-2665 UNDER COMMITTEE REPORT NO. 251, WHICH BECAME R.A. NO. 12065 ON NOVEMBER 7, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/8/2024"
+date = "2024-05-08"
 
 [[committees]]
 name = "Special Committee on Philippine Maritime and Admiralty Zones"

@@ -1,8 +1,11 @@
 id = "01K67YCPMXRE4FVNQ22YK455EZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02197"
+
+[meta]
 bill_number = 2197
 congress = 13
-canonical = "SBN-02197"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2197", "https://web.senate.gov.ph/lisdata/44963640!.pdf",]
 title = "ANTI-CHILD PORNOGRAPHY ACT"
 date_filed = "2006-01-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING THE POSSESSION, SALE AND DISTRIBUTION OF CHILD P
 scope = "National"
 subjects = [ "Anti-Child Pornography",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2006-01-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-30"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2006"
+date = "2006-01-30"
 
 [[committees]]
 name = "Public Information and Mass Media"

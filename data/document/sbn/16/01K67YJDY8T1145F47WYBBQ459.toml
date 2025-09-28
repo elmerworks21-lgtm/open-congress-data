@@ -1,8 +1,11 @@
 id = "01K67YJDY8T1145F47WYBBQ459"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02487"
+
+[meta]
 bill_number = 2487
 congress = 16
-canonical = "SBN-02487"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2487", "https://web.senate.gov.ph/lisdata/2017917289!.pdf",]
 title = "CHILDREN'S EMERGENCY RELIEF AND PROTECTION ACT"
 date_filed = "2014-12-03"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROVIDING EMERGENCY RELIEF AND PROTECTION FOR CHILDREN DURI
 scope = "National"
 subjects = [ "Health Care Delivery System", "Children/Child Care", "Emergency Response/Emergency Preparedness", "Youth",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2014-12-03"
 action = "Introduced by Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-09"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-12-17"
 action = "Change of Committee Referral from the Committee on Youth to the Committee on WOMEN, FAMILY RELATIONS AND GENDER EQUALITY as the primary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-01-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-14"
 action = "Returned and submitted jointly by the Committee(s) on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY, SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, FINANCE and YOUTH per Committee Report No. 338, recommending that it be substituted by SBN-3034;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-15"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-15"
 action = "SUBSTITUTED BY SBN-3034 UNDER C.R. NO. 338, WHICH BECAME R.A.NO. 10821 ON MAY 19, 2016."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/15/2015"
+date = "2015-12-15"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

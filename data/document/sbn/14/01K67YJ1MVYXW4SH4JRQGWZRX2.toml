@@ -1,8 +1,11 @@
 id = "01K67YJ1MVYXW4SH4JRQGWZRX2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01406"
+
+[meta]
 bill_number = 1406
 congress = 14
-canonical = "SBN-01406"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1406", "https://web.senate.gov.ph/lisdata/57095070!.pdf",]
 title = "LEGITIMATION OF CHILDREN BORN TO PARENTS BELOW MARRYING AGE"
 date_filed = "2007-07-31"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR THE LEGITIMATION OF CHILDREN BORN TO PARENTS 
 scope = "National"
 subjects = [ "Family Code (E.O.No. 209)", "Child Legitimation",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-31"
 action = "Introduced by Senator 'COMPANERA' PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-02"
 action = "Returned and submitted jointly by the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS per Committee Report No. 278, recommending that it be substituted by SBN-3111;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-03"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-03"
 action = "SUBSTITUTED BY SBN-3111."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/3/2009"
+date = "2009-03-03"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

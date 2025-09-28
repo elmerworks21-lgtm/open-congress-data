@@ -1,8 +1,11 @@
 id = "01K67YJ993TDMSHBPMXR07NWXV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02895"
+
+[meta]
 bill_number = 2895
 congress = 15
-canonical = "SBN-02895"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2895", "https://web.senate.gov.ph/lisdata/118109954!.pdf",]
 title = "COMPULSORY PSYCHO-TECHNICAL DRIVER ASSESSMENT TESTS"
 date_filed = "2011-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 22 OF REPUBLIC ACT NO. 4136 OTHERWISE KNOW
 scope = "National"
 subjects = [ "Land Transportation and Traffic Code (R.A.No. 4136)", "Driver Assessment Tests",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-07-19"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2011"
+date = "2011-08-03"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YCNMQQK6QMW4HYWKBW98D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00489"
+
+[meta]
 bill_number = 489
 congress = 13
-canonical = "SBN-00489"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-489", "https://web.senate.gov.ph/lisdata/1647948!.pdf",]
 title = "BUDGET IMPOUNDMENT CONTROL ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "THE BUDGET IMPOUNDMENT CONTROL ACT"
 scope = "National"
 subjects = [ "Budget Impoundment Control Act",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Finance"

@@ -1,8 +1,11 @@
 id = "01K67YJVV2VHSV5Y4ZKNFTYAZC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01392"
+
+[meta]
 bill_number = 1392
 congress = 19
-canonical = "SBN-01392"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1392", "https://web.senate.gov.ph/lisdata/3966935982!.pdf",]
 title = "RESULTS-BASED NATIONAL EVALUATION POLICY (RBNEP) ACT"
 date_filed = "2022-10-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING A RESULTS-BASED NATIONAL EVALUATION POLI
 scope = "National"
 subjects = [ "Results-Based National Evaluation Policy (Rbnep)",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-10-13"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-07"
 action = "Read on First Reading and Referred to the Committees on ECONOMIC AFFAIRS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/7/2022"
+date = "2022-11-07"
 
 [[committees]]
 name = "Economic Affairs"

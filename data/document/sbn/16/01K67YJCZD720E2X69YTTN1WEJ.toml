@@ -1,8 +1,11 @@
 id = "01K67YJCZD720E2X69YTTN1WEJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01072"
+
+[meta]
 bill_number = 1072
 congress = 16
-canonical = "SBN-01072"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1072", "https://web.senate.gov.ph/lisdata/1710414328!.pdf",]
 title = "TRANSITORY INDIVIDUAL ECONOMIC STABILITY AND CONFIDENCE BUILDING MEASURES ACT OF 2013"
 date_filed = "2013-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT INTRODUCING TRANSITORY MEASURES TO PROVIDE CONSUMER AND SMA
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Tax Refund", "Tax Credit",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-23"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; and ECONOMIC AFFAIRS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Ways and Means"

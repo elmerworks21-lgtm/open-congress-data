@@ -1,8 +1,11 @@
 id = "01K67YJE3DYX0YN5X1P5WH5VP6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02720"
+
+[meta]
 bill_number = 2720
 congress = 16
-canonical = "SBN-02720"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2720", "https://web.senate.gov.ph/lisdata/2112518004!.pdf",]
 title = "COMPREHENSIVE NURSING LAW OF 2015"
 date_filed = "2015-04-15"
@@ -10,105 +13,106 @@ long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE NURSING LAW TOWARDS QUALITY H
 scope = "National"
 subjects = [ "Health Care Delivery System", "Nurses",]
 authors_raw = "Recto, Ralph G., Trillanes, Antonio \"Sonny\" F., Marcos, Ferdinand \"Bongbong\" R., Binay, Maria Lourdes Nancy S., Angara, Juan Edgardo \"Sonny\" M., Guingona III, Teofisto \"Tg\", Escudero, Francis \"Chiz\" G., Villar, Cynthia A., Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2015-04-15"
 action = "Prepared and submitted jointly by the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION, HEALTH AND DEMOGRAPHY and FINANCE with Senator(s) RALPH G. RECTO, ANTONIO 'SONNY' F. TRILLANES, FERDINAND 'BONGBONG' R. MARCOS, MARIA LOURDES NANCY S. BINAY, JUAN EDGARDO 'SONNY' M. ANGARA, TEOFISTO 'TG' GUINGONA III, FRANCIS 'CHIZ' G. ESCUDERO and CYNTHIA A. VILLAR as author(s) per Committee Report No. 124, recommending its approval in substitution of SBNos. 622, 1009, 1237, 1264, 1840 and 2583;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-04"
 action = "Sponsors: Senator(s) ANTONIO 'SONNY' F. TRILLANES, TEOFISTO 'TG' GUINGONA III and FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-04"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-04"
 action = "Sponsorship speech of Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-07-29"
 action = "Letter of Senator RAMON BONG REVILLA, JR. requesting that he be made a coauthor of SBN-2720, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-11"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-11"
 action = "Period of committee amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-11"
 action = "Period of individual amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-11"
 action = "Period of individual amendments closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-11"
 action = "Approved on Second Reading with Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-12"
 action = "Printed Copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-23"
 action = "Approved on Third Reading;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-23"
 action = "In favor: (13) JUAN EDGARDO 'SONNY' M. ANGARA, MARIA LOURDES NANCY S. BINAY, PIA S. CAYETANO, FRANKLIN M. DRILON, JOSEPH VICTOR G. EJERCITO, JUAN PONCE ENRILE, FRANCIS 'CHIZ' G. ESCUDERO, TEOFISTO 'TG' GUINGONA III, GREGORIO B. HONASAN II, LOREN B. LEGARDA, GRACE L. POE, VICENTE C. SOTTO III and CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-23"
 action = "Against: N o n e ;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-23"
 action = "Abstention: N o n e ;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-11-24"
 action = "Sent to the House of Representatives requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-03"
 action = "House of Representatives informing the Senate that Representatives Salvacion Jr., Padilla, Rodriguez (R.), Noel and Paquiz were designated as its conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-2720 and HBN-6411 on February 1, 2016;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-02-04"
 action = "House of Representatives adopted SBN-2720 as an amendment to HBN-6411 on February 2, 2016;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-04-07"
 action = "Enrolled copies of SBN-2720 which was adopted as an amendment to HBN-6411, sent to the House of Representatives for the signature of the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-10"
 action = "Enrolled copies of the consolidated version of SBN-2720 and HBN-6411, received by the Senate already signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-16"
 action = "Enrolled copies of SBN-2720 which was adopted as an amendment to HBN-6411, sent to the Office of the President of the Philippines through PLLO for the signature and approval of His Excellency, President Benigno S. Aquino III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-15"
 action = "Pursuant to the provisions of Article VI, Sec. 27 (1) of the 1987 Constitution, the President of the Philippines, His Excellency President Benigno S. Aquino III, returned the enrolled bill SBN-2720/HBN-6411, without his signature;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-06-15"
 action = "VETOED BY THE PRESIDENT OF THE PHILIPPINES."
 
 [[status]]
 status = "Vetoed by the President of the Philippines"
-date = "6/15/2016"
+date = "2016-06-15"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

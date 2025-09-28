@@ -1,8 +1,11 @@
 id = "01K67YJW4E0GZ6XFSYNVVDS88J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01795"
+
+[meta]
 bill_number = 1795
 congress = 19
-canonical = "SBN-01795"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1795", "https://web.senate.gov.ph/lisdata/4055436963!.pdf",]
 title = "BASIC EDUCATION MENTAL HEALTH AND WELL-BEING PROMOTION ACT"
 date_filed = "2023-01-30"
@@ -10,65 +13,66 @@ long_title = "AN ACT STRENGTHENING THE PROMOTION AND DELIVERY OF MENTAL HEALTH S
 scope = "National"
 subjects = [ "Mental Health", "Basic Education Mental Health and Well-Being Promotion",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-30"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-01"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-14"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-09"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-28"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Returned and submitted jointly by the Committees on BASIC EDUCATION, HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 66, recommending that it be substituted by SBN-2200;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "SUBSTITUTED BY SBN-2200 UNDER COMMITTEE REPORT NO. 66 WHICH BECAME REPUBLIC ACT NO. 12078 ON DECEMBER 6, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/17/2023"
+date = "2023-05-17"
 
 [[committees]]
 name = "Basic Education"

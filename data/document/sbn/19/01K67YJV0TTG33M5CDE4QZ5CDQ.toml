@@ -1,8 +1,11 @@
 id = "01K67YJV0TTG33M5CDE4QZ5CDQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00215"
+
+[meta]
 bill_number = 215
 congress = 19
-canonical = "SBN-00215"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-215", "https://web.senate.gov.ph/lisdata/3792334497!.pdf",]
 title = "REDEFINING THE CRIME OF ILLEGAL RECRUITMENT COMMITTED BY A SYNDICATE"
 date_filed = "2022-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT REDEFINING THE CRIME OF ILLEGAL RECRUITMENT COMMITTED BY A 
 scope = "National"
 subjects = [ "Illegal Recruitment", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-02"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FOREIGN RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-17"
 action = "Transferred from the Committee on Labor, Employment and Human Resources Development to the Committee on MIGRANT WORKERS as primary committee;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2022"
+date = "2022-08-02"
 
 [[committees]]
 name = "Migrant Workers"

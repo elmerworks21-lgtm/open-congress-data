@@ -1,8 +1,11 @@
 id = "01K67YJ28SH61HH41865JY2KF4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02012"
+
+[meta]
 bill_number = 2012
 congress = 14
-canonical = "SBN-02012"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2012", "https://web.senate.gov.ph/lisdata/67265964!.pdf",]
 title = "DSWD CERTIFICATION AS PREREQUISITE FOR ADOPTION PROCEEDINGS"
 date_filed = "2008-01-28"
@@ -10,29 +13,30 @@ long_title = "AN ACT REQUIRING CERTIFICATION OF THE DEPARTMENT OF SOCIAL WELFARE
 scope = "National"
 subjects = [ "Department of Social Welfare and Development (DSWD)", "Domestic Adoption", "Inter-Country Adoption (Filipino Children)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-28"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-29"
 action = "Read on First Reading and Referred to the Committee on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-10"
 action = "Returned and submitted by the Committee on YOUTH, WOMEN AND FAMILY RELATIONS per Committee Report No. 72, recommending that it be substituted by SBN-2391;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-11"
 action = "SUBSTITUTED BY SBN-2391, WHICH BECAME R.A.NO. 9523."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/11/2008"
+date = "2008-06-11"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

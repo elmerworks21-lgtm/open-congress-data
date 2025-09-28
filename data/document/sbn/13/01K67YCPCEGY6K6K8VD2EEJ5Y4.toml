@@ -1,8 +1,11 @@
 id = "01K67YCPCEGY6K6K8VD2EEJ5Y4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01795"
+
+[meta]
 bill_number = 1795
 congress = 13
-canonical = "SBN-01795"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1795", "https://web.senate.gov.ph/lisdata/30182579!.pdf",]
 title = "DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY"
 date_filed = "2004-09-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS T
 scope = "National"
 subjects = [ "Dept. of Information/Communications Tech", "Merger: Dotc and Ncc", "National Computer Center", "Dept. of Transportation & Communications",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-09-21"
 action = "Introduced by Senator MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-22"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2004"
+date = "2004-09-22"
 
 [[committees]]
 name = "Public Services"

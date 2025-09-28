@@ -1,28 +1,32 @@
 id = "01K67YKVVYDVFNYR24C340NPVV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03683"
+
+[meta]
 bill_number = 3683
 congress = 14
-canonical = "HBN-03683"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-3683", "https://web.senate.gov.ph/lisdata/72636500!.pdf",]
 title = "THE CAMOTES ISLANDS NATURAL RESOURCES MANAGEMENT ACT"
 long_title = "AN ACT RATIONALIZING THE MANAGEMENT OF THE NATURAL RESOURCES IN THE CAMOTES ISLANDS, PROVINCE OF CEBU, AMENDING FOR THE PURPOSE PROCLAMATION NO. 2152 DATED DECEMBER 29, 1981, ENTITLED DECLARING THE ENTIRE PROVINCE OF PALAWAN AND CERTAIN PARCELS OF THE PUBLIC DOMAIN AND/OR PARTS OF THE COUNTRY AS MANGROVE SWAMP FOREST RESERVES"
 scope = "Local"
 subjects = [ "Mangrove Forest Protection", "Botanical Garden/Natural Park/National Park/Archaelogical Site/Forest Reserves",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-06"
 action = "Filed in the Senate requesting for concurrence by Representatives DURANO, IGGY T. ARROYO and FLORENCIO T. MIRAFLORES, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-07"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/7/2008"
+date = "2008-05-07"
 
 [[committees]]
 name = "Environment and Natural Resources"

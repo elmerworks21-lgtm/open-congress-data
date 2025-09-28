@@ -1,8 +1,11 @@
 id = "01K67YJ27DSYMXEPAJ9R28EM8G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01966"
+
+[meta]
 bill_number = 1966
 congress = 14
-canonical = "SBN-01966"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1966", "https://web.senate.gov.ph/lisdata/66205858!.pdf",]
 title = "FORFEITURE LAW"
 date_filed = "2007-12-18"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING SECTION 6 OF REPUBLIC ACT NO. 1379, OTHERWISE KNOW
 scope = "National"
 subjects = [ "Forfeiture Law (RA 1379)",]
 authors_raw = "Roxas, Mar, Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-12-18"
 action = "Prepared and submitted by the Committee on JUSTICE AND HUMAN RIGHTS with Senator(s) MAR ROXAS and FRANCIS 'CHIZ' G. ESCUDERO as author(s) per Committee Report No. 27, recommending its approval in substitution of SBN-256;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-18"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-18"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Transferred from Ordinary Business to Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-02-04"
 action = "Interpellation of Senator(s) MIRIAM DEFENSOR SANTIAGO, EDGARDO J. ANGARA, JOKER P. ARROYO, PANFILO M. LACSON and AQUILINO Q. PIMENTEL JR.;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "1/28/2008"
+date = "2008-01-28"
 
 [[committees]]
 name = "Justice and Human Rights"

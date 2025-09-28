@@ -1,8 +1,11 @@
 id = "01K67YJ31X446H6JJ7Z2VZPAV8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03115"
+
+[meta]
 bill_number = 3115
 congress = 14
-canonical = "SBN-03115"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3115", "https://web.senate.gov.ph/lisdata/104639313!.pdf",]
 title = "TO INCLUDE IN R.A.NO. 9194, PRIVATE INSTITUTIONS/NGO'S RECEIVING MONIES/FUNDS FROM THE GOVT."
 date_filed = "2009-03-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 4 OF REPUBLIC ACT NO. 9194, OTHERWISE KNOW
 scope = "National"
 subjects = [ "Government Procurement Reform", "Non-Government Entity/Non-Government Organizations (NGO)", "Private Sector",]
 authors_raw = "Gordon, Richard \"Dick\" J., Angara, Edgardo J., Biazon, Rodolfo G., Cayetano, \"Companera\" Pia S., Cayetano, Alan Peter \"Companero\" S., Defensor Santiago, Miriam, Escudero, Francis \"Chiz\" G., Honasan II, Gregorio B., Lacson, Panfilo M., Lapid, Manuel \"Lito\" M., Legarda, Loren B., Madrigal, M. A., Pangilinan, Francis N., Revilla Jr., Ramon A., Roxas, Mar, Trillanes IV, Antonio \"Sonny\" F., Arroyo, Joker P."
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-03"
 action = "Introduced by Senators RICHARD 'DICK' J. GORDON,and the Members of the Committee on Accountability of Public Officers and Investigations (Senators EDGARDO J. ANGARA, JOKER P. ARROYO, RODOLFO G. BIAZON, 'COMPANERA' PIA S. CAYETANO, ALAN PETER 'COMPANERO' S. CAYETANO, MIRIAM DEFENSOR SANTIAGO, FRANCIS 'CHIZ' G. ESCUDERO, GREGORIO B. HONASAN II, PANFILO M. LACSON, MANUEL 'LITO' M. LAPID, LOREN B. LEGARDA, M. A. MADRIGAL, FRANCIS N. PANGILINAN, RAMON A. REVILLA JR., MAR ROXAS, and ANTONIO 'SONNY' F. TRILLANES IV);"
 
-[[legislative_history]]
+[[history]]
 date = "2009-03-03"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/3/2009"
+date = "2009-03-03"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

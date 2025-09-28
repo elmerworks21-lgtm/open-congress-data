@@ -1,24 +1,28 @@
 id = "01K67YKX2WYXNJ1HZE5EKQW62Q"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06905"
+
+[meta]
 bill_number = 6905
 congress = 14
-canonical = "HBN-06905"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6905", "https://web.senate.gov.ph/lisdata/1308511704!.pdf",]
 title = "PHILIPPINE STANDARD TIME (PST) ACT OF 2009"
 long_title = "AN ACT TO SET THE PHILIPPINE STANDARD TIME (PST) IN ALL OFFICIAL SOURCES THROUGHOUT THE COUNTRY, TO PROVIDE FUNDS FOR THE INSTALLATION, OPERATION AND MAINTENANCE OF SYNCHRONIZED TIME DEVICES TO BE DISPLAYED IN KEY PUBLIC PLACES AND TO DECLARE THE FIRST WEEK OF EVERY YEAR AS NATIONAL TIME CONSCIOUSNESS WEEK"
 scope = "National"
 subjects = [ "Time (Philippine Standard Time)(Pst)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-11-17"
 action = "Filed in the Senate requesting for concurrence by Representatives MAGTANGGOL T. GUNIGUNDO, JOSEPH, EMILIO A. ABAYA, JUNIE E. CUA, LEONILA V. CHAVEZ, JOSEFINA M. JOSON, ET. AL. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-01"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/1/2009"
+date = "2009-12-01"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

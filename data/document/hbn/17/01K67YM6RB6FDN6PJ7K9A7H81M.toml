@@ -1,24 +1,28 @@
 id = "01K67YM6RB6FDN6PJ7K9A7H81M"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09001"
+
+[meta]
 bill_number = 9001
 congress = 17
-canonical = "HBN-09001"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-9001", "https://web.senate.gov.ph/lisdata/3002326739!.pdf",]
 title = "COLARA BEACH AN ECOTOURISM ZONE (MASBATE)"
 long_title = "AN ACT DECLARING THE COLARA BEACH LOCATED IN THE MUNICIPALITY OF AROROY, PROVINCE OF MASBATE AN ECOTOURISM ZONE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism (Ecotourism Zone", "Ecotourism Site)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Environment and Natural Resources"

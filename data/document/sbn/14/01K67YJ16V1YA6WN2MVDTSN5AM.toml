@@ -1,8 +1,11 @@
 id = "01K67YJ16V1YA6WN2MVDTSN5AM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00724"
+
+[meta]
 bill_number = 724
 congress = 14
-canonical = "SBN-00724"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-724", "https://web.senate.gov.ph/lisdata/49464330!.pdf",]
 title = "TELEVISION ADVERTISEMENT REGULATION ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE SHOWING OF TELEVISION ADVERTISEMENTS FEATURI
 scope = "National"
 subjects = [ "Television Advertisement Regulation",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2007"
+date = "2007-08-29"
 
 [[committees]]
 name = "Public Information and Mass Media"

@@ -1,8 +1,11 @@
 id = "01K67YCPXXKDN5ZWDDAH0D807E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02615"
+
+[meta]
 bill_number = 2615
 congress = 13
-canonical = "SBN-02615"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2615", "https://web.senate.gov.ph/lisdata/69645716!.pdf",]
 title = "MT. BALATUKAN RANGE NATURAL PARK ACT OF 2007"
 date_filed = "2007-02-09"
@@ -10,29 +13,30 @@ long_title = "AN ACT ESTABLISHING THE MT. BALATUKAN RANGE LOCATED IN THE CITY OF
 scope = "Local"
 subjects = [ "Buffer Zones (Mt. Balatukan Range Natural Park)", "Mt. Balatukan Range Natural Park (Misamis Oriental)",]
 authors_raw = "Pimentel Jr., Aquilino Q., Cayetano, Companera Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2007-02-19"
 action = "Prepared and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE with Senator(s) AQUILINO Q. PIMENTEL JR. and COMPANERA PIA S. CAYETANO as author(s) per Committee Report No. 304, recommending its approval in substitution of SBN-2519 and HBN-5839;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-19"
 action = "Sponsors: Senator(s) COMPANERA PIA S. CAYETANO, FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-20"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-20"
 action = "Sponsorship speech of Senator(s) COMPANERA PIA S. CAYETANO;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "2/20/2007"
+date = "2007-02-20"
 
 [[committees]]
 name = "Environment and Natural Resources"

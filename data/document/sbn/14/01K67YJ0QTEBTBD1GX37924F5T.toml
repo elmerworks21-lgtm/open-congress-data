@@ -1,8 +1,11 @@
 id = "01K67YJ0QTEBTBD1GX37924F5T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00025"
+
+[meta]
 bill_number = 25
 congress = 14
-canonical = "SBN-00025"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-25", "https://web.senate.gov.ph/lisdata/42023465!.pdf",]
 title = "FREEDOM OF EXPRESSION ACT OF 2007"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT 3815, OTHERWISE KNOWN AS THE REVISED 
 scope = "National"
 subjects = [ "Freedom of Expression/Freedom of Speech", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Madrigal, M. A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator M. A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2007"
+date = "2007-07-24"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,40 +1,44 @@
 id = "01K67YM9PZATSHM6H0ED51HGED"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09390"
+
+[meta]
 bill_number = 9390
 congress = 18
-canonical = "HBN-09390"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-9390", "https://web.senate.gov.ph/lisdata/3525132109!.pdf",]
 title = "DISTRICT ENGINEERING OFFICE (SECOND LEGISLATIVE DISTRICT, DAVAO CITY)"
 long_title = "AN ACT CREATING A DISTRICT ENGINEERING OFFICE IN THE SECOND LEGISLATIVE DISTRICT OF DAVAO CITY, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Engineering District Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-06-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-28"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-27"
 action = "Returned and submitted jointly by the Committees on PUBLIC WORKS and FINANCE per Committee Report No. 564, recommending its approval without amendment ;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-31"
 action = "Sponsor: Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "1/31/2022"
+date = "2022-01-31"
 
 [[committees]]
 name = "Public Works"

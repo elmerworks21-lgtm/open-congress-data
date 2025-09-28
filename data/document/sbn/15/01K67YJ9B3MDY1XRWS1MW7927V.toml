@@ -1,8 +1,11 @@
 id = "01K67YJ9B3MDY1XRWS1MW7927V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02967"
+
+[meta]
 bill_number = 2967
 congress = 15
-canonical = "SBN-02967"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2967", "https://web.senate.gov.ph/lisdata/1219710287!.pdf",]
 title = "NATIONAL INTERNSHIP ACT OF 2011"
 date_filed = "2011-09-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL INTERNSHIP PROGRAM, PROVIDING FUNDS
 scope = "National"
 subjects = [ "Internship",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
-[[legislative_history]]
+
+[[history]]
 date = "2011-09-19"
 action = "Introduced by Senator FERDINAND 'BONGBONG' R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-09-20"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2011"
+date = "2011-09-20"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

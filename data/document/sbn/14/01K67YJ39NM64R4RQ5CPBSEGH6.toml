@@ -1,8 +1,11 @@
 id = "01K67YJ39NM64R4RQ5CPBSEGH6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03436"
+
+[meta]
 bill_number = 3436
 congress = 14
-canonical = "SBN-03436"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3436", "https://web.senate.gov.ph/lisdata/1244111099!.pdf",]
 title = "PREVENTING WRONGFUL CONVICTION ACT"
 date_filed = "2009-09-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A CRIMINAL JUSTICE REFORM COMMISSION CHARGED WITH 
 scope = "National"
 subjects = [ "Criminal Justice Reform Commission",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-15"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/15/2009"
+date = "2009-09-15"
 
 [[committees]]
 name = "Justice and Human Rights"

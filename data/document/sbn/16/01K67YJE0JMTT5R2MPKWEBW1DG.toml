@@ -1,8 +1,11 @@
 id = "01K67YJE0JMTT5R2MPKWEBW1DG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02603"
+
+[meta]
 bill_number = 2603
 congress = 16
-canonical = "SBN-02603"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2603", "https://web.senate.gov.ph/lisdata/2047617578!.pdf",]
 title = "MAMASAPANO TRUTH COMMISSION"
 date_filed = "2015-02-02"
@@ -10,65 +13,66 @@ long_title = "AN ACT CREATING A FACT-FINDING COMMISSION, TO BE CALLED THE 'MAMAS
 scope = "National"
 subjects = [ "Mamasapano Truth Commission", "Philippine National Police (PNP)",]
 authors_raw = "Guingona III, Teofisto \"Tg\", Aquino IV, Paolo Benigno \"Bam\", Pimentel, Aquilino Koko III L., Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2015-02-02"
 action = "Introduced by Senators TEOFISTO 'TG' GUINGONA III, PAOLO BENIGNO 'BAM' AQUINO IV and AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-02"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; PEACE, UNIFICATION AND RECONCILIATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-04"
 action = "Letter of Senator CYNTHIA A. VILLAR dated February 3, 2015, requesting that she be made a coauthor of this Bill, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-18"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS, PEACE, UNIFICATION AND RECONCILIATION and FINANCE per Committee Report No. 120, recommending its adoption of the recommendations as contained in this Report and for its full and immediate implementation; (SRNos. 1133, 1134, 1135, 1136, 1137, 1138, 1146 and SBN-2603);"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-04"
 action = "Sponsors: Senator(s) GRACE L. POE, TEOFISTO 'TG' GUINGONA III, FRANCIS 'CHIZ' G. ESCUDERO, VICENTE C. SOTTO III, JINGGOY P. EJERCITO-ESTRADA, JOSEPH VICTOR G. EJERCITO, MIRIAM DEFENSOR SANTIAGO, PAOLO BENIGNO 'BAM' AQUINO IV, AQUILINO KOKO III L. PIMENTEL and CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-10-07"
 action = "Question of Privilege of Senator Enrile re Mamasapano incident; and his motion that the Committee Report No. 120 be brought to the floor for plenary debates;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-10-07"
 action = "Remarks of Senator Poe;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-10-07"
 action = "Motion of Senator Cayetano (A.P.) that the speech Speech of Senator Enrile and the manifestations be referred to the Committee on Rules:"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-18"
 action = "Manifestation of Senator Poe that the schedule of the reopening of the Mamasapano incident under Committee Report No. 120 is on January 27, 2016 in the Session Hall;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-18"
 action = "Remarks of Senators Enrile and Cayetano (A.P.);"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "5/4/2015"
+date = "2015-05-04"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

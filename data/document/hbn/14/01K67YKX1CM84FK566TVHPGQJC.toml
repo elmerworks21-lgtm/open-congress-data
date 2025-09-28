@@ -1,24 +1,28 @@
 id = "01K67YKX1CM84FK566TVHPGQJC"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06567"
+
+[meta]
 bill_number = 6567
 congress = 14
-canonical = "HBN-06567"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6567", "https://web.senate.gov.ph/lisdata/1248811158!.pdf",]
 title = "POTEN AND ELISEO QUESADA MEMORIAL NATIONAL HIGH SCHOOL (PROVINCE OF LAGUNA)"
 long_title = "AN ACT SEPARATING THE SAN JUAN NATIONAL HIGH SCHOOL – PAETE ANNEX IN THE MUNICIPALITY OF PAETE, PROVINCE OF LAGUNA FROM THE SAN JUAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS POTEN AND ELISEO QUESADA MEMORIAL NATIONAL HIGH SCHOOL AND APPRO-PRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-15"
 action = "Filed in the Senate requesting for concurrence by Representatives EDGAR S. SAN LUIS, DEL R. DE GUZMAN, EDCEL C. LAGMAN and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2009"
+date = "2009-09-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

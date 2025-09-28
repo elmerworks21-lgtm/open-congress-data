@@ -1,8 +1,11 @@
 id = "01K67YCPGCYHTD7K0N506XV46J"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01972"
+
+[meta]
 bill_number = 1972
 congress = 13
-canonical = "SBN-01972"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1972", "https://web.senate.gov.ph/lisdata/33012452!.pdf",]
 title = "HEALTH WORKER'S DAY ACT"
 date_filed = "2005-04-04"
@@ -10,61 +13,62 @@ long_title = "AN ACT DECLARING MAY 7 OF EVERY YEAR AS HEALTH WORKER'S DAY"
 scope = "National"
 subjects = [ "Health Worker`S Day Act",]
 authors_raw = "Angara, Edgardo J., Cayetano, Companera Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2005-04-04"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-04-11"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-04-11"
 action = "Senator Cayetano was made a coauthor on motion of Senator Pangilinan;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-26"
 action = "Returned by the Committee on HEALTH AND DEMOGRAPHY per Committee Report No. 106, recommending its approval with amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-27"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-27"
 action = "Sponsors: Senator(s) COMPANERA PIA S. CAYETANO, EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-27"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-27"
 action = "Sponsorship speech of Senator(s) COMPANERA PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Period of interpellation closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Period of amendment closed;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Approved on Second Reading without Amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "Printed Copies were distributed to the Senators;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-06"
 action = "pproved on Third Reading; In favor: (15)Senators Angara, Arroyo, Biazon, Miriam Defensor Santiago, Jinggoy Ejercito Estrada, Luisa Loi Ejercito Estrada, Enrile, Flavier, Lim, M.A. Madrigal, Osmena, Pangilinan, Pimentel, Jr., Roxas, and Villar; Against: N o n e; Abstention: N o n e;"
 
 [[status]]
 status = "Approved on Third Reading by the Senate"
-date = "11/6/2006"
+date = "2006-11-06"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJWDPQBVZ4EVHHZYDBG2Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02180"
+
+[meta]
 bill_number = 2180
 congress = 19
-canonical = "SBN-02180"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2180", "https://web.senate.gov.ph/lisdata/4163737929!.pdf",]
 title = "EXTENDING THE LIFE OF THE PHILIPPINE AEROSPACE DEVELOPMENT CORPORATION (PADC)"
 date_filed = "2023-05-11"
@@ -10,33 +13,34 @@ long_title = "AN ACT EXTENDING THE LIFE OF THE PHILIPPINE AEROSPACE DEVELOPMENT 
 scope = "National"
 subjects = [ "Philippine Aerospace Development Corporation (PADC)",]
 authors_raw = "Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-11"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Read on First Reading and Referred to the Committee on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-18"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-22"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2023"
+date = "2023-05-16"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

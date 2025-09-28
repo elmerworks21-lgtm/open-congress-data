@@ -1,8 +1,11 @@
 id = "01K67YJPP9Q8RZMGBN05DRFRM1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00449"
+
+[meta]
 bill_number = 449
 congress = 18
-canonical = "SBN-00449"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-449", "https://web.senate.gov.ph/lisdata/3079727642!.pdf",]
 title = "UPGRADING THE POSITION OF SANITATION INSPECTOR"
 date_filed = "2019-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING THE POSITION OF SANITATION INSPECTOR TO THE NEXT 
 scope = "National"
 subjects = [ "Salary Grade Level",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-15"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

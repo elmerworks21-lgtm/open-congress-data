@@ -1,8 +1,11 @@
 id = "01K67YJ993TDMSHBPMXR07NWXT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02894"
+
+[meta]
 bill_number = 2894
 congress = 15
-canonical = "SBN-02894"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2894", "https://web.senate.gov.ph/lisdata/118099952!.pdf",]
 title = "SWINE DISEASE DIAGNOSIS LABORATORY ACT OF 2011"
 date_filed = "2011-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A STATE-OF-THE-ART DIAGNOSTIC LABORATORY FOR S
 scope = "National"
 subjects = [ "Swine", "Local Hog Industry",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-07-19"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2011"
+date = "2011-08-03"
 
 [[committees]]
 name = "Agriculture and Food"

@@ -1,8 +1,11 @@
 id = "01K67YJ2RD3XCT8WTSMZSTXQWV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02693"
+
+[meta]
 bill_number = 2693
 congress = 14
-canonical = "SBN-02693"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2693", "https://web.senate.gov.ph/lisdata/90778257!.pdf",]
 title = "USE OF PLASTIC GROCERY BAGS REGULATION"
 date_filed = "2008-10-27"
@@ -10,21 +13,22 @@ long_title = "AN ACT REGULATING THE USE OF PLASTIC GROCERY BAGS"
 scope = "National"
 subjects = [ "Plastic Bags", "Packaging Ban",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-10-27"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-11"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE AND COMMERCE and ENVIRONMENT AND NATURAL RESOURCES;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-16"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/11/2008"
+date = "2008-11-11"
 
 [[committees]]
 name = "Trade and Commerce"

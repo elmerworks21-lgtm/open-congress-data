@@ -1,24 +1,28 @@
 id = "01K67YM9KK6BBBHP92C5W8T8ME"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08956"
+
+[meta]
 bill_number = 8956
 congress = 18
-canonical = "HBN-08956"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8956", "https://web.senate.gov.ph/lisdata/3481631652!.pdf",]
 title = "AGUSAN MARSH, AGUSAN DEL SUR AS ECOTOURISM ZONE"
 long_title = "AN ACT DECLARING THE AGUSAN MARSH LOCATED IN THE MUNICIPALITIES OF TALACOGON, SAN FRANCISCO, ROSARIO, BUNAWAN, LORETO, LA PAZ AND VERUELA, ALL IN THE PROVINCE OF AGUSAN DEL SUR, AN ECOTOURISM ZONE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Ecotourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-12"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Tourism"

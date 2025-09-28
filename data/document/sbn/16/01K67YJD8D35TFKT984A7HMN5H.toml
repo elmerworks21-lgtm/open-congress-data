@@ -1,8 +1,11 @@
 id = "01K67YJD8D35TFKT984A7HMN5H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01513"
+
+[meta]
 bill_number = 1513
 congress = 16
-canonical = "SBN-01513"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1513", "https://web.senate.gov.ph/lisdata/1761314848!.pdf",]
 title = "JOSE R. REYES MEMORIAL MEDICAL CENTER (JRRMMC)"
 date_filed = "2013-09-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT UPGRADING THE JOSE R. REYES MEMORIAL MEDICAL CENTER (JRRMMC
 scope = "National"
 subjects = [ "Hospitals, Upgrading",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-04"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2013"
+date = "2013-09-10"
 
 [[committees]]
 name = "Health and Demography"

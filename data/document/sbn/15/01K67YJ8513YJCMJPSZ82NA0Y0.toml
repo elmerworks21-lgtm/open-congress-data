@@ -1,8 +1,11 @@
 id = "01K67YJ8513YJCMJPSZ82NA0Y0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01453"
+
+[meta]
 bill_number = 1453
 congress = 15
-canonical = "SBN-01453"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1453", "https://web.senate.gov.ph/lisdata/89487491!.pdf",]
 title = "BARANGAY JUSTICE"
 date_filed = "2010-07-15"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROMOTING BARANGAY JUSTICE BY AMENDING ARTICLE ELEVEN HUNDR
 scope = "National"
 subjects = [ "Civil Code of the Philippines", "Barangay Justice",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-15"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-01"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-24"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2010"
+date = "2010-09-01"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YCNX84YVCFXG5Y6MKNJ1Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00978"
+
+[meta]
 bill_number = 978
 congress = 13
-canonical = "SBN-00978"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-978", "https://web.senate.gov.ph/lisdata/21821710!.pdf",]
 title = "LOCAL GOVERNMENT ACADEMY OF THE PHILIPPINES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE LOCAL GOVERNMENT ACADEMY OF THE PHILIPPINES, P
 scope = "National"
 subjects = [ "Local Government Academy of the Phil.",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Local Government"

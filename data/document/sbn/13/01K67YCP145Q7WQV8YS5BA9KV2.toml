@@ -1,8 +1,11 @@
 id = "01K67YCP145Q7WQV8YS5BA9KV2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01175"
+
+[meta]
 bill_number = 1175
 congress = 13
-canonical = "SBN-01175"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1175", "https://web.senate.gov.ph/lisdata/23891755!.pdf",]
 title = "RETIREMENT OPTION OF THE EMPLOYEE"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO FURTHER AMEND PRESIDENTIAL DECREE NO. 1146 AS AMENDED BY
 scope = "National"
 subjects = [ "Retirement Option-Employees", "R.A.No. 8291 (Gsis Law)",]
 authors_raw = "Magsaysay Jr., Ramon B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator MAGSAYSAY JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Read on First Reading and referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/8/2004"
+date = "2004-09-08"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

@@ -1,8 +1,11 @@
 id = "01K67YJPWY4R0PPN9BF2YRNDNV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00758"
+
+[meta]
 bill_number = 758
 congress = 18
-canonical = "SBN-00758"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-758", "https://web.senate.gov.ph/lisdata/3111228010!.pdf",]
 title = "DIRECT REMITTANCE TO THE HOST LGUS OF ITS FORTY PERCENT (40%) SHARE FROM NATIONAL WEALTH"
 date_filed = "2019-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING THE DIRECT REMITTANCE TO THE HOST LOCAL GOVERNMEN
 scope = "National"
 subjects = [ "Local Government Code (R.A.No. 7160)", "Internal Revenue Allotment (Local Government Units)", "National Wealth",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2019"
+date = "2019-08-14"
 
 [[committees]]
 name = "Local Government"

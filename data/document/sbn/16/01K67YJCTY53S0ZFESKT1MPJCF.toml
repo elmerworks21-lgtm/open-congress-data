@@ -1,8 +1,11 @@
 id = "01K67YJCTY53S0ZFESKT1MPJCF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00864"
+
+[meta]
 bill_number = 864
 congress = 16
-canonical = "SBN-00864"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-864", "https://web.senate.gov.ph/lisdata/1686214097!.pdf",]
 title = "NAMRIA MODERNIZATION ACT"
 date_filed = "2013-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE NATIONAL MAPPING AND
 scope = "National"
 subjects = [ "National Mapping and Resource Information Authority (Namria)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-17"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; NATIONAL DEFENSE AND SECURITY; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2013"
+date = "2013-08-13"
 
 [[committees]]
 name = "Environment and Natural Resources"

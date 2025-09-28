@@ -1,8 +1,11 @@
 id = "01K67YCP09DM5BD62EFEAA90PH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01128"
+
+[meta]
 bill_number = 1128
 congress = 13
-canonical = "SBN-01128"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1128", "https://web.senate.gov.ph/lisdata/23341619!.pdf",]
 title = "FOREIGN BORROWING ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED FORTY-EI
 scope = "National"
 subjects = [ "R.A.No. 4860; Debt Ceiling", "Foreign Debts/Foreign Borrowings",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on FINANCE; and ECONOMIC AFFAIRS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Finance"

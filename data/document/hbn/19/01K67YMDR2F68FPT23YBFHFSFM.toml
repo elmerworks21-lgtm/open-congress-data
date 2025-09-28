@@ -1,24 +1,28 @@
 id = "01K67YMDR2F68FPT23YBFHFSFM"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10638"
+
+[meta]
 bill_number = 10638
 congress = 19
-canonical = "HBN-10638"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10638", "https://web.senate.gov.ph/lisdata/4458740567!.pdf",]
 title = "MOUNT REDONDO NATURAL BONSAI FOREST (LORETO, DINAGAT ISLANDS), A TOURISM DESTINATION"
 long_title = "AN ACT DECLARING THE MOUNT REDONDO NATURAL BONSAI FOREST, LOCATED IN BARANGAY SANTIAGO, MUNICIPALITY OF LORETO, PROVINCE OF DINAGAT ISLANDS, A TOURISM DESTINATION"
 scope = "Local"
 subjects = [ "Tourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-14"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-09-16"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2024"
+date = "2024-09-16"
 
 [[committees]]
 name = "Tourism"

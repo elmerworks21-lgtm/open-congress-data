@@ -1,8 +1,11 @@
 id = "01K67YCNSQ98GPEVD3JJK0NJQD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00778"
+
+[meta]
 bill_number = 778
 congress = 13
-canonical = "SBN-00778"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-778", "https://web.senate.gov.ph/lisdata/19681398!.pdf",]
 title = "CRIME - DRIVING UNDER THE INFLUENCE OF LIQUOR/ILLEGAL DRUGS"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT DEFINING AS A CRIME THE ACT OF DRIVING A MOTOR VEHICLE WHIL
 scope = "National"
 subjects = [ "Crime (Drunken Driving/Illegal Drugs)", "Motor Vehicles (Drunken Driving)",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-05"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Justice and Human Rights"

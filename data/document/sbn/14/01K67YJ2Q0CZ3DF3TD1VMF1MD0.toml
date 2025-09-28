@@ -1,8 +1,11 @@
 id = "01K67YJ2Q0CZ3DF3TD1VMF1MD0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02635"
+
+[meta]
 bill_number = 2635
 congress = 14
-canonical = "SBN-02635"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2635", "https://web.senate.gov.ph/lisdata/86167818!.pdf",]
 title = "CONSUMER'S BILL OF RIGHTS"
 date_filed = "2008-09-22"
@@ -10,17 +13,18 @@ long_title = "AN CT ORDAINING A BILL OF RIGHTS FOR THE FILIPINO CONSUMERS"
 scope = "National"
 subjects = [ "Consumers Bill of Rights",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-22"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-23"
 action = "Read on First Reading and Referred to the Committee on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/23/2008"
+date = "2008-09-23"
 
 [[committees]]
 name = "Trade and Commerce"

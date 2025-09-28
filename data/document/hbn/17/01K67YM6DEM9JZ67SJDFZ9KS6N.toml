@@ -1,24 +1,28 @@
 id = "01K67YM6DEM9JZ67SJDFZ9KS6N"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07761"
+
+[meta]
 bill_number = 7761
 congress = 17
-canonical = "HBN-07761"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7761", "https://web.senate.gov.ph/lisdata/2843024778!.pdf",]
 title = "SAN DIONISIO, ILOILO TESDA TRAINING AND ACCREDITATION CENTER"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TRAINING AND ACCREDITATION CENTER IN THE MUNICIPALITY OF SAN DIONISIO, PROVINCE OF ILOILO, TO BE KNOWN AS THE SAN DIONISIO, ILOILO TESDA TRAINING AND ACCREDITATION CENTER, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tesda Training and Accreditation Center",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-15"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2018"
+date = "2018-08-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

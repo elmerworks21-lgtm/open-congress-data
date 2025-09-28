@@ -1,8 +1,11 @@
 id = "01K67YCPF0XF6ZGEM94C7JGP81"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01912"
+
+[meta]
 bill_number = 1912
 congress = 13
-canonical = "SBN-01912"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1912", "https://web.senate.gov.ph/lisdata/32072390!.pdf",]
 title = "SCHOOL BUILDING PROGRAM ACT OF 2005"
 date_filed = "2005-02-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PROGRAM FOR THE ACQUISITION OF SCHOOL SITES 
 scope = "National"
 subjects = [ "School Building Program Act", "Classroom Shortage",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2005-02-10"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-02-14"
 action = "Read on First Reading and referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; PUBLIC WORKS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/14/2005"
+date = "2005-02-14"
 
 [[committees]]
 name = "Education, Arts and Culture"

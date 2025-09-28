@@ -1,24 +1,28 @@
 id = "01K67YKWFKD86KFDBX7HD6TWSJ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04907"
+
+[meta]
 bill_number = 4907
 congress = 14
-canonical = "HBN-04907"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4907", "https://web.senate.gov.ph/lisdata/1246111120!.pdf",]
 title = "PHILIPPINE VETERANS ASSISTANCE COMMISSION (ABOLITION)"
 long_title = "AN ACT ABOLISHING THE PHILIPPINE VETERANS ASSISTANCE COMMISSION AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Veterans",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-09-15"
 action = "Filed in the Senate requesting for concurrence by Representatives ANTONIO M. DIAZ, ROMAN T. ROMULO, ERICO BASILIO A. FABIAN, JUNIE E. CUA, ANTONINO P. ROMAN, NEPTALI M. GONZALES II and DEL R. DE GUZMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-09-16"
 action = "Read on First Reading and Referred to the Committee on NATIONAL DEFENSE AND SECURITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2009"
+date = "2009-09-16"
 
 [[committees]]
 name = "National Defense and Security"

@@ -1,8 +1,11 @@
 id = "01K67YJHQQKVYXT1ZJ2X00MSR7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00852"
+
+[meta]
 bill_number = 852
 congress = 17
-canonical = "SBN-00852"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-852", "https://web.senate.gov.ph/lisdata/2439520951!.pdf",]
 title = "479-KILOMETER PNR LINE REHABILITATION (SAN FERNANDO, LA UNION TO LEGASPI CITY, ALBAY)"
 date_filed = "2016-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO RECONSTRUCT AND REHABILITATE THE EXISTING 479-KILOMETER 
 scope = "National"
 subjects = [ "Philippine National Railways (PNR)", "Taxes (Value-Added Tax / Vat)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Ways and Means"

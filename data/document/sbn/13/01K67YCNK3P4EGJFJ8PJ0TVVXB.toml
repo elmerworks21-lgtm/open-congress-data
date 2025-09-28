@@ -1,8 +1,11 @@
 id = "01K67YCNK3P4EGJFJ8PJ0TVVXB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00401"
+
+[meta]
 bill_number = 401
 congress = 13
-canonical = "SBN-00401"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-401", "https://web.senate.gov.ph/lisdata/1588859!.pdf",]
 title = "BARANGAY HEALTH WORKERS INSURANCE ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING INSURANCE TO BARANGAY HEALTH WORKERS."
 scope = "National"
 subjects = [ "Barangay Health Workers Act", "Insurance Benefits (Health Workers)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJ310GN7B5MFVNF3VPW33"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03080"
+
+[meta]
 bill_number = 3080
 congress = 14
-canonical = "SBN-03080"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3080", "https://web.senate.gov.ph/lisdata/103759244!.pdf",]
 title = "PHILIPPINE NATIONAL HEALTH RESEARCH SYSTEM ACT OF 2009"
 date_filed = "2009-02-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE PHILIPPINE NATIONAL HEALTH RESEARCH 
 scope = "National"
 subjects = [ "Philippine National Health Research System",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2009-02-19"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/23/2009"
+date = "2009-02-23"
 
 [[committees]]
 name = "Health and Demography"

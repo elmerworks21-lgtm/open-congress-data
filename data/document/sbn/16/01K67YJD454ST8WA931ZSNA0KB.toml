@@ -1,8 +1,11 @@
 id = "01K67YJD454ST8WA931ZSNA0KB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01303"
+
+[meta]
 bill_number = 1303
 congress = 16
-canonical = "SBN-01303"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1303", "https://web.senate.gov.ph/lisdata/1739614631!.pdf",]
 title = "INFANT AND YOUNG CHILD FEEDING ACT OF 2013"
 date_filed = "2013-08-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROTECT, PROMOTE AND SUPPORT PROPER INFANT AND YOUNG CHI
 scope = "National"
 subjects = [ "Infant and Young Child Feeding Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-15"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2013"
+date = "2013-09-03"
 
 [[committees]]
 name = "Health and Demography"

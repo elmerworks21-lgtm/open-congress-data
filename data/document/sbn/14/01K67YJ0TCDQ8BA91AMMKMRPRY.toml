@@ -1,8 +1,11 @@
 id = "01K67YJ0TCDQ8BA91AMMKMRPRY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00136"
+
+[meta]
 bill_number = 136
 congress = 14
-canonical = "SBN-00136"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-136", "https://web.senate.gov.ph/lisdata/42343622!.pdf",]
 title = "HOLIDAY: CHINESE NEW YEAR"
 date_filed = "2007-06-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT DECLARING CHINESE NEW YEAR OF EACH YEAR AS A SPECIAL WORKIN
 scope = "Local"
 subjects = [ "Chinese New Year",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-07-30"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-03"
 action = "Returned and submitted by the Committee on EDUCATION, ARTS AND CULTURE per Committee Report No. 847, recommending its approval with amendments;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-31"
 action = "Sponsor: Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-31"
 action = "Committee Report calendared for Ordinary Business;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "5/31/2010"
+date = "2010-05-31"
 
 [[committees]]
 name = "Education, Arts and Culture"

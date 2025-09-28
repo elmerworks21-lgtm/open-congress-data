@@ -1,8 +1,11 @@
 id = "01K67YCPQ4AT0RY1JXG8QA1RNR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02299"
+
+[meta]
 bill_number = 2299
 congress = 13
-canonical = "SBN-02299"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2299", "https://web.senate.gov.ph/lisdata/54044515!.pdf",]
 title = "FIRE-SAFE CIGARETTES"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONCERNING FIRE-SAFE CIGARETTES"
 scope = "National"
 subjects = [ "Cigarette Fire Safety Act",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and PUBLIC ORDER AND ILLEGAL DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Health and Demography"

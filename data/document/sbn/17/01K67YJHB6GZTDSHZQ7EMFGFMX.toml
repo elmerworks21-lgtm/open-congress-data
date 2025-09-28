@@ -1,8 +1,11 @@
 id = "01K67YJHB6GZTDSHZQ7EMFGFMX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00293"
+
+[meta]
 bill_number = 293
 congress = 17
-canonical = "SBN-00293"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-293", "https://web.senate.gov.ph/lisdata/2373020375!.pdf",]
 title = "AMNESTY ON ESTATE TAX"
 date_filed = "2016-07-04"
@@ -10,49 +13,50 @@ long_title = "AN ACT DECLARING A ONE-TIME AMNESTY ON ESTATE TAX, INCLUSIVE OF FI
 scope = "National"
 subjects = [ "Taxes (Estate Tax)", "Tax Amnesty",]
 authors_raw = "Pimentel, Aquilino Koko III L., Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator AQUILINO KOKO III L. PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-01-31"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-14"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-07-06"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-10-03"
 action = "Letter from Senator MARIA LOURDES NANCY S. BINAY dated September 26, 2017, requesting that she be made coauthor of SBN-293, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 488, recommending that it be substituted by SBN-2059;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "SUBSTITUTED BY SBN-2059 UNDER COMMITTEE REPORT NO. 488, WHICH BECAME R.A.NO. 11213 ON FEBRUARY 14, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/9/2018"
+date = "2018-10-09"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJ7KX4CX8F351YHRJFN96"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00614"
+
+[meta]
 bill_number = 614
 congress = 15
-canonical = "SBN-00614"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-614", "https://web.senate.gov.ph/lisdata/80496521!.pdf",]
 title = "GENERIC ACT"
 date_filed = "2010-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER ENSURING THE USE OF THE GENERIC NAMES IN THE MANUFA
 scope = "National"
 subjects = [ "Medicines/Drugs", "Generic Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-07"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-10"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2010"
+date = "2010-08-10"
 
 [[committees]]
 name = "Health and Demography"

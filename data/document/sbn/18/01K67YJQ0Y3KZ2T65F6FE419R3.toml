@@ -1,8 +1,11 @@
 id = "01K67YJQ0Y3KZ2T65F6FE419R3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00950"
+
+[meta]
 bill_number = 950
 congress = 18
-canonical = "SBN-00950"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-950", "https://web.senate.gov.ph/lisdata/3134428241!.pdf",]
 title = "FALSE BOMB THREAT PROHIBITION ACT"
 date_filed = "2019-08-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT PENALIZING THE DISSEMINATION OF FALSE INFORMATION AS TO THE
 scope = "National"
 subjects = [ "False Bomb Threat", "Bombs, Explosives and Other Incendiary Devices", "Fake News",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-20"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-27"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2019"
+date = "2019-08-27"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

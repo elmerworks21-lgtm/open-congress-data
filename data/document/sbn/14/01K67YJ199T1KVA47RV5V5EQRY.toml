@@ -1,8 +1,11 @@
 id = "01K67YJ199T1KVA47RV5V5EQRY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00844"
+
+[meta]
 bill_number = 844
 congress = 14
-canonical = "SBN-00844"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-844", "https://web.senate.gov.ph/lisdata/50714461!.pdf",]
 title = "MARITIME ADMINISTRATION ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONSOLIDATING ADMIRALTY AND MARITIME LAWS TO MODERNIZE THE 
 scope = "National"
 subjects = [ "Maritime Administration",]
 authors_raw = "Biazon, Rodolfo G."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RODOLFO G. BIAZON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; PUBLIC SERVICES; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2007"
+date = "2007-09-03"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

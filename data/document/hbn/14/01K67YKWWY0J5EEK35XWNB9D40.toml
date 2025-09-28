@@ -1,24 +1,28 @@
 id = "01K67YKWWY0J5EEK35XWNB9D40"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06047"
+
+[meta]
 bill_number = 6047
 congress = 14
-canonical = "HBN-06047"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6047", "https://web.senate.gov.ph/lisdata/112259933!.pdf",]
 title = "BONTOC NATIONAL AGRO-FISHERIES TECHNICAL SCHOOL (BNAFTS)"
 long_title = "AN ACT CHANGING THE NAME OF BONTOC NATIONAL HIGH SCHOOL IN BARANGAY SAN RAMON, MUNICIPALITY OF BONTOC, PROVINCE OF SOUTHERN LEYTE TO BONTOC NATIONAL AGRO-TECHNICAL SCHOOL"
 scope = "Local"
 subjects = [ "Schools, Renaming", "Change of Name",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-12"
 action = "Filed in the Senate requesting for concurrence by Representatives ROGER G. MERCADO and DEL R. DE GUZMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2009"
+date = "2009-05-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

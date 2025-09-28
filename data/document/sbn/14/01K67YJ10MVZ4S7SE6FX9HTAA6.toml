@@ -1,8 +1,11 @@
 id = "01K67YJ10MVZ4S7SE6FX9HTAA6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00418"
+
+[meta]
 bill_number = 418
 congress = 14
-canonical = "SBN-00418"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-418", "https://web.senate.gov.ph/lisdata/45933940!.pdf",]
 title = "MOBILE HEALTH CARE SERVICES ACT"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR THE USE OF MOBILE UNITS SERVING MEDICAL, DIA
 scope = "National"
 subjects = [ "Mobile Health Care Services", "Patients",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Health and Demography"

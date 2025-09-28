@@ -1,24 +1,28 @@
 id = "01K67YKRCHVN2YS5AMMGDGTWXP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05862"
+
+[meta]
 bill_number = 5862
 congress = 13
-canonical = "HBN-05862"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5862", "https://web.senate.gov.ph/lisdata/67425527!.pdf",]
 title = "LOURDES NATIONAL HIGH SCHOOL (ZAMBOANGA DEL SUR)"
 long_title = "AN ACT SEPARATING THE LALA NATIONAL HIGH SCHOOL – LOURDES ANNEX IN BARANGAY LOURDES, PAGADIAN CITY, PROVINCE OF ZAMBOANGA DEL SUR FROM THE LALA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE LOURDES NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Zamboanga Del Sur)", "Lourdes National High School (Zamboanga Del Sur)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives ISIDORO E. REAL JR., EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and JOEY SARTE SALCEDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

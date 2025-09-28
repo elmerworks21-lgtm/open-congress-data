@@ -1,8 +1,11 @@
 id = "01K67YJR20RTX5ZS9E9Z52HCBQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02326"
+
+[meta]
 bill_number = 2326
 congress = 18
-canonical = "SBN-02326"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2326", "https://web.senate.gov.ph/lisdata/3565632255!.pdf",]
 title = "BARANGAY JUSTICE SYSTEM ACT"
 date_filed = "2021-07-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING AND MODERNIZING THE KATARUNGANG PAMBARANGAY AND S
 scope = "National"
 subjects = [ "Barangay Justice", "Barangays",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2021-07-26"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2021"
+date = "2021-08-02"
 
 [[committees]]
 name = "Local Government"

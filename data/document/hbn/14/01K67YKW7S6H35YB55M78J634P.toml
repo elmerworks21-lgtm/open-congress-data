@@ -1,24 +1,28 @@
 id = "01K67YKW7S6H35YB55M78J634P"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04480"
+
+[meta]
 bill_number = 4480
 congress = 14
-canonical = "HBN-04480"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4480", "https://web.senate.gov.ph/lisdata/83407547!.pdf",]
 title = "MAPALAD, STA. ROSA - FORT MAGSAYSAY, PALAYAN CITY ROAD (NUEVA ECIJA)"
 long_title = "AN ACT CONVERTING THE MAPALAD, STA. ROSA - FORT MAGSAYSAY, PALAYAN CITY ROAD IN THE PROVINCE OF NUEVA ECIJA INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-08-21"
 action = "Filed in the Senate requesting for concurrence by Representative CZARINA D. UMALI as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-03"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/3/2008"
+date = "2008-09-03"
 
 [[committees]]
 name = "Public Works"

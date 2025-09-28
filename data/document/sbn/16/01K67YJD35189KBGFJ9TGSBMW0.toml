@@ -1,8 +1,11 @@
 id = "01K67YJD35189KBGFJ9TGSBMW0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01254"
+
+[meta]
 bill_number = 1254
 congress = 16
-canonical = "SBN-01254"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1254", "https://web.senate.gov.ph/lisdata/1732214560!.pdf",]
 title = "MAGNA CARTA FOR SMALL ENTERPRISES"
 date_filed = "2013-08-08"
@@ -10,37 +13,38 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6977, OTHERWISE KNOWN AS THE MAGN
 scope = "National"
 subjects = [ "Magna Carta for Small Enterprises",]
 authors_raw = "Defensor Santiago, Miriam, Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-08"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-02"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-09"
 action = "Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP as the primary committee, and the Committee on ECONOMIC AFFAIRS as the secondary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-17"
 action = "Returned and submitted by the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP joint with the Committee(s) on LOCAL GOVERNMENT, BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES, WAYS AND MEANS, ECONOMIC AFFAIRS and FINANCE per Committee Report No. 10, recommending that it be substituted by SBN-2046;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-12-17"
 action = "SUBSTITUTED BY SBN-2046, UNDER COMMITTEE REPORT NO. 10."
 
-[[legislative_history]]
+[[history]]
 date = "2014-01-23"
 action = "By virtue of the approved motion of Senator Cayetano (A.) on the process of coauthorship on January 21, 2014, letter of Senator CYNTHIA A. VILLAR dated December 17, 2013, requesting that she be made coauthor of this Bill, received by the LBIS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/17/2013"
+date = "2013-12-17"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

@@ -1,8 +1,11 @@
 id = "01K67YJVZMZBZCVCS92QJDE0DJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01580"
+
+[meta]
 bill_number = 1580
 congress = 19
-canonical = "SBN-01580"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1580", "https://web.senate.gov.ph/lisdata/4010136518!.pdf",]
 title = "ESTABLISHMENT OF CONGRESSIONAL, CITY, AND MUNICIPAL LIBRARIES AND BARANGAY READING CENTERS"
 date_filed = "2022-12-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7743, OTHERWISE KNOWN AS 'AN ACT 
 scope = "National"
 subjects = [ "Public Libraries and Reading Centers",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-12-05"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-06"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/6/2022"
+date = "2022-12-06"
 
 [[committees]]
 name = "Basic Education"

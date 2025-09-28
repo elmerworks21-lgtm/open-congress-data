@@ -1,8 +1,11 @@
 id = "01K67YJPJS8XA7V2M439T77NJN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00288"
+
+[meta]
 bill_number = 288
 congress = 18
-canonical = "SBN-00288"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-288", "https://web.senate.gov.ph/lisdata/3053627328!.pdf",]
 title = "ABSOLUTE DIVORCE ACT"
 date_filed = "2019-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING ABSOLUTE DIVORCE AND DISSOLUTION OF MARRIAGE IN
 scope = "National"
 subjects = [ "Divorce", "Marriage",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-08"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

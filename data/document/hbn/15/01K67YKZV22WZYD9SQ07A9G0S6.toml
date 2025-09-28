@@ -1,28 +1,32 @@
 id = "01K67YKZV22WZYD9SQ07A9G0S6"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04496"
+
+[meta]
 bill_number = 4496
 congress = 15
-canonical = "HBN-04496"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4496", "https://web.senate.gov.ph/lisdata/113769741!.pdf",]
 title = "JUDICIARY REORGANIZATION ACT (MUNICIPALITY OF CABAGAN, PROVINCE OF ISABELA)"
 long_title = "AN ACT CREATING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT TO BE STATIONED AT THE MUNICIPALITY OF CABAGAN, PROVINCE OF ISABELA, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (B) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Judiciary Reorganization Act", "Courts (Rtc/Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-31"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-06-07"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-10-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/7/2011"
+date = "2011-06-07"
 
 [[committees]]
 name = "Justice and Human Rights"

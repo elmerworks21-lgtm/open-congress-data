@@ -1,8 +1,11 @@
 id = "01K67YJDWND7T6296008FQRYFR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02433"
+
+[meta]
 bill_number = 2433
 congress = 16
-canonical = "SBN-02433"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2433", "https://web.senate.gov.ph/lisdata/1994917067!.pdf",]
 title = "AMENDING SEC. 2, 3 & 8, RA NO. 6981 (WITNESS PROTECTION, SECURITY AND BENEFIT ACT)"
 date_filed = "2014-10-15"
@@ -10,25 +13,26 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6981, OTHERWISE KNOWN AS THE WITN
 scope = "National"
 subjects = [ "Witness Protection",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-10-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-21"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-03-17"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/21/2014"
+date = "2014-10-21"
 
 [[committees]]
 name = "Justice and Human Rights"

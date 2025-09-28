@@ -1,8 +1,11 @@
 id = "01K67YJ2W559QSD0GT4DHRF8F9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02873"
+
+[meta]
 bill_number = 2873
 congress = 14
-canonical = "SBN-02873"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2873", "https://web.senate.gov.ph/lisdata/93048418!.pdf",]
 title = "COCONUT INDUSTRY DEVELOPMENT ACT OF 2008"
 date_filed = "2008-11-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT REVITALIZING THE COCONUT INDUSTRY, APPROPRIATING FUNDS THER
 scope = "National"
 subjects = [ "Coconut Industry",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-13"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-19"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/19/2008"
+date = "2008-11-19"
 
 [[committees]]
 name = "Agriculture and Food"

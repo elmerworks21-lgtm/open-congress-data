@@ -1,8 +1,11 @@
 id = "01K67YJ295HXH87ZSCWH7M39MX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02026"
+
+[meta]
 bill_number = 2026
 congress = 14
-canonical = "SBN-02026"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2026", "https://web.senate.gov.ph/lisdata/67565979!.pdf",]
 title = "LIABILITY EXTENDED TO CHILDREN/WARDS BETWEEN 18 TO 21 YEARS OF AGE"
 date_filed = "2008-01-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING EXECUTIVE ORDER NO. 209, ALSO KNOWN AS THE FAMILY 
 scope = "National"
 subjects = [ "Family Code (E.O.No. 209)", "Parents/Guardians Liability", "Children and Youth",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-30"
 action = "Read on First Reading and Referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2008"
+date = "2008-01-30"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

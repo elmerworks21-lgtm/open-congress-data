@@ -1,8 +1,11 @@
 id = "01K67YJPYYY9PCKPCV0V45F4YR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00853"
+
+[meta]
 bill_number = 853
 congress = 18
-canonical = "SBN-00853"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-853", "https://web.senate.gov.ph/lisdata/3122428122!.pdf",]
 title = "THE FREE TERTIARY AGRICULTURAL EDUCATION ACT"
 date_filed = "2019-08-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT GRANTING FREE TERTIARY AGRICULTURAL EDUCATION, AND OTHER RE
 scope = "National"
 subjects = [ "Agricultural Education",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-01"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform, SBN-853 shall now be referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2019"
+date = "2019-08-19"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

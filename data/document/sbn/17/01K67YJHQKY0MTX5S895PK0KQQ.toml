@@ -1,8 +1,11 @@
 id = "01K67YJHQKY0MTX5S895PK0KQQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00845"
+
+[meta]
 bill_number = 845
 congress = 17
-canonical = "SBN-00845"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-845", "https://web.senate.gov.ph/lisdata/2438620991!.pdf",]
 title = "PHILIPPINE CHARITY SWEEPSTAKES OFFICE ACT OF 2016"
 date_filed = "2016-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FUNDING SUPPORT FOR UNIVERSAL HEALTH CARE COVERAG
 scope = "National"
 subjects = [ "Philippine Charity Sweepstakes Office (PCSO)", "Philippine Health Insurance Corporation (Philhealth/Phic)", "Health Care",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-15"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/15/2016"
+date = "2016-08-15"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

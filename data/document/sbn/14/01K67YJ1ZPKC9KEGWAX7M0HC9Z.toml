@@ -1,8 +1,11 @@
 id = "01K67YJ1ZPKC9KEGWAX7M0HC9Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01630"
+
+[meta]
 bill_number = 1630
 congress = 14
-canonical = "SBN-01630"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1630", "https://web.senate.gov.ph/lisdata/59535316!.pdf",]
 title = "PHILIPPINE ADOPTION ACT OF 2007"
 date_filed = "2007-09-20"
@@ -10,17 +13,18 @@ long_title = "AN ACT MERGING THE DOMESTIC AND INTER-COUNTRY ADOPTION LAWS OF THE
 scope = "National"
 subjects = [ "Inter-Country Adoption (Filipino Children)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-09-20"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-24"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/24/2007"
+date = "2007-09-24"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

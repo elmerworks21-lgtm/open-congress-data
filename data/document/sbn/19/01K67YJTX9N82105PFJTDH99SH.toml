@@ -1,8 +1,11 @@
 id = "01K67YJTX9N82105PFJTDH99SH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00060"
+
+[meta]
 bill_number = 60
 congress = 19
-canonical = "SBN-00060"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-60", "https://web.senate.gov.ph/lisdata/3776334204!.pdf",]
 title = "INCREASE IN THE PERSONNEL ECONOMIC RELIEF ALLOWANCE (PERA) GRANTED TO GOVERNMENT EMPLOYEES"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING AN INCREASE AND AN AUTOMATIC ADJUSTMENT MECHANISM
 scope = "National"
 subjects = [ "Personnel Economic Relief Allowance (PERA)", "Government Employees",]
 authors_raw = "Escudero, Francis G."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator FRANCIS G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-07-27"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2022"
+date = "2022-07-27"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

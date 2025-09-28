@@ -1,8 +1,11 @@
 id = "01K67YJ2X19DHPM9F5AJ164X52"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02916"
+
+[meta]
 bill_number = 2916
 congress = 14
-canonical = "SBN-02916"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2916", "https://web.senate.gov.ph/lisdata/94788585!.pdf",]
 title = "AGRICULTURAL CREDIT ACT OF 2008"
 date_filed = "2008-11-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FARMERS BROADER ACCESS TO AGRICULTURAL CREDIT AND
 scope = "National"
 subjects = [ "Agricultural Credit",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-27"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-12-10"
 action = "Read on First Reading and Referred to the Committee(s) on AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/10/2008"
+date = "2008-12-10"
 
 [[committees]]
 name = "Agrarian Reform"

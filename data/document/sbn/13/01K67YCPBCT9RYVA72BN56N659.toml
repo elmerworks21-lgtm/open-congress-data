@@ -1,8 +1,11 @@
 id = "01K67YCPBCT9RYVA72BN56N659"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01743"
+
+[meta]
 bill_number = 1743
 congress = 13
-canonical = "SBN-01743"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1743", "https://web.senate.gov.ph/lisdata/29572527!.pdf",]
 title = "COMMERCIAL HANDLINE FISHING INDUSTRY"
 date_filed = "2004-08-31"
@@ -10,33 +13,34 @@ long_title = "AN ACT TO PROMOTE THE COMMERCIAL HANDLINE FISHING INDUSTRY BY DEFI
 scope = "National"
 subjects = [ "Fishing Industry (Commercial Handline)", "Phil. Fisheries Code (R.A. 8550)",]
 authors_raw = "Roxas, Mar"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-31"
 action = "Introduced by Senator MAR ROXAS;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-21"
 action = "Read on First Reading and referred to the Committee(s) on AGRICULTURE AND FOOD;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-23"
 action = "Returned and submitted jointly by the Committee(s) on AGRICULTURE AND FOOD and ENVIRONMENT AND NATURAL RESOURCES per Committee Report No. 177, recommending that it be considered in SBN-2522;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "SUBSTITUTED BY SBN-2522, WHICH BECAME R.A.NO. 9379."
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-25"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/24/2006"
+date = "2006-11-24"
 
 [[committees]]
 name = "Agriculture and Food"

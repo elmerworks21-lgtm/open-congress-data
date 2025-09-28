@@ -1,8 +1,11 @@
 id = "01K67YJVHA26AG1PDQ1XKVFEXM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00962"
+
+[meta]
 bill_number = 962
 congress = 19
-canonical = "SBN-00962"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-962", "https://web.senate.gov.ph/lisdata/3877235225!.pdf",]
 title = "PHILIPPINE POLLUTANT RELEASE AND TRANSFER REGISTRY ACT"
 date_filed = "2022-08-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A PHILIPPINE POLLUTANT RELEASE AND TRANSFER REGIST
 scope = "National"
 subjects = [ "Philippine Pollutant Release and Transfer Registry (Pprtr)",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-01"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-05"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/5/2022"
+date = "2022-09-05"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

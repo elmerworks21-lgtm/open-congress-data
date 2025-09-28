@@ -1,8 +1,11 @@
 id = "01K67YJ19GW74Y68Y8FGAHVPDK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00854"
+
+[meta]
 bill_number = 854
 congress = 14
-canonical = "SBN-00854"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-854", "https://web.senate.gov.ph/lisdata/50984471!.pdf",]
 title = "FRANKING PRIVILEGES TO OCWS IMMEDIATE FAMILY"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FRANKING PRIVILEGE TO THE IMMEDIATE FAMILY MEMBERS
 scope = "National"
 subjects = [ "Overseas Contract Workers (OCWS)/Overseas Filipino Workers (OFWs)", "Franking Privilege",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Public Services"

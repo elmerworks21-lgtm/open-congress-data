@@ -1,8 +1,11 @@
 id = "01K67YJW6T2CB86C06EN2GK6EC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01888"
+
+[meta]
 bill_number = 1888
 congress = 19
-canonical = "SBN-01888"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1888", "https://web.senate.gov.ph/lisdata/4077237164!.pdf",]
 title = "RENAMING AGHAM ROAD AND BIR ROAD, AS SENATOR MIRIAM P. DEFENSOR-SANTIAGO AVENUE"
 date_filed = "2023-02-15"
@@ -10,41 +13,42 @@ long_title = "AN ACT RENAMING AGHAM ROAD AND BIR ROAD LOCATED IN QUEZON CITY AS 
 scope = "Local"
 subjects = [ "Roads, Change of Name", "Renaming",]
 authors_raw = "Angara, Sonny, Cayetano, Alan Peter S., Lapid, Manuel \"Lito\" M., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-15"
 action = "Introduced by Senators SONNY ANGARA, ALAN PETER S. CAYETANO and MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-20"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-09"
 action = "Transferred from the Committee on Rules to the Committee on PUBLIC WORKS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-10"
 action = "Letter from Senator JOEL VILLANUEVA dated May 8, 2023, conveying his intention to be a co-author of SBN-1888, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-24"
 action = "Returned and submitted by the Committee on PUBLIC WORKS per Committee Report No. 76, recommending that it be considered in HBN-7413;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-24"
 action = "CONSIDERED IN HBN-7413 UNDER COMMITTEE REPORT NO. 76 WHICH BECAME R.A. NO. 11963 ON OCTOBER 12, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/24/2023"
+date = "2023-05-24"
 
 [[committees]]
 name = "Public Works"

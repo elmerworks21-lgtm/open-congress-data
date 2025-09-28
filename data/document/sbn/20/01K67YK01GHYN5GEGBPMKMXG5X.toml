@@ -1,8 +1,11 @@
 id = "01K67YK01GHYN5GEGBPMKMXG5X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00404"
+
+[meta]
 bill_number = 404
 congress = 20
-canonical = "SBN-00404"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-404", "https://web.senate.gov.ph/lisdata/4689642902!.pdf",]
 title = "UNIVERSAL MEDICAL ASSISTANCE ACT OF 2025"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING THE MEDICAL ASSISTANCE TO INDIGENT AND FINANCIA
 scope = "National"
 subjects = [ "Universal Health Care", "Medical Assistance", "Indigent Patients",]
 authors_raw = "Lacson, Panfilo M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator PANFILO M. LACSON;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJPTKBF1915S9NSQ80GM8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00654"
+
+[meta]
 bill_number = 654
 congress = 18
-canonical = "SBN-00654"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-654", "https://web.senate.gov.ph/lisdata/3101127911!.pdf",]
 title = "AGRICULTURE TECHNOLOGY GENERATION AND TRANSFER ACT"
 date_filed = "2019-07-22"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO ESTABLISH AN INTEGRATED SYSTEM FOR AGRICULTURE TECHNOLOG
 scope = "National"
 subjects = [ "Agriculture Technology",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; SCIENCE AND TECHNOLOGY; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform, SBN-654 shall now be referred to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

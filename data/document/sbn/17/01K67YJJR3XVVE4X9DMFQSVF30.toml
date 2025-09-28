@@ -1,8 +1,11 @@
 id = "01K67YJJR3XVVE4X9DMFQSVF30"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02090"
+
+[meta]
 bill_number = 2090
 congress = 17
-canonical = "SBN-02090"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2090", "https://web.senate.gov.ph/lisdata/2890025425!.pdf",]
 title = "ARAW NG DABAW"
 date_filed = "2018-11-13"
@@ -10,33 +13,34 @@ long_title = "AN ACT DECLARING MARCH 1 OF EVERY YEAR AS A SPECIAL NON-WORKING HO
 scope = "National"
 subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-13"
 action = "Introduced by Senator JUAN EDGARDO 'SONNY' M. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-14"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-23"
 action = "Transferred from the Committee on RULES to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 577, recommending that it be considered in HBN-8699;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-29"
 action = "CONSIDERED IN HBN-8699 UNDER COMMITTEE REPORT NO. 577, WHICH BECAME R.A. NO. 11379 ON AUGUST 22, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/29/2019"
+date = "2019-01-29"
 
 [[committees]]
 name = "Local Government"

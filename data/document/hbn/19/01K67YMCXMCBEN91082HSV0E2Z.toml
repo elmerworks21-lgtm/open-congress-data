@@ -1,28 +1,32 @@
 id = "01K67YMCXMCBEN91082HSV0E2Z"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05087"
+
+[meta]
 bill_number = 5087
 congress = 19
-canonical = "HBN-05087"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-5087", "https://web.senate.gov.ph/lisdata/3979536107!.pdf",]
 title = "INTEGRATION OF THE NATIONAL BUILDING CODE OF THE PHILIPPINES"
 long_title = "AN ACT MANDATING THE INTEGRATION OF THE NATIONAL BUILDING CODE OF THE PHILIPPINES UNDER REPUBLIC ACT NO. 6541 ENTITLED ''AN ACT TO ORDAIN AND INSTITUTE A NATIONAL BUILDING CODE OF THE PHILIPPINES'' AS A MAJOR SUBJECT IN THE CURRICULUM OF THE BACHELOR OF SCIENCE DEGREE PROGRAMS IN CIVIL ENGINEERING, MECHANICAL ENGINEERING, ELECTRICAL ENGINEERING, SANITARY ENGINEERING, ELECTRONICS ENGINEERING, AND ARCHITECTURE, AND ITS INCLUSION AS A TOPIC IN THE LICENSURE EXAMINATIONS FOR THESE PROFESSIONS"
 scope = "National"
 subjects = [ "Buildings/Structures", "Building Code of the Philippines (R.A.No. 6541)",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-08"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-21"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2022"
+date = "2022-11-22"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

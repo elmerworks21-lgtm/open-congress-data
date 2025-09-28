@@ -1,8 +1,11 @@
 id = "01K67YCNXR99Q5Y8KNESD2GK1Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00996"
+
+[meta]
 bill_number = 996
 congress = 13
-canonical = "SBN-00996"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-996", "https://web.senate.gov.ph/lisdata/22001728!.pdf",]
 title = "PROTECTION FROM INVOLUNTARY COLLECTION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROTECT INDIVIDUALS FROM HAVING THEIR MONEY INVOLUNTARIL
 scope = "National"
 subjects = [ "Involuntary Collection", "Political Activity Money Collection",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

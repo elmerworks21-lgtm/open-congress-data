@@ -1,8 +1,11 @@
 id = "01K67YJQXQQKFKPPJV46CWME39"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02147"
+
+[meta]
 bill_number = 2147
 congress = 18
-canonical = "SBN-02147"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2147", "https://web.senate.gov.ph/lisdata/3492131744!.pdf",]
 title = "PARKING FEE REGULATION ACT"
 date_filed = "2021-04-28"
@@ -10,21 +13,22 @@ long_title = "AN ACT REGULATING THE IMPOSITION OF FEES FOR THE USE OF PARKING SP
 scope = "National"
 subjects = [ "Parking Space", "Fees and Charges",]
 authors_raw = "Revilla Jr., Ramon Bong, Gatchalian, Win, Binay, Maria Lourdes Nancy S., Pimentel, Aquilino \"Koko\" III"
-[[legislative_history]]
+
+[[history]]
 date = "2021-04-28"
 action = "Prepared and submitted by the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP with Senators RAMON BONG REVILLA JR., WIN GATCHALIAN, MARIA LOURDES NANCY S. BINAY and AQUILINO 'KOKO' III PIMENTEL as authors per Committee Report No. 230, recommending its approval in substitution of SBNos. 436, 745 and 1000;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-05-17"
 action = "Sponsor: Senator AQUILINO 'KOKO' III PIMENTEL;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "5/17/2021"
+date = "2021-05-17"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

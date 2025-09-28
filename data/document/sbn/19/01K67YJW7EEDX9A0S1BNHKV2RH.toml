@@ -1,8 +1,11 @@
 id = "01K67YJW7EEDX9A0S1BNHKV2RH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01917"
+
+[meta]
 bill_number = 1917
 congress = 19
-canonical = "SBN-01917"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1917", "https://web.senate.gov.ph/lisdata/4087237239!.pdf",]
 title = "ILIGAN GENERAL HOSPITAL"
 date_filed = "2023-02-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A GENERAL HOSPITAL IN THE CITY OF ILIGAN, PROV
 scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-22"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-27"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/27/2023"
+date = "2023-02-27"
 
 [[committees]]
 name = "Rules"

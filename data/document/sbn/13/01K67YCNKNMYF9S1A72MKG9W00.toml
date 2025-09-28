@@ -1,8 +1,11 @@
 id = "01K67YCNKNMYF9S1A72MKG9W00"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00433"
+
+[meta]
 bill_number = 433
 congress = 13
-canonical = "SBN-00433"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-433", "https://web.senate.gov.ph/lisdata/1590891!.pdf",]
 title = "CONVERGENCE POLICY ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH STRUCTURAL REFORMS IN THE INFORMATION AND COMM
 scope = "National"
 subjects = [ "Communications Convergent Services", "Convergence Policy Act",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on SCIENCE AND TECHNOLOGY; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Science and Technology"

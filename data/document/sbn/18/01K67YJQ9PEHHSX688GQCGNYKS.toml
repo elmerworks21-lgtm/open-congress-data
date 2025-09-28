@@ -1,8 +1,11 @@
 id = "01K67YJQ9PEHHSX688GQCGNYKS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01322"
+
+[meta]
 bill_number = 1322
 congress = 18
-canonical = "SBN-01322"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1322", "https://web.senate.gov.ph/lisdata/3230329150!.pdf",]
 title = "NATIONAL BUILDING CODE INTEGRATION ACT OF 2020"
 date_filed = "2020-02-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE INTEGRATION OF THE NATIONAL BUILDING CODE OF 
 scope = "National"
 subjects = [ "National Building Code of the Philippines", "Building Code of the Philippines (R.A.No. 6541)", "Curriculum/Curricula",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-04"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-04"
 action = "Read on First Reading and Referred to the Committee(s) on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/4/2020"
+date = "2020-02-04"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

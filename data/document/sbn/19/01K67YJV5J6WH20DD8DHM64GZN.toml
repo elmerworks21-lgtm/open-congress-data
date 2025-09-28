@@ -1,8 +1,11 @@
 id = "01K67YJV5J6WH20DD8DHM64GZN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00435"
+
+[meta]
 bill_number = 435
 congress = 19
-canonical = "SBN-00435"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-435", "https://web.senate.gov.ph/lisdata/3819634634!.pdf",]
 title = "SECURITY OF TENURE FOR CASUAL AND CONTRACTUAL GOVERNMENT EMPLOYEE"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR SECURITY OF TENURE FOR ALL CASUAL AND CONTRAC
 scope = "National"
 subjects = [ "Government Employees (Casual/Contractual)", "Security of Tenure",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-10"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2022"
+date = "2022-08-10"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

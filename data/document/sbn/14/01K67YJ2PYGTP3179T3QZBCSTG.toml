@@ -1,8 +1,11 @@
 id = "01K67YJ2PYGTP3179T3QZBCSTG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02632"
+
+[meta]
 bill_number = 2632
 congress = 14
-canonical = "SBN-02632"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2632", "https://web.senate.gov.ph/lisdata/86087815!.pdf",]
 title = "UNDERAGE DRINKING PREVENTION ACT OF 2008"
 date_filed = "2008-09-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INSTITUTIONALIZE A NATIONWIDE PROGRAM TO PREVENT AND ADD
 scope = "National"
 subjects = [ "Alcoholic Beverages", "Underage Drinking Prevention",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-22"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/23/2008"
+date = "2008-09-23"
 
 [[committees]]
 name = "Health and Demography"

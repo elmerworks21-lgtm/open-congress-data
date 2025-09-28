@@ -1,8 +1,11 @@
 id = "01K67YJD94EY48KMEF605F4NP4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01552"
+
+[meta]
 bill_number = 1552
 congress = 16
-canonical = "SBN-01552"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1552", "https://web.senate.gov.ph/lisdata/1765414917!.pdf",]
 title = "AMENDING SEC. 63, R.A. 6975 (INTEGRATED JAIL FACILITY)"
 date_filed = "2013-09-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 63 OF REPUBLIC ACT NO. 6975 OTHERWISE KNOW
 scope = "National"
 subjects = [ "Jail Facility", "Department of the Interior and Local Government (DILG)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-09-05"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/11/2013"
+date = "2013-09-11"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

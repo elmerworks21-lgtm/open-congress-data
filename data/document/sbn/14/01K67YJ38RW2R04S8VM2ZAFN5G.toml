@@ -1,8 +1,11 @@
 id = "01K67YJ38RW2R04S8VM2ZAFN5G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03400"
+
+[meta]
 bill_number = 3400
 congress = 14
-canonical = "SBN-03400"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3400", "https://web.senate.gov.ph/lisdata/1220910737!.pdf",]
 title = "PREVENTIVE IMPRISONMENT"
 date_filed = "2009-08-24"
@@ -10,21 +13,22 @@ long_title = "AN ACT GIVING OFFENDERS THE FULLEST BENEFIT OF PREVENTIVE IMPRISON
 scope = "National"
 subjects = [ "Preventive Imprisonment", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Angara, Edgardo J., Villar, Manny, Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2009-08-24"
 action = "Prepared and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS with Senator(s) EDGARDO J. ANGARA, MANNY VILLAR and FRANCIS 'CHIZ' G. ESCUDERO as author(s) per Committee Report No. 559, recommending its approval in substitution of SBNos. 878 and 1036;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-24"
 action = "Sponsor: Senator ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-08-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "8/24/2009"
+date = "2009-08-24"
 
 [[committees]]
 name = "Justice and Human Rights"

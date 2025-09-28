@@ -1,8 +1,11 @@
 id = "01K67YCP9SGJK7J47HDFPT7017"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01654"
+
+[meta]
 bill_number = 1654
 congress = 13
-canonical = "SBN-01654"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1654", "https://web.senate.gov.ph/lisdata/28702327!.pdf",]
 title = "RESEARCH ON WOMEN'S HEALTH ACT"
 date_filed = "2004-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE OFFICE OF RESEARCH ON WOMEN'S HEALTH"
 scope = "National"
 subjects = [ "Women`S Health, Office of Research on",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; YOUTH, WOMEN AND FAMILY RELATIONS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJCMSCVY32GMQ1EN579QT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00557"
+
+[meta]
 bill_number = 557
 congress = 16
-canonical = "SBN-00557"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-557", "https://web.senate.gov.ph/lisdata/1647313713!.pdf",]
 title = "CIVIL CODE (ARTICLE 2180, R.A. NO. 386) (ACADEMIC EDUCATIONAL INSTITUTIONS)"
 date_filed = "2013-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 386, OTHERWISE KNOWN AS THE CIVIL
 scope = "National"
 subjects = [ "Civil Code of the Philippines",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2013"
+date = "2013-08-06"
 
 [[committees]]
 name = "Education, Arts and Culture"

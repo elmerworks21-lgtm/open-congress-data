@@ -1,8 +1,11 @@
 id = "01K67YJWY23B2RCB31ZFY1CVXM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02798"
+
+[meta]
 bill_number = 2798
 congress = 19
-canonical = "SBN-02798"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2798", "https://web.senate.gov.ph/lisdata/4469640650!.pdf",]
 title = "DEFENSIVE DRIVING ACT OF 2024"
 date_filed = "2024-08-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING THE DETENTION OF MOTOR VEHICLE DRIVERS WHO ARE 
 scope = "National"
 subjects = [ "Defensive Driving",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-21"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-27"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2024"
+date = "2024-08-27"
 
 [[committees]]
 name = "Justice and Human Rights"

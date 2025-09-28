@@ -1,28 +1,32 @@
 id = "01K67YM9HWF6PZ3V2QGPGG7BPH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08835"
+
+[meta]
 bill_number = 8835
 congress = 18
-canonical = "HBN-08835"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-8835", "https://web.senate.gov.ph/lisdata/3470831533!.pdf",]
 title = "PHILIPPINE MICROBIOLOGY ACT"
 long_title = "AN ACT REGULATING THE PRACTICE OF MICROBIOLOGY IN THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Microbiology", "Professional Regulation Commission (PRC)",]
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-17"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; SCIENCE AND TECHNOLOGY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/17/2021"
+date = "2021-03-17"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

@@ -1,8 +1,11 @@
 id = "01K67YJR76GP1N670XANFMRB2Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02389"
+
+[meta]
 bill_number = 2389
 congress = 18
-canonical = "SBN-02389"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2389", "https://web.senate.gov.ph/lisdata/3615032577!.pdf",]
 title = "ABOLISHING THE PHILIPPINE INTERNATIONAL TRADING CORPORATION (PITC)"
 date_filed = "2021-09-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT ABOLISHING THE PHILIPPINE INTERNATIONAL TRADING CORPORATION
 scope = "National"
 subjects = [ "Abolition", "Philippine International Trading Corporation (PITC)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-06"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-07"
 action = "Read on First Reading and Referred to the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2021"
+date = "2021-09-07"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

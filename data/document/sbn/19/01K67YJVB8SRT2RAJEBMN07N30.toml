@@ -1,8 +1,11 @@
 id = "01K67YJVB8SRT2RAJEBMN07N30"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00693"
+
+[meta]
 bill_number = 693
 congress = 19
-canonical = "SBN-00693"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-693", "https://web.senate.gov.ph/lisdata/3865135105!.pdf",]
 title = "REAL PROPERTY VALUATION AND ASSESSMENT REFORM ACT OF 2022"
 date_filed = "2022-07-18"
@@ -10,57 +13,58 @@ long_title = "AN ACT INSTITUTING REFORMS IN REAL PROPERTY VALUATION AND ASSESSME
 scope = "National"
 subjects = [ "Real Property Valuation and Assessment", "Bureau of Local Government Finance", "Real Property",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-18"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-23"
 action = "Read on First Reading and Referred to the Committees on WAYS AND MEANS; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-02"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-09"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-29"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-04-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-02"
 action = "Returned and submitted jointly by the Committees on WAYS AND MEANS, LOCAL GOVERNMENT and FINANCE per Committee Report No. 99, recommending that it be substituted by SBN-2386;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-07"
 action = "SUBSTITUTED BY SBN-2386 UNDER COMMITTEE REPORT NO. 99."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/7/2023"
+date = "2023-08-07"
 
 [[committees]]
 name = "Ways and Means"

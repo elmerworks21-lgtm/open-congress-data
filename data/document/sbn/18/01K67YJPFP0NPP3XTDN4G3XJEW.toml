@@ -1,8 +1,11 @@
 id = "01K67YJPFP0NPP3XTDN4G3XJEW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00153"
+
+[meta]
 bill_number = 153
 congress = 18
-canonical = "SBN-00153"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-153", "https://web.senate.gov.ph/lisdata/3042927269!.pdf",]
 title = "ALLOWING THE ADOPTION OF ALTERNATIVE WORK ARRANGEMENTS"
 date_filed = "2019-07-02"
@@ -10,25 +13,26 @@ long_title = "AN ACT ALLOWING THE ADOPTION OF ALTERNATIVE WORK ARRANGEMENTS, AME
 scope = "National"
 subjects = [ "Alternative Work Arrangement", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YJQ1GV0XJNM8PWNEMDZA3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00976"
+
+[meta]
 bill_number = 976
 congress = 18
-canonical = "SBN-00976"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-976", "https://web.senate.gov.ph/lisdata/3138328278!.pdf",]
 title = "FOOD ALLERGEN AWARENESS AND LABELING ACT"
 date_filed = "2019-08-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING THE DISCLOSURE OF FOOD ALLERGEN INFORMATION ON ME
 scope = "National"
 subjects = [ "Food Allergy/Anaphylaxis", "Food Establishments", "Food Labeling/Packaging",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-28"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2019"
+date = "2019-08-28"
 
 [[committees]]
 name = "Health and Demography"

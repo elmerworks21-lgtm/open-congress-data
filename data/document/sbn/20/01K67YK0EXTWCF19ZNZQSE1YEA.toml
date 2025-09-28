@@ -1,8 +1,11 @@
 id = "01K67YK0EXTWCF19ZNZQSE1YEA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01118"
+
+[meta]
 bill_number = 1118
 congress = 20
-canonical = "SBN-01118"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1118", "https://web.senate.gov.ph/lisdata/4766743682!.pdf",]
 title = "NATIONAL MICRO, SMALL, AND MEDIUM ENTERPRISES (MSME) WEEK ACT"
 date_filed = "2025-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING JUNE 27 TO JULY 2 OF EVERY YEAR AS THE 'NATIONAL 
 scope = "National"
 subjects = [ "Micro, Small and Medium Enterprises (Msmes)",]
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator WIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

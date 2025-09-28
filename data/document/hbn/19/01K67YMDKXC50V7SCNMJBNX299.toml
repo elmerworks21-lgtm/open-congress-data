@@ -1,18 +1,22 @@
 id = "01K67YMDKXC50V7SCNMJBNX299"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09923"
+
+[meta]
 bill_number = 9923
 congress = 19
-canonical = "HBN-09923"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-9923", "https://web.senate.gov.ph/lisdata/4636042361!.pdf",]
 title = "LTO DISTRICT OFFICE (SAGAY, NEGROS OCCIDENTAL)"
 long_title = "AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE CITY OF SAGAY, NEGROS OCCIDENTAL"
 scope = "Local"
 subjects = [ "District Office", "Land Transportation Office (LTO)",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-06-09"
 action = "Sent to the Senate requesting for concurrence;"
 
 [[status]]
 status = "Pending First Reading"
-date = "6/9/2025"
+date = "2025-06-09"
 

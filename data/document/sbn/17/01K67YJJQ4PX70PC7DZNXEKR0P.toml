@@ -1,8 +1,11 @@
 id = "01K67YJJQ4PX70PC7DZNXEKR0P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02070"
+
+[meta]
 bill_number = 2070
 congress = 17
-canonical = "SBN-02070"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2070", "https://web.senate.gov.ph/lisdata/2884025364!.pdf",]
 title = "COMPREHENSIVE LUPUS PREVENTION ACT OF 2018"
 date_filed = "2018-10-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A NATIONAL HEALTH PROGRAM TO COMBAT SYSTEMIC LU
 scope = "National"
 subjects = [ "Lupus Disease",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2018-10-10"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-12"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/12/2018"
+date = "2018-11-12"
 
 [[committees]]
 name = "Health and Demography"

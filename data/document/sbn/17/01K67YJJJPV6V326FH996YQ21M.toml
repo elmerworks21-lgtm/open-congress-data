@@ -1,8 +1,11 @@
 id = "01K67YJJJPV6V326FH996YQ21M"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01906"
+
+[meta]
 bill_number = 1906
 congress = 17
-canonical = "SBN-01906"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1906", "https://web.senate.gov.ph/lisdata/2824224594!.pdf",]
 title = "CORPORATE INCOME TAX AND INCENTIVES REFORM ACT"
 date_filed = "2018-08-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REFORMING THE CORPORATE INCOME TAX AND INCENTIVES AMENDING 
 scope = "National"
 subjects = [ "Taxes (Corporate Income Tax Rate)", "Taxes/Taxation", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2018-08-02"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-06"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2018"
+date = "2018-08-06"
 
 [[committees]]
 name = "Ways and Means"

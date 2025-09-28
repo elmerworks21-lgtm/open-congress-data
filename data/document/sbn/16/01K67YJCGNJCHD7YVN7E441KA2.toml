@@ -1,8 +1,11 @@
 id = "01K67YJCGNJCHD7YVN7E441KA2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00357"
+
+[meta]
 bill_number = 357
 congress = 16
-canonical = "SBN-00357"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-357", "https://web.senate.gov.ph/lisdata/1619713425!.pdf",]
 title = "PREPAREDNESS IN BUILDINGS DURING FIRE, EARTHQUAKE AND OTHER HAZARDOUS PHENOMENA ACT"
 date_filed = "2013-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE CONDUCT OF FIRE, EARTHQUAKE, AND OTHER HAZARD
 scope = "National"
 subjects = [ "Disaster Awareness/Mitigation", "School Bus", "School Building", "Calamity/Disaster",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-03"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY and EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2013"
+date = "2013-07-31"
 
 [[committees]]
 name = "National Defense and Security"

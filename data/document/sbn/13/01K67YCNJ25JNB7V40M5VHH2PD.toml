@@ -1,8 +1,11 @@
 id = "01K67YCNJ25JNB7V40M5VHH2PD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00345"
+
+[meta]
 bill_number = 345
 congress = 13
-canonical = "SBN-00345"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-345", "https://web.senate.gov.ph/lisdata/1502797!.pdf",]
 title = "REAL ESTATE COMMISSION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE REAL ESTATE COMMISSION, PRESCRIBING ITS DUTIES
 scope = "National"
 subjects = [ "Real Estate Commission (Creation)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-04"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; URBAN PLANNING, HOUSING AND RESETTLEMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2004"
+date = "2004-08-04"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

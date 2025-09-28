@@ -1,8 +1,11 @@
 id = "01K67YJQSCKBFH3KXBH1Z6JE9R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01971"
+
+[meta]
 bill_number = 1971
 congress = 18
-canonical = "SBN-01971"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1971", "https://web.senate.gov.ph/lisdata/3424531045!.pdf",]
 title = "DEFERMENT OF PREMIUM CONTRIBUTIONS TO PHILHEALTH"
 date_filed = "2021-01-05"
@@ -10,29 +13,30 @@ long_title = "AN ACT AUTHORIZING THE DEFERMENT OF THE SCHEDULE OF PREMIUM CONTRI
 scope = "National"
 subjects = [ "Philippine Health Insurance Corporation (Philhealth/Phic)", "Universal Health Care",]
 authors_raw = "Gordon, Richard J."
-[[legislative_history]]
+
+[[history]]
 date = "2021-01-05"
 action = "Introduced by Senator RICHARD J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-19"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Returned and submitted jointly by the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 192, recommending that it be substituted by SBN-2097;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-10"
 action = "SUBSTITUTED BY SBN-2097, UNDER COMMITTEE REPORT NO. 192."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/10/2021"
+date = "2021-03-10"
 
 [[committees]]
 name = "Health and Demography"

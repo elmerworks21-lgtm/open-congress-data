@@ -1,8 +1,11 @@
 id = "01K67YJ12YNA2WS2C09VZWZNKA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00529"
+
+[meta]
 bill_number = 529
 congress = 14
-canonical = "SBN-00529"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-529", "https://web.senate.gov.ph/lisdata/47404059!.pdf",]
 title = "ANTI- DISCRIMINATION AGAINST WOMEN"
 date_filed = "2007-07-02"
@@ -10,33 +13,34 @@ long_title = "AN ACT EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOM
 scope = "National"
 subjects = [ "Anti-Discrimination Against Women", "Anti-Gender Discrimination", "Labor Code (Pd 442)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-21"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-02-18"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-03"
 action = "Returned and submitted jointly by the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and YOUTH, WOMEN AND FAMILY RELATIONS per Committee Report No. 845, recommending that it be substituted by SBN-3590;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-31"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-31"
 action = "SUBSTITUTED BY SBN-3590."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/31/2010"
+date = "2010-05-31"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

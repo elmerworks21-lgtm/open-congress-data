@@ -1,8 +1,11 @@
 id = "01K67YJTZ74C6YTWMK709CW6M8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00145"
+
+[meta]
 bill_number = 145
 congress = 19
-canonical = "SBN-00145"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-145", "https://web.senate.gov.ph/lisdata/3785334294!.pdf",]
 title = "ANTI-ENDO AND CONTRACTING LAW"
 date_filed = "2022-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT AGAINST THE PRACTICE OF ‘ENDO’ AND CONTRACTING, AMENDIN
 scope = "National"
 subjects = [ "Anti-Endo and Contracting Law", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator RISA HONTIVEROS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2022"
+date = "2022-08-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

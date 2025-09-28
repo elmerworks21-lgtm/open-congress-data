@@ -1,8 +1,11 @@
 id = "01K67YJQAX63KDATFXPEH0W2ZY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01367"
+
+[meta]
 bill_number = 1367
 congress = 18
-canonical = "SBN-01367"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1367", "https://web.senate.gov.ph/lisdata/3239529252!.pdf",]
 title = "DRUG ABUSE PREVENTION PROGRAM IN EDUCATIONAL INSTITUTIONS ACT"
 date_filed = "2020-02-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE ESTABLISHMENT OF A PROGRAM OF EDUCATION DESIG
 scope = "National"
 subjects = [ "Drug Prevention", "Educational Institutions",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2020-02-19"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-26"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE and PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/26/2020"
+date = "2020-02-26"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

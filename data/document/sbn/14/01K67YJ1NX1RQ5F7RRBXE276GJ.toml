@@ -1,8 +1,11 @@
 id = "01K67YJ1NX1RQ5F7RRBXE276GJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01455"
+
+[meta]
 bill_number = 1455
 congress = 14
-canonical = "SBN-01455"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1455", "https://web.senate.gov.ph/lisdata/57665125!.pdf",]
 title = "ACQUISITION OF FRUITS/ACCESSION BY HEIRS AS OWNER OF PROPERTY NOT THROUGH SUCCESSION"
 date_filed = "2007-08-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT REPEALING SECTION 781 OF REPUBLIC ACT NO. 386, ALSO KNOWN A
 scope = "National"
 subjects = [ "Law on Succession", "Legacy", "Civil Code (R.A.No. 386, Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-08-14"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-17"
 action = "Read on First Reading and Referred to the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2007"
+date = "2007-09-17"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

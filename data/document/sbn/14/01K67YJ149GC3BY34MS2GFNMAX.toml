@@ -1,8 +1,11 @@
 id = "01K67YJ149GC3BY34MS2GFNMAX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00595"
+
+[meta]
 bill_number = 595
 congress = 14
-canonical = "SBN-00595"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-595", "https://web.senate.gov.ph/lisdata/48064137!.pdf",]
 title = "HIRED FOREIGN CONSULTANTS IDENTITY DISCLOSURE"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL BRANCHES, SUBDIVISIONS, INSTRUMENTALITES, AND
 scope = "National"
 subjects = [ "Foreign Consultants (Identity Disclosure)", "Government-Owned and Controlled Corporations (GOCC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-22"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/22/2007"
+date = "2007-08-22"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

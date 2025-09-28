@@ -1,24 +1,28 @@
 id = "01K67YKW8A0T4X415QV3VZ8ZSS"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04509"
+
+[meta]
 bill_number = 4509
 congress = 14
-canonical = "HBN-04509"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-4509", "https://web.senate.gov.ph/lisdata/84987660!.pdf",]
 title = "PURA - VICTORIA ROAD"
 long_title = "AN ACT CONVERTING THE PURA - VICTORIA ROAD IN THE MUNICIPALITIES OF PURA AND VICTORIA, PROVINCE OF TARLAC INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-09-16"
 action = "Filed in the Senate requesting for concurrence by Representatives MONICA LOUISE PRIETO-TEODORO and JECI A. LAPUS as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-09-17"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/17/2008"
+date = "2008-09-17"
 
 [[committees]]
 name = "Public Works"

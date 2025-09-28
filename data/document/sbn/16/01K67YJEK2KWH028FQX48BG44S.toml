@@ -1,8 +1,11 @@
 id = "01K67YJEK2KWH028FQX48BG44S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03203"
+
+[meta]
 bill_number = 3203
 congress = 16
-canonical = "SBN-03203"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3203", "https://web.senate.gov.ph/lisdata/2313419871!.pdf",]
 title = "RECORDING AND REPORTING OF OCCUPATIONAL INJURIES AND ILLNESSES ACT"
 date_filed = "2016-02-01"
@@ -10,19 +13,20 @@ long_title = "AN ACT DIRECTING THE SECRETARY OF THE DEPARTMENT OF LABOR AND EMPL
 scope = "National"
 subjects = [ "Occupational Injuries/Illnesses", "Department of Labor and Employment (DOLE)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-02-01"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Motion of the Majority Leader, Senator Alan Peter Compañero S. Cayetano, that the matters appearing in the Reference of Business for todays session be deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "5/30/2016"
+date = "2016-05-30"
 

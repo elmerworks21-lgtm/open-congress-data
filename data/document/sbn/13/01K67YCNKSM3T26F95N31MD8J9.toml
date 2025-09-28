@@ -1,8 +1,11 @@
 id = "01K67YCNKSM3T26F95N31MD8J9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00440"
+
+[meta]
 bill_number = 440
 congress = 13
-canonical = "SBN-00440"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-440", "https://web.senate.gov.ph/lisdata/1597898!.pdf",]
 title = "FREE MEDICAL AND DENTAL ASSISTANCE TO INDIGENT CHILDREN"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL GOVERNMENT AND PRIVATE HOSPITALS, MEDICAL CEN
 scope = "National"
 subjects = [ "Indigent Children", "Free Medical/Dental Assistance",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Health and Demography"

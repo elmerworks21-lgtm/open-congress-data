@@ -1,8 +1,11 @@
 id = "01K67YJPP7MW4A0M324AZNW672"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00445"
+
+[meta]
 bill_number = 445
 congress = 18
-canonical = "SBN-00445"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-445", "https://web.senate.gov.ph/lisdata/3079227638!.pdf",]
 title = "CONSUMER GROUP REPRESENTATION IN REGULATORY BODIES ACT"
 date_filed = "2019-07-15"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROTECTING CONSUMERS FROM UNREASONABLE FEE INCREASES BY PRO
 scope = "National"
 subjects = [ "Consumer Group Representative", "Consumer Protection",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-15"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-05"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2019"
+date = "2019-08-05"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

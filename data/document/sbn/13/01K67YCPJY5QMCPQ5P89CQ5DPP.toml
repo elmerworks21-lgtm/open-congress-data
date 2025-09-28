@@ -1,8 +1,11 @@
 id = "01K67YCPJY5QMCPQ5P89CQ5DPP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02101"
+
+[meta]
 bill_number = 2101
 congress = 13
-canonical = "SBN-02101"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2101", "https://web.senate.gov.ph/lisdata/38813332!.pdf",]
 title = "SAFE KIDS IN CARS ACT OF 2005"
 date_filed = "2005-08-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO IMPROVE CHILD SAFETY IN MOTOR VEHICLES"
 scope = "National"
 subjects = [ "Safe Kids in Cars Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-24"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-30"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2005"
+date = "2005-08-30"
 
 [[committees]]
 name = "Public Services"

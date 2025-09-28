@@ -1,8 +1,11 @@
 id = "01K67YJVE33YFRZTAR40K3C1KC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00828"
+
+[meta]
 bill_number = 828
 congress = 19
-canonical = "SBN-00828"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-828", "https://web.senate.gov.ph/lisdata/3859935052!.pdf",]
 title = "CAREGIVERS WELFARE ACT OF 2022"
 date_filed = "2022-07-25"
@@ -10,37 +13,38 @@ long_title = "AN ACT INSTITUTING POLICIES FOR THE PROTECTION AND WELFARE OF CARE
 scope = "National"
 subjects = [ "Caregivers", "Healthcare Workers",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-25"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-12-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-20"
 action = "Returned and submitted by the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT per Committee Report No. 57, recommending that it be substituted by SBN-2019;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-20"
 action = "SUBSTITUTED BY SBN-2019 UNDER COMMITTEE REPORT NO. 57 WHICH BECAME REPUBLIC ACT NO. 11965 ON NOVEMBER 23, 2023."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/20/2023"
+date = "2023-03-20"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YCNM4P7TAC7MY4H3K9ADC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00458"
+
+[meta]
 bill_number = 458
 congress = 13
-canonical = "SBN-00458"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-458", "https://web.senate.gov.ph/lisdata/1616917!.pdf",]
 title = "CIVIL AVIATION SECURITY ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CODIFYING THE LAWS ON CIVIL AVIATION SECURITY, IDENTIFYING 
 scope = "National"
 subjects = [ "Civil Aviation Security Act",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

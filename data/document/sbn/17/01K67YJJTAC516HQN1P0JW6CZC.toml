@@ -1,8 +1,11 @@
 id = "01K67YJJTAC516HQN1P0JW6CZC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02181"
+
+[meta]
 bill_number = 2181
 congress = 17
-canonical = "SBN-02181"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2181", "https://web.senate.gov.ph/lisdata/2943226077!.pdf",]
 title = "MAKING THE POSITION OF A COOPERATIVES OFFICER MANDATORY"
 date_filed = "2019-01-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT MAKING THE POSITION OF A COOPERATIVES OFFICER MANDATORY IN 
 scope = "National"
 subjects = [ "Cooperatives Officer", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Zubiri, Juan Miguel F."
-[[legislative_history]]
+
+[[history]]
 date = "2019-01-28"
 action = "Introduced by Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-28"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/28/2019"
+date = "2019-01-28"
 
 [[committees]]
 name = "Local Government"

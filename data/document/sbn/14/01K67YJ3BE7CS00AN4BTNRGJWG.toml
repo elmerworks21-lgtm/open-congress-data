@@ -1,29 +1,33 @@
 id = "01K67YJ3BE7CS00AN4BTNRGJWG"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03497"
+
+[meta]
 bill_number = 3497
 congress = 14
-canonical = "SBN-03497"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3497", "https://web.senate.gov.ph/lisdata/1279011468!.pdf",]
 title = "SARANGANI PROVINCE SPECIAL ECONOMIC ZONE ACT"
 date_filed = "2009-10-14"
 long_title = "AN ACT ESTABLISHING THE SARANGANI PROVINCE SPECIAL ECONOMIC ZONE IN THE MUNICIPALITIES OF MAASIM, KIAMBA AND MAITUM, CREATING FOR THAT PURPOSE THE MAASIM-KIAMBA-MAITUM INDUSTRIAL TRIANGLE SPECIAL ECONOMIC ZONE AUTHORITY (MITSEZA), APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
 scope = "Local"
 authors_raw = "Roxas, Mar, Gordon, Richard \"Dick\" J., Trillanes IV, Antonio \"Sonny\" F., Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-10-14"
 action = "Prepared and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, LOCAL GOVERNMENT, WAYS AND MEANS and FINANCE with Senator(s) MAR ROXAS, RICHARD 'DICK' J. GORDON, ANTONIO 'SONNY' F. TRILLANES IV and MIRIAM DEFENSOR SANTIAGO as author(s) per Committee Report No. 718, recommending its approval in substitution of SBNos. 2983, 3182 and 3395;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-10-14"
 action = "Sponsor: Senator ROXAS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "10/14/2009"
+date = "2009-10-14"
 
 [[committees]]
 name = "Local Government"

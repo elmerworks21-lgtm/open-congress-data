@@ -1,8 +1,11 @@
 id = "01K67YK035Y5WCG1SJZ25N5BTH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00494"
+
+[meta]
 bill_number = 494
 congress = 20
-canonical = "SBN-00494"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-494", "https://web.senate.gov.ph/lisdata/4702543027!.pdf",]
 title = "PHILIPPINE PLUMBING ENGINEERING ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING THE PRACTICE OF PLUMBING ENGINEERING IN THE PHIL
 scope = "National"
 subjects = [ "Plumbing Engineering",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

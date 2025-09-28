@@ -1,8 +1,11 @@
 id = "01K67YJWP3EH30BTMTR15E127Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02511"
+
+[meta]
 bill_number = 2511
 congress = 19
-canonical = "SBN-02511"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2511", "https://web.senate.gov.ph/lisdata/4314639245!.pdf",]
 title = "TERROR VICTIMS ASSISTANCE ACT OF 2023"
 date_filed = "2023-12-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING ASSISTANCE TO VICTIMS OF TERROR ATTACKS, APPROPRI
 scope = "National"
 subjects = [ "Terror Attacks Victims", "Terrorism",]
 authors_raw = "Padilla, Robinhood C."
-[[legislative_history]]
+
+[[history]]
 date = "2023-12-07"
 action = "Introduced by Senator ROBINHOOD C. PADILLA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-12-12"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/12/2023"
+date = "2023-12-12"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

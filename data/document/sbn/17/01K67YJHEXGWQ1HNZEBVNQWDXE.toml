@@ -1,8 +1,11 @@
 id = "01K67YJHEXGWQ1HNZEBVNQWDXE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00432"
+
+[meta]
 bill_number = 432
 congress = 17
-canonical = "SBN-00432"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-432", "https://web.senate.gov.ph/lisdata/2386820643!.pdf",]
 title = "VERDE ISLAND PASSAGE INTER-AGENCY TASK FORCE ACT OF 2016"
 date_filed = "2016-07-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE VERDE ISLAND PASSAGE INTER-AGENCY TASK FOR
 scope = "National"
 subjects = [ "Verde Island Passage Inter-Agency Task Force", "Protected Area/Protected Landscape", "Tourism (Ecotourism Zone/Ecotourism Site)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-19"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-08"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2016"
+date = "2016-08-08"
 
 [[committees]]
 name = "Environment and Natural Resources"

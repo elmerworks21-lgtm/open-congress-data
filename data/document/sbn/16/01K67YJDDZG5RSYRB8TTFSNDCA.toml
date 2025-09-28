@@ -1,8 +1,11 @@
 id = "01K67YJDDZG5RSYRB8TTFSNDCA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01778"
+
+[meta]
 bill_number = 1778
 congress = 16
-canonical = "SBN-01778"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1778", "https://web.senate.gov.ph/lisdata/1794415185!.pdf",]
 title = "MAXIMUM ALLOWABLE LEVELS OF LEAD IN CANDY"
 date_filed = "2013-10-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO KEEP LEAD WITHIN MAXIMUM ALLOWABLE LEVELS IN CANDY"
 scope = "National"
 subjects = [ "Lead Content", "Candy",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-21"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/21/2013"
+date = "2013-10-21"
 
 [[committees]]
 name = "Health and Demography"

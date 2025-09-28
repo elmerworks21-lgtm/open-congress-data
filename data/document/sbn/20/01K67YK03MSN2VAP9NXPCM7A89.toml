@@ -1,8 +1,11 @@
 id = "01K67YK03MSN2VAP9NXPCM7A89"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00519"
+
+[meta]
 bill_number = 519
 congress = 20
-canonical = "SBN-00519"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-519", "https://web.senate.gov.ph/lisdata/4707343073!.pdf",]
 title = "NATIONAL COASTAL GREENBELT ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING A NATIONAL FRAMEWORK FOR THE DESIGNATION
 scope = "National"
 subjects = [ "National Coastal Greenbelt",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

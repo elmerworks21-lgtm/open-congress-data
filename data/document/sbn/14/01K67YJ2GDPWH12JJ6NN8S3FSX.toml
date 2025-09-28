@@ -1,8 +1,11 @@
 id = "01K67YJ2GDPWH12JJ6NN8S3FSX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02350"
+
+[meta]
 bill_number = 2350
 congress = 14
-canonical = "SBN-02350"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2350", "https://web.senate.gov.ph/lisdata/75206735!.pdf",]
 title = "PHILIPPINE NATIONAL HEALTH RESEARCH SYSTEM ACT OF 2008"
 date_filed = "2008-05-28"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A PHILIPPINE NATIONAL HEALTH RESEARCH SYSTEM M
 scope = "National"
 subjects = [ "Philippine National Health Research System",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-28"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-10-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/2/2008"
+date = "2008-06-02"
 
 [[committees]]
 name = "Health and Demography"

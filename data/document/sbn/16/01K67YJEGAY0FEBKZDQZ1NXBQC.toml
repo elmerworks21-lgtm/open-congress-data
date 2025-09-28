@@ -1,8 +1,11 @@
 id = "01K67YJEGAY0FEBKZDQZ1NXBQC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03066"
+
+[meta]
 bill_number = 3066
 congress = 16
-canonical = "SBN-03066"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3066", "https://web.senate.gov.ph/lisdata/2279119479!.pdf",]
 title = "AMENDING R.A. 9211, WARNINGS ON CIGARETTE PACKAGES"
 date_filed = "2016-01-11"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9211, OR THE TOBACCO REGULATION A
 scope = "National"
 subjects = [ "Tobacco Regulation Act , Amendments (R.A.No. 9211)", "Cigars/Cigarettes", "Label/Labeling",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-01-11"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-19"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/19/2016"
+date = "2016-01-19"
 
 [[committees]]
 name = "Health and Demography"

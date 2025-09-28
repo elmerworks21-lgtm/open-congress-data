@@ -1,8 +1,11 @@
 id = "01K67YJHMDQFPFEGEA86XWXH79"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00695"
+
+[meta]
 bill_number = 695
 congress = 17
-canonical = "SBN-00695"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-695", "https://web.senate.gov.ph/lisdata/2421520822!.pdf",]
 title = "AMENDMENTS TO THE PUBLIC SERVICE ACT"
 date_filed = "2016-07-20"
@@ -10,41 +13,42 @@ long_title = "AN ACT AMENDING SECTION 13(B) OF COMMONWEALTH ACT NO. 146, AS AMEN
 scope = "National"
 subjects = [ "Public Service Act (Commonwealth Act No. 146)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator PAOLO BENIGNO 'BAM' AQUINO IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-07"
 action = "Letter from Senator JOEL VILLANUEVA dated October 25, 2016, requesting that he be made coauthor of SBN-695, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-22"
 action = "[ SECOND REGULAR SESSION ]"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-22"
 action = "Motion of Senator Sotto III that SBNos. 695, 1261, 1291, 1441 and 1594 be referred Secondarily to the Committee on ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC SERVICES, ECONOMIC AFFAIRS and FINANCE per Committee Report No. 301, recommending that it be substituted by SBN-1754;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-20"
 action = "SUBSTITUTED BY SBN-1754 UNDER COMMITTEE REPORT NO. 301;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/20/2018"
+date = "2018-03-20"
 
 [[committees]]
 name = "Public Services"

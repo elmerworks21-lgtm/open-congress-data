@@ -1,24 +1,28 @@
 id = "01K67YKR6Q42A72WZ9XDBHXXPH"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05221"
+
+[meta]
 bill_number = 5221
 congress = 13
-canonical = "HBN-05221"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5221", "https://web.senate.gov.ph/lisdata/49734091!.pdf",]
 title = "ALLIG NATIONAL AGRICULTURAL AND TRADE HIGH SCHOOL (APAYAO)"
 long_title = "AN ACT ESTABLISHING A NATIONAL AGRICULTURAL AND TRADE HIGH SCHOOL IN BARANGAY ALLIG, MUNICIPALITY OF FLORA, PROVINCE OF APAYAO TO BE KNOWN AS THE ALLIG NATIONAL AGRICULTURAL AND TRADE HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Apayao)", "Allig National Agricultural and Trade High School (Apayao)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-04-20"
 action = "Filed in the Senate requesting for concurrence by Representatives ELIAS C. BULUT JR., EDMUNDO O. REYES JR., JOSE CARLOS V. LACSON and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2006"
+date = "2006-05-16"
 
 [[committees]]
 name = "Education, Arts and Culture"

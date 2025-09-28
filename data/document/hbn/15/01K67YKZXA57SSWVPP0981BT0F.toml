@@ -1,40 +1,44 @@
 id = "01K67YKZXA57SSWVPP0981BT0F"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04807"
+
+[meta]
 bill_number = 4807
 congress = 15
-canonical = "HBN-04807"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-4807", "https://web.senate.gov.ph/lisdata/1192110132!.pdf",]
 title = "ANTI-RACIAL, ETHNIC AND RELIGIOUS DISCRIMINATION ACT OF 2011"
 long_title = "AN ACT PROHIBITING RACIAL, ETHNIC AND RELIGIOUS DISCRIMINATION"
 scope = "National"
 subjects = [ "Anti-Racial", "Religious Discrimination",]
-[[legislative_history]]
+
+[[history]]
 date = "2011-08-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-17"
 action = "Read on First Reading and Referred to the Committee(s) on CULTURAL COMMUNITIES and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-28"
 action = "House of Representatives requested the Senate for a conference on the disagreeing provisions of SBN-2814 and HBN-4807, designating Representatives Brawner Baguilat Jr., Yap, Ilagan and Socrates on the part of the Majority and Representative Padilla on the part of the Minority, as its conferees to the Bicameral Conference Committee on November 23, 2011; (See: O.B. dated November 29, 2011);"
 
-[[legislative_history]]
+[[history]]
 date = "2011-11-28"
 action = "Senate acceded to the request of the House of Representatives for a conference on the disagreeing provisions of SBN-2814 and HBN-4807, and designated Senators Legarda, Pia S. Cayetano, Honasan and Pimentel III as its conferees to the Bicameral Conference Committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-12-07"
 action = "Senate designated Senator Sotto III as an additional member of the Bicameral Conference Committee on the disagreeing provisions of SBN-2814 and HBN-4807;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-12-12"
 action = "House of Representatives elected Representatives Angara and Bag-ao as additional conferees to the Bicameral Conference Committee on the disagreeing provisions of SBN-2814 and HBN-4807 on December 5, 2011;"
 
 [[status]]
 status = "Pending Conference Committee"
-date = "11/28/2011"
+date = "2011-11-28"
 
 [[committees]]
 name = "Cultural Communities"

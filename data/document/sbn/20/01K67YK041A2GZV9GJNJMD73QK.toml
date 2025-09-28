@@ -1,8 +1,11 @@
 id = "01K67YK041A2GZV9GJNJMD73QK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00539"
+
+[meta]
 bill_number = 539
 congress = 20
-canonical = "SBN-00539"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-539", "https://web.senate.gov.ph/lisdata/4709443094!.pdf",]
 title = "ANTI-MARITAL INFIDELITY ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING AND PENALIZING MARITAL INFIDELITY, AMENDING FOR TH
 scope = "National"
 subjects = [ "Concubinage", "Marital Infidelity",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Justice and Human Rights"

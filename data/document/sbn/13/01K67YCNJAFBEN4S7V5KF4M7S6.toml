@@ -1,8 +1,11 @@
 id = "01K67YCNJAFBEN4S7V5KF4M7S6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00359"
+
+[meta]
 bill_number = 359
 congress = 13
-canonical = "SBN-00359"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-359", "https://web.senate.gov.ph/lisdata/1516811!.pdf",]
 title = "INCREASING THE AMOUNT OF DAMAGES FOR DEATH CAUSED BY A CRIME"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE AMOUNT OF DAMAGES FOR DEATH CAUSED BY A CRIM
 scope = "National"
 subjects = [ "Civil Code of the Phil. (Art.2206/RA 386", "Damages for Death/Crime Related/Increase",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSME¥A;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Justice and Human Rights"

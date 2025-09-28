@@ -1,24 +1,28 @@
 id = "01K67YKQXR72NDA9QS2DCQXR5W"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04296"
+
+[meta]
 bill_number = 4296
 congress = 13
-canonical = "HBN-04296"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4296", "https://web.senate.gov.ph/lisdata/36923141!.pdf",]
 title = "TUBA CENTRAL NATIONAL HIGH SCHOOL (BENGUET)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY POBLACION, MUNICIPALITY OF TUBA, PROVINCE OF BENGUET TO BE KNOWN AS THE TUBA CENTRAL NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Benguet)", "Tuba Central National High School (Benguet)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-03"
 action = "Filed in the Senate requesting for concurrence by Representatives SAMUEL M. DANGWA, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2005"
+date = "2005-08-10"
 
 [[committees]]
 name = "Education, Arts and Culture"

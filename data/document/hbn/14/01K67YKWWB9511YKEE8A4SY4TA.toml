@@ -1,24 +1,28 @@
 id = "01K67YKWWB9511YKEE8A4SY4TA"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05987"
+
+[meta]
 bill_number = 5987
 congress = 14
-canonical = "HBN-05987"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5987", "https://web.senate.gov.ph/lisdata/112119919!.pdf",]
 title = "HIMANAG NATIONAL HIGH SCHOOL"
 long_title = "AN ACT CONVERTING THE HIMANAG HIGH SCHOOL IN THE MUNICIPALITY OF LAGONOY, PROVINCE OF CAMARINES SUR INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS HIMANAG NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-12"
 action = "Filed in the Senate requesting for concurrence by Representatives ARNULFO P. FUENTEBELLA, DEL R. DE GUZMAN, EDCEL C. LAGMAN and JUNIE E. CUA, as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2009"
+date = "2009-05-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

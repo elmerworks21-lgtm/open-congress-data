@@ -1,8 +1,11 @@
 id = "01K67YJJNKF6E90KARQWM21EEK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02019"
+
+[meta]
 bill_number = 2019
 congress = 17
-canonical = "SBN-02019"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2019", "https://web.senate.gov.ph/lisdata/2866425117!.pdf",]
 title = "AMENDING SECTION 117 OF P.D. 1529 (PROPERTY REGISTRATION DECREE)"
 date_filed = "2018-09-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING THE PROCEDURE ON CONSULTAS AMENDING FOR THE PURPOS
 scope = "National"
 subjects = [ "Property Registration", "Presidential Decree (P.D.No. 1529)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2018-09-19"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-24"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/24/2018"
+date = "2018-09-24"
 
 [[committees]]
 name = "Justice and Human Rights"

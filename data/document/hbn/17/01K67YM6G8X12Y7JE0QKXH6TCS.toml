@@ -1,24 +1,28 @@
 id = "01K67YM6G8X12Y7JE0QKXH6TCS"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08186"
+
+[meta]
 bill_number = 8186
 congress = 17
-canonical = "HBN-08186"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8186", "https://web.senate.gov.ph/lisdata/2891225437!.pdf",]
 title = "REQUIREMENT FOR REGISTRATION OF UNIONS/FEDERATIONS"
 long_title = "AN ACT REDUCING THE MINIMUM MEMBERSHIP REQUIREMENT FOR REGISTRATION OF UNIONS OR FEDERATIONS, AND STREAMLINING THE PROCESS OF REGISTRATION, AMENDING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Unionism", "Labor Code of the Philippines (P.D.No. 442)",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-13"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-14"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/14/2018"
+date = "2018-11-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

@@ -1,8 +1,11 @@
 id = "01K67YK09N3J8220ZSHBQRSKD3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00839"
+
+[meta]
 bill_number = 839
 congress = 20
-canonical = "SBN-00839"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-839", "https://web.senate.gov.ph/lisdata/4740543408!.pdf",]
 title = "NATIONAL ARCHIVES AND RECORDS MANAGEMENT AUTHORITY (NARMA) ACT"
 date_filed = "2025-08-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT REORGANIZING AND RENAMING THE NATIONAL ARCHIVES OF THE PHIL
 scope = "National"
 subjects = [ "National Archives and Records Management Authority (Narma)", "National Archives of the Philippines (NAP)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-04"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-27"
 action = "Read on First Reading and Referred to the Committees on CULTURE AND THE ARTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2025"
+date = "2025-08-27"
 
 [[committees]]
 name = "Culture and the Arts"

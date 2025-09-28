@@ -1,8 +1,11 @@
 id = "01K67YJVPDW945FZ4Q6Z14AP09"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01190"
+
+[meta]
 bill_number = 1190
 congress = 19
-canonical = "SBN-01190"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1190", "https://web.senate.gov.ph/lisdata/3924735682!.pdf",]
 title = "EXPANDING THE PURPOSES AND APPLICATION OF THE SPECIAL EDUCATION FUND"
 date_filed = "2022-08-16"
@@ -10,25 +13,26 @@ long_title = "AN ACT EXPANDING THE PURPOSES AND APPLICATION OF THE SPECIAL EDUCA
 scope = "National"
 subjects = [ "Special Education Fund (SEF)", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2022-08-16"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-09-07"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT and BASIC EDUCATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-03-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2022"
+date = "2022-09-07"
 
 [[committees]]
 name = "Local Government"

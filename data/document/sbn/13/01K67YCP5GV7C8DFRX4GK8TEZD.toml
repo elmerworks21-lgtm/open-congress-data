@@ -1,8 +1,11 @@
 id = "01K67YCP5GV7C8DFRX4GK8TEZD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01409"
+
+[meta]
 bill_number = 1409
 congress = 13
-canonical = "SBN-01409"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1409", "https://web.senate.gov.ph/lisdata/26241988!.pdf",]
 title = "PRESCRIPTIVE PERIOD FOR RECTIFICATION OF SIMULATED BIRTHS"
 date_filed = "2004-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXTENDING THE PRESCRIPTIVE PERIOD FOR RECTIFICATION OF SIMU
 scope = "National"
 subjects = [ "Domestic Adoption Act (R.A.No. 8552)", "Simulated Births Rectification",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-07"
 action = "Introduced by Senator PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-14"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2004"
+date = "2004-09-14"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

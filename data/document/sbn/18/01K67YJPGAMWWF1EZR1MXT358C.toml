@@ -1,8 +1,11 @@
 id = "01K67YJPGAMWWF1EZR1MXT358C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00179"
+
+[meta]
 bill_number = 179
 congress = 18
-canonical = "SBN-00179"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-179", "https://web.senate.gov.ph/lisdata/3045627297!.pdf",]
 title = "HUMAN RIGHTS DEFENDERS PROTECTION ACT"
 date_filed = "2019-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO PROMOTE AND PROTECT THE RIGHTS OF HUMAN RIGHTS DEFENDERS
 scope = "National"
 subjects = [ "Human Rights", "Human Rights Violations",]
 authors_raw = "De Lima, Leila M., Hontiveros, Risa"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-25"
 action = "Letter from Senator RISA HONTIVEROS conveying her intention to be made co-author of SBN-179, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "Justice and Human Rights"

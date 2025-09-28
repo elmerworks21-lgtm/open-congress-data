@@ -1,8 +1,11 @@
 id = "01K67YCPVCK10N4YSSC2F6216P"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02527"
+
+[meta]
 bill_number = 2527
 congress = 13
-canonical = "SBN-02527"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2527", "https://web.senate.gov.ph/lisdata/64505331!.pdf",]
 title = "MALAMPAYA SOUND PROTECTED LANDSCAPE AND SEASCAPE ACT OF 2006"
 date_filed = "2006-11-24"
@@ -10,37 +13,38 @@ long_title = "AN ACT TO ESTABLISH THE MALAMPAYA SOUND SITUATED IN THE MUNICIPALI
 scope = "Local"
 subjects = [ "Buffer Zones (Malampaya Sound Protected Landscape", "Seascape)",]
 authors_raw = "Cayetano, Companera Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2006-11-24"
 action = "Prepared and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE with Senator COMPANERA PIA S. CAYETANO as author per Committee Report No. 182, recommending its approval in substitution of SBN-2044;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Sponsors: Senator(s) COMPANERA PIA S. CAYETANO, and FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Assigned for Consideration by Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Sponsorship speech of Senator(s) COMPANERA PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-24"
 action = "Remarks of Senator(s) JOKER P. ARROYO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "11/24/2006"
+date = "2006-11-24"
 
 [[committees]]
 name = "Environment and Natural Resources"

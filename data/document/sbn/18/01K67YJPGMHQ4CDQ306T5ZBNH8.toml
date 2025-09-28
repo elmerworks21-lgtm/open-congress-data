@@ -1,8 +1,11 @@
 id = "01K67YJPGMHQ4CDQ306T5ZBNH8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00193"
+
+[meta]
 bill_number = 193
 congress = 18
-canonical = "SBN-00193"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-193", "https://web.senate.gov.ph/lisdata/3037627176!.pdf",]
 title = "PHILIPPINE BOXING AND COMBAT SPORTS COMMISSION ACT OF 2019"
 date_filed = "2019-07-02"
@@ -10,41 +13,42 @@ long_title = "AN ACT CREATING THE PHILIPPINE BOXING COMMISSION AND COMBAT SPORTS
 scope = "National"
 subjects = [ "Sports Development Program", "Boxer Welfare", "Philippine Boxing Commission",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on SPORTS; HEALTH AND DEMOGRAPHY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-03-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-02"
 action = "Returned and submitted jointly by the Committees on SPORTS, HEALTH AND DEMOGRAPHY and FINANCE per Committee Report No. 190, recommending that it be substituted by SBN-2077;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-02"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-02"
 action = "SUBSTITUTED BY SBN-2077 UNDER COMMITTEE REPORT NO. 190."
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-20"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-01-12"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/2/2021"
+date = "2021-03-02"
 
 [[committees]]
 name = "Sports"

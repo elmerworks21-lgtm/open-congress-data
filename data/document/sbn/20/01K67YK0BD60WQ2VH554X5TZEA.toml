@@ -1,8 +1,11 @@
 id = "01K67YK0BD60WQ2VH554X5TZEA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00934"
+
+[meta]
 bill_number = 934
 congress = 20
-canonical = "SBN-00934"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-934", "https://web.senate.gov.ph/lisdata/4755443560!.pdf",]
 title = "RIGHT OF GOVERNMENT TO EXPROPRIATE LANDS (AMENDING R.A. NO. 7279)"
 date_filed = "2025-08-05"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE RIGHT OF GOVERNMENT TO EXPROPRIATE LANDS 
 scope = "National"
 subjects = [ "Urban Development and Housing Act (R.A.No. 7279)", "Housing (Socialized Housing)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-05"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-01"
 action = "Read on First Reading and Referred to the Committee on URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2025"
+date = "2025-09-01"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

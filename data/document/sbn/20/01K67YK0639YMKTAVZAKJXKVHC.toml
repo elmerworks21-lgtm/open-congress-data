@@ -1,8 +1,11 @@
 id = "01K67YK0639YMKTAVZAKJXKVHC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00650"
+
+[meta]
 bill_number = 650
 congress = 20
-canonical = "SBN-00650"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-650", "https://web.senate.gov.ph/lisdata/4714843148!.pdf",]
 title = "ANTI-BULLYING IN THE WORKPLACE ACT"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING POLICIES TO PREVENT AND ADDRESS ACTS OF BULLYIN
 scope = "National"
 subjects = [ "Anti-Bullying",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-19"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2025"
+date = "2025-08-19"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

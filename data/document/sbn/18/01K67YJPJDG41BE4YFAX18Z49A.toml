@@ -1,8 +1,11 @@
 id = "01K67YJPJDG41BE4YFAX18Z49A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00271"
+
+[meta]
 bill_number = 271
 congress = 18
-canonical = "SBN-00271"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-271", "https://web.senate.gov.ph/lisdata/3055527415!.pdf",]
 title = "EXPEDITING THE TITLING OF LANDS AWARDED UNDER THE COMPREHENSIVE AGRARIAN REFORM PROGRAM"
 date_filed = "2019-07-08"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXPEDITING THE TITLING OF LANDS AWARDED UNDER THE COMPREHEN
 scope = "National"
 subjects = [ "Land Title/Torrens Title", "Comprehensive Agrarian Reform Law (Carl; R.A.No. 6657)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-08"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee on AGRARIAN REFORM;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-09"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on Agriculture and Food, and the Committee on Agrarian Reform on September 3, 2019, SBN-271 transferred from the Committee on AGRARIAN REFORM to the Committee on AGRICULTURE, FOOD AND AGRARIAN REFORM)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2019"
+date = "2019-09-09"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

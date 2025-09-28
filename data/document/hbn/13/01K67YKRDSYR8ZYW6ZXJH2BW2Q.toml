@@ -1,24 +1,28 @@
 id = "01K67YKRDSYR8ZYW6ZXJH2BW2Q"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05996"
+
+[meta]
 bill_number = 5996
 congress = 13
-canonical = "HBN-05996"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5996", "https://web.senate.gov.ph/lisdata/67765562!.pdf",]
 title = "ORMOC CITY STATE COLLEGE"
 long_title = "AN ACT CONVERTING THE ORMOC CITY SCHOOL OF ARTS AND TRADES IN THE CITY OF ORMOC, PROVINCE OF LEYTE INTO A STATE COLLEGE TO BE KNOWN AS THE ORMOC CITY STATE COLLEGE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "State Colleges/Universities (SCUS)", "Ormoc City State College",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives EUFROCINO M. CODILLA SR., CYNTHIA A. VILLAR, HARLIN C. ABAYON, JOEY SARTE SALCEDA and HERMINIO C. TEVES as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

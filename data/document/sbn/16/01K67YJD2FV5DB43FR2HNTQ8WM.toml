@@ -1,8 +1,11 @@
 id = "01K67YJD2FV5DB43FR2HNTQ8WM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01220"
+
+[meta]
 bill_number = 1220
 congress = 16
-canonical = "SBN-01220"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1220", "https://web.senate.gov.ph/lisdata/1728714520!.pdf",]
 title = "DIRECT REMITTANCE OF THE SHARE OF LOCAL GOVERNMENT UNITS"
 date_filed = "2013-08-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE DIRECT REMITTANCE TO THE HOST LOCAL GOVER
 scope = "National"
 subjects = [ "Local Government Units (LGUS)", "Local Government Code (R.A.No. 7160)", "National Wealth",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2013-08-06"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-28"
 action = "Read on First Reading and Referred to the Committee(s) on LOCAL GOVERNMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/28/2013"
+date = "2013-08-28"
 
 [[committees]]
 name = "Local Government"

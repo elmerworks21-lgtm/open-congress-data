@@ -1,24 +1,28 @@
 id = "01K67YMCXQMA0SHYVV0ZBB3E6C"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05167"
+
+[meta]
 bill_number = 5167
 congress = 19
-canonical = "HBN-05167"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-5167", "https://web.senate.gov.ph/lisdata/3979736109!.pdf",]
 title = "TUGONAN WATERFALLS, AN ECOTOURISM SITE (SAN LORENZO, AGUSAN DEL SUR)"
 long_title = "AN ACT DECLARING THE TUGONAN WATERFALLS LOCATED IN BARANGAY SAN LORENZO, MUNICIPALITY OF PROSPERIDAD, PROVINCE OF AGUSAN DEL SUR, AN ECOTOURISM SITE"
 scope = "Local"
 subjects = [ "Ecotourism Sites",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-08"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2022"
+date = "2022-11-22"
 
 [[committees]]
 name = "Tourism"

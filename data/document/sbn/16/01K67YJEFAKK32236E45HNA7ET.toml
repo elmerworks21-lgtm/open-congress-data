@@ -1,8 +1,11 @@
 id = "01K67YJEFAKK32236E45HNA7ET"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03019"
+
+[meta]
 bill_number = 3019
 congress = 16
-canonical = "SBN-03019"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3019", "https://web.senate.gov.ph/lisdata/2256419263!.pdf",]
 title = "AMENDING THE ANIMAL WELFARE ACT (R.A.NO. 8485)"
 date_filed = "2015-11-26"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8485, ALSO KNOWN AS THE ANIMAL WE
 scope = "National"
 subjects = [ "Animal Welfare",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-11-26"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-12-01"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/1/2015"
+date = "2015-12-01"
 
 [[committees]]
 name = "Agriculture and Food"

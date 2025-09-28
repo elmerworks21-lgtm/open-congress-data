@@ -1,8 +1,11 @@
 id = "01K67YJWDQ6TKD27HKXXCZ1466"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02181"
+
+[meta]
 bill_number = 2181
 congress = 19
-canonical = "SBN-02181"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2181", "https://web.senate.gov.ph/lisdata/4163837930!.pdf",]
 title = "COMMUNITY-DRIVEN DEVELOPMENT(CCD) APPROACH INSTITUTIONALIZATION ACT"
 date_filed = "2023-05-11"
@@ -10,25 +13,26 @@ long_title = "AN ACT INSTITUTIONALIZING THE COMMUNITY-DRIVEN DEVELOPMENT APPROAC
 scope = "National"
 subjects = [ "Community-Driven Development (CDD) Institutionalization",]
 authors_raw = "Angara, Sonny, Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-11"
 action = "Introduced by Senator SONNY ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-29"
 action = "Letter from Senator WIN GATCHALIAN dated April 15, 2024, expressing his intention to become a co-author of SBN-2181, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2023"
+date = "2023-05-16"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

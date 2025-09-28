@@ -1,24 +1,28 @@
 id = "01K67YM6PJE5B57ZDQ7FJXQTJ8"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-08873"
+
+[meta]
 bill_number = 8873
 congress = 17
-canonical = "HBN-08873"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-8873", "https://web.senate.gov.ph/lisdata/2959826294!.pdf",]
 title = "FOOD WASTE REDUCTION ACT"
 long_title = "AN ACT REDUCING FOOD WASTE THROUGH FOOD DONATIONS AND FOOD WASTE RECYCLING"
 scope = "National"
 subjects = [ "Food Waste", "Recycling",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-06"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/6/2019"
+date = "2019-02-06"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJCDKK1VFTNG733N03VHR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00207"
+
+[meta]
 bill_number = 207
 congress = 16
-canonical = "SBN-00207"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-207", "https://web.senate.gov.ph/lisdata/1603813274!.pdf",]
 title = "AGUS-PULANGUI PRIVATIZATION EXEMPTION ACT"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AGUS-PULANGUI PRIVATIZATION EXEMPTION ACT OF 2013"
 scope = "National"
 subjects = [ "Electric Power Industry Reform Act /Epira (R.A.No. 9136)", "National Power Corporation (Napocor)",]
 authors_raw = "Honasan II, Gregorio B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator GREGORIO B. HONASAN II;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on ENERGY; and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2013"
+date = "2013-07-30"
 
 [[committees]]
 name = "Energy"

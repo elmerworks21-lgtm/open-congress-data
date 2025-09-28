@@ -1,8 +1,11 @@
 id = "01K67YJ8S6AZ4EZEKM2T0YTTXS"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02449"
+
+[meta]
 bill_number = 2449
 congress = 15
-canonical = "SBN-02449"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2449", "https://web.senate.gov.ph/lisdata/101408598!.pdf",]
 title = "WEAPONS OF MASS DESTRUCTION NON -PROLIFERATION AND STRATEGIC ITEMS/GOODS REGULATION ACT"
 date_filed = "2010-08-23"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO PREVENT THE PROLIFERATION OF WEAPONS OF MASS DESTRUCTION
 scope = "National"
 subjects = [ "Terrorism",]
 authors_raw = "Villar, Manny B."
-[[legislative_history]]
+
+[[history]]
 date = "2010-08-23"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-22"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; NATIONAL DEFENSE AND SECURITY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-04-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/22/2010"
+date = "2010-09-22"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

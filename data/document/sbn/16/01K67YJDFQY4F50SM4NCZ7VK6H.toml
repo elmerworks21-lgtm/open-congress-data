@@ -1,8 +1,11 @@
 id = "01K67YJDFQY4F50SM4NCZ7VK6H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01866"
+
+[meta]
 bill_number = 1866
 congress = 16
-canonical = "SBN-01866"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1866", "https://web.senate.gov.ph/lisdata/1808015315!.pdf",]
 title = "STRATEGIC GOODS AND SERVICES MANAGEMENT ACT OF 2013"
 date_filed = "2013-10-17"
@@ -10,37 +13,38 @@ long_title = "AN ACT REGULATING THE PROLIFERATION OF STRATEGIC AND DUAL-USE GOOD
 scope = "National"
 subjects = [ "Nuclear Weapons",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-17"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-23"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-17"
 action = "Motion of Senator Cayetano (A.) re change of committee referral, Committee on NATIONAL DEFENSE AND SECURITY as the primary committee and Committee on PUBLIC ORDER AND DANGEROUS DRUGS as the secondary committee;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-12"
 action = "Letter of Senator CYNTHIA A. VILLAR dated May 11, 2015, requesting that she be made coauthor of this Bill, received by the LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-12"
 action = "Returned and submitted jointly by the Committee(s) on NATIONAL DEFENSE AND SECURITY, PUBLIC ORDER AND DANGEROUS DRUGS and FINANCE per Committee Report No. 140, recommending that it be substituted by SBN-2762;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-12"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-05-12"
 action = "CONSIDERED IN SBN-2762 UNDER C.R.NO. 140 WHICH BECAME R.A.NO. 10697 ON NOVEMBER 13, 2015."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/12/2015"
+date = "2015-05-12"
 
 [[committees]]
 name = "National Defense and Security"

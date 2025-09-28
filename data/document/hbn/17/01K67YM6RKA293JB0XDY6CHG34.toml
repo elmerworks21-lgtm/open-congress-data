@@ -1,24 +1,28 @@
 id = "01K67YM6RKA293JB0XDY6CHG34"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-09025"
+
+[meta]
 bill_number = 9025
 congress = 17
-canonical = "HBN-09025"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-9025", "https://web.senate.gov.ph/lisdata/2993726650!.pdf",]
 title = "OFW SOVEREIGN FUND ACT"
 long_title = "AN ACT CREATING THE OVERSEAS FILIPINO WORKERS (OFW) SOVEREIGN FUND"
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)",]
-[[legislative_history]]
+
+[[history]]
 date = "2019-05-21"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-05-22"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/22/2019"
+date = "2019-05-22"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

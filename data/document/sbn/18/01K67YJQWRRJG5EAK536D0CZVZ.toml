@@ -1,8 +1,11 @@
 id = "01K67YJQWRRJG5EAK536D0CZVZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02107"
+
+[meta]
 bill_number = 2107
 congress = 18
-canonical = "SBN-02107"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2107", "https://web.senate.gov.ph/lisdata/3474031549!.pdf",]
 title = "NARVACAN- NAGBUKEL-PILAR-VILLA VICIOSA ROAD IN THE PROVINCES OF ILOCOS SUR AND ABRA"
 date_filed = "2021-03-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CONVERTION OF THE NARVACAN- NAGBUKEL-PILA
 scope = "Local"
 subjects = [ "Roads, Conversion",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-17"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-24"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/24/2021"
+date = "2021-03-24"
 
 [[committees]]
 name = "Rules"

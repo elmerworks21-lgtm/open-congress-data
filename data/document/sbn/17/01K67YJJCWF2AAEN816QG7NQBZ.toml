@@ -1,8 +1,11 @@
 id = "01K67YJJCWF2AAEN816QG7NQBZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01663"
+
+[meta]
 bill_number = 1663
 congress = 17
-canonical = "SBN-01663"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1663", "https://web.senate.gov.ph/lisdata/2716723390!.pdf",]
 title = "MEDICAL SCHOLARSHIP AND RETURN SERVICE PROGRAM ACT"
 date_filed = "2018-01-23"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A MEDICAL SCHOLARSHIP AND RETURN SERVICE PROGR
 scope = "National"
 subjects = [ "Medical Scholarship", "Scholarship Grants", "Students",]
 authors_raw = "Ejercito, Joseph Victor G., Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2018-01-23"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-01-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; EDUCATION, ARTS AND CULTURE; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-03-07"
 action = "Letter from Senator JOEL VILLANUEVA dated March 6, 2018, conveying his intention to be made coauthor of SBN-1663, received by the LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/23/2018"
+date = "2018-01-23"
 
 [[committees]]
 name = "Health and Demography"

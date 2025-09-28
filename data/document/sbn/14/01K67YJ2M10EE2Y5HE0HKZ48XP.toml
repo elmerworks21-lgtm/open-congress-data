@@ -1,8 +1,11 @@
 id = "01K67YJ2M10EE2Y5HE0HKZ48XP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02491"
+
+[meta]
 bill_number = 2491
 congress = 14
-canonical = "SBN-02491"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2491", "https://web.senate.gov.ph/lisdata/79667198!.pdf",]
 title = "COSMETIC SURGERY"
 date_filed = "2008-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENSURE THE SAFETY OF COSMETIC SURGERY PATIENTS"
 scope = "National"
 subjects = [ "Cosmetic Surgery",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Health and Demography"

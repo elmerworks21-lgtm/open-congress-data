@@ -1,28 +1,32 @@
 id = "01K67YMCVE1HSKHZ63Z096YDV3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-03093"
+
+[meta]
 bill_number = 3093
 congress = 19
-canonical = "HBN-03093"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-3093", "https://web.senate.gov.ph/lisdata/4158337869!.pdf",]
 title = "MULTI-SPECIES MARINE HATCHERY (SIBUCO, ZAMBOANGA DEL NORTE)"
 long_title = "AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF SIBUCO, PROVINCE OF ZAMBOANGA DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Multi-Species Marine Hatchery",]
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-10"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-16"
 action = "Read on First Reading and Referred to the Committees on AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/16/2023"
+date = "2023-05-16"
 
 [[committees]]
 name = "Agriculture, Food and Agrarian Reform"

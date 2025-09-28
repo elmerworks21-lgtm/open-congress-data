@@ -1,8 +1,11 @@
 id = "01K67YJHAA4X1JJB2MCBFT9WFX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00251"
+
+[meta]
 bill_number = 251
 congress = 17
-canonical = "SBN-00251"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-251", "https://web.senate.gov.ph/lisdata/2369020332!.pdf",]
 title = "LOW CARBON ECONOMY ACT"
 date_filed = "2016-07-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO PROMOTE A LOW CARBON ECONOMY ESTABLISHING FOR THIS PURPO
 scope = "National"
 subjects = [ "Greenhouse Gas Emission", "Climate Change",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on CLIMATE CHANGE; TRADE, COMMERCE AND ENTREPRENEURSHIP; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-02-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Climate Change"

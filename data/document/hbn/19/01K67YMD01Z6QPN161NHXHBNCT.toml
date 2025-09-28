@@ -1,24 +1,28 @@
 id = "01K67YMD01Z6QPN161NHXHBNCT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05936"
+
+[meta]
 bill_number = 5936
 congress = 19
-canonical = "HBN-05936"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-5936", "https://web.senate.gov.ph/lisdata/3996136383!.pdf",]
 title = "NARURON FALLS ECOTOURISM SITE ACT"
 long_title = "AN ACT DECLARING NARURON FALLS LOCATED IN BARANGAY OYAO, MUNICIPALITY OF DUPAX DEL NORTE, PROVINCE OF NUEVA VIZCAYA, AN ECOTOURISM SITE"
 scope = "Local"
 subjects = [ "Ecotourism Sites",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-29"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/29/2022"
+date = "2022-11-29"
 
 [[committees]]
 name = "Tourism"

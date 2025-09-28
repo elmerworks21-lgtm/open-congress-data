@@ -1,8 +1,11 @@
 id = "01K67YK052SAA5V8DRK3EWRJ1G"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00595"
+
+[meta]
 bill_number = 595
 congress = 20
-canonical = "SBN-00595"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-595", "https://web.senate.gov.ph/lisdata/4718944021!.pdf",]
 title = "INTERNET SAFETY AND PROTECTION OF MINORS ACT"
 date_filed = "2025-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING SAFEGUARDS FOR THE USE OF SOCIAL MEDIA BY MINO
 scope = "National"
 subjects = [ "Internet Safety and Protection of Minors", "Child Online Protection", "Social Media",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-15"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-18"
 action = "Read on First Reading and Referred to the Committees on SCIENCE AND TECHNOLOGY and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/18/2025"
+date = "2025-08-18"
 
 [[committees]]
 name = "Science and Technology"

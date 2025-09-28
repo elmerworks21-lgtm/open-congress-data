@@ -1,8 +1,11 @@
 id = "01K67YJV7JD1BVKY0YX1V4XP5C"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00528"
+
+[meta]
 bill_number = 528
 congress = 19
-canonical = "SBN-00528"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-528", "https://web.senate.gov.ph/lisdata/3828934727!.pdf",]
 title = "FOREST LAND CADASTRAL ACT"
 date_filed = "2022-07-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH THE FOREST CADASTRE, PROVIDING FOR ITS PROCEDU
 scope = "National"
 subjects = [ "Forest Land", "Forest Limits",]
 authors_raw = "Villar, Cynthia A."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-13"
 action = "Introduced by Senator CYNTHIA A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-16"
 action = "Read on First Reading and Referred to the Committees on ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/16/2022"
+date = "2022-08-16"
 
 [[committees]]
 name = "Environment, Natural Resources and Climate Change"

@@ -1,8 +1,11 @@
 id = "01K67YJ2DNQSQYASP3P50Q18N3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02222"
+
+[meta]
 bill_number = 2222
 congress = 14
-canonical = "SBN-02222"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2222", "https://web.senate.gov.ph/lisdata/72046440!.pdf",]
 title = "PUBLIC OFFICERS AND EMPLOYEES SMOKING BAN ACT OF 2008"
 date_filed = "2008-04-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT BANNING PUBLIC OFFICERS AND EMPLOYEES FROM SMOKING WITHIN T
 scope = "National"
 subjects = [ "Smoking Ban",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-04-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-04-30"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/30/2008"
+date = "2008-04-30"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

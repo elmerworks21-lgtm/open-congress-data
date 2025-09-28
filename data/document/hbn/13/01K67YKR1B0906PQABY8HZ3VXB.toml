@@ -1,24 +1,28 @@
 id = "01K67YKR1B0906PQABY8HZ3VXB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04780"
+
+[meta]
 bill_number = 4780
 congress = 13
-canonical = "HBN-04780"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4780", "https://web.senate.gov.ph/lisdata/47463900!.pdf",]
 title = "TABID NATIONAL HIGH SCHOOL (MISAMIS OCCIDENTAL)"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TABID, CITY OF OZAMIZ, PROVINCE OF MISAMIS OCCIDENTAL TO BE KNOWN AS THE TABID NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment (Misamis Occidental)", "Tabid National High School (Misamis Occidental)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-03-01"
 action = "Filed in the Senate requesting for concurrence by Representatives HERMINIA M. RAMIRO, EDMUNDO O. REYES JR. and ROLANDO G. ANDAYA JR., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-07"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/7/2006"
+date = "2006-03-07"
 
 [[committees]]
 name = "Education, Arts and Culture"

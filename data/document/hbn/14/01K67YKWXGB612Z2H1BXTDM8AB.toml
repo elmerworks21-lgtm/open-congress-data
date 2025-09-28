@@ -1,24 +1,28 @@
 id = "01K67YKWXGB612Z2H1BXTDM8AB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06135"
+
+[meta]
 bill_number = 6135
 congress = 14
-canonical = "HBN-06135"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6135", "https://web.senate.gov.ph/lisdata/1144410103!.pdf",]
 title = "NATIONAL ROAD (BOLINAO, PROVINCE OF PANGASINAN)"
 long_title = "AN ACT CONVERTING THE ARNEDO - BALINGASAY - ILOG MALINO - PATAR ROAD IN THE MUNICIPALITY OF BOLINAO, PROVINCE FO PANGASINAN INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-26"
 action = "Filed in the Senate requesting for concurrence by Representative ARTHUR F. CELESTE as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/27/2009"
+date = "2009-05-27"
 
 [[committees]]
 name = "Public Works"

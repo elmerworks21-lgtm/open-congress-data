@@ -1,23 +1,27 @@
 id = "01K67YJDW35HN6JY12H1P98772"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02410"
+
+[meta]
 bill_number = 2410
 congress = 16
-canonical = "SBN-02410"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2410", "https://web.senate.gov.ph/lisdata/1986516989!.pdf",]
 title = "WOMEN'S PREVENTIVE HEALTH AWARENESS CAMPAIGN"
 date_filed = "2014-09-15"
 long_title = "AN ACT TO PROVIDE FOR A NATIONAL PUBLIC OUTREACH AND EDUCATION CAMPAIGN TO RAISE PUBLIC AWARENESS OF WOMEN'S PREVENTIVE HEALTH"
 scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-09-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-09-16"
 action = "WITHDRAWN."
 
 [[status]]
 status = "Withdrawn"
-date = "9/16/2014"
+date = "2014-09-16"
 

@@ -1,8 +1,11 @@
 id = "01K67YK073MXTTJ790E0RA8WN3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00703"
+
+[meta]
 bill_number = 703
 congress = 20
-canonical = "SBN-00703"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-703", "https://web.senate.gov.ph/lisdata/4723443233!.pdf",]
 title = "STATE UNIVERSITIES AND COLLEGES (SUCS) MENTAL HEALTH SERVICE ACT"
 date_filed = "2025-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT STRENGTHENING THE MENTAL HEALTH SERVICES OF STATE UNIVERSIT
 scope = "National"
 subjects = [ "State Universities and Colleges (SUCS)", "Mental Health Services",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-17"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

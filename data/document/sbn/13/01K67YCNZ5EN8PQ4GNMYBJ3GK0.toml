@@ -1,8 +1,11 @@
 id = "01K67YCNZ5EN8PQ4GNMYBJ3GK0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01069"
+
+[meta]
 bill_number = 1069
 congress = 13
-canonical = "SBN-01069"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1069", "https://web.senate.gov.ph/lisdata/22771431!.pdf",]
 title = "DELETING THE REQUIREMENT OF AN OPTICAL MARK READER (RA 8436)"
 date_filed = "2004-06-30"
@@ -10,57 +13,58 @@ long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8436, OTHER
 scope = "National"
 subjects = [ "Automated Election System (RA 8436)", "Elections/Electoral Reforms (Comelec)", "Optical Mark Reader Counting Machine",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-06"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-15"
 action = "Returned and submitted by the Committee on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS per Committee Report No. 58, recommending that it be substituted by SBN-2231;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-20"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-20"
 action = "SUBSTITUTED BY SBN-2231."
 
-[[legislative_history]]
+[[history]]
 date = "2006-05-15"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-03-15"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-07"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-22"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-17"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-10-17"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/20/2006"
+date = "2006-03-20"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

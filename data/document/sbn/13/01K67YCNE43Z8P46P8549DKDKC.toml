@@ -1,8 +1,11 @@
 id = "01K67YCNE43Z8P46P8549DKDKC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00133"
+
+[meta]
 bill_number = 133
 congress = 13
-canonical = "SBN-00133"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-133", "https://web.senate.gov.ph/lisdata/12681031!.pdf",]
 title = "CABINET MEMBERS EMPLOYMENT BY FOREIGN CORPORATIONS BAN"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 7 (b) OF REPUBLIC ACT NO. 6713, OTHERWISE 
 scope = "National"
 subjects = [ "Code of Conduct/Ethical Standards/Ra6713", "Government Officials/Employees", "Cabinet Members(Foreign Corp.Employment)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

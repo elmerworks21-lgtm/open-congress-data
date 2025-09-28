@@ -1,28 +1,32 @@
 id = "01K67YM2VZFQ9ZYKAPHN1RPDXN"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04630"
+
+[meta]
 bill_number = 4630
 congress = 16
-canonical = "HBN-04630"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-4630", "https://web.senate.gov.ph/lisdata/1960716727!.pdf",]
 title = "PHILIPPINE HIGH SCHOOL FOR SPORTS ACT"
 long_title = "AN ACT ESTABLISHING A PHILIPPINE HIGH SCHOOL FOR SPORTS AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Philippine High School for Sports (PHSS)",]
-[[legislative_history]]
+
+[[history]]
 date = "2014-08-07"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-12"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and GAMES, AMUSEMENT AND SPORTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-08-18"
 action = "Manifestation of Senator Cayetano (A.) that HBN-4630 be also referred to the Committee on FINANCE as it is also an appropriation measure;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2014"
+date = "2014-08-12"
 
 [[committees]]
 name = "Education, Arts and Culture"

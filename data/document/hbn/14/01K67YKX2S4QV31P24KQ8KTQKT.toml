@@ -1,48 +1,52 @@
 id = "01K67YKX2S4QV31P24KQ8KTQKT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06882"
+
+[meta]
 bill_number = 6882
 congress = 14
-canonical = "HBN-06882"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6882", "https://web.senate.gov.ph/lisdata/1304911701!.pdf",]
 title = "PHILIPPINE RUBBER RESEARCH AND TRAINING CENTER ACT OF 2009"
 long_title = "AN ACT CREATING THE PHILIPPINE RUBBER RESEARCH AND TRAINING CENTER AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Philippine Rubber Research and Training Center",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-11-17"
 action = "Filed in the Senate requesting for concurrence by Representatives ANN K. HOFER, GILBERTO C. TEODORO JR., NEPTALI M. GONZALES II and DEL R. DE GUZMAN as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-01"
 action = "Read on First Reading and Referred to the Committee(s) on AGRICULTURE AND FOOD; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-02-03"
 action = "House of Representatives adopted SBN-1651 as an amendment to HBN-6882;(See: O.B. dated May 31, 2010);"
 
-[[legislative_history]]
+[[history]]
 date = "2010-03-18"
 action = "Enrolled copies of the consolidated version of SBN-1651 and HBN-6882, sent to the House of Representatives for the signature of the Speaker and the Secretary General;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-04-08"
 action = "Enrolled copies of the consolidated version of SBN-1651 and HBN-6882, received by the Senate which were signed by the Speaker and the Secretary General of the House of Representatives;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-04-14"
 action = "Enrolled copies of the consolidated version of SBN-1651 and HBN-6882, sent to the Office of the President of the Philippines for the signature and approval of Her Excellency President Gloria Macapagal Arroyo;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-13"
 action = "Consolidated with SBN-1651, which was Approved and Signed into Law by the President of the Philippines, Her Excellency President Gloria Macapagal Arroyo, and became;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-05-13"
 action = "REPUBLIC ACT NO. 10089. ====================="
 
 [[status]]
 status = "Consolidated with Approved Bill"
-date = "5/13/2010"
+date = "2010-05-13"
 
 [[committees]]
 name = "Agriculture and Food"

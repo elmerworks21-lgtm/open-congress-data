@@ -1,8 +1,11 @@
 id = "01K67YCP8QQJVSJMKV5JYX7XXZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01594"
+
+[meta]
 bill_number = 1594
 congress = 13
-canonical = "SBN-01594"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1594", "https://web.senate.gov.ph/lisdata/28192186!.pdf",]
 title = "INCREASING PENALTIES - CERTAIN INSTANCES OF QUALIFIED THEFT"
 date_filed = "2004-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING PENALTIES FOR CERTAIN INSTANCES OF QUALIFIED THE
 scope = "National"
 subjects = [ "Crime (Qualified Theft)", "Revised Penal Code (Art 310)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,56 +1,60 @@
 id = "01K67YKR7MD0H0E2JP4BMTHVQW"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05303"
+
+[meta]
 bill_number = 5303
 congress = 13
-canonical = "HBN-05303"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5303", "https://web.senate.gov.ph/lisdata/58104834!.pdf",]
 title = "PHILIPPINE LEMON LAW"
 long_title = "AN ACT STRENGTHENING CONSUMER PROTECTION IN THE PURCHASE OF BRAND NEW MOTOR VEHICLES AND FOR OTHER PURPOSES"
 scope = "National"
 subjects = [ "Lemon Car", "Philippine Lemon Law", "Motor Vehicles (Consumer Protection)",]
-[[legislative_history]]
+
+[[history]]
 date = "2006-08-14"
 action = "Filed in the Senate requesting for concurrence by Representatives MANUEL 'WAY KURAT' E.. ZAMORA, MONICO O. PUENTEVELLA, RODANTE D. MARCOLETA, JUNIE E. CUA, ANTHONY C. MIRANDA, et. al. as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-08-15"
 action = "Read on First Reading and referred to the Committee on TRADE AND COMMERCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-13"
 action = "Returned by the Committee on TRADE AND COMMERCE per Committee Report No. 102, recommending that it be considered in SBN-2464;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-18"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-09-18"
 action = "CONSIDERED IN SBN-2464. ====================="
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-19"
 action = "House of Representatives requested the Senate for a conference on the disagreeing provisions of SBN-2464 and HBN-5303, and has designated Representatives Puentevella, Cua, Zamora, Garin and Magtubo as its conferees to the Bicameral Conference Committee on February 8, 2007;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-04"
 action = "Senate accepted the request of the House of Representatives for a conference on the disagreeing provisions of SBN-2464 and HBN-5303, designating Senators Roxas, Companera Pia S. Cayetano and Lacson as its conferees;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-07"
 action = "Conference Committee Report submitted to the Senate, recommending that SBN-2464 in consolidation with HBN-5303 be approved as reconciled;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-07"
 action = "Sponsorship speech of Senator Drilon on the Conference Committee Report;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-07"
 action = "Conference Committee Report approved by the Senate;"
 
 [[status]]
 status = "Pending Conference Committee"
-date = "2/19/2007"
+date = "2007-02-19"
 
 [[committees]]
 name = "Trade and Commerce"

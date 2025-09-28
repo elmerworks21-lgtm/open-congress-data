@@ -1,8 +1,11 @@
 id = "01K67YJDDV05X98998M3SMKE3R"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01771"
+
+[meta]
 bill_number = 1771
 congress = 16
-canonical = "SBN-01771"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1771", "https://web.senate.gov.ph/lisdata/1793715178!.pdf",]
 title = "AMENDING ARTS. 333 AND 344, PENAL CODE (ELIMINATING GENDER BIAS IN ADULTERY AND CONCUBINAGE)"
 date_filed = "2013-10-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING ARTICLES 333 AND 344, AND REPEALING ARTICLE 334, O
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815)", "Concubinage/Marital Infidelity", "Gender Discrimination",]
 authors_raw = "Defensor Santiago, Miriam, Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-10-02"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-10-21"
 action = "Read on First Reading and Referred to the Committee on WOMEN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-03"
 action = "Letter of Senator LEGARDA dated August 3, 2015, requesting that she be made coauthor of SBN-1771, received by the LBIS."
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/21/2013"
+date = "2013-10-21"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

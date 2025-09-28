@@ -1,64 +1,68 @@
 id = "01K67YKQQ1H01X9VXZ0Q0Z51G1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00643"
+
+[meta]
 bill_number = 643
 congress = 13
-canonical = "HBN-00643"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-643", "https://web.senate.gov.ph/lisdata/32532584!.pdf",]
 title = "GRANTING FILIPINO CITIZENSHIP TO MR. CHARLES WILLIAM MOSSER"
 long_title = "AN ACT GRANTING FILIPINO CITIZENSHIP TO MR. CHARLES WILLIAM MOSSER, WITH ALL THE RIGHTS, PRIVILEGES AND PREROGATIVES APPURTENANT THERETO."
 scope = "National"
 subjects = [ "Filipino Citizenship (Charles Mosser)", "Mosser, Charles William",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-03-02"
 action = "Filed in the Senate requesting for concurrence by Reps. FUENTEVELLA, DATUMANONG and ARROYO (I.), as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-03-02"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-24"
 action = "Conducted committee meetings/hearings;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-27"
 action = "Returned by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 52, recommending that it be considered in SBN-1978;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-27"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-02-27"
 action = "CONSIDERED IN SBN-1978."
 
-[[legislative_history]]
+[[history]]
 date = "2006-10-11"
 action = "House of Representatives approved SBN-1978 as an amendment to HBN-643 (See: O.B. dated November 7, 2006);"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-08"
 action = "Enrolled copy of consolidated version of HBN-643 and SBN-1978, received by the Senate for the signature of Senate President Villar Jr. and Senate Secretary Yabes;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-21"
 action = "Enrolled copy of the consolidated version of HBN-643 and SBN-1978, sent back to the House of Representatives, already signed by Senate Secretary Yabes and Senate President Villar, Jr.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-30"
 action = "Approved and signed into law by the President of the Philippines, Her Excellency President Gloria Macapagal Arroyo, and became (See: O.B. dated December 6, 2006);"
 
-[[legislative_history]]
+[[history]]
 date = "2006-11-30"
 action = "REPUBLIC ACT NO. 9363"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "11/30/2006"
+date = "2006-11-30"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YCNBTWV1X9JTSVK31H2E4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00007"
+
+[meta]
 bill_number = 7
 congress = 13
-canonical = "SBN-00007"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-7", "https://web.senate.gov.ph/lisdata/1249560!.pdf",]
 title = "NATIONAL LAND USE ACT OF THE PHILIPPINES"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES AN ACT IN
 scope = "National"
 subjects = [ "National Land Use Policy", "Land Use Policy Administration (LUPA)", "R.A.No. 8435 (Sec. 9), Repeal",]
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator FLAVIER;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-27"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; URBAN PLANNING, HOUSING AND RESETTLEMENT; AND FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Senator Angara was made a coauthor on motion of Senator Flavier;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/27/2004"
+date = "2004-07-27"
 
 [[committees]]
 name = "Environment and Natural Resources"

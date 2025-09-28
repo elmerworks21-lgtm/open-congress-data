@@ -1,8 +1,11 @@
 id = "01K67YJ0Y4XJVMWA787Y8MZAHN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00294"
+
+[meta]
 bill_number = 294
 congress = 14
-canonical = "SBN-00294"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-294", "https://web.senate.gov.ph/lisdata/43943797!.pdf",]
 title = "SHORE PROTECTION ACT"
 date_filed = "2007-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT REGULATING SHIPPING VESSELS COASTING PHILIPPINE WATERS FOR 
 scope = "National"
 subjects = [ "Shore Protection", "Shipping Vessels",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; and ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2007"
+date = "2007-08-06"
 
 [[committees]]
 name = "Public Services"

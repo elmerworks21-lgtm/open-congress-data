@@ -1,8 +1,11 @@
 id = "01K67YJCXFDBH0SC9D6Y503YAW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00976"
+
+[meta]
 bill_number = 976
 congress = 16
-canonical = "SBN-00976"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-976", "https://web.senate.gov.ph/lisdata/1704114257!.pdf",]
 title = "LABOR CODE (ARTS. 129 AND 217)"
 date_filed = "2013-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEFINING JURISDICTION OVER LABOR CASES BETWEEN THE NATIONAL
 scope = "National"
 subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Department of Labor and Employment (DOLE)", "National Labor Relations Commission (NLRC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-22"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

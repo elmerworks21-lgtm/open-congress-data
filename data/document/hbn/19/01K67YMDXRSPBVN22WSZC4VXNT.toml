@@ -1,18 +1,22 @@
 id = "01K67YMDXRSPBVN22WSZC4VXNT"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11380"
+
+[meta]
 bill_number = 11380
 congress = 19
-canonical = "HBN-11380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11380", "https://web.senate.gov.ph/lisdata/4636642367!.pdf",]
 title = "LTO DISTRICT OFFICE (CABAGAN, ISABELA)"
 long_title = "AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE LOCATED IN THE MUNICIPALITY OF CABAGAN, PROVINCE OF ISABELA, INTO A REGULAR DISTRICT OFFICE TO BE KNOWN AS THE LTO DISTRICT OFFICE OF CABAGAN, ISABELA, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Land Transportation Office (LTO)", "District Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2025-06-09"
 action = "Sent to the Senate requesting for concurrence;"
 
 [[status]]
 status = "Pending First Reading"
-date = "6/9/2025"
+date = "2025-06-09"
 

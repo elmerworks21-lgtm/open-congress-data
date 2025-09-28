@@ -1,8 +1,11 @@
 id = "01K67YJJ7MYBSWBQB9S29PQ2TR"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01478"
+
+[meta]
 bill_number = 1478
 congress = 17
-canonical = "SBN-01478"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1478", "https://web.senate.gov.ph/lisdata/2614122478!.pdf",]
 title = "PHILIPPINE BAMBOO INDUSTRY DEVELOPMENT ACT OF 2017"
 date_filed = "2017-05-30"
@@ -10,37 +13,38 @@ long_title = "AN ACT INSTITUTIONALIZING THE BAMBOO INDUSTRY DEVELOPMENT IN THE P
 scope = "National"
 subjects = [ "Bamboo Industry",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Legarda, Loren B., Villar, Cynthia A., Zubiri, Juan Miguel F., Gordon, Richard J., Pimentel, Aquilino Koko III L., Angara, Juan Edgardo \"Sonny\" M., Villanueva, Joel, Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2017-05-30"
 action = "Prepared and submitted jointly by the Committee(s) on TRADE, COMMERCE AND ENTREPRENEURSHIP, WAYS AND MEANS and FINANCE with Senator(s) PAOLO BENIGNO 'BAM' AQUINO IV, LOREN B. LEGARDA, CYNTHIA A. VILLAR and JUAN MIGUEL F. ZUBIRI as author(s) per Committee Report No. 116, recommending its approval in substitution of SBNos. 652, 665 and 716;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-30"
 action = "Sponsor: Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-31"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-31"
 action = "Sponsorship speech of Senator JUAN MIGUEL F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-31"
 action = "Senators RICHARD J. GORDON, AQUILINO KOKO III L. PIMENTEL, JUAN EDGARDO 'SONNY' M. ANGARA, JOEL VILLANUEVA and SHERWIN T. GATCHALIAN were made co-authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-06"
 action = "Interpellation of Senator FRANKLIN M. DRILON;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "5/31/2017"
+date = "2017-05-31"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

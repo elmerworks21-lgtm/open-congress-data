@@ -1,8 +1,11 @@
 id = "01K67YJ34QTCPWSYRK6G5RQNMM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03243"
+
+[meta]
 bill_number = 3243
 congress = 14
-canonical = "SBN-03243"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3243", "https://web.senate.gov.ph/lisdata/112859944!.pdf",]
 title = "FINAL PROTOCOL OF DECEASED PUBLIC OFFICIAL, NATIONAL ARTIST AND MUSICIAN"
 date_filed = "2009-05-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE FINAL PROTOCOL OF DECEASED PUBLIC OFFICIA
 scope = "National"
 subjects = [ "Deceased Public Officials, National Artists and Musicians",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-13"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2009"
+date = "2009-05-18"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

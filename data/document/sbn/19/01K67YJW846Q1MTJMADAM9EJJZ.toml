@@ -1,8 +1,11 @@
 id = "01K67YJW846Q1MTJMADAM9EJJZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01950"
+
+[meta]
 bill_number = 1950
 congress = 19
-canonical = "SBN-01950"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1950", "https://web.senate.gov.ph/lisdata/4097337353!.pdf",]
 title = "AGUSAN DEL NORTE GENERAL HOSPITAL AND TRAINING CENTER"
 date_filed = "2023-03-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE AGUSAN DEL NORTE PROVINCIAL HOSPITAL IN BUTU
 scope = "Local"
 subjects = [ "Hospitals, Conversion",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2023-03-01"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-06"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/6/2023"
+date = "2023-03-06"
 
 [[committees]]
 name = "Rules"

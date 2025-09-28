@@ -1,8 +1,11 @@
 id = "01K67YJHV2E3Q6GHBHDACFT5AQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01008"
+
+[meta]
 bill_number = 1008
 congress = 17
-canonical = "SBN-01008"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1008", "https://web.senate.gov.ph/lisdata/2458221165!.pdf",]
 title = "WILFUL OR INDISCRIMINATE DISCHARGE OF FIREARMS"
 date_filed = "2016-08-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR STIFFER PENALTIES FOR WILFUL OR INDISCRIMINAT
 scope = "National"
 subjects = [ "Firearms", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Gatchalian, Sherwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2016-08-08"
 action = "Introduced by Senator SHERWIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-17"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/17/2016"
+date = "2016-08-17"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

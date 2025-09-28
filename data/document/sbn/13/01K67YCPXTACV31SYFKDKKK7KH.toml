@@ -1,8 +1,11 @@
 id = "01K67YCPXTACV31SYFKDKKK7KH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02611"
+
+[meta]
 bill_number = 2611
 congress = 13
-canonical = "SBN-02611"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2611", "https://web.senate.gov.ph/lisdata/69315701!.pdf",]
 title = "BABY-FRIENDLY ESTABLISHMENT ACT OF 2007"
 date_filed = "2007-02-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQURING NEW PUBLIC-SERVING AND NEWLY RENOVATED PUBLIC-SERV
 scope = "National"
 subjects = [ "Baby-Friendly Establishment", "Public-Serving Establishment",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2007-02-07"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/8/2007"
+date = "2007-02-08"
 
 [[committees]]
 name = "Health and Demography"

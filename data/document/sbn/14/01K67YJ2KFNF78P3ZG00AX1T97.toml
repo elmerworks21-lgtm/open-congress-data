@@ -1,8 +1,11 @@
 id = "01K67YJ2KFNF78P3ZG00AX1T97"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02464"
+
+[meta]
 bill_number = 2464
 congress = 14
-canonical = "SBN-02464"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2464", "https://web.senate.gov.ph/lisdata/79277160!.pdf",]
 title = "ANTI-OBSCENITY AND PORNOGRAPHY ACT OF 2008"
 date_filed = "2008-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROHIBITING AND PENALIZING THE PRODUCTION, PRINTING, PUBLIC
 scope = "National"
 subjects = [ "Anti-Obscenity", "Pornography/Obscenity", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2008-07-24"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2008"
+date = "2008-08-06"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,8 +1,11 @@
 id = "01K67YJPDXHTTF3F7BD5RHKM9E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00073"
+
+[meta]
 bill_number = 73
 congress = 18
-canonical = "SBN-00073"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-73", "https://web.senate.gov.ph/lisdata/3030327131!.pdf",]
 title = "MIGRANT WORKERS HOSPITAL ACT OF 2019"
 date_filed = "2019-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A SPECIAL HOSPITAL FOR OVERSEAS FILIPINO WORKE
 scope = "National"
 subjects = [ "Migrant Workers Hospital", "Overseas Filipino Workers (OFWS)/ Migrant Workers",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-01"
 action = "Introduced by Senator RAMON A. REVILLA, JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-23"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/23/2019"
+date = "2019-07-23"
 
 [[committees]]
 name = "Health and Demography"

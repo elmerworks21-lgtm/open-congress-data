@@ -1,24 +1,28 @@
 id = "01K67YM93B1GBYD6R1MXM80AVE"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05989"
+
+[meta]
 bill_number = 5989
 congress = 18
-canonical = "HBN-05989"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-5989", "https://web.senate.gov.ph/lisdata/3359730453!.pdf",]
 title = "DISASTER RESILIENCE ACT"
 long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS MANDATE, POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Disaster Awareness/Mitigation/Post-Disaster Recovery", "Disaster Risk Reduction and Management",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-09-24"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-09-28"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2020"
+date = "2020-09-28"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

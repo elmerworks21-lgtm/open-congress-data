@@ -1,8 +1,11 @@
 id = "01K67YJE15ZT4RMGPZ3ADFZGRE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02629"
+
+[meta]
 bill_number = 2629
 congress = 16
-canonical = "SBN-02629"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2629", "https://web.senate.gov.ph/lisdata/2051617619!.pdf",]
 title = "PHILIPPINE ACADEMIC REGALIA ACT OF 2015"
 date_filed = "2015-02-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT PRESCRIBING THE USE OF NEO-ETHNIC PHILIPPINE TEXTILES IN TH
 scope = "National"
 subjects = [ "Textile Industry", "Academic Regalia", "Tropical Fabric", "State Colleges and Universities (SCUS)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2015-02-04"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-09"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; SCIENCE AND TECHNOLOGY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/9/2015"
+date = "2015-02-09"
 
 [[committees]]
 name = "Education, Arts and Culture"

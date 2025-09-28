@@ -1,8 +1,11 @@
 id = "01K67YJDR184FCMMPCCDWMSY5A"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02247"
+
+[meta]
 bill_number = 2247
 congress = 16
-canonical = "SBN-02247"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2247", "https://web.senate.gov.ph/lisdata/1920116325!.pdf",]
 title = "AMENDING SEC. 9, PD 1589 (ENVIRONMENTAL COMPLIANCE CERTIFICATE)"
 date_filed = "2014-05-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE PENALTIES FOR VIOLATIONS OF THE TERMS AND CO
 scope = "National"
 subjects = [ "Environmental Compliance Certificate (ECC)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2014-05-27"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-05-28"
 action = "Read on First Reading and Referred to the Committee on ENVIRONMENT AND NATURAL RESOURCES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/28/2014"
+date = "2014-05-28"
 
 [[committees]]
 name = "Environment and Natural Resources"

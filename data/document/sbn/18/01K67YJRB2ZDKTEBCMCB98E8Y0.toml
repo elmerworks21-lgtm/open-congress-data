@@ -1,8 +1,11 @@
 id = "01K67YJRB2ZDKTEBCMCB98E8Y0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02515"
+
+[meta]
 bill_number = 2515
 congress = 18
-canonical = "SBN-02515"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2515", "https://web.senate.gov.ph/lisdata/3741733804!.pdf",]
 title = "UMBILICAL CORD BLOOD DONATION ACT"
 date_filed = "2022-04-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROMOTING AND REGULATING THE DONATION OF UMBILICAL CORD BLO
 scope = "National"
 subjects = [ "Umbilical Cord Blood",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2022-04-28"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-05-23"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/23/2022"
+date = "2022-05-23"
 
 [[committees]]
 name = "Health and Demography"

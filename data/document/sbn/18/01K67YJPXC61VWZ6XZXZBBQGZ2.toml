@@ -1,8 +1,11 @@
 id = "01K67YJPXC61VWZ6XZXZBBQGZ2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00779"
+
+[meta]
 bill_number = 779
 congress = 18
-canonical = "SBN-00779"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-779", "https://web.senate.gov.ph/lisdata/3113328032!.pdf",]
 title = "PROTECTING CONSUMERS AND USERS AGAINST FORCED E-BILLING"
 date_filed = "2019-07-25"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROTECTING CONSUMERS AND USERS AGAINST FORCED E-BILLING, AD
 scope = "National"
 subjects = [ "E-Billing", "Consumer Act (R.A.No. 7394)", "Consumer Protection",]
 authors_raw = "De Lima, Leila M., Binay, Maria Lourdes Nancy S., Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-25"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-14"
 action = "Read on First Reading and Referred to the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-12-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-01-29"
 action = "Letter from Senator MARIA LOURDES NANCY S. BINAY, dated January 27, 2020, conveying her intention to be a co-author of SBN-779, received by LBIS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-11"
 action = "Returned and submitted by the Committee on TRADE, COMMERCE AND ENTREPRENEURSHIP per Committee Report No. 44, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-11"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-02-11"
 action = "Sponsor: Senator AQUILINO 'KOKO' III PIMENTEL;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-26"
 action = "Letter from Senator EMMANUEL 'MANNY' D. PACQUIAO dated July 20, 2021, conveying his intention to be a co-author of SRN-779, received by LBIS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "2/11/2020"
+date = "2020-02-11"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

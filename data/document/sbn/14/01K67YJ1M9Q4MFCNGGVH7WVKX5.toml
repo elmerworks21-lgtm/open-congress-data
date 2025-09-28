@@ -1,8 +1,11 @@
 id = "01K67YJ1M9Q4MFCNGGVH7WVKX5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01380"
+
+[meta]
 bill_number = 1380
 congress = 14
-canonical = "SBN-01380"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1380", "https://web.senate.gov.ph/lisdata/56815026!.pdf",]
 title = "MAGNA CARTA FOR SMALL AND MEDIUM ENTERPRISES"
 date_filed = "2007-07-26"
@@ -10,27 +13,28 @@ long_title = "AN ACT TO FURTHER PROMOTE ENTREPRENEURSHIP AND THE DEVELOPMENT OF 
 scope = "National"
 subjects = [ "Magna Carta for Micro, Small and Medium Enterprises (MSME)", "Business/Entrepreneurship",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-26"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-11"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS; BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-26"
 action = "Returned and submitted jointly by the Committee(s) on ECONOMIC AFFAIRS, BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and FINANCE per Committee Report No. 3, recommending that it be substituted by SBN-1646;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-26"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-26"
 action = "SUBSTITUTED BY SBN-1646, WHICH BECAME R.A.NO. 9501."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/26/2007"
+date = "2007-09-26"
 

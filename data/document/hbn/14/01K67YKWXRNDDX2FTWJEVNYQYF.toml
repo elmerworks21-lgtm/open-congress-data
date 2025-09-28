@@ -1,24 +1,28 @@
 id = "01K67YKWXRNDDX2FTWJEVNYQYF"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-06149"
+
+[meta]
 bill_number = 6149
 congress = 14
-canonical = "HBN-06149"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-6149", "https://web.senate.gov.ph/lisdata/1145810117!.pdf",]
 title = "NATIONAL ROAD (J.R. BORJA - CAMAMAN-AN - INDAHAG - BUKIDNON)"
 long_title = "AN ACT CONVERTING THE GUSA ROAD IN CAGAYAN DE ORO CITY TO J.R. BORJA - CAMAMAN-AN - INDAHAG - BUKIDNON ROAD INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-26"
 action = "Filed in the Senate requesting for concurrence by Representative ISIDRO S. RODRIGUEZ JR. as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/27/2009"
+date = "2009-05-27"
 
 [[committees]]
 name = "Public Works"

@@ -1,24 +1,28 @@
 id = "01K67YMCTSDT7DET8M0QVXWKMQ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-00924"
+
+[meta]
 bill_number = 924
 congress = 19
-canonical = "HBN-00924"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-924", "https://web.senate.gov.ph/lisdata/3987336184!.pdf",]
 title = "BARANGAY SKILLED WORKERS REGISTRY ACT"
 long_title = "AN ACT MANDATING ALL BARANGAYS TO CREATE A REGISTRY OF SKILLED WORKERS"
 scope = "National"
 subjects = [ "Barangay Skilled Workers", "Registry of Professional/Skilled Workers",]
-[[legislative_history]]
+
+[[history]]
 date = "2022-11-16"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-11-22"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; LOCAL GOVERNMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/22/2022"
+date = "2022-11-22"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

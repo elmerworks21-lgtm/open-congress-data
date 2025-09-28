@@ -1,8 +1,11 @@
 id = "01K67YJ0WY7MV6E9XZNSRRKDCP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00237"
+
+[meta]
 bill_number = 237
 congress = 14
-canonical = "SBN-00237"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-237", "https://web.senate.gov.ph/lisdata/43373733!.pdf",]
 title = "CHILD NUTRITION ACT OF THE PHILIPPINES"
 date_filed = "2007-06-30"
@@ -10,25 +13,26 @@ long_title = "AN ACT PROVIDING FOR A SCHOOL NUTRITION PROGRAM AND FOR OTHER PURP
 scope = "National"
 subjects = [ "Nutrition",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; HEALTH AND DEMOGRAPHY; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-29"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-12"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2007"
+date = "2007-08-01"
 
 [[committees]]
 name = "Education, Arts and Culture"

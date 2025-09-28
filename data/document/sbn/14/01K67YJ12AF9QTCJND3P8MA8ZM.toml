@@ -1,8 +1,11 @@
 id = "01K67YJ12AF9QTCJND3P8MA8ZM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00498"
+
+[meta]
 bill_number = 498
 congress = 14
-canonical = "SBN-00498"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-498", "https://web.senate.gov.ph/lisdata/47054028!.pdf",]
 title = "EARLY RETIREMENT AND VOLUNTARY SEPARATION"
 date_filed = "2007-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING EARLY RETIREMENT AND VOLUNTARY SEPARATION FROM TH
 scope = "National"
 subjects = [ "Early Retirement (Employees)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

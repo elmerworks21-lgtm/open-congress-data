@@ -1,8 +1,11 @@
 id = "01K67YK0PB8X8XBYFC1K9W6A32"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01274"
+
+[meta]
 bill_number = 1274
 congress = 20
-canonical = "SBN-01274"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1274", "https://web.senate.gov.ph/lisdata/4791643932!.pdf",]
 title = "SHARED SERVICE FACILITIES (SSF) PROJECT FOR MICRO, SMALL, AND MEDIUM ENTERPRISES (MSMES)"
 date_filed = "2025-08-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO INSTITUTIONALIZE THE SHARED SERVICE FACILITIES (SSF) PRO
 scope = "National"
 subjects = [ "Magna Carta for Small Enterprises", "Magna Carta for Micro, Small and Medium-Scale Enterprises", "Shared Service Facilities (SSF) Project",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-27"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-16"
 action = "Read on First Reading and Referred to the Committees on TRADE, COMMERCE AND ENTREPRENEURSHIP; ECONOMIC AFFAIRS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/16/2025"
+date = "2025-09-16"
 
 [[committees]]
 name = "Trade, Commerce and Entrepreneurship"

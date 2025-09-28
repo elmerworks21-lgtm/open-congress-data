@@ -1,8 +1,11 @@
 id = "01K67YJ8F63TK5AWX9VC5HVRRD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01969"
+
+[meta]
 bill_number = 1969
 congress = 15
-canonical = "SBN-01969"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1969", "https://web.senate.gov.ph/lisdata/96188091!.pdf",]
 title = "PROBATION LAW"
 date_filed = "2010-07-22"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 4 OF PRESIDENTIAL DECREE NO. 968, OTHERWIS
 scope = "National"
 subjects = [ "Probation",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-22"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-14"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-23"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/14/2010"
+date = "2010-09-14"
 
 [[committees]]
 name = "Justice and Human Rights"

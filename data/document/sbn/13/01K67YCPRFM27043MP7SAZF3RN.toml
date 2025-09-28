@@ -1,8 +1,11 @@
 id = "01K67YCPRFM27043MP7SAZF3RN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02381"
+
+[meta]
 bill_number = 2381
 congress = 13
-canonical = "SBN-02381"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2381", "https://web.senate.gov.ph/lisdata/55674602!.pdf",]
 title = "PANDEMIC PREPAREDNESS ACT"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A PANDEMIC PREPAREDNESS PLAN FOR OTHER PURPOSE
 scope = "National"
 subjects = [ "Pandemic Preparedness Act",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Health and Demography"

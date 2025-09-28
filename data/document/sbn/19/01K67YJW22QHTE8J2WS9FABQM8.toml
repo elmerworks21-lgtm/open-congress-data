@@ -1,8 +1,11 @@
 id = "01K67YJW22QHTE8J2WS9FABQM8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01686"
+
+[meta]
 bill_number = 1686
 congress = 19
-canonical = "SBN-01686"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1686", "https://web.senate.gov.ph/lisdata/4037336784!.pdf",]
 title = "DONATION TRANSPARENCY AD"
 date_filed = "2023-01-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE FULL ACCOUNTING OF ALL DISASTER-RE LIEF AID O
 scope = "National"
 subjects = [ "Donations",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2023-01-17"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-01-24"
 action = "Read on First Reading and Referred to the Committee on FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/24/2023"
+date = "2023-01-24"
 
 [[committees]]
 name = "Finance"

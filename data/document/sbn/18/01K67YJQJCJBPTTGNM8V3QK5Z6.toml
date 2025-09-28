@@ -1,8 +1,11 @@
 id = "01K67YJQJCJBPTTGNM8V3QK5Z6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01690"
+
+[meta]
 bill_number = 1690
 congress = 18
-canonical = "SBN-01690"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1690", "https://web.senate.gov.ph/lisdata/3319130033!.pdf",]
 title = "EASTERN VISAYAS REGIONAL MEDICAL CENTER VILLABA EXTENSION (EVRMC-VILLABA EXTENSION)"
 date_filed = "2020-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT CONVERTING THE EASTERN VISAYAS REGIONAL MEDICAL CENTER VILL
 scope = "Local"
 subjects = [ "Hospitals, Conversion", "Hospitals, Increase Bed Capacity", "Hospitals, Upgrading",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-07-14"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-03"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2020"
+date = "2020-08-03"
 
 [[committees]]
 name = "Rules"

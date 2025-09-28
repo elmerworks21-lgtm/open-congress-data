@@ -1,8 +1,11 @@
 id = "01K67YCNY8G6FKSFBSTARXTVGN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01024"
+
+[meta]
 bill_number = 1024
 congress = 13
-canonical = "SBN-01024"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1024", "https://web.senate.gov.ph/lisdata/22291315!.pdf",]
 title = "LOCAL ANTI-SMUT CAMPAIGN ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CREATION OF A LOCAL PRINT MEDIA MONITORIN
 scope = "National"
 subjects = [ "Local Anti-Smut Campaign Act", "Print Media Monitoring Board (Creation)", "Pornography/Obscene Materials",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-01"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/1/2004"
+date = "2004-09-01"
 
 [[committees]]
 name = "Public Information and Mass Media"

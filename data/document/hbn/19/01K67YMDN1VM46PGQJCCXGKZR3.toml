@@ -1,24 +1,28 @@
 id = "01K67YMDN1VM46PGQJCCXGKZR3"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10122"
+
+[meta]
 bill_number = 10122
 congress = 19
-canonical = "HBN-10122"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10122", "https://web.senate.gov.ph/lisdata/4384139837!.pdf",]
 title = "KANKOKA HILLS, AN ECOTOURISM DESTINATION (CANDIJAY, BOHOL)"
 long_title = "AN ACT DECLARING KANKOKA HILLS, LOCATED IN BARANGAY CAMBANE, MUNICIPALITY OF CANDIJAY, PROVINCE OF BOHOL, AN ECOTOURISM DESTINATION"
 scope = "Local"
 subjects = [ "Ecotourism Destination",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-03-20"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-06"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/6/2024"
+date = "2024-05-06"
 
 [[committees]]
 name = "Tourism"

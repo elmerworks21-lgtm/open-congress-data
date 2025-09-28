@@ -1,8 +1,11 @@
 id = "01K67YCPEDTJZCF1MXQEYPNXSC"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01881"
+
+[meta]
 bill_number = 1881
 congress = 13
-canonical = "SBN-01881"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1881", "https://web.senate.gov.ph/lisdata/31412341!.pdf",]
 title = "PENALIZING EXPLOITATION OF CHILDREN DURING MASS ACTIONS"
 date_filed = "2005-01-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 10 OF REPUBLIC ACT NO. 7610, OTHERWISE KNO
 scope = "National"
 subjects = [ "Children/Youth (Child Abuse; RA 7610)", "Mass Actions (Use of Children as Shield)",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2005-01-10"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-11"
 action = "Read on First Reading and referred to the Committee(s) on YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/11/2005"
+date = "2005-01-11"
 
 [[committees]]
 name = "Youth, Women and Family Relations"

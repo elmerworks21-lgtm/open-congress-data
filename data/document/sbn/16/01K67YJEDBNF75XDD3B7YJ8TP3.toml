@@ -1,8 +1,11 @@
 id = "01K67YJEDBNF75XDD3B7YJ8TP3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02944"
+
+[meta]
 bill_number = 2944
 congress = 16
-canonical = "SBN-02944"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2944", "https://web.senate.gov.ph/lisdata/2221418929!.pdf",]
 title = "PLAIN LANGUAGE IN HEALTH INSURANCE ACT"
 date_filed = "2015-09-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ENHANCE CITIZEN AWARENESS OF INSURANCE INFORMATION AND S
 scope = "National"
 subjects = [ "Health Insurance", "Insurance Documents", "Plain Language",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-09-08"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-09"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2015"
+date = "2015-09-09"
 
 [[committees]]
 name = "Health and Demography"

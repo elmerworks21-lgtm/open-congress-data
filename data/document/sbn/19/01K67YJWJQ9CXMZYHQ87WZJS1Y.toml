@@ -1,8 +1,11 @@
 id = "01K67YJWJQ9CXMZYHQ87WZJS1Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02389"
+
+[meta]
 bill_number = 2389
 congress = 19
-canonical = "SBN-02389"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2389", "https://web.senate.gov.ph/lisdata/4230438493!.pdf",]
 title = "EXPANDING THE MEMBERSHIP OF THE SOCIAL SECURITY COMMISSION"
 date_filed = "2023-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE MEMBERSHIP OF THE SOCIAL SECURITY COMMISSION 
 scope = "National"
 subjects = [ "Social Security Act of 2018 (R.A. No. 11199)", "Overseas Filipino Workers (OFWS)/ Migrant Workers",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-08-07"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-08"
 action = "Read on First Reading and Referred to the Committees on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and MIGRANT WORKERS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2023"
+date = "2023-08-08"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

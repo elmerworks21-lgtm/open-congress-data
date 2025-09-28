@@ -1,8 +1,11 @@
 id = "01K67YCNMF4BF49SGPFPX986TB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00478"
+
+[meta]
 bill_number = 478
 congress = 13
-canonical = "SBN-00478"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-478", "https://web.senate.gov.ph/lisdata/1636937!.pdf",]
 title = "CRIMINAL LIABILITY OF BOTH HUSBANDS/WIFE (SEXUAL INFIDELITY)"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT ACCORDING EQUAL RIGHTS TO WIVES AND HUSBANDS IN THE PHILIPP
 scope = "National"
 subjects = [ "Wives/Husbands (Adultery; Both Liable)", "Revised Penal Code (Art. 333/334/335)", "Sexual Infidelity (Replacing Adultery)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-10"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2004"
+date = "2004-08-10"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

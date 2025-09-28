@@ -1,8 +1,11 @@
 id = "01K67YJCMBJBPXBN153CW7STQB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00535"
+
+[meta]
 bill_number = 535
 congress = 16
-canonical = "SBN-00535"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-535", "https://web.senate.gov.ph/lisdata/1643413675!.pdf",]
 title = "REQUIRING EMPLOYERS TO PROVIDE DAYCARE FACILITIES FOR THEIR EMPLOYEES"
 date_filed = "2013-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO REQUIRE EMPLOYERS TO PROVIDE DAYCARE FACILITIES FOR THEI
 scope = "National"
 subjects = [ "Day Care Centers/Day Care Facilities", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/6/2013"
+date = "2013-08-06"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

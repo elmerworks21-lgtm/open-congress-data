@@ -1,8 +1,11 @@
 id = "01K67YJ232DTFSDVRPBGSP2Q9V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01772"
+
+[meta]
 bill_number = 1772
 congress = 14
-canonical = "SBN-01772"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1772", "https://web.senate.gov.ph/lisdata/61635494!.pdf",]
 title = "SAFE ROUTES TO SCHOOLS ACT OF 2007"
 date_filed = "2007-10-16"
@@ -10,25 +13,26 @@ long_title = "AN ACT TO IMPROVE THE SAFETY OF NON-MOTORIZED TRANSPORTATION, INCL
 scope = "National"
 subjects = [ "Safe Route",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-10-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-11-05"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC SERVICES; LOCAL GOVERNMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-08"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-06-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/5/2007"
+date = "2007-11-05"
 
 [[committees]]
 name = "Public Services"

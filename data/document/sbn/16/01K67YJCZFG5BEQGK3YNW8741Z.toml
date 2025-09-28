@@ -1,8 +1,11 @@
 id = "01K67YJCZFG5BEQGK3YNW8741Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01075"
+
+[meta]
 bill_number = 1075
 congress = 16
-canonical = "SBN-01075"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1075", "https://web.senate.gov.ph/lisdata/1711314336!.pdf",]
 title = "WIRE TAPPING"
 date_filed = "2013-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC NO. 4200, OTHERWISE K
 scope = "National"
 subjects = [ "Wiretapping",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-23"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

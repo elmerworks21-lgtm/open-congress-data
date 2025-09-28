@@ -1,8 +1,11 @@
 id = "01K67YCNJD2M7H43VD6SZJT5PH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00363"
+
+[meta]
 bill_number = 363
 congress = 13
-canonical = "SBN-00363"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-363", "https://web.senate.gov.ph/lisdata/1520815!.pdf",]
 title = "DESIGNATING PROVINCIAL DEPUTY OMBUDSMAN IN EVERY PROVINCE"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 31 OF REPUBLIC ACT NO. 6770 ENTITLED AN AC
 scope = "National"
 subjects = [ "Ombudsman (Deputies in Every Province)",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSME¥A;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-11-24"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Justice and Human Rights"

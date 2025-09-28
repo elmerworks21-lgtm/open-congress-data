@@ -1,8 +1,11 @@
 id = "01K67YJD0EG35E9R5NFZWG2ZQ4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01124"
+
+[meta]
 bill_number = 1124
 congress = 16
-canonical = "SBN-01124"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1124", "https://web.senate.gov.ph/lisdata/1715214390!.pdf",]
 title = "WATCH YOUR CAR PROGRAM OF 2013"
 date_filed = "2013-07-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING A CARNAP PREVENTION PROGRAM, ESTABLISHING A CARNAP
 scope = "National"
 subjects = [ "Carnapping", "Motor Vehicles",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-29"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-27"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/27/2013"
+date = "2013-08-27"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

@@ -1,28 +1,32 @@
 id = "01K67YM03H1CW0FBN9Z31BKJ1G"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05752"
+
+[meta]
 bill_number = 5752
 congress = 15
-canonical = "HBN-05752"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-5752", "https://web.senate.gov.ph/lisdata/1300010939!.pdf",]
 title = "REGIONAL TRIAL COURT (MUNICIPALITY OF BACOLOD, PROVINCE OF LANAO DEL NORTE"
 long_title = "AN ACT CREATING AN ADDITIONAL REGIONAL TRIAL COURT BRANCH TO BE STATIONED IN THE MUNICIPALITY OF BACOLOD, PROVINCE OF LANAO DEL NORTE, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (M) OF BATAS PAMBANSA BLG. 129, AS AMENDED, OTHERWISE KNOWN AS 'THE JUDICIARY REORGANIZATION ACT OF 1980', AND PROVIDING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Courts (Rtc", "Mtc, Creation)",]
-[[legislative_history]]
+
+[[history]]
 date = "2012-03-08"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-13"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-04-25"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/13/2012"
+date = "2012-03-13"
 
 [[committees]]
 name = "Justice and Human Rights"

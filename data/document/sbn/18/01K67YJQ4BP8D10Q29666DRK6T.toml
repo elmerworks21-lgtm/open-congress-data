@@ -1,8 +1,11 @@
 id = "01K67YJQ4BP8D10Q29666DRK6T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01093"
+
+[meta]
 bill_number = 1093
 congress = 18
-canonical = "SBN-01093"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1093", "https://web.senate.gov.ph/lisdata/3166228507!.pdf",]
 title = "PHILIPPINE PHYSICAL THERAPY LAW OF 2019"
 date_filed = "2019-10-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT REGULATING THE REGISTRATION, LICENSURE, AND PRACTICE OF PHY
 scope = "National"
 subjects = [ "Physical Therapy",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-10-02"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-10-02"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/2/2019"
+date = "2019-10-02"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

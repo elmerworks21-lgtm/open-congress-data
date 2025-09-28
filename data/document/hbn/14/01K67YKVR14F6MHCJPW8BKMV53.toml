@@ -1,24 +1,28 @@
 id = "01K67YKVR14F6MHCJPW8BKMV53"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-02096"
+
+[meta]
 bill_number = 2096
 congress = 14
-canonical = "HBN-02096"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-2096", "https://web.senate.gov.ph/lisdata/111909906!.pdf",]
 title = "AGRO-LIVESTOCK AND ECOTOURISM PARK: BARANGAY CULASIAN, TITAY, ZAMBOANGA SIBUGAY"
 long_title = "AN ACT DECLARING THE AGRO-LIVESTOCK AND ECOTOURISM PARK LOCATED IN BARANGAY CULASIAN, MUNICIPALITY OF TITAY, PROVINCE OF ZAMBOANGA SIBUGAY AS AN ECOTOURISM SPOT AND APPROPRIATING FUNDS THEREFOR."
 scope = "Local"
 subjects = [ "Tourist Spot (Eco-Tourism Park)",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-12"
 action = "Filed in the Senate requesting for concurrence by Representative ANN K. HOFER as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2009"
+date = "2009-05-13"
 
 [[committees]]
 name = "Environment and Natural Resources"

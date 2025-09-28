@@ -1,8 +1,11 @@
 id = "01K67YJWG7DA93H5994T29VN59"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02277"
+
+[meta]
 bill_number = 2277
 congress = 19
-canonical = "SBN-02277"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2277", "https://web.senate.gov.ph/lisdata/4203838246!.pdf",]
 title = "GOVERNMENT EMPLOYEES FREE MA TUITION IN SUCS ACT"
 date_filed = "2023-06-19"
@@ -10,29 +13,30 @@ long_title = "AN ACT GRANTING FREE TUITION FOR GOVERNMENT EMPLOYEES ENROLLED IN 
 scope = "National"
 subjects = [ "Government Employees", "State Universities and Colleges (SUCS)", "Tuition Fees",]
 authors_raw = "Estrada, Jinggoy E."
-[[legislative_history]]
+
+[[history]]
 date = "2023-06-19"
 action = "Introduced by Senator JINGGOY E. ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-01"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION and CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-23"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2023"
+date = "2023-08-01"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

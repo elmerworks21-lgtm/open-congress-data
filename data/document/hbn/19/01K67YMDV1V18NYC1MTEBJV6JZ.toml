@@ -1,24 +1,28 @@
 id = "01K67YMDV1V18NYC1MTEBJV6JZ"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-11037"
+
+[meta]
 bill_number = 11037
 congress = 19
-canonical = "HBN-11037"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-11037", "https://web.senate.gov.ph/lisdata/4542941307!.pdf",]
 title = "SCHOOLS DIVISION OFFICE (FIRST DISTRICT OF ZAMBOANGA SIBUGAY)"
 long_title = "AN ACT ESTABLISHING IN THE MUNICIPALITY OF DIPLAHAN, PROVINCE OF ZAMBOANGA SIBUGAY, A SEPARATE SCHOOLS DIVISION OFFICE FOR THE FIRST DISTRICT OF ZAMBOANGA SIBUGAY AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Establishment",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-12-03"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-12-04"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/4/2024"
+date = "2024-12-04"
 
 [[committees]]
 name = "Basic Education"

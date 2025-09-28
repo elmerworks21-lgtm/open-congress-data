@@ -1,8 +1,11 @@
 id = "01K67YJ9589NZBXJAE71SWQSA2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02755"
+
+[meta]
 bill_number = 2755
 congress = 15
-canonical = "SBN-02755"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2755", "https://web.senate.gov.ph/lisdata/110099385!.pdf",]
 title = "INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
 date_filed = "2011-03-22"
@@ -10,21 +13,22 @@ long_title = "THE INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
 scope = "National"
 subjects = [ "Investment and Incentives Code",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2011-03-22"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-03-23"
 action = "Read on First Reading and Referred to the Committee(s) on WAYS AND MEANS and ECONOMIC AFFAIRS;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-04-30"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "3/23/2011"
+date = "2011-03-23"
 
 [[committees]]
 name = "Ways and Means"

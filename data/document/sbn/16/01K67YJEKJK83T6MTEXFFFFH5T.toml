@@ -1,8 +1,11 @@
 id = "01K67YJEKJK83T6MTEXFFFFH5T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03222"
+
+[meta]
 bill_number = 3222
 congress = 16
-canonical = "SBN-03222"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3222", "https://web.senate.gov.ph/lisdata/2332219940!.pdf",]
 title = "SUMMARY TITLING OF REAL PROPERTIES USED AS PUBLIC SCHOOL SITES"
 date_filed = "2016-02-03"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE SUMMARY TITLING OF REAL PROPERTIES USED A
 scope = "National"
 subjects = [ "Real Property",]
 authors_raw = "Ejercito-Estrada, Jinggoy P., Revilla Jr., Ramon A., Escudero, Francis \"Chiz\" G., Cayetano, Pia S., Legarda, Loren B., Angara, Juan Edgardo \"Sonny\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2016-02-03"
 action = "Prepared and submitted jointly by the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES, EDUCATION, ARTS AND CULTURE, FINANCE and WAYS AND MEANS with Senator(s) JINGGOY P. EJERCITO-ESTRADA, RAMON A. REVILLA JR., FRANCIS 'CHIZ' G. ESCUDERO, PIA S. CAYETANO, LOREN B. LEGARDA and JUAN EDGARDO 'SONNY' M. ANGARA as author(s) per Committee Report No. 498, recommending its approval in substitution of SBNos. 558, 944 and 1730;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "Motion of the Majority Leader, Senator Alan Peter Compañero S. Cayetano, that the matters appearing in the Reference of Business for todays session be deemed read and transmitted to the Archives;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-05-30"
 action = "COMMITTEE REPORT SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Committee Report Sent to the Archives"
-date = "5/30/2016"
+date = "2016-05-30"
 
 [[committees]]
 name = "Environment and Natural Resources"

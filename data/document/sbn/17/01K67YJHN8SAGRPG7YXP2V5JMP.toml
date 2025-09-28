@@ -1,8 +1,11 @@
 id = "01K67YJHN8SAGRPG7YXP2V5JMP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00736"
+
+[meta]
 bill_number = 736
 congress = 17
-canonical = "SBN-00736"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-736", "https://web.senate.gov.ph/lisdata/2426920868!.pdf",]
 title = "STRENGTHENING THE OFFICE OF THE SOLICITOR GENERAL"
 date_filed = "2016-07-21"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO FURTHER STRENGTHEN THE OFFICE OF THE SOLICITOR GENERAL A
 scope = "National"
 subjects = [ "Office of the Solicitor General",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-21"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-28"
 action = "Returned and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS, CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION, WAYS AND MEANS and FINANCE per Committee Report No. 391, recommending that it be substituted by SBN-1823;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-28"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-05-28"
 action = "SUBSTITUTED BY SBN-1823 UNDER COMMITTEE REPORT NO. 391."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "5/28/2018"
+date = "2018-05-28"
 
 [[committees]]
 name = "Justice and Human Rights"

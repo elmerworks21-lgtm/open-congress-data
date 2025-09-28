@@ -1,8 +1,11 @@
 id = "01K67YJ7MK0CBMHR3TCACKFCQ1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00649"
+
+[meta]
 bill_number = 649
 congress = 15
-canonical = "SBN-00649"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-649", "https://web.senate.gov.ph/lisdata/81516621!.pdf",]
 title = "MAGNA CARTA FOR DAY CARE WORKERS"
 date_filed = "2010-07-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING A MAGNA CARTA FOR DAY CARE WORKERS"
 scope = "National"
 subjects = [ "Magna Carta for Day Care Workers",]
 authors_raw = "Ejercito-Estrada, Jinggoy P., Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-07"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; CIVIL SERVICE AND GOVERNMENT REORGANIZATION and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-02-09"
 action = "Senator FRANCIS 'CHIZ' G. ESCUDERO was made as coauthor;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2010"
+date = "2010-08-10"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

@@ -1,8 +1,11 @@
 id = "01K67YJECGHX27H9A1F216QV97"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02908"
+
+[meta]
 bill_number = 2908
 congress = 16
-canonical = "SBN-02908"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2908", "https://web.senate.gov.ph/lisdata/2198818716!.pdf",]
 title = "HOSPITAL PRICE DISCLOSURE ACT"
 date_filed = "2015-08-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR THE PUBLIC DISCLOSURE OF PRICES FOR HOSPITAL
 scope = "National"
 subjects = [ "Hospitals",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2015-08-19"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2015"
+date = "2015-08-19"
 
 [[committees]]
 name = "Health and Demography"

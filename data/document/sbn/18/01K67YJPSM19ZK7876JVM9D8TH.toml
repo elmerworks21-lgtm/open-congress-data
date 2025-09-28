@@ -1,8 +1,11 @@
 id = "01K67YJPSM19ZK7876JVM9D8TH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00610"
+
+[meta]
 bill_number = 610
 congress = 18
-canonical = "SBN-00610"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-610", "https://web.senate.gov.ph/lisdata/3095227886!.pdf",]
 title = "BLEEDING DISORDER STANDARDS OF CARE ACT"
 date_filed = "2019-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING A STANDARD OF CARE FOR THE TREATMENT OF PERSONS W
 scope = "National"
 subjects = [ "Health Care", "Persons with Bleeding Disorders", "Hemophilia", "Von Willebrand Disease/Bleeding Disorder",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-18"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2019"
+date = "2019-08-07"
 
 [[committees]]
 name = "Health and Demography"

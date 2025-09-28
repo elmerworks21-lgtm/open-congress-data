@@ -1,8 +1,11 @@
 id = "01K67YCNKG3PD9AYKZ0NWQ4A0E"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00426"
+
+[meta]
 bill_number = 426
 congress = 13
-canonical = "SBN-00426"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-426", "https://web.senate.gov.ph/lisdata/1582884!.pdf",]
 title = "DEREGULATING CERTAIN PUBLIC SERVICES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT DEREGULATING CERTAIN PUBLIC SERVICES, AMENDING FOR THE PURP
 scope = "National"
 subjects = [ "Commonwealth Act (Ca 146)", "Public Services Deregulation",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSMENA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Public Services"

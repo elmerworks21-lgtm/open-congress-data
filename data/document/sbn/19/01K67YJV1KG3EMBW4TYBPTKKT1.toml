@@ -1,8 +1,11 @@
 id = "01K67YJV1KG3EMBW4TYBPTKKT1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00250"
+
+[meta]
 bill_number = 250
 congress = 19
-canonical = "SBN-00250"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-250", "https://web.senate.gov.ph/lisdata/3796934412!.pdf",]
 title = "IMPOSING VALUE-ADDED TAX ON DIGITAL TRANSACTIONS"
 date_filed = "2022-07-11"
@@ -10,53 +13,54 @@ long_title = "AN ACT IMPOSING VALUE-ADDED TAX ON DIGITAL TRANSACTIONS IN THE PHI
 scope = "National"
 subjects = [ "Taxes (Value-Added Tax / Vat)", "Digital Transaction", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Cayetano, Pia S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-11"
 action = "Introduced by Senator PIA S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-03"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-06"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-21"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-07-27"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-08-03"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-10-10"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-30"
 action = "Returned and submitted by the Committee on WAYS AND MEANS per Committee Report No. 189, recommending that it be substituted by SBN-2528;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-30"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-01-31"
 action = "SUBSTITUTED BY SBN-2528 UNDER COMMITTEE REPORT NO. 189."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/31/2024"
+date = "2024-01-31"
 
 [[committees]]
 name = "Ways and Means"

@@ -1,8 +1,11 @@
 id = "01K67YJ1HJ66V7JAGD5AYCFWA0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01245"
+
+[meta]
 bill_number = 1245
 congress = 14
-canonical = "SBN-01245"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1245", "https://web.senate.gov.ph/lisdata/55424956!.pdf",]
 title = "PRECRIPTIVE PERIOD FOR RECTIFICATION OF SIMULATED BIRTHS EXTENSION"
 date_filed = "2007-07-18"
@@ -10,33 +13,34 @@ long_title = "AN ACT EXTENDING THE PRESCRIPTIVE PERIOD FOR RECTIFICATION OF SIMU
 scope = "National"
 subjects = [ "Simulated Births", "Domestic Adoption",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-18"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-10"
 action = "Read on First Reading and Referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and YOUTH, WOMEN AND FAMILY RELATIONS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-01"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-12-26"
 action = "Returned and submitted jointly by the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS and YOUTH, WOMEN AND FAMILY RELATIONS per Committee Report No. 32, recommending that it be substituted by SBN-1989;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-28"
 action = "SUBSTITUTED BY SBN-1989."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "1/28/2008"
+date = "2008-01-28"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

@@ -1,8 +1,11 @@
 id = "01K67YK0EB44F7RPH6BQH8RA4B"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01087"
+
+[meta]
 bill_number = 1087
 congress = 20
-canonical = "SBN-01087"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1087", "https://web.senate.gov.ph/lisdata/4760443620!.pdf",]
 title = "AMENDING R.A. NO. 9513 (RENEWABLE ENERGY ACT OF 2008)"
 date_filed = "2025-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT ENHANCING THE IMPLEMENTATION OF THE NET-METERING PROGRAM, A
 scope = "National"
 subjects = [ "Renewable Energy",]
 authors_raw = "Gatchalian, Win T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator WIN T. GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-09"
 action = "Read on First Reading and Referred to the Committee on ENERGY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/9/2025"
+date = "2025-09-09"
 
 [[committees]]
 name = "Energy"

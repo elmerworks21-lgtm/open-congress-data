@@ -1,8 +1,11 @@
 id = "01K67YJ2Z0AGPMXFGPK0Q1Y2SD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02986"
+
+[meta]
 bill_number = 2986
 congress = 14
-canonical = "SBN-02986"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2986", "https://web.senate.gov.ph/lisdata/98288899!.pdf",]
 title = "MAGNA CARTA FOR SMALL ENTERPRISES"
 date_filed = "2009-01-15"
@@ -10,15 +13,16 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6977, OTHERWISE KNOWN AS THE MAGN
 scope = "National"
 subjects = [ "R.A.No. 6977 (Magna Carta for Small Enterprises), Amendments",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-01-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on ECONOMIC AFFAIRS and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2009"
+date = "2009-01-20"
 

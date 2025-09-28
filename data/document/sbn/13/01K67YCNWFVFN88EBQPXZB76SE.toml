@@ -1,8 +1,11 @@
 id = "01K67YCNWFVFN88EBQPXZB76SE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00934"
+
+[meta]
 bill_number = 934
 congress = 13
-canonical = "SBN-00934"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-934", "https://web.senate.gov.ph/lisdata/21361651!.pdf",]
 title = "LOCAL HOUSING BOARD"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE LOCAL HOUSING BOARD AND AMENDING SECTIONS 447 
 scope = "National"
 subjects = [ "Local Housing Board (Creation)", "Local Government Code (RA 7160)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-31"
 action = "Read on First Reading and referred to the Committee(s) on LOCAL GOVERNMENT; and URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/31/2004"
+date = "2004-08-31"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YJH4C45W86MWPWKKECNR8"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00006"
+
+[meta]
 bill_number = 6
 congress = 17
-canonical = "SBN-00006"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-6", "https://web.senate.gov.ph/lisdata/2341920004!.pdf",]
 title = "R.A.NO. 53, TO INCLUDE PRINT, BROADCAST AND ELECTRONIC MASS MEDIA IN THE EXEMPTION"
 date_filed = "2016-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING SECTION 1 OF REPUBLIC ACT NO.53 OTHERWISE KNOWN AS
 scope = "National"
 subjects = [ "Publisher/Editor/Reporter", "Electronic Mass Media", "Media Practitioners", "Information",]
 authors_raw = "Sotto III, Vicente C."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator VICENTE C. SOTTO III;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-09"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-29"
 action = "Returned and submitted by the Committee on PUBLIC INFORMATION AND MASS MEDIA per Committee Report No. 12, recommending that it be substituted by SBN-1255;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-29"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-11-29"
 action = "SUBSTITUTED BY SBN-1255, UNDER COMMITTEE REPORT NO. 12, WHICH BECAME R.A. NO. 11458 ON AUGUST 30, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "11/29/2016"
+date = "2016-11-29"
 
 [[committees]]
 name = "Public Information and Mass Media"

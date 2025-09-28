@@ -1,8 +1,11 @@
 id = "01K67YJQVZBRB5FC3C2GBA78SD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02081"
+
+[meta]
 bill_number = 2081
 congress = 18
-canonical = "SBN-02081"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2081", "https://web.senate.gov.ph/lisdata/3461531424!.pdf",]
 title = "NATIONAL HIJAB DAY"
 date_filed = "2021-03-02"
@@ -10,37 +13,38 @@ long_title = "AN ACT DECLARING THE FIRST DAY OF FEBRUARY OF EVERY YEAR AS NATION
 scope = "National"
 subjects = [ "Hijab",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2021-03-02"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-03-03"
 action = "Read on First Reading and Referred to the Committees on CULTURAL COMMUNITIES and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-07-06"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-11-03"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Returned and submitted jointly by the Committees on CULTURAL COMMUNITIES and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY per Committee Report No. 370, recommending the approval of SBN-2081 with amendments, taking into consideration HBN-8249;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-12-06"
 action = "Sponsor: Senator IMEE R. MARCOS;"
 
 [[status]]
 status = "Pending Second Reading, Ordinary Business"
-date = "12/6/2021"
+date = "2021-12-06"
 
 [[committees]]
 name = "Cultural Communities"

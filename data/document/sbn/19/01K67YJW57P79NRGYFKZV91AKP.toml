@@ -1,8 +1,11 @@
 id = "01K67YJW57P79NRGYFKZV91AKP"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01828"
+
+[meta]
 bill_number = 1828
 congress = 19
-canonical = "SBN-01828"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1828", "https://web.senate.gov.ph/lisdata/4060437016!.pdf",]
 title = "ARAW NG ANTIPOLO ACT"
 date_filed = "2023-02-01"
@@ -10,29 +13,30 @@ long_title = "AN ACT TO DESIGNATE THE FOURTH (4TH) DAY OF APRIL OF EVERY YEAR A 
 scope = "Local"
 subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-01"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-06"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-28"
 action = "Returned and submitted by the Committee on LOCAL GOVERNMENT per Committee Report No. 34, recommending that it be considered in HBN-3961;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-03-01"
 action = "CONSIDERED IN HBN-3961 UNDER COMMITTEE REPORT NO. 34, WHICH BECAME REPUBLIC ACT NO. 12098 ON DECEMBER 13, 2024."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "3/1/2023"
+date = "2023-03-01"
 
 [[committees]]
 name = "Local Government"

@@ -1,8 +1,11 @@
 id = "01K67YCPMV3ECSW6DCEXCFNFM4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02195"
+
+[meta]
 bill_number = 2195
 congress = 13
-canonical = "SBN-02195"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2195", "https://web.senate.gov.ph/lisdata/44753618!.pdf",]
 title = "ANTI-CELLPHONE USE WHILE DRIVING ACT OF 2006"
 date_filed = "2006-01-19"
@@ -10,17 +13,18 @@ long_title = "AN ACT TOP ROHIBIT THE USE OF MOBILE PHONES WHILE DRIVING, PROVIDI
 scope = "National"
 subjects = [ "Anti-Cellphone While Driving Act", "Cellular/Mobile Phones",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2006-01-19"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-01-23"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/23/2006"
+date = "2006-01-23"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YCPEC0JDMPXG3S033DH29"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01878"
+
+[meta]
 bill_number = 1878
 congress = 13
-canonical = "SBN-01878"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1878", "https://web.senate.gov.ph/lisdata/31372336!.pdf",]
 title = "FUEL PRICING FAIRNESS ACT"
 date_filed = "2004-12-16"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPOSING CIVIL PENALTIES ON UNREASONABLE PRICE INCREASES FO
 scope = "National"
 subjects = [ "Fuel Pricing Fairness Act", "Oil Products (Crude Oil, Petroleum)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-12-16"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-01-10"
 action = "Read on First Reading and referred to the Committee(s) on ENERGY; and TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/10/2005"
+date = "2005-01-10"
 
 [[committees]]
 name = "Energy"

@@ -1,8 +1,11 @@
 id = "01K67YCNSSAFQ8N9CGFH010QRY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00781"
+
+[meta]
 bill_number = 781
 congress = 13
-canonical = "SBN-00781"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-781", "https://web.senate.gov.ph/lisdata/19711403!.pdf",]
 title = "CRIMINALIZING OVERLOADING OF PASSENGER SHIPS/LAND VEHICLES"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT CRIMINALIZING OVERLOADING OF PASSENGER SHIPS, FERRIES AND L
 scope = "National"
 subjects = [ "Ships/Ferries/Land Commuter Vehicles", "Land/Sea-Based Carriers (Overloading)", "Passenger Overloading, Criminalizing",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Public Services"

@@ -1,8 +1,11 @@
 id = "01K67YJV3HQV695CPDYK811FXN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00341"
+
+[meta]
 bill_number = 341
 congress = 19
-canonical = "SBN-00341"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-341", "https://web.senate.gov.ph/lisdata/3809934541!.pdf",]
 title = "REVERSION TO MAIDEN NAME ACT"
 date_filed = "2022-07-12"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOWING WOMEN TO REVERT TO THEIR MAIDEN SURNAME, ESTABLISH
 scope = "National"
 subjects = [ "Women (Maiden Surname)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-12"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-08"
 action = "Read on First Reading and Referred to the Committees on WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/8/2022"
+date = "2022-08-08"
 
 [[committees]]
 name = "Women, Children, Family Relations and Gender Equality"

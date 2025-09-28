@@ -1,8 +1,11 @@
 id = "01K67YCNZJG198E1P8XPDQ7MX6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01092"
+
+[meta]
 bill_number = 1092
 congress = 13
-canonical = "SBN-01092"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1092", "https://web.senate.gov.ph/lisdata/23001478!.pdf",]
 title = "URBAN TREE ACT OF 2004"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE PRESERVATION AND PROTECTION OF TREES IN U
 scope = "National"
 subjects = [ "Tree Conservation (Urban Tree Act)",]
 authors_raw = "Madrigal, M. A."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator M.A. MADRIGAL;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-06"
 action = "Read on First Reading and referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES; and URBAN PLANNING, HOUSING AND RESETTLEMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/6/2004"
+date = "2004-09-06"
 
 [[committees]]
 name = "Environment and Natural Resources"

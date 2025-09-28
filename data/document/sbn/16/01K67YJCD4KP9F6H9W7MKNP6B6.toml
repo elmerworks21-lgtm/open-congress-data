@@ -1,8 +1,11 @@
 id = "01K67YJCD4KP9F6H9W7MKNP6B6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00184"
+
+[meta]
 bill_number = 184
 congress = 16
-canonical = "SBN-00184"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-184", "https://web.senate.gov.ph/lisdata/1601013247!.pdf",]
 title = "PUBLIC OFFICIALS AND EMPLOYEES WRITTEN PERMISSION OR WAIVER, BANK DEPOSITS"
 date_filed = "2013-07-01"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING PUBLIC OFFICIALS AND EMPLOYEES TO SUBMIT A WRITTE
 scope = "National"
 subjects = [ "Waiver", "Ombudsman", "Bank Deposits/Bank Accounts",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-29"
 action = "Read on First Reading and Referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2013"
+date = "2013-07-29"
 
 [[committees]]
 name = "Justice and Human Rights"

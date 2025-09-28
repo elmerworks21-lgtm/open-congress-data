@@ -1,8 +1,11 @@
 id = "01K67YJ36JFV7FN0VJQXG0WQKZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03311"
+
+[meta]
 bill_number = 3311
 congress = 14
-canonical = "SBN-03311"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3311", "https://web.senate.gov.ph/lisdata/1168410290!.pdf",]
 title = "WELFARE AND PROTECTION ACT OF THE ELDERLY OF 2009"
 date_filed = "2009-06-03"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR A SOCIAL JUSTICE AND WELFARE PROGRAM FOR THE 
 scope = "National"
 subjects = [ "Elders", "Senior Citizens",]
 authors_raw = "Cayetano, Alan Peter \"Companero\" S."
-[[legislative_history]]
+
+[[history]]
 date = "2009-06-03"
 action = "Introduced by Senator ALAN PETER 'COMPANERO' S. CAYETANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-06-03"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Returned and submitted jointly by the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES, CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS, ENERGY, FINANCE, HEALTH AND DEMOGRAPHY, JUSTICE AND HUMAN RIGHTS, LOCAL GOVERNMENT, WAYS AND MEANS and YOUTH, WOMEN AND FAMILY RELATIONS per Committee Report No. 777, recommending that it be substituted by SBN-3561;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "Committee Report calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-12-16"
 action = "SUBSTITUTED BY SBN-3561, WHICH BECAME R.A.NO. 9994."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "12/16/2009"
+date = "2009-12-16"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

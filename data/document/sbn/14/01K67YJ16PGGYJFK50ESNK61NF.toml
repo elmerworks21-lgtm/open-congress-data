@@ -1,8 +1,11 @@
 id = "01K67YJ16PGGYJFK50ESNK61NF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00716"
+
+[meta]
 bill_number = 716
 congress = 14
-canonical = "SBN-00716"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-716", "https://web.senate.gov.ph/lisdata/49384322!.pdf",]
 title = "SCHOLARSHIP FOR THE POOR ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL COLLEGES AND UNIVERSITIES TO PROVIDE SCHOLARS
 scope = "National"
 subjects = [ "Scholarship for the Poor", "Students",]
 authors_raw = "Revilla Jr., Ramon A."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-29"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/29/2007"
+date = "2007-08-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

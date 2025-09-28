@@ -1,8 +1,11 @@
 id = "01K67YJWX5HEQH4X8C75R83J04"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02770"
+
+[meta]
 bill_number = 2770
 congress = 19
-canonical = "SBN-02770"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2770", "https://web.senate.gov.ph/lisdata/4451440465!.pdf",]
 title = "CONDONATION OF UNPAID OBLIGATIONS ON THE POWER CONSUMPTION OF THE PUBLIC UTILITIES IN OLONGAPO CITY"
 date_filed = "2024-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE CONDONATION OF UNPAID OBLIGATIONS ON THE 
 scope = "National"
 subjects = [ "Condonation", "Power Consumption", "Power Sector Assets and Liabilities Management Corporation (Psalm Corp.)",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-07"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Read on First Reading and Referred to the Committees on ENERGY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/12/2024"
+date = "2024-08-12"
 
 [[committees]]
 name = "Energy"

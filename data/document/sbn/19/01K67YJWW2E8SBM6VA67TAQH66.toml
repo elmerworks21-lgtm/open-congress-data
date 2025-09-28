@@ -1,8 +1,11 @@
 id = "01K67YJWW2E8SBM6VA67TAQH66"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02737"
+
+[meta]
 bill_number = 2737
 congress = 19
-canonical = "SBN-02737"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2737", "https://web.senate.gov.ph/lisdata/4434340288!.pdf",]
 title = "EDUCATIONAL SCHOLARSHIP FOR CHILDREN AND DEPENDENTS OF FARMERS AMD FISHERFOLKS ACT"
 date_filed = "2024-07-23"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR SCHOLARSHIP TO CHILDREN AND DEPENDENTS OF FAR
 scope = "National"
 subjects = [ "Scholarship Grants", "Scholarship to Children and Dependents", "Farmers",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2024-07-23"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Read on First Reading and Referred to the Committees on BASIC EDUCATION; AGRICULTURE, FOOD AND AGRARIAN REFORM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2024"
+date = "2024-07-31"
 
 [[committees]]
 name = "Basic Education"

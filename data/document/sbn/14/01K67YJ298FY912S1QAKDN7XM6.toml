@@ -1,8 +1,11 @@
 id = "01K67YJ298FY912S1QAKDN7XM6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02031"
+
+[meta]
 bill_number = 2031
 congress = 14
-canonical = "SBN-02031"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2031", "https://web.senate.gov.ph/lisdata/67435994!.pdf",]
 title = "NUTRITION AND HEALTH ACT OF 2008"
 date_filed = "2008-01-29"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH WITHIN THE DEPARTMENT OF HEALTH A PERMANENT CO
 scope = "National"
 subjects = [ "Department of Health (DOH)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2008-01-29"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-01-30"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/30/2008"
+date = "2008-01-30"
 
 [[committees]]
 name = "Health and Demography"

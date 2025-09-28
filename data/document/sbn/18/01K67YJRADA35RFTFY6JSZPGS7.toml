@@ -1,8 +1,11 @@
 id = "01K67YJRADA35RFTFY6JSZPGS7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02492"
+
+[meta]
 bill_number = 2492
 congress = 18
-canonical = "SBN-02492"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2492", "https://web.senate.gov.ph/lisdata/3708533444!.pdf",]
 title = "REVISED HIGHER EDUCATION ACT OF 2022"
 date_filed = "2022-01-25"
@@ -10,29 +13,30 @@ long_title = "AN ACT STRENGTHENING THE COMMISSION ON HIGHER EDUCATION, REPEALING
 scope = "National"
 subjects = [ "Higher Education Act",]
 authors_raw = "Villanueva, Joel, Cayetano, Pia S., Angara, Sonny"
-[[legislative_history]]
+
+[[history]]
 date = "2022-01-25"
 action = "Prepared and submitted jointly by the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION, WAYS AND MEANS and FINANCE with Senators JOEL VILLANUEVA, PIA S. CAYETANO and SONNY ANGARA as authors per Committee Report No. 509, recommending its approval in substitution of SBN-1744, taking into consideration HBN-10282;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Sponsor: Senator JOEL VILLANUEVA"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-01-25"
 action = "Sponsorship speech of Senator JOEL VILLANUEVA;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "1/25/2022"
+date = "2022-01-25"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

@@ -1,8 +1,11 @@
 id = "01K67YJDMVKC63R8M6N4MVR7BZ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02114"
+
+[meta]
 bill_number = 2114
 congress = 16
-canonical = "SBN-02114"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2114", "https://web.senate.gov.ph/lisdata/1868515812!.pdf",]
 title = "BREAST CANCER PATIENT EDUCATION ACT"
 date_filed = "2014-02-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO RAISE AWARENESS OF, AND TO EDUCATE BREAST CANCER PATIENT
 scope = "National"
 subjects = [ "Breast Care", "Cancer",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2014-02-10"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-11"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; and CULTURAL COMMUNITIES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/11/2014"
+date = "2014-02-11"
 
 [[committees]]
 name = "Health and Demography"

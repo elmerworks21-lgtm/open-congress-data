@@ -1,8 +1,11 @@
 id = "01K67YJ32HDHYBGXSB8FWMG0XM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03146"
+
+[meta]
 bill_number = 3146
 congress = 14
-canonical = "SBN-03146"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3146", "https://web.senate.gov.ph/lisdata/106959453!.pdf",]
 title = "COMPREHENSIVE ENVIRONMENTAL PROGRAM OF RENEWAL, REPLANTING AND REFORESTATION"
 date_filed = "2009-03-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO CONSERVE AND PROTECT PHILIPPINE PUBLIC FORESTS, MANGROVE
 scope = "National"
 subjects = [ "Environmental Protection Program", "Mangrove Forest Protection",]
 authors_raw = "Villar, Manny"
-[[legislative_history]]
+
+[[history]]
 date = "2009-03-31"
 action = "Introduced by Senator MANNY VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-04-14"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/14/2009"
+date = "2009-04-14"
 
 [[committees]]
 name = "Environment and Natural Resources"

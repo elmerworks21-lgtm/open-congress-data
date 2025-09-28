@@ -1,8 +1,11 @@
 id = "01K67YJPN6GKJXMJ9K2H1J034T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00399"
+
+[meta]
 bill_number = 399
 congress = 18
-canonical = "SBN-00399"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-399", "https://web.senate.gov.ph/lisdata/3069527545!.pdf",]
 title = "ESTABLISHMENT OF A DRUG ABUSE TREATMENT AND REHABILITATION CENTER"
 date_filed = "2019-07-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT AND SUPPORT OF A DRUG ABUSE
 scope = "National"
 subjects = [ "Drug Rehabilitation", "Drug Penal Institution",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-11"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; HEALTH AND DEMOGRAPHY and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-02-16"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

@@ -1,8 +1,11 @@
 id = "01K67YJQHXMY620XCCC3QXQXAX"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01666"
+
+[meta]
 bill_number = 1666
 congress = 18
-canonical = "SBN-01666"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1666", "https://web.senate.gov.ph/lisdata/3315730008!.pdf",]
 title = "SUCAT NATIONAL HIGH SCHOOL"
 date_filed = "2020-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT SEPARATING MUNTINLUPA BUSINESS HIGH SCHOOL – ANNEX IN BAR
 scope = "Local"
 subjects = [ "Schools, Conversion",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2020-07-07"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-08-03"
 action = "Read on First Reading and Referred to the Committee on RULES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2020"
+date = "2020-08-03"
 
 [[committees]]
 name = "Rules"

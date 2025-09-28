@@ -1,8 +1,11 @@
 id = "01K67YK0283VESR60JBX2K7DAB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00444"
+
+[meta]
 bill_number = 444
 congress = 20
-canonical = "SBN-00444"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-444", "https://web.senate.gov.ph/lisdata/4695842961!.pdf",]
 title = "PUBLIC CREMATORIUM ACT"
 date_filed = "2025-07-10"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE ESTABLISHMENT OF PUBLIC CREMATORIUMS IN CITIE
 scope = "National"
 subjects = [ "Public Crematorium",]
 authors_raw = "Tulfo, Raffy T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-10"
 action = "Introduced by Senator RAFFY T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on LOCAL GOVERNMENT; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Local Government"

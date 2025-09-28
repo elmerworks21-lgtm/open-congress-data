@@ -1,8 +1,11 @@
 id = "01K67YJEHEAZQVM782FN8QA1PW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03119"
+
+[meta]
 bill_number = 3119
 congress = 16
-canonical = "SBN-03119"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3119", "https://web.senate.gov.ph/lisdata/2294119635!.pdf",]
 title = "CRIME INVESTIGATION MODERNIZATION ACT"
 date_filed = "2016-01-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT MODERNIZING THE CRIME INVESTIGATION TECHNIQUES OF LAW ENFOR
 scope = "National"
 subjects = [ "Crime Investigation",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2016-01-25"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-01-26"
 action = "Read on First Reading and Referred to the Committee on PUBLIC ORDER AND DANGEROUS DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/26/2016"
+date = "2016-01-26"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

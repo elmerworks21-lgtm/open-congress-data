@@ -1,8 +1,11 @@
 id = "01K67YJVD6HRCCYQVCG2HNK4NW"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00789"
+
+[meta]
 bill_number = 789
 congress = 19
-canonical = "SBN-00789"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-789", "https://web.senate.gov.ph/lisdata/3860335057!.pdf",]
 title = "FEAST OF OUR LADY OF GUADALUPE DAY ACT"
 date_filed = "2022-07-21"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING DECEMBER 12 OF EVERY YEAR A SPECIAL WORKING HOLID
 scope = "National"
 subjects = [ "Holidays (Special Working)", "Feast of Our Lady of Guadalupe",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-21"
 action = "Introduced by Senator JUAN MIGUEL 'MIGZ' F. ZUBIRI;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-30"
 action = "Read on First Reading and Referred to the Committee on CULTURE AND THE ARTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2022"
+date = "2022-08-30"
 
 [[committees]]
 name = "Culture and the Arts"

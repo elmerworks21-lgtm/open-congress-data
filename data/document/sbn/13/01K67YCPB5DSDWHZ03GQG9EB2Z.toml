@@ -1,8 +1,11 @@
 id = "01K67YCPB5DSDWHZ03GQG9EB2Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01732"
+
+[meta]
 bill_number = 1732
 congress = 13
-canonical = "SBN-01732"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1732", "https://web.senate.gov.ph/lisdata/29362516!.pdf",]
 title = "NATIONAL SEX OFFENDER REGISTRY ACT OF 2004"
 date_filed = "2004-08-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NATIONAL SEX OFFENDER REGISTRATION DATABASE 
 scope = "National"
 subjects = [ "National Sex Offender Registry Act",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-17"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-02"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and PUBLIC ORDER AND ILLEGAL DRUGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/21/2004"
+date = "2004-09-21"
 
 [[committees]]
 name = "Justice and Human Rights"

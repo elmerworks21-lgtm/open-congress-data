@@ -1,8 +1,11 @@
 id = "01K67YCND23K6MG0SDSN7Y8X3V"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00073"
+
+[meta]
 bill_number = 73
 congress = 13
-canonical = "SBN-00073"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-73", "https://web.senate.gov.ph/lisdata/1201720!.pdf",]
 title = "ELECTORAL FRAUD - VOTE SHAVING/VOTE PADDING"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO AMEND ARTICLE XXII, SECTION 261 (DD) OF BATAS PAMBANSA B
 scope = "National"
 subjects = [ "Vote Shaving/Vote Padding", "Omnibus Election Code (Art. Xx11 Sec. 26", "Batas Pambansa Blg. 881, Amendments", "Elections (Electoral Fraud)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

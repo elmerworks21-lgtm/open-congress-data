@@ -1,8 +1,11 @@
 id = "01K67YCPNTYCNVEBRSEN0NHQD9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02238"
+
+[meta]
 bill_number = 2238
 congress = 13
-canonical = "SBN-02238"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2238", "https://web.senate.gov.ph/lisdata/48573975!.pdf",]
 title = "TREE FOR LEGACY ACT OF 2006"
 date_filed = "2006-03-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTING A SELF-SUSTAINING FOREST MANAGEMENT PROGRAM, BY
 scope = "National"
 subjects = [ "Tree for Legacy Act",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2006-03-30"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-04-03"
 action = "Read on First Reading and Referred to the Committee(s) on ENVIRONMENT AND NATURAL RESOURCES and LOCAL GOVERNMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "4/3/2006"
+date = "2006-04-03"
 
 [[committees]]
 name = "Environment and Natural Resources"

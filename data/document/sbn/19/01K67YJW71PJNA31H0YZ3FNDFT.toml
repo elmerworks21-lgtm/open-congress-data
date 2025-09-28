@@ -1,8 +1,11 @@
 id = "01K67YJW71PJNA31H0YZ3FNDFT"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01898"
+
+[meta]
 bill_number = 1898
 congress = 19
-canonical = "SBN-01898"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1898", "https://web.senate.gov.ph/lisdata/4081337187!.pdf",]
 title = "AMENDING R.A NO. 7925 (PUBLIC TELECOMMUNICATIONS POLICY ACT OF THE PHILIPPINES)"
 date_filed = "2023-02-16"
@@ -10,21 +13,22 @@ long_title = "AN ACT IMPLEMENTING A LIFELINE RATE FOR INTERNET SERVICES, AMENDIN
 scope = "National"
 subjects = [ "Public Telecommunications Act (R.A.No.7925)", "Internet Access",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-16"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-20"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-15"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/20/2023"
+date = "2023-02-20"
 
 [[committees]]
 name = "Public Services"

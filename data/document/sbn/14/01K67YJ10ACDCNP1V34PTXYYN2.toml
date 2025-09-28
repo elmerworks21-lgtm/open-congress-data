@@ -1,25 +1,29 @@
 id = "01K67YJ10ACDCNP1V34PTXYYN2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00403"
+
+[meta]
 bill_number = 403
 congress = 14
-canonical = "SBN-00403"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-403", "https://web.senate.gov.ph/lisdata/45783925!.pdf",]
 title = "INSTITUTIONALIZED PERSONS PROTECTION ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT DEFINING WHO ARE INSTITUTIONALIZED PERSONS AND PENALIZING THEIR MALTREATMENT"
 scope = "National"
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-02"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-14"
 action = "Read on First Reading and Referred to the Committee on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2007"
+date = "2007-08-14"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

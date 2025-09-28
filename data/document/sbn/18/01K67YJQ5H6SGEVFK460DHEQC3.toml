@@ -1,8 +1,11 @@
 id = "01K67YJQ5H6SGEVFK460DHEQC3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01148"
+
+[meta]
 bill_number = 1148
 congress = 18
-canonical = "SBN-01148"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1148", "https://web.senate.gov.ph/lisdata/3181528675!.pdf",]
 title = "PHILIPPINE NATIONAL POLICE REFORM AND REORGANIZATION ACT"
 date_filed = "2019-11-05"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING SECTION 58 OF REPUBLIC ACT NO. 8551, OTHERWISE KNO
 scope = "National"
 subjects = [ "Philippine National Police Reform and Reorganization Act of 1998 (R.A.No. 8551)", "Womens Desk",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-11-05"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-11-06"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS; and WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-05-28"
 action = "Returned and submitted jointly by the Committee(s) on PUBLIC ORDER AND DANGEROUS DRUGS, WOMEN, CHILDREN, FAMILY RELATIONS AND GENDER EQUALITY and FINANCE per Committee Report No. 94, recommending that it be substituted by SBN-1562;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-01"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-01"
 action = "SUBSTITUTED BY SBN-1562 UNDER COMMITTEE REPORT NO. 94."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/1/2020"
+date = "2020-06-01"
 
 [[committees]]
 name = "Public Order and Dangerous Drugs"

@@ -1,8 +1,11 @@
 id = "01K67YJPZWJQ6BHKH1R6RDPQ1X"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00897"
+
+[meta]
 bill_number = 897
 congress = 18
-canonical = "SBN-00897"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-897", "https://web.senate.gov.ph/lisdata/3126128159!.pdf",]
 title = "SENIOR HIGH SCHOOL RESERVE OFFICER TRAINING CORPS (ROTC) ACT"
 date_filed = "2019-08-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT MANDATING THE INSTITUTIONALIZATION, DEVELOPMENT, TRAINING, 
 scope = "National"
 subjects = [ "Secondary Education", "Citizen Service Training Course", "National Service Training Program (NSTP)", "Reserve Officers Training Corps (ROTC)", "Armed Forces of the Philippines Reservist",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-13"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on BASIC EDUCATION, ARTS AND CULTURE; HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2019"
+date = "2019-08-19"
 
 [[committees]]
 name = "Basic Education, Arts and Culture"

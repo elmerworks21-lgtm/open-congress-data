@@ -1,8 +1,11 @@
 id = "01K67YCPR4261QV8X87ZEDAJPN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02360"
+
+[meta]
 bill_number = 2360
 congress = 13
-canonical = "SBN-02360"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2360", "https://web.senate.gov.ph/lisdata/55044555!.pdf",]
 title = "UNAUTHORIZED WATER INSTALLATIONS OR CONNECTIONS"
 date_filed = "2006-06-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING P.D. 401 SO AS TO PROVIDE FOR STIFFER PENALTIES FO
 scope = "National"
 subjects = [ "Water Installations or Connections",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2006-06-07"
 action = "Introduced by Senator MANUEL B. VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-08"
 action = "Read on First Reading and Referred to the Committee on PUBLIC SERVICES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/8/2006"
+date = "2006-06-08"
 
 [[committees]]
 name = "Public Services"

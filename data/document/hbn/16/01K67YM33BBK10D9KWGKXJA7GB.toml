@@ -1,24 +1,28 @@
 id = "01K67YM33BBK10D9KWGKXJA7GB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05755"
+
+[meta]
 bill_number = 5755
 congress = 16
-canonical = "HBN-05755"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=HBN-5755", "https://web.senate.gov.ph/lisdata/2154718314!.pdf",]
 title = "MERGER OF DBP AND LBP"
 long_title = "AN ACT AUTHORIZING THE MERGER OF THE DEVELOPMENT BANK OF THE PHILIPPINES AND THE LAND BANK OF THE PHILIPPINES, WITH THE LAND BANK OF THE PHILIPPINES AS THE SURVIVING ENTITY"
 scope = "National"
 subjects = [ "Merger/Acquisitions/Transfer", "Development Bank of the Philippines (DBP)", "Land Bank of the Philippines (LBP)",]
-[[legislative_history]]
+
+[[history]]
 date = "2015-05-28"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-01"
 action = "Read on First Reading and Referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/1/2015"
+date = "2015-06-01"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

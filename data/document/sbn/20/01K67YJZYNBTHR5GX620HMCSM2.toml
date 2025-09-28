@@ -1,8 +1,11 @@
 id = "01K67YJZYNBTHR5GX620HMCSM2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00251"
+
+[meta]
 bill_number = 251
 congress = 20
-canonical = "SBN-00251"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-251", "https://web.senate.gov.ph/lisdata/4672842733!.pdf",]
 title = "ACCELERATED INFRASTRUCTURE DEVELOPMENT ACT OF 2025"
 date_filed = "2025-07-08"
@@ -10,17 +13,18 @@ long_title = "AN ACT STREAMLINING THE IMPLEMENTATION OF GOVERNMENT INFRASTRUCTUR
 scope = "National"
 subjects = [ "Accelerated Infrastructure Development",]
 authors_raw = "Tulfo, Erwin T."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-08"
 action = "Introduced by Senator ERWIN T. TULFO;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-05"
 action = "Read on First Reading and Referred to the Committees on PUBLIC WORKS; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/5/2025"
+date = "2025-08-05"
 
 [[committees]]
 name = "Public Works"

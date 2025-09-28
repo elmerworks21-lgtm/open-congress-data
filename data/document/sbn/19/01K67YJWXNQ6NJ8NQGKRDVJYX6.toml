@@ -1,8 +1,11 @@
 id = "01K67YJWXNQ6NJ8NQGKRDVJYX6"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02784"
+
+[meta]
 bill_number = 2784
 congress = 19
-canonical = "SBN-02784"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2784", "https://web.senate.gov.ph/lisdata/4464840595!.pdf",]
 title = "SENTRO RIZAL ACT"
 date_filed = "2024-08-14"
@@ -10,21 +13,22 @@ long_title = "AN ACT STRENGTHENING THE SENTRO RIZAL AND APPROPRIATING FUNDS THER
 scope = "National"
 subjects = [ "Sentro Rizal", "Cultural Heritage",]
 authors_raw = "Legarda, Loren B., Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2024-08-14"
 action = "Introduced by Senator LOREN B. LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-19"
 action = "Read on First Reading and Referred to the Committees on CULTURE AND THE ARTS; FOREIGN RELATIONS; WAYS AND MEANS and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-22"
 action = "Letter from Senator MARIA LOURDES NANCY S. BINAY dated August 21, 2024, conveying her intention to be a co-author of SBN-2784, received by LBIS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/19/2024"
+date = "2024-08-19"
 
 [[committees]]
 name = "Culture and the Arts"

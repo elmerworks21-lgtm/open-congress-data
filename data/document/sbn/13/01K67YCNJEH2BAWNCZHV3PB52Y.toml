@@ -1,8 +1,11 @@
 id = "01K67YCNJEH2BAWNCZHV3PB52Y"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00366"
+
+[meta]
 bill_number = 366
 congress = 13
-canonical = "SBN-00366"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-366", "https://web.senate.gov.ph/lisdata/1523818!.pdf",]
 title = "INCREASING THE MINIMUM SALARY OF NBI AGENTS TO 10 THOUSAND"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT INCREASING THE MINIMUM SALARY OF NATIONAL BUREAU OF INVESTI
 scope = "National"
 subjects = [ "National Bureau of Investigation (NBI)", "Salary Increase (Nbi Agents)", "Salary Standardization Law Exemption",]
 authors_raw = "Osmena III, Sergio R."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator SERGE OSME¥A;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-09"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/9/2004"
+date = "2004-08-09"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

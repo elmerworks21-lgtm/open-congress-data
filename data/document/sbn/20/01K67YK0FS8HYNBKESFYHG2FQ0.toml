@@ -1,8 +1,11 @@
 id = "01K67YK0FS8HYNBKESFYHG2FQ0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01165"
+
+[meta]
 bill_number = 1165
 congress = 20
-canonical = "SBN-01165"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1165", "https://web.senate.gov.ph/lisdata/4775143773!.pdf",]
 title = "PHILIPPINE IMMIGRATION ACT"
 date_filed = "2025-08-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT MODERNIZING THE IMMIGRATION SYSTEM IN THE PHILIPPINES, REPE
 scope = "National"
 subjects = [ "Philippine Immigration",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-08-07"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-09-10"
 action = "Read on First Reading and Referred to the Committees on JUSTICE AND HUMAN RIGHTS; CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/10/2025"
+date = "2025-09-10"
 
 [[committees]]
 name = "Justice and Human Rights"

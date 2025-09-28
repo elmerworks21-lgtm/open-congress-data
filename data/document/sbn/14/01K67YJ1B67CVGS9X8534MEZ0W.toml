@@ -1,8 +1,11 @@
 id = "01K67YJ1B67CVGS9X8534MEZ0W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00931"
+
+[meta]
 bill_number = 931
 congress = 14
-canonical = "SBN-00931"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-931", "https://web.senate.gov.ph/lisdata/51904557!.pdf",]
 title = "COMPULSORY CLOSED-CAPTION TELEVISION/VIDEO PROGRAMS FOR HEARING-IMPAIRED VIEWERS"
 date_filed = "2007-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING ALL FRANCHISE HOLDERS OR OPERATORS OF TELEVISION 
 scope = "National"
 subjects = [ "Closed-Caption Tv and Video Programs",]
 authors_raw = "Legarda, Loren B."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-04"
 action = "Introduced by Senator LOREN LEGARDA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee on PUBLIC INFORMATION AND MASS MEDIA;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Public Information and Mass Media"

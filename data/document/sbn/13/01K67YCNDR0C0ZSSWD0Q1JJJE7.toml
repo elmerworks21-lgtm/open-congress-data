@@ -1,8 +1,11 @@
 id = "01K67YCNDR0C0ZSSWD0Q1JJJE7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00111"
+
+[meta]
 bill_number = 111
 congress = 13
-canonical = "SBN-00111"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-111", "https://web.senate.gov.ph/lisdata/1239986!.pdf",]
 title = "EMERGENCY RESPONSE EMPLOYEES DISEASE PROTECTION ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROVIDE FOR A STUDY AND FOR DEMONSTRATION PROJECTS REGAR
 scope = "National"
 subjects = [ "Emergency Response Employees Disease", "Employees (Hepatitis C /Disease)", "Firefighters/Paramedics/Medical Tech.",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator LUISA 'LOI' P. EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-07-28"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY; LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/28/2004"
+date = "2004-07-28"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,25 +1,29 @@
 id = "01K67YJ2EZAM6A3SCAHVX1KEW2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02285"
+
+[meta]
 bill_number = 2285
 congress = 14
-canonical = "SBN-02285"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2285", "https://web.senate.gov.ph/lisdata/73486563!.pdf",]
 title = "UNFAIR AND UNETHICAL LOBBYING PRACTICES"
 date_filed = "2008-05-15"
 long_title = "AN ACT AMENDING SECTION 2 OF REPUBLIC ACT NO. 1827 SO AS TO IMPOSE HIGHER PENALTIES FOR THOSE ENGAGED IN UNFAIR AND UNETHICAL LOBBYING PRACTICES"
 scope = "National"
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2008-05-15"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES IV;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-05-19"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE AND GOVERNMENT REORGANIZATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/19/2008"
+date = "2008-05-19"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

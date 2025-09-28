@@ -1,8 +1,11 @@
 id = "01K67YJJJAD3KRXE3FN913NYTN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01893"
+
+[meta]
 bill_number = 1893
 congress = 17
-canonical = "SBN-01893"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1893", "https://web.senate.gov.ph/lisdata/2819224456!.pdf",]
 title = "ANTI-PREMATURE CAMPAIGNING ACT OF 2018"
 date_filed = "2018-07-30"
@@ -10,29 +13,30 @@ long_title = "AN ACT REDEFINING THE PROHIBITED ACT OF PREMATURE CAMPAIGNING, ACC
 scope = "National"
 subjects = [ "Anti-Premature Campaigning", "Omnibus Election Code (Batas Pambansa Blg. 881)", "Elections/Electoral Reforms",]
 authors_raw = "De Lima, Leila M."
-[[legislative_history]]
+
+[[history]]
 date = "2018-07-30"
 action = "Introduced by Senator LEILA M. DE LIMA;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-07-30"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-09"
 action = "Returned and submitted by the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION per Committee Report No. 492, recommending that it be substituted by SBN-2064;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-10"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-10-10"
 action = "SUBSTITUTED BY SBN-2064 UNDER COMMITTEE REPORT NO. 492."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/10/2018"
+date = "2018-10-10"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

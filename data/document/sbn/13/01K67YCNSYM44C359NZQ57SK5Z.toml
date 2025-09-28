@@ -1,8 +1,11 @@
 id = "01K67YCNSYM44C359NZQ57SK5Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00791"
+
+[meta]
 bill_number = 791
 congress = 13
-canonical = "SBN-00791"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-791", "https://web.senate.gov.ph/lisdata/19811421!.pdf",]
 title = "RIGHT TO TRAVEL ACT"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "THE RIGHT TO TRAVEL ACT"
 scope = "National"
 subjects = [ "Right to Travel Act",]
 authors_raw = "Villar Jr., Manuel B."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator VILLAR JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-23"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/23/2004"
+date = "2004-08-23"
 
 [[committees]]
 name = "Justice and Human Rights"

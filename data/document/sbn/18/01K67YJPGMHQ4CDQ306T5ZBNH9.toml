@@ -1,8 +1,11 @@
 id = "01K67YJPGMHQ4CDQ306T5ZBNH9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00194"
+
+[meta]
 bill_number = 194
 congress = 18
-canonical = "SBN-00194"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-194", "https://web.senate.gov.ph/lisdata/3037427175!.pdf",]
 title = "THE HOMELAND SECURITY ACT"
 date_filed = "2019-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO ESTABLISH THE DEPARTMENT OF HOMELAND SECURITY, AND FOR O
 scope = "National"
 subjects = [ "Homeland Security",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-24"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-03"
 action = "(Pursuant to Adopted Resolution No. 9: Merging of the Committee on National Defense and Security; and the Committee on Peace, Unification and Reconciliation, SBN-194 shall now be referred to the Committee on NATIONAL DEFENSE AND SECURITY, PEACE, UNIFICATION AND RECONCILIATION)"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/24/2019"
+date = "2019-07-24"
 
 [[committees]]
 name = "National Defense and Security, Peace, Unification and Reconciliation"

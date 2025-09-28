@@ -1,8 +1,11 @@
 id = "01K67YJ7DWD6R9RJB7Y10QT48W"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00318"
+
+[meta]
 bill_number = 318
 congress = 15
-canonical = "SBN-00318"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-318", "https://web.senate.gov.ph/lisdata/77056427!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS PENSION FUND ACT OF 2010"
 date_filed = "2010-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING THE OVERSEAS FILIPINO WORKERS PENSION AND APPROPRI
 scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2010-07-06"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-08-03"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT; BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/3/2010"
+date = "2010-08-03"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

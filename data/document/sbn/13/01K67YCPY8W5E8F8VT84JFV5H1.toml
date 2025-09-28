@@ -1,8 +1,11 @@
 id = "01K67YCPY8W5E8F8VT84JFV5H1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02633"
+
+[meta]
 bill_number = 2633
 congress = 13
-canonical = "SBN-02633"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2633", "https://web.senate.gov.ph/lisdata/71535810!.pdf",]
 title = "ANIMAL WELFARE ACT (AMENDMENTS)"
 date_filed = "2007-06-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8485, ALSO KNOWN AS THE ANIMAL WE
 scope = "National"
 subjects = [ "Animal Welfare Act (R.A.No. 8485)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-04"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-06-05"
 action = "Read on First Reading and Referred to the Committee on AGRICULTURE AND FOOD;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/5/2007"
+date = "2007-06-05"
 
 [[committees]]
 name = "Agriculture and Food"

@@ -1,8 +1,11 @@
 id = "01K67YJ9746YDCGB50EPZM9R8H"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02828"
+
+[meta]
 bill_number = 2828
 congress = 15
-canonical = "SBN-02828"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2828", "https://web.senate.gov.ph/lisdata/112659576!.pdf",]
 title = "GOVERNMENT TEACHERS HOSPITALIZATION BENEFIT ACT OF 2011"
 date_filed = "2011-05-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT GRANTING FREE HOSPITALIZATION BENEFITS IN GOVERNMENT HOSPIT
 scope = "National"
 subjects = [ "Teachers",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2011-05-17"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-05-18"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/18/2011"
+date = "2011-05-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

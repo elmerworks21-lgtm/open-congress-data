@@ -1,8 +1,11 @@
 id = "01K67YJ8T70T37VGYENG52NNQ1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02494"
+
+[meta]
 bill_number = 2494
 congress = 15
-canonical = "SBN-02494"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2494", "https://web.senate.gov.ph/lisdata/101228668!.pdf",]
 title = "POOR LITIGANTS EQUALIZATION ACT"
 date_filed = "2010-09-09"
@@ -10,37 +13,38 @@ long_title = "AN ACT EXEMPTING POOR LITIGANTS WHO ARE FILIPINO CITIZENS FROM POS
 scope = "National"
 subjects = [ "Poor Litigants",]
 authors_raw = "Revilla Jr., Ramon A., Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2010-09-09"
 action = "Introduced by Senator RAMON A. REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-09-27"
 action = "Read on First Reading and Referred to the Committee on JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2010-10-13"
 action = "Senator FRANCIS 'CHIZ' G. ESCUDERO was made coauthor;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-07-31"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-19"
 action = "Returned and submitted by the Committee on JUSTICE AND HUMAN RIGHTS per Committee Report No. 405, recommending that it be considered in HBN-5395;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-19"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-19"
 action = "CONSIDERED IN HBN-5395, under Committee Report No. 405."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/19/2012"
+date = "2012-09-19"
 
 [[committees]]
 name = "Justice and Human Rights"

@@ -1,24 +1,28 @@
 id = "01K67YKWNFTSSNXCR0MZE82X2S"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05301"
+
+[meta]
 bill_number = 5301
 congress = 14
-canonical = "HBN-05301"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5301", "https://web.senate.gov.ph/lisdata/94408546!.pdf",]
 title = "BAYOMBONG-ABATAN NATIONAL ROAD (BENGUET)"
 long_title = "AN ACT CONVERTING THE ROAD WHICH STARTS FROM BAYOMBONG TO THE MUNICIPALITY OF AMBAGUIO, PROVINCE OF NUEVA VIZCAYA AND TRAVERSES THE MUNICIPALITIES OF ASIPULO, KIANGAN AND TINOC, PROVINCE OF IFUGAO AND ENDS IN ABATAN IN THE MUNICIPALITY OF BUGUIAS, PROVINCE OF BENGUET INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion Into a National Road",]
-[[legislative_history]]
+
+[[history]]
 date = "2008-11-20"
 action = "Filed in the Senate requesting for concurrence by Representatives SOLOMON R. CHUNGALAO, CARLOS M. PADILLA and SAMUEL M. DANGWA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2008-11-25"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/25/2008"
+date = "2008-11-25"
 
 [[committees]]
 name = "Public Works"

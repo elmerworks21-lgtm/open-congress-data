@@ -1,8 +1,11 @@
 id = "01K67YJW6K7N9M9N3VY6E3SHEQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01878"
+
+[meta]
 bill_number = 1878
 congress = 19
-canonical = "SBN-01878"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1878", "https://web.senate.gov.ph/lisdata/4075137134!.pdf",]
 title = "HERMANO PULI DAY ACT"
 date_filed = "2023-02-14"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO DESIGNATE THE FOURTH (4TH) DAY OF NOVEMBER OF EVERY YEAR
 scope = "Local"
 subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2023-02-14"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-02-15"
 action = "Read on First Reading and Referred to the Committee on LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-12"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/15/2023"
+date = "2023-02-15"
 
 [[committees]]
 name = "Local Government"

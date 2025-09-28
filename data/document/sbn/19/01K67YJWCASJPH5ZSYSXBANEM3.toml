@@ -1,8 +1,11 @@
 id = "01K67YJWCASJPH5ZSYSXBANEM3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02122"
+
+[meta]
 bill_number = 2122
 congress = 19
-canonical = "SBN-02122"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2122", "https://web.senate.gov.ph/lisdata/4150137788!.pdf",]
 title = "WASTE WORKERS' HEALTH AND WELFARE ACT OF 2023"
 date_filed = "2023-05-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING THE WASTE WORKERS' HEALTH AND WELFARE PROGRAM,
 scope = "National"
 subjects = [ "Workers Health and Wellness", "Waste (Sewage Sludge/Industrial Waste)",]
 authors_raw = "Villar, Mark A."
-[[legislative_history]]
+
+[[history]]
 date = "2023-05-03"
 action = "Introduced by Senator MARK A. VILLAR;"
 
-[[legislative_history]]
+[[history]]
 date = "2023-05-10"
 action = "Read on First Reading and Referred to the Committee(s) on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/10/2023"
+date = "2023-05-10"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

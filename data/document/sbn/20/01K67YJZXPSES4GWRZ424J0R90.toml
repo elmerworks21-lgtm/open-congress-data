@@ -1,8 +1,11 @@
 id = "01K67YJZXPSES4GWRZ424J0R90"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00201"
+
+[meta]
 bill_number = 201
 congress = 20
-canonical = "SBN-00201"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-201", "https://web.senate.gov.ph/lisdata/4667842683!.pdf",]
 title = "AMENDING R.A. NO. 7941 (PARTYLIST SYSTEM ACT)"
 date_filed = "2025-07-07"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7941, OTHERWISE KNOWN AS THE 'PAR
 scope = "National"
 subjects = [ "Partylist System (R.A. No. 7941)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-07"
 action = "Introduced by Senator RONALD 'BATO' DELA ROSA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-04"
 action = "Read on First Reading and Referred to the Committee on ELECTORAL REFORMS AND PEOPLES PARTICIPATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/4/2025"
+date = "2025-08-04"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

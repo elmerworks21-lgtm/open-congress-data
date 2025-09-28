@@ -1,8 +1,11 @@
 id = "01K67YJHAWHYSPKFSCFP864EZ1"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00280"
+
+[meta]
 bill_number = 280
 congress = 17
-canonical = "SBN-00280"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-280", "https://web.senate.gov.ph/lisdata/2371720362!.pdf",]
 title = "EDUCATION TRUST FUND ACT"
 date_filed = "2016-07-04"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING AN EDUCATION TRUST FUND FOR GRANTEES OF GSIS A
 scope = "National"
 subjects = [ "Education Trust Fund", "Government Service Insurance System (GSIS)", "Social Security System (SSS)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-04"
 action = "Introduced by Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES; EDUCATION, ARTS AND CULTURE; and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2016"
+date = "2016-08-02"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

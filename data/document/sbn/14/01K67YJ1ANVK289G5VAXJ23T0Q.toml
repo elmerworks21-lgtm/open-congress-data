@@ -1,8 +1,11 @@
 id = "01K67YJ1ANVK289G5VAXJ23T0Q"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00907"
+
+[meta]
 bill_number = 907
 congress = 14
-canonical = "SBN-00907"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-907", "https://web.senate.gov.ph/lisdata/51654533!.pdf",]
 title = "PENSIONADO ACT OF 2007"
 date_filed = "2007-07-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT CREATING AN ADVANCED STUDIES DEVELOPMENT PROGRAM FOR EXCEPT
 scope = "National"
 subjects = [ "Pensionado Act",]
 authors_raw = "Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-07-03"
 action = "Introduced by Senator EDGARDO J. ANGARA;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-04"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/4/2007"
+date = "2007-09-04"
 
 [[committees]]
 name = "Education, Arts and Culture"

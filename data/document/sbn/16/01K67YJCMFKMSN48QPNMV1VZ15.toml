@@ -1,8 +1,11 @@
 id = "01K67YJCMFKMSN48QPNMV1VZ15"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00541"
+
+[meta]
 bill_number = 541
 congress = 16
-canonical = "SBN-00541"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-541", "https://web.senate.gov.ph/lisdata/1644313684!.pdf",]
 title = "CREATING THE LOCAL HOUSING BOARD"
 date_filed = "2013-07-08"
@@ -10,37 +13,38 @@ long_title = "AN ACT CREATING THE LOCAL HOUSING BOARD AND AMENDING SECTIONS 447 
 scope = "National"
 subjects = [ "Local Housing Board", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-08"
 action = "Introduced by Senator JINGGOY P. EJERCITO-ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-11-27"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-10-08"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-03"
 action = "Returned and submitted jointly by the Committee(s) on URBAN PLANNING, HOUSING AND RESETTLEMENT and LOCAL GOVERNMENT per Committee Report No. 98, recommending that it be substituted by SBN-2626;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-04"
 action = "SUBSTITUTED BY SBN-2626 UNDER C.R. NO. 98."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "2/4/2015"
+date = "2015-02-04"
 
 [[committees]]
 name = "Urban Planning, Housing and Resettlement"

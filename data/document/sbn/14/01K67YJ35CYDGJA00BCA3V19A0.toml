@@ -1,8 +1,11 @@
 id = "01K67YJ35CYDGJA00BCA3V19A0"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03274"
+
+[meta]
 bill_number = 3274
 congress = 14
-canonical = "SBN-03274"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3274", "https://web.senate.gov.ph/lisdata/1135110016!.pdf",]
 title = "CLIMATE CHANGE ACT OF 2009"
 date_filed = "2009-05-25"
@@ -10,17 +13,18 @@ long_title = "AN ACT MAINSTREAMING CLIMATE CHANGE INTO GOVERNMENT POLICY FORMULA
 scope = "National"
 subjects = [ "Climate Change",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-25"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-26"
 action = "Read on First Reading and Referred to the Committee(s) on CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/26/2009"
+date = "2009-05-26"
 
 [[committees]]
 name = "Oversight Committee on Climate Change"

@@ -1,8 +1,11 @@
 id = "01K67YCNVP9EQ93XSWMFA0BHQ2"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00890"
+
+[meta]
 bill_number = 890
 congress = 13
-canonical = "SBN-00890"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-890", "https://web.senate.gov.ph/lisdata/20881578!.pdf",]
 title = "GENERIC ACT (AMENDMENT CREATING THE 'GENERIC BOARD')"
 date_filed = "2004-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT FURTHER ENSURING THE USE OF THE GENERIC NAMES IN THE MANUFA
 scope = "National"
 subjects = [ "Generic Act (RA 6675, Generic Board)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-08-30"
 action = "Read on First Reading and referred to the Committee(s) on HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/30/2004"
+date = "2004-08-30"
 
 [[committees]]
 name = "Health and Demography"

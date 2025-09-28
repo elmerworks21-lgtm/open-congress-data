@@ -1,8 +1,11 @@
 id = "01K67YK02MY96ZHHAXWRK4P4WQ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00465"
+
+[meta]
 bill_number = 465
 congress = 20
-canonical = "SBN-00465"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-465", "https://web.senate.gov.ph/lisdata/4698342985!.pdf",]
 title = "NARS PARA SA BAYAN ACT"
 date_filed = "2025-07-14"
@@ -10,17 +13,18 @@ long_title = "AN ACT ESTABLISHING A NURSING SCHOLARSHIP AND RETURN SERVICE PROGR
 scope = "National"
 subjects = [ "Nursing Scholarship and Return Service Program", "Nurses/Nursing", "Scholarship Grants",]
 authors_raw = "Ejercito Estrada, Jinggoy"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-14"
 action = "Introduced by Senator JINGGOY EJERCITO ESTRADA;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-13"
 action = "Read on First Reading and Referred to the Committees on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION; HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2025"
+date = "2025-08-13"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

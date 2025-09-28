@@ -1,8 +1,11 @@
 id = "01K67YJDG9WTF5MEGJJNY7Z9CB"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01896"
+
+[meta]
 bill_number = 1896
 congress = 16
-canonical = "SBN-01896"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1896", "https://web.senate.gov.ph/lisdata/1813215377!.pdf",]
 title = "SCHOOL FEES REGULATION ACT OF 2013"
 date_filed = "2013-11-04"
@@ -10,21 +13,22 @@ long_title = "AN ACT AMENDING SECTION 42 OF BATAS PAMBANSA BLG. 232, OTHERWISE K
 scope = "National"
 subjects = [ "Tuition Fees",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2013-11-04"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-11-18"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-02-13"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "11/18/2013"
+date = "2013-11-18"
 
 [[committees]]
 name = "Education, Arts and Culture"

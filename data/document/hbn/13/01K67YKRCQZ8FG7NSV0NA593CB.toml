@@ -1,24 +1,28 @@
 id = "01K67YKRCQZ8FG7NSV0NA593CB"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05872"
+
+[meta]
 bill_number = 5872
 congress = 13
-canonical = "HBN-05872"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5872", "https://web.senate.gov.ph/lisdata/67525538!.pdf",]
 title = "TOLOSA COMPREHENSIVE NATIONAL HIGH SCHOOL (LEYTE)"
 long_title = "AN ACT CONVERTING THE TOLOSA NATIONAL HIGH SCHOOL IN BARANGAY MAILBOG, MUNICIPALITY OF TOLOSA, PROVINCE OF LEYTE INTO A COMPREHENSIVE NATIONAL HIGH SCHOOL TO BE KNOWN AS THE TOLOSA COMPREHENSIVE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion (Leyte)", "Tolosa Comprehensive National High School (Leyte)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-24"
 action = "Filed in the Senate requesting for concurrence by Representatives REMEDIOS 'MATIN' L. PETILLA, JOSE CARLOS V. LACSON, JOEY SARTE SALCEDA and MARY ANN L. SUSANO;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-01-29"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/29/2007"
+date = "2007-01-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

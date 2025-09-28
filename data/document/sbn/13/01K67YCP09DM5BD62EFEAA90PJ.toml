@@ -1,8 +1,11 @@
 id = "01K67YCP09DM5BD62EFEAA90PJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01129"
+
+[meta]
 bill_number = 1129
 congress = 13
-canonical = "SBN-01129"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1129", "https://web.senate.gov.ph/lisdata/23351622!.pdf",]
 title = "FOREIGN CONSULTANTS IDENTITY DISCLOSURE ACT"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT REQUIRING ALL BRANCHES, SUBDIVISIONS, INSTRUMENTALITIES, AN
 scope = "National"
 subjects = [ "Foreign Consultants Identity Disclosure",]
 authors_raw = "Pimentel Jr., Aquilino Q."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-06-07"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Civil Service and Government Reorganization"

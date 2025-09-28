@@ -1,8 +1,11 @@
 id = "01K67YJPZ95QM38QBMCMCXF5PF"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00869"
+
+[meta]
 bill_number = 869
 congress = 18
-canonical = "SBN-00869"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-869", "https://web.senate.gov.ph/lisdata/3125628154!.pdf",]
 title = "POSTPONING THE MAY 2020 BARANGAY AND SANGGUNIANG KABATAAN ELECTIONS"
 date_filed = "2019-08-06"
@@ -10,33 +13,34 @@ long_title = "AN ACT POSTPONING THE OCTOBER 2020 BARANGAY AND SANGGUNIANG KABATA
 scope = "National"
 subjects = [ "Barangay Elections", "Sk Elections",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2019-08-06"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-19"
 action = "Read on First Reading and Referred to the Committee(s) on ELECTORAL REFORMS AND PEOPLES PARTICIPATION; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-11"
 action = "Returned and submitted jointly by the Committee(s) on ELECTORAL REFORMS AND PEOPLES PARTICIPATION, LOCAL GOVERNMENT and FINANCE per Committee Report No. 4, recommending that it be substituted by SBN-1043;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-17"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-17"
 action = "SUBSTITUTED BY SBY-1043 UNDER COMMITTEE REPORT NO. 4, WHICH BECAME R.A. NO. 11462 ON DECEMBER 3, 2019."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "9/17/2019"
+date = "2019-09-17"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

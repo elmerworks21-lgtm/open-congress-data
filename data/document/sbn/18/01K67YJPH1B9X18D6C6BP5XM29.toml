@@ -1,8 +1,11 @@
 id = "01K67YJPH1B9X18D6C6BP5XM29"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00210"
+
+[meta]
 bill_number = 210
 congress = 18
-canonical = "SBN-00210"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-210", "https://web.senate.gov.ph/lisdata/3046827346!.pdf",]
 title = "NATIONAL TEACHERS MEDICAL CENTER ACT"
 date_filed = "2019-07-02"
@@ -10,21 +13,22 @@ long_title = "AN ACT ESTABLISHING A SPECIAL HOSPITAL FOR TEACHERS AND THEIR DEPE
 scope = "National"
 subjects = [ "Public School Teachers", "Hospitals, Conversion",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-02"
 action = "Introduced by Senator FRANCIS 'TOL' N. TOLENTINO;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY; EDUCATION, ARTS AND CULTURE; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-28"
 action = "The Committee on Education, Arts and Culture was removed as a secondary committee;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Health and Demography"

@@ -1,8 +1,11 @@
 id = "01K67YJR2V1CNCSKEHHNZC561T"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02337"
+
+[meta]
 bill_number = 2337
 congress = 18
-canonical = "SBN-02337"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2337", "https://web.senate.gov.ph/lisdata/3567632265!.pdf",]
 title = "NARURON FALLS ECOTOURISM SITE ACT"
 date_filed = "2021-07-27"
@@ -10,17 +13,18 @@ long_title = "AN ACT DECLARING NARURON FALLS LOCATED IN BARANGAY OYAO, MUNICIPAL
 scope = "National"
 subjects = [ "Ecotourism Sites",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-07-27"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-08-02"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/2/2021"
+date = "2021-08-02"
 
 [[committees]]
 name = "Tourism"

@@ -1,8 +1,11 @@
 id = "01K67YJCXYRFYW0DG1CWK7389K"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01000"
+
+[meta]
 bill_number = 1000
 congress = 16
-canonical = "SBN-01000"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1000", "https://web.senate.gov.ph/lisdata/1706914283!.pdf",]
 title = "THE SANITARIANS PROFESSIONALIZATION ACT"
 date_filed = "2013-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING FOR THE REGULATION, SUPERVISION AND PROFESSIONALI
 scope = "National"
 subjects = [ "Sanitarians",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-22"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-14"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE AND GOVERNMENT REORGANIZATION; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/14/2013"
+date = "2013-08-14"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

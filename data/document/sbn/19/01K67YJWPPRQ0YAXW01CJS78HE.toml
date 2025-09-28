@@ -1,8 +1,11 @@
 id = "01K67YJWPPRQ0YAXW01CJS78HE"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02537"
+
+[meta]
 bill_number = 2537
 congress = 19
-canonical = "SBN-02537"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2537", "https://web.senate.gov.ph/lisdata/4342139504!.pdf",]
 title = "AMENDING SECTIONS 33 AND 34 OF R. A. NO. 8495 (THE PHILIPPINE MECHANICAL ENGINEERING ACT )"
 date_filed = "2024-02-07"
@@ -10,21 +13,22 @@ long_title = "AN ACT STRENGTHENING THE MECHANICAL ENGINEERING PROFESSION, AMENDI
 scope = "National"
 subjects = [ "Mechanical Engineering Profession",]
 authors_raw = "Go, Christopher Lawrence T."
-[[legislative_history]]
+
+[[history]]
 date = "2024-02-07"
 action = "Introduced by Senator CHRISTOPHER LAWRENCE T. GO;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-02-12"
 action = "Read on First Reading and Referred to the Committee on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-04-23"
 action = "Conducted CONSULTATION/OCULAR;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/7/2024"
+date = "2024-02-07"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

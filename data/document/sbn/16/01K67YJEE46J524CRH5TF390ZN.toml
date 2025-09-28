@@ -1,8 +1,11 @@
 id = "01K67YJEE46J524CRH5TF390ZN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02970"
+
+[meta]
 bill_number = 2970
 congress = 16
-canonical = "SBN-02970"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2970", "https://web.senate.gov.ph/lisdata/2231519029!.pdf",]
 title = "AMENDING SECS 24 & 35, NIRC"
 date_filed = "2015-09-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 24 & 35 OF NATIONAL INTERNAL REVENUE CODE 
 scope = "National"
 subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income Tax)",]
 authors_raw = "Ejercito, Joseph Victor G."
-[[legislative_history]]
+
+[[history]]
 date = "2015-09-28"
 action = "Introduced by Senator JOSEPH VICTOR G. EJERCITO;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-09-29"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/29/2015"
+date = "2015-09-29"
 
 [[committees]]
 name = "Ways and Means"

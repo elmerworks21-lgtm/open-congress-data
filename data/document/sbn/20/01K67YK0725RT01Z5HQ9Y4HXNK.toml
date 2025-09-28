@@ -1,8 +1,11 @@
 id = "01K67YK0725RT01Z5HQ9Y4HXNK"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00701"
+
+[meta]
 bill_number = 701
 congress = 20
-canonical = "SBN-00701"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-701", "https://web.senate.gov.ph/lisdata/4722643226!.pdf",]
 title = "INDIGENT JOB APPLICANTS DISCOUNT ACT"
 date_filed = "2025-07-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING DISCOUNT FOR INDIGENT JOB APPLICANTS IN THE PAYME
 scope = "National"
 subjects = [ "Job Applicants", "Indigent Jobseekers",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-17"
 action = "Introduced by Senator MANUEL 'LITO' M. LAPID;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-08-20"
 action = "Read on First Reading and Referred to the Committees on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT and SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/20/2025"
+date = "2025-08-20"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

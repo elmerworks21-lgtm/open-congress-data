@@ -1,8 +1,11 @@
 id = "01K67YCP49FJFG2PT60XPVSFR9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01345"
+
+[meta]
 bill_number = 1345
 congress = 13
-canonical = "SBN-01345"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1345", "https://web.senate.gov.ph/lisdata/25511924!.pdf",]
 title = "BUSINESS ESTABLISHMENTS TO SET UP CONSUMER WELFARE DESKS"
 date_filed = "2004-07-06"
@@ -10,17 +13,18 @@ long_title = "AN ACT REQUIRING BUSINESS ESTABLISHMENTS NATIONWIDE TO SET UP CONS
 scope = "National"
 subjects = [ "Consumer Welfare Desks (CWDS)", "Complaints-Handling Program", "Business Establishments",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2004-07-06"
 action = "Introduced by Senator RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-13"
 action = "Read on First Reading and referred to the Committee(s) on TRADE AND COMMERCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/13/2004"
+date = "2004-09-13"
 
 [[committees]]
 name = "Trade and Commerce"

@@ -1,8 +1,11 @@
 id = "01K67YJCE2QAHSM7Y7T34EP9W3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00230"
+
+[meta]
 bill_number = 230
 congress = 16
-canonical = "SBN-00230"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-230", "https://web.senate.gov.ph/lisdata/1607813316!.pdf",]
 title = "SEX OFFENDERS SCHOOL ACCESS PROHIBITION ACT OF 2013"
 date_filed = "2013-07-01"
@@ -10,21 +13,22 @@ long_title = "AN ACT TO PROTECT THE SAFETY, MORALS, AND WELL-BEING OF SCHOOL CHI
 scope = "National"
 subjects = [ "Sex Offenders",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-01"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and JUSTICE AND HUMAN RIGHTS;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-02-11"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2013"
+date = "2013-07-30"
 
 [[committees]]
 name = "Education, Arts and Culture"

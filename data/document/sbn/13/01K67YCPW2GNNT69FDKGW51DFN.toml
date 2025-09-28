@@ -1,8 +1,11 @@
 id = "01K67YCPW2GNNT69FDKGW51DFN"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02559"
+
+[meta]
 bill_number = 2559
 congress = 13
-canonical = "SBN-02559"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2559", "https://web.senate.gov.ph/lisdata/65425421!.pdf",]
 title = "FAMILY HOME (ESTATE TAX)"
 date_filed = "2006-12-13"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING SECTION 86 (A) (4) OF REPUBLIC ACT NO. 8424, AS AM
 scope = "National"
 subjects = [ "Family Home (Real Property Tax Exempt)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2006-12-13"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2006-12-13"
 action = "Read on First Reading and Referred to the Committee on WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "12/13/2006"
+date = "2006-12-13"
 
 [[committees]]
 name = "Ways and Means"

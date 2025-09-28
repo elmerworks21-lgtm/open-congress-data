@@ -1,8 +1,11 @@
 id = "01K67YJX291HWHBZFC7Z18Y04Z"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02943"
+
+[meta]
 bill_number = 2943
 congress = 19
-canonical = "SBN-02943"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2943", "https://web.senate.gov.ph/lisdata/4575341719!.pdf",]
 title = "AMENDING R.A.. NO. 9511 (GRANTING THE NATIONAL GRID CORPORATION OF THE PHILIPPINES A FRANCHISE)"
 date_filed = "2025-01-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9511, ENTITLED AN ACT GRANTING TH
 scope = "National"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2025-01-22"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-22"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and WAYS AND MEANS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/22/2025"
+date = "2025-01-22"
 
 [[committees]]
 name = "Public Services"

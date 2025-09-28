@@ -1,24 +1,28 @@
 id = "01K67YKQWSV98JEB5P9V6PZ268"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-04164"
+
+[meta]
 bill_number = 4164
 congress = 13
-canonical = "HBN-04164"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4164", "https://web.senate.gov.ph/lisdata/36733121!.pdf",]
 title = "HIGHWAY JUNCTON - STA. RITA NATIONAL ROAD (SAMAR)"
 long_title = "AN ACT CONVERTING THE HIGHWAY JUNCTION – STA. RITA PROVINCIAL ROAD IN THE MUNICIPALITY OF STA. RITA, PROVINCE OF SAMAR INTO A NATIONAL ROAD"
 scope = "Local"
 subjects = [ "Roads, Conversion (Samar)", "Highway Junction - Sta. Rita National Road (Samar)",]
-[[legislative_history]]
+
+[[history]]
 date = "2005-08-03"
 action = "Filed in the Senate requesting for concurrence by Representative CATALINO V. FIGUEROA as author;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-08-10"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/10/2005"
+date = "2005-08-10"
 
 [[committees]]
 name = "Public Works"

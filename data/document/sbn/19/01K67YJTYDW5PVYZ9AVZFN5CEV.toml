@@ -1,8 +1,11 @@
 id = "01K67YJTYDW5PVYZ9AVZFN5CEV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00108"
+
+[meta]
 bill_number = 108
 congress = 19
-canonical = "SBN-00108"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-108", "https://web.senate.gov.ph/lisdata/3781634257!.pdf",]
 title = "COMPREHENSIVE ANTI-DISCRIMINATION ACT"
 date_filed = "2022-07-07"
@@ -10,41 +13,42 @@ long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF AGE, INDIGENOUS,
 scope = "National"
 subjects = [ "Anti-Discrimination",]
 authors_raw = "Poe, Grace"
-[[legislative_history]]
+
+[[history]]
 date = "2022-07-07"
 action = "Introduced by Senator GRACE POE;"
 
-[[legislative_history]]
+[[history]]
 date = "2022-08-01"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and CULTURAL COMMUNITIES;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-05-08"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "Returned and submitted jointly by the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT, CULTURAL COMMUNITIES AND MUSLIM AFFAIRS and FINANCE per Committee Report No. 280, recommending that it be substituted by SBN-2766;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-08-06"
 action = "SUBSTITUTED BY SBN-2766 UNDER COMMITTEE REPORT NO. 280."
 
-[[legislative_history]]
+[[history]]
 date = "2024-06-20"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-16"
 action = "Conducted TECHNICAL WORKING GROUP;"
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/6/2024"
+date = "2024-08-06"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

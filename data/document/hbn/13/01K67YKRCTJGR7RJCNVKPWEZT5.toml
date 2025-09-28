@@ -1,28 +1,32 @@
 id = "01K67YKRCTJGR7RJCNVKPWEZT5"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05877"
+
+[meta]
 bill_number = 5877
 congress = 13
-canonical = "HBN-05877"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-5877", "https://web.senate.gov.ph/lisdata/68585629!.pdf",]
 title = "POLITICAL PARTY SYSTEM ACT OF 2007"
 long_title = "AN ACT STRENGTHENING THE POLITICAL PARTY SYSTEM AND PROVIDING FUNDS THEREFOR"
 scope = "National"
 subjects = [ "Political Party System (Strengthening)",]
-[[legislative_history]]
+
+[[history]]
 date = "2007-01-30"
 action = "Certified for immediate enactment by the President of the Philippines pursuant to the provisions of Art. VI, Sec. 26(2) of the 1987 Constitution; (See Journal, Session No. 62, February 5, 2007)"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-06"
 action = "Filed in the Senate requesting for concurrence by Representatives JOSE DE VENECIA, JR., RODRIGUEZ D. DADIVAS, et. al., as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-02-06"
 action = "Read on First Reading and referred to the Committee(s) on CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "2/6/2007"
+date = "2007-02-06"
 
 [[committees]]
 name = "Constitutional Amendments, Revision of Codes and Laws"

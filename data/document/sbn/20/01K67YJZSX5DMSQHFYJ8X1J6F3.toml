@@ -1,8 +1,11 @@
 id = "01K67YJZSX5DMSQHFYJ8X1J6F3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00010"
+
+[meta]
 bill_number = 10
 congress = 20
-canonical = "SBN-00010"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-10", "https://web.senate.gov.ph/lisdata/4648442487!.pdf",]
 title = "MOTORCYCLE-FOR-HIRE ACT"
 date_filed = "2025-07-02"
@@ -10,17 +13,18 @@ long_title = "AN ACT ALLOWING AND REGULATING THE USE OF MOTORCYCLES AS PUBLIC UT
 scope = "National"
 subjects = [ "Motorcycles-For-Hire",]
 authors_raw = "Ejercito, Jv"
-[[legislative_history]]
+
+[[history]]
 date = "2025-07-29"
 action = "Read on First Reading and Referred to the Committees on PUBLIC SERVICES and WAYS AND MEANS;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-07-02"
 action = "Introduced by Senator JV EJERCITO;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/29/2025"
+date = "2025-07-29"
 
 [[committees]]
 name = "Public Services"

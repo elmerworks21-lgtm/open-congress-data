@@ -1,26 +1,30 @@
 id = "01K67YM00BY2PHX5H74EY8Y9D6"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05309"
+
+[meta]
 bill_number = 5309
 congress = 15
-canonical = "HBN-05309"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=HBN-5309", "https://web.senate.gov.ph/lisdata/1566812976!.pdf",]
 title = "SPECIAL NONWORKING HOLIDAY (MUNICIPALITY OF APALIT, PROVINCE OF PAMPANGA)"
 long_title = "AN ACT DECLARING JUNE 28 AND 29 OF EVERY YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF APALIT, PROVINCE OF PAMPANGA TO COMMEMORATE THE FEAST OF ST. PETER THE APOSTLE"
 scope = "Local"
 subjects = [ "Holidays (Non-Working)",]
-[[legislative_history]]
+
+[[history]]
 date = "2013-02-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "Motion of Senator Sotto III that all listed in the Reference of Business deemed read and transmitted to the Archives."
 
-[[legislative_history]]
+[[history]]
 date = "2013-06-06"
 action = "SENT TO THE ARCHIVES."
 
 [[status]]
 status = "Sent to the Archives"
-date = "6/6/2013"
+date = "2013-06-06"
 

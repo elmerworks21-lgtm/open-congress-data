@@ -1,8 +1,11 @@
 id = "01K67YCP03KGN9YK2CWSSKBC30"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01119"
+
+[meta]
 bill_number = 1119
 congress = 13
-canonical = "SBN-01119"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1119", "https://web.senate.gov.ph/lisdata/23251600!.pdf",]
 title = "COOPERATIVE CODE OF THE PHILIPPINES (AMENDMENTS)"
 date_filed = "2004-06-30"
@@ -10,21 +13,22 @@ long_title = "AN ACT EXPANDING COUNTRYSIDE CREDIT THROUGH COOPERATIVE BANKS AND 
 scope = "National"
 subjects = [ "Countryside Credit (Expanding)", "Cooperative Code (RA 6938)",]
 authors_raw = "Pimentel Jr., Aquilino Q., Angara, Edgardo J."
-[[legislative_history]]
+
+[[history]]
 date = "2004-06-30"
 action = "Introduced by Senator PIMENTEL JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-07"
 action = "Read on First Reading and referred to the Committee(s) on BANKS, FINANCIAL INSTITUTIONS AND CURRENCIES; COOPERATIVES; WAYS AND MEANS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-08"
 action = "Senator Angara was made a coauthor on motion of Senator Flavier;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/7/2004"
+date = "2004-09-07"
 
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"

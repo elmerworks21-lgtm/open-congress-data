@@ -1,24 +1,28 @@
 id = "01K67YMDNF5VRR3SC2F5G2R1F1"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-10174"
+
+[meta]
 bill_number = 10174
 congress = 19
-canonical = "HBN-10174"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=HBN-10174", "https://web.senate.gov.ph/lisdata/4416240145!.pdf",]
 title = "DR. EVA MACARAEG-MACAPAGAL NATIONAL CENTER FOR GERIATRIC"
 long_title = "AN ACT CONVERTING THE DR. EVA MACARAEG-MACAPAGAL NATIONAL CENTER FOR GERIATRIC HEALTH UNDER THE JOSE R. REYES MEMORIAL MEDICAL CENTER AS THE DR. EVA MACARAEG-MACAPAGAL NATIONAL CENTER FOR GERIATRIC HEALTH AND RESEARCH INSTITUTE, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Geriatric Health",]
-[[legislative_history]]
+
+[[history]]
 date = "2024-05-22"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2024-07-31"
 action = "Read on First Reading and Referred to the Committees on HEALTH AND DEMOGRAPHY; WAYS AND MEANS and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2024"
+date = "2024-07-31"
 
 [[committees]]
 name = "Health and Demography"

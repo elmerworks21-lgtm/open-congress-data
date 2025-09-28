@@ -1,8 +1,11 @@
 id = "01K67YJDYXTKWKH0HAQYYBADB5"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02519"
+
+[meta]
 bill_number = 2519
 congress = 16
-canonical = "SBN-02519"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2519", "https://web.senate.gov.ph/lisdata/2032417431!.pdf",]
 title = "ADDING UNDER SEC. 4, RE GUIDE ANIIMALS THAT ASSIST PWDS TO COPE WITH THEIR SPECIFIC DISABILITIES"
 date_filed = "2014-12-17"
@@ -10,17 +13,18 @@ long_title = "AN ACT IMPROVING ACCESS OF PERSONS WITH DISABILITY TO PUBLIC AND P
 scope = "National"
 subjects = [ "Magna Carta for Disabled Persons", "Persons with Disabilities (PWDS)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
-[[legislative_history]]
+
+[[history]]
 date = "2014-12-17"
 action = "Introduced by Senator MARIA LOURDES NANCY S. BINAY;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-01-20"
 action = "Read on First Reading and Referred to the Committee(s) on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/20/2015"
+date = "2015-01-20"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

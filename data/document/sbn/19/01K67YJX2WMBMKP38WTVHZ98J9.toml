@@ -1,8 +1,11 @@
 id = "01K67YJX2WMBMKP38WTVHZ98J9"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02968"
+
+[meta]
 bill_number = 2968
 congress = 19
-canonical = "SBN-02968"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2968", "https://web.senate.gov.ph/lisdata/4584141832!.pdf",]
 title = "ASSISTANCE TO INDIVIDUALS IN CRISIS SITUATIONS (AICS) ACT"
 date_filed = "2025-01-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT INSTITUTIONALIZING THE ASSISTANCE TO INDIVIDUALS IN CRISIS 
 scope = "National"
 subjects = [ "Assistance to Individuals in Crises Situation (AICS)", "Department of Social Welfare and Development (DSWD)",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
-[[legislative_history]]
+
+[[history]]
 date = "2025-01-28"
 action = "Introduced by Senator AQUILINO 'KOKO' PIMENTEL III;"
 
-[[legislative_history]]
+[[history]]
 date = "2025-01-28"
 action = "Read on First Reading and Referred to the Committees on SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "1/28/2025"
+date = "2025-01-28"
 
 [[committees]]
 name = "Social Justice, Welfare and Rural Development"

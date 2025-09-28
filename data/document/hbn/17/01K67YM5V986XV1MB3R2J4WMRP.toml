@@ -1,48 +1,52 @@
 id = "01K67YM5V986XV1MB3R2J4WMRP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05078"
+
+[meta]
 bill_number = 5078
 congress = 17
-canonical = "HBN-05078"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5078", "https://web.senate.gov.ph/lisdata/2588222242!.pdf",]
 title = "LANAO DEL NORTE FIRST DISTRICT ENGINEERING OFFICE"
 long_title = "AN ACT RECONSTITUTING THE LANAO DEL NORTE DISTRICT ENGINEERING OFFICE IN THE PROVINCE OF LANAO DEL NORTE INTO TWO (2) REGULAR DISTRICT ENGINEERING OFFICES AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Engineering District Office",]
-[[legislative_history]]
+
+[[history]]
 date = "2017-05-04"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-05-08"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC WORKS; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-09-04"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-08-30"
 action = "Submitted jointly by the Committee(s) on PUBLIC WORKS; and FINANCE per Committee Report No. 429, recommending its approval without amendment;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-04"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-04"
 action = "Sponsor: Senator EMMANUEL 'MANNY' D. PACQUIAO;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-19"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-09-19"
 action = "Omnibus Sponsorship speech of Senator EMMANUEL 'MANNY' D. PACQUIAO on Public Works bills: HBNos. 5299, 5078, 4895, 5407 and 5438;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "9/19/2018"
+date = "2018-09-19"
 
 [[committees]]
 name = "Public Works"

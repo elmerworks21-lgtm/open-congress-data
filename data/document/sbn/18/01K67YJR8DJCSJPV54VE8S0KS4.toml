@@ -1,8 +1,11 @@
 id = "01K67YJR8DJCSJPV54VE8S0KS4"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02418"
+
+[meta]
 bill_number = 2418
 congress = 18
-canonical = "SBN-02418"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2418", "https://web.senate.gov.ph/lisdata/3640832832!.pdf",]
 title = "ISABELA TOURISM COUNCIL"
 date_filed = "2021-09-28"
@@ -10,17 +13,18 @@ long_title = "AN ACT IDENTIFYING TOURISM DEVELOPMENT AREAS IN THE PROVINCE OF IS
 scope = "Local"
 subjects = [ "Tourism Development Area (TDA)",]
 authors_raw = "Marcos, Imee R."
-[[legislative_history]]
+
+[[history]]
 date = "2021-09-28"
 action = "Introduced by Senator IMEE R. MARCOS;"
 
-[[legislative_history]]
+[[history]]
 date = "2021-09-28"
 action = "Read on First Reading and Referred to the Committees on TOURISM; ENVIRONMENT, NATURAL RESOURCES AND CLIMATE CHANGE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/28/2021"
+date = "2021-09-28"
 
 [[committees]]
 name = "Tourism"

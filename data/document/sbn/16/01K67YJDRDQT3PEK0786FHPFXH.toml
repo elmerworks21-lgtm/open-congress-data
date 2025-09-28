@@ -1,8 +1,11 @@
 id = "01K67YJDRDQT3PEK0786FHPFXH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02265"
+
+[meta]
 bill_number = 2265
 congress = 16
-canonical = "SBN-02265"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2265", "https://web.senate.gov.ph/lisdata/1923216356!.pdf",]
 title = "PAGASA MODERNIZATION ACT"
 date_filed = "2014-06-02"
@@ -10,29 +13,30 @@ long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE, ATMOSPHE
 scope = "National"
 subjects = [ "Pagasa (Philippine Atmospheric, Geophysical and Astronomical Services Administration)",]
 authors_raw = "Drilon, Franklin M."
-[[legislative_history]]
+
+[[history]]
 date = "2014-06-02"
 action = "Introduced by Senator FRANKLIN M. DRILON;"
 
-[[legislative_history]]
+[[history]]
 date = "2014-06-02"
 action = "Read on First Reading and Referred to the Committee(s) on SCIENCE AND TECHNOLOGY; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-09"
 action = "Returned and submitted jointly by the Committee(s) on SCIENCE AND TECHNOLOGY and FINANCE per Committee Report No. 176, recommending that it be substituted by SBN-2834;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-09"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2015-06-09"
 action = "SUBSTITUTED BY SBN-2834 UNDER C.R. NO. 176, WHICH BECAME R.A.NO. 10692 ON NOVEMBER 3, 2015."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "6/9/2015"
+date = "2015-06-09"
 
 [[committees]]
 name = "Science and Technology"

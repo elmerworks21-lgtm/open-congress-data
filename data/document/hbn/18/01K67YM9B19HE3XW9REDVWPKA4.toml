@@ -1,24 +1,28 @@
 id = "01K67YM9B19HE3XW9REDVWPKA4"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07694"
+
+[meta]
 bill_number = 7694
 congress = 18
-canonical = "HBN-07694"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=HBN-7694", "https://web.senate.gov.ph/lisdata/3367430569!.pdf",]
 title = "POLILLO GROUP OF ISLANDS AND THE MUNICIPALITY OF MAUBAN, PROVINCE OF QUEZON, A TOURISM ZONE"
 long_title = "AN ACT DECLARING THE POLILLO GROUP OF ISLANDS AND THE MUNICIPALITY OF MAUBAN IN THE PROVINCE OF QUEZON, A TOURISM ZONE AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Tourism Zone",]
-[[legislative_history]]
+
+[[history]]
 date = "2020-10-06"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-10-07"
 action = "Read on First Reading and Referred to the Committee(s) on TOURISM and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "10/7/2020"
+date = "2020-10-07"
 
 [[committees]]
 name = "Tourism"

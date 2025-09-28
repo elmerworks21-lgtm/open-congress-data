@@ -1,8 +1,11 @@
 id = "01K67YJPVT63FVJ5NANNRMGXBV"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00712"
+
+[meta]
 bill_number = 712
 congress = 18
-canonical = "SBN-00712"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-712", "https://web.senate.gov.ph/lisdata/3104927947!.pdf",]
 title = "AMENDING P.D.NO. 442, LABOR CODE OF THE PHILIPPINES"
 date_filed = "2019-07-24"
@@ -10,17 +13,18 @@ long_title = "AN ACT RATIONALIZING GOVERNMENT INTERVENTIONS IN LABOR DISPUTES BY
 scope = "National"
 subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Unionism/Right to Self-Organization",]
 authors_raw = "Villanueva, Joel"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-24"
 action = "Introduced by Senator JOEL VILLANUEVA;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

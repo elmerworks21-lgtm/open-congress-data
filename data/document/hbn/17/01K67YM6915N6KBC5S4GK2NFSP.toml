@@ -1,44 +1,48 @@
 id = "01K67YM6915N6KBC5S4GK2NFSP"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-07005"
+
+[meta]
 bill_number = 7005
 congress = 17
-canonical = "HBN-07005"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7005", "https://web.senate.gov.ph/lisdata/2903425607!.pdf",]
 title = "RECOGNIZING EVEREST ACADEMY AS AN EDUCATIONAL INSTITUTION OF INTERNATIONAL CHARACTER"
 long_title = "AN ACT RECOGNIZING THE EVEREST ACADEMY AS AN EDUCATIONAL INSTITUTION OF INTERNATIONAL CHARACTER AND GRANTING THE ACADEMY CERTAIN PREROGATIVES TO PROMOTE ITS DEVELOPMENT"
 scope = "National"
 subjects = [ "Everest International Academy", "Educational Institutions",]
-[[legislative_history]]
+
+[[history]]
 date = "2018-11-27"
 action = "Sent to the Senate requesting for concurrence;"
 
-[[legislative_history]]
+[[history]]
 date = "2018-11-28"
 action = "Read on First Reading and Referred to the Committee on EDUCATION, ARTS AND CULTURE;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-01-23"
 action = "Senate adopted HBN-7005 as an amendment to SBN-1413;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-14"
 action = "Letter from Acting Secretary General of the House of Representatives, Mr. Dante Roberto P. Maling, dated February 13, 2019, transmitting nine (9) enrolled copies of the consolidated version of HBN-7005 and SBN-1413, for the signature of Senate Secretary Atty. Myra Marie D. Villarica and Senate President Vicente C. Sotto III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-02-21"
 action = "Letter for Speaker Gloria Macapagal-Arroyo, dated February 20, 2019, returning eight (8) enrolled copies of the consolidated version of HBN-7005 and SBN-1413, which were signed by Senate Secretary Myra Marie D. Villarica and Senate President Vicente C. Sotto III;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-04"
 action = "Approved and signed into law by the President of the Philippines, His Excellency, President Rodrigo Roa Duterte on March 29, 2019 and became"
 
-[[legislative_history]]
+[[history]]
 date = "2019-06-04"
 action = "REPUBLIC ACT NO. 11255."
 
 [[status]]
 status = "Approved by the President of the Philippines"
-date = "3/29/2019"
+date = "2019-03-29"
 
 [[committees]]
 name = "Education, Arts and Culture"

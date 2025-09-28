@@ -1,8 +1,11 @@
 id = "01K67YJHK7XAYWTPPR2668ZC2S"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00642"
+
+[meta]
 bill_number = 642
 congress = 17
-canonical = "SBN-00642"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-642", "https://web.senate.gov.ph/lisdata/2413020767!.pdf",]
 title = "NIGHT SHIFT DIFFERENTIAL PAY TO THE GOVERNMENT EMPLOYEES"
 date_filed = "2016-07-20"
@@ -10,33 +13,34 @@ long_title = "AN ACT GRANTING NIGHT SHIFT DIFFERENTIAL PAY TO THE GOVERNMENT EMP
 scope = "National"
 subjects = [ "Government Employees", "Government-Owned And-Controlled Corporations (GOCC)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-07-20"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-08-09"
 action = "Read on First Reading and Referred to the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION; and FINANCE;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-03-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-17"
 action = "Returned and submitted jointly by the Committee(s) on CIVIL SERVICE, GOVERNMENT REORGANIZATION AND PROFESSIONAL REGULATION and FINANCE per Committee Report No. 160, recommending that it be substituted by SBN-1562;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-22"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2017-08-22"
 action = "SUBSTITUTED BY SBN-1562 UNDER COMMITTEE REPORT NO. 160."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "8/22/2017"
+date = "2017-08-22"
 
 [[committees]]
 name = "Civil Service, Government Reorganization and Professional Regulation"

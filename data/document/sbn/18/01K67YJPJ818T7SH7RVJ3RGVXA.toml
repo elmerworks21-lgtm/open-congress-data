@@ -1,8 +1,11 @@
 id = "01K67YJPJ818T7SH7RVJ3RGVXA"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00264"
+
+[meta]
 bill_number = 264
 congress = 18
-canonical = "SBN-00264"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-264", "https://web.senate.gov.ph/lisdata/3054727406!.pdf",]
 title = "ANTI-POLITICAL DYNASTY ACT OF 2019"
 date_filed = "2019-07-08"
@@ -10,25 +13,26 @@ long_title = "AN ACT DEFINING AND PROHIBITING POLITICAL DYNASTIES, PROVIDING PEN
 scope = "National"
 subjects = [ "Political Dynasty", "Political Dynasties",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-08"
 action = "Introduced by Senator FRANCIS 'KIKO' N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-30"
 action = "Read on First Reading and Referred to the Committee(s) on ELECTORAL REFORMS AND PEOPLES PARTICIPATION; and CONSTITUTIONAL AMENDMENTS AND REVISION OF CODES;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-09-10"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2020-06-01"
 action = "Conducted COMMITTEE MEETINGS/HEARINGS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/30/2019"
+date = "2019-07-30"
 
 [[committees]]
 name = "Electoral Reforms and Peoples Participation"

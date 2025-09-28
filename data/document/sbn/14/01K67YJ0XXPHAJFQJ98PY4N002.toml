@@ -1,8 +1,11 @@
 id = "01K67YJ0XXPHAJFQJ98PY4N002"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00283"
+
+[meta]
 bill_number = 283
 congress = 14
-canonical = "SBN-00283"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-283", "https://web.senate.gov.ph/lisdata/43833786!.pdf",]
 title = "DISQUALIFYING AFP CHIEF OF STAFF FOR APPOINTMENT TO DND SECRETARY POSITION"
 date_filed = "2007-06-30"
@@ -10,33 +13,34 @@ long_title = "AN ACT AMENDING SECTION 42 CHAPTER 7 SUBTITLE II, TITLE VIII OF EX
 scope = "National"
 subjects = [ "Administrative Code of 1987", "AFP Chief of Staff", "Secretary, Department of National Defense",]
 authors_raw = "Gordon, Richard \"Dick\" J."
-[[legislative_history]]
+
+[[history]]
 date = "2007-06-30"
 action = "Introduced by Senator RICHARD 'DICK' J. GORDON;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-08-06"
 action = "Read on First Reading and Referred to the Committee(s) on NATIONAL DEFENSE AND SECURITY; and CONSTITUTIONAL AMENDMENTS, REVISION OF CODES AND LAWS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-09-07"
 action = "Conducted JOINT COMMITTEE MEETINGS/HEARINGS;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-02"
 action = "Returned and submitted by the Committee on NATIONAL DEFENSE AND SECURITY per Committee Report No. 12, recommending that it be considered in SBN-233;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "Submitted said Committee Report to the Senate;"
 
-[[legislative_history]]
+[[history]]
 date = "2007-10-03"
 action = "CONSIDERED IN SBN-233."
 
 [[status]]
 status = "Consolidated/Substituted in the Committee Report"
-date = "10/3/2007"
+date = "2007-10-03"
 
 [[committees]]
 name = "National Defense and Security"

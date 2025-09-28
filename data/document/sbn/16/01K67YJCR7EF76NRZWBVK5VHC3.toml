@@ -1,8 +1,11 @@
 id = "01K67YJCR7EF76NRZWBVK5VHC3"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00725"
+
+[meta]
 bill_number = 725
 congress = 16
-canonical = "SBN-00725"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-725", "https://web.senate.gov.ph/lisdata/1663113869!.pdf",]
 title = "MICROBICIDES DEVELOPMENT ACT"
 date_filed = "2013-07-15"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO FACILITATE THE DEVELOPMENT OF MICROBICIDES TO PREVENT SE
 scope = "National"
 subjects = [ "Microbicides", "Sexually Transmitted Disease (STD)",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2013-07-15"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2013-08-07"
 action = "Read on First Reading and Referred to the Committee(s) on HEALTH AND DEMOGRAPHY and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/7/2013"
+date = "2013-08-07"
 
 [[committees]]
 name = "Health and Demography"

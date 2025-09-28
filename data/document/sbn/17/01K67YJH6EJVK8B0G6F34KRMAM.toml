@@ -1,8 +1,11 @@
 id = "01K67YJH6EJVK8B0G6F34KRMAM"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00092"
+
+[meta]
 bill_number = 92
 congress = 17
-canonical = "SBN-00092"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-92", "https://web.senate.gov.ph/lisdata/2350520108!.pdf",]
 title = "PHILIPPINE ARCHIPELAGIC SEA LANES ACT"
 date_filed = "2016-06-30"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO ESTABLISH THE ARCHIPELAGIC SEA LANES IN THE PHILIPPINE A
 scope = "National"
 subjects = [ "Archipelagic Sea Lanes",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
-[[legislative_history]]
+
+[[history]]
 date = "2016-06-30"
 action = "Introduced by Senator ANTONIO 'SONNY' F. TRILLANES;"
 
-[[legislative_history]]
+[[history]]
 date = "2016-07-26"
 action = "Read on First Reading and Referred to the Committee on FOREIGN RELATIONS;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/26/2016"
+date = "2016-07-26"
 
 [[committees]]
 name = "Foreign Relations"

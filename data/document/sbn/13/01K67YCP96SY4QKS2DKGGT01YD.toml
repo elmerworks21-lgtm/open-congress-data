@@ -1,8 +1,11 @@
 id = "01K67YCP96SY4QKS2DKGGT01YD"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-01622"
+
+[meta]
 bill_number = 1622
 congress = 13
-canonical = "SBN-01622"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1622", "https://web.senate.gov.ph/lisdata/28602254!.pdf",]
 title = "COMPREHENSIVE TORTURE VICTIMS RELIEF ACT"
 date_filed = "2004-08-03"
@@ -10,17 +13,18 @@ long_title = "AN ACT PROVIDING A COMPREHENSIVE PROGRAM OF SUPPORT FOR VICTIMS OF
 scope = "National"
 subjects = [ "Comprehensive Torture Victims Relief Act",]
 authors_raw = "Defensor Santiago, Miriam"
-[[legislative_history]]
+
+[[history]]
 date = "2004-08-03"
 action = "Introduced by Senator MIRIAM DEFENSOR SANTIAGO;"
 
-[[legislative_history]]
+[[history]]
 date = "2004-09-20"
 action = "Read on First Reading and referred to the Committee(s) on JUSTICE AND HUMAN RIGHTS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "9/20/2004"
+date = "2004-09-20"
 
 [[committees]]
 name = "Justice and Human Rights"

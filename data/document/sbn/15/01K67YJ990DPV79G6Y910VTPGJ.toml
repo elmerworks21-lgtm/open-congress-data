@@ -1,8 +1,11 @@
 id = "01K67YJ990DPV79G6Y910VTPGJ"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02890"
+
+[meta]
 bill_number = 2890
 congress = 15
-canonical = "SBN-02890"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2890", "https://web.senate.gov.ph/lisdata/117969944!.pdf",]
 title = "PHILIPPINE CHARITY SWEEPSTAKES OFFICE CHARITY FUND"
 date_filed = "2011-07-18"
@@ -10,17 +13,18 @@ long_title = "AN ACT AUGMENTING THE PHILHEALTH FUND FOR UNIVERSAL HEALTH CARE CO
 scope = "National"
 subjects = [ "Philippine Charity Sweepstakes Office (PCSO)", "Health Insurance", "Philippine Health Insurance Corporation (PHIC)",]
 authors_raw = "Recto, Ralph G."
-[[legislative_history]]
+
+[[history]]
 date = "2011-07-18"
 action = "Introduced by Senator RALPH G. RECTO;"
 
-[[legislative_history]]
+[[history]]
 date = "2011-08-01"
 action = "Read on First Reading and Referred to the Committee(s) on GOVERNMENT CORPORATIONS AND PUBLIC ENTERPRISES and HEALTH AND DEMOGRAPHY;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/1/2011"
+date = "2011-08-01"
 
 [[committees]]
 name = "Government Corporations and Public Enterprises"

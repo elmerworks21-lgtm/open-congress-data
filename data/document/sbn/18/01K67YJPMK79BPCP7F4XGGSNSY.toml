@@ -1,8 +1,11 @@
 id = "01K67YJPMK79BPCP7F4XGGSNSY"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00370"
+
+[meta]
 bill_number = 370
 congress = 18
-canonical = "SBN-00370"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-370", "https://web.senate.gov.ph/lisdata/3066127507!.pdf",]
 title = "LOCAL UNIVERSITIES AND COLLEGES GOVERNANCE ACT"
 date_filed = "2019-07-11"
@@ -10,21 +13,22 @@ long_title = "AN ACT PRESCRIBING THE MANDATORY GUIDELINES ON THE ESTABLISHMENT A
 scope = "National"
 subjects = [ "Local Colleges and Universities (LCUS)",]
 authors_raw = "Gatchalian, Win"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-11"
 action = "Introduced by Senator WIN GATCHALIAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-07-31"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE; and LOCAL GOVERNMENT;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-20"
 action = "Transferred from the Committee on Education, Arts and Culture to the Committee on HIGHER, TECHNICAL AND VOCATIONAL EDUCATION;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "7/31/2019"
+date = "2019-07-31"
 
 [[committees]]
 name = "Higher, Technical and Vocational Education"

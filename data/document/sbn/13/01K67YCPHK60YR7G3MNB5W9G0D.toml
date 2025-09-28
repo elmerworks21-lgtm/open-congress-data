@@ -1,8 +1,11 @@
 id = "01K67YCPHK60YR7G3MNB5W9G0D"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-02031"
+
+[meta]
 bill_number = 2031
 congress = 13
-canonical = "SBN-02031"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2031", "https://web.senate.gov.ph/lisdata/34572857!.pdf",]
 title = "NIGHT WORK PROHIBITION (WOMEN)"
 date_filed = "2005-05-31"
@@ -10,17 +13,18 @@ long_title = "AN ACT EXPANDING THE EXCEPTIONS FROM THE NIGHT WORK PROHIBITION OF
 scope = "National"
 subjects = [ "Night Work Prohibition (Women)",]
 authors_raw = "Pangilinan, Francis N."
-[[legislative_history]]
+
+[[history]]
 date = "2005-05-31"
 action = "Introduced by Senator FRANCIS N. PANGILINAN;"
 
-[[legislative_history]]
+[[history]]
 date = "2005-06-01"
 action = "Read on First Reading and Referred to the Committee on LABOR, EMPLOYMENT AND HUMAN RESOURCES DEVELOPMENT;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "6/1/2005"
+date = "2005-06-01"
 
 [[committees]]
 name = "Labor, Employment and Human Resources Development"

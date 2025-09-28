@@ -1,8 +1,11 @@
 id = "01K67YJPTKBF1915S9NSQ80GM7"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-00653"
+
+[meta]
 bill_number = 653
 congress = 18
-canonical = "SBN-00653"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-653", "https://web.senate.gov.ph/lisdata/3101027909!.pdf",]
 title = "LOCAL FILM INDUSTRY DEVELOPMENT ACT OF 2019"
 date_filed = "2019-07-22"
@@ -10,17 +13,18 @@ long_title = "AN ACT TO PROMOTE AND SUPPORT THE DEVELOPMENT AND GROWTH OF THE PH
 scope = "National"
 subjects = [ "Film/Movie Industry", "Philippine Film Commission",]
 authors_raw = "Revilla Jr., Ramon Bong"
-[[legislative_history]]
+
+[[history]]
 date = "2019-07-22"
 action = "Introduced by Senator RAMON BONG REVILLA JR.;"
 
-[[legislative_history]]
+[[history]]
 date = "2019-08-13"
 action = "Read on First Reading and Referred to the Committee(s) on PUBLIC INFORMATION AND MASS MEDIA; WAYS AND MEANS; and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "8/13/2019"
+date = "2019-08-13"
 
 [[committees]]
 name = "Public Information and Mass Media"

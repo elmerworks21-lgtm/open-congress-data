@@ -1,24 +1,28 @@
 id = "01K67YKWW81R53H0XM5XP6F3GV"
-bill_type = "HBN"
+type = "bill"
+subtype = "HB"
+name = "HBN-05978"
+
+[meta]
 bill_number = 5978
 congress = 14
-canonical = "HBN-05978"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=HBN-5978", "https://web.senate.gov.ph/lisdata/112099917!.pdf",]
 title = "PIGDAULAN NATIONAL HIGH SCHOOL"
 long_title = "AN ACT SEPARATING THE TALIGAMAN NATIONAL HIGH SCHOOL - PIGDAULAN ANNEX IN BARANGAY PIGDAULAN, CITY OF BUTUAN, PROVINCE OF AGUSAN DEL NORTE FROM THE TALIGAMAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS PIGDAULAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
 scope = "Local"
 subjects = [ "Schools, Conversion",]
-[[legislative_history]]
+
+[[history]]
 date = "2009-05-12"
 action = "Filed in the Senate requesting for concurrence by Representatives JOSE S. AQUINO II, DEL R. DE GUZMAN, EDCEL C. LAGMAN and JUNIE E. CUA as authors;"
 
-[[legislative_history]]
+[[history]]
 date = "2009-05-13"
 action = "Read on First Reading and Referred to the Committee(s) on EDUCATION, ARTS AND CULTURE and FINANCE;"
 
 [[status]]
 status = "Pending in the Committee"
-date = "5/13/2009"
+date = "2009-05-13"
 
 [[committees]]
 name = "Education, Arts and Culture"

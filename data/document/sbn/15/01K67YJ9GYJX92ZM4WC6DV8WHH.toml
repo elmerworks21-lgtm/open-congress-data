@@ -1,8 +1,11 @@
 id = "01K67YJ9GYJX92ZM4WC6DV8WHH"
-bill_type = "SBN"
+type = "bill"
+subtype = "SB"
+name = "SBN-03149"
+
+[meta]
 bill_number = 3149
 congress = 15
-canonical = "SBN-03149"
 url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3149", "https://web.senate.gov.ph/lisdata/1301810956!.pdf",]
 title = "REVISED PENAL CODE (SLANDER BY DEED)"
 date_filed = "2012-03-12"
@@ -10,29 +13,30 @@ long_title = "AN ACT AMENDING ARTICLE 359 OF ACT NO. 3815, AS AMENDED, OTHERWISE
 scope = "National"
 subjects = [ "Revised Penal Code (R.A.No. 3815; Amendments)", "Slander",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Escudero, Francis \"Chiz\" G."
-[[legislative_history]]
+
+[[history]]
 date = "2012-03-12"
 action = "Prepared and submitted jointly by the Committee(s) on JUSTICE AND HUMAN RIGHTS and CIVIL SERVICE AND GOVERNMENT REORGANIZATION with Senator(s) ANTONIO 'SONNY' F. TRILLANES and FRANCIS 'CHIZ' G. ESCUDERO as author(s) per Committee Report No. 135, recommending its approval in substitution of SBNos. 300 and 2117;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-14"
 action = "Committee Report Calendared for Ordinary Business;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-03-14"
 action = "Sponsor: Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-08-29"
 action = "Transferred from the Calendar for Ordinary Business to the Calendar for Special Order;"
 
-[[legislative_history]]
+[[history]]
 date = "2012-09-03"
 action = "Sponsorship speech of Senator FRANCIS 'CHIZ' G. ESCUDERO;"
 
 [[status]]
 status = "Pending Second Reading, Special Order"
-date = "8/29/2012"
+date = "2012-08-29"
 
 [[committees]]
 name = "Justice and Human Rights"
