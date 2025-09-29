@@ -12,8 +12,6 @@ Usage:
     python sync_to_neo4j.py                # Sync data without clearing
     python sync_to_neo4j.py --clear        # Clear database first (will prompt for confirmation)
     python sync_to_neo4j.py --clear --yes  # Clear database first (skip confirmation - for CI/CD)
-    python sync_to_neo4j.py --fast         # Fast mode with larger batches (for CI/CD)
-    python sync_to_neo4j.py --clear --yes --fast  # Full CI/CD mode
 """
 
 import os
@@ -459,7 +457,7 @@ class Neo4jSyncerOptimized:
 
         return results
 
-    def sync_documents_batch(self, document_dir: Path, congress_mapping: Dict[int, str], senate_key_mapping: Dict[str, str], fast_mode: bool = False):
+    def sync_documents_batch(self, document_dir: Path, congress_mapping: Dict[int, str], senate_key_mapping: Dict[str, str]):
         """Sync document data to Neo4j using batch operations."""
         # Collect all files from both HB and SB first
         all_bill_files = []
@@ -511,12 +509,8 @@ class Neo4jSyncerOptimized:
 
         logger.info(f"Loaded {len(all_documents)} documents in {time.time() - start_time:.1f} seconds")
 
-        # Determine batch size based on mode
-        if fast_mode:
-            batch_size = 1000  # Very large batches for CI/CD
-            logger.info("Using FAST mode with 1000-document batches")
-        else:
-            batch_size = 500  # Large batches for normal mode
+        # Use large batch size as default for better performance
+        batch_size = 1000  # Large batches for faster processing
 
         # Process all documents in large batches
         total_batches = (len(all_documents) + batch_size - 1) // batch_size
@@ -642,10 +636,6 @@ def main():
         # Parse command line arguments
         clear_db = "--clear" in sys.argv
         skip_confirmation = "--yes" in sys.argv
-        fast_mode = "--fast" in sys.argv
-
-        if fast_mode:
-            logger.info("🚀 FAST MODE enabled - using optimized settings for CI/CD")
 
         # Optional: Clear database
         if clear_db:
@@ -693,7 +683,7 @@ def main():
 
             logger.info("Syncing documents...")
             document_start = time.time()
-            syncer.sync_documents_batch(document_dir, congress_mapping, senate_key_mapping, fast_mode=fast_mode)
+            syncer.sync_documents_batch(document_dir, congress_mapping, senate_key_mapping)
             logger.info(f"Document sync completed in {time.time() - document_start:.1f}s")
         else:
             logger.warning(f"Document directory not found: {document_dir}. Skipping document sync.")
