@@ -33,6 +33,9 @@ each entity type:
 - `data/group/chamber/` - Chamber entities (Senate and House of Representatives)
 - `data/committee/` - Senate committee entities
 - `data/person/` - Senator and representative entities
+- `data/document/` - Legislative documents (House Bills and Senate Bills)
+  - `data/document/hb/` - House Bills organized by congress number
+  - `data/document/sb/` - Senate Bills organized by congress number
 
 The following graph shows the current entities and their relationships in the
 dataset:
@@ -48,21 +51,27 @@ graph TD
 
     Person["👤 Person<br/>━━━━━━━<br/>• id<br/>• first_name<br/>• last_name<br/>• middle_name<br/>• senate_website_keys[]<br/>• aliases[]<br/>• memberships[]"]
 
+    Document["📄 Document<br/>━━━━━━━<br/>• id<br/>• type<br/>• subtype: 'hb' | 'sb'<br/>• bill_number<br/>• title<br/>• congress<br/>• date_filed<br/>• subjects[]"]
+
     %% Relationships
     Chamber -->|BELONGS_TO| Congress
     Committee -->|BELONGS_TO| Congress
     Person -->|MEMBER_OF| Chamber
+    Person -->|AUTHORED| Document
+    Document -->|FILED_IN| Congress
 
     %% Styling
     classDef congressNode fill:#4a90e2,stroke:#2c5aa0,stroke-width:2px,color:#fff
     classDef chamberNode fill:#9c27b0,stroke:#6a1b9a,stroke-width:2px,color:#fff
     classDef committeeNode fill:#7cb342,stroke:#558b2f,stroke-width:2px,color:#fff
     classDef personNode fill:#ff7043,stroke:#d84315,stroke-width:2px,color:#fff
+    classDef documentNode fill:#ffd54f,stroke:#f9a825,stroke-width:2px,color:#333
 
     class Congress congressNode
     class Chamber chamberNode
     class Committee committeeNode
     class Person personNode
+    class Document documentNode
 ```
 
 ### Entity Details
@@ -71,6 +80,7 @@ graph TD
 - **Chamber (Group)**: Represents Senate or House of Representatives for a specific Congress
 - **Committee**: Senate committees that operate within specific congresses
 - **Person**: Senators and representatives who serve in various congresses
+- **Document**: Legislative documents including House Bills (HB) and Senate Bills (SB)
 
 ### Relationship Hierarchy
 
@@ -80,8 +90,9 @@ The data follows a hierarchical structure:
 2. **Chambers** (Senate/House) belong to specific Congresses
 3. **Committees** belong to specific Congresses
 4. **People** are members of Chambers (not directly connected to Congress)
+5. **Documents** are filed in specific Congresses and authored by People
 
-This structure accurately represents the bicameral nature of the Philippine Congress, where individuals serve as members of either the Senate or the House of Representatives for specific Congress sessions.
+This structure accurately represents the bicameral nature of the Philippine Congress, where individuals serve as members of either the Senate or the House of Representatives for specific Congress sessions, and author legislative documents during their service.
 
 ### Person Membership Structure
 
@@ -100,6 +111,47 @@ subtype = "senate"  # Person was a Senator in 16th Congress
 ```
 
 This allows tracking of politicians who may have served in different chambers across different congresses (e.g., moving from House to Senate).
+
+## Database Synchronization
+
+The repository includes a Neo4j sync script (`scripts/sync_to_neo4j.py`) that imports all data into a graph database for advanced querying and analysis.
+
+### Prerequisites
+
+1. Neo4j database instance (local or remote)
+2. Python 3.7+
+3. Required Python packages: `neo4j`, `tomlkit`, `pyyaml`, `python-dotenv`
+
+### Setup
+
+1. Create a `.env` file with your Neo4j credentials:
+```env
+NEO4J_URI=bolt://localhost:7687
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=your_password
+```
+
+2. Install dependencies:
+```bash
+pip install neo4j tomlkit pyyaml python-dotenv
+```
+
+### Running the Sync
+
+```bash
+# Normal sync (updates existing data)
+python scripts/sync_to_neo4j.py
+
+# Clear database first with confirmation prompt
+python scripts/sync_to_neo4j.py --clear
+
+# Clear database without confirmation (for automation)
+python scripts/sync_to_neo4j.py --clear --yes
+```
+
+The sync script uses optimized batch operations for fast import of large datasets. It creates indexes automatically for optimal query performance.
+
+For detailed database schema documentation, see [DATABASE.md](DATABASE.md).
 
 ## Impostor Syndrome Disclaimer
 
