@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 """
-Parse metadata from metadata/sb folder and add author_codes and committee_codes
+Parse metadata from metadata/sb folder and add senate_website_author_codes and senate_website_committee_codes
 to the corresponding TOML files in data/document/sb.
 """
 
-import os
-import sys
 import tomlkit
 from pathlib import Path
 from collections import defaultdict
@@ -50,7 +48,7 @@ def build_metadata_index(metadata_path, congress_num):
     return index
 
 def update_toml_file(toml_path, author_codes, committee_codes, verbose=False):
-    """Update a TOML file with author_codes and committee_codes."""
+    """Update a TOML file with senate_website_author_codes and senate_website_committee_codes."""
     with open(toml_path, 'r') as f:
         doc = tomlkit.load(f)
 
@@ -59,21 +57,21 @@ def update_toml_file(toml_path, author_codes, committee_codes, verbose=False):
 
     # Add the codes to the meta section
     if 'meta' in doc:
-        # Check if we need to update author_codes
-        existing_authors = doc['meta'].get('author_codes', [])
+        # Check if we need to update senate_website_author_codes
+        existing_authors = doc['meta'].get('senate_website_author_codes', [])
         if author_codes and sorted(author_codes) != sorted(existing_authors):
-            doc['meta']['author_codes'] = sorted(author_codes)
+            doc['meta']['senate_website_author_codes'] = sorted(author_codes)
             changed = True
             if verbose:
-                print(f"    Updated author_codes: {sorted(author_codes)}")
+                print(f"    Updated senate_website_author_codes: {sorted(author_codes)}")
 
-        # Check if we need to update committee_codes
-        existing_committees = doc['meta'].get('committee_codes', [])
+        # Check if we need to update senate_website_committee_codes
+        existing_committees = doc['meta'].get('senate_website_committee_codes', [])
         if committee_codes and sorted(committee_codes) != sorted(existing_committees):
-            doc['meta']['committee_codes'] = sorted(committee_codes)
+            doc['meta']['senate_website_committee_codes'] = sorted(committee_codes)
             changed = True
             if verbose:
-                print(f"    Updated committee_codes: {sorted(committee_codes)}")
+                print(f"    Updated senate_website_committee_codes: {sorted(committee_codes)}")
 
     # Only write if we made changes
     if changed:
@@ -143,8 +141,8 @@ def main():
     parser.add_argument('-c', '--congress', type=int, help='Process only a specific congress number')
     args = parser.parse_args()
 
-    # Define paths
-    base_path = Path('/Users/nap.calub/projects/github.com/bettergovph/open-congress-data')
+    # Define paths - use script's parent directory as base
+    base_path = Path(__file__).parent.parent
     data_path = base_path / 'data' / 'document' / 'sb'
     metadata_path = base_path / 'metadata' / 'sb'
 
@@ -161,10 +159,6 @@ def main():
                 congress_nums.append(int(folder.name))
         congress_nums.sort()
         print(f"Found {len(congress_nums)} congress folders: {congress_nums}")
-
-    # Track overall statistics
-    total_updated = 0
-    total_skipped = 0
 
     # Process each congress
     for congress_num in congress_nums:
