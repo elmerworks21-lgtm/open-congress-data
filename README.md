@@ -147,9 +147,21 @@ python scripts/sync_to_neo4j.py --clear
 
 # Clear database without confirmation (for automation)
 python scripts/sync_to_neo4j.py --clear --yes
+
+# Fast mode for CI/CD (much larger batches, parallel processing)
+python scripts/sync_to_neo4j.py --fast
+
+# Full CI/CD deployment (clear + rebuild with optimizations)
+python scripts/sync_to_neo4j.py --clear --yes --fast
 ```
 
-The sync script uses optimized batch operations for fast import of large datasets. It creates indexes automatically for optimal query performance.
+The sync script uses several optimizations for fast import:
+- **Large batch operations** (up to 1000 documents per batch in fast mode)
+- **Progress tracking** during file loading to monitor sync status
+- **Optimized relationship creation** with grouped queries
+- **Automatic indexing** for optimal query performance
+
+Fast mode significantly reduces sync time for full database rebuilds through larger batch sizes and optimized queries.
 
 For detailed database schema documentation, see [DATABASE.md](DATABASE.md).
 

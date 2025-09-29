@@ -401,6 +401,11 @@ The sync script uses several optimizations for faster data import:
 - **Reduced network round trips**: Groups related operations together
 - **Progress tracking**: Shows ETA and processing rate for large datasets
 - **Configurable batch sizes**: Adjustable batch sizes for different entity types
+- **Fast mode for CI/CD**:
+  - 1000-document batches (vs 500 in normal mode)
+  - Sequential loading with progress tracking to avoid hangs
+  - Optimized for complete database rebuilds
+  - Reduces sync time significantly through larger batch sizes
 
 ### Command Line Options
 
@@ -413,6 +418,12 @@ python scripts/sync_to_neo4j.py --clear
 
 # Clear database without confirmation (for CI/CD)
 python scripts/sync_to_neo4j.py --clear --yes
+
+# Fast mode with larger batches (optimized for CI/CD)
+python scripts/sync_to_neo4j.py --fast
+
+# Full CI/CD mode (clear + fast) - recommended for production deployments
+python scripts/sync_to_neo4j.py --clear --yes --fast
 ```
 
 ## Membership Structure in Person TOML Files
