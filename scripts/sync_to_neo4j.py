@@ -18,6 +18,7 @@ import os
 import sys
 import logging
 import time
+import yaml
 from pathlib import Path
 from typing import Dict, List
 import tomlkit
@@ -51,7 +52,7 @@ class Neo4jSyncerOptimized:
 
     def clear_database(self, skip_confirmation=False):
         """Clear specific node types and their relationships from the database."""
-        node_labels_to_clear = ["Congress", "Committee", "Person", "Group"]
+        node_labels_to_clear = ["Congress", "Committee", "Person", "Group", "Document"]
 
         with self.driver.session() as session:
             try:
@@ -336,6 +337,10 @@ class Neo4jSyncerOptimized:
                 "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.id)",
                 "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.type)",
                 "CREATE INDEX IF NOT EXISTS FOR (g:Group) ON (g.congress)",
+                "CREATE INDEX IF NOT EXISTS FOR (d:Document) ON (d.id)",
+                "CREATE INDEX IF NOT EXISTS FOR (d:Document) ON (d.name)",
+                "CREATE INDEX IF NOT EXISTS FOR (d:Document) ON (d.congress)",
+                "CREATE INDEX IF NOT EXISTS FOR (d:Document) ON (d.bill_number)",
             ]
 
             for index_query in indexes:
@@ -352,7 +357,7 @@ class Neo4jSyncerOptimized:
             stats = {}
 
             # Count nodes
-            for label in ["Congress", "Committee", "Person", "Group"]:
+            for label in ["Congress", "Committee", "Person", "Group", "Document"]:
                 result = session.run(f"MATCH (n:{label}) RETURN count(n) as count")
                 stats[label] = result.single()["count"]
 
@@ -361,7 +366,7 @@ class Neo4jSyncerOptimized:
             stats["Chamber"] = result.single()["count"]
 
             # Count relationships
-            for rel_type in ["BELONGS_TO", "MEMBER_OF"]:
+            for rel_type in ["BELONGS_TO", "MEMBER_OF", "AUTHORED", "FILED_IN"]:
                 result = session.run(
                     f"MATCH ()-[r:{rel_type}]->() RETURN count(r) as count"
                 )
@@ -381,6 +386,176 @@ class Neo4jSyncerOptimized:
             stats["house_memberships"] = result.single()["count"]
 
             return stats
+
+    def load_senate_website_key_mapping(self, people_dir: Path) -> Dict[str, str]:
+        """Load the Senate website key to person ID mapping."""
+        mapping_file = people_dir / ".senate-website-key-mapping.yml"
+        if not mapping_file.exists():
+            logger.warning(f"Senate website key mapping file not found: {mapping_file}")
+            return {}
+
+        with open(mapping_file, 'r', encoding='utf-8') as f:
+            mapping = yaml.safe_load(f)
+
+        logger.info(f"Loaded {len(mapping)} Senate website key mappings")
+        return mapping
+
+    def sync_documents_batch(self, document_dir: Path, congress_mapping: Dict[int, str], senate_key_mapping: Dict[str, str]):
+        """Sync document data to Neo4j using batch operations."""
+        # Collect all files from both HB and SB first
+        all_bill_files = []
+
+        for bill_type in ['hb', 'sb']:
+            bill_dir = document_dir / bill_type
+            if not bill_dir.exists():
+                logger.warning(f"Bill directory not found: {bill_dir}")
+                continue
+
+            # Collect all document files across all congresses
+            for congress_dir in sorted(bill_dir.iterdir()):
+                if congress_dir.is_dir() and congress_dir.name.isdigit():
+                    toml_files = list(congress_dir.glob('*.toml'))
+                    # Add bill type to each file for tracking
+                    all_bill_files.extend([(bill_type, f) for f in toml_files])
+
+        total_files = len(all_bill_files)
+        logger.info(f"Found {total_files} total document files (HB + SB)")
+
+        if not all_bill_files:
+            logger.warning("No document files found to process")
+            return
+
+        # Increased batch size for faster processing
+        batch_size = 200  # Increased from 50 to 200
+        documents_batch = []
+        author_relationships_batch = []
+        congress_relationships_batch = []
+        start_time = time.time()
+
+        # Process all files in a single loop
+        for idx, (bill_type, file_path) in enumerate(all_bill_files, 1):
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = tomlkit.load(f)
+
+                # Extract document data
+                doc_data = {
+                    'id': data.get('id'),
+                    'type': data.get('type'),
+                    'subtype': data.get('subtype'),
+                    'name': data.get('name')
+                }
+
+                # Add meta fields if present
+                if 'meta' in data:
+                    meta = data['meta']
+                    doc_data.update({
+                        'bill_number': meta.get('bill_number'),
+                        'congress': meta.get('congress'),
+                        'title': meta.get('title'),
+                        'date_filed': meta.get('date_filed'),
+                        'long_title': meta.get('long_title'),
+                        'scope': meta.get('scope'),
+                        'subjects': meta.get('subjects', []),
+                        'authors_raw': meta.get('authors_raw'),
+                        'senate_website_permalink': meta.get('senate_website_permalink'),
+                        'download_url_sources': meta.get('download_url_sources', [])
+                    })
+
+                    # Create congress relationship
+                    if meta.get('congress') and meta['congress'] in congress_mapping:
+                        congress_relationships_batch.append({
+                            'document_id': data['id'],
+                            'congress_id': congress_mapping[meta['congress']]
+                        })
+
+                    # Create author relationships using senate_website_author_codes
+                    if meta.get('senate_website_author_codes'):
+                        for author_code in meta['senate_website_author_codes']:
+                            if author_code in senate_key_mapping:
+                                author_relationships_batch.append({
+                                    'document_id': data['id'],
+                                    'person_id': senate_key_mapping[author_code]
+                                })
+
+                documents_batch.append(doc_data)
+
+                # Process batch when it reaches the size limit or at the end
+                if len(documents_batch) >= batch_size or idx == total_files:
+                    self._process_document_batch(documents_batch, author_relationships_batch, congress_relationships_batch)
+
+                    # Calculate and display progress with ETA
+                    elapsed = time.time() - start_time
+                    rate = idx / elapsed if elapsed > 0 else 0
+                    eta = (total_files - idx) / rate if rate > 0 else 0
+
+                    logger.info(f"Progress: {idx}/{total_files} documents synced ({rate:.1f} docs/sec, ETA: {eta:.0f}s)")
+                    documents_batch = []
+                    author_relationships_batch = []
+                    congress_relationships_batch = []
+
+            except Exception as e:
+                logger.error(f"Failed to process {file_path.name}: {e}")
+
+        total_time = time.time() - start_time
+        logger.info(f"Document sync completed in {total_time:.1f} seconds ({total_files / total_time:.1f} docs/sec)")
+
+    def _process_document_batch(self, documents_batch: List[dict], author_relationships_batch: List[dict], congress_relationships_batch: List[dict]):
+        """Process a batch of documents and their relationships."""
+        if not documents_batch:
+            return
+
+        with self.driver.session() as session:
+            # Use a single transaction for all operations
+            with session.begin_transaction() as tx:
+                # Batch create/update documents
+                document_query = """
+                UNWIND $batch AS document
+                MERGE (d:Document {id: document.id})
+                SET d = document
+                """
+                tx.run(document_query, batch=documents_batch)
+
+                # Create congress relationships with optimized matching
+                if congress_relationships_batch:
+                    # Group by congress_id for more efficient matching
+                    congress_groups = {}
+                    for rel in congress_relationships_batch:
+                        if rel['congress_id'] not in congress_groups:
+                            congress_groups[rel['congress_id']] = []
+                        congress_groups[rel['congress_id']].append(rel['document_id'])
+
+                    # Process each congress group
+                    for congress_id, doc_ids in congress_groups.items():
+                        congress_query = """
+                        MATCH (c:Congress {id: $congress_id})
+                        UNWIND $doc_ids AS doc_id
+                        MATCH (d:Document {id: doc_id})
+                        MERGE (d)-[:FILED_IN]->(c)
+                        """
+                        tx.run(congress_query, congress_id=congress_id, doc_ids=doc_ids)
+
+                # Create author relationships with optimized matching
+                if author_relationships_batch:
+                    # Group by person_id for more efficient matching
+                    person_groups = {}
+                    for rel in author_relationships_batch:
+                        if rel['person_id'] not in person_groups:
+                            person_groups[rel['person_id']] = []
+                        person_groups[rel['person_id']].append(rel['document_id'])
+
+                    # Process each person group
+                    for person_id, doc_ids in person_groups.items():
+                        author_query = """
+                        MATCH (p:Person {id: $person_id})
+                        UNWIND $doc_ids AS doc_id
+                        MATCH (d:Document {id: doc_id})
+                        MERGE (p)-[:AUTHORED]->(d)
+                        """
+                        tx.run(author_query, person_id=person_id, doc_ids=doc_ids)
+
+                # Commit the transaction
+                tx.commit()
 
 
 def main():
@@ -405,6 +580,7 @@ def main():
     committees_dir = project_root / "data" / "committee"
     people_dir = project_root / "data" / "person"
     chambers_dir = project_root / "data" / "group" / "chamber"
+    document_dir = project_root / "data" / "document"
 
     # Verify directories exist
     for dir_path in [congresses_dir, committees_dir, people_dir]:
@@ -465,6 +641,18 @@ def main():
         syncer.sync_people_batch(people_dir, congress_mapping)
         logger.info(f"People sync completed in {time.time() - people_start:.1f}s")
 
+        # 5. Sync Documents (after Congress, Group, and Person nodes)
+        if document_dir.exists():
+            logger.info("Loading Senate website key mapping...")
+            senate_key_mapping = syncer.load_senate_website_key_mapping(people_dir)
+
+            logger.info("Syncing documents...")
+            document_start = time.time()
+            syncer.sync_documents_batch(document_dir, congress_mapping, senate_key_mapping)
+            logger.info(f"Document sync completed in {time.time() - document_start:.1f}s")
+        else:
+            logger.warning(f"Document directory not found: {document_dir}. Skipping document sync.")
+
         # Display statistics
         stats = syncer.get_statistics()
         total_time = time.time() - total_start
@@ -475,10 +663,13 @@ def main():
         logger.info(f"Chambers (Group): {stats.get('Chamber', 0)}")
         logger.info(f"Committees: {stats['Committee']}")
         logger.info(f"People: {stats['Person']}")
+        logger.info(f"Documents: {stats.get('Document', 0)}")
         logger.info(f"BELONGS_TO relationships: {stats['BELONGS_TO']}")
         logger.info(f"MEMBER_OF relationships: {stats.get('MEMBER_OF', 0)}")
         logger.info(f"  - Senate memberships: {stats.get('senate_memberships', 0)}")
         logger.info(f"  - House memberships: {stats.get('house_memberships', 0)}")
+        logger.info(f"AUTHORED relationships: {stats.get('AUTHORED', 0)}")
+        logger.info(f"FILED_IN relationships: {stats.get('FILED_IN', 0)}")
 
     except Exception as e:
         logger.error(f"Sync failed: {e}")
