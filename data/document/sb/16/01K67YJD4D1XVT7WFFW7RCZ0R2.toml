@@ -6,7 +6,6 @@ name = "SBN-01316"
 [meta]
 bill_number = 1316
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1316", "https://web.senate.gov.ph/lisdata/1741114644!.pdf",]
 title = "NATIONAL INFORMATION PROGRAM ON MENOPAUSE"
 date_filed = "2013-08-15"
 long_title = "AN ACT ESTABLISHING A NATIONAL INFORMATION PROGRAM ON MENOPAUSE AND HOW WOMEN CAN COPE WITH THE PHYSICAL, MENTAL AND EMOTIONAL CHANGES AS A CONSEQUENCE THEREOF AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Women",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1741114644!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1316"
 
 [[history]]
 date = "2013-08-15"

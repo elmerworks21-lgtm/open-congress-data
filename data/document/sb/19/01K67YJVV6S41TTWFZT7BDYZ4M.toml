@@ -6,7 +6,6 @@ name = "SBN-01396"
 [meta]
 bill_number = 1396
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1396", "https://web.senate.gov.ph/lisdata/3968235995!.pdf",]
 title = "CAREGIVERS WELFARE ACT OF 2022"
 date_filed = "2022-10-19"
 long_title = "AN ACT INSTITUTING POLICIES FOR THE PROTECTION AND WELFARE OF CAREGIVERS IN THE PRACTICE OF THEIR PROFESSION"
@@ -15,6 +14,8 @@ subjects = [ "Caregivers",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3968235995!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1396"
 
 [[history]]
 date = "2022-10-19"

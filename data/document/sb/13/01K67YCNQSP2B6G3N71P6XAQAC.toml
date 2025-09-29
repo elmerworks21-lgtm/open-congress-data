@@ -6,7 +6,6 @@ name = "SBN-00666"
 [meta]
 bill_number = 666
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-666", "https://web.senate.gov.ph/lisdata/18521227!.pdf",]
 title = "HANDICAPPED WORKERS ADDITIONAL PROTECTION"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING ARTICLE SEVENTY-EIGHT, AND CHAPTER ONE, TITLE THREE, BOOK THREE OF THE LABOR CODE, AS AMENDED, BY GIVING ADDITIONAL PROTECTION TO HANDICAPPED WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Handicapped/Disabled Persons (Protection", "Labor Code",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18521227!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-666"
 
 [[history]]
 date = "2004-06-30"

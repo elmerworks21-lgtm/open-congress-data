@@ -6,7 +6,6 @@ name = "SBN-02650"
 [meta]
 bill_number = 2650
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2650", "https://web.senate.gov.ph/lisdata/88408040!.pdf",]
 title = "WITNESS CONFIDENTIALITY ACT"
 date_filed = "2008-10-06"
 long_title = "AN ACT PROTECTING THE CONFIDENTIALITY OF VICTIM'S AND WITNESS' ADDRESS AND TELEPHONE NUMBER DURING A TRIAL OR HEARING RELATED TO A CRIMINAL PROSECUTION"
@@ -15,6 +14,8 @@ subjects = [ "Witness Protection Program",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/88408040!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2650"
 
 [[history]]
 date = "2008-10-06"

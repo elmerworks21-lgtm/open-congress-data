@@ -6,7 +6,6 @@ name = "SBN-00440"
 [meta]
 bill_number = 440
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-440", "https://web.senate.gov.ph/lisdata/4695442957!.pdf",]
 title = "ANTI-ELDERLY ABUSE ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT DEFINING AND PROHIBITING ELDER ABUSE, PROVIDING PENALTIES THEREFORE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Elder Abuse Law", "Senior Citizen/Elderly",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4695442957!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-440"
 
 [[history]]
 date = "2025-07-10"

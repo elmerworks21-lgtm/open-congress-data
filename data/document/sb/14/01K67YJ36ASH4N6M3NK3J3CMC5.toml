@@ -6,7 +6,6 @@ name = "SBN-03303"
 [meta]
 bill_number = 3303
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3303", "https://web.senate.gov.ph/lisdata/1165910272!.pdf",]
 title = "RURAL PREVENTIVE HEALTH CARE TRAINING ACT OF 2009"
 date_filed = "2009-06-03"
 long_title = "AN ACT TO PROVIDE HEALTH CARE PRACTITIONERS IN RURAL AREAS WITH TRAINING IN PREVENTIVE HEALTH CARE, INCLUDING BOTH PHYSICAL AND MENTAL CARE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Healthcare Services", "Health Care Delivery System",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1165910272!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3303"
 
 [[history]]
 date = "2009-06-03"

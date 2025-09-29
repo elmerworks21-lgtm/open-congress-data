@@ -6,7 +6,6 @@ name = "SBN-01379"
 [meta]
 bill_number = 1379
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1379", "https://web.senate.gov.ph/lisdata/56805025!.pdf",]
 title = "MEDICAL AND DAY CARE SERVICES"
 date_filed = "2007-07-26"
 long_title = "AN ACT TO REQUIRE EMPLOYERS TO PROVIDE DAYCARE FACILITIES FOR THEIR EMPLOYEES’ CHILDREN AGED FIVE (5) YEARS OLD AND BELOW, AMENDING FOR THE PURPOSE ARTICLE 157 OF THE LABOR CODE"
@@ -15,6 +14,8 @@ subjects = [ "Medical and Day Care Services", "Labor Code (Pd 442)",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56805025!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1379"
 
 [[history]]
 date = "2007-07-26"

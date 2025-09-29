@@ -6,7 +6,6 @@ name = "SBN-02880"
 [meta]
 bill_number = 2880
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2880", "https://web.senate.gov.ph/lisdata/116899911!.pdf",]
 title = "UNIVERSAL MATERNITY LEAVE BENEFITS TO WOMEN IN GOVERNMENT SERVICE"
 date_filed = "2011-07-05"
 long_title = "AN ACT GRANTING UNIVERSAL MATERNITY LEAVE BENEFITS TO WOMEN IN GOVERNMENT SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Maternity Leave",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/116899911!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2880"
 
 [[history]]
 date = "2011-07-05"

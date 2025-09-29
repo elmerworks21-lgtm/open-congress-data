@@ -6,7 +6,6 @@ name = "SBN-00547"
 [meta]
 bill_number = 547
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-547", "https://web.senate.gov.ph/lisdata/79216339!.pdf",]
 title = "PHILIPPINE FISHERIES CODE"
 date_filed = "2010-07-07"
 long_title = "AN ACT AMENDING SECTIONS 19, 28, 30, 37, 38 AND 65 OF REPUBLIC ACT NO. 8550, OTHERWISE KNOWN AS THE PHILIPPINE FISHERIES CODE OF 1998"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Fisheries Code (R.A.No. 8550)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79216339!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-547"
 
 [[history]]
 date = "2010-07-07"

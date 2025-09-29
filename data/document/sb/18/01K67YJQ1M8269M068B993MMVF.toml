@@ -6,7 +6,6 @@ name = "SBN-00983"
 [meta]
 bill_number = 983
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-983", "https://web.senate.gov.ph/lisdata/3139128285!.pdf",]
 title = "HEINOUS CRIMES PENITENTIARY ACT OF 2019"
 date_filed = "2019-08-28"
 long_title = "AN ACT ESTABLISHING A SEPARATE FACILITY FOR PRISONERS CONVICTED OF HEINOUS CRIMES"
@@ -15,6 +14,8 @@ subjects = [ "Heinous Crimes", "Jail Facility/Prison Facility",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3139128285!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-983"
 
 [[history]]
 date = "2019-08-28"

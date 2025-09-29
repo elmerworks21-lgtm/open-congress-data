@@ -6,7 +6,6 @@ name = "SBN-00762"
 [meta]
 bill_number = 762
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-762", "https://web.senate.gov.ph/lisdata/19521371!.pdf",]
 title = "MANNER OF FILLING A VACANCY IN THE CONGRESS OF THE PHIL."
 date_filed = "2004-06-30"
 long_title = "AN ACT PRESCRIBING THE PROCEDURE FOR THE EXPEDITIOUS HOLDING OF A SPECIAL ELECTION IN CASE OF VACANCY IN THE CONGRESS OF THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBER SIXTY-SIX HUNDRED AND FORTY-FIVE, ENTITLED AN ACT PRESCRIBING THE MANNER OF FILLING A VACANCY IN THE CONGRESS OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Congress of the Phil. (Vacancy)", "RA 6645 (Sections 1/2/3)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19521371!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-762"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00035"
 [meta]
 bill_number = 35
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-35", "https://web.senate.gov.ph/lisdata/74156005!.pdf",]
 title = "AEROPONICS TECHNOLOGY IN AGRICULTURAL PRODUCTION ACT OF 2010"
 date_filed = "2010-07-01"
 long_title = "AN ACT PROMOTING THE USE OF AEROPONICS TECHNOLOGY TO BE APPLIED IN AGRICULTURAL PRODUCTION OF HIGH VALUE-ADDED CROPS AND VEGETABLE FARMING TO ADDRESS FOOD SECURITY CONCERNS OF THE COUNTRY AND JUDICIOUSLY UTILIZE SCARCE FERTILE LAND RESOURCES"
@@ -15,6 +14,8 @@ subjects = [ "Aeroponics Technology",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74156005!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-35"
 
 [[history]]
 date = "2010-07-01"

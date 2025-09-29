@@ -6,7 +6,6 @@ name = "SBN-01311"
 [meta]
 bill_number = 1311
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1311", "https://web.senate.gov.ph/lisdata/3939035801!.pdf",]
 title = "REVISED LABOR CODE OF THE PHILIPPINES"
 date_filed = "2022-09-13"
 long_title = "AN ACT PROVIDING FOR THE REVISED LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3939035801!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1311"
 
 [[history]]
 date = "2022-09-13"

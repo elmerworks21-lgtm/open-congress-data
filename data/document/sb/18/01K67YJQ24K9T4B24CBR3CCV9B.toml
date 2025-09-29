@@ -6,7 +6,6 @@ name = "SBN-01004"
 [meta]
 bill_number = 1004
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1004", "https://web.senate.gov.ph/lisdata/3142128321!.pdf",]
 title = "HEINOUS CRIMES PENITENTIARY ACT OF 2019"
 date_filed = "2019-09-03"
 long_title = "AN ACT ESTABLISHING A SEPARATE PRISON FACILITY FOR THOSE CONVICTED OF HEINOUS CRIMES"
@@ -15,6 +14,8 @@ subjects = [ "Heinous Crimes", "Jail Facility/Prison Facility",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3142128321!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1004"
 
 [[history]]
 date = "2019-09-03"

@@ -6,7 +6,6 @@ name = "SBN-01133"
 [meta]
 bill_number = 1133
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1133", "https://web.senate.gov.ph/lisdata/3174628595!.pdf",]
 title = "REGIONAL HEART CENTERS ACT"
 date_filed = "2019-11-04"
 long_title = "AN ACT CREATING ONE REGIONAL HEART CENTER IN EACH OF THE ADMINISTRATIVE REGIONS IN THE PHILIPPINES, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Heart Center",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3174628595!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1133"
 
 [[history]]
 date = "2019-11-04"

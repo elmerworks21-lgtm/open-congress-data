@@ -6,7 +6,6 @@ name = "SBN-00752"
 [meta]
 bill_number = 752
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-752", "https://web.senate.gov.ph/lisdata/19421353!.pdf",]
 title = "PROTECTION FROM COMPUTER PORNOGRAPHY ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION OF FILIPINOS FROM OBSCENE AND INDECENT MATERIALS TRANSMITTED THROUGH COMPUTERS AMENDING FOR THE PURPOSE ART. 201 OF ACT NO. 3815 OTHERWISE KNOWN AS THE REVISED PENAL CODE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Computer Pornography Act", "Revised Penal Code (Art. 201/RA 3815)"
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19421353!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-752"
 
 [[history]]
 date = "2004-06-30"

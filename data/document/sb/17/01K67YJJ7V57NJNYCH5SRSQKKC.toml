@@ -6,7 +6,6 @@ name = "SBN-01487"
 [meta]
 bill_number = 1487
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1487", "https://web.senate.gov.ph/lisdata/2617622529!.pdf",]
 title = "LONE LEGISLATIVE DISTRICT OF GENERAL SANTOS CITY"
 date_filed = "2017-05-31"
 long_title = "AN ACT SEPARATING THE CITY OF GENERAL SANTOS FROM THE FIRST LEGISLATIVE DISTRICT OF THE PROVINCE OF SOUTH COTABATO TO CONSTITUTE THE LONE DISTRICT OF THE CITY OF GENERAL SANTOS"
@@ -15,6 +14,8 @@ subjects = [ "Legislative Districts",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2617622529!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1487"
 
 [[history]]
 date = "2017-05-31"

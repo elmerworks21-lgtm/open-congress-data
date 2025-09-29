@@ -6,7 +6,6 @@ name = "SBN-00118"
 [meta]
 bill_number = 118
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-118", "https://web.senate.gov.ph/lisdata/41983600!.pdf",]
 title = "LGUS SHARE OF ALLOTMENT FROM NATIONAL TAXES"
 date_filed = "2007-06-30"
 long_title = "AN ACT AMENDING SECTIONS 284 AND 286 OF REPUBLIC ACT 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Units (IRA)", "Internal Revenue Allotment (Ira; L
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41983600!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-118"
 
 [[history]]
 date = "2007-06-30"

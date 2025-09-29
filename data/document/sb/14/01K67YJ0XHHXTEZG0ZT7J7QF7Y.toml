@@ -6,7 +6,6 @@ name = "SBN-00265"
 [meta]
 bill_number = 265
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-265", "https://web.senate.gov.ph/lisdata/43653765!.pdf",]
 title = "EXPANDING EXCEPTIONS FROM NIGHT WORK PROHIBITION OF WOMEN EMPLOYEES"
 date_filed = "2007-06-30"
 long_title = "AN ACT EXPANDING THE EXCEPTIONS FROM THE NIGHT WORK PROHIBITION OF WOMEN EMPLOYEES, THEREBY AMENDING ARTICLE 131 OF PRESIDENTIAL DECREE FOUR HUNDRED FORTY-TWO (P.D.442), AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Night Work of Women Employees (Prohibition)", "Labor Code (Pd 442)
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43653765!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-265"
 
 [[history]]
 date = "2007-06-30"

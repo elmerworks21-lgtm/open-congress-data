@@ -6,7 +6,6 @@ name = "SBN-02005"
 [meta]
 bill_number = 2005
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2005", "https://web.senate.gov.ph/lisdata/1840515569!.pdf",]
 title = "KASAMBAHAY EMPOWERMENT ACT OF 2013"
 date_filed = "2013-12-09"
 long_title = "AN ACT STRENGTHENING THE RIGHTS OF DOMESTIC WORKERS TO ACCESS TO EDUCATION AND TRAINING, AND OTHER FORMS OF ADVANCEMENT, BY GRANTING EMPLOYERS TAX INCENTIVES, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Household Helpers",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1840515569!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2005"
 
 [[history]]
 date = "2013-12-09"

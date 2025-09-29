@@ -6,7 +6,6 @@ name = "SBN-02220"
 [meta]
 bill_number = 2220
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2220", "https://web.senate.gov.ph/lisdata/72026438!.pdf",]
 title = "SEXUAL HARASSMENT"
 date_filed = "2008-04-29"
 long_title = "AN ACT TO DEFINE THE PARAMETERS OF RESPONSIBILITY OF AN EMPLOYER IN CASES OF SEXUAL HARASSMENT IN THE WORKPLACE"
@@ -15,6 +14,8 @@ subjects = [ "Sexual Harassment",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72026438!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2220"
 
 [[history]]
 date = "2008-04-29"

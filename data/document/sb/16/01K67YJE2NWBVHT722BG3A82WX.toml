@@ -6,7 +6,6 @@ name = "SBN-02688"
 [meta]
 bill_number = 2688
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2688", "https://web.senate.gov.ph/lisdata/2076217856!.pdf",]
 title = "GOVERNMENT NURSES SALARY UPGRADING ACT"
 date_filed = "2015-03-11"
 long_title = "AN ACT UPGRADING THE MINIMUM SALARY GRADE OF GOVERNMENT NURSES FROM SALARY GRADE 11 TO 15"
@@ -15,6 +14,8 @@ subjects = [ "Nurses", "Salary Grade",]
 authors_raw = "Poe, Grace L., Legarda, Loren B."
 author_codes = ["LLORE", "PGRAC"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2076217856!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2688"
 
 [[history]]
 date = "2015-03-11"

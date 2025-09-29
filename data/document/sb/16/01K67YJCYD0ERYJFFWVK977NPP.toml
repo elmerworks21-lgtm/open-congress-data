@@ -6,7 +6,6 @@ name = "SBN-01024"
 [meta]
 bill_number = 1024
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1024", "https://web.senate.gov.ph/lisdata/1702314240!.pdf",]
 title = "PUBLISHER, EDITOR OR REPORTER OF ANY PUBLICATION"
 date_filed = "2013-07-22"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO.53, AS AMENDED, OTHERWISE KNOWN AS AN ACT TO EXEMPT THE PUBLISHER, EDITOR OR REPORTER OF ANY PUBLICATION FROM REVEALING THE SOURCE OF PUBLISHED NEWS OF INFORMATION OBTAINED IN CONFIDENCE BY, INCLUDING WITHIN ITS COVERAGE, JOURNALISTS FROM BROADCAST, NEWS AGENCIES AND INTERNET PUBLICATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Publisher/Editor/Reporter", "Media Practitioners",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1702314240!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1024"
 
 [[history]]
 date = "2013-07-22"

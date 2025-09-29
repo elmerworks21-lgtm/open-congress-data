@@ -6,7 +6,6 @@ name = "SBN-00879"
 [meta]
 bill_number = 879
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-879", "https://web.senate.gov.ph/lisdata/3871235165!.pdf",]
 title = "BURIAL ASSISTANCE ACT OF 2022"
 date_filed = "2022-07-25"
 long_title = "AN ACT PROVIDING BURIAL ASSISTANCE FOR UNCLAIMED REMAINS AND FOR INDIGENT DECEDENTS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Burial Assistance/Death Benefits", "Indigent Persons",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3871235165!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-879"
 
 [[history]]
 date = "2022-07-25"

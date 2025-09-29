@@ -6,7 +6,6 @@ name = "SBN-00048"
 [meta]
 bill_number = 48
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-48", "https://web.senate.gov.ph/lisdata/40963488!.pdf",]
 title = "ANTI-FIREARMS SMUGGLING ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT DEFINING THE CRIME OF FIREARMS SMUGGLING, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Firearms Smuggling",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/40963488!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-48"
 
 [[history]]
 date = "2007-06-30"

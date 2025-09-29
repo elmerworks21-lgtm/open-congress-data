@@ -6,7 +6,6 @@ name = "SBN-02881"
 [meta]
 bill_number = 2881
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2881", "https://web.senate.gov.ph/lisdata/117819912!.pdf",]
 title = "FAIR ELECTION ACT"
 date_filed = "2011-07-05"
 long_title = "AN ACT RELAXING AND LIBERALIZING THE LIMITS ON ACCESS TO PRINT SPACE AS WELL AS TV AND RADIO TIME OF POLITICAL PARTIES AND CANDIDATES DURING THE ELECTION CAMPAIGN THEREBY AMENDING SECTION 6 OF REPUBLIC ACT NO. 9006, OTHERWISE KNOWN AS THE FAIR ELECTION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Fair Election", "Political Party",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/117819912!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2881"
 
 [[history]]
 date = "2011-07-05"

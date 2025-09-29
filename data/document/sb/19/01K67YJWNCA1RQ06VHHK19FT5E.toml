@@ -6,7 +6,6 @@ name = "SBN-02486"
 [meta]
 bill_number = 2486
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2486", "https://web.senate.gov.ph/lisdata/4302439117!.pdf",]
 title = "NATIONAL PREVENTIVE MECHANISM (NPM) ACT OF 2023"
 date_filed = "2023-11-14"
 long_title = "AN ACT ESTABLISHING NATIONAL PREVENTIVE MECHANISM (NPM) IN COMPLIANCE WITH THE OPTIONAL PROTOCOL TO THE CONVENTION AGAINST TORTURE AND OTHER CRUEL, INHUMAN OR DEGRADING TREATMENT OR PUNISHMENT (OPCAT) AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Preventive Mechanism (NPM)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4302439117!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2486"
 
 [[history]]
 date = "2023-11-14"

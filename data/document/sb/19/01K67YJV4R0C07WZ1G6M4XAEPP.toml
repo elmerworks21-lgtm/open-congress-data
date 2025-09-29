@@ -6,7 +6,6 @@ name = "SBN-00396"
 [meta]
 bill_number = 396
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-396", "https://web.senate.gov.ph/lisdata/3815734597!.pdf",]
 title = "MAGNA CARTA OF BARANGAY HEALTH WORKERS"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF BARANGAY HEALTH WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Barangay Health Workers", "Barangay Health Worker",
 authors_raw = "Ejercito, Joseph Victor G., Escudero, Francis G."
 author_codes = ["EFRAN", "EJOSE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3815734597!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-396"
 
 [[history]]
 date = "2022-07-12"

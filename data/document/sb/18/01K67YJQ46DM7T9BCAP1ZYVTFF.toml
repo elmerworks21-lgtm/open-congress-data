@@ -6,7 +6,6 @@ name = "SBN-01087"
 [meta]
 bill_number = 1087
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1087", "https://web.senate.gov.ph/lisdata/3165328497!.pdf",]
 title = "TEACHING SUPPLIES ALLOWANCE ACT OF 2019"
 date_filed = "2019-10-01"
 long_title = "AN ACT INSTITUTIONALIZING THE GRANT OF A TEACHING SUPPLIES ALLOWANCE FOR PUBLIC SCHOOL TEACHERS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Teaching Supplies Allowance", "Public School Teachers",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3165328497!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1087"
 
 [[history]]
 date = "2019-10-01"

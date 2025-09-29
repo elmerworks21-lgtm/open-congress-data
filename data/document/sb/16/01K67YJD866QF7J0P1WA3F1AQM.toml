@@ -6,7 +6,6 @@ name = "SBN-01502"
 [meta]
 bill_number = 1502
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1502", "https://web.senate.gov.ph/lisdata/1760214837!.pdf",]
 title = "HEALTH AND EDUCATION ACCELERATION PROGRAM (HEAP) ACT OF 2013"
 date_filed = "2013-09-04"
 long_title = "AN ACT CREATING THE HEALTH AND EDUCATION ACCELERATION PROGRAM CORPORATION, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health and Education Acceleration Program (HEAP)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1760214837!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1502"
 
 [[history]]
 date = "2013-09-04"

@@ -6,7 +6,6 @@ name = "SBN-02541"
 [meta]
 bill_number = 2541
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2541", "https://web.senate.gov.ph/lisdata/64645317!.pdf",]
 title = "ANTI-RABIES ACT OF 2006"
 date_filed = "2006-11-24"
 long_title = "AN ACT PROVIDING FOR THE CONTROL AND ELIMINATION OF RABIES, PRESCRIBING PENALTIES FOR VIOLATION THEREOF AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Rabies Act",]
 authors_raw = "Villar Jr., Manuel B., Flavier, Juan M., Cayetano, Companera Pia S., Drilon, Franklin M."
 author_codes = ["CPIAS", "DFRAN", "FJUAN", "VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64645317!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2541"
 
 [[history]]
 date = "2006-11-24"

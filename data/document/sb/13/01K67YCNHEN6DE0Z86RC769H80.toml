@@ -6,7 +6,6 @@ name = "SBN-00309"
 [meta]
 bill_number = 309
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-309", "https://web.senate.gov.ph/lisdata/1466761!.pdf",]
 title = "PROHIBITING DISALLOWING STUDENTS TO TAKE MID-TERM/FINAL EXAM"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROHIBITING PRIVATE AND PUBLIC SCHOOLS FROM DISALLOWING STUDENTS WITH DELINQUENT TUITION FEES TO TAKE THE MID-TERM OR FINAL EXAMINATIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Students (Disallowing to Take Exam)", "Tuition Fees (Unpaid/Delinq
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1466761!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-309"
 
 [[history]]
 date = "2004-06-30"

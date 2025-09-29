@@ -6,7 +6,6 @@ name = "SBN-01907"
 [meta]
 bill_number = 1907
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1907", "https://web.senate.gov.ph/lisdata/31932380!.pdf",]
 title = "FUEL ETHANOL ACT OF 2005"
 date_filed = "2005-02-09"
 long_title = "AN ACT MANDATING THE USE OF ETHANOL AS ALTERNATIVE TRANSPORT FUEL, ESTABLISHING FOR THE PURPOSE THE NATIONAL FUEL ETHANOL PROGRAM, APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Ethanol (Alternative Transport Fuel)", "Fuel Ethanol Act of 2005",
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31932380!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1907"
 
 [[history]]
 date = "2005-02-09"

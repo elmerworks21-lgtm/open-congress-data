@@ -6,7 +6,6 @@ name = "SBN-00679"
 [meta]
 bill_number = 679
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-679", "https://web.senate.gov.ph/lisdata/3104827946!.pdf",]
 title = "NO GARAGE, NO CAR ACT OF 2019"
 date_filed = "2019-07-22"
 long_title = "AN ACT REQUIRING PARKING SPACE FROM MOTOR VEHICLE BUYERS IN METROPOLITAN AREAS AS A PRE-REQUISITE FOR THE PURCHASE OF A MOTOR VEHICLE AND REGISTRATION WITH THE LAND TRANSPORTATION OFFICE (LTO)"
@@ -15,6 +14,8 @@ subjects = [ "Parking Space", "Motor Vehicles",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3104827946!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-679"
 
 [[history]]
 date = "2019-07-22"

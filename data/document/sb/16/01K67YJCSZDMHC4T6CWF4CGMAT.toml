@@ -6,7 +6,6 @@ name = "SBN-00816"
 [meta]
 bill_number = 816
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-816", "https://web.senate.gov.ph/lisdata/1679414028!.pdf",]
 title = "MARITIME SAFETY ACT OF 2013"
 date_filed = "2013-07-16"
 long_title = "AN ACT TO RESTORE THE PHILIPPINE COAST GUARD (PCG) OF ITS AUTHORITY AND RESPONSIBILITY TO PERFORM SHIP SAFETY INSPECTION SERVICES AND CARRY OUT OTHER SHIP SAFETY ENFORCEMENT FUNCTIONS, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9993, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Maritime Safety", "Philippine Coast Guard",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1679414028!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-816"
 
 [[history]]
 date = "2013-07-16"

@@ -6,7 +6,6 @@ name = "SBN-01992"
 [meta]
 bill_number = 1992
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1992", "https://web.senate.gov.ph/lisdata/4114637463!.pdf",]
 title = "LOW CARBON ECONOMY ACT OF 2023"
 date_filed = "2023-03-14"
 long_title = "AN ACT PROMOTING A LOW CARBON ECONOMY, ESTABLISHING FOR THIS PURPOSE AND EMISSION TRADING SYSTEM AND IMPLEMENTATION MECHANISM TO ACHIEVE NATIONAL CLIMATE TARGETS"
@@ -15,6 +14,8 @@ subjects = [ "Low Carbon Economy",]
 authors_raw = "Legarda, Loren B., Villanueva, Joel"
 author_codes = ["LLORE", "VEMMA"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4114637463!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1992"
 
 [[history]]
 date = "2023-03-14"

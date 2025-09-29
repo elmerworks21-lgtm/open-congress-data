@@ -6,7 +6,6 @@ name = "SBN-01789"
 [meta]
 bill_number = 1789
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1789", "https://web.senate.gov.ph/lisdata/1798915220!.pdf",]
 title = "RIGHT TO KNOW ABOUT AIRPORT POLLUTION ACT"
 date_filed = "2013-10-03"
 long_title = "AN ACT REQUIRING THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES TO CONDUCT A FEASIBILITY STUDY FOR APPLYING AIRPORT BUBBLES AS A METHOD OF IDENTIFYING, ASSESSING, AND REDUCING THE ADVERSE ENVIRONMENTAL IMPACTS OF THE AIRPORT GROUND AND FLIGHT OPERATIONS AND IMPROVING THE OVERALL QUALITY OF THE ENVIRONMENT"
@@ -15,6 +14,8 @@ subjects = [ "Airport", "Department of Environment and Natural Resources (DENR)"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1798915220!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1789"
 
 [[history]]
 date = "2013-10-03"

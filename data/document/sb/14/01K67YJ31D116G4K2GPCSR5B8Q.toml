@@ -6,7 +6,6 @@ name = "SBN-03095"
 [meta]
 bill_number = 3095
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3095", "https://web.senate.gov.ph/lisdata/104019272!.pdf",]
 title = "NATIONAL INSTITUTE FOR LITERACY ACT"
 date_filed = "2009-02-24"
 long_title = "AN ACT CREATING THE NATIONAL INSTITUTE FOR LITERACY"
@@ -15,6 +14,8 @@ subjects = [ "National Institute for Literacy",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/104019272!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3095"
 
 [[history]]
 date = "2009-02-24"

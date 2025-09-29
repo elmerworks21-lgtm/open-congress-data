@@ -6,7 +6,6 @@ name = "SBN-01531"
 [meta]
 bill_number = 1531
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1531", "https://web.senate.gov.ph/lisdata/27462112!.pdf",]
 title = "INCREASE PENALTY FOR CUSTODIAL INFIDELITY OF PRISONERS"
 date_filed = "2004-07-27"
 long_title = "AN ACT INCREASING THE PENALTY FOR INFIDELITY IN THE CUSTODY OF PRISONERS, AMENDING FOR THE PURPOSE ARTICLE 223 AND 224, CHAPTER 5, TITLE SEVEN, BOOK TWO OF ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Prisoner Escape/Evasion", "Revised Penal Code (Art. 223/224)", "Cu
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27462112!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1531"
 
 [[history]]
 date = "2004-07-27"

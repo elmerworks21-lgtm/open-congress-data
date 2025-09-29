@@ -6,7 +6,6 @@ name = "SBN-00913"
 [meta]
 bill_number = 913
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-913", "https://web.senate.gov.ph/lisdata/20091603!.pdf",]
 title = "EDUCATION AND HERITAGE PROGRAM FOR OVERSEAS FILIPINOS ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROVIDE FOR THE PRESERVATION AND CULTIVATION OF THE FILIPINO HERITAGE AMONG FILIPINOS OVERSEAS THROUGH THE TEACHING OF FILIPINO LANGUAGE AND HISTORY, ASSISTANCE IN THE ESTABLISHMENT AND OPERATION OF PHILIPPINE SCHOOLS AND FILIPINIANA RESOURCE CENTERS ABROAD, AND THE CREATION OF A COMMITTEE ON HERITAGE AND CULTURE FOR OVERSEAS FILIPINOS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Education and Heritage Program for OFWs", "Overseas Filipino Worke
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20091603!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-913"
 
 [[history]]
 date = "2004-06-30"

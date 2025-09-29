@@ -6,7 +6,6 @@ name = "SBN-00917"
 [meta]
 bill_number = 917
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-917", "https://web.senate.gov.ph/lisdata/2447321058!.pdf",]
 title = "FILIPINO IDENTIFICATION SYSTEM ACT"
 date_filed = "2016-07-28"
 long_title = "AN ACT ESTABLISHING THE FILIPINO IDENTIFICATION SYSTEM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Identification System",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2447321058!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-917"
 
 [[history]]
 date = "2016-07-28"

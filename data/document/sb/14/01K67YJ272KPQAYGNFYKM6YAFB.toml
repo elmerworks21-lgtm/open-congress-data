@@ -6,7 +6,6 @@ name = "SBN-01952"
 [meta]
 bill_number = 1952
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1952", "https://web.senate.gov.ph/lisdata/65705817!.pdf",]
 title = "ARBOR DAY ACT OF 2007"
 date_filed = "2007-12-10"
 long_title = "AN ACT AUTHORIZING THE LOCAL GOVERNMENT UNITS TO DECLARE A DAY DEDICATED TO TREE PLANTING TO BE KNOWN AS 'ARBOR DAY', APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tree Planting",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/65705817!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1952"
 
 [[history]]
 date = "2007-12-10"

@@ -6,7 +6,6 @@ name = "SBN-00144"
 [meta]
 bill_number = 144
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-144", "https://web.senate.gov.ph/lisdata/42423630!.pdf",]
 title = "VOLUNTEER ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO ENCOURAGE VOLUNTEERISM BY PROVIDING PROTECTION FROM LIABILITY OF VOLUNTEERS SERVING IN NON-PROFIT ORGANIZATIONS AND GOVERNMENTAL ENTITIES AND ALLOWING THE GRANT OF INCENTIVES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Volunteer Act of 2007",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42423630!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-144"
 
 [[history]]
 date = "2007-06-30"

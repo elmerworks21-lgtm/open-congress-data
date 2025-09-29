@@ -6,7 +6,6 @@ name = "SBN-00601"
 [meta]
 bill_number = 601
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-601", "https://web.senate.gov.ph/lisdata/4698042982!.pdf",]
 title = "CHILDRENS SAFETY IN SOCIAL MEDIA ACT"
 date_filed = "2025-07-15"
 long_title = "AN ACT REGULATING CHILDREN'S USE OF SOCIAL MEDIA TOWARDS PROMOTING THEIR SAFETY, WELL-BEING, AND RESPONSIBLE DIGITAL USAGE"
@@ -15,6 +14,8 @@ subjects = [ "Children Safety", "Social Media",]
 authors_raw = "Padilla, Robinhood"
 author_codes = ["PROBI"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4698042982!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-601"
 
 [[history]]
 date = "2025-07-15"

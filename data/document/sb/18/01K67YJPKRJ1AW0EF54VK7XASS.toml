@@ -6,7 +6,6 @@ name = "SBN-00332"
 [meta]
 bill_number = 332
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-332", "https://web.senate.gov.ph/lisdata/3061827473!.pdf",]
 title = "SUSTAINABLE TRANSPORTATION ACT OF 2019"
 date_filed = "2019-07-10"
 long_title = "AN ACT PROMOTING SUSTAINABLE AND ALTERNATIVE MODES OF TRANSPORTATION AND OTHER MOBILITY OPTIONS TO IMPROVE AIR QUALITY, INCREASE EFFICIENCY, REDUCE CONGESTION, AND CONTRIBUTE TO POSITIVE HEALTH IMPACTS IN OUR SOCIETY"
@@ -15,6 +14,8 @@ subjects = [ "Sustainable Transportation", "Transportation/Transport Sector",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["SDGIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3061827473!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-332"
 
 [[history]]
 date = "2019-07-10"

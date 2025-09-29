@@ -6,7 +6,6 @@ name = "SBN-01872"
 [meta]
 bill_number = 1872
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1872", "https://web.senate.gov.ph/lisdata/31212325!.pdf",]
 title = "REVISED FORESTRY CODE (AMENDMENTS)"
 date_filed = "2004-12-08"
 long_title = "AN ACT AMENDING SECTION SEVENTY-EIGHT OF PRESIDENTIAL DECREE NUMBERED SEVEN HUNDRED FIVE, AS AMENDED, OTHERWISE KNOWN AS THE REVISED FORESTRY CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Revised Forestry Code (Pd 705, Amendment", "Illegal Logging (Cutti
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31212325!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1872"
 
 [[history]]
 date = "2004-12-08"

@@ -6,7 +6,6 @@ name = "SBN-01408"
 [meta]
 bill_number = 1408
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1408", "https://web.senate.gov.ph/lisdata/26231987!.pdf",]
 title = "IRRI WORKER'S RIGHTS TO SELF-ORGANIZATION"
 date_filed = "2004-07-07"
 long_title = "AN ACT PROTECTING THE RIGHTS TO LABOR OF THE WORKERS OF THE INTERNATIONAL RICE RESEARCH INSTITUTE (IRRI) AS ENSHRINED BY THE 1987 CONSTITUTION AMENDING FOR THE PURPOSE ARTICLE 3 OF PRESIDENTIAL DECREE NO. 1620 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "International Rice Research Institute", "Workers Right to Self-Org
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26231987!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1408"
 
 [[history]]
 date = "2004-07-07"

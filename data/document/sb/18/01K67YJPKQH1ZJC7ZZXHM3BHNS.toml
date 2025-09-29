@@ -6,7 +6,6 @@ name = "SBN-00331"
 [meta]
 bill_number = 331
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-331", "https://web.senate.gov.ph/lisdata/3061727472!.pdf",]
 title = "DISASTER RESILIENCE ACT OF 2019"
 date_filed = "2019-07-10"
 long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS POWER AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Department of Disaster Resilience", "Disaster Risk Reduction and M
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3061727472!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-331"
 
 [[history]]
 date = "2019-07-10"

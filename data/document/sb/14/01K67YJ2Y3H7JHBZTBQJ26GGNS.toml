@@ -6,7 +6,6 @@ name = "SBN-02948"
 [meta]
 bill_number = 2948
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2948", "https://web.senate.gov.ph/lisdata/96498688!.pdf",]
 title = "PINOY INNOVENTOR ACT OF 2008"
 date_filed = "2008-12-08"
 long_title = "AN ACT TO ESTABLISH A PROGRAM TO AWARD INNOVATION PRIZES TO INDIVIDUALS AND ENTITIES FOR RESEARCHING AND DEVELOPING INNOVATIVE TECHNOLOGIES, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/96498688!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2948"
 
 [[history]]
 date = "2008-12-08"

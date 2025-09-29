@@ -6,7 +6,6 @@ name = "SBN-01138"
 [meta]
 bill_number = 1138
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1138", "https://web.senate.gov.ph/lisdata/3175128600!.pdf",]
 title = "LOCAL GOVERNMENT AGRICULTURE DEVELOPMENT ACT OF 2019"
 date_filed = "2019-11-04"
 long_title = "AN ACT STRENGTHENING LOCAL GOVERNMENT PARTICIPATION IN AGRICULTURE DEVELOPMENT BY INSTITUTIONALIZING A TEN PERCENT (10%) BUDGETARY ALLOCATION FROM THEIR INTERNAL REVENUE ALLOTMENT FOR THE IMPLEMENTATION OF PROGRAMS, ACTIVITIES, AND SERVICES FOR AGRICULTURE AND FISHERIES, AND AMENDING FOR THE PURPOSE SECTIONS 17, 106, 107, 110, 287, 443, 454, 482(A), AND 511-A OF REPUBLIC ACT 7160 OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Agriculture Development", "Local Government Code 
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3175128600!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1138"
 
 [[history]]
 date = "2019-11-04"

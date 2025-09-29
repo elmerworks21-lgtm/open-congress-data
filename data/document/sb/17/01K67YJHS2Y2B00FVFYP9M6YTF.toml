@@ -6,7 +6,6 @@ name = "SBN-00915"
 [meta]
 bill_number = 915
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-915", "https://web.senate.gov.ph/lisdata/2447121056!.pdf",]
 title = "NATIONAL MUSEUM OF THE PHILIPPINES ACT OF 2016"
 date_filed = "2016-07-28"
 long_title = "AN ACT STRENGTHENING THE NATIONAL MUSEUM OF THE PHILIPPINES, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 8492, OTHERWISE KNOWN AS THE NATIONAL MUSEUM ACT OF 1998, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "National Museum",]
 authors_raw = "Legarda, Loren B., Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI", "LLORE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2447121056!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-915"
 
 [[history]]
 date = "2016-07-28"

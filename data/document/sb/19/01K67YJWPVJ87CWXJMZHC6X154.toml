@@ -6,7 +6,6 @@ name = "SBN-02544"
 [meta]
 bill_number = 2544
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2544", "https://web.senate.gov.ph/lisdata/4343039512!.pdf",]
 title = "VETERANS HOSPITAL ACT OF 2024"
 date_filed = "2024-02-07"
 long_title = "AN ACT INSTITUTIONALIZING THE ESTABLISHMENT OF VETERANS HOSPITAL IN VISAYAS AND MINDANAO"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Veterans Hospital", "Hospitals",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4343039512!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2544"
 
 [[history]]
 date = "2024-02-07"

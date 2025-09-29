@@ -6,7 +6,6 @@ name = "SBN-00384"
 [meta]
 bill_number = 384
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-384", "https://web.senate.gov.ph/lisdata/1542842!.pdf",]
 title = "PROFESSIONAL MEMBERSHIP ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR AUTOMATIC MEMBERSHIP OF PROFESSIONALS TO RESPECTIVE ACCREDITED ASSOCIATIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Professional Membership Act", "Professional Regulation Commission 
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1542842!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-384"
 
 [[history]]
 date = "2004-06-30"

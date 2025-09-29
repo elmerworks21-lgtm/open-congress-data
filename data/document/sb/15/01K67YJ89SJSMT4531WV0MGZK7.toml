@@ -6,7 +6,6 @@ name = "SBN-01691"
 [meta]
 bill_number = 1691
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1691", "https://web.senate.gov.ph/lisdata/92807794!.pdf",]
 title = "ANIMAL WELFARE AND CONTROL ACT"
 date_filed = "2010-07-21"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8485, ALSO KNOWN AS, THE ANIMAL WELFARE ACT OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Animal Welfare",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/92807794!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1691"
 
 [[history]]
 date = "2010-07-21"

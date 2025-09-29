@@ -6,7 +6,6 @@ name = "SBN-00890"
 [meta]
 bill_number = 890
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-890", "https://web.senate.gov.ph/lisdata/20881578!.pdf",]
 title = "GENERIC ACT (AMENDMENT CREATING THE 'GENERIC BOARD')"
 date_filed = "2004-06-30"
 long_title = "AN ACT FURTHER ENSURING THE USE OF THE GENERIC NAMES IN THE MANUFACTURE, PRESCRIPTION AND DISTRIBUTION OF DRUGS AND MEDICINES AMENDING FOR THE PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED 6675, OTHERWISE KNOWN AS THE `GENERIC ACT OF 1988', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Generic Act (RA 6675, Generic Board)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20881578!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-890"
 
 [[history]]
 date = "2004-06-30"

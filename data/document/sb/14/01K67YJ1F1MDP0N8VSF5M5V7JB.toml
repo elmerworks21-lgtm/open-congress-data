@@ -6,7 +6,6 @@ name = "SBN-01122"
 [meta]
 bill_number = 1122
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1122", "https://web.senate.gov.ph/lisdata/54064782!.pdf",]
 title = "MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE"
 date_filed = "2007-07-04"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 3815, ALSO KNOWN AS THE REVISED PENAL CODE, AS AMENDED, ARTICLE 186 ON MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE"
@@ -15,6 +14,8 @@ subjects = [ "Monopoly/Monopolies", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54064782!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1122"
 
 [[history]]
 date = "2007-07-04"

@@ -6,7 +6,6 @@ name = "SBN-00797"
 [meta]
 bill_number = 797
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-797", "https://web.senate.gov.ph/lisdata/19871433!.pdf",]
 title = "CHILD AND YOUTH WELFARE CODE, AMENDMENT"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING SECTIONS 2 AND 5 OF PRESIDENTIAL DECREE NO. 1179, ENTITLED 'AN ACT AMENDING CERTAIN PROVISIONS OF CHAPTER THREE, TITLE EIGHT OF PRESIDENTIAL DECREE NUMBERED SIX HUNDRED AND THREE OTHERWISE KNOWN AS THE CHILD AND YOUTH WELFARE CODE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Child and Youth Welfare Code", "Youth Offender (Age Range)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19871433!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-797"
 
 [[history]]
 date = "2004-06-30"

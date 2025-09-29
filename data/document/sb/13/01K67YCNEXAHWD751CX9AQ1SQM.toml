@@ -6,7 +6,6 @@ name = "SBN-00175"
 [meta]
 bill_number = 175
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-175", "https://web.senate.gov.ph/lisdata/13231121!.pdf",]
 title = "MAGNA CARTA FOR CRIME VICTIMS"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING THE RIGHTS TO BE ACCORDED VICTIMS OF CRIMES, DEFINING THE DUTIES OF RESPONSIBLE OFFICERS AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Crime Victims",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/13231121!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-175"
 
 [[history]]
 date = "2004-06-30"

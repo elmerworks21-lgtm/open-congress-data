@@ -6,7 +6,6 @@ name = "SBN-00844"
 [meta]
 bill_number = 844
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-844", "https://web.senate.gov.ph/lisdata/4741043413!.pdf",]
 title = "THE TAXPAYERS BILL OF RIGHTS AND OBLIGATIONS ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT PROVIDING FOR THE BILL OF RIGHTS AND OBLIGATIONS OF TAXPAYERS, CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxpayer Bill of Rights",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4741043413!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-844"
 
 [[history]]
 date = "2025-08-04"

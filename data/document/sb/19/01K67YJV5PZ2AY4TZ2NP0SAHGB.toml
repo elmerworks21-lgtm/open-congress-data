@@ -6,7 +6,6 @@ name = "SBN-00440"
 [meta]
 bill_number = 440
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-440", "https://web.senate.gov.ph/lisdata/3820134639!.pdf",]
 title = "ESTABLISHING THE NATIONAL CANCER CENTER OF THE PHILIPPINES (NCCP)"
 date_filed = "2022-07-12"
 long_title = "AN ACT ESTABLISHING THE NATIONAL CANCER CENTER OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "National Cancer Center of the Philippines (NCCP)", "Hospitals (Spe
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3820134639!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-440"
 
 [[history]]
 date = "2022-07-12"

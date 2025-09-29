@@ -6,7 +6,6 @@ name = "SBN-00394"
 [meta]
 bill_number = 394
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-394", "https://web.senate.gov.ph/lisdata/4688642892!.pdf",]
 title = "DISSOLUTION OF MARRIAGE ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT EXPANDING THE GROUNDS FOR DISSOLUTION OF MARRIAGE, INSTITUTING DIVORCE AND SETTING THE PROCEDURES THEREOF, PROVIDING PROTECTIONS TO THE PARTIES TO THE MARRIAGE AND ITS COMMON CHILDREN, AMENDING FOR THIS PURPOSE EXECUTIVE ORDER NO. 209, OR THE FAMILY CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Dissolution of Marriage", "Family Code(E.O.No. 209)",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4688642892!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-394"
 
 [[history]]
 date = "2025-07-10"

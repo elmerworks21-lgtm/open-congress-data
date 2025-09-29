@@ -6,7 +6,6 @@ name = "SBN-00690"
 [meta]
 bill_number = 690
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-690", "https://web.senate.gov.ph/lisdata/2421020818!.pdf",]
 title = "MAGNA CARTA OF THE POOR"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF THE POOR"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of the Poor",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2421020818!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-690"
 
 [[history]]
 date = "2016-07-20"

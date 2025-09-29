@@ -6,7 +6,6 @@ name = "SBN-00213"
 [meta]
 bill_number = 213
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-213", "https://web.senate.gov.ph/lisdata/4669042695!.pdf",]
 title = "PROTEKTADONG ONLINE WORKERS, ENTREPRENEURS, RIDERS AT RAKETERA (POWERR) ACT OF 2025"
 date_filed = "2025-07-07"
 long_title = "AN ACT REGULATING WORK MEDIATED, ORGANIZED, OR ALLOCATED THROUGH ONLINE PLATFORMS FOR THE PROTECTION OF PHILIPPINE WORKERS IN THE GIG ECONOMY"
@@ -15,6 +14,8 @@ subjects = [ "Online Gig Economy Platforms", "Workers Protection",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4669042695!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-213"
 
 [[history]]
 date = "2025-07-07"

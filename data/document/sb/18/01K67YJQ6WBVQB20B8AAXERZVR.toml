@@ -6,7 +6,6 @@ name = "SBN-01205"
 [meta]
 bill_number = 1205
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1205", "https://web.senate.gov.ph/lisdata/3193628790!.pdf",]
 title = "LABOR EDUCATION ACT OF 2019"
 date_filed = "2019-11-27"
 long_title = "AN ACT INTEGRATING LABOR EDUCATION INTO THE SOCIAL SCIENCE SUBJECTS IN THE HIGHER EDUCATION CURRICULUM"
@@ -15,6 +14,8 @@ subjects = [ "Labor Education", "Curriculum/Curricula",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3193628790!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1205"
 
 [[history]]
 date = "2019-11-27"

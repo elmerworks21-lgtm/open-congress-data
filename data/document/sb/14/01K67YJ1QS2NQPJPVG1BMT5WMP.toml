@@ -6,7 +6,6 @@ name = "SBN-01548"
 [meta]
 bill_number = 1548
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1548", "https://web.senate.gov.ph/lisdata/58595221!.pdf",]
 title = "MAGNA CARTA FOR PRIVATE SCHOOL TEACHERS"
 date_filed = "2007-09-11"
 long_title = "THE MAGNA CARTA FOR PRIVATE SCHOOL TEACHERS"
@@ -15,6 +14,8 @@ subjects = [ "Private Sector", "Teacher Profession/Teaching Profession",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZMIGU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58595221!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1548"
 
 [[history]]
 date = "2007-09-11"

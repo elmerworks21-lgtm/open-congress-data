@@ -6,7 +6,6 @@ name = "SBN-01623"
 [meta]
 bill_number = 1623
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1623", "https://web.senate.gov.ph/lisdata/3305729900!.pdf",]
 title = "QUIRINO MEMORIAL MEDICAL CENTER"
 date_filed = "2020-06-18"
 long_title = "AN ACT INCREASING THE BED CAPACITY OF QUIRINO MEMORIAL MEDICAL CENTER FROM FIVE HUNDRED (500) BEDS TO ONE THOUSAND (1,000) BEDS AND APPROPRIATING FUNDS FOR IT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Increase Bed Capacity",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3305729900!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1623"
 
 [[history]]
 date = "2020-06-18"

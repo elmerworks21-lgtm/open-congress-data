@@ -6,7 +6,6 @@ name = "SBN-00135"
 [meta]
 bill_number = 135
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-135", "https://web.senate.gov.ph/lisdata/3039327234!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2019-07-02"
 long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
@@ -15,6 +14,8 @@ subjects = [ "Seafarers", "Magna Carta of Filipino Seafarers",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3039327234!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-135"
 
 [[history]]
 date = "2019-07-02"

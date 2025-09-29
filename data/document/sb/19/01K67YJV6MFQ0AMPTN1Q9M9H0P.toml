@@ -6,7 +6,6 @@ name = "SBN-00483"
 [meta]
 bill_number = 483
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-483", "https://web.senate.gov.ph/lisdata/3824434681!.pdf",]
 title = "ENHANCED CSP ACT"
 date_filed = "2022-07-13"
 long_title = "AN ACT ENHANCING THE COMPETITIVE SELECTION PROCESS FOR POWER SUPPLY AGREEMENTS IN THE ELECTRIC POWER SECTOR"
@@ -15,6 +14,8 @@ subjects = [ "Power Supply", "Competitive Selection Process (CSP)",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3824434681!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-483"
 
 [[history]]
 date = "2022-07-13"

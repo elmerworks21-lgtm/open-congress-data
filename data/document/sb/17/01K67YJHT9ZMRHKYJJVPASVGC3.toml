@@ -6,7 +6,6 @@ name = "SBN-00972"
 [meta]
 bill_number = 972
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-972", "https://web.senate.gov.ph/lisdata/2453021112!.pdf",]
 title = "FREE MEDICINE FOR THE POOR ACT"
 date_filed = "2016-08-03"
 long_title = "AN ACT ESTABLISHING A FREE MEDICINE ASSISTANCE PROGRAM FOR THE POOR AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Medical/Dental Assistance", "Poverty Alleviation",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2453021112!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-972"
 
 [[history]]
 date = "2016-08-03"

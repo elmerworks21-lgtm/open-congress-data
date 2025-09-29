@@ -6,7 +6,6 @@ name = "SBN-02695"
 [meta]
 bill_number = 2695
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2695", "https://web.senate.gov.ph/lisdata/2077517872!.pdf",]
 title = "PENALIZING THE CRIME OF AGRI-BIOTERRORISM"
 date_filed = "2015-03-16"
 long_title = "AN ACT DEFINING AND PENALIZING THE CRIME OF AGRI-BIOTERRORISM"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Products", "Crime of Agri-Bioterrorism",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2077517872!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2695"
 
 [[history]]
 date = "2015-03-16"

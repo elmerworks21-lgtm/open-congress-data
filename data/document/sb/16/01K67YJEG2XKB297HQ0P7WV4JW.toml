@@ -6,7 +6,6 @@ name = "SBN-03052"
 [meta]
 bill_number = 3052
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3052", "https://web.senate.gov.ph/lisdata/2277219497!.pdf",]
 title = "HEALTHY WORKFORCE ACT"
 date_filed = "2016-01-11"
 long_title = "AN ACT PROVIDING A TAX CREDIT TO EMPLOYERS FOR THE COSTS OF IMPLEMENTING WELLNESS PROGRAMS"
@@ -15,6 +14,8 @@ subjects = [ "Health Care", "Healthy Workforce Act", "Tax Credit",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2277219497!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3052"
 
 [[history]]
 date = "2016-01-11"

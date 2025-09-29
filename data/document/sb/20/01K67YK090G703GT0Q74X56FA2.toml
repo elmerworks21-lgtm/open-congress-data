@@ -6,7 +6,6 @@ name = "SBN-00805"
 [meta]
 bill_number = 805
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-805", "https://web.senate.gov.ph/lisdata/4735243351!.pdf",]
 title = "LANGUAGE ACCESSIBILITY OF PUBLIC INFORMATION ON DISASTERS ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT REQUIRING DISASTER-RELATED INFORMATION TO BE STATED IN ACCESSIBLE LANGUAGE TO ENSURE PUBLIC UNDERSTANDING THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Language Accessibility of Public Information on Disasters",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4735243351!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-805"
 
 [[history]]
 date = "2025-08-04"

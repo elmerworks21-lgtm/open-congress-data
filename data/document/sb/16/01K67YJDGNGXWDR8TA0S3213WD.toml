@@ -6,7 +6,6 @@ name = "SBN-01914"
 [meta]
 bill_number = 1914
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1914", "https://web.senate.gov.ph/lisdata/1823415424!.pdf",]
 title = "FAMILY AND MEDICAL LEAVE ACT"
 date_filed = "2013-11-11"
 long_title = "AN ACT GRANTING FAMILY AND TEMPORARY MEDICAL LEAVE UNDER CERTAIN CIRCUMSTANCES"
@@ -15,6 +14,8 @@ subjects = [ "Leave of Absence (Family", "Medical Leave)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1823415424!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1914"
 
 [[history]]
 date = "2013-11-11"

@@ -6,7 +6,6 @@ name = "SBN-02616"
 [meta]
 bill_number = 2616
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2616", "https://web.senate.gov.ph/lisdata/84097614!.pdf",]
 title = "ANTI-POLITICAL RECOMMENDATIONS ACT"
 date_filed = "2008-09-15"
 long_title = "AN ACT TO PROHIBIT THE USE, SOLICITATION AND OFFER OF RECOMMENDATIONS FOR PURPOSES OF APPOINTMENT, PROMOTION, ASSIGNMENT, TRANSFER, OR DESIGNATION, INTERIM OR OTHERWISE, OF PUBLIC OFFICER OR EMPLOYEE"
@@ -15,6 +14,8 @@ subjects = [ "Public Officials/Government Officials", "Solicitations",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84097614!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2616"
 
 [[history]]
 date = "2008-09-15"

@@ -6,7 +6,6 @@ name = "SBN-02917"
 [meta]
 bill_number = 2917
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2917", "https://web.senate.gov.ph/lisdata/2206018776!.pdf",]
 title = "FERTILIZER CONTENT ACT"
 date_filed = "2015-08-26"
 long_title = "AN ACT TO REGULATE FERTILIZER INGREDIENTS"
@@ -15,6 +14,8 @@ subjects = [ "Fertilizer",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2206018776!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2917"
 
 [[history]]
 date = "2015-08-26"

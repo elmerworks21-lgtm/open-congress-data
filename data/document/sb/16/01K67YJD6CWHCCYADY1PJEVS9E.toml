@@ -6,7 +6,6 @@ name = "SBN-01412"
 [meta]
 bill_number = 1412
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1412", "https://web.senate.gov.ph/lisdata/1750814744!.pdf",]
 title = "FAMILY CODE (ART. 236)"
 date_filed = "2013-08-29"
 long_title = "AN ACT AMENDING ART. 236 OF EXECUTIVE ORDER NO. 209, ALSO KNOWN AS THE FAMILY CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Family Code(E.O.No. 209)", "Parents",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1750814744!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1412"
 
 [[history]]
 date = "2013-08-29"

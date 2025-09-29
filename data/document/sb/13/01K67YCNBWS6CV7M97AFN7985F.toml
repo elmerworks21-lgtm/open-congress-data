@@ -6,7 +6,6 @@ name = "SBN-00010"
 [meta]
 bill_number = 10
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-10", "https://web.senate.gov.ph/lisdata/1139563!.pdf",]
 title = "SECURITY OF TENURE FOR AGRARIAN REFORM BENEFICIARIES"
 date_filed = "2004-06-30"
 long_title = "AN ACT ENSURING SECURITY OF TENURE FOR AGRARIAN REFORM BENEFICIARIES OVER LANDS AWARDED TO THEM UNDER PRESIDENTIAL DECREE NO. 27 (EMANCIPATION OF TENANTS) AND REPUBLIC ACT NO. 6657 (COMPREHENSIVE AGRARIAN REFORM LAW OF 1988), PROVIDING GUIDELINES FOR THE CANCELLATION OF EMANCIPATION PATENTS AND CERTIFICATES OF LAND OWNERSHIP AWARDS ON THE GROUNDS OF EXEMPTION AND EXCLUSION, RETENTION OR NON-QUALIFICATION, DEFINING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Comprehensive Agrarian Reform Law", "Security of Tenure (Farmers)"
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["AGRAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1139563!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-10"
 
 [[history]]
 date = "2004-06-30"

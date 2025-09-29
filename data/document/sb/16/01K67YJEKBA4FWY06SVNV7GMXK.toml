@@ -6,7 +6,6 @@ name = "SBN-03211"
 [meta]
 bill_number = 3211
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3211", "https://web.senate.gov.ph/lisdata/2307119809!.pdf",]
 title = "ANTI-DISTRACTED DRIVING ACT"
 date_filed = "2016-02-02"
 long_title = "AN ACT DEFINING AND PENALIZING DISTRACTED DRIVING"
@@ -15,6 +14,8 @@ subjects = [ "Driving Behavior",]
 authors_raw = "Ejercito-Estrada, Jinggoy P., Revilla Jr., Ramon A., Osmena III, Sergio R."
 author_codes = ["EJING", "OSERG", "RRAMO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2307119809!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3211"
 
 [[history]]
 date = "2016-02-02"

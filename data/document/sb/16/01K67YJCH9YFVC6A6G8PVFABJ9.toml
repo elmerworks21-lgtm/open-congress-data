@@ -6,7 +6,6 @@ name = "SBN-00390"
 [meta]
 bill_number = 390
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-390", "https://web.senate.gov.ph/lisdata/1625213481!.pdf",]
 title = "FEEDING PROGRAM FOR PUBLIC SCHOOL CHILDREN ACT"
 date_filed = "2013-07-03"
 long_title = "AN ACT PROVIDING FOR A FEEDING PROGRAM FOR SCHOOL CHILDREN IN PUBLIC KINDERGARTEN AND ELEMENTARY SCHOOLS THROUGHOUT THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Children/Child Care", "Kindergarten", "Nutrition",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1625213481!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-390"
 
 [[history]]
 date = "2013-07-03"

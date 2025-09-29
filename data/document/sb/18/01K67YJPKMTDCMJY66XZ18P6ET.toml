@@ -6,7 +6,6 @@ name = "SBN-00327"
 [meta]
 bill_number = 327
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-327", "https://web.senate.gov.ph/lisdata/3061227468!.pdf",]
 title = "THE MINDANAO RAILWAYS CORPORATION"
 date_filed = "2019-07-10"
 long_title = "AN ACT CREATING THE MINDANAO RAILWAYS CORPORATION, PRESCRIBING ITS POWERS, FUNCTIONS AND DUTIES, AND PROVIDING FOR THE NECESSARY FUNDS FOR ITS OPERATION"
@@ -15,6 +14,8 @@ subjects = [ "Mindanao Railways Corporation",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3061227468!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-327"
 
 [[history]]
 date = "2019-07-10"

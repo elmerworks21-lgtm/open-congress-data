@@ -6,7 +6,6 @@ name = "SBN-00215"
 [meta]
 bill_number = 215
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-215", "https://web.senate.gov.ph/lisdata/4669242697!.pdf",]
 title = "LINGAP PARA KAY LOLO AT LOLA ACT"
 date_filed = "2025-07-07"
 long_title = "AN ACT GRANTING UNIVERSAL SOCIAL PENSION TO ALL SENIOR CITIZENS AGED 60 YEARS OLD AND ABOVE, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 7432, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizen/Elderly", "Universal Social Pension",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4669242697!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-215"
 
 [[history]]
 date = "2025-07-07"

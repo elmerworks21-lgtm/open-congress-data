@@ -6,7 +6,6 @@ name = "SBN-01846"
 [meta]
 bill_number = 1846
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1846", "https://web.senate.gov.ph/lisdata/3359130446!.pdf",]
 title = "ELECTRONICS DONATION AND RECYCLING ACT"
 date_filed = "2020-09-23"
 long_title = "AN ACT ESTABLISHING AN ELECTRONICS DONATION AND RECYCLING PROGRAM ALL OVER THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Gadgets", "Mobile Wireless Devices",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3359130446!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1846"
 
 [[history]]
 date = "2020-09-23"

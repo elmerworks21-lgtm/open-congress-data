@@ -6,7 +6,6 @@ name = "SBN-01275"
 [meta]
 bill_number = 1275
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1275", "https://web.senate.gov.ph/lisdata/88127354!.pdf",]
 title = "CHILD AND FAMILY DEVELOPMENT ACT"
 date_filed = "2010-07-12"
 long_title = "AN ACT TO STRENGTHEN THE DEVELOPMENT OF CHILDREN AND FUNCTIONING OF FAMILIES BY ESTABLISHING A COMPREHENSIVE CHILD CARE PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Children and Youth",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/88127354!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1275"
 
 [[history]]
 date = "2010-07-12"

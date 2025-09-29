@@ -6,7 +6,6 @@ name = "SBN-00338"
 [meta]
 bill_number = 338
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-338", "https://web.senate.gov.ph/lisdata/4682842835!.pdf",]
 title = "DEFENSIVE DRIVING PROTECTION ACT"
 date_filed = "2025-07-09"
 long_title = "AN ACT DEFINING DEFENSIVE DRIVING AND PROVIDING FOR THE PROTECTION OF MOTOR VEHICLE DRIVERS INVOLVED IN A ROAD ACCIDENT WITH SUFFICIENT PROOF OF THEIR DEFENSIVE DRIVING"
@@ -15,6 +14,8 @@ subjects = [ "Defensive Driving", "Driving Behavior", "Road Safety",]
 authors_raw = "Ejercito, Jv"
 author_codes = ["JVEJE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4682842835!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-338"
 
 [[history]]
 date = "2025-07-09"

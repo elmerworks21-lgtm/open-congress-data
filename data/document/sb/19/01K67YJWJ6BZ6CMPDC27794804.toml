@@ -6,7 +6,6 @@ name = "SBN-02368"
 [meta]
 bill_number = 2368
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2368", "https://web.senate.gov.ph/lisdata/4223138420!.pdf",]
 title = "EXPANDING THE COVERAGE OF ESPIONAGE"
 date_filed = "2023-07-26"
 long_title = "AN ACT EXPANDING THE COVERAGE OF ESPIONAGE, AMENDING FOR THE PURPOSE COMMONWEALTH ACT NO. 616, OTHERWISE KNOWN AS AN ACT TO PUNISH ESPIONAGE AND OTHER OFFENSES AGAINST THE NATIONAL SECURITY, AND PROVIDING HIGHER PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Espionage", "National Security/National Security Policy",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4223138420!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2368"
 
 [[history]]
 date = "2023-07-26"

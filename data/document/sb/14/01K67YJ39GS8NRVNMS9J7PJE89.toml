@@ -6,7 +6,6 @@ name = "SBN-03430"
 [meta]
 bill_number = 3430
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3430", "https://web.senate.gov.ph/lisdata/1241411072!.pdf",]
 title = "AURORA PACIFIC ECONOMIC AND FREEPORT ZONE ACT OF 2009"
 date_filed = "2009-09-08"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9490, OTHERWISE KNOWN AS THE AURORA SPECIAL ECONOMIC ZONE ACT OF 2007"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Economic Zones",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1241411072!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3430"
 
 [[history]]
 date = "2009-09-08"

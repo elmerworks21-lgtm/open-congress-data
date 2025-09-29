@@ -6,7 +6,6 @@ name = "SBN-00842"
 [meta]
 bill_number = 842
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-842", "https://web.senate.gov.ph/lisdata/1682114057!.pdf",]
 title = "PAGASA MODERNIZATION ACT OF 2013"
 date_filed = "2013-07-17"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE ATMOSPHERIC, GEOPHYSICAL AND ASTRONOMICAL SERVICES ADMINISTRATION, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pagasa (Philippine Atmospheric, Geophysical and Astronomical Servi
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1682114057!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-842"
 
 [[history]]
 date = "2013-07-17"

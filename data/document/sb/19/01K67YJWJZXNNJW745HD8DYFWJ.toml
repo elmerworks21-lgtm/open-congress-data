@@ -6,7 +6,6 @@ name = "SBN-02402"
 [meta]
 bill_number = 2402
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2402", "https://web.senate.gov.ph/lisdata/4235538539!.pdf",]
 title = "BUY LOCAL ACT"
 date_filed = "2023-08-10"
 long_title = "AN ACT INSTITUTIONALIZING THE PREFERENTIAL TREATMENT IN THE PROCUREMENT OF MATERIALS AND SUPPLIES PRODUCED, MADE, AND MANUFACTURED IN THE PHILIPPINES AMENDING SECTIONS 4 AND 43 OF REPUBLIC ACT NO. 9184 ENTITLED AN ACT PROVIDING FOR THE MODERNIZATION, STANDARDIZATION AND REGULATION OF THE PROCUREMENT ACTIVITIES OF THE GOVERNMENT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Buy Local", "Procurement Law", "Local Products",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4235538539!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2402"
 
 [[history]]
 date = "2023-08-10"

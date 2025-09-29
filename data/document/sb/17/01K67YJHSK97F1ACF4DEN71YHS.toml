@@ -6,7 +6,6 @@ name = "SBN-00939"
 [meta]
 bill_number = 939
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-939", "https://web.senate.gov.ph/lisdata/2449721080!.pdf",]
 title = "LAGUNA LAKE DEVELOPMENT AUTHORITY ACT OF 2016"
 date_filed = "2016-08-01"
 long_title = "AN ACT TO STRENGTHEN THE LAGUNA LAKE DEVELOPMENT AUTHORITY (LLDA), REPEALING FOR THIS PURPOSE REPUBLIC ACT NO. 4850, AS AMENDED, OTHERWISE KNOWN AS THE LAGUNA DEVELOPMENT AUTHORITY ACT OF 1966, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Laguna Lake Development Authority (LLDA)",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2449721080!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-939"
 
 [[history]]
 date = "2016-08-01"

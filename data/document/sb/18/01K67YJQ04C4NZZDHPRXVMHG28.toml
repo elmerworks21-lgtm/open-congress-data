@@ -6,7 +6,6 @@ name = "SBN-00909"
 [meta]
 bill_number = 909
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-909", "https://web.senate.gov.ph/lisdata/3129328191!.pdf",]
 title = "CAPITAL OUTLAY FOR THE DEPARTMENT OF EDUCATION"
 date_filed = "2019-08-15"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7880 OTHERWISE KNOWN AS 'AN ACT PROVIDING FOR THE FAIR AND EQUITABLE ALLOCATION OF THE DEPARTMENT OF EDUCATION BUDGET FOR CAPITAL OUTLAY'"
@@ -15,6 +14,8 @@ subjects = [ "Department of Education (DepEd)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3129328191!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-909"
 
 [[history]]
 date = "2019-08-15"

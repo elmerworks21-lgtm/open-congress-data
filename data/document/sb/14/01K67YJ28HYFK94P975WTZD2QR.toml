@@ -6,7 +6,6 @@ name = "SBN-02005"
 [meta]
 bill_number = 2005
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2005", "https://web.senate.gov.ph/lisdata/67195951!.pdf",]
 title = "LGUS CHOICE OF DEPOSITORY BANK"
 date_filed = "2008-01-23"
 long_title = "AN ACT AMENDING SECTION 311 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Ejercito-Estrada, Jinggoy P., Aquino III, Benigno S., Zubiri, Juan Miguel F."
 author_codes = ["ABENI", "EJING", "ZMIGU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67195951!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2005"
 
 [[history]]
 date = "2008-01-23"

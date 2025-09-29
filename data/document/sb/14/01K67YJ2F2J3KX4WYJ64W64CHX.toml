@@ -6,7 +6,6 @@ name = "SBN-02290"
 [meta]
 bill_number = 2290
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2290", "https://web.senate.gov.ph/lisdata/73596575!.pdf",]
 title = "DISCLOSURE OF ENVIRONMENTAL RECORD OF APPLICANTS"
 date_filed = "2008-05-19"
 long_title = "AN ACT REQUIRING DISCLOSURE OF ENVIRONMENTAL RECORD OF APPLICANTS FOR AN ENVIRONMENTAL COMPLIANCE CERTIFICATE"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Compliance Certificate (ECC)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/73596575!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2290"
 
 [[history]]
 date = "2008-05-19"

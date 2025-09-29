@@ -6,7 +6,6 @@ name = "SBN-00591"
 [meta]
 bill_number = 591
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-591", "https://web.senate.gov.ph/lisdata/1645313695!.pdf",]
 title = "REVISED PENAL CODE (ARTICLE 359 OF ACT NO. 3815)"
 date_filed = "2013-07-08"
 long_title = "AN ACT AMENDING ARTICLE 359 OF ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (R.A.No. 3815)", "False Accusations", "Governme
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1645313695!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-591"
 
 [[history]]
 date = "2013-07-08"

@@ -6,7 +6,6 @@ name = "SBN-01171"
 [meta]
 bill_number = 1171
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1171", "https://web.senate.gov.ph/lisdata/3187928729!.pdf",]
 title = "TAX-FREE IMPORTATION OF MEDICAL SUPPLIES AND EQUIPMENT ACT OF 2019"
 date_filed = "2019-11-13"
 long_title = "AN ACT EXEMPTING THE IMPORTATION OF MEDICAL SUPPLIES AND EQUIPMENT FROM CUSTOMS DUTY AND VALUE-ADDED TAX"
@@ -15,6 +14,8 @@ subjects = [ "Medical Supplies and Equipment", "Tax Exemption", "Taxes (Value-Ad
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3187928729!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1171"
 
 [[history]]
 date = "2019-11-13"

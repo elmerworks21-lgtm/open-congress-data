@@ -6,7 +6,6 @@ name = "SBN-03484"
 [meta]
 bill_number = 3484
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3484", "https://web.senate.gov.ph/lisdata/1277211455!.pdf",]
 title = "FLOOD MANAGEMENT ACT OF 2009"
 date_filed = "2009-10-14"
 long_title = "AN ACT CREATING THE NATIONAL FLOOD MANAGEMENT COMMISSION"
@@ -15,6 +14,8 @@ subjects = [ "Flood Control Project",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1277211455!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3484"
 
 [[history]]
 date = "2009-10-14"

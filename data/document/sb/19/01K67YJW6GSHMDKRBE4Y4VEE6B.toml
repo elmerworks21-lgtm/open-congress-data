@@ -6,7 +6,6 @@ name = "SBN-01873"
 [meta]
 bill_number = 1873
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1873", "https://web.senate.gov.ph/lisdata/4075437139!.pdf",]
 title = "TRAFFIC LIGHT TIMER ACT"
 date_filed = "2023-02-13"
 long_title = "AN ACT MANDATING THE INSTALLATION OF TIMERS IN TRAFFIC LIGHTS"
@@ -15,6 +14,8 @@ subjects = [ "Traffic Lights",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4075437139!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1873"
 
 [[history]]
 date = "2023-02-13"

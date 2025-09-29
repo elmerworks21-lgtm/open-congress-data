@@ -6,7 +6,6 @@ name = "SBN-02260"
 [meta]
 bill_number = 2260
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2260", "https://web.senate.gov.ph/lisdata/72996521!.pdf",]
 title = "ICE SKATING SAFETY ACT OF 2008"
 date_filed = "2008-05-07"
 long_title = "AN ACT REQUIRING PERSONS UNDER FOURTEEN (14) YEARS OF AGE WHO ICE SKATE TO WEAR PROTECTIVE HELMETS, AND FOR ICE SKATING FACILITIES TO SUPPLY HELMETS AND HELMET SAFETY INFORMATION"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72996521!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2260"
 
 [[history]]
 date = "2008-05-07"

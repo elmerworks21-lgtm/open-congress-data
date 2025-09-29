@@ -6,7 +6,6 @@ name = "SBN-00890"
 [meta]
 bill_number = 890
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-890", "https://web.senate.gov.ph/lisdata/3872935181!.pdf",]
 title = "GOVERNMENT OPTIMIZATION ACT"
 date_filed = "2022-07-26"
 long_title = "AN ACT RIGHTSIZING THE NATIONAL GOVERNMENT TO IMPROVE PUBLIC SERVICE DELIVERY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rightsizing", "Public Service Delivery",]
 authors_raw = "Escudero, Francis G., Gatchalian, Win, Villanueva, Joel, Padilla, Robinhood C."
 author_codes = ["EFRAN", "GSHER", "PROBI", "VEMMA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3872935181!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-890"
 
 [[history]]
 date = "2022-07-26"

@@ -6,7 +6,6 @@ name = "SBN-02126"
 [meta]
 bill_number = 2126
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2126", "https://web.senate.gov.ph/lisdata/2910425688!.pdf",]
 title = "IMPORTED PRODUCE LABELING ACT"
 date_filed = "2018-12-03"
 long_title = "AN ACT REQUIRING THE LABELLING AND INDICATION OF PERISHABLE AGRICULTURAL COMMODITIES IMPORTED INTO THE PHILIPPINES WITH THEIR COUNTRY OF ORIGIN AND ESTABLISHING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Label/Labeling", "Agricultural Products", "Imported Goods",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2910425688!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2126"
 
 [[history]]
 date = "2018-12-03"

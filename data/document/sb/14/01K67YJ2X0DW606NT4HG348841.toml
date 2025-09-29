@@ -6,7 +6,6 @@ name = "SBN-02915"
 [meta]
 bill_number = 2915
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2915", "https://web.senate.gov.ph/lisdata/94778584!.pdf",]
 title = "PUERTO PRINCESA (APPORTIONMENT OF THE LONE LEGISLATIVE DISTRICT)"
 date_filed = "2008-11-27"
 long_title = "AN ACT PROVIDING FOR THE APPORTIONMENT OF THE LONE LEGISLATIVE DISTRICT OF THE CITY OF PUERTO PRINCESA IN THE PROVINCE OF PALAWAN"
@@ -15,6 +14,8 @@ subjects = [ "Legislative District",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94778584!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2915"
 
 [[history]]
 date = "2008-11-27"

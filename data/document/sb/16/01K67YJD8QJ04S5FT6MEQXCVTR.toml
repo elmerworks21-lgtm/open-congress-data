@@ -6,7 +6,6 @@ name = "SBN-01531"
 [meta]
 bill_number = 1531
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1531", "https://web.senate.gov.ph/lisdata/1763314866!.pdf",]
 title = "THE PALLIATIVE AND END-OF-LIFE CARE ACT OF 2013"
 date_filed = "2013-09-05"
 long_title = "AN ACT PROVIDING PALLIATIVE AND END-OF-LIFE CARE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Palliative Care",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1763314866!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1531"
 
 [[history]]
 date = "2013-09-05"

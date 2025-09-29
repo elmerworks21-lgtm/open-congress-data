@@ -6,7 +6,6 @@ name = "SBN-00482"
 [meta]
 bill_number = 482
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-482", "https://web.senate.gov.ph/lisdata/1640941!.pdf",]
 title = "BENEFITS TO YOUTHFUL OFFENDERS"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING ARTICLE 192 OF THE CHILD AND YOUTH WELFARE CODE SO AS TO EXTEND ITS BENEFITS TO YOUTHFUL OFFENDERS CONVICTED OF OFFENSES PUNISHABLE BY DEATH OR LIFE IMPRISONMENT OR CONVICTED BY MILITARY TRIBUNALS"
@@ -15,6 +14,8 @@ subjects = [ "Youthful Offenders (Benefits)", "Child and Welfare Code (Art. 192)
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1640941!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-482"
 
 [[history]]
 date = "2004-06-30"

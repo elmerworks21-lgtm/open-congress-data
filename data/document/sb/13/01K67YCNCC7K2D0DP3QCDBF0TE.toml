@@ -6,7 +6,6 @@ name = "SBN-00038"
 [meta]
 bill_number = 38
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-38", "https://web.senate.gov.ph/lisdata/1172591!.pdf",]
 title = "WATCHDOG ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROTECTING INCUMBENT AND FORMER GOVERNMENT EMPLOYEES AND APPLICANTS FOR GOVERNMENT EMPLOYMENT FROM REPRISAL OR HARASSMENT FOR MAKING DISCLOSURES IN THE PUBLIC INTEREST AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Watchdog Act of 2004", "Gov`T. Officials/Employees (Harassment)", 
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1172591!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-38"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-02002"
 [meta]
 bill_number = 2002
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2002", "https://web.senate.gov.ph/lisdata/34282711!.pdf",]
 title = "WORKING TIME FLEXIBILITATION (PRIVATE SECTOR)"
 date_filed = "2005-05-17"
 long_title = "AN ACT PROVIDING FOR A WORKING TIME FLEXIBILITATION IN THE PRIVATE SECTOR AND FOR OTHER PURPOSES, THEREBY AMENDING ARTICLES 83, 85 AND 87 OF PRESIDENTIAL DECREE FOUR HUNDRED FORTY TWO (PD 442), AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Working Time Flexibilization",]
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34282711!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2002"
 
 [[history]]
 date = "2005-05-17"

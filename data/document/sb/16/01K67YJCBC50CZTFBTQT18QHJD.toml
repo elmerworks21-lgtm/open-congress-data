@@ -6,7 +6,6 @@ name = "SBN-00102"
 [meta]
 bill_number = 102
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-102", "https://web.senate.gov.ph/lisdata/1587613115!.pdf",]
 title = "BARANGAY HEALTH WORKERS"
 date_filed = "2013-07-01"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO PROVIDE AT LEAST ONE (1) HEALTH WORKER IN EVERY BARANGAY, INCREASING THEIR SALARIES, HONORARIA AND BENEFITS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Worker",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1587613115!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-102"
 
 [[history]]
 date = "2013-07-01"

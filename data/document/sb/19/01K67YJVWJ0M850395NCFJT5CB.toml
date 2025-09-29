@@ -6,7 +6,6 @@ name = "SBN-01452"
 [meta]
 bill_number = 1452
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1452", "https://web.senate.gov.ph/lisdata/3977136278!.pdf",]
 title = "PROFESSIONALIZATION OF PRISON MANAGEMENT ACT OF 2022"
 date_filed = "2022-11-03"
 long_title = "AN ACT TO PROFESSIONALIZE THE PRACTICE OF PRISON MANAGEMENT AND SET FOR THAT PURPOSE THE QUALIFICATIONS FOR SUPERINTENDENTS OF THE NATIONAL PRISON SYSTEM AND WARDENS OF PROVINCIAL, CITY OR MUNICIPAL JAILS"
@@ -15,6 +14,8 @@ subjects = [ "Prison Management", "Prison Reform",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3977136278!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1452"
 
 [[history]]
 date = "2022-11-03"

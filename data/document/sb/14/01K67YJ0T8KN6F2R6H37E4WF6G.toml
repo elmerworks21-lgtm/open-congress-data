@@ -6,7 +6,6 @@ name = "SBN-00130"
 [meta]
 bill_number = 130
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-130", "https://web.senate.gov.ph/lisdata/42283616!.pdf",]
 title = "VESTING IN THE SECRETARY OF FINANCE THE POWER TO APPOINT LOCAL ASSESSORS"
 date_filed = "2007-06-30"
 long_title = "AN ACT AMENDING SECTIONS 472 AND 473 OF REPUBLIC ACT NO. 7160 OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Assessor/Assistant Assessor (Appointment)", "Local Government Code
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42283616!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-130"
 
 [[history]]
 date = "2007-06-30"

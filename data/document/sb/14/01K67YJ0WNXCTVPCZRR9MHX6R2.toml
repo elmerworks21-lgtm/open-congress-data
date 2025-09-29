@@ -6,7 +6,6 @@ name = "SBN-00224"
 [meta]
 bill_number = 224
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-224", "https://web.senate.gov.ph/lisdata/43243720!.pdf",]
 title = "BILLION TREES ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO SPUR THE PLANTING OF A BILLION TREES THROUGH COMPLEMENTARY TREE PLANTING PROGRAMS OF THE DENR AND VARIOUS GOVERNMENT AGENCIES, LOCAL GOVERNMENT UNITS AND COMMUNITIES, SCHOOLS AND UNIVERSITIES, AND CIVIC AND NON-GOVERNMENTAL ORGANIZATIONS, PROTECTING THE REMAINING NATURAL FORESTS AND FOREST PLANTATIONS, AND CREATING A FUND THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Billion Trees", "Tree Planting", "Forestry",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43243720!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-224"
 
 [[history]]
 date = "2007-06-30"

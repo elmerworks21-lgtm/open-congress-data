@@ -6,7 +6,6 @@ name = "SBN-01522"
 [meta]
 bill_number = 1522
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1522", "https://web.senate.gov.ph/lisdata/27372103!.pdf",]
 title = "TEENAGE PREGRANCY REDUCTION ACT"
 date_filed = "2004-07-27"
 long_title = "AN ACT REDUCING THE RATE OF TEENAGE PREGNANCY THROUGH EVALUATION OF PUBLIC AND PRIVATE PROGRAMS"
@@ -15,6 +14,8 @@ subjects = [ "Teenage Pregnancy Reduction Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27372103!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1522"
 
 [[history]]
 date = "2004-07-27"

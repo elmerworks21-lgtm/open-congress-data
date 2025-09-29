@@ -6,7 +6,6 @@ name = "SBN-00180"
 [meta]
 bill_number = 180
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-180", "https://web.senate.gov.ph/lisdata/4665742662!.pdf",]
 title = "DIALYSIS CENTER ACT"
 date_filed = "2025-07-07"
 long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT HOPSTTALS TO ESTABLISH, OPERATE AND MAINTAIN A DIALYSIS WARD OR UNIT IN THEIR RESPECTIVE HOSPITAL AND PROVIDING FREE DIALYSIS TREATMENT TO INDIGENT PATIENTS"
@@ -15,6 +14,8 @@ subjects = [ "Dialysis Center", "Hospitals (Government Hospitals)", "Indigent Pe
 authors_raw = "Villar, Camille A."
 author_codes = ["VCAMI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4665742662!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-180"
 
 [[history]]
 date = "2025-07-07"

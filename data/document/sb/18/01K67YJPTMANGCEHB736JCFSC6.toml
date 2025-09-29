@@ -6,7 +6,6 @@ name = "SBN-00655"
 [meta]
 bill_number = 655
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-655", "https://web.senate.gov.ph/lisdata/3101227912!.pdf",]
 title = "TANODBATA ACT"
 date_filed = "2019-07-22"
 long_title = "AN ACT CREATING THE OFFICE OF TANODBATA AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tanodbata",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3101227912!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-655"
 
 [[history]]
 date = "2019-07-22"

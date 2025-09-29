@@ -6,7 +6,6 @@ name = "SBN-00802"
 [meta]
 bill_number = 802
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-802", "https://web.senate.gov.ph/lisdata/3851734970!.pdf",]
 title = "SIM CARD REGISTRATION ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT TO ERADICATE MOBILE PHONE-AIDED TERRORISM AND CRIMINAL ACTIVITIES, MANDATING FOR THIS PURPOSE OWNERSHIP REGISRATION OF ALL SIM CARDS FOR CELLULAR PHONES"
@@ -15,6 +14,8 @@ subjects = [ "Sim Card Registration", "Cellular Phones/Cell Phones",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3851734970!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-802"
 
 [[history]]
 date = "2022-07-25"

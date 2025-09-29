@@ -6,7 +6,6 @@ name = "SBN-00725"
 [meta]
 bill_number = 725
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-725", "https://web.senate.gov.ph/lisdata/49474331!.pdf",]
 title = "INSTITUTIONALIZED PERSONS PROTECTION ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT DEFINING WHO ARE INSTITUTIONALIZED PERSONS AND PENALIZING THEIR MALTREATMENT"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49474331!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-725"
 
 [[history]]
 date = "2007-07-03"

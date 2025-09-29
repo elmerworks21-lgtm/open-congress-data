@@ -6,7 +6,6 @@ name = "SBN-00782"
 [meta]
 bill_number = 782
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-782", "https://web.senate.gov.ph/lisdata/50064399!.pdf",]
 title = "FREE ELEMENTARY EDUCATION"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING FOR THE FULL IMPLEMENTATION OF THE CONSTITUTIONAL PROVISION ON FREE ELEMENTARY EDUCATION AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Elementary Education",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50064399!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-782"
 
 [[history]]
 date = "2007-07-03"

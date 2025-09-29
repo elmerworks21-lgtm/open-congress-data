@@ -6,7 +6,6 @@ name = "SBN-00231"
 [meta]
 bill_number = 231
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-231", "https://web.senate.gov.ph/lisdata/2365620310!.pdf",]
 title = "CORPORATION CODE OF THE PHILIPPINES, REVISION"
 date_filed = "2016-07-04"
 long_title = "AN ACT REVISING THE CORPORATION CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Corporation Code",]
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2365620310!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-231"
 
 [[history]]
 date = "2016-07-04"

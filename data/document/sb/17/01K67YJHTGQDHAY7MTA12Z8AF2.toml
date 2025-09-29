@@ -6,7 +6,6 @@ name = "SBN-00982"
 [meta]
 bill_number = 982
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-982", "https://web.senate.gov.ph/lisdata/2455121126!.pdf",]
 title = "AMENDING SECS. 8 AND 9, ANTI-RED TAPE ACT"
 date_filed = "2016-08-03"
 long_title = "AN ACT AMENDING SECTIONS 8 AND 9 OF REPUBLIC ACT NO. 9485 OTHERWISE KNOWN AS THE ANTI-RED TAPE ACT OF 2007"
@@ -15,6 +14,8 @@ subjects = [ "Red Tape",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2455121126!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-982"
 
 [[history]]
 date = "2016-08-03"

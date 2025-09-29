@@ -6,7 +6,6 @@ name = "SBN-01533"
 [meta]
 bill_number = 1533
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1533", "https://web.senate.gov.ph/lisdata/3276029624!.pdf",]
 title = "MANDATORY REPORTING OF NOTIFIABLE DISEASES AND HEALTH OF PUBLIC HEALTH CONCERN"
 date_filed = "2020-05-18"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11332, OTHERWISE KNOWN AS THE MANDATORY REPORTING OF NOTIFIABLE DISEASES AND HEALTH OF PUBLIC HEALTH CONCERN ACT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Care",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3276029624!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1533"
 
 [[history]]
 date = "2020-05-18"

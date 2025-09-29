@@ -6,7 +6,6 @@ name = "SBN-03120"
 [meta]
 bill_number = 3120
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3120", "https://web.senate.gov.ph/lisdata/1280410816!.pdf",]
 title = "SECRECY OF FOREIGN CURRENCY DEPOSITS"
 date_filed = "2012-02-13"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6426, OTHERWISE KNOWN AS 'FOREIGN CURRENCY DEPOSIT ACT OF THE PHILIPPINES', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Bank Deposits/Bank Accounts", "Impeachment",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1280410816!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3120"
 
 [[history]]
 date = "2012-02-13"

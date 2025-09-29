@@ -6,7 +6,6 @@ name = "SBN-01242"
 [meta]
 bill_number = 1242
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1242", "https://web.senate.gov.ph/lisdata/1730914544!.pdf",]
 title = "PHILIPPINE INDEPENDENT FILMS ACT"
 date_filed = "2013-08-08"
 long_title = "AN ACT ENCOURAGING THE PRODUCTION OF PHILIPPINE INDEPENDENT FILMS BY PROVIDING INCENTIVES TO FILMMAKERS WHO ARE GIVEN HONORS IN CREDIBLE INTERNATIONAL FILM COMPETITIONS"
@@ -15,6 +14,8 @@ subjects = [ "Film", "Movie Industry",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1730914544!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1242"
 
 [[history]]
 date = "2013-08-08"

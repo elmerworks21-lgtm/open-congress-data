@@ -6,7 +6,6 @@ name = "SBN-00393"
 [meta]
 bill_number = 393
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-393", "https://web.senate.gov.ph/lisdata/2383120495!.pdf",]
 title = "PHILIPPINE HIV AND AIDS ACT"
 date_filed = "2016-07-18"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE COMPREHENSIVE POLICY ON HIV AND AIDS PREVENTION, TREATMENT, CARE, AND SUPPORT, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 8504, OTHERWISE KNOWN AS THE PHILIPPINE AIDS PREVENTION AND CONTROL ACT OF 1998, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Acquired Immune Deficiency Syndrome (AIDS)", "Human Immuno Deficie
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2383120495!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-393"
 
 [[history]]
 date = "2016-07-18"

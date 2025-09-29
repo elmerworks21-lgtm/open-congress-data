@@ -6,7 +6,6 @@ name = "SBN-01998"
 [meta]
 bill_number = 1998
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1998", "https://web.senate.gov.ph/lisdata/34242694!.pdf",]
 title = "HAZARDOUS AND RADIOACTIVE WASTES MANAGEMENT"
 date_filed = "2005-05-05"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE HAZARDOUS AND RADIOACTIVE WASTES MANAGEMENT, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34242694!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1998"
 
 [[history]]
 date = "2005-05-05"

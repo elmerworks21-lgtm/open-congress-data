@@ -6,7 +6,6 @@ name = "SBN-00808"
 [meta]
 bill_number = 808
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-808", "https://web.senate.gov.ph/lisdata/3853634989!.pdf",]
 title = "ONE FILIPINO, ONE BANK ACCOUNT ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT MANDATING GOVERNMENT FINANCIAL INSTITUTIONS TO CREATE A BANK ACCOUNT FOR EVERY UNBANKED FILIPINO, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Bank Deposits", "Bank Accounts",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3853634989!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-808"
 
 [[history]]
 date = "2022-07-25"

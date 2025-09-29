@@ -6,7 +6,6 @@ name = "SBN-00442"
 [meta]
 bill_number = 442
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-442", "https://web.senate.gov.ph/lisdata/78946702!.pdf",]
 title = "NATIONAL LABOR RELATION COMMISSION (NLRC) FRANKNG PRIVILEGE ACT"
 date_filed = "2010-07-06"
 long_title = "AN ACT GRANTING FRANKING PRIVILEGE TO THE NATIONAL LABOR RELATIONS COMMISSION AND FOR OTHER PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Franking Privilege", "National Labor Relations Commission (NLRC)",
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78946702!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-442"
 
 [[history]]
 date = "2010-07-06"

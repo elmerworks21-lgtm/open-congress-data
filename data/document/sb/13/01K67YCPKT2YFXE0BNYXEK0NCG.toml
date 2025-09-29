@@ -6,7 +6,6 @@ name = "SBN-02142"
 [meta]
 bill_number = 2142
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2142", "https://web.senate.gov.ph/lisdata/41073419!.pdf",]
 title = "ANTI-UNDERAGE DRINKING ACT"
 date_filed = "2005-10-13"
 long_title = "AN ACT REGULATING THE ACCESS OF MINORS TO ALCOHOL"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Underage Drinking Act", "Children and Youth",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41073419!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2142"
 
 [[history]]
 date = "2005-10-13"

@@ -6,7 +6,6 @@ name = "SBN-01110"
 [meta]
 bill_number = 1110
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1110", "https://web.senate.gov.ph/lisdata/2470621289!.pdf",]
 title = "AMENDING SEC. 8 OF PD NO. 910, S. 1976 (ENERGY DEVELOPMENT BOARD)"
 date_filed = "2016-08-30"
 long_title = "AN ACT AMENDING SECTION 8 OF PRESIDENTIAL DECREE NO. 910, S. 1976 (CREATING AN ENERGY DEVELOPMENT BOARD, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS, THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Energy Development Board",]
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2470621289!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1110"
 
 [[history]]
 date = "2016-08-30"

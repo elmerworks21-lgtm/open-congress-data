@@ -6,7 +6,6 @@ name = "SBN-01008"
 [meta]
 bill_number = 1008
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1008", "https://web.senate.gov.ph/lisdata/4757543587!.pdf",]
 title = "AMENDING SEC. 3 (C) OF R. A. NO. 9433 (MAGNA CARTA FOR PUBLIC SOCIAL WORKERS)"
 date_filed = "2025-08-06"
 long_title = "AN ACT INCREASING COMPENSATION OF SOCIAL WORKERS IN GOVERNMENT SERVICE, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBER 9433, ENTITLED, AN ACT PROVIDING FOR A MAGNA CARTA FOR PUBLIC SOCIAL WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Public Social Workers",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4757543587!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1008"
 
 [[history]]
 date = "2025-08-06"

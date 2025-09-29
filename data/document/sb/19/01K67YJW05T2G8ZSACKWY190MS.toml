@@ -6,7 +6,6 @@ name = "SBN-01603"
 [meta]
 bill_number = 1603
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1603", "https://web.senate.gov.ph/lisdata/4014336561!.pdf",]
 title = "AMENDING RA. 11709 (PROFESSIONALISM AND CONTINUITY OF POLICIES AND MODERNIZATION IN THE AFP)"
 date_filed = "2022-12-07"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11709 OTHERWISE KNOWN AS AN ACT STRENGTHENING PROFESSIONALISM AND PROMOTING THE CONTINUITY OF POLICIES AND MODERNIZATION INITIATIVES IN THE ARMED FORCES OF THE PHILIPPINES, BY PRESCRIBING FIXED TERMS FOR KEY OFFICERS THEREOF, INCREASING THE MANDATORY RETIREMENT AGE OF GENERALS/FLAG OFFICERS, PROVIDING FOR A MORE EFFECTIVE ATTRITION SYSTEM, AND PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Armed Forces of the Philippines (AFP)", "Retirement Age",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4014336561!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1603"
 
 [[history]]
 date = "2022-12-07"

@@ -6,7 +6,6 @@ name = "SBN-01880"
 [meta]
 bill_number = 1880
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1880", "https://web.senate.gov.ph/lisdata/94517992!.pdf",]
 title = "SUGAR REGULATORY ADMINISTRATION"
 date_filed = "2010-07-22"
 long_title = "AN ACT EXPANDING THE COMPOSITION OF THE SUGAR REGULATORY ADMINISTRATION (SRA) SUGAR BOARD, AMENDING EXECUTIVE ORDER NO. 18"
@@ -15,6 +14,8 @@ subjects = [ "Sugar Industry",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94517992!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1880"
 
 [[history]]
 date = "2010-07-22"

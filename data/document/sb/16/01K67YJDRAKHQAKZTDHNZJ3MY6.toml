@@ -6,7 +6,6 @@ name = "SBN-02260"
 [meta]
 bill_number = 2260
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2260", "https://web.senate.gov.ph/lisdata/1922616350!.pdf",]
 title = "INDIGENTS PRE-EMPLOYMENT PRIVILEGE ACT"
 date_filed = "2014-05-28"
 long_title = "AN ACT PROVIDING PRE-EMPLOYMENT PRIVILEGE TO INDIGENTS BY GRANTING A DISCOUNT ON FEES IN SECURING PRE-EMPLOYMENT CERTIFICATIONS AND CLEARANCES FROM GOVERNMENT AGENCIES"
@@ -15,6 +14,8 @@ subjects = [ "Indigent Person",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1922616350!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2260"
 
 [[history]]
 date = "2014-05-28"

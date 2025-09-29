@@ -6,7 +6,6 @@ name = "SBN-00665"
 [meta]
 bill_number = 665
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-665", "https://web.senate.gov.ph/lisdata/3855035004!.pdf",]
 title = "IMPLEMENTATION OF R.A. NO. 10176 (THE ARBOR DAY ACT OF 2012)"
 date_filed = "2022-07-18"
 long_title = "AN ACT PROVIDING MECHANISMS THAT SHALL ENSURE THE EFFECTIVE IMPLEMENTATION OF REPUBLIC ACT NO. 10176, OTHERWISE KNOWN AS THE 'ARBOR DAY ACT OF 2012'"
@@ -15,6 +14,8 @@ subjects = [ "Arbor Day",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3855035004!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-665"
 
 [[history]]
 date = "2022-07-18"

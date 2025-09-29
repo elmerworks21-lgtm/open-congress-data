@@ -6,7 +6,6 @@ name = "SBN-00508"
 [meta]
 bill_number = 508
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-508", "https://web.senate.gov.ph/lisdata/1665973!.pdf",]
 title = "SMALL AND MEDIUM ENTERPRISES STOCK EXCHANGE (SMEX) ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING THE SMALL AND MEDIUM ENTERPRISES STOCK EXCHANGE"
@@ -15,6 +14,8 @@ subjects = [ "Small and Medium Enterprises Stock Exch.", "Stock Exchange (SMEX)"
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1665973!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-508"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01680"
 [meta]
 bill_number = 1680
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1680", "https://web.senate.gov.ph/lisdata/29152464!.pdf",]
 title = "DEGENDERIZING PROSTITUTION"
 date_filed = "2004-08-10"
 long_title = "AN ACT DEGENDERIZING THE PENAL CODE, ARTICLE 247"
@@ -15,6 +14,8 @@ subjects = [ "Prostitution, Degenderizing", "Revised Penal Code (Art. 247)", "Ge
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/29152464!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1680"
 
 [[history]]
 date = "2004-08-10"

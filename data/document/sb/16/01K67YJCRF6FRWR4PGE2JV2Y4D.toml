@@ -6,7 +6,6 @@ name = "SBN-00738"
 [meta]
 bill_number = 738
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-738", "https://web.senate.gov.ph/lisdata/1666613905!.pdf",]
 title = "ANTI-SUGAR SMUGGLING ACT OF 2013"
 date_filed = "2013-07-15"
 long_title = "AN ACT STRENGTHENING THE SUGAR REGULATORY ADMINISTRATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sugar Regulatory Administration", "Anti-Smuggling",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1666613905!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-738"
 
 [[history]]
 date = "2013-07-15"

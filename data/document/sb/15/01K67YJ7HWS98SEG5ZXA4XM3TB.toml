@@ -6,7 +6,6 @@ name = "SBN-00512"
 [meta]
 bill_number = 512
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-512", "https://web.senate.gov.ph/lisdata/78286278!.pdf",]
 title = "INFORMATION TECHNOLOGY EQUIPMENT (ITE)"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO ENCOURAGE, PROMOTE AND ALLOW PRIVATE COMPANIES AND INDIVIDUALS TO DONATE INFORMATION TECHNOLOGY EQUIPMENT (ITE) TO EDUCATIONAL AND/OR RESEARCH INSTITUTIONS BY PROVIDING TAX INCENTIVES THEREFOR, AMENDING FOR THE PURPOSE SECTIONS 34 AND 101 OF THE NATIONAL INTERNAL REVENUE CODE (NIRC) AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Information and Communications Technology (ICT)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78286278!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-512"
 
 [[history]]
 date = "2010-07-07"

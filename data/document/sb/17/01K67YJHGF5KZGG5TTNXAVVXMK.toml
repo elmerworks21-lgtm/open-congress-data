@@ -6,7 +6,6 @@ name = "SBN-00506"
 [meta]
 bill_number = 506
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-506", "https://web.senate.gov.ph/lisdata/2394620666!.pdf",]
 title = "WASTE-TO-ENERGY TECHNOLOGY"
 date_filed = "2016-07-19"
 long_title = "AN ACT PROMOTING AND PERMITTING THE USE OF WASTE-TO-ENERGY TECHNOLOGY, AMENDING FOR THIS PURPOSE REPUBLIC ACT NUMBERED 8749, OTHERWISE KNOWN AS THE CLEAN AIR ACT OF 1999"
@@ -15,6 +14,8 @@ subjects = [ "Clean Air Act", "Waste Management", "Energy Conservation",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2394620666!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-506"
 
 [[history]]
 date = "2016-07-19"

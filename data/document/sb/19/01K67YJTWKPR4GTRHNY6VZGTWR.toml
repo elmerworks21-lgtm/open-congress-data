@@ -6,7 +6,6 @@ name = "SBN-00029"
 [meta]
 bill_number = 29
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-29", "https://web.senate.gov.ph/lisdata/3773034172!.pdf",]
 title = "AMENDING R.A. NO. 10931 (UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION ACT)"
 date_filed = "2022-07-05"
 long_title = "AN ACT EXPANDING THE COVERAGE OF THE TERTIARY EDUCATION SUBSIDY, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10931, OTHERWISE KNOWN AS THE UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Universal Access to Quality Tertiary Education", "Tertiary Educati
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3773034172!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-29"
 
 [[history]]
 date = "2022-07-05"

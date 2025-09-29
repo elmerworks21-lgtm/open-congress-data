@@ -6,7 +6,6 @@ name = "SBN-02098"
 [meta]
 bill_number = 2098
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2098", "https://web.senate.gov.ph/lisdata/96488221!.pdf",]
 title = "CHILD SAFETY AND PROTECTION ACT"
 date_filed = "2010-07-27"
 long_title = "AN ACT PROVIDING INTERNET SAFETY AND PROTECTION FOR CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Child Care Laws", "Internet Safety",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/96488221!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2098"
 
 [[history]]
 date = "2010-07-27"

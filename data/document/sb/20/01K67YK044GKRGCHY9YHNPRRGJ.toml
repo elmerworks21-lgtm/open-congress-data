@@ -6,7 +6,6 @@ name = "SBN-00544"
 [meta]
 bill_number = 544
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-544", "https://web.senate.gov.ph/lisdata/4709943099!.pdf",]
 title = "HOMES FOR THE ELDERLY ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT MANDATING THE ESTABLISHMENT OF NURSING HOMES FOR THE ABANDONED, NEGLECTED, UNATTACHED, OR HOMELESS SENIOR CITIZENS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7432, OTHERWISE KNOWN AS 'AN ACT TO MAXIMIZE THE CONTRIBUTION OF SENIOR CITIZENS TO NATION BUILDING, GRANT BENEFITS AND SPECIAL PRIVILEGES AND FOR OTHER PURPOSES,' AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nursing Home for Senior Citizens (NHSC)", "Homes for the Elderly",
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4709943099!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-544"
 
 [[history]]
 date = "2025-07-14"

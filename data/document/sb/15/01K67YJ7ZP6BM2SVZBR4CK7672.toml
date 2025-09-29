@@ -6,7 +6,6 @@ name = "SBN-01191"
 [meta]
 bill_number = 1191
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1191", "https://web.senate.gov.ph/lisdata/86877243!.pdf",]
 title = "RECYCLABLE OR BIO-DEGRADABLE MATERIALS"
 date_filed = "2010-07-12"
 long_title = "AN ACT MANDATING THE USE OF RECYCLABLE OR BIO-DEGRADABLE MATERIALS FOR THE PACKAGING OF CONSUMER PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Recycling", "Packaging (Bio-Degradable Materials)",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/86877243!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1191"
 
 [[history]]
 date = "2010-07-12"

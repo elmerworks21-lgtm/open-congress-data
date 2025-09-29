@@ -6,7 +6,6 @@ name = "SBN-02531"
 [meta]
 bill_number = 2531
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2531", "https://web.senate.gov.ph/lisdata/80717290!.pdf",]
 title = "LAKE LANAO DEVELOPMENT AUTHORITY ACT OF 2008"
 date_filed = "2008-08-12"
 long_title = "AN ACT CREATING THE LAKE LANAO DEVELOPMENT AUTHORITY, DEFINING ITS POWERS, FUNCTIONS AND DUTIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Lake Lanao Development Authority",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80717290!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2531"
 
 [[history]]
 date = "2008-08-12"

@@ -6,7 +6,6 @@ name = "SBN-00858"
 [meta]
 bill_number = 858
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-858", "https://web.senate.gov.ph/lisdata/51024475!.pdf",]
 title = "CAREGIVER ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING THE ENABLING MECHANISMS TO ENSURE THE REGULATION AND MONITORING OF CAREGIVER TRAINING CENTERS IN THE COUNTRY AND THE PROVISION OF QUALITY EDUCATION IN THE CAREGIVING PROFESSION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Caregiver",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51024475!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-858"
 
 [[history]]
 date = "2007-07-03"

@@ -6,7 +6,6 @@ name = "SBN-02261"
 [meta]
 bill_number = 2261
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2261", "https://web.senate.gov.ph/lisdata/53554412!.pdf",]
 title = "INDIVIDUAL INCOME TAXATION"
 date_filed = "2006-06-05"
 long_title = "AN ACT AMENDING SECTIONS 24, 31, 34, 35 AND 110 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Individual Income Tax, Restructuring)",]
 authors_raw = "Flavier, Juan M., Ejercito Estrada, Luisa \"Loi\" P., Osmena III, Sergio R., Villar Jr., Manuel B., Ejercito-Estrada, Jinggoy P., Enrile, Juan Ponce, Recto, Ralph G., Biazon, Rodolfo G., Madrigal, M. A."
 author_codes = ["BRODO", "EJING", "EJUAN", "ELUIS", "FJUAN", "MJAMB", "OSERG", "RRALP", "VMANU"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53554412!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2261"
 
 [[history]]
 date = "2006-06-05"

@@ -6,7 +6,6 @@ name = "SBN-02404"
 [meta]
 bill_number = 2404
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2404", "https://web.senate.gov.ph/lisdata/56364722!.pdf",]
 title = "PHILIPPINE AIR FORCE ACADEMY ACT OF 2006"
 date_filed = "2006-06-08"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE AIR FORCE ACADEMY (PAFA) APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Air Force Academy (PAFA)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56364722!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2404"
 
 [[history]]
 date = "2006-06-08"

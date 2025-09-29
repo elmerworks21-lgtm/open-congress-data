@@ -6,7 +6,6 @@ name = "SBN-01031"
 [meta]
 bill_number = 1031
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1031", "https://web.senate.gov.ph/lisdata/4764143658!.pdf",]
 title = "AMENDING SEC. 3 OF R.A. NO. 7431 (RADIOLOGIC TECHNOLOGY ACT OF 1992)"
 date_filed = "2025-08-06"
 long_title = "AN ACT TO AMEND CERTAIN SECTIONS OF REPUBLIC ACT SEVEN THOUSAND FOUR HUNDRED THIRTY-ONE (R.A. 7431) OTHERWISE KNOWN AS THE RADIOLOGIC TECHNOLOGY ACT OF 1992 AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4764143658!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1031"
 
 [[history]]
 date = "2025-08-06"

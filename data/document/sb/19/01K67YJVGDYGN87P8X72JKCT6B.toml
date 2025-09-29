@@ -6,7 +6,6 @@ name = "SBN-00923"
 [meta]
 bill_number = 923
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-923", "https://web.senate.gov.ph/lisdata/3871135167!.pdf",]
 title = "LOCAL BUDGETING REFORM ACT"
 date_filed = "2022-07-28"
 long_title = "AN ACT ENSURING THE EQUITABLE DISTRIBUTION OF FUNDS BETWEEN THE NATIONAL GOVERNMENT AND LOCAL GOVERNMENT UNITS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Budget", "Budgetary Reform",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3871135167!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-923"
 
 [[history]]
 date = "2022-07-28"

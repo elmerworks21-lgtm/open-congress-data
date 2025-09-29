@@ -6,7 +6,6 @@ name = "SBN-00802"
 [meta]
 bill_number = 802
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-802", "https://web.senate.gov.ph/lisdata/3117128071!.pdf",]
 title = "PHILIPPINE SPORTS ACADEMY ACT OF 2019"
 date_filed = "2019-07-29"
 long_title = "AN ACT CREATING THE PHILIPPINE SPORTS ACADEMY AS AN ATTACHED AGENCY OF THE PHILIPPINE SPORTS COMMISSION, PROVIDING ITS STRUCTURE, POWERS AND FUNCTIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Sports Academy",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3117128071!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-802"
 
 [[history]]
 date = "2019-07-29"

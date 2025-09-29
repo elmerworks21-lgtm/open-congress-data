@@ -6,7 +6,6 @@ name = "SBN-03214"
 [meta]
 bill_number = 3214
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3214", "https://web.senate.gov.ph/lisdata/2321619895!.pdf",]
 title = "SPORTS-RELATED INJURY PREVENTION AND TREATMENT ACT"
 date_filed = "2016-02-02"
 long_title = "AN ACT REQUIRING SPORTS-RELATED INJURY PREVENTION AND TREATMENT PROGRAMS IN EDUCATIONAL INSTITUTIONS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Sports Injury Prevention",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2321619895!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3214"
 
 [[history]]
 date = "2016-02-02"

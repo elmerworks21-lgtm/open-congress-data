@@ -6,7 +6,6 @@ name = "SBN-00792"
 [meta]
 bill_number = 792
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-792", "https://web.senate.gov.ph/lisdata/19831423!.pdf",]
 title = "PROHIBITING USE OF THE WORD MUSLIM/CHRISTIAN IN PRINT MEDIA"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROHIBITING THE USE OF THE WORDS 'MUSLIM' AND 'CHRISTIAN' IN PRINT AND BROADCAST MEDIA TO DESCRIBE ANY PERSON SUSPECTED OF OR CONVICTED FOR HAVING COMMITTED CRIMINAL OR UNLAWFUL ACT AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Muslim & Christian Word (Prohibition)", "Print/Broadcast Media",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19831423!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-792"
 
 [[history]]
 date = "2004-06-30"

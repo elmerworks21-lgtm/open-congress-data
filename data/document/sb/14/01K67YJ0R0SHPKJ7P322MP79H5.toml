@@ -6,7 +6,6 @@ name = "SBN-00032"
 [meta]
 bill_number = 32
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-32", "https://web.senate.gov.ph/lisdata/42093472!.pdf",]
 title = "NATIONAL DEFENSE AND SECURITY ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROVIDING FOR THE NATIONAL DEFENSE AND SECURITY OF THE REPUBLIC OF THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Defense and Security",]
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42093472!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-32"
 
 [[history]]
 date = "2007-06-30"

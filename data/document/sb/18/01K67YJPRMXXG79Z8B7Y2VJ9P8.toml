@@ -6,7 +6,6 @@ name = "SBN-00562"
 [meta]
 bill_number = 562
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-562", "https://web.senate.gov.ph/lisdata/3084527801!.pdf",]
 title = "PHILIPPINE NURSING ACT"
 date_filed = "2019-07-17"
 long_title = "AN ACT INSTITUTING THE COMPREHENSIVE POLICY FOR THE NURSING PROFESSION IN THE PHILIPPINES AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9173 OTHERWISE KNOWN AS 'THE PHILIPPINE NURSING ACT OF 2002'"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Nursing Act", "Nurses/Nursing", "Comprehensive Nursing 
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3084527801!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-562"
 
 [[history]]
 date = "2019-07-17"

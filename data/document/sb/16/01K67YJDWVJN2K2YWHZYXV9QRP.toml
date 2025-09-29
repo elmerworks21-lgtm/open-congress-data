@@ -6,7 +6,6 @@ name = "SBN-02436"
 [meta]
 bill_number = 2436
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2436", "https://web.senate.gov.ph/lisdata/1995417075!.pdf",]
 title = "PRACTICE OF PHARMACY"
 date_filed = "2014-10-20"
 long_title = "AN ACT TO REGULATE AND MODERNIZE THE PRACTICE OF PHARMACY IN THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pharmacy",]
 authors_raw = "Ejercito-Estrada, Jinggoy P., Escudero, Francis \"Chiz\" G., Trillanes, Antonio \"Sonny\" F."
 author_codes = ["EFRAN", "EJING", "TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1995417075!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2436"
 
 [[history]]
 date = "2014-10-20"

@@ -6,7 +6,6 @@ name = "SBN-00049"
 [meta]
 bill_number = 49
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-49", "https://web.senate.gov.ph/lisdata/2346220046!.pdf",]
 title = "ANTI-POLITICAL DYNASTY ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROHIBITING THE ESTABLISHMENT OF POLITICAL DYNASTIES"
@@ -15,6 +14,8 @@ subjects = [ "Political Dynasty", "Political Dynasties",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2346220046!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-49"
 
 [[history]]
 date = "2016-06-30"

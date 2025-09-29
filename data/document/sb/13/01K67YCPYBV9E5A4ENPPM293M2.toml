@@ -6,7 +6,6 @@ name = "SBN-02638"
 [meta]
 bill_number = 2638
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2638", "https://web.senate.gov.ph/lisdata/71585805!.pdf",]
 title = "PROFESSIONAL DRIVER'S EDUCATION ACT OF 2007"
 date_filed = "2007-06-04"
 long_title = "AN ACT REQUIRING SPECIAL DRIVER’S EDUCATION FOR PROFESSIONAL AND TRUCK DRIVERS"
@@ -15,6 +14,8 @@ subjects = [ "Drivers Education (Professional/Truck Drivers)", "Special Drivers 
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71585805!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2638"
 
 [[history]]
 date = "2007-06-04"

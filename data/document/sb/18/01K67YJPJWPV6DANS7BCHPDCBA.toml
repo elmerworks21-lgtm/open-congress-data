@@ -6,7 +6,6 @@ name = "SBN-00293"
 [meta]
 bill_number = 293
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-293", "https://web.senate.gov.ph/lisdata/3052527323!.pdf",]
 title = "FOLIC ACID ACT"
 date_filed = "2019-07-08"
 long_title = "AN ACT ESTABLISHING AN INTEGRATED UTILIZATION AND PROMOTION OF FOLIC ACID FOOD FORTIFICATION AND SUPPLEMENTATION"
@@ -15,6 +14,8 @@ subjects = [ "Folic Acid", "Food Fortification Act (R.A.No. 8976, Amendments)",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3052527323!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-293"
 
 [[history]]
 date = "2019-07-08"

@@ -6,7 +6,6 @@ name = "SBN-01012"
 [meta]
 bill_number = 1012
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1012", "https://web.senate.gov.ph/lisdata/84807036!.pdf",]
 title = "NATIONAL HEALTH INSURANCE COVERAGE FOR PUBLIC UTILITY DRIVERS ACT OF 2010"
 date_filed = "2010-07-08"
 long_title = "AN ACT REQUIRING THE MANDATORY COVERAGE OF ALL PUBLIC UTILITY DRIVERS IN THE NATIONAL HEALTH INSURANCE PROGRAM (NHIP) UNDER THE PHILIPPINE HEALTH INSURANCE CORPORATION (PHILHEALTH)"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Health Insurance Corporation (PHIC)", "Public Utility V
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84807036!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1012"
 
 [[history]]
 date = "2010-07-08"

@@ -6,7 +6,6 @@ name = "SBN-02803"
 [meta]
 bill_number = 2803
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2803", "https://web.senate.gov.ph/lisdata/2162718349!.pdf",]
 title = "MINIMUM CIGARETTE PRICE LAW"
 date_filed = "2015-06-04"
 long_title = "AN ACT IMPOSING A CIGARETTE FLOOR PRICE ON TOBACCO PRODUCTS TO PREVENT ACCESS THERETO BY THE YOUTH AND TO ADDRESS THE ILLICIT TRADE OF TOBACCO PRODUCTS TO CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Cigars/Cigarettes", "Tobacco Products/Tobacco Industry",]
 authors_raw = "Cayetano, Alan Peter Companero S."
 author_codes = ["CALAN"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2162718349!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2803"
 
 [[history]]
 date = "2015-06-04"

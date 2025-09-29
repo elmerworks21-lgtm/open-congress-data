@@ -6,7 +6,6 @@ name = "SBN-02067"
 [meta]
 bill_number = 2067
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2067", "https://web.senate.gov.ph/lisdata/68656082!.pdf",]
 title = "COMPUTER RECOVERY AND COLLECTION ACT OF 2008"
 date_filed = "2008-02-12"
 long_title = "AN ACT REQUIRING THE MANUFACTURERS OF COMPUTERS TO PROVIDE RECOVERY AND COLLECTION FACILITIES FOR THEIR PRODUCTS"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/68656082!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2067"
 
 [[history]]
 date = "2008-02-12"

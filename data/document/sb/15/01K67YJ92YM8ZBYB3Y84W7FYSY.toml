@@ -6,7 +6,6 @@ name = "SBN-02649"
 [meta]
 bill_number = 2649
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2649", "https://web.senate.gov.ph/lisdata/106169091!.pdf",]
 title = "ANTI-POLITICAL DYNASTY ACT"
 date_filed = "2011-01-24"
 long_title = "AN ACT TO PROHIBIT THE ESTABLISHMENT OF POLITICAL DYNASTIES"
@@ -15,6 +14,8 @@ subjects = [ "Political Dynasty", "Political Dynasties",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106169091!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2649"
 
 [[history]]
 date = "2011-01-24"

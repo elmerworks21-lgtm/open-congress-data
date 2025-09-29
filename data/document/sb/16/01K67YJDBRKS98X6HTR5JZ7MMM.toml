@@ -6,7 +6,6 @@ name = "SBN-01667"
 [meta]
 bill_number = 1667
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1667", "https://web.senate.gov.ph/lisdata/1779715034!.pdf",]
 title = "BUREAU OF HAZARDOUS WASTES AND ENVIRONMENTAL SPILLS AND DISEASE REGISTRY"
 date_filed = "2013-09-16"
 long_title = "AN ACT ESTABLISHING A BUREAU ON HAZARDOUS WASTES AND ENVIRONMENTAL SPILLS AND DISEASE REGISTRY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Hazardous", "Toxic", "Radioactive Wastes Management",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1779715034!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1667"
 
 [[history]]
 date = "2013-09-16"

@@ -6,7 +6,6 @@ name = "SBN-02284"
 [meta]
 bill_number = 2284
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2284", "https://web.senate.gov.ph/lisdata/1948516602!.pdf",]
 title = "PATIENT-CENTERED QUALITY CARE FOR LIFE ACT"
 date_filed = "2014-07-18"
 long_title = "AN ACT CREATING A PATIENT-CENTERED QUALITY OF CARE INITIATIVE FOR SERIOUSLY ILL PATIENTS THROUGH THE ESTABLISHMENT OF A STAKEHOLDER STRATEGIC SUMMIT, QUALITY OF LIFE EDUCATION, AND AWARENESS INITIATIVE, HEALTH CARE WORKFORCE TRAINING, AN ADVISORY COMMITTEE, AND PALLIATIVE CARE FOCUSED RESEARCH"
@@ -15,6 +14,8 @@ subjects = [ "Palliative Care", "Health Care Delivery System", "Patients",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1948516602!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2284"
 
 [[history]]
 date = "2014-07-18"

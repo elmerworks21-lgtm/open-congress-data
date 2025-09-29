@@ -6,7 +6,6 @@ name = "SBN-01291"
 [meta]
 bill_number = 1291
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1291", "https://web.senate.gov.ph/lisdata/1735914597!.pdf",]
 title = "OMNIBUS ELECTION CODE (AMENDING SECTION 261 (W)"
 date_filed = "2013-08-15"
 long_title = "AN ACT AMENDING SECTION 261 (W) OF THE OMNIBUS ELECTION CODE (BATAS PAMBANSA BILANG 881)"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "Public Works Pr
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1735914597!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1291"
 
 [[history]]
 date = "2013-08-15"

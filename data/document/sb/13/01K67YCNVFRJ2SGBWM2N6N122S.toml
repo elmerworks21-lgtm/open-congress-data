@@ -6,7 +6,6 @@ name = "SBN-00878"
 [meta]
 bill_number = 878
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-878", "https://web.senate.gov.ph/lisdata/20761566!.pdf",]
 title = "MUNICIPAL PORTS OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE DEVOLUTION OF THE CONTROL, MANAGEMENT AND OPERATION OF MUNICIPAL OR TERTIARY PORTS FROM THE PHILIPPINE PORTS AUTHORITY TO LOCAL GOVERNMENT UNITS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Municipal Ports Act (Devolution)", "Philippine Ports Authority",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20761566!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-878"
 
 [[history]]
 date = "2004-06-30"

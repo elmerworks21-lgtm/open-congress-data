@@ -6,7 +6,6 @@ name = "SBN-01304"
 [meta]
 bill_number = 1304
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1304", "https://web.senate.gov.ph/lisdata/56044965!.pdf",]
 title = "LAND ADMINISTRATION REFORM ACT OF 2007"
 date_filed = "2007-07-24"
 long_title = "AN ACT INSTITUTING REFORMS IN LAND ADMINISTRATION"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56044965!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1304"
 
 [[history]]
 date = "2007-07-04"

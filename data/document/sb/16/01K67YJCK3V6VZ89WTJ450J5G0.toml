@@ -6,7 +6,6 @@ name = "SBN-00475"
 [meta]
 bill_number = 475
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-475", "https://web.senate.gov.ph/lisdata/1636013601!.pdf",]
 title = "SPECIAL EDUCATION ACT"
 date_filed = "2013-07-04"
 long_title = "AN ACT INSTITUTING INCLUSIVE EDUCATION THROUGH SPECIAL EDUCATION IN ALL PUBLIC AND PRIVATE ELEMENTARY AND SECONDARY SCHOOLS NATIONWIDE FOR CHILDREN AND YOUTH WITH SPECIAL NEEDS AND ESTABLISHMENT OF THE BUREAU OF SPECIAL EDUCATION CREATING THE IMPLEMENTING MACHINERY THEREOF, PROVIDING GUIDELINES FOR GOVERNMENT FINANCIAL ASSISTANCE AND OTHER INCENTIVES AND SUPPORT FOR OTHER SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Special Education",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1636013601!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-475"
 
 [[history]]
 date = "2013-07-04"

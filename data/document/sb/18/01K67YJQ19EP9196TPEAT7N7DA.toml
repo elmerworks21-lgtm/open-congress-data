@@ -6,7 +6,6 @@ name = "SBN-00965"
 [meta]
 bill_number = 965
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-965", "https://web.senate.gov.ph/lisdata/3137928274!.pdf",]
 title = "AUTISM SPECTRUM DISORDER MANAGEMENT ACT"
 date_filed = "2019-08-27"
 long_title = "AN ACT PROVIDING FOR THE IDENTIFICATION, ASSESSMENT, AND EDUCATION OF CHILDREN WITH AUTISM SPECTRUM DISORDER"
@@ -15,6 +14,8 @@ subjects = [ "Autism Spectrum Disorder (ASD)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3137928274!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-965"
 
 [[history]]
 date = "2019-08-27"

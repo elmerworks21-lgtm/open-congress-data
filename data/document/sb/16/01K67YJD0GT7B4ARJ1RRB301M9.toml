@@ -6,7 +6,6 @@ name = "SBN-01126"
 [meta]
 bill_number = 1126
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1126", "https://web.senate.gov.ph/lisdata/1715414392!.pdf",]
 title = "PROSTATE CANCER PUBLIC AWARENESS ACT"
 date_filed = "2013-07-29"
 long_title = "AN ACT ESTABLISHING A PROGRAM FOR PUBLIC EDUCATION ON PROSTATE CANCER"
@@ -15,6 +14,8 @@ subjects = [ "Prostate Cancer",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1715414392!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1126"
 
 [[history]]
 date = "2013-07-29"

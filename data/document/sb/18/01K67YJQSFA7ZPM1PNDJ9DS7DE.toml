@@ -6,7 +6,6 @@ name = "SBN-01975"
 [meta]
 bill_number = 1975
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1975", "https://web.senate.gov.ph/lisdata/3424831048!.pdf",]
 title = "AMENDING R. A. NO. 11223 (INSTITUTING UNIVERSAL HEALTH CARE FOR ALL FILIPINOS)"
 date_filed = "2021-01-07"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS ‘AN ACT INSTITUTING UNIVERSAL HEALTH CARE FOR ALL FILIPINOS, PRESCRIBING REFORMS IN THE HEALTH CARE SYSTEM, AND APPROPRIATING FUNDS THEREFOR’"
@@ -15,6 +14,8 @@ subjects = [ "Universal Health Care",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3424831048!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1975"
 
 [[history]]
 date = "2021-01-07"

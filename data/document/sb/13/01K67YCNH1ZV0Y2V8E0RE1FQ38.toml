@@ -6,7 +6,6 @@ name = "SBN-00288"
 [meta]
 bill_number = 288
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-288", "https://web.senate.gov.ph/lisdata/1446718!.pdf",]
 title = "COASTAL ENVIRONMENT PROGRAM (CEP) OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING THE COASTAL ENVIRONMENT PROGRAM, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Coastal Environment Program (CEP)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1446718!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-288"
 
 [[history]]
 date = "2004-06-30"

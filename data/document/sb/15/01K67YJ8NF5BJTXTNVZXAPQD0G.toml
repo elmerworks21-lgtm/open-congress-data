@@ -6,7 +6,6 @@ name = "SBN-02278"
 [meta]
 bill_number = 2278
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2278", "https://web.senate.gov.ph/lisdata/98688408!.pdf",]
 title = "INFORMED ELECTORATE ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT GIVING EQUAL ACCESS TO RADIO AND TV ADS FOR CANDIDATES DURING THE ELECTION PERIOD, SIMPLIFYING AND PROFESSIONALIZING POLITICAL ADVERTISEMENTS AND INSTITUTIONALIZING POLITICAL DEBATES TO PROPERLY WARN THE ELECTORATE DURING THE ELECTION PERIOD"
@@ -15,6 +14,8 @@ subjects = [ "Advertising", "Elections/Electoral Reforms",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98688408!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2278"
 
 [[history]]
 date = "2010-08-02"

@@ -6,7 +6,6 @@ name = "SBN-01214"
 [meta]
 bill_number = 1214
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1214", "https://web.senate.gov.ph/lisdata/24271793!.pdf",]
 title = "NATIONAL HISTORICAL INSTITUTE"
 date_filed = "2004-07-01"
 long_title = "AN ACT PROVIDING FOR THE IMPROVEMENT AND STRENGTHENING OF THE NATIONAL HISTORICAL INSTITUTE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Historical Institute",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24271793!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1214"
 
 [[history]]
 date = "2004-07-01"

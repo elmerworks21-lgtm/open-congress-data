@@ -6,7 +6,6 @@ name = "SBN-00232"
 [meta]
 bill_number = 232
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-232", "https://web.senate.gov.ph/lisdata/43323728!.pdf",]
 title = "ENTREPRENEURAL EDUCATION PROMOTION ACT"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO ESTABLISH THE NATIONAL COMMISSION ON ENTREPRENEURIAL EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "National Commission on Entrepreneurial Education",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43323728!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-232"
 
 [[history]]
 date = "2007-06-30"

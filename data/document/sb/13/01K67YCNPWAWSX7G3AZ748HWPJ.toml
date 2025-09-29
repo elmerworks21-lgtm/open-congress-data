@@ -6,7 +6,6 @@ name = "SBN-00614"
 [meta]
 bill_number = 614
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-614", "https://web.senate.gov.ph/lisdata/18001175!.pdf",]
 title = "MOBILE HEALTH CARE SERVICES ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROVIDE FOR THE USE OF MOBILE UNITS SERVING MEDICAL, DIAGNOSTIC AND TREATMENT SERVICES, IN ORDER TO ENSURE THE AVAILABILITY OF QUALITY HEALTH CARE SERVICES FOR PATIENTS WHO RECEIVE CARE IN REMOTE OR RURAL AREAS AND FOR PATIENTS WHO NEED SPECIALIZED TYPES OF MEDICAL CARE PROVIDED IN A COST-EFFECTIVE WAY"
@@ -15,6 +14,8 @@ subjects = [ "Mobile Health Care Services Act",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18001175!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-614"
 
 [[history]]
 date = "2004-06-30"

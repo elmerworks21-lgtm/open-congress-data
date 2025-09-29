@@ -6,7 +6,6 @@ name = "SBN-01416"
 [meta]
 bill_number = 1416
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1416", "https://web.senate.gov.ph/lisdata/3252229393!.pdf",]
 title = "AMENDING R.A. NO. 11332 (MANDATORY REPORTING OF NOTIFIABLE DISEASES)"
 date_filed = "2020-03-23"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11332, OTHERWISE KNOWN AS THE ‘MANDATORY REPORTING OF NOTIFIABLE DISEASES AND HEALTH EVENTS OF PUBLIC HEALTH CONCERN ACT’, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mandatory Reporting of Notifiable Diseases", "Covid-19",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3252229393!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1416"
 
 [[history]]
 date = "2020-03-23"

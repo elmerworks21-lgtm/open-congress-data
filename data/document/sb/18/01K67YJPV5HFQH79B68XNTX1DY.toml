@@ -6,7 +6,6 @@ name = "SBN-00680"
 [meta]
 bill_number = 680
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-680", "https://web.senate.gov.ph/lisdata/3105027948!.pdf",]
 title = "EXPANDED MATERNAL AND INFANT CARE ACT"
 date_filed = "2019-07-22"
 long_title = "AN ACT ESTABLISHING A MATERNAL AND INFANT HEALTH HOME VISITATION PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Maternal", "Infant Health",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3105027948!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-680"
 
 [[history]]
 date = "2019-07-22"

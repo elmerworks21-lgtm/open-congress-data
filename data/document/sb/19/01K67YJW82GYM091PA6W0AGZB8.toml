@@ -6,7 +6,6 @@ name = "SBN-01947"
 [meta]
 bill_number = 1947
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1947", "https://web.senate.gov.ph/lisdata/4096737335!.pdf",]
 title = "CAGAYAN DE ORO RIVER CULTURAL HERITAGE ZONE ACT"
 date_filed = "2023-03-01"
 long_title = "AN ACT DECLARING CAGAYAN DE ORO RIVER AND ITS IMMEDIATE ENVIRONS LOCATED IN CAGAYAN DE ORO CITY, PROVINCE OF MISAMIS ORIENTAL A CULTURAL HERITAGE ZONE"
@@ -15,6 +14,8 @@ subjects = [ "Cultural Heritage", "Heritage Zone",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["CULTA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4096737335!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1947"
 
 [[history]]
 date = "2023-03-01"

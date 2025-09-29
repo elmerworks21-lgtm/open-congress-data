@@ -6,7 +6,6 @@ name = "SBN-01323"
 [meta]
 bill_number = 1323
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1323", "https://web.senate.gov.ph/lisdata/4796743989!.pdf",]
 title = "CANCER MEDICINE AND TREATMENT FUNDS FOR FILIPINOS"
 date_filed = "2025-09-02"
 long_title = "AN ACT ESTABLISHING A CANCER MEDICINE AND TREATMENT ASSISTANCE FUND FOR INDIGENT AND UNDERPRIVILEGED FILIPINOS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Cancer Medicine and Treatment Fund", "Underprivileged Persons", "Indigent Persons",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4796743989!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1323"
 
 [[history]]
 date = "2025-09-02"

@@ -6,7 +6,6 @@ name = "SBN-00465"
 [meta]
 bill_number = 465
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-465", "https://web.senate.gov.ph/lisdata/1634113581!.pdf",]
 title = "ELECTRICITY RATE REDUCTION"
 date_filed = "2013-07-04"
 long_title = "AN ACT REDUCING ELECTRICITY RATES BY ALLOCATING THE NET NATIONAL GOVERNMENT SHARE FROM THE MALAMPAYA NATURAL GAS PROJECT FOR THE PAYMENT OF THE STRANDED CONTRACT COSTS AND STRANDED DEBTS OF THE NATIONAL POWER CORPORATION"
@@ -15,6 +14,8 @@ subjects = [ "Electricity Rate Reduction", "Malampaya Natural Gas Project", "Nat
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1634113581!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-465"
 
 [[history]]
 date = "2013-07-04"

@@ -6,7 +6,6 @@ name = "SBN-00560"
 [meta]
 bill_number = 560
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-560", "https://web.senate.gov.ph/lisdata/3833734788!.pdf",]
 title = "STRENGTHENING WORKERS’ RIGHT TO SELF-ORGANIZATION"
 date_filed = "2022-07-14"
 long_title = "AN ACT FURTHER STRENGTHENING WORKERS’ RIGHT TO SELF-ORGANIZATION, AMENDING FOR THE PURPOSE ARTICLES 240[234](C), 242[235], 243[236], 244[237] AND 285[270] OF PRESIDENTIAL DECREE NO. 442, AS AMENDED,OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Workers Right to Self-Organization", "Labor Code of the Philippine
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3833734788!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-560"
 
 [[history]]
 date = "2022-07-14"

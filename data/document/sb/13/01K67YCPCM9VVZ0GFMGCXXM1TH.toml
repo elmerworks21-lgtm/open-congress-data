@@ -6,7 +6,6 @@ name = "SBN-01806"
 [meta]
 bill_number = 1806
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1806", "https://web.senate.gov.ph/lisdata/30292203!.pdf",]
 title = "ANTI-DRUNK DRIVING ACT OF 2004"
 date_filed = "2004-09-23"
 long_title = "AN ACT PROHIBITING DRUNK DRIVING, PROVIDING FOR STRICT PENALTIES THEREFOR, AMENDING FOR THE PURPOSE THE REVISED PENAL CODE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Drunk Driving Act",]
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/30292203!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1806"
 
 [[history]]
 date = "2004-09-23"

@@ -6,7 +6,6 @@ name = "SBN-00182"
 [meta]
 bill_number = 182
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-182", "https://web.senate.gov.ph/lisdata/1600813245!.pdf",]
 title = "SANGLEY POINT CONVERSION ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT DIRECTING THE CONVERSION OF SANGLEY POINT IN CAVITE CITY INTO AN INTERNATIONAL LOGISTICS HUB"
@@ -15,6 +14,8 @@ subjects = [ "Sangley Point",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1600813245!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-182"
 
 [[history]]
 date = "2013-07-01"

@@ -6,7 +6,6 @@ name = "SBN-00539"
 [meta]
 bill_number = 539
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-539", "https://web.senate.gov.ph/lisdata/4709443094!.pdf",]
 title = "ANTI-MARITAL INFIDELITY ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT DEFINING AND PENALIZING MARITAL INFIDELITY, AMENDING FOR THE PURPOSE ACT NO. 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Concubinage", "Marital Infidelity",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4709443094!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-539"
 
 [[history]]
 date = "2025-07-14"

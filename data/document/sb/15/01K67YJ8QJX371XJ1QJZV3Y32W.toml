@@ -6,7 +6,6 @@ name = "SBN-02379"
 [meta]
 bill_number = 2379
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2379", "https://web.senate.gov.ph/lisdata/99528545!.pdf",]
 title = "INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
 date_filed = "2010-08-11"
 long_title = "THE INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Investment and Incentives Code",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99528545!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2379"
 
 [[history]]
 date = "2010-08-11"

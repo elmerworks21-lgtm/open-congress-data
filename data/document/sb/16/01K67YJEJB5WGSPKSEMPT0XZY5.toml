@@ -6,7 +6,6 @@ name = "SBN-03165"
 [meta]
 bill_number = 3165
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3165", "https://web.senate.gov.ph/lisdata/2309419833!.pdf",]
 title = "ABANDONED MOTOR VEHICLE ACT"
 date_filed = "2016-01-28"
 long_title = "AN ACT GOVERNING ABANDONED AND DERELICT MOTOR VEHICLES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Motor Vehicles",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2309419833!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3165"
 
 [[history]]
 date = "2016-01-28"

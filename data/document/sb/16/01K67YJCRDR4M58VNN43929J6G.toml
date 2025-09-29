@@ -6,7 +6,6 @@ name = "SBN-00735"
 [meta]
 bill_number = 735
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-735", "https://web.senate.gov.ph/lisdata/1666013899!.pdf",]
 title = "BOOK CITY ACT OF 2013"
 date_filed = "2013-07-15"
 long_title = "AN ACT PROVIDING FOR THE LEGAL FRAMEWORK AND MECHANISMS FOR THE CREATION, OPERATION, ADMINISTRATION, AND COORDINATION OF THE PHILIPPINE BOOK PUBLISHING INDUSTRY DEVELOPMENT CENTER, OTHERWISE KNOWN AS THE ‘BOOK CITY’, CREATING FOR THE PURPOSE, THE BOOK PUBLISHING ENTERPRISE ZONE AUTHORITY (BPEZA) AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Book Publishing",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1666013899!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-735"
 
 [[history]]
 date = "2013-07-15"

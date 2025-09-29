@@ -6,7 +6,6 @@ name = "SBN-00843"
 [meta]
 bill_number = 843
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-843", "https://web.senate.gov.ph/lisdata/20411523!.pdf",]
 title = "REVISED CHARTER OF THE COOPERATIVE DEVELOPMENT AUTHORITY"
 date_filed = "2004-06-30"
 long_title = "AN ACT REVISING REPUBLIC ACT NUMBERED 6939, CREATING THE COOPERATIVE DEVELOPMENT AUTHORITY"
@@ -15,6 +14,8 @@ subjects = [ "Cooperative Development Authority", "RA No. 6939, Revision",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["COOPE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20411523!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-843"
 
 [[history]]
 date = "2004-06-30"

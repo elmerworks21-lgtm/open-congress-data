@@ -6,7 +6,6 @@ name = "SBN-00122"
 [meta]
 bill_number = 122
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-122", "https://web.senate.gov.ph/lisdata/2353720156!.pdf",]
 title = "FREE IRRIGATION SERVICES ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT ABOLISHING IRRIGATION SERVICE FEES AND SUCH OTHER SIMILAR OR RELATED FEES FROM BENEFICIARIES OR IRRIGATION SYSTEMS FUNDED AND CONSTRUCTED BY, OR UNDER THE ADMINISTRATION OF THE NATIONAL IRRIGATION ADMINISTRATION, AMENDING FOR THE PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NO. 3601, PRESIDENTIAL DECREE NO. 552 AND PRESIDENTIAL DECREE NO. 1702"
@@ -15,6 +14,8 @@ subjects = [ "Irrigation", "Farmers", "National Irrigation Administration",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2353720156!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-122"
 
 [[history]]
 date = "2016-06-30"

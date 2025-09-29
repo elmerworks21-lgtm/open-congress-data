@@ -6,7 +6,6 @@ name = "SBN-00825"
 [meta]
 bill_number = 825
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-825", "https://web.senate.gov.ph/lisdata/3859435047!.pdf",]
 title = "DISEASE PREVENTION AND CONTROL ACT OF 2022"
 date_filed = "2022-07-25"
 long_title = "AN ACT INSTITUTIONALIZING A FUNCTIONAL INTEGRATED DISEASES SURVEILLANCE AND RESPONSE SYSTEM IN THE PHILIPPINES, CREATING THE CENTER FOR DISEASE PREVENTION AND CONTROL, ESTABLISHING A MEDICAL RESERVE CORPS AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Disease Control", "Medical Reserve Corps",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3859435047!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-825"
 
 [[history]]
 date = "2022-07-25"

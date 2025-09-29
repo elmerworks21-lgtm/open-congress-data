@@ -6,7 +6,6 @@ name = "SBN-00866"
 [meta]
 bill_number = 866
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-866", "https://web.senate.gov.ph/lisdata/20641554!.pdf",]
 title = "SPECIAL EDUCATION ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING AT LEAST ONE (1) SPECIAL EDUCATION (SPED) CENTER FOR EACH SCHOOL DIVISION AND AT LEAST THREE (3) SPED CENTERS IN EVERY SCHOOL DIVISIONS FOR CHILDREN WITH SPECIAL NEED (CSN's), CREATING THE IMPLEMENTING MACHINERY THEREOF, PROVIDING GUIDELINES FOR GOVERNMENT FINANCIAL ASSISTANCE AND OTHER INCENTIVES AND SUPPORT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Special Education Act of 2004", "Children and Youth with Special N
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20641554!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-866"
 
 [[history]]
 date = "2004-06-30"

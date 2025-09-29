@@ -6,7 +6,6 @@ name = "SBN-00852"
 [meta]
 bill_number = 852
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-852", "https://web.senate.gov.ph/lisdata/20501540!.pdf",]
 title = "COMMISSION ON MISSING PERSONS"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING A COMMISSION ON MISSING PERSONS"
@@ -15,6 +14,8 @@ subjects = [ "Commission on Missing Persons (Creation)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20501540!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-852"
 
 [[history]]
 date = "2004-06-30"

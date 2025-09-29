@@ -6,7 +6,6 @@ name = "SBN-01330"
 [meta]
 bill_number = 1330
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1330", "https://web.senate.gov.ph/lisdata/11211909!.pdf",]
 title = "HUMAN RIGHTS VICTIMS COMPENSATION ACT OF 2004"
 date_filed = "2004-07-06"
 long_title = "AN ACT PROVIDING FOR COMPENSATION TO THE VICTIMS OF HUMAN RIGHTS VIOLATIONS DURING THE REGIME OF FORMER PRESIDENT FERDINAND MARCOS, DOCUMENTATION OF SAID VIOLATIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Human Rights Victims (Compensation)", "Marcos Regime Human Rights 
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/11211909!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1330"
 
 [[history]]
 date = "2004-07-06"

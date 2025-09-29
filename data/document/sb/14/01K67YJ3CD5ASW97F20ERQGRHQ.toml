@@ -6,7 +6,6 @@ name = "SBN-03538"
 [meta]
 bill_number = 3538
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3538", "https://web.senate.gov.ph/lisdata/1309811717!.pdf",]
 title = "HOMELESS ASSISTANCE ACT OF 2009"
 date_filed = "2009-11-18"
 long_title = "AN ACT PROVIDING ASSISTANCE TO THE HOMELESS"
@@ -15,6 +14,8 @@ subjects = [ "Homeless", "Underprivilege",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1309811717!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3538"
 
 [[history]]
 date = "2009-11-18"

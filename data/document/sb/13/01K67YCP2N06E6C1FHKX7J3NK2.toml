@@ -6,7 +6,6 @@ name = "SBN-01262"
 [meta]
 bill_number = 1262
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1262", "https://web.senate.gov.ph/lisdata/24731841!.pdf",]
 title = "SENSIBLE ADVERTISING ACT"
 date_filed = "2004-07-01"
 long_title = "AN ACT REQUIRING ADVERTISEMENTS OF ALCOHOLIC BEVERAGES TO BEAR HEALTH WARNINGS"
@@ -15,6 +14,8 @@ subjects = [ "Sensible Advertising Act", "Alcoholic Beverages (Health Warnings)"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24731841!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1262"
 
 [[history]]
 date = "2004-07-01"

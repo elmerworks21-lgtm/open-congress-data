@@ -6,7 +6,6 @@ name = "SBN-00335"
 [meta]
 bill_number = 335
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-335", "https://web.senate.gov.ph/lisdata/3809234534!.pdf",]
 title = "GRANTING THE PRESIDENT OF THE PHILIPPINES TO SUSPEND INCREASES IN PHILHEALTH PREMIUM CONTRIBUTION"
 date_filed = "2022-07-12"
 long_title = "AN ACT GRANTING THE PRESIDENT OF THE PHILIPPINES THE POWER TO SUSPEND THE SCHEDULED INCREASES IN PHILHEALTH PREMIUM CONTRIBUTION RATES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE 'UNIVERSAL HEALTH CARE ACT'"
@@ -15,6 +14,8 @@ subjects = [ "President of the Philippines", "Philippine Health Insurance Corpor
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3809234534!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-335"
 
 [[history]]
 date = "2022-07-12"

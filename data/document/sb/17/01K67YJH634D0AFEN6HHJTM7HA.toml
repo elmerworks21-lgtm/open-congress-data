@@ -6,7 +6,6 @@ name = "SBN-00075"
 [meta]
 bill_number = 75
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-75", "https://web.senate.gov.ph/lisdata/2348820133!.pdf",]
 title = "MAGNA CARTA BONUS AND PHP 1,000.00 MEDICAL ALLOWANCE FOR EDUCATORS"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FOR ADDITIONAL SUPPORT AND COMPENSATION FOR EDUCATORS IN BASIC EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Department of Education (DepEd)",]
 authors_raw = "Cayetano, Alan Peter Companero S."
 author_codes = ["CALAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2348820133!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-75"
 
 [[history]]
 date = "2016-06-30"

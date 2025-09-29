@@ -6,7 +6,6 @@ name = "SBN-02081"
 [meta]
 bill_number = 2081
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2081", "https://web.senate.gov.ph/lisdata/2886525368!.pdf",]
 title = "SIMULATED BIRTH RECTIFICATION ACT OF 2018"
 date_filed = "2018-10-22"
 long_title = "AN ACT GRANTING AMNESTY FOR SIMULATED BIRTHS, ALLOWING THE RECTIFICATION OF SIMULATED BIRTH RECORDS THROUGH ADMINISTRATIVE ADOPTION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Simulated Birth Rectification", "Adoption", "Birth Registration", 
 authors_raw = "Poe, Grace L., Hontiveros, Risa, De Lima, Leila M."
 author_codes = ["DLEIL", "HANAT", "PGRAC"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2886525368!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2081"
 
 [[history]]
 date = "2018-10-22"

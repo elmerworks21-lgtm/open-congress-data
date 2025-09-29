@@ -6,7 +6,6 @@ name = "SBN-00257"
 [meta]
 bill_number = 257
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-257", "https://web.senate.gov.ph/lisdata/3798834431!.pdf",]
 title = "SUSTAINABLE FOREST MANAGEMENT ACT"
 date_filed = "2022-07-11"
 long_title = "AN ACT PROVIDING FOR THE SUSTAINABLE MANAGEMENT OF FORESTS AND FOREST LANDS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sustainable Forest Management",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3798834431!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-257"
 
 [[history]]
 date = "2022-07-11"

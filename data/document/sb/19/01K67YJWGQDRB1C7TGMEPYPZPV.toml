@@ -6,7 +6,6 @@ name = "SBN-02300"
 [meta]
 bill_number = 2300
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2300", "https://web.senate.gov.ph/lisdata/4208738279!.pdf",]
 title = "DISTRIBUTION SYSTEM LOSS ACT"
 date_filed = "2023-07-12"
 long_title = "AN ACT INSTITUTIONALIZING THE RULES ON SYSTEM LOSS CAP FOR ELECTRIC DISTRIBUTION UTILITIES"
@@ -15,6 +14,8 @@ subjects = [ "Recoverable System Loss", "Energy", "Electric Distribution Utiliti
 authors_raw = "Escudero, Francis G."
 author_codes = ["EFRAN"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4208738279!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2300"
 
 [[history]]
 date = "2023-07-12"

@@ -6,7 +6,6 @@ name = "SBN-01406"
 [meta]
 bill_number = 1406
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1406", "https://web.senate.gov.ph/lisdata/26211985!.pdf",]
 title = "WORKER'S CONSTITUTIONAL RIGHTS TO SELF-ORGANIZATION"
 date_filed = "2004-07-07"
 long_title = "AN ACT STRENGTHENING THE WORKERS' CONSTITUTIONAL RIGHT TO SELF-ORGANIZATION"
@@ -15,6 +14,8 @@ subjects = [ "Workers Right to Self-Organization", "Unionism", "Labor Code (P.D.
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26211985!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1406"
 
 [[history]]
 date = "2004-07-07"

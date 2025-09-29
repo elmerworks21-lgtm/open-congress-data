@@ -6,7 +6,6 @@ name = "SBN-02136"
 [meta]
 bill_number = 2136
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2136", "https://web.senate.gov.ph/lisdata/1877215900!.pdf",]
 title = "CHILDHOOD CANCER SURVIVORS' QUALITY OF LIFE ACT"
 date_filed = "2014-02-24"
 long_title = "AN ACT IMPROVING AND ENHANCING RESEARCH AND PROGRAMS ON CHILDHOOD CANCER SURVIVORSHIP"
@@ -15,6 +14,8 @@ subjects = [ "Children/Child Care", "Cancer",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1877215900!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2136"
 
 [[history]]
 date = "2014-02-24"

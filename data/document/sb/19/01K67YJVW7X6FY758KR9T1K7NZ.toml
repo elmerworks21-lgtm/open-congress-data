@@ -6,7 +6,6 @@ name = "SBN-01440"
 [meta]
 bill_number = 1440
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1440", "https://web.senate.gov.ph/lisdata/3975636235!.pdf",]
 title = "CAREGIVERS WELFARE ACT"
 date_filed = "2022-11-02"
 long_title = "AN ACT INSTITUTING POLICIES FOR THE PROTECTION AND WELFARE OF CAREGIVERS IN THE PRACTICE OF THEIR PROFESSION"
@@ -15,6 +14,8 @@ subjects = [ "Caregivers",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3975636235!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1440"
 
 [[history]]
 date = "2022-11-02"

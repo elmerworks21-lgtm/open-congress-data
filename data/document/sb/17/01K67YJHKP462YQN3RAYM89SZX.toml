@@ -6,7 +6,6 @@ name = "SBN-00663"
 [meta]
 bill_number = 663
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-663", "https://web.senate.gov.ph/lisdata/2415120789!.pdf",]
 title = "NURSE IN EVERY PUBLIC SCHOOL ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT ASSIGNING ONE REGISTERED NURSE FOR EVERY PUBLIC SCHOOL IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Nurses",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2415120789!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-663"
 
 [[history]]
 date = "2016-07-20"

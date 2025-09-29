@@ -6,7 +6,6 @@ name = "SBN-01866"
 [meta]
 bill_number = 1866
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1866", "https://web.senate.gov.ph/lisdata/31132313!.pdf",]
 title = "VOLUNTEER ACT"
 date_filed = "2004-11-24"
 long_title = "AN ACT TO ENCOURAGE VOLUNTEERISM BY PROVIDING PROTECTION FROM LIABILITY OF VOLUNTEERS SERVING IN NON-PROFIT ORGANIZATIONS AND GOVERNMENTAL ENTITIES AND ALLOWING THE GRANT OF INCENTIVES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Volunteer Act", "Non-Profit Organizations",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31132313!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1866"
 
 [[history]]
 date = "2004-11-24"

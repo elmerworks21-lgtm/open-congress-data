@@ -6,7 +6,6 @@ name = "SBN-00471"
 [meta]
 bill_number = 471
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-471", "https://web.senate.gov.ph/lisdata/3076127610!.pdf",]
 title = "BILIS KONEK ACT"
 date_filed = "2019-07-15"
 long_title = "AN ACT REQUIRING INTERNET SERVICE PROVIDERS TO DELIVER A MINIMUM STANDARD FOR INTERNET CONNECTION SPEED"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Internet Access", "Internet Service Providers",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3076127610!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-471"
 
 [[history]]
 date = "2019-07-15"

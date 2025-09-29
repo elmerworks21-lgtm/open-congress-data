@@ -6,7 +6,6 @@ name = "SBN-00041"
 [meta]
 bill_number = 41
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-41", "https://web.senate.gov.ph/lisdata/3774234184!.pdf",]
 title = "STRENGTHENING THE NATIONAL WAGES AND PRODUCTIVITY COMMISSION,"
 date_filed = "2022-07-06"
 long_title = "AN ACT FURTHER STRENGTHENING THE NATIONAL WAGES AND PRODUCTIVITY COMMISSION, FURTHER AMENDING FOR THIS PURPOSE ARTICLES 121 AND 122 OF PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, AS AMENDED BY R. A. 6727"
@@ -15,6 +14,8 @@ subjects = [ "National Wages and Productivity Commission",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3774234184!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-41"
 
 [[history]]
 date = "2022-07-06"

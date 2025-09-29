@@ -6,7 +6,6 @@ name = "SBN-01419"
 [meta]
 bill_number = 1419
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1419", "https://web.senate.gov.ph/lisdata/1751514751!.pdf",]
 title = "ENVIRONMENTAL CLEARANCE CERTIFICATE"
 date_filed = "2013-08-29"
 long_title = "AN ACT INCREASING THE PENALTIES IMPOSED AGAINST FAILURE TO SECURE AN ENVIRONMENTAL CLEARANCE CERTIFICATE FOR UNDERTAKINGS IN ANCESTRAL DOMAINS AND OTHER CRITICAL AREAS OR FOR VIOLATIONS OF THE TERMS AND CONDITIONS THEREOF, THEREBY AMENDING PRESIDENTIAL DECREE 1586 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Ancestral Domain", "Environmental Compliance Certificate (ECC)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1751514751!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1419"
 
 [[history]]
 date = "2013-08-29"

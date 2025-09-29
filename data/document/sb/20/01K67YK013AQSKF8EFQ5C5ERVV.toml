@@ -6,7 +6,6 @@ name = "SBN-00383"
 [meta]
 bill_number = 383
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-383", "https://web.senate.gov.ph/lisdata/4687442880!.pdf",]
 title = "PHILIPPINE GERIATRIC MEDICAL CENTER ACT' OR THE 'SENIOR CITIZENS' HOSPITAL ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE GERIATRIC MEDICAL CENTER, OTHERWISE KNOWN AS THE 'SENIOR CITIZENS' HOSPITAL', AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens Hospital",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4687442880!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-383"
 
 [[history]]
 date = "2025-07-10"

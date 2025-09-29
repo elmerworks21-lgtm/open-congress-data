@@ -6,7 +6,6 @@ name = "SBN-01185"
 [meta]
 bill_number = 1185
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1185", "https://web.senate.gov.ph/lisdata/86767228!.pdf",]
 title = "NATIONAL PROTECTION AND PRESERVATION OF MANGROVE FOREST ACT"
 date_filed = "2010-07-12"
 long_title = "AN ACT PROVIDING FOR THE PRESERVATION, REFORESTATION, AFFORESTATION AND SUSTAINABLE DEVELOPMENT OF MANGROVE FORESTS IN THE PHILIPPINES, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mangrove Forests",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/86767228!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1185"
 
 [[history]]
 date = "2010-07-12"

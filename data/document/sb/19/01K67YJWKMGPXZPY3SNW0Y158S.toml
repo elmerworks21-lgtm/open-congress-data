@@ -6,7 +6,6 @@ name = "SBN-02427"
 [meta]
 bill_number = 2427
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2427", "https://web.senate.gov.ph/lisdata/4256738738!.pdf",]
 title = "MEDIA AND ENTERTAINMENT WORKERS WELFARE ACT"
 date_filed = "2023-08-29"
 long_title = "AN ACT PROVIDING ENHANCED PROTECTION, SECURITY AND BENEFITS FOR MEDIA AND ENTERTAINMENT WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Media and Entertainment Workers Welfare", "Media Workers", "Benefi
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4256738738!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2427"
 
 [[history]]
 date = "2023-08-29"

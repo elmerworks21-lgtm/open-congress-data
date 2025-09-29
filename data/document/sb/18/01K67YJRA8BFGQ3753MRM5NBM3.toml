@@ -6,7 +6,6 @@ name = "SBN-02486"
 [meta]
 bill_number = 2486
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2486", "https://web.senate.gov.ph/lisdata/3708633445!.pdf",]
 title = "BANGON PAMILYANG PILIPINO (BPP) ASSISTANCE PROGRAM ACT OF 2022"
 date_filed = "2022-01-24"
 long_title = "AN ACT PROVIDING AN ADDITIONAL CASH ASSISTANCE PROGRAM FOR FILIPINOS TO AID IN MITIGATING THE EFFECTS OF THE CURRENT CORONAVIRUS PANDEMIC"
@@ -15,6 +14,8 @@ subjects = [ "Cash Assistance", "Pandemic", "Covid-19",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3708633445!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2486"
 
 [[history]]
 date = "2022-01-24"

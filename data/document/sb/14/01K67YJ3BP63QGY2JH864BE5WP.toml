@@ -6,7 +6,6 @@ name = "SBN-03504"
 [meta]
 bill_number = 3504
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3504", "https://web.senate.gov.ph/lisdata/1284611515!.pdf",]
 title = "DRYWALL PRODUCTION REGULATORY ACT OF 2009"
 date_filed = "2009-10-27"
 long_title = "AN ACT REGULATING THE RAW MATERIALS FOR THE PRODUCTION OF DRYWALLS"
@@ -15,6 +14,8 @@ subjects = [ "Drywall",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1284611515!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3504"
 
 [[history]]
 date = "2009-10-27"

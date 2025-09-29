@@ -6,7 +6,6 @@ name = "SBN-02077"
 [meta]
 bill_number = 2077
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2077", "https://web.senate.gov.ph/lisdata/36493093!.pdf",]
 title = "EMPLOYEES STOCK OWNERSHIP PROGRAM ACT OF 2005"
 date_filed = "2005-08-04"
 long_title = "AN ACT PROMOTING THE RIGHTS OF FILIPINO LABOR BY INSTITUTIONALIZING THE EMPLOYEES STOCK OWNERSHIP PROGRAM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Employees Stock Ownership Program Act",]
 authors_raw = "Magsaysay Jr., Ramon B."
 author_codes = ["MRAMO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/36493093!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2077"
 
 [[history]]
 date = "2005-08-04"

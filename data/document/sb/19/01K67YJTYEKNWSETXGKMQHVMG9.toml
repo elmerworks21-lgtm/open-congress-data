@@ -6,7 +6,6 @@ name = "SBN-00110"
 [meta]
 bill_number = 110
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-110", "https://web.senate.gov.ph/lisdata/3781834259!.pdf",]
 title = "INTERNET SAFETY EDUCATION ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT ESTABLISHING A SAFETY INTERNET EDUCATION PROGRAM IN THE CURRICULUM OF ALL ELEMENTARY AND SECONDARY SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Internet Safety", "Curriculum/Curricula",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3781834259!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-110"
 
 [[history]]
 date = "2022-07-07"

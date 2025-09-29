@@ -6,7 +6,6 @@ name = "SBN-02390"
 [meta]
 bill_number = 2390
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2390", "https://web.senate.gov.ph/lisdata/76486879!.pdf",]
 title = "UNIVERSAL NEWBORN HEARING SCREENING AND INTERVENTION ACT OF 2008"
 date_filed = "2008-06-10"
 long_title = "AN ACT ESTABLISHING A UNIVERSAL NEWBORN HEARING SCREENING PROGRAM FOR THE PREVENTION, EARLY DIAGNOSIS AND INTERVENTION OF HEARING LOSS AMONG CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Newborn Infants", "Early Hearing Loss Detection",]
 authors_raw = "Defensor Santiago, Miriam, Legarda, Loren B., Cayetano, \"Companera\" Pia S., Lapid, Manuel \"Lito\" M."
 author_codes = ["CPIAS", "LLORE", "LMANU", "SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76486879!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2390"
 
 [[history]]
 date = "2008-06-10"

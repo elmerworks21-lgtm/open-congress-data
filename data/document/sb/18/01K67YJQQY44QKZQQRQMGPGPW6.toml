@@ -6,7 +6,6 @@ name = "SBN-01922"
 [meta]
 bill_number = 1922
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1922", "https://web.senate.gov.ph/lisdata/3396130732!.pdf",]
 title = "PANDEMIC AND OTHER PUBLIC HEALTH EMERGENCY PREPAREDNESS ACT"
 date_filed = "2020-11-18"
 long_title = "AN ACT ESTABLISHING A PANDEMIC AND OTHER PUBLIC HEALTH EMERGENCY PREPAREDNESS PLAN, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pandemic",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3396130732!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1922"
 
 [[history]]
 date = "2020-11-18"

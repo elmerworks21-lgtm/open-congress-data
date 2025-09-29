@@ -6,7 +6,6 @@ name = "SBN-00303"
 [meta]
 bill_number = 303
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-303", "https://web.senate.gov.ph/lisdata/2374020403!.pdf",]
 title = "SALE OF ELECTRICITY BY ELECTRIC COOPERATIVES"
 date_filed = "2016-07-04"
 long_title = "AN ACT CLASSIFYING THE SALE OF ELECTRICITY BY ELECTRIC COOPERATIVES, VALUE ADDED TAX EXEMPT TRANSACTIONS, AMENDING FOR THE PURPOSE 109 (1) OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED BY REPUBLIC ACT NO. 9337, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electric Cooperatives", "Tax Exemption", "National Internal Revenu
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2374020403!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-303"
 
 [[history]]
 date = "2016-07-04"

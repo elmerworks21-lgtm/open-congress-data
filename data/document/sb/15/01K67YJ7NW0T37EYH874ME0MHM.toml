@@ -6,7 +6,6 @@ name = "SBN-00712"
 [meta]
 bill_number = 712
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-712", "https://web.senate.gov.ph/lisdata/80376509!.pdf",]
 title = "INDIVIDUALS' HEALTH AND SAFETY ACT"
 date_filed = "2010-07-07"
 long_title = "AN ACT SEEKING TO PROTECT THE HEALTH AND SAFETY OF INDIVIDUALS INVOLVED IN GARBAGE COLLECTION, WORKING IN DUMPSITES OR ASSIGNED IN DISASTER AREAS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Care Delivery System", "Garbage",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80376509!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-712"
 
 [[history]]
 date = "2010-07-07"

@@ -6,7 +6,6 @@ name = "SBN-00016"
 [meta]
 bill_number = 16
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-16", "https://web.senate.gov.ph/lisdata/1145569!.pdf",]
 title = "DEREGULATING CERTAIN PUBLIC SERVICES"
 date_filed = "2004-06-30"
 long_title = "AN ACT DEREGULATING CERTAIN PUBLIC SERVICES, AMENDING FOR THE PURPOSE COMMONWEALTH ACT NO. 146 AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Commonwealth Act No. 146 (Amendments)", "Public Services Deregulat
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1145569!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-16"
 
 [[history]]
 date = "2004-06-30"

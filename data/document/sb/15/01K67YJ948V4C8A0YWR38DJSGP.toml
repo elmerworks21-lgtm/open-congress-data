@@ -6,7 +6,6 @@ name = "SBN-02712"
 [meta]
 bill_number = 2712
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2712", "https://web.senate.gov.ph/lisdata/108069242!.pdf",]
 title = "AGRI-KABATAAN PROGRAM ACT OF 2011"
 date_filed = "2011-02-22"
 long_title = "AN ACT PROVIDING A FRAMEWORK FOR AGRICULTURE SCHOLARSHIPS, BURSARY AND ENTREPRENEURSHIP ASSISTANCE TO YOUNG FILIPINOS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Scholarship Grants", "Youth Development",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/108069242!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2712"
 
 [[history]]
 date = "2011-02-22"

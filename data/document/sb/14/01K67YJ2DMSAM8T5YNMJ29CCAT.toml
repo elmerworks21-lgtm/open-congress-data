@@ -6,7 +6,6 @@ name = "SBN-02221"
 [meta]
 bill_number = 2221
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2221", "https://web.senate.gov.ph/lisdata/72036439!.pdf",]
 title = "WOMEN WORKERS MATERNITY BENEFITS INCREASE"
 date_filed = "2008-04-29"
 long_title = "AN ACT INCREASING THE MATERNITY BENEFITS OF WOMEN WORKERS IN GOVERNMENT AND IN THE PRIVATE SECTOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pregnant Women",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72036439!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2221"
 
 [[history]]
 date = "2008-04-29"

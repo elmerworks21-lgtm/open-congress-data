@@ -6,7 +6,6 @@ name = "SBN-00273"
 [meta]
 bill_number = 273
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-273", "https://web.senate.gov.ph/lisdata/3801235340!.pdf",]
 title = "PLAIN LANGUAGE IN GOVERNMENT DOCUMENTS ACT"
 date_filed = "2022-07-11"
 long_title = "AN ACT REQUIRING THE USE OF PLAIN LANGUAGE IN ALL GOVERNMENT-ISSUED PUBLIC ADVISORIES, NOTICES, ANNOUNCEMENTS AND SIMILAR DOCUMENTS INTENDED FOR PUBLIC DISSEMINATION AND DISTRIBUTION"
@@ -15,6 +14,8 @@ subjects = [ "Plain Language", "Government Documents", "Filipino Language", "Eng
 authors_raw = "Lapid, Manuel \"Lito\" M., Villanueva, Joel"
 author_codes = ["LMANU", "VEMMA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3801235340!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-273"
 
 [[history]]
 date = "2022-07-11"

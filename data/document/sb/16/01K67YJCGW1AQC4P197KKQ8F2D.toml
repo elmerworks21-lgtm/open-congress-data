@@ -6,7 +6,6 @@ name = "SBN-00368"
 [meta]
 bill_number = 368
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-368", "https://web.senate.gov.ph/lisdata/1621713445!.pdf",]
 title = "MEAT LABELING ACT OF 2013"
 date_filed = "2013-07-03"
 long_title = "AN ACT INSTITUTING THE LABELING OF IMPORTED MEAT AND MEAT FOOD PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Meat Labeling", "Food Products Label",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1621713445!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-368"
 
 [[history]]
 date = "2013-07-03"

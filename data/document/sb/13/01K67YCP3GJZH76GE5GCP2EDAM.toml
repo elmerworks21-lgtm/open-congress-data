@@ -6,7 +6,6 @@ name = "SBN-01305"
 [meta]
 bill_number = 1305
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1305", "https://web.senate.gov.ph/lisdata/25121884!.pdf",]
 title = "IMPROVED QUALIFICATIONS ACT OF 2004"
 date_filed = "2004-07-02"
 long_title = "AN ACT REQUIRING ANY PERSON RUNNING FOR AN ELECTIVE NATIONAL OR LOCAL POSITION TO UNDERGO A NEURO-PSYCHIATRIC EXAMINATION PRIOR TO FILING A CERTIFICATE OF CANDIDACY"
@@ -15,6 +14,8 @@ subjects = [ "Improved Qualifications Act", "Neuro-Psychiatric Examinations", "E
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/25121884!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1305"
 
 [[history]]
 date = "2004-07-02"

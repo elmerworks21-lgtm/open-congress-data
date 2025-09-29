@@ -6,7 +6,6 @@ name = "SBN-00081"
 [meta]
 bill_number = 81
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-81", "https://web.senate.gov.ph/lisdata/1209739!.pdf",]
 title = "RIGHT TO REPRODUCTIVE HEALTH CARE INFORMATION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROTECT THE RIGHT OF THE PEOPLE TO INFORMATION ABOUT REPRODUCTIVE HEALTH CARE SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Reproductive Health Care Services", "Family Planning",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1209739!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-81"
 
 [[history]]
 date = "2004-06-30"

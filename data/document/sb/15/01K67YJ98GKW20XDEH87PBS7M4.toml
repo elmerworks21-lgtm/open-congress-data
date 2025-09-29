@@ -6,7 +6,6 @@ name = "SBN-02870"
 [meta]
 bill_number = 2870
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2870", "https://web.senate.gov.ph/lisdata/115109787!.pdf",]
 title = "FISHERIES CODE"
 date_filed = "2011-06-07"
 long_title = "AN ACT DEFINING AND PROVIDING FOR MORE SEVERE PENALTIES FOR LARGE SCALE EXPLORATION AND EXPLOITATION OF CORALS, CORAL REEFS, AND THE FISHING OR TAKING OF THREATENED OR ENDANGERED SPECIES, AND OTHER SIMILAR ACTS OF DESTRUCTION OF OUR MARINE AND AQUATIC RESOURCES, AMENDING FOR THIS PURPOSE CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8550, OTHERWISE KNOWN AS THE PHILIPPINE FISHERIES CODE OF 1998"
@@ -15,6 +14,8 @@ subjects = [ "Fisheries and Aquatic Resources",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/115109787!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2870"
 
 [[history]]
 date = "2011-06-07"

@@ -6,7 +6,6 @@ name = "SBN-02686"
 [meta]
 bill_number = 2686
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2686", "https://web.senate.gov.ph/lisdata/90708250!.pdf",]
 title = "PEDESTRIAN SAFETY ENHANCEMENT ACT OF 2008"
 date_filed = "2008-10-16"
 long_title = "AN ACT TO DIRECT THE SECRETARY OF TRANSPORTATION AND COMMUNICATIONS TO STUDY AND ESTABLISH A MOTOR VEHICLE SAFETY STANDARD THAT PROVIDES FOR MEANS OF ALERTING BLIND AND OTHER PEDESTRIANS OF MOTOR VEHICLE OPERATION"
@@ -15,6 +14,8 @@ subjects = [ "Pedestrian Safety", "Motor Vehicle",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90708250!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2686"
 
 [[history]]
 date = "2008-10-16"

@@ -6,7 +6,6 @@ name = "SBN-00268"
 [meta]
 bill_number = 268
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-268", "https://web.senate.gov.ph/lisdata/3800634448!.pdf",]
 title = "WATER RESOURCES MANAGEMENT ACT"
 date_filed = "2022-07-11"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE WATER RESOURCES MANAGEMENT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Water Resources Management",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3800634448!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-268"
 
 [[history]]
 date = "2022-07-11"

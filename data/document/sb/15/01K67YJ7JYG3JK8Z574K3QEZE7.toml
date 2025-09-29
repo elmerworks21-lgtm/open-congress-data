@@ -6,7 +6,6 @@ name = "SBN-00565"
 [meta]
 bill_number = 565
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-565", "https://web.senate.gov.ph/lisdata/79496406!.pdf",]
 title = "BUREAU OF CORRECTIONS TECHNICAL INSTITUTE ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT CREATING A BUREAU OF CORRECTIONS TECHNICAL INSTITUTE WITHIN THE NATIONAL BILIBID PRISONS (NBP) RESERVATION AND THE CORRECTIONAL INSTITUTION FOR WOMEN (CIW), APPROPRIATING FUNDS THEREFOR”"
@@ -15,6 +14,8 @@ subjects = [ "Bureau of Corrections Technical Institute",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79496406!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-565"
 
 [[history]]
 date = "2010-07-07"

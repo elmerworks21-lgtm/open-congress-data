@@ -6,7 +6,6 @@ name = "SBN-02440"
 [meta]
 bill_number = 2440
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2440", "https://web.senate.gov.ph/lisdata/4269238823!.pdf",]
 title = "COMMISSION ON HUMAN RIGHTS (CHR) CHARTER"
 date_filed = "2023-09-13"
 long_title = "AN ACT DEFINING THE POWERS AND FUNCTIONS OF THE COMMISSION ON HUMAN RIGHTS AS A NATIONAL HUMAN RIGHTS INSTITUTION (NHRI) AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Commission on Human Rights",]
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4269238823!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2440"
 
 [[history]]
 date = "2023-09-13"

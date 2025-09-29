@@ -6,7 +6,6 @@ name = "SBN-00402"
 [meta]
 bill_number = 402
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-402", "https://web.senate.gov.ph/lisdata/3071127584!.pdf",]
 title = "E-WASTE MANAGEMENT ACT"
 date_filed = "2019-07-11"
 long_title = "AN ACT REGULATING THE DISPOSAL OF ELECTRONIC EQUIPMENT AT SOLID WASTE MANAGEMENT FACILITIES AND REQUIRING THE ESTABLISHMENT OF RECOVERY AND COLLECTION FACILITIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "E-Waste (Electronic Waste)", "Solid Waste", "Waste Management",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3071127584!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-402"
 
 [[history]]
 date = "2019-07-11"

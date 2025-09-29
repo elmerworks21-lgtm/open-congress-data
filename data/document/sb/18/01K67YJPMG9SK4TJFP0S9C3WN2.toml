@@ -6,7 +6,6 @@ name = "SBN-00365"
 [meta]
 bill_number = 365
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-365", "https://web.senate.gov.ph/lisdata/3065627514!.pdf",]
 title = "PREPAID LOAD FOREVER ACT OF 2019"
 date_filed = "2019-07-11"
 long_title = "AN ACT PROHIBITING ALL PUBLIC TELECOMMUNICATIONS ENTITIES AND INFORMATION AND COMMUNICATIONS TECHNOLOGY PROVIDERS FROM IMPOSING AN EXPIRATION PERIOD ON THE VALIDITY OF PERIOD LOAD CREDITS AND THEIR FORFEITURE"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Prepaid Calling Cards/Prepaid Sim Cards/Pre-Paid Phone Card Industry",]
 authors_raw = "Gatchalian, Win, Villanueva, Joel"
 author_codes = ["GSHER", "VEMMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3065627514!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-365"
 
 [[history]]
 date = "2019-07-11"

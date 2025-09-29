@@ -6,7 +6,6 @@ name = "SBN-00777"
 [meta]
 bill_number = 777
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-777", "https://web.senate.gov.ph/lisdata/1673213967!.pdf",]
 title = "REAL ESTATE TAXES"
 date_filed = "2013-07-15"
 long_title = "AN ACT PROVIDING TAX INCENTIVES TO DEVELOPERS AND BUILDERS OF RESIDENTIAL BUILDING AND/OR HOUSING PROJECTS BY EXEMPTING THEM FROM THE PAYMENT OF REAL ESTATE TAXES, DEFINING THE CONDITION THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tax Exemption", "Real Estate Tax", "Housing Projects",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1673213967!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-777"
 
 [[history]]
 date = "2013-07-15"

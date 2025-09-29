@@ -6,7 +6,6 @@ name = "SBN-02474"
 [meta]
 bill_number = 2474
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2474", "https://web.senate.gov.ph/lisdata/60685047!.pdf",]
 title = "PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT (ABOLITION)"
 date_filed = "2006-09-27"
 long_title = "AN ACT ABOLISHING THE PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT (PCGG)"
@@ -15,6 +14,8 @@ subjects = [ "Presidential Commission on Good Government (PCGG, Abolition)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60685047!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2474"
 
 [[history]]
 date = "2006-09-27"

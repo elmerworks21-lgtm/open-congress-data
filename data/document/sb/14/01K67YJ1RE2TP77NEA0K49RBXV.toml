@@ -6,7 +6,6 @@ name = "SBN-01574"
 [meta]
 bill_number = 1574
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1574", "https://web.senate.gov.ph/lisdata/58915249!.pdf",]
 title = "CAMPAIGN AGAINST CRIME AND LAWLESSNESS"
 date_filed = "2007-09-12"
 long_title = "AN ACT PROVIDING FOR A UNIFORM REWARD SYSTEM IN THE CAMPAIGN AGAINST CRIME AND LAWLESSNESS"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58915249!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1574"
 
 [[history]]
 date = "2007-09-12"

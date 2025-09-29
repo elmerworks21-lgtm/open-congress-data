@@ -6,7 +6,6 @@ name = "SBN-01857"
 [meta]
 bill_number = 1857
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1857", "https://web.senate.gov.ph/lisdata/3364530502!.pdf",]
 title = "MABALACAT LTO EXTENSION OFFICE (PAMPANGA)"
 date_filed = "2020-09-30"
 long_title = "AN ACT CONVERTING THE MABALACAT EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) LOCATED IN MABALACAT CITY, PAMPANGA INTO A REGULAR LTO DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Land Transportation Office (LTO)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3364530502!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1857"
 
 [[history]]
 date = "2020-09-30"

@@ -6,7 +6,6 @@ name = "SBN-01271"
 [meta]
 bill_number = 1271
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1271", "https://web.senate.gov.ph/lisdata/24831850!.pdf",]
 title = "SPECIAL POLLING PLACE ACT"
 date_filed = "2004-07-01"
 long_title = "AN ACT PROVIDING FOR A SPECIAL POLLING PLACE FOR THE DISABLED AND THE ELDERLY"
@@ -15,6 +14,8 @@ subjects = [ "Special Polling Place (Disabled/Elderly)", "Elections/Electoral Re
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24831850!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1271"
 
 [[history]]
 date = "2004-07-01"

@@ -6,7 +6,6 @@ name = "SBN-03292"
 [meta]
 bill_number = 3292
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3292", "https://web.senate.gov.ph/lisdata/1159310201!.pdf",]
 title = "CREDIT CARD APPLICATIONS"
 date_filed = "2009-05-28"
 long_title = "AN ACT PROHIBITING THE MAILING OF CREDIT CARD APPLICATIONS TO PERSONS UNDER TWENTY-FIVE YEARS OF AGE"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card Applications", "Youth",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1159310201!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3292"
 
 [[history]]
 date = "2009-05-28"

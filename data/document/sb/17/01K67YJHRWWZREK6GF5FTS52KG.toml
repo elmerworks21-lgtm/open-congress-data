@@ -6,7 +6,6 @@ name = "SBN-00905"
 [meta]
 bill_number = 905
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-905", "https://web.senate.gov.ph/lisdata/2446121046!.pdf",]
 title = "SHARKS AND RAYS CONSERVATION ACT"
 date_filed = "2016-07-28"
 long_title = "AN ACT BANNING THE CATCHING, SALE, PURCHASE, POSSESSION, TRANSPORTATION, IMPORTATION, AND EXPORTATION OF ALL SHARKS AND RAYS OR ANY PART THEREOF IN THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Sharks/Rays", "Wildlife",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2446121046!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-905"
 
 [[history]]
 date = "2016-07-28"

@@ -6,7 +6,6 @@ name = "SBN-02111"
 [meta]
 bill_number = 2111
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2111", "https://web.senate.gov.ph/lisdata/39433368!.pdf",]
 title = "PREGNANT WOMEN'S WELFARE ACT"
 date_filed = "2005-09-06"
 long_title = "AN ACT PROVIDING FOR THE BENEFITS AND PRIVILEGES TO PREGNANT WOMEN AND THEIR FAMILIES, APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Pregnant Womens Welfare",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/39433368!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2111"
 
 [[history]]
 date = "2005-09-06"

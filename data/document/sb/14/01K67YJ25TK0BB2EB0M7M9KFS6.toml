@@ -6,7 +6,6 @@ name = "SBN-01890"
 [meta]
 bill_number = 1890
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1890", "https://web.senate.gov.ph/lisdata/64265717!.pdf",]
 title = "PHILIPPINE CLIMATE CHANGE ACT OF 2007"
 date_filed = "2007-11-20"
 long_title = "AN ACT ESTABLISHING THE FRAMEWORK PROGRAM FOR CLIMATE CHANGE, CREATING THE CLIMATE CHANGE COMMISSION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64265717!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1890"
 
 [[history]]
 date = "2007-11-20"

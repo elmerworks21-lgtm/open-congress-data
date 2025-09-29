@@ -6,7 +6,6 @@ name = "SBN-00902"
 [meta]
 bill_number = 902
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-902", "https://web.senate.gov.ph/lisdata/3863535089!.pdf",]
 title = "PHILIPPINE SHIP REGISTRY SYSTEM ACT"
 date_filed = "2022-07-27"
 long_title = "AN ACT ESTABLISHING THE SCOPE AND PROCEDURE FOR PHILIPPINE SHIP REGISTRY, RECOGNITION AND ENFORCEMENT OF MARITIME CLAIMS, AND LIMITATION OF LIABILITY, AS WELL AS PROVIDING ESSENTIAL INCENTIVES, WHICH COLLECTIVELY WILL PROMOTE A COMPREHENSIVE AND ORDERLY PHILIPPINE SHIP REGISTRY SYSTEM FOR THE REGULATION OF VESSELS CARRYING THE FLAG STATE"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Ship Registry System",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3863535089!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-902"
 
 [[history]]
 date = "2022-07-27"

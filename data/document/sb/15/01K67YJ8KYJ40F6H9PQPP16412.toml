@@ -6,7 +6,6 @@ name = "SBN-02195"
 [meta]
 bill_number = 2195
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2195", "https://web.senate.gov.ph/lisdata/98118372!.pdf",]
 title = "NISMED ACT OF 2010"
 date_filed = "2010-07-29"
 long_title = "AN ACT CREATING THE NATIONAL INSTITUTE FOR SCIENCE AND MATHEMATICS EDUCATION DEVELOPMENT, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Institute for Science and Mathemathics Education Developm
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98118372!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2195"
 
 [[history]]
 date = "2010-07-29"

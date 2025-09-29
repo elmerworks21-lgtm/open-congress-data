@@ -6,7 +6,6 @@ name = "SBN-00337"
 [meta]
 bill_number = 337
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-337", "https://web.senate.gov.ph/lisdata/2377620438!.pdf",]
 title = "BARANGAY COMMUNITY PEACE AND ORDER COUNCIL ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT CREATING BARANGAY COMMUNITY PEACE AND ORDER COUNCIL FOR THE UTILIZATION OF BARANGAYS OFFICIALS AND ITS CONTITUENTS IN CRIME PREVENTION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Officials",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2377620438!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-337"
 
 [[history]]
 date = "2016-07-04"

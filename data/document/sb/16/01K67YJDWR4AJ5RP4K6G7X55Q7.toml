@@ -6,7 +6,6 @@ name = "SBN-02435"
 [meta]
 bill_number = 2435
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2435", "https://web.senate.gov.ph/lisdata/1995217074!.pdf",]
 title = "ICT HUB ACT OF 2014"
 date_filed = "2014-10-20"
 long_title = "AN ACT ESTABLISHING AN INFORMATION AND COMMUNICATIONS TECHNOLOGY (ICT) HUB IN EVERY LEGISLATIVE DISTRICT OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Information and Communications Technology (ICT)",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1995217074!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2435"
 
 [[history]]
 date = "2014-10-20"

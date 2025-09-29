@@ -6,7 +6,6 @@ name = "SBN-01670"
 [meta]
 bill_number = 1670
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1670", "https://web.senate.gov.ph/lisdata/4035036763!.pdf",]
 title = "MAHARLIKA INVESTMENT FUND ACT"
 date_filed = "2023-01-12"
 long_title = "AN ACT ESTABLISHING THE MAHARLIKA INVESTMENT FUND, PROVIDING FOR THE MANAGEMENT, INVESTMENT, AND USE OF THE PROCEEDS OF THE FUND, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Maharlika Investment Fund",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4035036763!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1670"
 
 [[history]]
 date = "2023-01-12"

@@ -6,7 +6,6 @@ name = "SBN-02071"
 [meta]
 bill_number = 2071
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2071", "https://web.senate.gov.ph/lisdata/68696086!.pdf",]
 title = "INFORMED ELECTORATE ACT OF 2007"
 date_filed = "2008-02-12"
 long_title = "AN ACT GIVING EQUAL ACCESS TO RADIO AND TV ADS FOR CANDIDATES DURING THE ELECTION PERIOD, SIMPLIFYING AND PROFESSIONALIZING POLITICAL ADVERTISEMENTS AND INSTITUTIONALIZING POLITICAL DEBATES TO PROPERLY INFORM THE ELECTORATE DURING THE ELECTION PERIOD"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/68696086!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2071"
 
 [[history]]
 date = "2008-02-12"

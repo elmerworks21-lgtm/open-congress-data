@@ -6,7 +6,6 @@ name = "SBN-01737"
 [meta]
 bill_number = 1737
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1737", "https://web.senate.gov.ph/lisdata/3330130137!.pdf",]
 title = "CHARTER OF THE CITY OF CALACA"
 date_filed = "2020-07-27"
 long_title = "AN ACT CONVERTING THE MUNICIPALITY OF CALACA IN THE PROVINCE OF BATANGAS INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF CALACA"
@@ -15,6 +14,8 @@ subjects = [ "City Charter, Revision", "Amendments",]
 authors_raw = "Gatchalian, Win, Binay, Maria Lourdes Nancy S., Marcos, Imee R."
 author_codes = ["BMARI", "GSHER", "MIMEE"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3330130137!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1737"
 
 [[history]]
 date = "2020-07-27"

@@ -6,7 +6,6 @@ name = "SBN-00378"
 [meta]
 bill_number = 378
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-378", "https://web.senate.gov.ph/lisdata/3067027524!.pdf",]
 title = "WOMEN IN STATE CUSTODY ACT OF 2019"
 date_filed = "2019-07-11"
 long_title = "AN ACT PROTECTING WOMEN IN STATE CUSTODY, PRESCRIBING THE MINIMUM STANDARDS FOR THEIR TREATMENT, PENALIZING ACTS IN VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Women", "Detention Facilities", "Jail Facility/Prison Facility",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3067027524!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-378"
 
 [[history]]
 date = "2019-07-11"

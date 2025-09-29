@@ -6,7 +6,6 @@ name = "SBN-00703"
 [meta]
 bill_number = 703
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-703", "https://web.senate.gov.ph/lisdata/3101827942!.pdf",]
 title = "CAMPUS SAFETY AND SECURITY ACT"
 date_filed = "2019-07-23"
 long_title = "AN ACT MANDATING HIGHER EDUCATION INSTITUTIONS AND TECHNICAL VOCATIONAL INSTITUTIONS TO ENSURE THE SAFETY AND SECURITY OF THE ACADEMIC COMMUNITY FROM INTERNAL AND EXTERNAL THREATS, THEREBY CREATING A SAFETY AND SECURITY COMMITTEE FOR THIS PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Campus Safety",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3101827942!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-703"
 
 [[history]]
 date = "2019-07-23"

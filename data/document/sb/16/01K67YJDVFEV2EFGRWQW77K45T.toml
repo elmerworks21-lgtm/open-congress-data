@@ -6,7 +6,6 @@ name = "SBN-02386"
 [meta]
 bill_number = 2386
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2386", "https://web.senate.gov.ph/lisdata/1979316898!.pdf",]
 title = "PORAC DAY (PAMPANGA)"
 date_filed = "2014-09-03"
 long_title = "AN ACT DECLARING OCTOBER 31 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE MUNICIPALITY OF PORAC, PROVINCE OF PAMPANGA IN COMMEMORATION OF ITS FOUNDING ANNIVERSARY TO BE KNOWN AS PORAC DAY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Non-Working)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1979316898!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2386"
 
 [[history]]
 date = "2014-09-03"

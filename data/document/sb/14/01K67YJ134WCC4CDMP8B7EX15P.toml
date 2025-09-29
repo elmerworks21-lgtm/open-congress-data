@@ -6,7 +6,6 @@ name = "SBN-00538"
 [meta]
 bill_number = 538
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-538", "https://web.senate.gov.ph/lisdata/47494068!.pdf",]
 title = "CRIME OF MURDER (BROADCAST AND PRINT MEDIA)"
 date_filed = "2007-07-02"
 long_title = "AN ACT QUALIFYING THE KILLING OF MEMBERS OF BROADCAST AND PRINT MEDIA ON THE OCCASION OF THE EXERCISE OF THEIR FUNCTIONS AS SUCH, AS A CRIME OF MURDER PUNISHABLE UNDER ARTICLE 248 OF THE REVISED PENAL CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Crime of Murder (Broadcast and Print Media)", "Revised Penal Code 
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47494068!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-538"
 
 [[history]]
 date = "2007-07-02"

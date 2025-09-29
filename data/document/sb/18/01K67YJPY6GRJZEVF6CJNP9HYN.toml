@@ -6,7 +6,6 @@ name = "SBN-00817"
 [meta]
 bill_number = 817
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-817", "https://web.senate.gov.ph/lisdata/3119428093!.pdf",]
 title = "WOMEN PARTICIPATION AND REPRESENTATION IN POLITICAL PARTIES ACT OF 2019"
 date_filed = "2019-07-29"
 long_title = "AN ACT PROMOTING WOMEN PARTICIPATION AND EQUITABLE REPRESENTATION IN AND BY POLITICAL PARTIES, GIVING INCENTIVES THEREFOR, CREATING THE WOMEN IN POLITICAL PARTIES EMPOWERMENT FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Women", "Political Party",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3119428093!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-817"
 
 [[history]]
 date = "2019-07-29"

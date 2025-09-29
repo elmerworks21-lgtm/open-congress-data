@@ -6,7 +6,6 @@ name = "SBN-00518"
 [meta]
 bill_number = 518
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-518", "https://web.senate.gov.ph/lisdata/4707243072!.pdf",]
 title = "YOUNG FARMERS AND FISHERFOLK CHALLENGE ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT ESTABLISHING THE YOUNG FARMERS AND FISHERFOLK CHALLENGE PROGRAM, CREATING FOR THE PURPOSE THE YOUNG FARMERS AND FISHERFOLK CHALLENGE COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Farmers", "Fisherfolk",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4707243072!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-518"
 
 [[history]]
 date = "2025-07-14"

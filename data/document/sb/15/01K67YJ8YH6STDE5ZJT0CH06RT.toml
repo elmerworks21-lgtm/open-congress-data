@@ -6,7 +6,6 @@ name = "SBN-02545"
 [meta]
 bill_number = 2545
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2545", "https://web.senate.gov.ph/lisdata/102238760!.pdf",]
 title = "RETINOBLASTOMA AWARENESS ACT"
 date_filed = "2010-09-28"
 long_title = "AN ACT TO DIRECT THE SECRETARY OF HEALTH TO ESTABLISH A RETINOBLASTOMA PUBLIC AWARENESS AND PREVENTION PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Eye Cancer (Retinoblastoma)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/102238760!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2545"
 
 [[history]]
 date = "2010-09-28"

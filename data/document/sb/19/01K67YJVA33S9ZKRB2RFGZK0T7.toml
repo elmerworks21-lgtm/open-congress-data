@@ -6,7 +6,6 @@ name = "SBN-00642"
 [meta]
 bill_number = 642
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-642", "https://web.senate.gov.ph/lisdata/3850334958!.pdf",]
 title = "AMENDING R.A. NO. 8178 (AGRICULTURAL TARIFFICATION ACT OF 1996)"
 date_filed = "2022-07-14"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8178 OR THE 'AGRICULTURAL TARIFFICATION ACT OF 1996, ' AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Tariffication Act (R.A.No. 8178)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3850334958!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-642"
 
 [[history]]
 date = "2022-07-14"

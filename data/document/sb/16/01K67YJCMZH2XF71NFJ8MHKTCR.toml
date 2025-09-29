@@ -6,7 +6,6 @@ name = "SBN-00567"
 [meta]
 bill_number = 567
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-567", "https://web.senate.gov.ph/lisdata/1650113741!.pdf",]
 title = "PET FOOD ACT"
 date_filed = "2013-07-08"
 long_title = "AN ACT REQUIRING PET FOOD MANUFACTURERS TO LABEL THEIR PRODUCTS PROPERLY, AND PROVIDING FOR THE LIABILITY OF MANUFACTURERS, PRODUCERS, IMPORTERS, TRADESMEN, AND RETAILERS FOR DAMAGES TO CONSUMERS CAUSED BY THEIR DEFECTIVE PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Pet Foods", "Label/Labeling",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1650113741!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-567"
 
 [[history]]
 date = "2013-07-08"

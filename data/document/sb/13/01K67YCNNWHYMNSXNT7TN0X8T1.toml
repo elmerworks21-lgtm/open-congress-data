@@ -6,7 +6,6 @@ name = "SBN-00557"
 [meta]
 bill_number = 557
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-557", "https://web.senate.gov.ph/lisdata/11071065!.pdf",]
 title = "NEW CENTRAL BANK ACT (AMENDMENTS)"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED SEVENTY-SIX HUNDRED AND FIFTY-THREE ENTITLED 'THE NEW CENTRAL BANK ACT' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "New Central Bank Act (RA 7653)", "Banks (Bangko Sentral/Quasi-Bank
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/11071065!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-557"
 
 [[history]]
 date = "2004-06-30"

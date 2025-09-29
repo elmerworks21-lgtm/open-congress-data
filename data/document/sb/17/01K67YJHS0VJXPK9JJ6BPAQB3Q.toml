@@ -6,7 +6,6 @@ name = "SBN-00912"
 [meta]
 bill_number = 912
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-912", "https://web.senate.gov.ph/lisdata/2446821053!.pdf",]
 title = "ETHNIC ORIGIN ACT"
 date_filed = "2016-07-28"
 long_title = "AN ACT TO INCLUDE ETHNIC ORIGIN IN THE NATIONAL SURVEY CONDUCTED BY THE PHILIPPINE STATISTICS AUTHORITY"
@@ -15,6 +14,8 @@ subjects = [ "Ethnic", "Philippine Statistics Authority",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2446821053!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-912"
 
 [[history]]
 date = "2016-07-28"

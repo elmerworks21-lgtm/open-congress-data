@@ -6,7 +6,6 @@ name = "SBN-00245"
 [meta]
 bill_number = 245
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-245", "https://web.senate.gov.ph/lisdata/3796334406!.pdf",]
 title = "ANTI-DISCRIMINATION ACT OF 2022"
 date_filed = "2022-07-11"
 long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF SEXUAL ORIENTATION AND GENDER IDENTITY OR EXPRESSION (SOGIE) AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination", "Sexual Orientation (Lesbians/Gays/Sogie)",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3796334406!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-245"
 
 [[history]]
 date = "2022-07-11"

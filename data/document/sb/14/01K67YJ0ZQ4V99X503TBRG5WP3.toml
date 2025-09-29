@@ -6,7 +6,6 @@ name = "SBN-00372"
 [meta]
 bill_number = 372
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-372", "https://web.senate.gov.ph/lisdata/45393882!.pdf",]
 title = "SUSTAINABLE MANAGEMENT OF FOREST RESOURCE ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROVIDING FOR THE SUSTAINABLE MANAGEMENT OF FOREST RESOURCES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sustainable Forest Management", "Forestry",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45393882!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-372"
 
 [[history]]
 date = "2007-07-02"

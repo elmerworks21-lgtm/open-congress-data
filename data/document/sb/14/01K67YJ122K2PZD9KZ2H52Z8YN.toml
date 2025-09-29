@@ -6,7 +6,6 @@ name = "SBN-00485"
 [meta]
 bill_number = 485
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-485", "https://web.senate.gov.ph/lisdata/46924015!.pdf",]
 title = "NON-CONVENTIONAL ENERGY PROGRAM ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING A NATIONAL NON-CONVENTIONAL ENERGY PROGRAM, PROVIDING INCENTIVES FOR DEVELOPERS, MANUFACTURERS AND USERS OF NON-CONVENTIONAL ENERGY SYSTEM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Non-Conventional Energy Program",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46924015!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-485"
 
 [[history]]
 date = "2007-07-02"

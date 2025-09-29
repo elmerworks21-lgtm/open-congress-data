@@ -6,7 +6,6 @@ name = "SBN-03145"
 [meta]
 bill_number = 3145
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3145", "https://web.senate.gov.ph/lisdata/106949452!.pdf",]
 title = "PUBLIC SCHOOL SECURITY ACT OF 2009"
 date_filed = "2009-03-31"
 long_title = "AN ACT PROVIDING STIFFER PENALTIES FOR THEFT, ROBBERY AND DESTRUCTION OF PUBLIC SCHOOL PROPERTY"
@@ -15,6 +14,8 @@ subjects = [ "Theft", "Robbery",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106949452!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3145"
 
 [[history]]
 date = "2009-03-31"

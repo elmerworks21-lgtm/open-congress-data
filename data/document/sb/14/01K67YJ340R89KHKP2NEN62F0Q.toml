@@ -6,7 +6,6 @@ name = "SBN-03212"
 [meta]
 bill_number = 3212
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3212", "https://web.senate.gov.ph/lisdata/110849784!.pdf",]
 title = "MANDATORY INFANT-HEALTH IMMUNIZATION ACT OF 2009"
 date_filed = "2009-05-06"
 long_title = "AN ACT PROVIDING FOR MANDATORY HEPATITIS-B VACCINATION OF ALL INFANTS WITHIN A REASONABLE PERIOD OF TIME AFTER BIRTH, AND OTHER VACCINE PREVENTABLE DISEASES"
@@ -15,6 +14,8 @@ subjects = [ "Hepatitis-B Immunization", "Babies/Infants",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/110849784!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3212"
 
 [[history]]
 date = "2009-05-06"

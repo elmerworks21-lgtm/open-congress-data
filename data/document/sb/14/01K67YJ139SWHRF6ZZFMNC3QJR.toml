@@ -6,7 +6,6 @@ name = "SBN-00547"
 [meta]
 bill_number = 547
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-547", "https://web.senate.gov.ph/lisdata/47584077!.pdf",]
 title = "PATIENT SAFETY AND ERRORS REDUCTION ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO REDUCE MEDICAL MISTAKES AND MEDICATION-RELATED ERRORS"
@@ -15,6 +14,8 @@ subjects = [ "Patients", "Medical Malpractice/Medical Mistakes/Medication-Relate
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47584077!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-547"
 
 [[history]]
 date = "2007-07-02"

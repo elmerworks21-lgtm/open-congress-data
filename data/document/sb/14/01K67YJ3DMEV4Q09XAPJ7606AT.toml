@@ -6,7 +6,6 @@ name = "SBN-03566"
 [meta]
 bill_number = 3566
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3566", "https://web.senate.gov.ph/lisdata/1341311861!.pdf",]
 title = "INSURANCE CODE"
 date_filed = "2010-01-18"
 long_title = "AN ACT AMENDING SECTION 385 OF PRESIDENTIAL DECREE NO. 1460, AS AMENDED BY PRESIDENTIAL DECREE 1455, OTHERWISE KNOWN AS THE INSURANCE CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Insurance Code",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1341311861!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3566"
 
 [[history]]
 date = "2010-01-18"

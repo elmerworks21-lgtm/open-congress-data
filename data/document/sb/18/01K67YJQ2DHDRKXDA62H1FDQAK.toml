@@ -6,7 +6,6 @@ name = "SBN-01017"
 [meta]
 bill_number = 1017
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1017", "https://web.senate.gov.ph/lisdata/3144328340!.pdf",]
 title = "REORGANIZATION AND REFORM ACT OF THE BUREAU OF FIRE PROTECTION OF 2019"
 date_filed = "2019-09-09"
 long_title = "AN ACT PROVIDING FOR THE REORGANIZATION AND REFORM OF THE STRUCTURE OF THE UNIFORMED MEMBERS OF THE BUREAU OF FIRE PROTECTION, AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 6975 AND REPUBLIC ACT NO. 9263 AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Bureau of Fire Protection",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3144328340!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1017"
 
 [[history]]
 date = "2019-09-09"

@@ -6,7 +6,6 @@ name = "SBN-00115"
 [meta]
 bill_number = 115
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-115", "https://web.senate.gov.ph/lisdata/41953597!.pdf",]
 title = "MANDATORY GOOD CONDUCT ALLOWANCE TO PRISONERS"
 date_filed = "2007-06-30"
 long_title = "AN ACT GRANTING MANDATORY GOOD CONDUCT ALLOWANCE TO PRISONERS WHO PARTICIPATE IN LITERACY, SKILLS AND VALUES DEVELOPMENT PROGRAMS IN PENAL INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Prisoner (Allowance for Good Conduct)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41953597!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-115"
 
 [[history]]
 date = "2007-06-30"

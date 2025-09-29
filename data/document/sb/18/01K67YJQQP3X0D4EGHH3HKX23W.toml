@@ -6,7 +6,6 @@ name = "SBN-01909"
 [meta]
 bill_number = 1909
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1909", "https://web.senate.gov.ph/lisdata/3389830700!.pdf",]
 title = "EXTENDING THE AVAILABILITY OF SELECTED APPROPRIATIONS IN THE GENERAL APPROPRIATIONS ACT OF 2020"
 date_filed = "2020-11-10"
 long_title = "AN ACT EXTENDING THE AVAILABILITY OF SELECTED APPROPRIATIONS IN THE GENERAL APPROPRIATIONS ACT OF 2020 AND THE BAYANIHAN TO RECOVER AS ONE ACT UNDER REPUBLIC ACTS 11465 AND 11494, RESPECTIVELY, AS WELL AS THE CORRESPONDING ALLOTMENTS INTENDED AS RESPONSE AND RECOVERY INTERVENTIONS FOR THE COVID-19 PANDEMIC, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "General Appropriations Act (GAA)", "Bayanihan to Heal as One Act",
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3389830700!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1909"
 
 [[history]]
 date = "2020-11-10"

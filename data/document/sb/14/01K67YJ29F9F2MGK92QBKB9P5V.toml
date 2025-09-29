@@ -6,7 +6,6 @@ name = "SBN-02043"
 [meta]
 bill_number = 2043
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2043", "https://web.senate.gov.ph/lisdata/67726000!.pdf",]
 title = "PROHIBITION AGAINST AGE DISCRIMINATION ACT OF 2008"
 date_filed = "2008-02-04"
 long_title = "AN ACT TO PROHIBIT EMPLOYERS, LABOR CONTRACTORS AND LABOR ORGANIZATIONS FROM DISCRIMINATING AGAINST ANY INDIVIDUAL BECAUSE OF AGE"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67726000!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2043"
 
 [[history]]
 date = "2008-02-04"

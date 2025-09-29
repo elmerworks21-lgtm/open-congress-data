@@ -6,7 +6,6 @@ name = "SBN-03125"
 [meta]
 bill_number = 3125
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3125", "https://web.senate.gov.ph/lisdata/105849397!.pdf",]
 title = "SMALL COMMUNITY VISIONING IMPROVEMENT ACT OF 2009"
 date_filed = "2009-03-11"
 long_title = "AN ACT IMPROVING THE CAPABILITY OF SMALL COMMUNITIES TO COORDINATE WITH LANDSCAPE ARCHITECTS AND DESIGN PROFESSIONALS IN DEVELOPING A VISION TO ADDRESS THEIR LOCAL NEEDS"
@@ -15,6 +14,8 @@ subjects = [ "Landscape Architects",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TOURI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/105849397!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3125"
 
 [[history]]
 date = "2009-03-11"

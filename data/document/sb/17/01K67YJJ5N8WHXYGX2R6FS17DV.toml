@@ -6,7 +6,6 @@ name = "SBN-01416"
 [meta]
 bill_number = 1416
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1416", "https://web.senate.gov.ph/lisdata/2580422166!.pdf",]
 title = "GOOD SAMARITAN ACT OF 2017"
 date_filed = "2017-05-02"
 long_title = "AN ACT TO ENCOURAGE GOOD SAMARITANS WHO PROVIDE REASONABLE ASSISTANCE IN AN EMERGENCY BY PROTECTING THEM FROM LIABILITY"
@@ -15,6 +14,8 @@ subjects = [ "Good Samaritan Act",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2580422166!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1416"
 
 [[history]]
 date = "2017-05-02"

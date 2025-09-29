@@ -6,7 +6,6 @@ name = "SBN-00110"
 [meta]
 bill_number = 110
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-110", "https://web.senate.gov.ph/lisdata/41793592!.pdf",]
 title = "PENALTY OF IMPRISONMENT IN LIBEL CASES (ABOLITION)"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO ABOLISH THE PENALTY OF IMPRISONMENT IN LIBEL CASES AND PROVIDING FOR THE VENUE OF THE CIVIL ACTION IN LIBEL CASES AGAINST COMMUNITY JOURNALISTS, PUBLICATIONS OR BROADCAST STATIONS, AMENDING FOR THE PURPOSE CERTAIN PROVISIONS OF ACT NO. 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Community Journalists/Publications/Broadcast Stations", "Revised P
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41793592!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-110"
 
 [[history]]
 date = "2007-06-30"

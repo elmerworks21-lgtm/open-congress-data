@@ -6,7 +6,6 @@ name = "SBN-00472"
 [meta]
 bill_number = 472
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-472", "https://web.senate.gov.ph/lisdata/4699143783!.pdf",]
 title = "PHILIPPINE PHYSICAL THERAPY LAW"
 date_filed = "2025-07-14"
 long_title = "AN ACT REGULATING THE REGISTRATION, LICENSURE, AND PRACTICE OF PHYSICAL THERAPY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Physical Therapy",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4699143783!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-472"
 
 [[history]]
 date = "2025-07-14"

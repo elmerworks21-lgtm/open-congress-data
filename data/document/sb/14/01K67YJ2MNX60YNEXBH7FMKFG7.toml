@@ -6,7 +6,6 @@ name = "SBN-02521"
 [meta]
 bill_number = 2521
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2521", "https://web.senate.gov.ph/lisdata/80087243!.pdf",]
 title = "ANTI-FLICKER PIRACY ACT OF 2008"
 date_filed = "2008-08-07"
 long_title = "AN ACT TO STRENGTHEN THE PROTECTION OF INTELLECTUAL PROPERTY RIGHTS DEFINING FOR THE PURPOSE FILM PIRACY AND FILM NAPPING, PROVIDING PENALTIES THEREFOR AD FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Intellectual Property Ownership", "Piracy", "Movie Industry/Local 
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80087243!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2521"
 
 [[history]]
 date = "2008-08-07"

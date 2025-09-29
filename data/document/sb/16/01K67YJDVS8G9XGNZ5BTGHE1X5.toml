@@ -6,7 +6,6 @@ name = "SBN-02400"
 [meta]
 bill_number = 2400
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2400", "https://web.senate.gov.ph/lisdata/1983016938!.pdf",]
 title = "SUGARCANE INDUSTRY DEVELOPMENT ACT OF 2014"
 date_filed = "2014-09-08"
 long_title = "AN ACT PROMOTING AND SUPPORTING THE COMPETITIVENESS OF THE SUGARCANE INDUSTRY, ESTABLISHING THE SUGARCANE INDUSTRY DEVELOPMENT FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sugar Cane Industry",]
 authors_raw = "Binay, Maria Lourdes Nancy S., Escudero, Francis \"Chiz\" G., Villar, Cynthia A., Trillanes, Antonio \"Sonny\" F., Ejercito, Joseph Victor G., Honasan II, Gregorio B., Legarda, Loren B., Poe, Grace L."
 author_codes = ["EFRAN", "EVICT", "HGREG", "LLORE", "PGRAC", "TANTO", "VCYNT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1983016938!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2400"
 
 [[history]]
 date = "2014-09-08"

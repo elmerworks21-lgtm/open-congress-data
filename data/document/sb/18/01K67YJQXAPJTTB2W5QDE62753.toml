@@ -6,7 +6,6 @@ name = "SBN-02128"
 [meta]
 bill_number = 2128
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2128", "https://web.senate.gov.ph/lisdata/3490931731!.pdf",]
 title = "RIGHT TO ADEQUATE FOOD ACT"
 date_filed = "2021-04-12"
 long_title = "AN ACT PROVIDING A FRAMEWORK TO PROTECT AND PROMOTE THE RIGHT TO ADEQUATE FOOD"
@@ -15,6 +14,8 @@ subjects = [ "Adequate Food Framework", "Hunger", "Food Security",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3490931731!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2128"
 
 [[history]]
 date = "2021-04-12"

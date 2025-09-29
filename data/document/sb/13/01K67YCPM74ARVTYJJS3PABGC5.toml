@@ -6,7 +6,6 @@ name = "SBN-02163"
 [meta]
 bill_number = 2163
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2163", "https://web.senate.gov.ph/lisdata/42163502!.pdf",]
 title = "PROFESSIONAL SPORTS RESPONSIBILITY ACT OF 2005"
 date_filed = "2005-11-16"
 long_title = "AN ACT TO ESTABLISH AND ENFORCE STANDARDS FOR TESTING FOR THE ILLEGAL USE OF PERFORMANCE ENHANCING SUBSTANCES AND OTHER CONTROLLED SUBSTANCES IN PROFESSIONAL AND AMATEUR OR COLLEGIATE SPORTS"
@@ -15,6 +14,8 @@ subjects = [ "Professional Sports Responsibility", "Athletic Performance-Enhanci
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42163502!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2163"
 
 [[history]]
 date = "2005-11-21"

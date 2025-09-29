@@ -6,7 +6,6 @@ name = "SBN-03078"
 [meta]
 bill_number = 3078
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3078", "https://web.senate.gov.ph/lisdata/103669235!.pdf",]
 title = "NATIONAL HEALTH INSURANCE COVERAGE FOR PUBLIC UTILITY DRIVERS"
 date_filed = "2009-02-18"
 long_title = "AN ACT REQUIRING THE MANDATORY COVERAGE OF ALL PUBLIC UTILITY DRIVERS IN THE NATIONAL HEALTH INSURANCE PROGRAM (NHIP) UNDER THE PHILIPPINE HEALTH INSURANCE CORPORATION (PHILHEALTH)"
@@ -15,6 +14,8 @@ subjects = [ "National Health Insurance Act", "Public Utility Drivers",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/103669235!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3078"
 
 [[history]]
 date = "2009-02-18"

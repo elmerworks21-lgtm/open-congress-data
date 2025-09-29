@@ -6,7 +6,6 @@ name = "SBN-00516"
 [meta]
 bill_number = 516
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-516", "https://web.senate.gov.ph/lisdata/3089927746!.pdf",]
 title = "NATIONAL PEACE POLICY ACT OF 2019"
 date_filed = "2019-07-16"
 long_title = "AN ACT DECLARING A NATIONAL PEACE POLICY THEREBY CREATING A COMMISSION ON PEACE"
@@ -15,6 +14,8 @@ subjects = [ "Peace", "Commission on Peace",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3089927746!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-516"
 
 [[history]]
 date = "2019-07-16"

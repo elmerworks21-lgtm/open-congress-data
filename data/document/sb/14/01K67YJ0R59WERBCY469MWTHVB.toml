@@ -6,7 +6,6 @@ name = "SBN-00039"
 [meta]
 bill_number = 39
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-39", "https://web.senate.gov.ph/lisdata/42163479!.pdf",]
 title = "ANTI-TORTURE ACT"
 date_filed = "2007-06-30"
 long_title = "AN ACT PENALIZING THE COMMISSION OF ACTS OF TORTURE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Torture",]
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42163479!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-39"
 
 [[history]]
 date = "2007-06-30"

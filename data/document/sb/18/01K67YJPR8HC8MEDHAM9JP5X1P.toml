@@ -6,7 +6,6 @@ name = "SBN-00543"
 [meta]
 bill_number = 543
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-543", "https://web.senate.gov.ph/lisdata/3092627787!.pdf",]
 title = "SAFE BOTTLED WATER ACT OF 2019"
 date_filed = "2019-07-16"
 long_title = "AN ACT ESTABLISHING QUALITY STANDARDS FOR MINERAL, CARBONATED AND OTHER BOTTLED WATER"
@@ -15,6 +14,8 @@ subjects = [ "Bottled Water",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3092627787!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-543"
 
 [[history]]
 date = "2019-07-16"

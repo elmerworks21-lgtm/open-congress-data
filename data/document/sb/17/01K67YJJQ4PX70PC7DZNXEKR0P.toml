@@ -6,7 +6,6 @@ name = "SBN-02070"
 [meta]
 bill_number = 2070
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2070", "https://web.senate.gov.ph/lisdata/2884025364!.pdf",]
 title = "COMPREHENSIVE LUPUS PREVENTION ACT OF 2018"
 date_filed = "2018-10-10"
 long_title = "AN ACT INSTITUTING A NATIONAL HEALTH PROGRAM TO COMBAT SYSTEMIC LUPUS ERYTHEMATOSUS (SLE) DISEASE AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Lupus Disease",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2884025364!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2070"
 
 [[history]]
 date = "2018-10-10"

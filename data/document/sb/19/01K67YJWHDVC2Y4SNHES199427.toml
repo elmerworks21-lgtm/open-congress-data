@@ -6,7 +6,6 @@ name = "SBN-02333"
 [meta]
 bill_number = 2333
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2333", "https://web.senate.gov.ph/lisdata/4218838374!.pdf",]
 title = "CREATING A TRIPARTITE COUNCIL"
 date_filed = "2023-07-20"
 long_title = "AN ACT CREATING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT, AND THE JOB-SKILLS MISMATCH PROBLEM IN THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tripartite Council", "Unemployment",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4218838374!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2333"
 
 [[history]]
 date = "2023-07-20"

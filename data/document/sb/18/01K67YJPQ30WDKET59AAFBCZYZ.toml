@@ -6,7 +6,6 @@ name = "SBN-00486"
 [meta]
 bill_number = 486
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-486", "https://web.senate.gov.ph/lisdata/3072927571!.pdf",]
 title = "UNPAID CARE WORKERS ACT"
 date_filed = "2019-07-15"
 long_title = "AN ACT TO MAXIMIZE THE CONTRIBUTION OF UNPAID CARE WORKERS TO NATION BUILDING, GRANT BENEFITS AND PRIVILEGES, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3072927571!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-486"
 
 [[history]]
 date = "2019-07-15"

@@ -6,7 +6,6 @@ name = "SBN-01937"
 [meta]
 bill_number = 1937
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1937", "https://web.senate.gov.ph/lisdata/65475794!.pdf",]
 title = "TANODBATA ACT"
 date_filed = "2007-12-04"
 long_title = "AN ACT CREATING THE OFFICE OF TANODBATA AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tanodbata",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/65475794!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1937"
 
 [[history]]
 date = "2007-12-04"

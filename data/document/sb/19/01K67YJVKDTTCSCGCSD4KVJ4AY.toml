@@ -6,7 +6,6 @@ name = "SBN-01054"
 [meta]
 bill_number = 1054
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1054", "https://web.senate.gov.ph/lisdata/3900835458!.pdf",]
 title = "BIRTHING CENTERS IN COMMUNITIES ACT"
 date_filed = "2022-08-08"
 long_title = "AN ACT PROVIDING FOR THE IMPROVEMENT OF MATERNAL AND CHILDBIRTH SERVICES BY ESTABLISHING BIRTHING CENTERS, TRAINING TRADITIONAL BIRTH ATTENDANTS, AND INSTITUTIONALIZING A LAY-AWAY PROGRAM, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Birthing Centers", "Childbirth Services",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3900835458!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1054"
 
 [[history]]
 date = "2022-08-08"

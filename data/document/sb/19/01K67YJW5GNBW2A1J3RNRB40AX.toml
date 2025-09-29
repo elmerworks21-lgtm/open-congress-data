@@ -6,7 +6,6 @@ name = "SBN-01840"
 [meta]
 bill_number = 1840
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1840", "https://web.senate.gov.ph/lisdata/4066737060!.pdf",]
 title = "MAGNA CARTA OF BARANGAY HEALTH WORKERS"
 date_filed = "2023-02-06"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF BARANGAY HEALTH WORKERS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Magna Carta of Barangay Health Workers",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4066737060!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1840"
 
 [[history]]
 date = "2023-02-06"

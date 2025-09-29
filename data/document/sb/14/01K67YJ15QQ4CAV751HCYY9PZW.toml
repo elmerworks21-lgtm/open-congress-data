@@ -6,7 +6,6 @@ name = "SBN-00668"
 [meta]
 bill_number = 668
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-668", "https://web.senate.gov.ph/lisdata/48904263!.pdf",]
 title = "CELL PHONE SUBSCRIBER PROTECTION ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT TO ESTABLISH MINIMUM STANDARDS REGARDING THE QUALITY OF WIRELESS TELEPHONE SERVICE AND TO MONITOR COMPLAINTS REGARDING SUCH SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Cellular Phones", "Cellphones", "Mobile Phones",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48904263!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-668"
 
 [[history]]
 date = "2007-07-03"

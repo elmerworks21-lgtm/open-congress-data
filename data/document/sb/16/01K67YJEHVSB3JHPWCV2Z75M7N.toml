@@ -6,7 +6,6 @@ name = "SBN-03141"
 [meta]
 bill_number = 3141
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3141", "https://web.senate.gov.ph/lisdata/2296619662!.pdf",]
 title = "STOP SMUGGLING ACT"
 date_filed = "2016-01-26"
 long_title = "AN ACT PUNISHING VARIOUS FORMS OF SMUGGLING, PRESCRIBING PENALTIES THEREFOR, GRANTING INCENTIVES AND REWARDS FOR ASSISTANCE OF WITNESSES AND INFORMANTS LEADING TO SUCCESSFUL PROSECUTION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Smuggling",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2296619662!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3141"
 
 [[history]]
 date = "2016-01-26"

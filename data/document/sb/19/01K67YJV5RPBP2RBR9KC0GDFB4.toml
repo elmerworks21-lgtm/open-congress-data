@@ -6,7 +6,6 @@ name = "SBN-00443"
 [meta]
 bill_number = 443
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-443", "https://web.senate.gov.ph/lisdata/3820434642!.pdf",]
 title = "TEACHERS HOME IN SCHOOL ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT ESTABLISHING FREE ON-SITE LIVING FACILITIES FOR PUBLIC SCHOOL TEACHERS, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Public School Teachers", "Free On-Site Living Facility", "Teachers
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3820434642!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-443"
 
 [[history]]
 date = "2022-07-12"

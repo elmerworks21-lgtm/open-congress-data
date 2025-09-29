@@ -6,7 +6,6 @@ name = "SBN-01065"
 [meta]
 bill_number = 1065
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1065", "https://web.senate.gov.ph/lisdata/2465721243!.pdf",]
 title = "LOCAL BUDGETING REFORM ACT OF 2016"
 date_filed = "2016-08-23"
 long_title = "AN ACT INSTITUTING BUDGET REFORM THAT WILL ENSURE THE EQUITABLE DISTRIBUTION OF FUNDS FOR BOTH THE NATIONAL AND LOCAL GOVERNMENT UNITS FOR THE PURPOSE OF PROMOTING LOCAL GOVERNMENT EMPOWERMENT IN ORDER TO ACHIEVE INCLUSIVE GROWTH, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Budget Reforms", "Local Government Units (LGUS)",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2465721243!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1065"
 
 [[history]]
 date = "2016-08-23"

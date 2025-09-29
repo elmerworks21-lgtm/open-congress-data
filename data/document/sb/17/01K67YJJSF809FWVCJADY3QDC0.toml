@@ -6,7 +6,6 @@ name = "SBN-02145"
 [meta]
 bill_number = 2145
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2145", "https://web.senate.gov.ph/lisdata/2930725907!.pdf",]
 title = "VISUALLY-IMPAIRED FRIENDLY ATM ACT"
 date_filed = "2019-01-14"
 long_title = "AN ACT EXTENDING THE SERVICES OF AUTOMATED TELLER MACHINES TO VISUALLY-IMPAIRED INDIVIDUALS"
@@ -15,6 +14,8 @@ subjects = [ "Automated Teller Machines (ATM)", "Banking Industry", "Blind Perso
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2930725907!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2145"
 
 [[history]]
 date = "2019-01-14"

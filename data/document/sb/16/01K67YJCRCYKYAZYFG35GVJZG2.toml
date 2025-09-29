@@ -6,7 +6,6 @@ name = "SBN-00734"
 [meta]
 bill_number = 734
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-734", "https://web.senate.gov.ph/lisdata/1665613896!.pdf",]
 title = "SECONDARY SCHOOL REFORM ACT"
 date_filed = "2013-07-15"
 long_title = "AN ACT INTRODUCING EDUCATIONAL REFORMS AND SUPPORTING THE PLANNING AND IMPLEMENTATION OF EDUCATIONAL REFORMS IN SECONDARY SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Secondary Education",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1665613896!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-734"
 
 [[history]]
 date = "2013-07-15"

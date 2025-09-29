@@ -6,7 +6,6 @@ name = "SBN-00015"
 [meta]
 bill_number = 15
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-15", "https://web.senate.gov.ph/lisdata/1144568!.pdf",]
 title = "DISCOUNT POWER RATE CONSUMPTION/GEOTHERMAL POWER PLANT"
 date_filed = "2004-06-30"
 long_title = "AN ACT GRANTING TO RESIDENTS OF THE REGION WHERE A GEOTHERMAL ENERGY PLANT IS LOCATED A THIRTY PERCENT (30%) DISCOUNT ON THEIR POWER RATE CONSUMPTION"
@@ -15,6 +14,8 @@ subjects = [ "Geothermal Power Plant", "Discount (Power Rate Consumption)", "Ene
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
 author_codes = ["AEDGA", "FJUAN"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1144568!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-15"
 
 [[history]]
 date = "2004-06-30"

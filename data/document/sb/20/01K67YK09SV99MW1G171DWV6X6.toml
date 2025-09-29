@@ -6,7 +6,6 @@ name = "SBN-00846"
 [meta]
 bill_number = 846
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-846", "https://web.senate.gov.ph/lisdata/4741243415!.pdf",]
 title = "COMELEC INTEGRITY ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT STRENGTHENING THE INDEPENDENCE OF THE COMMISSION ON ELECTIONS, AMENDING FOR THE PURPOSE PERTINENT PROVISIONS OF BATAS PAMBANSA BLG. 881, OTHERWISE KNOWN AS THE 'OMNIBUS ELECTION CODE', AS AMENDED, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "Commission on E
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4741243415!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-846"
 
 [[history]]
 date = "2025-08-04"

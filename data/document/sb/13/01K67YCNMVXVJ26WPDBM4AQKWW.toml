@@ -6,7 +6,6 @@ name = "SBN-00497"
 [meta]
 bill_number = 497
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-497", "https://web.senate.gov.ph/lisdata/1654956!.pdf",]
 title = "RENAMING TAFT AVENUE TO SEN. JOSE W. DIOKNO AVENUE (MANILA)"
 date_filed = "2004-06-30"
 long_title = "AN ACT RENAMING TAFT AVENUE IN MANILA TO SENATOR JOSE W. DIOKNO AVENUE"
@@ -15,6 +14,8 @@ subjects = [ "Roads, Renaming (Manila)", "Taft Avenue/Senator Jose W. Diokno",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1654956!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-497"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00707"
 [meta]
 bill_number = 707
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-707", "https://web.senate.gov.ph/lisdata/18971269!.pdf",]
 title = "DEPT. OF AGRICULTURE, RENAMING: DEPT. OF AGRIC. & FISHERIES"
 date_filed = "2004-06-30"
 long_title = "AN ACT RENAMING THE DEPARTMENT OF AGRICULTURE AS THE DEPARTMENT OF AGRICULTURE AND FISHERIES"
@@ -15,6 +14,8 @@ subjects = [ "Dept. of Agriculture (Da, Renaming)", "Dept. of Agriculture and Fi
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18971269!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-707"
 
 [[history]]
 date = "2004-06-30"

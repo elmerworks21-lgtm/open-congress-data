@@ -6,7 +6,6 @@ name = "SBN-02291"
 [meta]
 bill_number = 2291
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2291", "https://web.senate.gov.ph/lisdata/98888421!.pdf",]
 title = "VICTIMS OF DOMESTIC VIOLENCE EMPLOYMENT LEAVE ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT REQUIRING CERTAIN EMPLOYERS TO PROVIDE EMPLOYMENT LEAVE FOR VICTIMS OF DOMESTIC VIOLENCE; PROHIBITING CERTAIN ACTS; AND PRESCRIBING PENALTIES"
@@ -15,6 +14,8 @@ subjects = [ "Domestic Violence",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98888421!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2291"
 
 [[history]]
 date = "2010-08-02"

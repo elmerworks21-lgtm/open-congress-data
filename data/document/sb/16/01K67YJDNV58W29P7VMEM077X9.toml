@@ -6,7 +6,6 @@ name = "SBN-02158"
 [meta]
 bill_number = 2158
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2158", "https://web.senate.gov.ph/lisdata/1884215966!.pdf",]
 title = "AMENDING ART. 355 (DECRIMINALIZING LIBEL)"
 date_filed = "2014-03-03"
 long_title = "AN ACT DECRIMINALIZING LIBEL, REPEALING FOR THIS PURPOSE ARTICLE 355 OF ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Libel", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1884215966!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2158"
 
 [[history]]
 date = "2014-03-03"

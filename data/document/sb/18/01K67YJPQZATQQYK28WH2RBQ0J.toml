@@ -6,7 +6,6 @@ name = "SBN-00531"
 [meta]
 bill_number = 531
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-531", "https://web.senate.gov.ph/lisdata/3091427772!.pdf",]
 title = "AMENDING COMMONWEALTH ACT NO. 146 (PUBLIC SERVICE ACT)"
 date_filed = "2019-07-16"
 long_title = "AN ACT FURTHER AMENDING COMMONWEALTH ACT NO. 146 OTHERWISE KNOWN AS THE PUBLIC SERVICE ACT, AS AMENDED"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Public Service Act (Commonwealth Act No. 146)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3091427772!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-531"
 
 [[history]]
 date = "2019-07-16"

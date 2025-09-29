@@ -6,7 +6,6 @@ name = "SBN-00425"
 [meta]
 bill_number = 425
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-425", "https://web.senate.gov.ph/lisdata/1632013560!.pdf",]
 title = "WHISTLEBLOWER PROTECTION ACT"
 date_filed = "2013-07-04"
 long_title = "AN ACT PROVIDING FOR PROTECTION, SECURITY AND BENEFITS OF WHISTLEBLOWERS"
@@ -15,6 +14,8 @@ subjects = [ "Whistleblowers",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1632013560!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-425"
 
 [[history]]
 date = "2013-07-04"

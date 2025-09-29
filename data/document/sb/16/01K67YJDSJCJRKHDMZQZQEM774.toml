@@ -6,7 +6,6 @@ name = "SBN-02301"
 [meta]
 bill_number = 2301
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2301", "https://web.senate.gov.ph/lisdata/1951416633!.pdf",]
 title = "VISUALLY-IMPAIRED FRIENDLY ATM ACT"
 date_filed = "2014-07-07"
 long_title = "AN ACT MAKING AUTOMATED TELLER MACHINES ACCESSIBLE TO THE VISUALLY-IMPAIRED INDIVIDUALS"
@@ -15,6 +14,8 @@ subjects = [ "Automated Teller Machines (ATM)", "Blind Persons",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1951416633!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2301"
 
 [[history]]
 date = "2014-07-07"

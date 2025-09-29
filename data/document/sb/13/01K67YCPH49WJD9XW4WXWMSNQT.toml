@@ -6,7 +6,6 @@ name = "SBN-02008"
 [meta]
 bill_number = 2008
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2008", "https://web.senate.gov.ph/lisdata/34342743!.pdf",]
 title = "HEALTH CARE"
 date_filed = "2005-05-18"
 long_title = "AN ACT RECOGNIZING THE FUNDAMENTAL RIGHT OF ADULT PERSONS TO DECIDE THEIR OWN HEALTH CARE, INCLUDING THE DECISION TO HAVE LIFE-SUSTAINING TREATMENT WITHHELD OR WITHDRAWN IN INSTANCES OF A TERMINAL CONDITION OR PERMANENT UNCONSCIOUS CONDITION"
@@ -15,6 +14,8 @@ subjects = [ "Health Care Services",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34342743!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2008"
 
 [[history]]
 date = "2005-05-18"

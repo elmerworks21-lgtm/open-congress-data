@@ -6,7 +6,6 @@ name = "SBN-01177"
 [meta]
 bill_number = 1177
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1177", "https://web.senate.gov.ph/lisdata/2495921461!.pdf",]
 title = "BALANGAY (NATIONAL BOAT)"
 date_filed = "2016-09-29"
 long_title = "AN ACT DECLARING THE 'BALANGAY' AS THE NATIONAL BOAT OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "National Commission for Culture and the Arts", "National Museum",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2495921461!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1177"
 
 [[history]]
 date = "2016-09-29"

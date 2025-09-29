@@ -6,7 +6,6 @@ name = "SBN-02653"
 [meta]
 bill_number = 2653
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2653", "https://web.senate.gov.ph/lisdata/2060917711!.pdf",]
 title = "COMPREHENSIVE TUBERCULOSIS ELIMINATION PLAN ACT"
 date_filed = "2015-02-16"
 long_title = "AN ACT ESTABLISHING A COMPREHENSIVE PHILIPPINE PLAN OF ACTION TO ELIMINATE TUBERCULOSIS AS A PUBLIC HEALTH PROBLEM AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tuberculosis",]
 authors_raw = "Guingona III, Teofisto \"Tg\", Villar, Cynthia A."
 author_codes = ["GTEOF", "VCYNT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2060917711!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2653"
 
 [[history]]
 date = "2015-02-16"

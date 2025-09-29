@@ -6,7 +6,6 @@ name = "SBN-02763"
 [meta]
 bill_number = 2763
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2763", "https://web.senate.gov.ph/lisdata/2130018111!.pdf",]
 title = "ABSENTEE VOTING"
 date_filed = "2015-05-13"
 long_title = "AN ACT PROVIDING FOR A SYSTEM OF ABSENTEE VOTING FOR QUALIFIED MEMBERS OF THE ELECTORAL STAFF OF NATIONAL CANDIDATES AND ACCREDITED NATIONAL POLITICAL PARTIES AND PARTY-LISTS, AND ELECTION LAWYERS"
@@ -15,6 +14,8 @@ subjects = [ "Absentee Voting", "Political Party", "Lawyers",]
 authors_raw = "Lapid, Manuel \"Lito\" M., Defensor Santiago, Miriam, Pimentel, Aquilino Koko III L., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "LMANU", "PAQUI", "SMIRI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2130018111!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2763"
 
 [[history]]
 date = "2015-05-13"

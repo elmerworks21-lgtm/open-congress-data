@@ -6,7 +6,6 @@ name = "SBN-01948"
 [meta]
 bill_number = 1948
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1948", "https://web.senate.gov.ph/lisdata/32602428!.pdf",]
 title = "ESTABLISHING THE PHILIPPINE NAVAL ACADEMY"
 date_filed = "2005-03-03"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE NAVAL ACADEMY (PNA) AND APPROPRIATING FUNDS THEREFOR."
@@ -15,6 +14,8 @@ subjects = [ "Philippine Naval Academy (PNA)",]
 authors_raw = "Magsaysay Jr., Ramon B."
 author_codes = ["MRAMO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/32602428!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1948"
 
 [[history]]
 date = "2005-03-03"

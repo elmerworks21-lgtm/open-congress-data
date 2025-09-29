@@ -6,7 +6,6 @@ name = "SBN-01914"
 [meta]
 bill_number = 1914
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1914", "https://web.senate.gov.ph/lisdata/64905743!.pdf",]
 title = "PROFESSIONAL SPORTS RESPONSIBILITY ACT OF 2007"
 date_filed = "2007-11-26"
 long_title = "AN ACT TO ESTABLISH AND ENFORCE STANDARDS FOR TESTING FOR THE ILLEGAL USE OF PERFORMANCE ENHANCING SUBSTANCES AND OTHER CONTROLLED SUBSTANCES IN PROFESSIONAL AND AMATEUR OR COLLEGIATE SPORTS"
@@ -15,6 +14,8 @@ subjects = [ "Athletic Performance-Enhancing Drugs Research", "Detection",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64905743!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1914"
 
 [[history]]
 date = "2007-11-26"

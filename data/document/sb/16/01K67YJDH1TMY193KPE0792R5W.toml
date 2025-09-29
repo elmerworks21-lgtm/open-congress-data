@@ -6,7 +6,6 @@ name = "SBN-01933"
 [meta]
 bill_number = 1933
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1933", "https://web.senate.gov.ph/lisdata/1825615453!.pdf",]
 title = "SAFE BOTTLED WATER ACT OF 2013"
 date_filed = "2013-11-18"
 long_title = "AN ACT ESTABLISHING QUALITY STANDARDS FOR MINERAL, CARBONATED AND OTHER BOTTLED WATER"
@@ -15,6 +14,8 @@ subjects = [ "Bottled Water",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1825615453!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1933"
 
 [[history]]
 date = "2013-11-18"

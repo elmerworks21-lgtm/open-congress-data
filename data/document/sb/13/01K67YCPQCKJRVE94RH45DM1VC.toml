@@ -6,7 +6,6 @@ name = "SBN-02314"
 [meta]
 bill_number = 2314
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2314", "https://web.senate.gov.ph/lisdata/54404500!.pdf",]
 title = "VIDEO ARCAGES, INTERNET GAMING STATIONS, BILLIARD HALLS NEAR EDUCATIONAL INSTITUTIONS BAN"
 date_filed = "2006-06-07"
 long_title = "AN ACT PROHIBITING THE ESTABLISHMENT OF VIDEO ARCADES, INTERNET GAMING STATIONS, BILLIARD HALLS AND OTHER SIMILAR ESTABLISHMENTS NEAR EDUCATIONAL INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Video Arcades", "Internet Gaming Near Educational Instituions Ban"
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54404500!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2314"
 
 [[history]]
 date = "2006-06-07"

@@ -6,7 +6,6 @@ name = "SBN-02569"
 [meta]
 bill_number = 2569
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2569", "https://web.senate.gov.ph/lisdata/2040117507!.pdf",]
 title = "RESPONSIBLE USE OF FIREARMS ACT"
 date_filed = "2015-01-13"
 long_title = "AN ACT PENALIZING THE IRRESPONSIBLE USE OF FIREARMS, AMENDING FOR THE PURPOSE THE REVISED PENAL CODE AND REPUBLIC ACT NO. 10591, OTHERWISE KNOWN AS THE COMPREHENSIVE FIREARMS AND AMMUNITION REGULATION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Firearms", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2040117507!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2569"
 
 [[history]]
 date = "2015-01-13"

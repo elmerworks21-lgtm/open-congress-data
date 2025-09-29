@@ -6,7 +6,6 @@ name = "SBN-02210"
 [meta]
 bill_number = 2210
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2210", "https://web.senate.gov.ph/lisdata/4170137985!.pdf",]
 title = "BANNING THE IMPORTATION OF SOLID WASTE ACT"
 date_filed = "2023-05-17"
 long_title = "ACT BANNING THE IMPORTATION OF SOLID WASTE"
@@ -15,6 +14,8 @@ subjects = [ "Solid Waste",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4170137985!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2210"
 
 [[history]]
 date = "2023-05-17"

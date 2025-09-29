@@ -6,7 +6,6 @@ name = "SBN-00827"
 [meta]
 bill_number = 827
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-827", "https://web.senate.gov.ph/lisdata/3859735050!.pdf",]
 title = "FREE ANNUAL MEDICAL CHECK-UP ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT PROVIDING FOR A FREE ANNUAL MEDICAL CHECK-UP FOR FILIPINOS AND APPROPRIATING FUNDS, THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Free Annual Medical Check-Up",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3859735050!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-827"
 
 [[history]]
 date = "2022-07-25"

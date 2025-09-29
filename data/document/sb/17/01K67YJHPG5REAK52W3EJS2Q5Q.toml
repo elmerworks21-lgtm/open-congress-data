@@ -6,7 +6,6 @@ name = "SBN-00796"
 [meta]
 bill_number = 796
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-796", "https://web.senate.gov.ph/lisdata/2432820931!.pdf",]
 title = "MANDATORY PHILHEALTH COVERAGE FOR ALL PWDS ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT GRANTING MANDATORY PHILHEALTH COVERAGE TO ALL PERSONS WITH DISABILITY, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7277, AS AMENDED, OTHERWISE KNOWN AS THE"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Health Insurance Corporation (Philhealth/Phic)", "Perso
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2432820931!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-796"
 
 [[history]]
 date = "2016-07-21"

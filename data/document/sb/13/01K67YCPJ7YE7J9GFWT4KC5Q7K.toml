@@ -6,7 +6,6 @@ name = "SBN-02062"
 [meta]
 bill_number = 2062
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2062", "https://web.senate.gov.ph/lisdata/34052862!.pdf",]
 title = "FAIR CREDIT REPORTING ACT"
 date_filed = "2005-07-06"
 long_title = "AN ACT REQUIRING CONSUMER REPORTING AGENCIES TO EXERCISE THEIR FUNCTIONS AND RESPONSIBILITIES WITH FAIRNESS, IMPARTIALITY, AND A RESPECT FOR THE CONSUMER'S RIGHT TO PRIVACY"
@@ -15,6 +14,8 @@ subjects = [ "Fair Credit Reporting Act",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34052862!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2062"
 
 [[history]]
 date = "2005-07-06"

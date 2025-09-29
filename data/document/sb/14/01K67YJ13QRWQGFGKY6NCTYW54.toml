@@ -6,7 +6,6 @@ name = "SBN-00568"
 [meta]
 bill_number = 568
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-568", "https://web.senate.gov.ph/lisdata/47794110!.pdf",]
 title = "REDUCING THE INCOME TAX RATES OF INDIVIDUAL TAXPAYERS"
 date_filed = "2007-07-02"
 long_title = "AN ACT AMENDING SECTIONS 24, 31, 34, 35 AND 110 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Individual Income Tax (Taxpayers Income Tax Rates)", "National Int
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47794110!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-568"
 
 [[history]]
 date = "2007-07-02"

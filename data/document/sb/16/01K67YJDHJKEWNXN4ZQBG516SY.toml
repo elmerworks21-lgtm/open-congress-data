@@ -6,7 +6,6 @@ name = "SBN-01960"
 [meta]
 bill_number = 1960
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1960", "https://web.senate.gov.ph/lisdata/1833015506!.pdf",]
 title = "PHILIPPINE FREE PUBLIC EDUCATION SYSTEM ACT OF 2013"
 date_filed = "2013-11-27"
 long_title = "AN ACT TO INSTITUTE A FREE PUBLIC COLLEGE EDUCATION SYSTEM IN THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Public Education System", "Tertiary Education",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1833015506!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1960"
 
 [[history]]
 date = "2013-11-27"

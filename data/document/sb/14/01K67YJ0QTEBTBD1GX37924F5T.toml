@@ -6,7 +6,6 @@ name = "SBN-00025"
 [meta]
 bill_number = 25
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-25", "https://web.senate.gov.ph/lisdata/42023465!.pdf",]
 title = "FREEDOM OF EXPRESSION ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT AMENDING REPUBLIC ACT 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE OF THE PHILIPPINES, BY REPEALING SECTIONS 139, 140, 141 AND 142 THEREIN"
@@ -15,6 +14,8 @@ subjects = [ "Freedom of Expression/Freedom of Speech", "Revised Penal Code (RA 
 authors_raw = "Madrigal, M. A."
 author_codes = ["MJAMB"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42023465!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-25"
 
 [[history]]
 date = "2007-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01250"
 [meta]
 bill_number = 1250
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1250", "https://web.senate.gov.ph/lisdata/24611829!.pdf",]
 title = "SCHOOL BUS SAFETY ACT"
 date_filed = "2004-07-01"
 long_title = "AN ACT PRESCRIBING SCHOOL BUS SAFETY STANDARDS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "School Bus Safety Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24611829!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1250"
 
 [[history]]
 date = "2004-07-01"

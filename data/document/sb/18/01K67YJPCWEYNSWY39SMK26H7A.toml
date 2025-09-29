@@ -6,7 +6,6 @@ name = "SBN-00029"
 [meta]
 bill_number = 29
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-29", "https://web.senate.gov.ph/lisdata/3024527074!.pdf",]
 title = "PARENTS WELFARE ACT OF 2019"
 date_filed = "2019-07-01"
 long_title = "AN ACT PROVIDING FOR PARENT SUPPORT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Parents Welfare", "Parents Support",]
 authors_raw = "Lacson, Panfilo \"Ping\" M., Villanueva, Joel, Sotto III, Vicente C."
 author_codes = ["LPANF", "SVICE", "VEMMA"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3024527074!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-29"
 
 [[history]]
 date = "2019-07-01"

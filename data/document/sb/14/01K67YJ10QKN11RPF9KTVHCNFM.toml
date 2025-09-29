@@ -6,7 +6,6 @@ name = "SBN-00422"
 [meta]
 bill_number = 422
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-422", "https://web.senate.gov.ph/lisdata/45973947!.pdf",]
 title = "SOCIALIZED AND LOW-COST HOUSING LOAN RESTRUCTURING ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO ESTABLISH A SOCIALIZED AND LOW-COST HOUSING LOAN RESTRUCTURING PROGRAM, PROVIDING THE MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Socialized and Low-Cost Housing Loan Restructuring Program", "Hous
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45973947!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-422"
 
 [[history]]
 date = "2007-07-02"

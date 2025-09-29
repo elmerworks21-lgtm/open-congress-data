@@ -6,7 +6,6 @@ name = "SBN-02454"
 [meta]
 bill_number = 2454
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2454", "https://web.senate.gov.ph/lisdata/79067117!.pdf",]
 title = "SOCIAL SECURITY CONDONATION LAW OF 2008"
 date_filed = "2008-07-21"
 long_title = "AN ACT AUTHORIZING THE CONDONATION OF PENALTIES ON DELINQUENT SOCIAL SECURITY CONTRIBUTIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Social Security System (SSS)", "Condonation",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79067117!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2454"
 
 [[history]]
 date = "2008-07-21"

@@ -6,7 +6,6 @@ name = "SBN-00724"
 [meta]
 bill_number = 724
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-724", "https://web.senate.gov.ph/lisdata/19141308!.pdf",]
 title = "GREEN PARKS ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT GRANTING INCENTIVES TO SUBDIVISION HOME-OWNERS ASSOCIATIONS TO DEVELOP AND MAINTAIN FORESTED AREAS WITHIN THEIR SUBDIVISIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tree Planting (Green Parks Act)", "Subdivision Homeowners Associat
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19141308!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-724"
 
 [[history]]
 date = "2004-06-30"

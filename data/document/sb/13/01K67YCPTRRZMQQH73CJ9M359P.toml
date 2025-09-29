@@ -6,7 +6,6 @@ name = "SBN-02501"
 [meta]
 bill_number = 2501
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2501", "https://web.senate.gov.ph/lisdata/63265242!.pdf",]
 title = "MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT"
 date_filed = "2006-11-09"
 long_title = "AN ACT STRENGTHENING THE REGULATORY FUNCTIONS OF THE PHILIPPINE OVERSEAS EMPLOYMENT ADMINISTRATION (POEA), FURTHER IMPROVING THE HIGHER STANDARD OF PROTECTION AND PROMOTION OF THE WELFARE OF MIGRANT WORKERS, THEIR FAMILIES AND OVERSEAS FILIPINO WORKERS IN DISTRESS, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT OF 1995"
@@ -15,6 +14,8 @@ subjects = [ "Migrant Workers", "Overseas Filipino Workers (OFWs/RA 8042)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P., Villar Jr., Manuel B., Drilon, Franklin M., Magsaysay Jr., Ramon B., Recto, Ralph G., Ejercito-Estrada, Jinggoy P., Defensor Santiago, Miriam"
 author_codes = ["DFRAN", "EJING", "ELUIS", "MRAMO", "RRALP", "SMIRI", "VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/63265242!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2501"
 
 [[history]]
 date = "2006-11-09"

@@ -6,7 +6,6 @@ name = "SBN-02207"
 [meta]
 bill_number = 2207
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2207", "https://web.senate.gov.ph/lisdata/98238308!.pdf",]
 title = "MISCELLANEOUS AND OTHER FEES CONSULTATION ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT PROVIDING THAT ALL EDUCATIONAL INSTITUTIONS, WHETHER PUBLIC OR PRIVATE, SHALL HOLD MANDATORY CONSULTATION WITH STUDENTS, PARENTS OR GUARDIANS, ALUMNI, TEACHERS, AND OTHER NON-TEACHING PERSONNEL ASSOCIATIONS, BEFORE INCREASING AND/OR ADDING MISCELLANEOUS FEES, OTHER FEES, AND PAID SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Tuition Fees",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98238308!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2207"
 
 [[history]]
 date = "2010-08-02"

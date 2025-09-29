@@ -6,7 +6,6 @@ name = "SBN-01024"
 [meta]
 bill_number = 1024
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1024", "https://web.senate.gov.ph/lisdata/2460221181!.pdf",]
 title = "EDUCATION FOR ALL INITIATIVES"
 date_filed = "2016-08-15"
 long_title = "AN ACT FINANCING THE EDUCATION FOR ALL INITIATIVES FROM THE ANNUAL VALUE-ADDED TAX COLLECTIONS, AMENDING FOR THE PURPOSE THE NATIONAL INTERNAL REVENUE CODE OF1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Value-Added Tax / Vat)", "National Internal Revenue Code (N
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2460221181!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1024"
 
 [[history]]
 date = "2016-08-15"

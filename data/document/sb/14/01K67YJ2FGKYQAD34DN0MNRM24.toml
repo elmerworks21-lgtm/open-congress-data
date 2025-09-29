@@ -6,7 +6,6 @@ name = "SBN-02309"
 [meta]
 bill_number = 2309
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2309", "https://web.senate.gov.ph/lisdata/74426658!.pdf",]
 title = "SENIOR CITIZENS DISCOUNT PRIVILEGE"
 date_filed = "2008-05-21"
 long_title = "AN ACT AMENDING SECTION 4 OF REPUBLIC ACT NO. 7432, AS AMENDED BY REPUBLIC ACT NO. 9257, TO COMPENSATE THE NEGATIVE EFFECTS OF REPUBLIC ACT NO. 9337 ON THE DISCOUNT PRIVILEGE OF SENIOR CITIZENS PROVIDED THEREUNDER AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens", "Discount Privileges",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74426658!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2309"
 
 [[history]]
 date = "2008-05-21"

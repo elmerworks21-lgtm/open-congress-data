@@ -6,7 +6,6 @@ name = "SBN-00672"
 [meta]
 bill_number = 672
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-672", "https://web.senate.gov.ph/lisdata/1661813856!.pdf",]
 title = "METALLURGICAL ENGINEERING ACT OF 2013"
 date_filed = "2013-07-09"
 long_title = "AN ACT REGULATING THE PRACTICE OF METALLURGICAL ENGINEERING IN THE PHILIPPINES REPEALING FOR THIS PURPOSE PRESIDENTIAL DECREE 1536, OTHERWISE KNOWN AS THE METALLURGICAL ENGINEERING LAW OF 1978, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Metallurgical Engineering",]
 authors_raw = "Legarda, Loren B., Villar, Cynthia A."
 author_codes = ["LLORE", "VCYNT"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1661813856!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-672"
 
 [[history]]
 date = "2013-07-09"

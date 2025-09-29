@@ -6,7 +6,6 @@ name = "SBN-03333"
 [meta]
 bill_number = 3333
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3333", "https://web.senate.gov.ph/lisdata/1192610479!.pdf",]
 title = "CREDIT CARD DEBT-COLLECTION HARASSMENT"
 date_filed = "2009-07-21"
 long_title = "AN ACT PROHIBITING CREDIT CARD DEBT-COLLECTION HARASSMENT"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card Holder Protection",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1192610479!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3333"
 
 [[history]]
 date = "2009-07-21"

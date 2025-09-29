@@ -6,7 +6,6 @@ name = "SBN-00411"
 [meta]
 bill_number = 411
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-411", "https://web.senate.gov.ph/lisdata/3817134609!.pdf",]
 title = "GOVT. FINANCIAL INSTITUTIONS UNIFIED INITIATIVES TO DISTRESSED ENTERPRISES FOR ECONOMIC RECOVERY"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING FOR GOVERNMENT FINANCIAL INSTITUTIONS UNIFIED INITIATIVES TO DISTRESSED ENTERPRISES FOR ECONOMIC RECOVERY (GUIDE)"
@@ -15,6 +14,8 @@ subjects = [ "Government Financial Institutions", "Economic Recovery",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3817134609!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-411"
 
 [[history]]
 date = "2022-07-12"

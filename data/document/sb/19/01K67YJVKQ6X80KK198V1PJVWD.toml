@@ -6,7 +6,6 @@ name = "SBN-01068"
 [meta]
 bill_number = 1068
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1068", "https://web.senate.gov.ph/lisdata/3902235473!.pdf",]
 title = "AMENDING R.A. NO. 1405 (SECRECY OF BANK DEPOSITS LAW)"
 date_filed = "2022-08-08"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 1405, OTHERWISE KNOWN AS THE SECRECY OF BANK DEPOSITS LAW"
@@ -15,6 +14,8 @@ subjects = [ "Secrecy of Bank Deposits Law (R.A.No. 1405)",]
 authors_raw = "Poe, Grace, Legarda, Loren B."
 author_codes = ["LLORE", "PGRAC"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3902235473!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1068"
 
 [[history]]
 date = "2022-08-08"

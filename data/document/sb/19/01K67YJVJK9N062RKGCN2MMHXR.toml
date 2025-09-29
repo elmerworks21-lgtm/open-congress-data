@@ -6,7 +6,6 @@ name = "SBN-01018"
 [meta]
 bill_number = 1018
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1018", "https://web.senate.gov.ph/lisdata/3896935420!.pdf",]
 title = "REAL PROPERTY VALUATION AND ASSESSMENT REFORM ACT"
 date_filed = "2022-08-04"
 long_title = "AN ACT INSTITUTING REFORMS IN REAL PROPERTY VALUATION AND ASSESSMENT IN THE PHILIPPINES, REORGANIZING THE BUREAU OF LOCAL GOVERNMENT FINANCE, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Real Property Valuation and Assessment", "Bureau of Local Governme
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3896935420!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1018"
 
 [[history]]
 date = "2022-08-04"

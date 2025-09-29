@@ -6,7 +6,6 @@ name = "SBN-01828"
 [meta]
 bill_number = 1828
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1828", "https://web.senate.gov.ph/lisdata/3351730344!.pdf",]
 title = "POLICE COURTS ACT OF 2020"
 date_filed = "2020-09-14"
 long_title = "AN ACT ESTABLISHING THE POLICE LAW ENFORCEMENT COURTS, GRANTING THESE JURISDICTION OVER CIVIL AND CRIMINAL CASES ARISING FROM VIOLATIONS OF CONSTITUTIONAL RIGHTS AND PNP RULES OF ENGAGEMENT COMMITTED BY THE POLICE, AMENDING BATAS PAMBANSA BILANG 129, AS AMENDED, OTHERWISE KNOWN AS ‘THE JUDICIARY REORGANIZATION ACT OF 1980,’ AND PD 1606 AS AMENDED BY RA 10660 CREATING A SPECIAL COURT TO BE KNOWN AS ‘SANDIGANBAYAN’ APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Police Court", "Sandiganbayan", "Judiciary Reorganization Act (Bat
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3351730344!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1828"
 
 [[history]]
 date = "2020-09-14"

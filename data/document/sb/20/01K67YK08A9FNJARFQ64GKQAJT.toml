@@ -6,7 +6,6 @@ name = "SBN-00768"
 [meta]
 bill_number = 768
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-768", "https://web.senate.gov.ph/lisdata/4730643305!.pdf",]
 title = "CYBERCRIME PREVENTION ACT OF 2012"
 date_filed = "2025-07-29"
 long_title = "AN ACT PENALIZING THE GENERATION AND DISSEMINATION OF FAKE NEWS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10175 OTHERWISE KNOWN AS THE CYBERCRIME PREVENTION ACT OF 2012"
@@ -15,6 +14,8 @@ subjects = [ "Cybercrime Prevention", "Fake News",]
 authors_raw = "Tulfo, Erwin T."
 author_codes = ["TERWI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4730643305!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-768"
 
 [[history]]
 date = "2025-07-29"

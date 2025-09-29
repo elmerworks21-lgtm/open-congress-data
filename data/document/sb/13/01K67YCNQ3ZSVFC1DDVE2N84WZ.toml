@@ -6,7 +6,6 @@ name = "SBN-00628"
 [meta]
 bill_number = 628
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-628", "https://web.senate.gov.ph/lisdata/18141189!.pdf",]
 title = "MEDICAL SERVICE CONTRACTING ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A MEDICAL SERVICE CONTRACTING PROGRAM UNDER WHICH THE GOVERNMENT WILL SUBSIDIZE PARTICIPATING HOSPITALS IN ORDER TO ACCOMMODATE INDIGENT PATIENTS WHO CANNOT BE ADMITTED IN GOVERNMENT HOSPITALS"
@@ -15,6 +14,8 @@ subjects = [ "Medical Service Contracting Act", "Indigent Patients (Subsidize Me
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18141189!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-628"
 
 [[history]]
 date = "2004-06-30"

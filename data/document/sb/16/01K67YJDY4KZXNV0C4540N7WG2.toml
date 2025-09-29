@@ -6,7 +6,6 @@ name = "SBN-02483"
 [meta]
 bill_number = 2483
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2483", "https://web.senate.gov.ph/lisdata/2017317283!.pdf",]
 title = "MAGNA CARTA FOR PERSONS WITH DISABILITY, AMENDMENTS RE VAT EXEMPTION"
 date_filed = "2014-12-03"
 long_title = "AN ACT EXEMPTING PERSONS WITH DISABILITY FROM THE VALUE-ADDED TAX ON CERTAIN GOODS AND SERVICES, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 7277, AS AMENDED, OTHERWISE KNOWN AS THE 'MAGNA CARTA FOR PERSONS WITH DISABILITY'"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Persons with Disability (R.A.No. 7277)", "Value-Ad
 authors_raw = "Recto, Ralph G., Villar, Cynthia A."
 author_codes = ["RRALP", "VCYNT"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2017317283!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2483"
 
 [[history]]
 date = "2014-12-03"

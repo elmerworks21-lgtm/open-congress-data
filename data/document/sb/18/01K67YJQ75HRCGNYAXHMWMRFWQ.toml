@@ -6,7 +6,6 @@ name = "SBN-01216"
 [meta]
 bill_number = 1216
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1216", "https://web.senate.gov.ph/lisdata/3197528823!.pdf",]
 title = "NATIONAL HIGHER EDUCATION DAY"
 date_filed = "2019-12-09"
 long_title = "AN ACT DECLARING MAY 18 OF EVERY YEAR AS THE NATIONAL HIGHER EDUCATION DAY"
@@ -15,6 +14,8 @@ subjects = [ "National Higher Education Day",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3197528823!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1216"
 
 [[history]]
 date = "2019-12-09"

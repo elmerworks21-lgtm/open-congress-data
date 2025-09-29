@@ -6,7 +6,6 @@ name = "SBN-01279"
 [meta]
 bill_number = 1279
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1279", "https://web.senate.gov.ph/lisdata/55764882!.pdf",]
 title = "TIME FOR SCHOOLS ACT"
 date_filed = "2007-07-18"
 long_title = "AN ACT TO ALLOW EMPLOYEES TO TAKE SCHOOL INVOLVEMENT LEAVE TO PARTICIPATE IN THE ACADEMIC SCHOOL ACTIVITIES OF THEIR CHILDREN OR TO PARTICIPATE IN LITERACY TRAINING"
@@ -15,6 +14,8 @@ subjects = [ "School Involvement Leave",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55764882!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1279"
 
 [[history]]
 date = "2007-07-04"

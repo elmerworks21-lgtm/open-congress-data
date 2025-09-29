@@ -6,7 +6,6 @@ name = "SBN-02309"
 [meta]
 bill_number = 2309
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2309", "https://web.senate.gov.ph/lisdata/3532032211!.pdf",]
 title = "BARANGAY TULALIAN, STO. TOMAS, DAVAO DEL NORTE"
 date_filed = "2021-07-05"
 long_title = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY TULALIAN IN THE MUNICIPALITY OF STO. TOMAS, PROVINCE OF DAVAO DEL NORTE"
@@ -15,6 +14,8 @@ subjects = [ "Barangay, Creation",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3532032211!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2309"
 
 [[history]]
 date = "2021-07-05"

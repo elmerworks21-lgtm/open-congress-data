@@ -6,7 +6,6 @@ name = "SBN-00401"
 [meta]
 bill_number = 401
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-401", "https://web.senate.gov.ph/lisdata/4689342899!.pdf",]
 title = "PHILIPPINE BUILDING ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT REGULATING THE PLANNING, MATERIALS, DESIGN, CONSTRUCTION, OCCUPANCY, MAINTENANCE, MODIFICATION, AND ABATEMENT OF BUILDINGS, PROMOTING BUILDING RESILIENCE AGAINST EARTHQUAKE, FIRE, FLOOD, LANDSLIDE, STORM, VOLCANIC ERUPTION, AND MULTIPLE HAZARDS WITHIN AN ALL-HAZARDS APPROACH TO RESILIENCE BUILDING, ENACTING A NEW PHILIPPINE BUILDING ACT, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 6541, 'AN ACT TO ORDAIN AND INSTITUTE A NATIONAL BUILDING CODE OF THE PHILIPPINES', AND PRESIDENTIAL DECREE NO. 1096, OTHERWISE KNOWN AS THE 'NATIONAL BUILDING CODE OF THE PHILIPPINES'"
@@ -15,6 +14,8 @@ subjects = [ "Building Code of the Philippines (R.A.No. 6541)", "National Buildi
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4689342899!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-401"
 
 [[history]]
 date = "2025-07-10"

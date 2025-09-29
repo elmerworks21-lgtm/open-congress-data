@@ -6,7 +6,6 @@ name = "SBN-02318"
 [meta]
 bill_number = 2318
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2318", "https://web.senate.gov.ph/lisdata/1953316653!.pdf",]
 title = "ANTI NO-PERMIT,NO-EXAM ACT OF 2014"
 date_filed = "2014-07-21"
 long_title = "AN ACT PENALIZING THE IMPOSITION OF 'NO PERMIT, NO EXAM' POLICY THAT PROHIBITS STUDENTS OF POST-SECONDARY AND HIGHER EDUCATION FROM TAKING THEIR MIDTERM OR FINAL EXAMINATIONS DUE TO UNPAID TUITION AND OTHER SCHOOL FEES"
@@ -15,6 +14,8 @@ subjects = [ "Tuition Fees", "Students",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1953316653!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2318"
 
 [[history]]
 date = "2014-07-21"

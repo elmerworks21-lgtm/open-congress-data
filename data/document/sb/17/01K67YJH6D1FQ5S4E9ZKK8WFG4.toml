@@ -6,7 +6,6 @@ name = "SBN-00091"
 [meta]
 bill_number = 91
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-91", "https://web.senate.gov.ph/lisdata/2350420107!.pdf",]
 title = "SOCIAL SECURITY ACT OF 1997"
 date_filed = "2016-06-30"
 long_title = "AN ACT MANDATING A TWO THOUSAND PESO (P2,000.00) ACROSS-THE-BOARD INCREASE IN THE MONTHLY PENSION WITH CORRESPONDING ADJUSTMENT OF THE MINIMUM MONTHLY PENSION UNDER THE SOCIAL SECURITY SYSTEM, AMENDING FOR THE PURPOSE SECTION 12 OF REPUBLIC ACT NO. 1161, AS AMENDED, OTHERWISE KNOWN AS THE SOCIAL SECURITY ACT OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "Social Security System (SSS)", "Pension", "Social Security Law (RA
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2350420107!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-91"
 
 [[history]]
 date = "2016-06-30"

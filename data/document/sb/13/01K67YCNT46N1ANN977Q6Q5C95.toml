@@ -6,7 +6,6 @@ name = "SBN-00800"
 [meta]
 bill_number = 800
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-800", "https://web.senate.gov.ph/lisdata/19901439!.pdf",]
 title = "PROHIBITING PYRAMID SALES SCHEME"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 7394 OTHERWISE KNOWN AS THE CONSUMER ACT OF THE PHILIPPINES, PROHIBITING PYRAMID SALES SCHEME, PROVIDING HIGHER PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pyramid Sales Scheme (Prohibiting)", "Consumer Act of the Phil. (R
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19901439!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-800"
 
 [[history]]
 date = "2004-06-30"

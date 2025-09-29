@@ -6,7 +6,6 @@ name = "SBN-00319"
 [meta]
 bill_number = 319
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-319", "https://web.senate.gov.ph/lisdata/1476771!.pdf",]
 title = "ANTI-ABORTIVE DRUGS AND DEVICES ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT REGULATING THE USE, PRODUCTION, SALE, DISTRIBUTION OR DISPENSATION OF ABORTIVE DRUGS AND PROHIBITING THE USE, PRODUCTION, SALE, DISTRIBUTION OR DISPENSATION OF ABORTIVE DEVICES, DEFINING THE SAME, PROVIDING PENALTIES THEREFOR AND AMENDING FOR THE PURPOSE THE REVISED PENAL CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Abortive Drugs and Devices Act", "Abortion (Abortive Devices)
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1476771!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-319"
 
 [[history]]
 date = "2004-06-30"

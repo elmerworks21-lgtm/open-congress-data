@@ -6,7 +6,6 @@ name = "SBN-01096"
 [meta]
 bill_number = 1096
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1096", "https://web.senate.gov.ph/lisdata/3166528510!.pdf",]
 title = "BARANGAY OFFICIALS AND WORKERS BENEFITS ACT"
 date_filed = "2019-10-02"
 long_title = "AN ACT PROVIDING SOCIAL SECURITY AND NON-MONETARY BENEFITS TO ALL BARANGAY OFFICIALS, WORKERS AND VOLUNTEERS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Officials", "Barangay Civilian Volunteers", "Government S
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3166528510!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1096"
 
 [[history]]
 date = "2019-10-02"

@@ -6,7 +6,6 @@ name = "SBN-00150"
 [meta]
 bill_number = 150
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-150", "https://web.senate.gov.ph/lisdata/76326400!.pdf",]
 title = "CRIMINAL PENALTIES AGAINST CORRUPTION, R.A. NO. 1379"
 date_filed = "2010-07-06"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 1379, PROVIDING CRIMINAL PENALTIES FOR VIOLATION THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Corruption",]
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76326400!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-150"
 
 [[history]]
 date = "2010-07-06"

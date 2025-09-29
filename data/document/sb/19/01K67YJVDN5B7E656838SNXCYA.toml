@@ -6,7 +6,6 @@ name = "SBN-00810"
 [meta]
 bill_number = 810
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-810", "https://web.senate.gov.ph/lisdata/3854234995!.pdf",]
 title = "KABISERA 2030"
 date_filed = "2022-07-25"
 long_title = "AN ACT TRANSFERRING THE PERMANENT SEAT OF THE NATIONAL GOVERNMENT TO NEW CLARK CITY, PAMPANGA, CREATING A TRANSITORY COMMISSION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Seat of Government",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3854234995!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-810"
 
 [[history]]
 date = "2022-07-25"

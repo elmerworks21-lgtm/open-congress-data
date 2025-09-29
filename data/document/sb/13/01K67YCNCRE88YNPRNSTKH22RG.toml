@@ -6,7 +6,6 @@ name = "SBN-00057"
 [meta]
 bill_number = 57
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-57", "https://web.senate.gov.ph/lisdata/1186646!.pdf",]
 title = "COMPREHENSIVE TUBERCULOSIS ELIMINATION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A NATIONAL PLAN FOR TUBERCULOSIS PREVENTION, TREATMENT AND CONTROL AND PROVIDING RELIABLE DRUGS SUPPLY AND FREE LABORATORY MONITORING SERVICE TO TB PATIENTS"
@@ -15,6 +14,8 @@ subjects = [ "Tuberculosis Prevention", "Treatment",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P., Angara, Edgardo J."
 author_codes = ["AEDGA", "ELUIS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1186646!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-57"
 
 [[history]]
 date = "2004-06-30"

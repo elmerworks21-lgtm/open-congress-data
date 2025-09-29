@@ -6,7 +6,6 @@ name = "SBN-01777"
 [meta]
 bill_number = 1777
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1777", "https://web.senate.gov.ph/lisdata/3334330180!.pdf",]
 title = "ANTI-CORONAVIRUS2019 (COVID-19) DISCRIMINATION ACT"
 date_filed = "2020-08-19"
 long_title = "AN ACT PROHIBITING DISCRIMINATION AGAINST HEALTHCARE WORKERS, FRONTLINERS, AND PERSONS SUSPECTED OR INFECTED OF COVID-19, PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination", "Healthcare Workers", "Covid-19",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3334330180!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1777"
 
 [[history]]
 date = "2020-08-19"

@@ -6,7 +6,6 @@ name = "SBN-01710"
 [meta]
 bill_number = 1710
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1710", "https://web.senate.gov.ph/lisdata/2742423663!.pdf",]
 title = "CONSECUTIVE TERM-LIMIT RATIONALIZATION ACT"
 date_filed = "2018-02-26"
 long_title = "AN ACT RATIONALIZING THE ENFORCEMENT OF THE TERM LIMITS FOR ELECTED OFFICIALS AS PROVIDED FOR IN THE CONSTITUTION"
@@ -15,6 +14,8 @@ subjects = [ "Term Limits", "Elected Officials",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2742423663!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1710"
 
 [[history]]
 date = "2018-02-26"

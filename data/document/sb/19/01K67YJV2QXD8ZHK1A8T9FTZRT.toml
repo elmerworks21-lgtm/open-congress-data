@@ -6,7 +6,6 @@ name = "SBN-00304"
 [meta]
 bill_number = 304
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-304", "https://web.senate.gov.ph/lisdata/3805834501!.pdf",]
 title = "SUPER HEALTH CENTERS IN ALL CITIES AND MUNICIPALITIES ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING FOR THE CREATION OF SUPER HEALTH CENTERS IN EVERY CITY AND MUNICIPALITY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Centers",]
 authors_raw = "Cayetano, Alan Peter S."
 author_codes = ["CALAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3805834501!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-304"
 
 [[history]]
 date = "2022-07-12"

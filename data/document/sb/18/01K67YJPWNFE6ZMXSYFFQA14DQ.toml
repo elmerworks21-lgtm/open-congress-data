@@ -6,7 +6,6 @@ name = "SBN-00745"
 [meta]
 bill_number = 745
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-745", "https://web.senate.gov.ph/lisdata/3109727995!.pdf",]
 title = "PARKING FEES REGULATION ACT"
 date_filed = "2019-07-24"
 long_title = "AN ACT REGULATING THE IMPOSITION OF FEES FOR THE USE OF PARKING SPACES AND FACILITIES IN SHOPPING MALLS, HOSPITALS, SCHOOLS AND SIMILAR ESTABLISHMENTS, INCLUDING VACANT LOTS USED EXCLUSIVELY FOR PARKING AND PRESCRIBING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Parking Space",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3109727995!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-745"
 
 [[history]]
 date = "2019-07-24"

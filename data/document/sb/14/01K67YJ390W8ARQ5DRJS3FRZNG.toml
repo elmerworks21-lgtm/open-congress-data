@@ -6,7 +6,6 @@ name = "SBN-03409"
 [meta]
 bill_number = 3409
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3409", "https://web.senate.gov.ph/lisdata/1228110799!.pdf",]
 title = "ELECTRONIC EQUIPMENT DISPOSAL"
 date_filed = "2009-08-25"
 long_title = "AN ACT PROHIBITING THE DISPOSAL OF ELECTRONIC EQUIPMENT AT SOLID WASTE MANAGEMENT FACILITIES"
@@ -15,6 +14,8 @@ subjects = [ "Solid Waste Management",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1228110799!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3409"
 
 [[history]]
 date = "2009-08-25"

@@ -6,7 +6,6 @@ name = "SBN-02042"
 [meta]
 bill_number = 2042
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2042", "https://web.senate.gov.ph/lisdata/4133837668!.pdf",]
 title = "ANTI-SCALAWAG ACT"
 date_filed = "2023-03-22"
 long_title = "AN ACT IMPOSING DEATH PENALTY ON THE HEINOUS CRIME OF SECURITY PERSONNEL ENGAGED TO COMMIT MURDER, AND PROVIDING PENALTIES FOR ANY PERSON WHO RECRUIT, MAINTAIN, USE, AID, FUND, OR TRAIN SECURITY PERSONNEL TO COMMIT MURDER, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Scalawag", "Heinous Crimes", "Death Penalty",]
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4133837668!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2042"
 
 [[history]]
 date = "2023-03-22"

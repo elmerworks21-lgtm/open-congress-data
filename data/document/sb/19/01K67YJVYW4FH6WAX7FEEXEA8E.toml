@@ -6,7 +6,6 @@ name = "SBN-01545"
 [meta]
 bill_number = 1545
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1545", "https://web.senate.gov.ph/lisdata/4001836442!.pdf",]
 title = "SANITARY LEAVE ACT"
 date_filed = "2022-11-23"
 long_title = "AN ACT GRANTING SANITARY LEAVE OF ONE (1) DAY A MONTH WITH ONE HUNDRED PERCENT DAILY REMUNERATION TO ALL FEMALE EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Leave of Absence", "Sanitary Leave",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4001836442!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1545"
 
 [[history]]
 date = "2022-11-23"

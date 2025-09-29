@@ -6,7 +6,6 @@ name = "SBN-01814"
 [meta]
 bill_number = 1814
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1814", "https://web.senate.gov.ph/lisdata/1801415247!.pdf",]
 title = "TRAVELING SALES CREWS PROTECTION ACT"
 date_filed = "2013-10-03"
 long_title = "AN ACT PROTECTING TRAVELING SALES CREW EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Traveling Sales Crews",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1801415247!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1814"
 
 [[history]]
 date = "2013-10-03"

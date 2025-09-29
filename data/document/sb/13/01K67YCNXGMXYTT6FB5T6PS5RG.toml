@@ -6,7 +6,6 @@ name = "SBN-00984"
 [meta]
 bill_number = 984
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-984", "https://web.senate.gov.ph/lisdata/21881716!.pdf",]
 title = "PENALIZING DELINQUENT PARENTS (ABANDONING A MINOR)"
 date_filed = "2004-06-30"
 long_title = "AN ACT STRENGTHENING THE PENAL PROVISIONS WITH RESPECT TO DELINQUENT PARENTS, AMENDING FOR THE PURPOSE ARTICLES 276, 277, AND 278 OF THE REVISED PENAL CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Delinquent Parents", "Abandonment of Minor",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21881716!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-984"
 
 [[history]]
 date = "2004-06-30"

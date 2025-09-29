@@ -6,7 +6,6 @@ name = "SBN-02073"
 [meta]
 bill_number = 2073
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2073", "https://web.senate.gov.ph/lisdata/68716088!.pdf",]
 title = "GENETICALLY ENGINEERED FOOD RIGHT TO KNOW ACT OF 2008"
 date_filed = "2008-02-12"
 long_title = "AN ACT TO ESTABLISH A COMPREHENSIVE PROGRAM TO ENSURE COMPULSORY LABELLING AND FAIR PACKAGING OF GENETICALLY ENGINEERED FOOD"
@@ -15,6 +14,8 @@ subjects = [ "Genetically Engineered Food", "Genetically Modified Organism (GMO)
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/68716088!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2073"
 
 [[history]]
 date = "2008-02-12"

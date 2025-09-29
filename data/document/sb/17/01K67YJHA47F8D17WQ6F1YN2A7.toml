@@ -6,7 +6,6 @@ name = "SBN-00242"
 [meta]
 bill_number = 242
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-242", "https://web.senate.gov.ph/lisdata/2368120322!.pdf",]
 title = "DEPARTMENT OF FISHERIES ACT"
 date_filed = "2016-07-04"
 long_title = "AN ACT CREATING THE DEPARTMENT OF FISHERIES, PROVIDING FOR ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Fisheries", "Merger/Acquisitions/Transfer", "Nationa
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2368120322!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-242"
 
 [[history]]
 date = "2016-07-04"

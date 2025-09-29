@@ -6,7 +6,6 @@ name = "SBN-02784"
 [meta]
 bill_number = 2784
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2784", "https://web.senate.gov.ph/lisdata/111039467!.pdf",]
 title = "PAYMENT OF ALL RETIREMENT BENEFITS TO ALL GOVERNMENT AND PRIVATE EMPLOYEES"
 date_filed = "2011-03-31"
 long_title = "AN ACT MANDATING THE PAYMENT OF ALL RETIREMENT BENEFITS TO ALL GOVERNMENT AND PRIVATE EMPLOYEES ON THE DATE OF THEIR RETIREMENT"
@@ -15,6 +14,8 @@ subjects = [ "Retirement Pay (Early Release)", "Government Service Insurance Sys
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/111039467!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2784"
 
 [[history]]
 date = "2011-03-31"

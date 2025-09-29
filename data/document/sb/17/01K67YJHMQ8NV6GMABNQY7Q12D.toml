@@ -6,7 +6,6 @@ name = "SBN-00710"
 [meta]
 bill_number = 710
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-710", "https://web.senate.gov.ph/lisdata/2422920843!.pdf",]
 title = "MINIMUM MONTHLY TAKE-HOME PAY BILL"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROVIDING FOR A MINIMUM MONTHLY NET TAKE-HOME PAY FOR ALL GOVERNMENT EMPLOYEES AFTER AUTHORIZED DEDUCTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Government Employees",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2422920843!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-710"
 
 [[history]]
 date = "2016-07-20"

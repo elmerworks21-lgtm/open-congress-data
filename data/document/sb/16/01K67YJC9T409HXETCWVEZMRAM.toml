@@ -6,7 +6,6 @@ name = "SBN-00029"
 [meta]
 bill_number = 29
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-29", "https://web.senate.gov.ph/lisdata/1583713077!.pdf",]
 title = "ANTI-AGE DISCRIMINATION IN EMPLOYMENT ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT PROHIBITING THE DISCRIMINATION ON THE EMPLOYMENT OF ANY INDIVIDUAL ON THE BASIS MERELY OF AGE"
@@ -15,6 +14,8 @@ subjects = [ "Age Discrimination", "Employment Discrimination",]
 authors_raw = "Cayetano, Pia S., Villar, Cynthia A., Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL", "CPIAS", "VCYNT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1583713077!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-29"
 
 [[history]]
 date = "2013-07-01"

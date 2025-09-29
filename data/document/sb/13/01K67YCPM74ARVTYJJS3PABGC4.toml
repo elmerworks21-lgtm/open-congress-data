@@ -6,7 +6,6 @@ name = "SBN-02162"
 [meta]
 bill_number = 2162
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2162", "https://web.senate.gov.ph/lisdata/42153501!.pdf",]
 title = "FREE MEDICAL CARE PROGRAM OF 2005"
 date_filed = "2005-11-16"
 long_title = "AN ACT PROVIDING FOR FREE MEDICAL CARE OTHERWISE KNOWN AS THE FREE MEDICAL CARE PROGRAM OF 2005 AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Medical Care Program", "Regional Medical Care Program (RMCP)",]
 authors_raw = "Lim, Alfredo S."
 author_codes = ["LALFR"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42153501!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2162"
 
 [[history]]
 date = "2005-11-16"

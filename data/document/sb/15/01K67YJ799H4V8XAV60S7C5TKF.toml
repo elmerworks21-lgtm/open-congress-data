@@ -6,7 +6,6 @@ name = "SBN-00100"
 [meta]
 bill_number = 100
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-100", "https://web.senate.gov.ph/lisdata/75696108!.pdf",]
 title = "ENFORCED OR INVOLUNTARY DISAPPEARANCE ACT"
 date_filed = "2010-07-01"
 long_title = "AN ACT DEFINING AND PENALIZING THE CRIME OF ENFORCED OR INVOLUNTARY DISAPPEARANCE"
@@ -15,6 +14,8 @@ subjects = [ "Enforced or Involuntary Disappearance",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75696108!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-100"
 
 [[history]]
 date = "2010-07-01"

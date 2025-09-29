@@ -6,7 +6,6 @@ name = "SBN-00181"
 [meta]
 bill_number = 181
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-181", "https://web.senate.gov.ph/lisdata/2360320240!.pdf",]
 title = "SOCIAL SECURITY LAW, AMENDMENTS"
 date_filed = "2016-06-30"
 long_title = "AN ACT INCREASING PENSIONS AND OTHER BENEFITS UNDER THE SOCIAL SECURITY SYSTEM, AMENDING FOR THE PURPOSE SECTION 12 OF REPUBLIC ACT NO. 1161, AS AMENDED, OTHERWISE KNOWN AS THE SOCIAL SECURITY LAW"
@@ -15,6 +14,8 @@ subjects = [ "Pension", "Social Security Law (RA 1161)", "Social Security System
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2360320240!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-181"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01156"
 [meta]
 bill_number = 1156
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1156", "https://web.senate.gov.ph/lisdata/1720614444!.pdf",]
 title = "MAGNA CARTA FOR YOUTH"
 date_filed = "2013-07-30"
 long_title = "AN ACT RECOGNIZING THE POTENTIALS OF THE FILIPINO YOUTH TOWARD NATION-BUILDING, PRESCRIBING THE FREE EXERCISE OF CERTAIN RIGHTS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Youth",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1720614444!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1156"
 
 [[history]]
 date = "2013-07-30"

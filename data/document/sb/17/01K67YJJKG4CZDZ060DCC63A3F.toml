@@ -6,7 +6,6 @@ name = "SBN-01945"
 [meta]
 bill_number = 1945
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1945", "https://web.senate.gov.ph/lisdata/2838924741!.pdf",]
 title = "AMENDING SECTIONS 386 AND 391 OF R.A. NO. 10607 (INSURANCE CODE)"
 date_filed = "2018-08-15"
 long_title = "AN ACT AMENDING SECTIONS 386 AND 391 OF R.A. NO. 10607, OTHERWISE KNOWN AS THE INSURANCE CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Insurance Code", "Motor Vehicles",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2838924741!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1945"
 
 [[history]]
 date = "2018-08-15"

@@ -6,7 +6,6 @@ name = "SBN-01650"
 [meta]
 bill_number = 1650
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1650", "https://web.senate.gov.ph/lisdata/2713323357!.pdf",]
 title = "MAGNA CARTA OF THE OUT-OF-SCHOOL YOUTH"
 date_filed = "2018-01-16"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF THE OUT-OF-SCHOOL YOUTH"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of the Out-Of-School Youth", "Youth",]
 authors_raw = "Gatchalian, Sherwin T., Villanueva, Joel, Legarda, Loren B., Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["GSHER", "LLORE", "PEMMA", "VEMMA"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2713323357!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1650"
 
 [[history]]
 date = "2018-01-16"

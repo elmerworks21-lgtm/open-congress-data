@@ -6,7 +6,6 @@ name = "SBN-01779"
 [meta]
 bill_number = 1779
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1779", "https://web.senate.gov.ph/lisdata/3334530186!.pdf",]
 title = "REAPPORTIONING THE PROVINCE OF BULACAN"
 date_filed = "2020-08-19"
 long_title = "AN ACT REAPPORTIONING THE PROVINCE OF BULACAN INTO SEVEN REGULAR DISTRICTS"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Legislative Districts",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3334530186!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1779"
 
 [[history]]
 date = "2020-08-19"

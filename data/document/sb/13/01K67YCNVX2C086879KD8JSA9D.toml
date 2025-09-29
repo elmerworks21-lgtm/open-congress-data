@@ -6,7 +6,6 @@ name = "SBN-00901"
 [meta]
 bill_number = 901
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-901", "https://web.senate.gov.ph/lisdata/21041589!.pdf",]
 title = "INCENTIVES FOR PRIVATE SECTOR FOR RENTAL RESIDENTIAL HOUSING"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROVIDE INCENTIVES FOR THE PRIVATE SECTOR TO UNDERTAKE RENTAL RESIDENTIAL HOUSING AT RATES AFFORDABLE BY LOW AND MIDDLE-INCOME FAMILIES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Private Sector (Incentives)", "Rental Residential Housing (Incenti
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21041589!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-901"
 
 [[history]]
 date = "2004-06-30"

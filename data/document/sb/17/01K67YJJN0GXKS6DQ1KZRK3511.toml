@@ -6,7 +6,6 @@ name = "SBN-01995"
 [meta]
 bill_number = 1995
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1995", "https://web.senate.gov.ph/lisdata/2856724976!.pdf",]
 title = "CAMPAIGN REFORMS ACT OF 2018"
 date_filed = "2018-09-11"
 long_title = "AN ACT REFORMING ELECTORAL CAMPAIGN BY INSTITUTING TWO ROUNDS OF ELECTION FOR PRESIDENT, VICE PRESIDENT AND SENATORS, REQUIRING COMELEC-SPONSORED CAMPAIGN ADVERTISEMENT AND TOWN-HALL STYLE DEBATES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Elections/Electoral Reforms", "Advertising/Advertisements", "Campa
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2856724976!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1995"
 
 [[history]]
 date = "2018-09-11"

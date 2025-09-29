@@ -6,7 +6,6 @@ name = "SBN-02454"
 [meta]
 bill_number = 2454
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2454", "https://web.senate.gov.ph/lisdata/59024881!.pdf",]
 title = "PROHIBITED ACTS ON PATIENTS/CADAVERS"
 date_filed = "2006-09-05"
 long_title = "AN ACT PENALIZING HOSPITALS AND FUNERAL PARLORS FOR HOSTAGING PATIENTS OR CADAVERS"
@@ -15,6 +14,8 @@ subjects = [ "Cadavers/Patients Hostaging (Hospitals/Funeral Parlors)", "Patient
 authors_raw = "Lim, Alfredo S."
 author_codes = ["LALFR"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/59024881!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2454"
 
 [[history]]
 date = "2006-09-05"

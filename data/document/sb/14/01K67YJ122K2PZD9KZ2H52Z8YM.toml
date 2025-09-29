@@ -6,7 +6,6 @@ name = "SBN-00484"
 [meta]
 bill_number = 484
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-484", "https://web.senate.gov.ph/lisdata/46914014!.pdf",]
 title = "PUBLIC RESTROOMS CONSTRUCTION"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROVIDING FOR THE CONSTRUCTION OF PUBLIC RESTROOMS"
@@ -15,6 +14,8 @@ subjects = [ "Public Restrooms",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46914014!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-484"
 
 [[history]]
 date = "2007-07-02"

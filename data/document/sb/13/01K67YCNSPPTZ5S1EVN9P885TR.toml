@@ -6,7 +6,6 @@ name = "SBN-00775"
 [meta]
 bill_number = 775
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-775", "https://web.senate.gov.ph/lisdata/19651394!.pdf",]
 title = "PHILIPPINE LEMON LAW"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING PROTECTION AND REMEDIES TO BUYERS OF NEW AND USED MOTOR VEHICLES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Lemon Law", "Motor Vehicles (Buyers of New/Used)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19651394!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-775"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00289"
 [meta]
 bill_number = 289
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-289", "https://web.senate.gov.ph/lisdata/78509853!.pdf",]
 title = "CHIROPRACTIC ACT OF 2010"
 date_filed = "2010-07-06"
 long_title = "AN ACT REGULATING THE PRACTICE OF CHIROPRACTIC CARE IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Chiropractic Act",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78509853!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-289"
 
 [[history]]
 date = "2010-07-06"

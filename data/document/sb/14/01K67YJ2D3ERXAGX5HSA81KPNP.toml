@@ -6,7 +6,6 @@ name = "SBN-02200"
 [meta]
 bill_number = 2200
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2200", "https://web.senate.gov.ph/lisdata/71746404!.pdf",]
 title = "MILITARY VETERANS (STANDARDIZING AND UPGRADING THE BENEFITS)"
 date_filed = "2008-04-28"
 long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 6948, AS AMENDED OTHERWISE KNOWN AS AN ACT STANDARDIZING AND UPGRADING THE BENEFITS FOR MILITARY VETERANS AND THEIR DEPENDENTS"
@@ -15,6 +14,8 @@ subjects = [ "Veterans", "Military Retirees Pensions", "Benefits",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71746404!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2200"
 
 [[history]]
 date = "2008-04-28"

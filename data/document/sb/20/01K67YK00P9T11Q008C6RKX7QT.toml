@@ -6,7 +6,6 @@ name = "SBN-00360"
 [meta]
 bill_number = 360
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-360", "https://web.senate.gov.ph/lisdata/4685142858!.pdf",]
 title = "TREE PLANTING LEGACY OF GRADUATES ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT REQUIRING ALL GRADUATE SENIOR HIGH SCHOOL (SHS) AND COLLEGE LEVEL STUDENTS TO PLANT AT LEAST TWO (2) TREES EACH, AS A CIVIC DUTY FOR ENVIRONMENT PROTECTION AND CLIMATE CHANGE MITIGATION, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tree Planting", "Graduating Students",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4685142858!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-360"
 
 [[history]]
 date = "2025-07-10"

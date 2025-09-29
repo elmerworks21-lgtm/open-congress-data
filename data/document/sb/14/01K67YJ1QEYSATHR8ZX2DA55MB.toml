@@ -6,7 +6,6 @@ name = "SBN-01533"
 [meta]
 bill_number = 1533
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1533", "https://web.senate.gov.ph/lisdata/58445206!.pdf",]
 title = "ANTI-SMUGGLING ACT OF 2007"
 date_filed = "2007-09-04"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 1464, OTHERWISE KNOWN AS THE TARIFF AND CUSTOMS CODE OF THE PHILIPPINES, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Smuggling", "Presidential Decrees (P.D.No. 1464)", "Tariff an
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58445206!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1533"
 
 [[history]]
 date = "2007-09-04"

@@ -6,7 +6,6 @@ name = "SBN-00833"
 [meta]
 bill_number = 833
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-833", "https://web.senate.gov.ph/lisdata/3862835081!.pdf",]
 title = "INTERNATIONAL DISASTER RELIEF AND INITIAL RECOVERY ASSISTANCE ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT FACILITATING AND REGULATING INTERNATIONAL DISASTER RELIEF AND INITIAL RECOVERY ASSISTANCE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Disaster Relief", "Non-Government Organizations (NGO)", "National 
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3862835081!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-833"
 
 [[history]]
 date = "2022-07-25"

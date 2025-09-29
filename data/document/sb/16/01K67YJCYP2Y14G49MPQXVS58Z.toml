@@ -6,7 +6,6 @@ name = "SBN-01036"
 [meta]
 bill_number = 1036
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1036", "https://web.senate.gov.ph/lisdata/1707014285!.pdf",]
 title = "USE OF SEWEGE SLUDGE FERTILIZER IN FOOD AWARENESS ACT"
 date_filed = "2013-07-22"
 long_title = "AN ACT REQUIRING THE PROPER LABELING OF FOOD PRODUCED FROM THE USE OF FERTILIZER MADE FROM RECYCLED SEWAGE SLUDGE"
@@ -15,6 +14,8 @@ subjects = [ "Fertilizer", "Food Products Label",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1707014285!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1036"
 
 [[history]]
 date = "2013-07-22"

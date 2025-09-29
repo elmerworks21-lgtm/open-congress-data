@@ -6,7 +6,6 @@ name = "SBN-02323"
 [meta]
 bill_number = 2323
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2323", "https://web.senate.gov.ph/lisdata/1954316661!.pdf",]
 title = "SAVED BY THE BELL ACT"
 date_filed = "2014-07-24"
 long_title = "AN ACT ESTABLISHING A CENTER FOR THE RESEARCH AND DEVELOPMENT OF STRATEGIES ON CAMPUS SAFETY"
@@ -15,6 +14,8 @@ subjects = [ "Campus Safety",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1954316661!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2323"
 
 [[history]]
 date = "2014-07-24"

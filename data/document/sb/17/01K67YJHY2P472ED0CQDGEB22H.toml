@@ -6,7 +6,6 @@ name = "SBN-01134"
 [meta]
 bill_number = 1134
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1134", "https://web.senate.gov.ph/lisdata/2480021362!.pdf",]
 title = "NATIONAL EMERGENCY AGAINST DRUGS AND TERRORISM ACT OF 2016"
 date_filed = "2016-09-13"
 long_title = "AN ACT DECLARING A NATIONAL EMERGENCY AGAINST ILLEGAL DRUGS AND TERRORISM AND ESTABLISHING A NATIONAL POLICY TO AUTHORIZE THE PRESIDENT, IN ACCORDANCE WITH THE CONSTITUTION, TO EXERCISE NECESSARY AND PROPER POWERS TO ADDRESS SUCH EMERGENCY"
@@ -15,6 +14,8 @@ subjects = [ "Emergency Powers", "Illegal Drugs", "Terrorism",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2480021362!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1134"
 
 [[history]]
 date = "2016-09-13"

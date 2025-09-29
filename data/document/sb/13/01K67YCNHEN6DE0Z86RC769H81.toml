@@ -6,7 +6,6 @@ name = "SBN-00310"
 [meta]
 bill_number = 310
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-310", "https://web.senate.gov.ph/lisdata/1467762!.pdf",]
 title = "NOTICE OF PHASE-OUT OR CLOSURE (EDUCATIONAL INSTITUTIONS)"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING ALL EDUCATIONAL INSTITUTIONS TO GIVE PROPER NOTICE OF THEIR INTENDED CLOSURE OR PHASE-OUT TO THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS, STUDENT BODY, AND ALL EMPLOYEES AFFECTED THEREBY, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Educational Inst. (Closure/Phase-Out)", "Dept. of Education (DepEd
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1467762!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-310"
 
 [[history]]
 date = "2004-06-30"

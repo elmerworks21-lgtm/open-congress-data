@@ -6,7 +6,6 @@ name = "SBN-00342"
 [meta]
 bill_number = 342
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-342", "https://web.senate.gov.ph/lisdata/44423845!.pdf",]
 title = "TAX EXEMPTION FROM REAL PROPERTY TAX THE TREES/LAND IMPROVEMENTS"
 date_filed = "2007-07-02"
 long_title = "AN ACT EXEMPTING FROM REAL PROPERTY TAX THE TREES AND OTHER IMPROVEMENTS ON LANDS COVERED BY CERTIFICATES OF STEWARDSHIP CONTRACTS UNDER THE INTEGRATED SOCIAL FORESTRY PROGRAM”"
@@ -15,6 +14,8 @@ subjects = [ "Real Property Tax Exemption", "Integrated Social Forestry Program"
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44423845!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-342"
 
 [[history]]
 date = "2007-07-02"

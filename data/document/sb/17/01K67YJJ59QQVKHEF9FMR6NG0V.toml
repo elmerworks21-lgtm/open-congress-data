@@ -6,7 +6,6 @@ name = "SBN-01402"
 [meta]
 bill_number = 1402
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1402", "https://web.senate.gov.ph/lisdata/2577422144!.pdf",]
 title = "MAGNA CARTA OF PATIENT'S RIGHTS AND OBLIGATIONS ACT OF 2017"
 date_filed = "2017-03-16"
 long_title = "AN ACT PROCLAIMING THE RIGHTS AND OBLIGATIONS OF PATIENTS, PROVIDING A GRIEVANCE MECHANISM THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Patients Rights and Obligations", "Patients",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2577422144!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1402"
 
 [[history]]
 date = "2017-03-16"

@@ -6,7 +6,6 @@ name = "SBN-00320"
 [meta]
 bill_number = 320
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-320", "https://web.senate.gov.ph/lisdata/3060227461!.pdf",]
 title = "PUBLIC SCHOOL AND STATE UNIVERSITY AND COLLEGE MODERNIZATION ACT OF 2019"
 date_filed = "2019-07-10"
 long_title = "AN ACT TO MODERNIZE ALL PUBLIC SCHOOLS AND STATE COLLEGES AND UNIVERSITIES IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "State Colleges and Universities (SCUS)",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3060227461!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-320"
 
 [[history]]
 date = "2019-07-10"

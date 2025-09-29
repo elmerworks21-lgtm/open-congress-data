@@ -6,7 +6,6 @@ name = "SBN-00725"
 [meta]
 bill_number = 725
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-725", "https://web.senate.gov.ph/lisdata/1663113869!.pdf",]
 title = "MICROBICIDES DEVELOPMENT ACT"
 date_filed = "2013-07-15"
 long_title = "AN ACT TO FACILITATE THE DEVELOPMENT OF MICROBICIDES TO PREVENT SEXUALLY TRANSMITTED DISEASES"
@@ -15,6 +14,8 @@ subjects = [ "Microbicides", "Sexually Transmitted Disease (STD)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1663113869!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-725"
 
 [[history]]
 date = "2013-07-15"

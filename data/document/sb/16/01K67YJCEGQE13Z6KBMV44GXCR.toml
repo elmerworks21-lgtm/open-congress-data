@@ -6,7 +6,6 @@ name = "SBN-00253"
 [meta]
 bill_number = 253
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-253", "https://web.senate.gov.ph/lisdata/1611313340!.pdf",]
 title = "JOBS ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT PROMOTING JOB GENERATION BY PROVIDING ADDITIONAL INCENTIVES TO MICRO, SMALL AND MEDIUM ENTERPRISES"
@@ -15,6 +14,8 @@ subjects = [ "Micro, Small and Medium Enterprises", "Jobs",]
 authors_raw = "Recto, Ralph G., Villar, Cynthia A."
 author_codes = ["RRALP", "VCYNT"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1611313340!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-253"
 
 [[history]]
 date = "2013-07-01"

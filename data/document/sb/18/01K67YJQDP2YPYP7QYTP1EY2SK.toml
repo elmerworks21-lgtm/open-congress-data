@@ -6,7 +6,6 @@ name = "SBN-01483"
 [meta]
 bill_number = 1483
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1483", "https://web.senate.gov.ph/lisdata/3267329542!.pdf",]
 title = "AMENDING R.A. NO. 1379 (DECLARING FORFEITURE IN FAVOUR OF THE STATE)"
 date_filed = "2020-05-04"
 long_title = "AN ACT STRENGTHENING THE FORFEITURE POWERS OF THE STATE, AMENDING FOR THE PURPOSE CERTAIN PROVISIONS OF REPUBLIC ACT NO. 1379, OTHERWISE KNOWN AS ‘AN ACT DECLARING FORFEITURE IN FAVOUR OF THE STATE ANY PROPERTY FOUND TO HAVE BEEN UNLAWFULLY ACQUIRED BY ANY PUBLIC OFFICER OR EMPLOYEE AND PROVIDING THE PROCEEDINGS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Ill-Gotten Wealth", "Government Employees", "Forfeiture Law (R.A.N
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3267329542!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1483"
 
 [[history]]
 date = "2020-05-04"

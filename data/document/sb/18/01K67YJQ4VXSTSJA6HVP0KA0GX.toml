@@ -6,7 +6,6 @@ name = "SBN-01116"
 [meta]
 bill_number = 1116
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1116", "https://web.senate.gov.ph/lisdata/3170228552!.pdf",]
 title = "GRANTING CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES"
 date_filed = "2019-10-14"
 long_title = "AN ACT GRANTING CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES, UNDER CERTAIN CONDITIONS, WHOSE STATUS OF APPOINTMENT IS EITHER CASUAL OR CONTRACTUAL, AND WHO HAVE CONTINUOUSLY RENDERED A TOTAL OF TEN (10) YEARS OF EEFICIENT SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Government Employees (Casual/Contractual)", "Civil Service Eligibi
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3170228552!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1116"
 
 [[history]]
 date = "2019-10-14"

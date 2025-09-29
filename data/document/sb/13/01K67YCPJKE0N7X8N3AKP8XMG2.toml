@@ -6,7 +6,6 @@ name = "SBN-02081"
 [meta]
 bill_number = 2081
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2081", "https://web.senate.gov.ph/lisdata/37543298!.pdf",]
 title = "PHILIPPINE COAST GUARD ACT 0F 2005"
 date_filed = "2005-08-17"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE COAST GUARD AS AN ATTACHED AGENCY TO THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS, FURTHER AMENDING REPUBLIC ACT NO. 5173 AND PD 601, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Coast Guard Act",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/37543298!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2081"
 
 [[history]]
 date = "2005-08-17"

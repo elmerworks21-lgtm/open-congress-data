@@ -6,7 +6,6 @@ name = "SBN-00644"
 [meta]
 bill_number = 644
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-644", "https://web.senate.gov.ph/lisdata/48554230!.pdf",]
 title = "CONGRESS TO DECLARE A PRES./VICE-PRES. EVEN IF FAILURE OF ELECTION IS DECLARED IN SOME PLACE"
 date_filed = "2007-07-03"
 long_title = "AN ACT AMENDING B.P. 881, ALSO KNOWN AS THE OMNIBUS ELECTION CODE, SECTION 6, ON FAILURE OF ELECTION"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "President/Vice-
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48554230!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-644"
 
 [[history]]
 date = "2007-07-03"

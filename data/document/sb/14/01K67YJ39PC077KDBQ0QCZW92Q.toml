@@ -6,7 +6,6 @@ name = "SBN-03437"
 [meta]
 bill_number = 3437
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3437", "https://web.senate.gov.ph/lisdata/1244211112!.pdf",]
 title = "MERCURY AMALGAM FILLINGS"
 date_filed = "2009-09-14"
 long_title = "AN ACT BANNING THE USE OF MERCURY AMALGAM FILLINGS"
@@ -15,6 +14,8 @@ subjects = [ "Mercury",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1244211112!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3437"
 
 [[history]]
 date = "2009-09-14"

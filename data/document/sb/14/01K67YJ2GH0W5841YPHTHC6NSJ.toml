@@ -6,7 +6,6 @@ name = "SBN-02356"
 [meta]
 bill_number = 2356
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2356", "https://web.senate.gov.ph/lisdata/75336775!.pdf",]
 title = "LAW ENFORCERS TO TESTIFY AS A WITNESS IN CRIMINAL PROCEEDINGS"
 date_filed = "2008-06-02"
 long_title = "AN ACT PENALIZING ANY MEMBER OF LAW ENFORCEMENT AGENCIES, OR ANY OTHER GOVERNMENT OFFICIAL OR EMPLOYEE WHO FAILS OR REFUSES TO TESTIFY AS A WITNESS IN ANY CRIMINAL PROCEEDINGS"
@@ -15,6 +14,8 @@ subjects = [ "Witness", "Criminal Cases (Testimony)",]
 authors_raw = "Defensor Santiago, Miriam, Ejercito-Estrada, Jinggoy P., Escudero, Francis \"Chiz\" G., Lapid, Manuel \"Lito\" M."
 author_codes = ["EFRAN", "EJING", "LMANU", "SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75336775!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2356"
 
 [[history]]
 date = "2008-06-02"

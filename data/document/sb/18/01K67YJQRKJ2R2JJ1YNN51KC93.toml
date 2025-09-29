@@ -6,7 +6,6 @@ name = "SBN-01944"
 [meta]
 bill_number = 1944
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1944", "https://web.senate.gov.ph/lisdata/3411230929!.pdf",]
 title = "SCIENCE AND TECHNOLOGY PARKS ACT OF 2020"
 date_filed = "2020-12-09"
 long_title = "AN ACT TO ESTABLISH GUIDELINES AND INCENTIVES FOR THE DEVELOPMENT OF SCIENCE AND TECHNOLOGY PARKS (STPS) IN THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Science and Technology", "Parks",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3411230929!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1944"
 
 [[history]]
 date = "2020-12-09"

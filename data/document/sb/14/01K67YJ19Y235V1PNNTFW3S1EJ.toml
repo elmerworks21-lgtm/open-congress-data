@@ -6,7 +6,6 @@ name = "SBN-00874"
 [meta]
 bill_number = 874
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-874", "https://web.senate.gov.ph/lisdata/51274495!.pdf",]
 title = "DNA ANALYSIS ENHANCEMENT ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT INSTITUTING REFORMS IN THE CRIMINAL JUSTICE SYSTEM BY ENHANCING DNA TECHNOLOGY ANALYSIS AS A POTENT INVESTIGATIVE TOOL, CREATING THE DNA ADVISORY BOARD UNDER THE NATIONAL BUREAU OF INVESTIGATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Dna Analysis Enhancement", "National Bureau of Investigations (NBI
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51274495!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-874"
 
 [[history]]
 date = "2007-07-03"

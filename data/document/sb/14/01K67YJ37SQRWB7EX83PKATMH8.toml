@@ -6,7 +6,6 @@ name = "SBN-03367"
 [meta]
 bill_number = 3367
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3367", "https://web.senate.gov.ph/lisdata/1200010557!.pdf",]
 title = "ENFORCED OR INVOLUNTARY DISAPPEARANCE ACT OF 2009"
 date_filed = "2009-07-30"
 long_title = "AN ACT DEFINING AND PENALIZING THE CRIME OF ENFORCED OR INVOLUNTARY DISAPPEARANCE"
@@ -15,6 +14,8 @@ subjects = [ "Involuntary Disappearance", "Enforced Disappearance",]
 authors_raw = "Pangilinan, Francis N., Escudero, Francis \"Chiz\" G., Madrigal, M. A., Defensor Santiago, Miriam, Villar, Manny, Pimentel Jr., Aquilino Q., Angara, Edgardo J."
 author_codes = ["AEDGA", "EFRAN", "MJAMB", "PAQUI", "PFRAN", "SMIRI", "VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1200010557!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3367"
 
 [[history]]
 date = "2009-07-30"

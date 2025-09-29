@@ -6,7 +6,6 @@ name = "SBN-00816"
 [meta]
 bill_number = 816
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-816", "https://web.senate.gov.ph/lisdata/2435720974!.pdf",]
 title = "FREE PUBLIC WI-FI ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT PROVIDING FREE WI-FI INTERNET ACCESS IN PUBLIC BUILDINGS, TRANSPORT TERMINALS AND PARKS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Wi-Fi Internet Access",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2435720974!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-816"
 
 [[history]]
 date = "2016-07-21"

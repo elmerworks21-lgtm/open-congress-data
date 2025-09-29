@@ -6,7 +6,6 @@ name = "SBN-02001"
 [meta]
 bill_number = 2001
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2001", "https://web.senate.gov.ph/lisdata/3429131091!.pdf",]
 title = "PHILIPPINE NATIONAL GAMES ACT"
 date_filed = "2021-01-20"
 long_title = "AN ACT INSTITUTIONALIZING THE PHILIPPINE NATIONAL GAMES AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine National Games",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3429131091!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2001"
 
 [[history]]
 date = "2021-01-20"

@@ -6,7 +6,6 @@ name = "SBN-01682"
 [meta]
 bill_number = 1682
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1682", "https://web.senate.gov.ph/lisdata/3318330024!.pdf",]
 title = "BANGKO SA BARYO ACT OF 2020"
 date_filed = "2020-07-13"
 long_title = "AN ACT ENABLING BANKS TO EXPAND SERVICE DELIVERY CHANNELS THROUGH CASH AGENTS AND PROVIDING GUIDELINES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Bangko Sa Baryo",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3318330024!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1682"
 
 [[history]]
 date = "2020-07-13"

@@ -6,7 +6,6 @@ name = "SBN-01316"
 [meta]
 bill_number = 1316
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1316", "https://web.senate.gov.ph/lisdata/3940435811!.pdf",]
 title = "PHILIPPINE HEALTH SECURITY AND EMERGENCY ACT"
 date_filed = "2022-09-14"
 long_title = "AN ACT STRENGTHENING PHILIPPINE HEALTH SECURITY AND EMERGENCY PREPAREDNESS, READINESS AND RESPONSE AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine Health Security", "Health Care Delivery System",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3940435811!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1316"
 
 [[history]]
 date = "2022-09-14"

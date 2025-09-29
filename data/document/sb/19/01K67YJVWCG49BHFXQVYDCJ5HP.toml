@@ -6,7 +6,6 @@ name = "SBN-01447"
 [meta]
 bill_number = 1447
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1447", "https://web.senate.gov.ph/lisdata/3976536273!.pdf",]
 title = "THE PHILIPPINE NURSING PRACTICE ACT OF 2022"
 date_filed = "2022-11-03"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE NURSING LAW TOWARDS A QUALITY HEALTH CARE SYSTEM, AND APPROPRIATING FUNDS THEREFOR, REPEALING REPUBLIC ACT NO. 9173 (PHILIPPINE NURSING ACT OF 2022)"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Nursing Act",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3976536273!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1447"
 
 [[history]]
 date = "2022-11-03"

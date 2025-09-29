@@ -6,7 +6,6 @@ name = "SBN-00174"
 [meta]
 bill_number = 174
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-174", "https://web.senate.gov.ph/lisdata/75226073!.pdf",]
 title = "MARITIME SAFETY ACT OF 2010"
 date_filed = "2010-07-06"
 long_title = "AN ACT TO RESTORE THE PHILIPPINE COAST GUARD (PCG) OF ITS AUTHORITY AND RESPONSIBILITY TO PERFORM SHIP SAFETY INSPECTION SERVICES AND CARRY OUT OTHER SHIP SAFETY ENFORCEMENT FUNCTIONS, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9993, PROVIDING PENALTIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Maritime Safety", "Philippine Coast Guard",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75226073!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-174"
 
 [[history]]
 date = "2010-07-06"

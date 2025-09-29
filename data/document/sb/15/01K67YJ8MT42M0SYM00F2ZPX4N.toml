@@ -6,7 +6,6 @@ name = "SBN-02242"
 [meta]
 bill_number = 2242
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2242", "https://web.senate.gov.ph/lisdata/99088393!.pdf",]
 title = "VISION CARE FOR KIDS ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT ESTABLISHING A GRANT PROGRAM TO PROVIDE VISION CARE TO CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Vision Care", "Child Care Laws",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99088393!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2242"
 
 [[history]]
 date = "2010-08-02"

@@ -6,7 +6,6 @@ name = "SBN-00571"
 [meta]
 bill_number = 571
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-571", "https://web.senate.gov.ph/lisdata/79796463!.pdf",]
 title = "NATIONAL HAZARD MAPPING ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO DIRECT THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES, THROUGH THE NATIONAL MAPPING AND RESOURCE INFORMATION AUTHORITY, TOGETHER WITH THE NATIONAL DISASTER COORDINATING COUNCIL, TO IDENTIFY LOW-LYING AREAS OF THE PHILIPPINE TERRITORY VULNERABLE TO RISING SEA LEVELS AS A RESULT OF GLOBAL WARMING, AND AREAS AT HIGH RISK FOR NATURAL DISASTERS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Hazard Mapping Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79796463!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-571"
 
 [[history]]
 date = "2010-07-07"

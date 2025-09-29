@@ -6,7 +6,6 @@ name = "SBN-00821"
 [meta]
 bill_number = 821
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-821", "https://web.senate.gov.ph/lisdata/3119828097!.pdf",]
 title = "PHILIPPINE NATIVE ANIMAL DEVELOPMENT ACT OF 2019"
 date_filed = "2019-07-30"
 long_title = "AN ACT PROMOTING THE SCIENTIFIC PROPAGATION, PROCESSING, UTILIZATION AND DEVELOPMENT OF PHILIPPINE NATIVE ANIMALS, HEREBY CREATING THE PHILIPPINE NATIVE ANIMAL DEVELOPMENT CENTER"
@@ -15,6 +14,8 @@ subjects = [ "Animal Industry", "Philippine Native Animal", "Swine/Local Hog Ind
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3119828097!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-821"
 
 [[history]]
 date = "2019-07-30"

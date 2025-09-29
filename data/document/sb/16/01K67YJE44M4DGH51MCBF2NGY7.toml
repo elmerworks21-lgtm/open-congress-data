@@ -6,7 +6,6 @@ name = "SBN-02755"
 [meta]
 bill_number = 2755
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2755", "https://web.senate.gov.ph/lisdata/2176818494!.pdf",]
 title = "FIRST 1,000 DAYS ACT"
 date_filed = "2015-05-07"
 long_title = "AN ACT TO PROTECT FILIPINO MOTHERS AND CHILDREN FROM MALNUTRITION BY ESTABLISHING A MATERNAL AND CHILD HEALTH CARE PROGRAM APPROPRIATING FUNDS FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Maternal/Infant Health", "Children/Child Care",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2176818494!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2755"
 
 [[history]]
 date = "2015-05-07"

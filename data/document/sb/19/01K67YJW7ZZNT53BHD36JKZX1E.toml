@@ -6,7 +6,6 @@ name = "SBN-01942"
 [meta]
 bill_number = 1942
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1942", "https://web.senate.gov.ph/lisdata/4094937311!.pdf",]
 title = "DR. ELEUTERIO R. VIOLAGO GENERAL HOSPITAL"
 date_filed = "2023-02-28"
 long_title = "AN ACT ESTABLISHING A LEVEL II GENERAL HOSPITAL IN SAN JOSE CITY, NUEVA ECIJA, TO BE KNOWN AS THE DR. ELEUTERIO R. VIOLAGO GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4094937311!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1942"
 
 [[history]]
 date = "2023-02-28"

@@ -6,7 +6,6 @@ name = "SBN-00197"
 [meta]
 bill_number = 197
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-197", "https://web.senate.gov.ph/lisdata/2361820291!.pdf",]
 title = "LIBEL LAW REFORM ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT TO ABOLISH THE PENALTY OF IMPRISONMENT IN LIBEL CASES, TO MAKE ANY DISCUSSION OF ANY MATTER OF PUBLIC CONCERN, OR CRITICISM, OF OFFICIAL CONDUCT PRIVILEGED, AND TO PROPERLY DETERMINE THE VENUE OF CASES AND PERSONS RESPONSIBLE FOR LIBEL, AMENDING FOR THE PURPOSE ARTICLES 354, 355, 357, 360 AND 361 OF ACT NO, 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE, AND SECTION 4 (C) (4), CHAPTER II OF REPUBLIC ACT NO. 10175, OTHERWISE KNOWN AS CYBERCRIME PREVENTION ACT OF 2012, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Libel", "Revised Penal Code (R.A.No. 3815)", "Cybercrime",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2361820291!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-197"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00042"
 [meta]
 bill_number = 42
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-42", "https://web.senate.gov.ph/lisdata/40903482!.pdf",]
 title = "GOVERNMENT CLASSIFICATION AND COMPENSATION ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT ADOPTING AN OMNIBUS JOB CLASSIFICATION AND COMPENSATION STANDARDIZATION SYSTEM IN THE CIVIL SERVICE, APPROPRIATING FUNDS THEREFOR, PROVIDING PENAL SANCTIONS FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Classification and Compensation Act", "Job Classificati
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/40903482!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-42"
 
 [[history]]
 date = "2007-06-30"

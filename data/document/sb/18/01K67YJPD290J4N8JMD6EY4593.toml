@@ -6,7 +6,6 @@ name = "SBN-00038"
 [meta]
 bill_number = 38
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-38", "https://web.senate.gov.ph/lisdata/3025427087!.pdf",]
 title = "NATIONAL LAND USE ACT OF 2019"
 date_filed = "2019-07-01"
 long_title = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Land Use", "National Land Use Act",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N., De Lima, Leila M."
 author_codes = ["DLEIL", "PFRAN"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3025427087!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-38"
 
 [[history]]
 date = "2019-07-01"

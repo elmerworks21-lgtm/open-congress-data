@@ -6,7 +6,6 @@ name = "SBN-00136"
 [meta]
 bill_number = 136
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-136", "https://web.senate.gov.ph/lisdata/2355520173!.pdf",]
 title = "FIRST 1,000 DAYS ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT TO PROTECT FILIPINO MOTHERS AND CHILDREN FROM MALNUTRITION BY ESTABLISHING A MATERNAL AND CHILD HEALTH CARE PROGRAM APPROPRIATING FUNDS FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Malnutrition", "Maternal/Infant Health",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2355520173!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-136"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00343"
 [meta]
 bill_number = 343
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-343", "https://web.senate.gov.ph/lisdata/1500795!.pdf",]
 title = "COST SHARING SCHEME FOR HOSPITAL CARE PROGRAM"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A COST SHARING SCHEME TO PROVIDE FOR A HOSPITAL CARE PROGRAM IN LOCAL GOVERNMENT UNITS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Cost Sharing Scheme (Hospital Care Prog.", "Health Services", "Loc
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1500795!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-343"
 
 [[history]]
 date = "2004-06-30"

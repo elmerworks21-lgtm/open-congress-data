@@ -6,7 +6,6 @@ name = "SBN-00291"
 [meta]
 bill_number = 291
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-291", "https://web.senate.gov.ph/lisdata/4678042787!.pdf",]
 title = "NATIONAL PARKS ACT OF 2025"
 date_filed = "2025-07-09"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE NATIONAL PUBLIC PARKS SYSTEM, AND APPROPRIATING FUNDS, THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "National Park",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4678042787!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-291"
 
 [[history]]
 date = "2025-07-09"

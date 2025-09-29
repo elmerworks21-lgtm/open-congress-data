@@ -6,7 +6,6 @@ name = "SBN-01551"
 [meta]
 bill_number = 1551
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1551", "https://web.senate.gov.ph/lisdata/2649122791!.pdf",]
 title = "AMENDING SEC. 1 OF P.D. NO. 1606, AS AMENDED (LAW CREATING THE SANDIGANBAYAN)"
 date_filed = "2017-08-15"
 long_title = "AN ACT AMENDING SECTION 1 OF PRESIDENTIAL DECREE NO. 1606, AS AMENDED, OR THE LAW CREATING THE SANDIGANBAYAN"
@@ -15,6 +14,8 @@ subjects = [ "Sandiganbayan",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2649122791!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1551"
 
 [[history]]
 date = "2017-08-15"

@@ -6,7 +6,6 @@ name = "SBN-00807"
 [meta]
 bill_number = 807
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-807", "https://web.senate.gov.ph/lisdata/50314424!.pdf",]
 title = "STRATEGIC FOOD SECURITY RICE RESERVE ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT ESTABLISHING A STRATEGIC FOOD SECURITY RICE RESERVE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Food Security", "Rice/Rice Reserve",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50314424!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-807"
 
 [[history]]
 date = "2007-07-03"

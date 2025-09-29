@@ -6,7 +6,6 @@ name = "SBN-02913"
 [meta]
 bill_number = 2913
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2913", "https://web.senate.gov.ph/lisdata/118289979!.pdf",]
 title = "ANTI-OBESITY EDUCATION PROGRAM ACT OF 2011"
 date_filed = "2011-07-26"
 long_title = "AN ACT PROVIDING FOR THE MANDATORY INCLUSION OF ANTI-OBESITY EDUCATION PROGRAM AND EXERCISE INCLUDING PLAY AND TRADITIONAL FILIPINO GAMES, IN THE PRE-SCHOOL, ELEMENTARY AND HIGH SCHOOL CURRICULA, BOTH IN PUBLIC AND PRIVATE SCHOOLS AND EDUCATIONAL INSTITUTIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Obesity",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/118289979!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2913"
 
 [[history]]
 date = "2011-07-26"

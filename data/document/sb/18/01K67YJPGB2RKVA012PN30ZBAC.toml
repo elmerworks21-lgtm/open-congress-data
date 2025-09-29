@@ -6,7 +6,6 @@ name = "SBN-00180"
 [meta]
 bill_number = 180
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-180", "https://web.senate.gov.ph/lisdata/3042427198!.pdf",]
 title = "PRISON REFORM ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT INSTITUTIONALIZING PRISON REFORM AND RESTORATIVE JUSTICE IN THE PHILIPPINE CORRECTIONAL SYSTEM AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners/Inmates", "Persons Deprived of Liberty (PDL)",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3042427198!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-180"
 
 [[history]]
 date = "2019-07-02"

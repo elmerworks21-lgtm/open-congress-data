@@ -6,7 +6,6 @@ name = "SBN-02278"
 [meta]
 bill_number = 2278
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2278", "https://web.senate.gov.ph/lisdata/53814463!.pdf",]
 title = "CRIMINALIZING RETALIATORY ACTS"
 date_filed = "2006-06-07"
 long_title = "AN ACT CRIMINALIZING RETALIATORY ACTS DIRECTED AGAINST AN EMPLOYEE WHO HAS FILED ANY COMPLAINT UNDER THE LABOR CODE OR TESTIFIED THEREUNDER, AMENDING FOR THIS PURPOSE THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Retaliatory Acts (Criminalizing)", "Labor Code of the Philippines 
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53814463!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2278"
 
 [[history]]
 date = "2006-06-07"

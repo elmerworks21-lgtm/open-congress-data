@@ -6,7 +6,6 @@ name = "SBN-00038"
 [meta]
 bill_number = 38
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-38", "https://web.senate.gov.ph/lisdata/2345120035!.pdf",]
 title = "THE PHILIPPINE INNOVATION ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT ADOPTING INNOVATION AS VITAL COMPONENT OF THE COUNTRY'S DEVELOPMENT POLICIES TO DRIVE INCLUSIVE DEVELOPMENT, PROMOTE THE GROWTH AND NATIONAL COMPETITIVENESS OF MICRO, SMALL AND MEDIUM ENTERPRISES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Innovations/Innovative Technology", "Micro, Small and Medium Enter
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2345120035!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-38"
 
 [[history]]
 date = "2016-06-30"

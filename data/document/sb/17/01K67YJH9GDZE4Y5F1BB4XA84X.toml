@@ -6,7 +6,6 @@ name = "SBN-00215"
 [meta]
 bill_number = 215
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-215", "https://web.senate.gov.ph/lisdata/2363621226!.pdf",]
 title = "EXPANDED MATERNITY LEAVE LAW OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT INCREASING THE MATERNITY LEAVE PERIOD TO ONE HUNDRED TWENTY (120) DAYS FOR FEMALE EMPLOYEES, MARRIED ON UNMARRIED, IN THE GOVERNMENT SERVICE AND IN THE PRIVATE SECTOR, AND GRANTING AN ADDITIONAL THIRTY (30) DAYS FOR SOLO MOTHERS, AMENDING FOR THIS PURPOSE REPUBLIC ACT 1161, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Maternity Leave", "Women",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2363621226!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-215"
 
 [[history]]
 date = "2016-06-30"

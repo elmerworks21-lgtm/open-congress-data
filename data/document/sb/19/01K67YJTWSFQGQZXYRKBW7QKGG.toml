@@ -6,7 +6,6 @@ name = "SBN-00035"
 [meta]
 bill_number = 35
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-35", "https://web.senate.gov.ph/lisdata/3773634178!.pdf",]
 title = "MEDICAL BILL TRANSPARENCY ACT"
 date_filed = "2022-07-05"
 long_title = "AN ACT EHANCING THE PATIENT'S RIGHT TO MEDICAL EXPENSE TRANSPARENCY AND PREVENTING UNEXPECTED MEDICAL BILLS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Bill Transparency",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3773634178!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-35"
 
 [[history]]
 date = "2022-07-05"

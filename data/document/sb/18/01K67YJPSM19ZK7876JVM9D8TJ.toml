@@ -6,7 +6,6 @@ name = "SBN-00611"
 [meta]
 bill_number = 611
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-611", "https://web.senate.gov.ph/lisdata/3095327887!.pdf",]
 title = "DIALYSIS TREATMENTS TO INDIGENT PATIENTS"
 date_filed = "2019-07-18"
 long_title = "AN ACT REQUIRING THE ESTABLISHMENT OF DIALYSIS CLINICS IN ALL NATIONAL, REGIONAL AND PROVINCIAL HOSPITALS AND PROVIDING FOR FREE DIALYSIS TREATMENTS TO INDIGENT PATIENTS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Dialysis Center", "Dialysis Treatment", "Indigent Persons",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3095327887!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-611"
 
 [[history]]
 date = "2019-07-18"

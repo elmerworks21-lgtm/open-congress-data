@@ -6,7 +6,6 @@ name = "SBN-00175"
 [meta]
 bill_number = 175
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-175", "https://web.senate.gov.ph/lisdata/2359720295!.pdf",]
 title = "INNOVATIVE STARTUP ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT CREATING THE INNOVATION COUNCIL AND PROVIDING BENEFITS AND PROGRAMS TO STRENGTHEN, PROMOTE, AND DEVELOP THE PHILIPPINE STARTUP ECOSYSTEM"
@@ -15,6 +14,8 @@ subjects = [ "Innovations", "Innovative Technology",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2359720295!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-175"
 
 [[history]]
 date = "2016-06-30"

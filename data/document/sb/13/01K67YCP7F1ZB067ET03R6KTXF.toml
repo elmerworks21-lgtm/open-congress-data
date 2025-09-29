@@ -6,7 +6,6 @@ name = "SBN-01525"
 [meta]
 bill_number = 1525
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1525", "https://web.senate.gov.ph/lisdata/27402106!.pdf",]
 title = "ELIMINATING GENDER BIAS IN QUALIFIED SEDUCTION"
 date_filed = "2004-07-27"
 long_title = "AN ACT AMENDING ARTICLE 337 OF THE PENAL CODE, ELIMINATING GENDER BIAS IN QUALIFIED SEDUCTION AND INCREASING THE IMPOSABLE PENALTY"
@@ -15,6 +14,8 @@ subjects = [ "Qualified Seduction (Gender Bias)", "Revised Penal Code (Art. 337)
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27402106!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1525"
 
 [[history]]
 date = "2004-07-27"

@@ -6,7 +6,6 @@ name = "SBN-00876"
 [meta]
 bill_number = 876
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-876", "https://web.senate.gov.ph/lisdata/4746643468!.pdf",]
 title = "BUWAN NG PELIKULANG PILIPINO ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT DECLARING THE MONTH OF SEPTEMBER AS PHILIPPINE FILM INDUSTRY MONTH AND MANDATING THE FILM DEVELOPMENT COUNCIL OF THE PHILIPPINES (FDCP) TO CONDUCT ACTIVITIES ON FILM-RELATED DISCIPLINES DURING ITS CELEBRATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Film Industry Month",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4746643468!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-876"
 
 [[history]]
 date = "2025-08-04"

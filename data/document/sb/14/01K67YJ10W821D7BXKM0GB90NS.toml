@@ -6,7 +6,6 @@ name = "SBN-00430"
 [meta]
 bill_number = 430
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-430", "https://web.senate.gov.ph/lisdata/46063958!.pdf",]
 title = "LYING WITNESS SHOULD SUFFER THE SAME PENALTY IMPOSED UPON THE DEFENDANT"
 date_filed = "2007-07-02"
 long_title = "AN ACT AMENDING ARTICLE 180 OF THE REVISED PENAL CODE (ACT NO. 3815), AS AMENDED BY INCREASING THE PENALTY PROVIDED THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "False Testimony (Penalty)", "Revised Penal Code (RA 3815; Amendmen
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46063958!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-430"
 
 [[history]]
 date = "2007-07-02"

@@ -6,7 +6,6 @@ name = "SBN-01149"
 [meta]
 bill_number = 1149
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1149", "https://web.senate.gov.ph/lisdata/1718714425!.pdf",]
 title = "CHARTER OF THE PHILIPPINE TRADE REPRESENTATIVE OFFICE"
 date_filed = "2013-07-29"
 long_title = "AN ACT CREATING THE PHILIPPINE TRADE REPRESENTATIVE OFFICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Trade Representative Office",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1718714425!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1149"
 
 [[history]]
 date = "2013-07-29"

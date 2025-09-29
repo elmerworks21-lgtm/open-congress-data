@@ -6,7 +6,6 @@ name = "SBN-00733"
 [meta]
 bill_number = 733
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-733", "https://web.senate.gov.ph/lisdata/3842434879!.pdf",]
 title = "UNATTENDED CHILD IN MOTOR VEHICLES ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT PROTECTING UNATTENDED CHILDREN IN MOTOR VEHICLE"
@@ -15,6 +14,8 @@ subjects = [ "Unattended Child in Motor Vehicles", "Motor Vehicles", "Children/C
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3842434879!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-733"
 
 [[history]]
 date = "2022-07-18"

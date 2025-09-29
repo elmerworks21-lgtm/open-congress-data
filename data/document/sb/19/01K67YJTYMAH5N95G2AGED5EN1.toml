@@ -6,7 +6,6 @@ name = "SBN-00118"
 [meta]
 bill_number = 118
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-118", "https://web.senate.gov.ph/lisdata/3782634267!.pdf",]
 title = "REGULARIZATION OF BARANGAY OFFICIALS ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING FOR THE REGULARIZATION OF PUNONG BARANGAY, SANGGUNIANG BARANGAY MEMBERS, SANGGUNIANG KABATAAN CHAIRMAN, BARANGAY SECRETARY AND BARANGAY TREASURER"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Officials", "Barangay Captain/Punong Barangay", "Sangguni
 authors_raw = "Binay, Maria Lourdes Nancy S., Escudero, Francis G."
 author_codes = ["BMARI", "EFRAN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3782634267!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-118"
 
 [[history]]
 date = "2022-07-07"

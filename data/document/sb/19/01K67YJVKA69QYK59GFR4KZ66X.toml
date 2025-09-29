@@ -6,7 +6,6 @@ name = "SBN-01050"
 [meta]
 bill_number = 1050
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1050", "https://web.senate.gov.ph/lisdata/3900335454!.pdf",]
 title = "COUNCIL FOR THE BUILT ENVIRONMENT ACT OF 2022"
 date_filed = "2022-08-08"
 long_title = "AN ACT CREATING THE ‘COUNCIL FOR THE BUILT ENVIRONMENT,’ APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Built Environment",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3900335454!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1050"
 
 [[history]]
 date = "2022-08-08"

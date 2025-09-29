@@ -6,7 +6,6 @@ name = "SBN-00853"
 [meta]
 bill_number = 853
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-853", "https://web.senate.gov.ph/lisdata/3867235125!.pdf",]
 title = "EMERGENCY VOLUNTEER PROTECTION ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT PROVIDING PROTECTION FROM LIABILITY TO VOLUNTEERS FOR ACTS OR OMISSIONS COMMITTED IN THE PERFORMANCE OF THEIR DUTIES DURING EMERGENCIES"
@@ -15,6 +14,8 @@ subjects = [ "Emergency Volunteer",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3867235125!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-853"
 
 [[history]]
 date = "2022-07-25"

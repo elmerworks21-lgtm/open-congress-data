@@ -6,7 +6,6 @@ name = "SBN-01306"
 [meta]
 bill_number = 1306
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1306", "https://web.senate.gov.ph/lisdata/4795743979!.pdf",]
 title = "ONE HUNDRED PESOS (P100.00) DAILY MINIMUM WAGE INCREASE"
 date_filed = "2025-08-28"
 long_title = "AN ACT PROVIDING FOR A ONE HUNDRED PESOS (P100.00) DAILY MINIMUM WAGE INCREASE FOR EMPLOYEES AND WORKERS IN THE PRIVATE SECTOR"
@@ -15,6 +14,8 @@ subjects = [ "Minimum Wage Increase",]
 authors_raw = "Tulfo, Erwin T."
 author_codes = ["TERWI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4795743979!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1306"
 
 [[history]]
 date = "2025-08-28"

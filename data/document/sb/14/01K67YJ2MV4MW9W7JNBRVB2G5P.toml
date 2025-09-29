@@ -6,7 +6,6 @@ name = "SBN-02530"
 [meta]
 bill_number = 2530
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2530", "https://web.senate.gov.ph/lisdata/80707289!.pdf",]
 title = "PROHIBITING OPERATION OF INTERNET CAFES, COMPUTER GAME SHOPS WITHIN 500 METERS FROM SCHOOLS, CHURCH"
 date_filed = "2008-08-12"
 long_title = "AN ACT REGULATING THE OPERATION AND MAINTENANCE OF INTERNET CAFES, VIDEO AND COMPUTER GAME SHOPS AND OTHER ESTABLISHMENTS, PROVIDING COMPUTER SERVICES WITHIN THE VICINITY OF SCHOOLS, PUBLIC PLAYGROUNDS, DAY CARE FACILITIES AND CHURCHES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internet Cafes", "Computer Rental Shops",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80707289!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2530"
 
 [[history]]
 date = "2008-08-12"

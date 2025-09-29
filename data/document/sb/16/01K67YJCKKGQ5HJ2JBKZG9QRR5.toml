@@ -6,7 +6,6 @@ name = "SBN-00500"
 [meta]
 bill_number = 500
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-500", "https://web.senate.gov.ph/lisdata/1639013632!.pdf",]
 title = "PETER WALLACE"
 date_filed = "2013-07-04"
 long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO PETER WALLACE"
@@ -15,6 +14,8 @@ subjects = [ "Citizenship",]
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1639013632!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-500"
 
 [[history]]
 date = "2013-07-04"

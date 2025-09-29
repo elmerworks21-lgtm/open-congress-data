@@ -6,7 +6,6 @@ name = "SBN-00492"
 [meta]
 bill_number = 492
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-492", "https://web.senate.gov.ph/lisdata/46994022!.pdf",]
 title = "DEPARTMENT OF TRANSPORTATION/DEPARTMENT OF COMMUNICATIONS"
 date_filed = "2007-07-02"
 long_title = "AN ACT SEPARATING THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATION INTO THE DEPARTMENT OF TRANSPORTATION AND THE DEPARTMENT OF COMMUNICATIONS REDEFINING ITS POWERS, FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES, THEREBY AMENDING EXECUTIVE ORDER NO. 546"
@@ -15,6 +14,8 @@ subjects = [ "Department of Transportation", "Department of Communications", "De
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46994022!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-492"
 
 [[history]]
 date = "2007-07-02"

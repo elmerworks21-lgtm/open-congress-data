@@ -6,7 +6,6 @@ name = "SBN-01953"
 [meta]
 bill_number = 1953
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1953", "https://web.senate.gov.ph/lisdata/1832315499!.pdf",]
 title = "FAMILY LIFE EDUCATION ACT"
 date_filed = "2013-11-26"
 long_title = "AN ACT PROVIDING FOR FAMILY LIFE EDUCATION FOR YOUNG PEOPLE"
@@ -15,6 +14,8 @@ subjects = [ "Sexually Transmitted Disease (STD)", "Family Life Education",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1832315499!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1953"
 
 [[history]]
 date = "2013-11-26"

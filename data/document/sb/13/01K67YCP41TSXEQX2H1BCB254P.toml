@@ -6,7 +6,6 @@ name = "SBN-01333"
 [meta]
 bill_number = 1333
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1333", "https://web.senate.gov.ph/lisdata/25401912!.pdf",]
 title = "GOVERNMENT BORROWINGS CAP ACT OF 2004"
 date_filed = "2004-07-06"
 long_title = "AN ACT TO LIMIT THE BORROWINGS OF THE REPUBLIC OF THE PHILIPPINES TO THE PROGRAMMED NET FINANCING SUBMITTED BY THE PRESIDENT OF THE REPUBLIC OF THE PHILIPPINES TO CONGRESS EVERY FISCAL YEAR"
@@ -15,6 +14,8 @@ subjects = [ "Government Borrowings Cap Act", "Foreign Borrowings/ Debt Cap",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/25401912!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1333"
 
 [[history]]
 date = "2004-07-06"

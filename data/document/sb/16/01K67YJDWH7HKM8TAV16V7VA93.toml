@@ -6,7 +6,6 @@ name = "SBN-02426"
 [meta]
 bill_number = 2426
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2426", "https://web.senate.gov.ph/lisdata/1992317040!.pdf",]
 title = "ETHNIC ORIGIN ACT OF 2014"
 date_filed = "2014-09-24"
 long_title = "AN ACT TO INCLUDE ETHNIC ORIGIN IN THE NATIONAL SURVEY CONDUCTED BY THE PHILIPPINE STATISTICS AUTHORITY"
@@ -15,6 +14,8 @@ subjects = [ "Ethnic", "Philippine Statistics Authority",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1992317040!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2426"
 
 [[history]]
 date = "2014-09-24"

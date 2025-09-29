@@ -6,7 +6,6 @@ name = "SBN-01593"
 [meta]
 bill_number = 1593
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1593", "https://web.senate.gov.ph/lisdata/4013636555!.pdf",]
 title = "DECRIMINALIZATION OF LIBEL ACT"
 date_filed = "2022-12-05"
 long_title = "AN ACT DECRIMINALIZING LIBEL, REPEALING FOR THIS PURPOSE ARTICLES 353, 354, 355, 356, 357, 360, 361 AND 362 OF ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE AND SECTION 4 (C) 4, CHAPTER II OF REPUBLIC ACT NO. 10175, OTHERWISE KNOWN AS THE CYBERCRIME PREVENTION ACT OF 2012"
@@ -15,6 +14,8 @@ subjects = [ "Libel",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4013636555!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1593"
 
 [[history]]
 date = "2022-12-05"

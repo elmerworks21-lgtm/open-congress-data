@@ -6,7 +6,6 @@ name = "SBN-01579"
 [meta]
 bill_number = 1579
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1579", "https://web.senate.gov.ph/lisdata/4013236552!.pdf",]
 title = "AMENDING SEC. 6 OF R.A. NO. 1379 (FORFEITURE OF ANY PROPERTY UNLAWFULLY ACQUIRED)"
 date_filed = "2022-12-05"
 long_title = "AN ACT AMENDING SECTION 6 OF REPUBLIC ACT NO. 1379, OTHERWISE KNOWN AS 'AN ACT DECLARING FORFEITURE IN FAVOR OF THE STATE ANY PROPERTY FOUND TO HAVE BEEN UNLAWFULLY ACQUIRED BY ANY PUBLIC OFFICER OR EMPLOYEE AND PROVIDING FOR THE PROCEEDINGS THEREFOR' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forfeiture Law (R.A.No. 1379, Amendments)", "Asset Forfeiture (R.A
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4013236552!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1579"
 
 [[history]]
 date = "2022-12-05"

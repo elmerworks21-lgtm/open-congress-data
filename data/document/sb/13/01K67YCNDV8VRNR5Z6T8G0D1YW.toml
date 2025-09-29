@@ -6,7 +6,6 @@ name = "SBN-00117"
 [meta]
 bill_number = 117
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-117", "https://web.senate.gov.ph/lisdata/1252999!.pdf",]
 title = "ECONOMIC ESPIONAGE AND PROTECTION OF PROPRIETARY INFORMATION"
 date_filed = "2004-06-30"
 long_title = "AN ACT DEFINING THE CRIME OF ECONOMIC ESPIONAGE AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Economic Espionage (Crime)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1252999!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-117"
 
 [[history]]
 date = "2004-06-30"

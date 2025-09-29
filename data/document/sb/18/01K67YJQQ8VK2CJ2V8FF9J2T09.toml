@@ -6,7 +6,6 @@ name = "SBN-01891"
 [meta]
 bill_number = 1891
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1891", "https://web.senate.gov.ph/lisdata/3383130643!.pdf",]
 title = "E-GOVERNMENT ACT"
 date_filed = "2020-10-22"
 long_title = "AN ACT ESTABLISHING THE E-GOVERNMENT, DEFINING ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "E-Government Services",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3383130643!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1891"
 
 [[history]]
 date = "2020-10-22"

@@ -6,7 +6,6 @@ name = "SBN-02469"
 [meta]
 bill_number = 2469
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2469", "https://web.senate.gov.ph/lisdata/4287638998!.pdf",]
 title = "PHILIPPINE NATIONAL MARITIME ACADEMY CHARTER"
 date_filed = "2023-10-25"
 long_title = "AN ACT CONVERTING THE PHILIPPINE MERCHANT MARINE ACADEMY INTO THE PHILIPPINE NATIONAL MARITIME ACADEMY AS THE PRIMARY INSTITUTION FOR THE BASIC AND CONTINUING HIGHER EDUCATION AND TRAINING OF MARITIME PROFESSIONALS AND LEADERS FOR NATIONAL DEVELOPMENT AND SECURITY, AND FOR OTHER PURPOSES,"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Merchant Marine Academy (PMMA)",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4287638998!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2469"
 
 [[history]]
 date = "2023-10-25"

@@ -6,7 +6,6 @@ name = "SBN-00569"
 [meta]
 bill_number = 569
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-569", "https://web.senate.gov.ph/lisdata/79766458!.pdf",]
 title = "FREE MEDICINE TO ANY PRIVATE PERSON INJURED DURING ARMED CONFLICT"
 date_filed = "2010-07-07"
 long_title = "AN ACT PROVIDING FOR FREE MEDICINE AND OTHER BASIC MEDICAL SUPPLIES TO ANY PRIVATE PERSON OR INDIVIDUAL INJURED OR WOUNDED DURING A MILITARY OR GOVERNMENT OPERATION"
@@ -15,6 +14,8 @@ subjects = [ "Armed Conflict",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79766458!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-569"
 
 [[history]]
 date = "2010-07-07"

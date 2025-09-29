@@ -6,7 +6,6 @@ name = "SBN-02130"
 [meta]
 bill_number = 2130
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2130", "https://web.senate.gov.ph/lisdata/2917525769!.pdf",]
 title = "PRISON REFORM ACT OF 2018"
 date_filed = "2018-12-10"
 long_title = "AN ACT INSTITUTIONALIZING PRISON REFORM AND RESTORATIVE JUSTICE IN PHILIPPINE CORRECTIONAL SYSTEM AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Prison Reform", "Jail Facility/Prison Facility",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2917525769!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2130"
 
 [[history]]
 date = "2018-12-10"

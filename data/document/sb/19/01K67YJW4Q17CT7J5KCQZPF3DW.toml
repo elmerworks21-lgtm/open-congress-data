@@ -6,7 +6,6 @@ name = "SBN-01806"
 [meta]
 bill_number = 1806
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1806", "https://web.senate.gov.ph/lisdata/4060937020!.pdf",]
 title = "THE TAXPAYER'S BILL OF RIGHTS AND OBLIGATIONS ACT"
 date_filed = "2023-01-30"
 long_title = "AN ACT PROVIDING FOR THE BILL OF RIGHTS AND OBLIGATIONS OF TAXPAYERS, CREATING THE OFFICE OF THE NATIONAL TAXPAYER ADVOCATE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxpayer Bill of Rights",]
 authors_raw = "Lapid, Manuel \"Lito\" M., Gatchalian, Win, Revilla Jr., Ramon Bong, Villar, Cynthia A., Villanueva, Joel, Zubiri, Juan Miguel \"Migz\" F., Go, Christopher Lawrence T."
 author_codes = ["GCHRI", "GSHER", "LMANU", "RRAMO", "VCYNT", "VEMMA", "ZJMIG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4060937020!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1806"
 
 [[history]]
 date = "2023-01-30"

@@ -6,7 +6,6 @@ name = "SBN-00224"
 [meta]
 bill_number = 224
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-224", "https://web.senate.gov.ph/lisdata/3048327360!.pdf",]
 title = "LOCAL ROAD REPAIR, REHABILITATION, AND IMPROVEMENT ACT OF 2018"
 date_filed = "2019-07-03"
 long_title = "AN ACT PROVIDING FOR THE INSTITUTIONALIZATION OF THE CONDITIONAL MATCHING GRANT TO PROVINCES (CMGP) FOR ROAD AND BRIDGE REPAIR, REHABILITATION, AND IMPROVEMENT"
@@ -15,6 +14,8 @@ subjects = [ "Road Maintenance", "Department of Public Works and Highways (DPWH)
 authors_raw = "Marcos, Imee R., Villanueva, Joel"
 author_codes = ["MIMEE", "VEMMA"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3048327360!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-224"
 
 [[history]]
 date = "2019-07-03"

@@ -6,7 +6,6 @@ name = "SBN-00296"
 [meta]
 bill_number = 296
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-296", "https://web.senate.gov.ph/lisdata/4678542792!.pdf",]
 title = "PHILIPPINE IMMIGRATION ACT"
 date_filed = "2025-07-09"
 long_title = "PHILIPPINE IMMIGRATION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Immigration",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4678542792!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-296"
 
 [[history]]
 date = "2025-07-09"

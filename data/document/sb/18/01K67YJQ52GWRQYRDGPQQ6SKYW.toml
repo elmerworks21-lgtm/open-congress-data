@@ -6,7 +6,6 @@ name = "SBN-01126"
 [meta]
 bill_number = 1126
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1126", "https://web.senate.gov.ph/lisdata/3173828588!.pdf",]
 title = "COMPREHENSIVE DIALYSIS AND RENAL REPLACEMENT THERAPY ACT"
 date_filed = "2019-10-29"
 long_title = "AN ACT EXPANDING THE PHILHEALTH OUTPATIENT COVERAGE ON DIALYSIS AND RENAL REPLACEMENT THERAPY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Dialysis Treatment", "Renal Replacement Therapy Act",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3173828588!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1126"
 
 [[history]]
 date = "2019-10-29"

@@ -6,7 +6,6 @@ name = "SBN-01879"
 [meta]
 bill_number = 1879
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1879", "https://web.senate.gov.ph/lisdata/4075837149!.pdf",]
 title = "GUIGUINTO HALAMANAN FESTIVAL ACT"
 date_filed = "2023-02-14"
 long_title = "AN ACT DECLARING THE HALAMANAN FESTIVAL OF THE MUNICIPALITY OF GUIGUINTO, PROVINCE OF BULACAN A MAJOR TOURIST ATTRACTION AND DECLARING FOR THAT PURPOSE JANUARY 22 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE MUNICIPALITY OF GUIGUINTO AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4075837149!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1879"
 
 [[history]]
 date = "2023-02-14"

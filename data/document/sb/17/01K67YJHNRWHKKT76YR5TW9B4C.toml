@@ -6,7 +6,6 @@ name = "SBN-00759"
 [meta]
 bill_number = 759
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-759", "https://web.senate.gov.ph/lisdata/2429120893!.pdf",]
 title = "CASH RETAIL PRICE OF GOODS AND SERVICES"
 date_filed = "2016-07-21"
 long_title = "AN ACT PROHIBITING MERCHANDISING STORES AND SERVICE ESTABLISHMENTS FROM CHARGING MORE THAN THE CASH RETAIL PRICE OF GOODS AND SERVICES PURCHASED WITH CREDIT CARDS AND PRESCRIBING PENALTIES FOR ANY VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Retail Food Stores", "Credit Card",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2429120893!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-759"
 
 [[history]]
 date = "2016-07-21"

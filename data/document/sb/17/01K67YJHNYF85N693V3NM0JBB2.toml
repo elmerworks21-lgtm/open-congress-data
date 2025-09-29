@@ -6,7 +6,6 @@ name = "SBN-00769"
 [meta]
 bill_number = 769
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-769", "https://web.senate.gov.ph/lisdata/2430120904!.pdf",]
 title = "INCREASING THE ESTATE TAX EXEMPTION"
 date_filed = "2016-07-21"
 long_title = "AN ACT INCREASING THE ESTATE TAX EXEMPTION, AMENDING FOR THE PURPOSE SECTION 84, CHAPTER 1, ESTATE TAX, TITLE III OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Estate Tax)", "National Internal Revenue Code (NIRC)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2430120904!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-769"
 
 [[history]]
 date = "2016-07-21"

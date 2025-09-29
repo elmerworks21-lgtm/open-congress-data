@@ -6,7 +6,6 @@ name = "SBN-00877"
 [meta]
 bill_number = 877
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-877", "https://web.senate.gov.ph/lisdata/2443321016!.pdf",]
 title = "ICT HUB ACT OF 2016"
 date_filed = "2016-07-26"
 long_title = "AN ACT ESTABLISHING AN INFORMATION AND COMMUNICATIONS TECHNOLOGY (ICT) HUB IN EVERY LEGISLATIVE DISTRICT OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Information and Communications Technology (ICT)",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2443321016!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-877"
 
 [[history]]
 date = "2016-07-26"

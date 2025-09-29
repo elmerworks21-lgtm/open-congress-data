@@ -6,7 +6,6 @@ name = "SBN-00443"
 [meta]
 bill_number = 443
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-443", "https://web.senate.gov.ph/lisdata/1600901!.pdf",]
 title = "RESTORING TAX EXEMPTIONS TO LOCAL WATER DISTRICTS"
 date_filed = "2004-06-30"
 long_title = "AN ACT RESTORING THE TAX EXEMPTION PRIVILEGE OF LOCAL WATER DISTRICTS UNDER SEC. 46 OF P.D. 198 AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Water Districts, Tax Exemption", "Taxes (Tax Exemption Privi
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1600901!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-443"
 
 [[history]]
 date = "2004-06-30"

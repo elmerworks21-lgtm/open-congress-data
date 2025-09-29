@@ -6,7 +6,6 @@ name = "SBN-01228"
 [meta]
 bill_number = 1228
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1228", "https://web.senate.gov.ph/lisdata/3201128862!.pdf",]
 title = "MANDATORY EVACUATION CENTER ACT OF 2019"
 date_filed = "2019-12-10"
 long_title = "AN ACT ESTABLISHING A MANDATORY EVACUATION CENTER IN ALL CITIES, PROVINCES AND MUNICIPALITIES, APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Evacuation Center",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3201128862!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1228"
 
 [[history]]
 date = "2019-12-10"

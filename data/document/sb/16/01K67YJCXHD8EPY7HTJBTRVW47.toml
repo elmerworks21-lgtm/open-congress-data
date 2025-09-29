@@ -6,7 +6,6 @@ name = "SBN-00979"
 [meta]
 bill_number = 979
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-979", "https://web.senate.gov.ph/lisdata/1704614260!.pdf",]
 title = "COMMITTEE ON ENVIRONMENTAL PROTECTION"
 date_filed = "2013-07-22"
 long_title = "AN ACT MANDATING THE CREATION OF A COMMITTEE ON ENVIRONMENTAL PROTECTION IN EACH LOCAL GOVERNMENT LEGISLATIVE COUNCIL"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Protection",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1704614260!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-979"
 
 [[history]]
 date = "2013-07-22"

@@ -6,7 +6,6 @@ name = "SBN-02409"
 [meta]
 bill_number = 2409
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2409", "https://web.senate.gov.ph/lisdata/56414727!.pdf",]
 title = "FAIR ELECTORAL PROTEST ACT OF 2006"
 date_filed = "2006-07-13"
 long_title = "AN ACT RATIONALIZING THE PROCEEDINGS IN AND RESOLUTION OF ELECTORAL PROTESTS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Fair Electoral Protest",]
 authors_raw = "Lim, Alfredo S."
 author_codes = ["LALFR"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56414727!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2409"
 
 [[history]]
 date = "2006-07-13"

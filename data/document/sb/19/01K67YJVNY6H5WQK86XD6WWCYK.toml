@@ -6,7 +6,6 @@ name = "SBN-01170"
 [meta]
 bill_number = 1170
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1170", "https://web.senate.gov.ph/lisdata/3920035637!.pdf",]
 title = "BARANGAY HEALTH WORKERS DAY"
 date_filed = "2022-08-15"
 long_title = "AN ACT DECLARING APRIL 7 EVERY YEAR AS BARANGAY HEALTH WORKERS DAY"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Barangay Health Worker",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3920035637!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1170"
 
 [[history]]
 date = "2022-08-15"

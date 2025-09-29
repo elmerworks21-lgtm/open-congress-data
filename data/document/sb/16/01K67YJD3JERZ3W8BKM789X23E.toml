@@ -6,7 +6,6 @@ name = "SBN-01272"
 [meta]
 bill_number = 1272
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1272", "https://web.senate.gov.ph/lisdata/1734814586!.pdf",]
 title = "KIDDIE SAVERS ACT OF 2013"
 date_filed = "2013-08-13"
 long_title = "AN ACT CREATING A TAX FREE MINORS' DEPOSIT ACCOUNT, AMENDING FOR THE PURPOSE SECTION 24 (B) (1) OF PRESIDENTIAL DECREE NO. 1158, AS AMENDED, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes/Taxation", "Bank De
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1734814586!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1272"
 
 [[history]]
 date = "2013-08-13"

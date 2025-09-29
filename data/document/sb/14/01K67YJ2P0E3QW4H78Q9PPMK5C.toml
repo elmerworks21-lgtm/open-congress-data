@@ -6,7 +6,6 @@ name = "SBN-02584"
 [meta]
 bill_number = 2584
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2584", "https://web.senate.gov.ph/lisdata/82997501!.pdf",]
 title = "MEDICAL GIFT GIVING BAN ACT"
 date_filed = "2008-09-02"
 long_title = "AN ACT PROHIBITING THE GIVING OF GIFTS OFFERED BY PRESCRIPTION DRUG MANUFACTURERS AND DISTRIBUTORS TO ENCOURAGE PRACTITIONERS TO PRESCRIBE CERTAIN DRUGS AND PROVIDING A PENALTY"
@@ -15,6 +14,8 @@ subjects = [ "Medical Gift Giving", "Drugs and Medicines",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/82997501!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2584"
 
 [[history]]
 date = "2008-09-02"

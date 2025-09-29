@@ -6,7 +6,6 @@ name = "SBN-01742"
 [meta]
 bill_number = 1742
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1742", "https://web.senate.gov.ph/lisdata/3330630142!.pdf",]
 title = "ANTI GAME-FIXING ACT"
 date_filed = "2020-07-27"
 long_title = "AN ACT REDEFINING THE CRIME OF GAME-FIXING AND PRESCRIBING SUFFER PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Game-Fixing",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3330630142!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1742"
 
 [[history]]
 date = "2020-07-27"

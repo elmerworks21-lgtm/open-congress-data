@@ -6,7 +6,6 @@ name = "SBN-00315"
 [meta]
 bill_number = 315
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-315", "https://web.senate.gov.ph/lisdata/44153818!.pdf",]
 title = "KAUNLARAN NG BAYAN ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT INSTITUTING AN INCENTIVE PAY SYSTEM, BASED ON PRODUCTIVITY AND PERFORMANCE, FOR ALL OFFICIALS AND EMPLOYEES OF THE GOVERNMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Kaunlaran Ng Bayan Act", "Productivity Incentive Pay System",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44153818!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-315"
 
 [[history]]
 date = "2007-07-02"

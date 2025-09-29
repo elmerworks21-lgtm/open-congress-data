@@ -6,7 +6,6 @@ name = "SBN-00403"
 [meta]
 bill_number = 403
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-403", "https://web.senate.gov.ph/lisdata/4689542901!.pdf",]
 title = "ANTI-CONTRABAND IN PRISON ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT PENALIZING ANY PERSON PROVIDING OR POSSESSING CONTRABAND AND THOSE WHO SHALL AID OR ABET THE INTRODUCTION OF THE SAME INSIDE ANY PRISON FACILITY ADMINISTERED BY THE DEPARTMENT OF JUSTICE, PROVIDING PENALTIES THEREFORE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Jail Facility/Prison Facility", "Contraband",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4689542901!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-403"
 
 [[history]]
 date = "2025-07-10"

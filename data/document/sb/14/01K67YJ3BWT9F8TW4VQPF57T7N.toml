@@ -6,7 +6,6 @@ name = "SBN-03514"
 [meta]
 bill_number = 3514
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3514", "https://web.senate.gov.ph/lisdata/1289311557!.pdf",]
 title = "PUBLIC INFORMATION DISLOSURE ACT OF 2009"
 date_filed = "2009-11-03"
 long_title = "AN ACT REQUIRING A DISCLOSURE STATEMENT ON THE USE OF GOVERNMENT FUNDS FOR DISSEMINATING PUBLIC INFORMATION"
@@ -15,6 +14,8 @@ subjects = [ "Government Information Public Dissemination",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1289311557!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3514"
 
 [[history]]
 date = "2009-11-03"

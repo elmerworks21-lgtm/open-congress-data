@@ -6,7 +6,6 @@ name = "SBN-01062"
 [meta]
 bill_number = 1062
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1062", "https://web.senate.gov.ph/lisdata/85047060!.pdf",]
 title = "RIZAL PARK DEVELOPMENT ACT OF 2010"
 date_filed = "2010-07-08"
 long_title = "AN ACT TO FULLY DEVELOP RIZAL PARK, MANILA INTO A WORLD-CLASS PARK BY STRENGTHENING THE POWERS AND FUNCTIONS OF THE NATIONAL PARKS DEVELOPMENT COMMITTEE (NPDC), APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rizal Park Development",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/85047060!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1062"
 
 [[history]]
 date = "2010-07-08"

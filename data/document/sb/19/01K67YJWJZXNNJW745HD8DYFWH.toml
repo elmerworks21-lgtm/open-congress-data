@@ -6,7 +6,6 @@ name = "SBN-02401"
 [meta]
 bill_number = 2401
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2401", "https://web.senate.gov.ph/lisdata/4235438538!.pdf",]
 title = "WOMEN AND CHILDREN PROTECTION UNITS ACT OF 2023"
 date_filed = "2023-08-10"
 long_title = "AN ACT INSTITUTIONALIZING THE ESTABLISHMENT OF WOMEN AND CHILDREN PROTECTION UNITS (WCPU) IN ALL GOVERNMENT HOSPITALS"
@@ -15,6 +14,8 @@ subjects = [ "Women and Children Protection Units (WCPU)", "Hospitals (Governmen
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4235438538!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2401"
 
 [[history]]
 date = "2023-08-10"

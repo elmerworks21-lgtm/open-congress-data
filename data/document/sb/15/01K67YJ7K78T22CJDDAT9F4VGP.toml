@@ -6,7 +6,6 @@ name = "SBN-00580"
 [meta]
 bill_number = 580
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-580", "https://web.senate.gov.ph/lisdata/79916472!.pdf",]
 title = "WELFARE OF WORKERS"
 date_filed = "2010-07-07"
 long_title = "AN ACT PROMOTING THE WELFARE OF WORKERS IN CASES OF MERGERS, ACQUISITIONS, CONSOLIDATION, SALE OF ALL OR SUBSTANTIALLY ALL ASSETS, BUSINESS ENTERPRISE TRANSFER, OR TRANSFER OF A GOING CONCERN AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Merger", "Acquisitions", "Transfer",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79916472!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-580"
 
 [[history]]
 date = "2010-07-07"

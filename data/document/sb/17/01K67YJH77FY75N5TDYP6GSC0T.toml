@@ -6,7 +6,6 @@ name = "SBN-00123"
 [meta]
 bill_number = 123
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-123", "https://web.senate.gov.ph/lisdata/2353820157!.pdf",]
 title = "NATIONAL SCHOOL MEAL PROGRAM ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FOR FREE MEALS FOR STUDENTS OF THE PUBLIC EDUCATION SYSTEM PARTICULARLY SCHOOLCHILDREN FROM KINDERGARTEN TO JUNIOR HIGH SCHOOL, FOLLOWING THE K-12 POLICY, PROVIDING FRAMEWORK FOR ITS IMPLEMENTATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition", "Department of Education (DepEd)", "Kindergarten", "K1
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2353820157!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-123"
 
 [[history]]
 date = "2016-06-30"

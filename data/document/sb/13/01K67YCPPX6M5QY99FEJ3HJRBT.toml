@@ -6,7 +6,6 @@ name = "SBN-02287"
 [meta]
 bill_number = 2287
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2287", "https://web.senate.gov.ph/lisdata/53904528!.pdf",]
 title = "EQUAL EMPLOYMENT OPPORTUNITY ACT OF 2006"
 date_filed = "2006-06-07"
 long_title = "THE EQUAL EMPLOYMENT OPPORTUNITY ACT OF 2006"
@@ -15,6 +14,8 @@ subjects = [ "Equal Employment Opportunity Act",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53904528!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2287"
 
 [[history]]
 date = "2006-06-07"

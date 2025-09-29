@@ -6,7 +6,6 @@ name = "SBN-02860"
 [meta]
 bill_number = 2860
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2860", "https://web.senate.gov.ph/lisdata/2182518545!.pdf",]
 title = "CONTINGENT LIABILITIES DISCLOSURE ACT OF 2015"
 date_filed = "2015-07-20"
 long_title = "AN ACT MANDATING THE ANNUAL PUBLIC DISCLOSURE OF ALL CONTINGENT LIABILITIES INCURRED BY ALL NATIONAL GOVERNMENT AGENCIES, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED OR - CONTROLLED CORPORATIONS, GOVERNMENT FINANCIAL INSTITUTIONS, AND OTHER GOVERNMENT INSTRUMENTALITIES"
@@ -15,6 +14,8 @@ subjects = [ "Government-Owned And-Controlled Corporations (GOCC)", "Local Gover
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2182518545!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2860"
 
 [[history]]
 date = "2015-07-20"

@@ -6,7 +6,6 @@ name = "SBN-02655"
 [meta]
 bill_number = 2655
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2655", "https://web.senate.gov.ph/lisdata/88528052!.pdf",]
 title = "ANTI CABLE TELEVISION AND CABLE INTERNET PILFERAGE ACT OF 2008"
 date_filed = "2008-10-06"
 long_title = "AN ACT PROHIBITING AND PENALIZING THE PILFERAGE AND THEFT, UNAUTHORIZED USE, INTERCONNECTION OR RECEPTION OF ANY SIGNAL OR SERVICE OFFERED OVER A CABLE TELEVISION (CATV) OR CABLE INTERNET SYSTEM AND/OR NETWORK OR THROUGH ANY UNAUTHORIZED INSTALLATION, ACCESS OR CONNECTION THERETO THROUGH THE USE OF CABLE OR OTHER EQUIPMENT AND PRESCRIBING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Cable Television", "Internet Protection",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/88528052!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2655"
 
 [[history]]
 date = "2008-10-06"

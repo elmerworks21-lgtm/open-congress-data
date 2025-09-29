@@ -6,7 +6,6 @@ name = "SBN-00921"
 [meta]
 bill_number = 921
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-921", "https://web.senate.gov.ph/lisdata/21231618!.pdf",]
 title = "UPGRADING LIBRARIES/READING CENTERS(ELECTRONIC LIBRARY TECH."
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7743, OTHERWISE KNOWN AS 'AN ACT PROVIDING FOR THE ESTABLISHMENT OF CONGRESSIONAL, CITY, AND MUNICIPAL LIBRARIES AND BARANGAY READING CENTERS THROUGHOUT THE PHILIPPINES' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Reading Centers/Library/Ra7743", "Electronic Library Tech
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21231618!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-921"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01159"
 [meta]
 bill_number = 1159
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1159", "https://web.senate.gov.ph/lisdata/1720914447!.pdf",]
 title = "OVARIAN CANCER PUBLIC AWARENESS CAMPAIGN"
 date_filed = "2013-07-30"
 long_title = "AN ACT ESTABLISHING AN OVARIAN CANCER PUBLIC AWARENESS CAMPAIGN"
@@ -15,6 +14,8 @@ subjects = [ "Ovarian Cancer",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1720914447!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1159"
 
 [[history]]
 date = "2013-07-30"

@@ -6,7 +6,6 @@ name = "SBN-02377"
 [meta]
 bill_number = 2377
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2377", "https://web.senate.gov.ph/lisdata/4226938460!.pdf",]
 title = "BLUE ECONOMY ACT"
 date_filed = "2023-08-01"
 long_title = "N ACT ESTABLISHING A FRAMEWORK FOR BLUE ECONOMY, PROMOTING STEWARDSHIP AND SUSTAINABLE DEVELOPMENT OF COASTAL AND MARINE ECOSYSTEMS AND RESOURCES"
@@ -15,6 +14,8 @@ subjects = [ "Coastal and Marine Ecosystem", "Blue Economy",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4226938460!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2377"
 
 [[history]]
 date = "2023-08-01"

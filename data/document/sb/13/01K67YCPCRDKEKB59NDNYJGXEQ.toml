@@ -6,7 +6,6 @@ name = "SBN-01813"
 [meta]
 bill_number = 1813
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1813", "https://web.senate.gov.ph/lisdata/30362216!.pdf",]
 title = "ARTISTS' RIGHTS AND THEFT PREVENTION ACT OF 2004"
 date_filed = "2004-10-05"
 long_title = "AN ACT TO PROVIDE CRIMINAL PENALTIES FOR UNAUTHORIZED RECORDING OF MOTION PICTURES IN A MOTION PICTURE EXHIBITION FACILITY, TO PROVIDE CRIMINAL AND CIVIL PENALTIES FOR UNAUTHORIZED DISTRIBUTION OF COMMERCIAL PRERELEASE COPYRIGHTED WORKS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Artists` Rights and Theft Prevention Act", "Movie Industry (Motion
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/30362216!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1813"
 
 [[history]]
 date = "2004-10-05"

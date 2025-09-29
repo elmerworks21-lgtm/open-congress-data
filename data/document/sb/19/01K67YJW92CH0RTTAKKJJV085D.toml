@@ -6,7 +6,6 @@ name = "SBN-01991"
 [meta]
 bill_number = 1991
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1991", "https://web.senate.gov.ph/lisdata/4114437461!.pdf",]
 title = "MIDSTREAM NATURAL GAS INDUSTRY DEVELOPMENT ACT"
 date_filed = "2023-03-13"
 long_title = "AN ACT PROVIDING FOR THE NATIONAL FRAMEWORK FOR THE DEVELOPMENT AND REGULATION OF THE PHILIPPINE MIDSTREAM NATURAL GAS INDUSTRY, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Natural Gas Industry",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4114437461!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1991"
 
 [[history]]
 date = "2023-03-13"

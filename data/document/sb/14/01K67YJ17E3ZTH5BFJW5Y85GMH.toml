@@ -6,7 +6,6 @@ name = "SBN-00753"
 [meta]
 bill_number = 753
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-753", "https://web.senate.gov.ph/lisdata/49754359!.pdf",]
 title = "P125.00 DAILY ACROSS THE BOARD WAGE INCREASE"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING FOR A P125.00 DAILY ACROSS-THE-BOARD INCREASE IN THE SALARY RATES OF EMPLOYEES AND WORKERS IN THE PRIVATE SECTOR AND FOR OTHER RELATED PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Across the Board Wage Increase (P125.00)",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49754359!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-753"
 
 [[history]]
 date = "2007-07-03"

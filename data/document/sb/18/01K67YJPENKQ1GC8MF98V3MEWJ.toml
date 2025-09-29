@@ -6,7 +6,6 @@ name = "SBN-00108"
 [meta]
 bill_number = 108
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-108", "https://web.senate.gov.ph/lisdata/3034827206!.pdf",]
 title = "NATIONAL COMMISSION ON DISABILITY AFFAIRS ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT REORGANIZING THE NATIONAL COUNCIL ON DISABILITY AFFAIRS INTO THE NATIONAL COMMISSION ON DISABILITY AFFAIRS, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Commission on Disability Affairs",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3034827206!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-108"
 
 [[history]]
 date = "2019-07-01"

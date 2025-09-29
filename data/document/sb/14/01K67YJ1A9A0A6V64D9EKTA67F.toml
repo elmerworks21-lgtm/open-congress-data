@@ -6,7 +6,6 @@ name = "SBN-00889"
 [meta]
 bill_number = 889
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-889", "https://web.senate.gov.ph/lisdata/51424515!.pdf",]
 title = "MILITARY DEPENDENT'S BENEFITS ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING FOR BENEFITS TO MILITARY DEPENDENTS, CREATING THE MILITARY DEPENDENTS WELFARE OFFICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Military Dependents Benefits",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51424515!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-889"
 
 [[history]]
 date = "2007-07-03"

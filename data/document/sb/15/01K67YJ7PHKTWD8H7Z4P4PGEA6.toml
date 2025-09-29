@@ -6,7 +6,6 @@ name = "SBN-00745"
 [meta]
 bill_number = 745
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-745", "https://web.senate.gov.ph/lisdata/80916564!.pdf",]
 title = "PATIENTS' GRIEVANCE MACHINERY ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT UPHOLDING THE RIGHT OF PATIENTS TO THE REDRESS OF THEIR TREATMENT – RELATED GRIEVANCES BY MANDATING THE CREATION OF GRIEVANCE BOARDS IN ALL PUBLIC AND PRIVATE HOSPITALS TO BE SUPERVISED BY DEPARTMENT OF HEALTH, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Health (DOH)", "Patients",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80916564!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-745"
 
 [[history]]
 date = "2010-07-07"

@@ -6,7 +6,6 @@ name = "SBN-02446"
 [meta]
 bill_number = 2446
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2446", "https://web.senate.gov.ph/lisdata/58494814!.pdf",]
 title = "ABANDONED MOTOR VEHICLE ACT OF 2006"
 date_filed = "2006-08-22"
 long_title = "AN ACT GOVERNING ABANDONED MOTOR VEHICLES AND DERELICT MOTOR VEHICLES"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicles (Abandoned", "Derelict)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58494814!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2446"
 
 [[history]]
 date = "2006-08-22"

@@ -6,7 +6,6 @@ name = "SBN-03078"
 [meta]
 bill_number = 3078
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3078", "https://web.senate.gov.ph/lisdata/2280919500!.pdf",]
 title = "ORGAN DONATION"
 date_filed = "2016-01-13"
 long_title = "AN ACT PROMOTING ORGAN DONATION AWARENESS"
@@ -15,6 +14,8 @@ subjects = [ "Organ Donation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2280919500!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3078"
 
 [[history]]
 date = "2016-01-13"

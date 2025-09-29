@@ -6,7 +6,6 @@ name = "SBN-02345"
 [meta]
 bill_number = 2345
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2345", "https://web.senate.gov.ph/lisdata/54894532!.pdf",]
 title = "FELONIES"
 date_filed = "2006-06-07"
 long_title = "AN ACT DEFINING AS QUALIFIED FELONIES CERTAIN FELONIES COMMITTED BY EMPLOYERS OR IMMEDIATE MEMBERS OF THEIR FAMILY AGAINST HOUSEHELPERS UNDER THEIR EMPLOY"
@@ -15,6 +14,8 @@ subjects = [ "Felonies (Qualified)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54894532!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2345"
 
 [[history]]
 date = "2006-06-07"

@@ -6,7 +6,6 @@ name = "SBN-00321"
 [meta]
 bill_number = 321
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-321", "https://web.senate.gov.ph/lisdata/44213824!.pdf",]
 title = "NATIONAL ACADEMY OF SPORTS ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT CREATING THE NATIONAL ACADEMY OF SPORTS AS AN ATTACHED AGENCY OF THE PHILIPPINE SPORTS COMMISSION, PROVIDING ITS STRUCTURE, POWERS AND FUNCTIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Academy of Sports", "Philippine Sports Commission",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44213824!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-321"
 
 [[history]]
 date = "2007-07-02"

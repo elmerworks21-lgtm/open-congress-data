@@ -6,7 +6,6 @@ name = "SBN-01515"
 [meta]
 bill_number = 1515
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1515", "https://web.senate.gov.ph/lisdata/2632322654!.pdf",]
 title = "THE EXPANDED PHILIPPINE SPORTS COMMISSION ACT OF 2017"
 date_filed = "2017-07-26"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE SPORTS COMMISSION, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6847, OTHERWISE KNOWN AS THE PHILIPPINE SPORTS COMMISSION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Sports Commission (PSC)",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2632322654!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1515"
 
 [[history]]
 date = "2017-07-26"

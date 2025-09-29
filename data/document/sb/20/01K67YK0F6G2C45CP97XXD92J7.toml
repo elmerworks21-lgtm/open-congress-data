@@ -6,7 +6,6 @@ name = "SBN-01134"
 [meta]
 bill_number = 1134
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1134", "https://web.senate.gov.ph/lisdata/4769943719!.pdf",]
 title = "CONTINUING PROFESSIONAL DEVELOPMENT ACT OF 2016"
 date_filed = "2025-08-07"
 long_title = "AN ACT REPEALING REPUBLIC ACT NO. 10912, OTHERWISE KNOWN AS THE CONTINUING PROFESSIONAL DEVELOPMENT ACT OF 2016"
@@ -15,6 +14,8 @@ subjects = [ "Continuing Professional Development (R.A.No. 10912)",]
 authors_raw = "Ejercito, Jv"
 author_codes = ["JVEJE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4769943719!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1134"
 
 [[history]]
 date = "2025-08-07"

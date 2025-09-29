@@ -6,7 +6,6 @@ name = "SBN-00781"
 [meta]
 bill_number = 781
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-781", "https://web.senate.gov.ph/lisdata/3113528034!.pdf",]
 title = "LEGAL EDUCATION IN OUR COUNTRY"
 date_filed = "2019-07-25"
 long_title = "AN ACT TO HARMONIZE LEGAL EDUCATION IN OUR COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Legal Education",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3113528034!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-781"
 
 [[history]]
 date = "2019-07-25"

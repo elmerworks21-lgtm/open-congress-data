@@ -6,7 +6,6 @@ name = "SBN-00673"
 [meta]
 bill_number = 673
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-673", "https://web.senate.gov.ph/lisdata/2416420801!.pdf",]
 title = "MENU NUTRITIONAL INFORMATION ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT MANDATING THE DISPLAY OF NUTRITIONAL INFORMATION ON THE MENU OF FOOD ESTABLISHMENT"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition", "Food Establishments",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2416420801!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-673"
 
 [[history]]
 date = "2016-07-20"

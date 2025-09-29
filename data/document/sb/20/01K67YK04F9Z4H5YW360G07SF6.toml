@@ -6,7 +6,6 @@ name = "SBN-00564"
 [meta]
 bill_number = 564
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-564", "https://web.senate.gov.ph/lisdata/4712343123!.pdf",]
 title = "COUNTERFEIT PHARMACEUTICAL PRODUCTS PREVENTION ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT STRENGTHENING THE REGULATORY SYSTEM IN THE COUNTRY TO PREVENT COUNTERFEIT PHARMACEUTICAL PRODUCTS, DECLARING LARGE-SCALE COUNTERFEITING ACTIVITIES AS AN OFFENSE INVOLVING ECONOMIC SABOTAGE, PROVIDING FOR THE PROHIBITIONS AND PENALTIES FOR VIOLATIONS THEREOF, AND REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 8203 OTHERWISE KNOWN AS THE 'SPECIAL LAW ON COUNTERFEIT DRUGS'"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Economic Sabotage", "Pharmaceutical Products", "Counterfeit Medicines",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4712343123!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-564"
 
 [[history]]
 date = "2025-07-14"

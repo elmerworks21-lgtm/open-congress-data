@@ -6,7 +6,6 @@ name = "SBN-01933"
 [meta]
 bill_number = 1933
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1933", "https://web.senate.gov.ph/lisdata/2835224701!.pdf",]
 title = "MARINDUQUE STATE UNIVERSITY"
 date_filed = "2018-08-14"
 long_title = "AN ACT CONVERTING THE MARINDUQUE STATE COLLEGE IN THE MUNICIPALITY OF BOAC, PROVINCE OF MARINDUQUE INTO A STATE UNIVERSITY TO BE KNOWN AS THE MARINDUQUE STATE UNIVERSITY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "State Colleges and Universities (SCUS)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2835224701!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1933"
 
 [[history]]
 date = "2018-08-14"

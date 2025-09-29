@@ -6,7 +6,6 @@ name = "SBN-01325"
 [meta]
 bill_number = 1325
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1325", "https://web.senate.gov.ph/lisdata/1742014654!.pdf",]
 title = "PEDESTRIAN SAFETY ENHANCEMENT ACT"
 date_filed = "2013-08-15"
 long_title = "AN ACT DIRECTING THE SECRETARY OF TRANSPORTATION AND COMMUNICATION TO STUDY AND ESTABLISH A MOTOR VEHICLE SAFETY STANDARD THAT PROVIDES FOR MEANS OF ALERTING THE BLIND AND OTHER PEDESTRIANS OF MOTOR VEHICLE OPERATION"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicles", "Pedestrian", "Department of Transportation and C
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1742014654!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1325"
 
 [[history]]
 date = "2013-08-15"

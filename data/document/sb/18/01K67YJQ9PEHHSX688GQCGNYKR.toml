@@ -6,7 +6,6 @@ name = "SBN-01321"
 [meta]
 bill_number = 1321
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1321", "https://web.senate.gov.ph/lisdata/3230229149!.pdf",]
 title = "SPECIAL DEFENSE ECONOMIC ZONE (SPEDEZ) ACT"
 date_filed = "2020-02-04"
 long_title = "AN ACT ESTABLISHING A SPECIAL DEFENSE ECONOMIC ZONE (SPEDEZ) INSIDE THE GOVERNMENT ARSENAL DEFENSE INDUSTRIAL ESTATE LOCATED IN CAMP GEN. ANTONIO LUNA, LAMAO, MUNICIPALITY OF LIMAY, PROVINCE OF BATAAN, CREATING FOR THIS PURPOSE THE SPECIAL DEFENSE ECONOMIC ZONE AUTHORITY (SPEDEZA) AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Special Defense Economic Zone (Spedez)",]
 authors_raw = "Recto, Ralph G., Angara, Sonny"
 author_codes = ["ASONN", "RRALP"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3230229149!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1321"
 
 [[history]]
 date = "2020-02-04"

@@ -6,7 +6,6 @@ name = "SBN-00397"
 [meta]
 bill_number = 397
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-397", "https://web.senate.gov.ph/lisdata/3815834598!.pdf",]
 title = "PHILIPPINE E-HEALTH SYSTEM AND SERVICES ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE E-HEALTH SYSTEM AND SERVICES IN SUPPORT OF UNIVERSAL HEALTH CARE, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine E-Health System and Services", "Universal Health Care",
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EJOSE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3815834598!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-397"
 
 [[history]]
 date = "2022-07-12"

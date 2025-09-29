@@ -6,7 +6,6 @@ name = "SBN-00252"
 [meta]
 bill_number = 252
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-252", "https://web.senate.gov.ph/lisdata/3798034423!.pdf",]
 title = "TAX-FREE IMPORTATION OF MEDICAL DEVICES AND EQUIPMENT ACT"
 date_filed = "2022-07-11"
 long_title = "AN ACT EXEMPTING FOR A PERIOD OF FIVE (5) YEARS THE IMPORTATION OF MEDICAL DEVICES AND EQUIPMENT FROM CUSTOMS DUTY AND VALUE- ADDED TAX"
@@ -15,6 +14,8 @@ subjects = [ "Tax Exemption", "Medical Devices", "Taxes (Value-Added Tax / Vat)"
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3798034423!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-252"
 
 [[history]]
 date = "2022-07-11"

@@ -6,7 +6,6 @@ name = "SBN-02666"
 [meta]
 bill_number = 2666
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2666", "https://web.senate.gov.ph/lisdata/71865777!.pdf",]
 title = "ANTI-VIDEO VOYEURISM ACT"
 date_filed = "2007-06-05"
 long_title = "AN ACT PENALIZING PHOTO AND VIDEO VOYEURISM"
@@ -15,6 +14,8 @@ subjects = [ "Anti Video Voyeurism", "Voyeurism (Penalizing)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71865777!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2666"
 
 [[history]]
 date = "2007-06-05"

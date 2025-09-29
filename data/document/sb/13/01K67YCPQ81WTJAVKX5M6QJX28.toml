@@ -6,7 +6,6 @@ name = "SBN-02307"
 [meta]
 bill_number = 2307
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2307", "https://web.senate.gov.ph/lisdata/54154507!.pdf",]
 title = "HUMAN RIGHTS TEACHING IN ALL PUBLIC/PRIVATE SCHOOLS"
 date_filed = "2006-06-07"
 long_title = "AN ACT REQUIRING THE TEACHING OF HUMAN RIGHTS AS MANDATORY IN ALL PUBLIC AND PRIVATE SCHOOLS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Human Rights Mandatory Course",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54154507!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2307"
 
 [[history]]
 date = "2006-06-07"

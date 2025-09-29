@@ -6,7 +6,6 @@ name = "SBN-01206"
 [meta]
 bill_number = 1206
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1206", "https://web.senate.gov.ph/lisdata/3193728791!.pdf",]
 title = "PRIORITY SEATING FOR THE ELDERLY ACT OF 2019"
 date_filed = "2019-11-27"
 long_title = "AN ACT REQUIRING ESTABLISHMENTS TO PROVIDE PRIORITY SEATING FOR THE ELDERLY, AND PROVIDING PENALTIES FOR THE VIOLATIONS THEREOF FURTHER AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9994, OTHERWISE KNOWN AS EXPANDED SENIOR CITIZEN’S ACT"
@@ -15,6 +14,8 @@ subjects = [ "Priority Seating", "Senior Citizen/Elderly",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3193728791!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1206"
 
 [[history]]
 date = "2019-11-27"

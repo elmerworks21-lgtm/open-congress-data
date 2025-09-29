@@ -6,7 +6,6 @@ name = "SBN-01766"
 [meta]
 bill_number = 1766
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1766", "https://web.senate.gov.ph/lisdata/1793215158!.pdf",]
 title = "PLAIN LANGUAGE ACT"
 date_filed = "2013-10-02"
 long_title = "AN ACT TO ENHANCE CITIZEN ACCESS TO GOVERNMENT INFORMATION AND SERVICES BY ESTABLISHING THAT GOVERNMENT DOCUMENTS ISSUED TO THE PUBLIC MUST BE WRITTEN CLEARLY AND IN PLAIN LANGUAGE"
@@ -15,6 +14,8 @@ subjects = [ "Plain Language",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1793215158!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1766"
 
 [[history]]
 date = "2013-10-02"

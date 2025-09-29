@@ -6,7 +6,6 @@ name = "SBN-01971"
 [meta]
 bill_number = 1971
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1971", "https://web.senate.gov.ph/lisdata/1834215517!.pdf",]
 title = "AMENDING SEC. 4, FISHERIES AND AQUATIC RESOURCES"
 date_filed = "2013-11-27"
 long_title = "AN ACT AMENDING SECTION 4 (PARAGRAPH 58) OF R.A. 8550, ENTITLED: AN ACT PROVIDING FOR THE DEVELOPMENT, MANAGEMENT AND CONSERVATION OF THE FISHERIES AND AQUATIC RESOURCES, INTEGRATING ALL LAWS PERTINENT THERETO, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Fisheries and Aquatic Resources", "Municipal Water",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1834215517!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1971"
 
 [[history]]
 date = "2013-11-27"

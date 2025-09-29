@@ -6,7 +6,6 @@ name = "SBN-02335"
 [meta]
 bill_number = 2335
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2335", "https://web.senate.gov.ph/lisdata/54654481!.pdf",]
 title = "SAFE SCHOOLS INTERNET ACT"
 date_filed = "2006-06-07"
 long_title = "AN ACT TO REQUIRE THE INSTALLATION OF A SYSTEM FOR FILTERING OR BLOCKING MATTER ON THE INTERNET ON COMPUTERS IN ELEMENTARY AND SECONDARY SCHOOLS AND LIBRARIES WITH INTERNET ACCESS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Safe Schools Internet Act",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54654481!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2335"
 
 [[history]]
 date = "2006-06-07"

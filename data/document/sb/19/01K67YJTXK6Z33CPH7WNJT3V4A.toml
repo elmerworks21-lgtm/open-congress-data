@@ -6,7 +6,6 @@ name = "SBN-00074"
 [meta]
 bill_number = 74
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-74", "https://web.senate.gov.ph/lisdata/3777734218!.pdf",]
 title = "AMENDING SEC. 2 OF R.A. NO. 10868 (THE CENTENARIANS ACT OF 2016)"
 date_filed = "2022-07-07"
 long_title = "AN ACT AMENDING SECTION TWO OF REPUBLIC ACT NO. 10868, OTHERWISE KNOWN AS ‘THE CENTENARIANS ACT OF 2016’"
@@ -15,6 +14,8 @@ subjects = [ "Centenarians",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
 author_codes = ["PAQUI"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3777734218!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-74"
 
 [[history]]
 date = "2022-07-07"

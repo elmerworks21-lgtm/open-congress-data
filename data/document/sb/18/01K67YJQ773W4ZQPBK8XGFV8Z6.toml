@@ -6,7 +6,6 @@ name = "SBN-01218"
 [meta]
 bill_number = 1218
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1218", "https://web.senate.gov.ph/lisdata/3197728825!.pdf",]
 title = "LABOR EDUCATION ACT"
 date_filed = "2019-12-09"
 long_title = "AN ACT INTEGRATING LABOR EDUCATION IN THE HIGHER EDUCATION CURRICULUM"
@@ -15,6 +14,8 @@ subjects = [ "Labor Education", "Higher Education Institutions", "Curriculum/Cur
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3197728825!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1218"
 
 [[history]]
 date = "2019-12-09"

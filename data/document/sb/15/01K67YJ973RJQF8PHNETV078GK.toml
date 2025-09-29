@@ -6,7 +6,6 @@ name = "SBN-02826"
 [meta]
 bill_number = 2826
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2826", "https://web.senate.gov.ph/lisdata/112619570!.pdf",]
 title = "SAMAR ISLAND MEDICAL CENTER"
 date_filed = "2011-05-17"
 long_title = "AN ACT CONVERTING THE NORTHERN SAMAR PROVINCIAL HOSPITAL IN CATARMAN, NORTHERN SAMAR INTO THE SAMAR ISLAND MEDICAL CENTER UNDER THE SUPERVISION, CONTROL AND MANAGEMENT OF THE DEPARTMENT OF HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Conversion",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/112619570!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2826"
 
 [[history]]
 date = "2011-05-17"

@@ -6,7 +6,6 @@ name = "SBN-02714"
 [meta]
 bill_number = 2714
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2714", "https://web.senate.gov.ph/lisdata/2080417897!.pdf",]
 title = "AMENDING SECS. 108 & 109, NATIONAL INTERNAL REVENUE CODE"
 date_filed = "2015-03-18"
 long_title = "AN ACT CLASSIFYING THE SALE OF ELECTRICITY BY GENERATION, TRANSMISSION AND DISTRIBUTION COMPANIES AND ELECTRIC COOPERATIVES, AND THE SERVICES OF FRANCHISE GRANTEES OF ELECTRIC UTILITIES, AND SALE OR IMPORTATION OF MACHINERY AND EQUIPMENT DIRECTLY USED IN GENERATION, TRANSMISSION, AND DISTRIBUTION OF ELECTRICITY AS VALUE-ADDED TAX EXEMPT TRANSACTIONS, AMENDING FOR THE PURPOSE, SECTIONS 108 (A) (II) AND 109 (1) OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED BY REPUBLIC ACT NO. 9337, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Value-Added Tax (VAT)", "
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2080417897!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2714"
 
 [[history]]
 date = "2015-03-18"

@@ -6,7 +6,6 @@ name = "SBN-00089"
 [meta]
 bill_number = 89
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-89", "https://web.senate.gov.ph/lisdata/4656343569!.pdf",]
 title = "ANTI-DOMESTIC VIOLENCE ACT OF 2025"
 date_filed = "2025-07-03"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9262 OR THE ANTI-VIOLENCE AGAINST WOMEN AND THEIR CHILDREN ACT OF 2004, EXPANDING THE SCOPE OF THE PROTECTION TO ALL FORMS OF DOMESTIC VIOLENCE REGARDLESS OF SEXUAL ORIENTATION, PROVIDING FOR THE SAME PROTECTIVE MEASURES, PRESCRIBING THE SAME PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Domestic Violence",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4656343569!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-89"
 
 [[history]]
 date = "2025-07-03"

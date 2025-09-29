@@ -6,7 +6,6 @@ name = "SBN-00251"
 [meta]
 bill_number = 251
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-251", "https://web.senate.gov.ph/lisdata/76876197!.pdf",]
 title = "RETIREMENT BENEFITS OF GOVERNMENT EMPLOYEES (IMMEDIATE RELEASE)"
 date_filed = "2010-07-06"
 long_title = "AN ACT REQUIRING ALL GOVERNMENT OFFICES TO ENSURE THE RELEASE OF THE RETIREMENT BENEFITS OF ITS EMPLOYEES WITHIN FIFTEEN DAYS FROM RETIREMENT"
@@ -15,6 +14,8 @@ subjects = [ "Retirement Pay (Early Release)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76876197!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-251"
 
 [[history]]
 date = "2010-07-06"

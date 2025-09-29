@@ -6,7 +6,6 @@ name = "SBN-01180"
 [meta]
 bill_number = 1180
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1180", "https://web.senate.gov.ph/lisdata/54754855!.pdf",]
 title = "DATA PROTECTION ACT OF 2007"
 date_filed = "2007-07-04"
 long_title = "AN ACT TO ESTABLISH FAIR PRACTICES IN THE PROCESSING OF INFORMATION RELATING OR PERSONAL TO INDIVIDUALS, CREATING FOR THE PURPOSE A PERSONAL DATA PROTECTION COMMISSION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Personal Data Protection",]
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54754855!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1180"
 
 [[history]]
 date = "2007-07-04"

@@ -6,7 +6,6 @@ name = "SBN-01123"
 [meta]
 bill_number = 1123
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1123", "https://web.senate.gov.ph/lisdata/2473421328!.pdf",]
 title = "EDUCATIONAL BENEFITS TO THE SURVIVING CHILDREN OF MEMBERS OF THE PHILIPPINE NATIONAL POLICE"
 date_filed = "2016-09-05"
 long_title = "AN ACT PROVIDING EDUCATIONAL BENEFITS TO THE SURVIVING CHILDREN OF MEMBERS OF THE PHILIPPINE NATIONAL POLICE WHO WERE SLAIN IN THE LINE OF DUTY, CREATING THE PNP EDUCATIONAL BENEFITS FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Educational Benefits", "Philippine National Police (PNP)",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2473421328!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1123"
 
 [[history]]
 date = "2016-09-05"

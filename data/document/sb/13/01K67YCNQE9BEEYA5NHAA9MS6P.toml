@@ -6,7 +6,6 @@ name = "SBN-00647"
 [meta]
 bill_number = 647
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-647", "https://web.senate.gov.ph/lisdata/18331208!.pdf",]
 title = "OFFICE OF VETERANS AFFAIRS IN PHILIPPIME EMBASSY IN USA"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO ESTABLISH AND MAINTAIN AN OFFICE OF VETERANS AFFAIRS IN THE PHILIPPINE EMBASSY IN THE UNITED STATES OF AMERICA, PRESCRIBING ITS FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Veterans Office (Phil. Embassy, Usa)", "Office of Veterans Affairs
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18331208!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-647"
 
 [[history]]
 date = "2004-06-30"

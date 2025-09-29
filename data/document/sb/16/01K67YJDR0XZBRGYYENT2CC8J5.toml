@@ -6,7 +6,6 @@ name = "SBN-02245"
 [meta]
 bill_number = 2245
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2245", "https://web.senate.gov.ph/lisdata/1919916323!.pdf",]
 title = "LPG INDUSTRY REGULATION AND SAFETY ACT OF 2014"
 date_filed = "2014-05-26"
 long_title = "AN ACT ESTABLISHING THE REGULATORY FRAMEWORK FOR THE SAFE OPERATIONS OF THE LIQUEFIED PETROLEUM GAS (LPG) INDUSTRY, DELINEATE THE POWERS AND FUNCTIONS OF VARIOUS GOVERNMENT AGENCIES, DEFINE AND PENALIZE CERTAIN ACTS, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Liquefied Petroleum Gas (LPG)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1919916323!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2245"
 
 [[history]]
 date = "2014-05-26"

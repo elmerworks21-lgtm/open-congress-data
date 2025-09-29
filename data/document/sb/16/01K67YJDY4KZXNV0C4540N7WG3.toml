@@ -6,7 +6,6 @@ name = "SBN-02484"
 [meta]
 bill_number = 2484
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2484", "https://web.senate.gov.ph/lisdata/2017417284!.pdf",]
 title = "PHILIPPINE MENTAL HEALTH ACT OF 2014"
 date_filed = "2014-12-03"
 long_title = "AN ACT PROMOTING MENTAL HEALTH, PROMULGATING A NATIONAL MENTAL HEALTH POLICY TOWARDS THE ENHANCEMENT OF INTEGRATED MENTAL HEALTH SERVICES, THE PROMOTION AND PROTECTION OF PERSONS UTILIZING MENTAL HEALTH SERVICES AND THE ESTABLISHMENT OF A PHILIPPINE MENTAL HEALTH COUNCIL"
@@ -15,6 +14,8 @@ subjects = [ "Mental Health",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2017417284!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2484"
 
 [[history]]
 date = "2014-12-03"

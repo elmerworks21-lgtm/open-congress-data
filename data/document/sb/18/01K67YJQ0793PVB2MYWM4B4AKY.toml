@@ -6,7 +6,6 @@ name = "SBN-00914"
 [meta]
 bill_number = 914
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-914", "https://web.senate.gov.ph/lisdata/3130128199!.pdf",]
 title = "RECLASSIFYING THE SALARY GRADE LEVEL OF CERTAIN EMPLOYEES IN THE JUDICIARY"
 date_filed = "2019-08-15"
 long_title = "AN ACT RECLASSIFYING THE SALARY AND QUALIFICATIONS OF CERTAIN EMPLOYEES IN THE JUDICIARY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Judiciary", "Salary Grade Level",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3130128199!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-914"
 
 [[history]]
 date = "2019-08-15"

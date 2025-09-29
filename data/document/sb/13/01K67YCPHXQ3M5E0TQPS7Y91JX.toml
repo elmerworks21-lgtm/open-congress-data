@@ -6,7 +6,6 @@ name = "SBN-02045"
 [meta]
 bill_number = 2045
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2045", "https://web.senate.gov.ph/lisdata/34822918!.pdf",]
 title = "SIARGAO GROUP OF ISLANDS"
 date_filed = "2005-06-08"
 long_title = "AN ACT TO ESTABLISH THE SIARGAO GROUP OF ISLANDS AS A PROTECTED AREA PURSUANT TO REPUBLIC ACT NO. 7586 (NIPAS ACT OF 1992) PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Siargao Group of Island",]
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34822918!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2045"
 
 [[history]]
 date = "2005-06-08"

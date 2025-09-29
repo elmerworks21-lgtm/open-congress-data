@@ -6,7 +6,6 @@ name = "SBN-01729"
 [meta]
 bill_number = 1729
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1729", "https://web.senate.gov.ph/lisdata/1787415097!.pdf",]
 title = "CLEAN COMMON CARRIERS ACT"
 date_filed = "2013-09-19"
 long_title = "AN ACT INCREASING THE PENALTIES FOR DRIVING AND/OR OPERATING COMMON CARRIERS WHILE UNDER THE INFLUENCE OF ALCOHOL, DRUGS, AND/OR SIMILAR SUBSTANCES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Drunk Driving", "Common Carriers",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1787415097!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1729"
 
 [[history]]
 date = "2013-09-19"

@@ -6,7 +6,6 @@ name = "SBN-00614"
 [meta]
 bill_number = 614
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-614", "https://web.senate.gov.ph/lisdata/80496521!.pdf",]
 title = "GENERIC ACT"
 date_filed = "2010-07-07"
 long_title = "AN ACT FURTHER ENSURING THE USE OF THE GENERIC NAMES IN THE MANUFACTURE, PRESCRIPTION AND DISTRIBUTION OF DRUGS AND MEDICINES, AMENDING FOR THE PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NO. 6675, OTHERWISE KNOWN AS THE ‘GENERIC ACT OF 1988’ AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medicines/Drugs", "Generic Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80496521!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-614"
 
 [[history]]
 date = "2010-07-07"

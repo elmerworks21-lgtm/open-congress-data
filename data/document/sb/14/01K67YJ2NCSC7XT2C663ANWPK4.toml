@@ -6,7 +6,6 @@ name = "SBN-02555"
 [meta]
 bill_number = 2555
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2555", "https://web.senate.gov.ph/lisdata/81367362!.pdf",]
 title = "NURSE FACULTY HIGHER EDUCATION ACT OF 2008"
 date_filed = "2008-08-21"
 long_title = "AN ACT TO CREATE A PILOT PROGRAM TO INCREASE THE NUMBER OF GRADUATE EDUCATED NURSE FACULTY TO MEET THE FUTURE NEED FOR QUALIFIED NURSES"
@@ -15,6 +14,8 @@ subjects = [ "Nurse Faculty Higher Education Act of 2008",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81367362!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2555"
 
 [[history]]
 date = "2008-08-21"

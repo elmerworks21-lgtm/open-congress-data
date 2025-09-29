@@ -6,7 +6,6 @@ name = "SBN-00520"
 [meta]
 bill_number = 520
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-520", "https://web.senate.gov.ph/lisdata/3090327752!.pdf",]
 title = "ANTI-PYRAMIDING ACT OF 2019"
 date_filed = "2019-07-16"
 long_title = "AN ACT PROHIBITING THE USE OF PYRAMID SCHEMES OR CHAIN DISTRIBUTION PLANS IN DOING BUSINESS AND PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pyramid Promotional Schemes",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3090327752!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-520"
 
 [[history]]
 date = "2019-07-16"

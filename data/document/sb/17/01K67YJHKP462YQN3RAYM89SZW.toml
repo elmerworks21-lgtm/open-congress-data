@@ -6,7 +6,6 @@ name = "SBN-00662"
 [meta]
 bill_number = 662
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-662", "https://web.senate.gov.ph/lisdata/2415020788!.pdf",]
 title = "FARE DISCOUNT FOR STUDENTS ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT INSTITUTIONALIZING THE GRANT OF STUDENT FARE DISCOUNT PRIVILEGES ON LAND, WATER, AND AIR TRANSPORT UTILITIES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Fare Discount", "Students",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Recto, Ralph G."
 author_codes = ["APAOL", "RRALP"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2415020788!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-662"
 
 [[history]]
 date = "2016-07-19"

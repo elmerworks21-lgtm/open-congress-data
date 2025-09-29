@@ -6,7 +6,6 @@ name = "SBN-03403"
 [meta]
 bill_number = 3403
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3403", "https://web.senate.gov.ph/lisdata/1222310736!.pdf",]
 title = "ACADEMIC EXCELLENCE ACT OF 2009"
 date_filed = "2009-08-24"
 long_title = "AN ACT ESTABLISHING THE ACADEMIC EXCELLENCE FOUNDATION TO PROMOTE ACADEMIC EXCELLENCE IN PUBLIC AND PRIVATE SCHOOLS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Academic Excellence",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1222310736!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3403"
 
 [[history]]
 date = "2009-08-24"

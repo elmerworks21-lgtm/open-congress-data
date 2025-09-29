@@ -6,7 +6,6 @@ name = "SBN-00090"
 [meta]
 bill_number = 90
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-90", "https://web.senate.gov.ph/lisdata/3032927158!.pdf",]
 title = "LAKE LANAO DEVELOPMENT AUTHORITY ACT OF 2019"
 date_filed = "2019-07-01"
 long_title = "AN ACT CREATING THE LAKE LANAO DEVELOPMENT AUTHORITY, DEFINING ITS POWERS, FUNCTIONS, AND DUTIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Lake Lanao Development Authority",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3032927158!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-90"
 
 [[history]]
 date = "2019-07-01"

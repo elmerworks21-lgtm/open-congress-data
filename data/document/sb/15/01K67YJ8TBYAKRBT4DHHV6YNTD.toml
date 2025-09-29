@@ -6,7 +6,6 @@ name = "SBN-02500"
 [meta]
 bill_number = 2500
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2500", "https://web.senate.gov.ph/lisdata/101338660!.pdf",]
 title = "INSURANCE CODE, REVISION"
 date_filed = "2010-09-13"
 long_title = "AN ACT REVISING PRESIDENTIAL DECREE NO. 612, OTHERWISE KNOWN AS THE INSURANCE CODE, AS AMENDED BY PRESIDENTIAL DECREE NOS. 1141, 1280, 1455, 1460, 1814, AND 1981, AND BATAS PAMBANSA BLG. 874, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Insurance Code",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101338660!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2500"
 
 [[history]]
 date = "2010-09-13"

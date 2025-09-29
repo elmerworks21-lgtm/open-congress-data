@@ -6,7 +6,6 @@ name = "SBN-00238"
 [meta]
 bill_number = 238
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-238", "https://web.senate.gov.ph/lisdata/1395657!.pdf",]
 title = "FARMER-BENEFICIARY VOLUNTARY LAND TRANSFER (CARL)"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING AMPLE OPPORTUNITY TO ALLOW LANDOWNERS AND TENANTS TO ENTER UNTO VOLUNTARY LAND TRANSFER AND/OR DIRECT PAYMENT SCHEME AND AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBERED SIXTY-SIX HUNDRED AND FIFTY-SEVEN OTHERWISE KNOWN AS THE COMPREHENSIVE AGRARIAN REFORM LAW OF NINETEEN HUNDRED AND EIGHTY-EIGHT, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Comprehensive Agrarian Reform Law (CARL)", "Farmer-Beneficiary (La
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["AGRAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1395657!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-238"
 
 [[history]]
 date = "2004-06-30"

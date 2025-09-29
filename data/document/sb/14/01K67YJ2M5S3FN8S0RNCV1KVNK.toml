@@ -6,7 +6,6 @@ name = "SBN-02496"
 [meta]
 bill_number = 2496
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2496", "https://web.senate.gov.ph/lisdata/79697201!.pdf",]
 title = "VETERANS CENTER SITE"
 date_filed = "2008-07-30"
 long_title = "AN ACT AMENDING PROCLAMATION NO. 192, SERIES OF 1967, RESERVING FOR THE VETERANS CENTER SITE PURPOSES A CERTAIN PARCEL OF LAND OF THE PRIVATE DOMAIN SITUATED IN THE PROVINCE OF RIZAL, ISLAND OF LUZON"
@@ -15,6 +14,8 @@ subjects = [ "Veterans",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79697201!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2496"
 
 [[history]]
 date = "2008-07-30"

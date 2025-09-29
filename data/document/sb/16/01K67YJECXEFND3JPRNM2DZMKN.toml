@@ -6,7 +6,6 @@ name = "SBN-02923"
 [meta]
 bill_number = 2923
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2923", "https://web.senate.gov.ph/lisdata/2212518825!.pdf",]
 title = "ANTI-AGRICULTURAL SMUGGLING ACT OF 2015"
 date_filed = "2015-09-01"
 long_title = "AN ACT DECLARING LARGE-SCALE AGRICULTURAL SMUGGLINGS AS ECONOMIC SABOTAGE, PRESCRIBING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Products", "Economic Sabotage", "Smuggling",]
 authors_raw = "Ejercito, Joseph Victor G., Villar, Cynthia A."
 author_codes = ["EVICT", "VCYNT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2212518825!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2923"
 
 [[history]]
 date = "2015-09-01"

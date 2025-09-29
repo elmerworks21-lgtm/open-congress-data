@@ -6,7 +6,6 @@ name = "SBN-00115"
 [meta]
 bill_number = 115
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-115", "https://web.senate.gov.ph/lisdata/3782334264!.pdf",]
 title = "PHILIPPINE CROP INSURANCE CORPORATION ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE CROP INSURANCE CORPORATION, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1467, AS AMENDED, ENTITLED CREATING THE PHILIPPINE CROP INSURANCE CORPORATION PRESCRIBING ITS POWERS AND ACTIVITIES, PROVIDING FOR ITS CAPITALIZATION AND FOR THE REQUIRED GOVERNMENT PREMIUM SUBSIDY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Crop Insurance Corporation",]
 authors_raw = "Binay, Maria Lourdes Nancy S., Villanueva, Joel"
 author_codes = ["BMARI", "VEMMA"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3782334264!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-115"
 
 [[history]]
 date = "2022-07-07"

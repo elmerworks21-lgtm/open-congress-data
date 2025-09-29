@@ -6,7 +6,6 @@ name = "SBN-00625"
 [meta]
 bill_number = 625
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-625", "https://web.senate.gov.ph/lisdata/3846835294!.pdf",]
 title = "NATIONAL DIGITAL TRANSFORMATION ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT ESTABLISHING A NATIONAL DIGITAL TRANSFORMATION POLICY AND CREATING A NATIONAL DIGITAL TRANSFORMATION COUNCIL FOR THE DEVELOPMENT AND IMPLEMENTATION THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Digital Transformation", "Information and Communications Technolog
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3846835294!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-625"
 
 [[history]]
 date = "2022-07-14"

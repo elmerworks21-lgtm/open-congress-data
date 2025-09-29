@@ -6,7 +6,6 @@ name = "SBN-02035"
 [meta]
 bill_number = 2035
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2035", "https://web.senate.gov.ph/lisdata/34712908!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSION"
 date_filed = "2005-06-02"
 long_title = "AN ACT RATIONALIZING THE COMPOSITION AND FUNCTIONS OF THE NATIONAL LABOR RELATIONS COMMISSION, AMENDING FOR THIS PURPOSE ARTICLE 213, 214, 215 AND 216 OF P.D. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Nat. Labor Relations Commission (NLRC)",]
 authors_raw = "Revilla Jr., Ramon A., Pimentel Jr., Aquilino Q., Ejercito-Estrada, Jinggoy P., Pangilinan, Francis N., Lacson, Panfilo M."
 author_codes = ["EJING", "LPANF", "PAQUI", "PFRAN", "RRAMO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34712908!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2035"
 
 [[history]]
 date = "2005-06-02"

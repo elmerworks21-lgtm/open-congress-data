@@ -6,7 +6,6 @@ name = "SBN-01111"
 [meta]
 bill_number = 1111
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1111", "https://web.senate.gov.ph/lisdata/53954770!.pdf",]
 title = "VALUE OF FAMILY HOME"
 date_filed = "2007-07-04"
 long_title = "AN ACT AMENDING EXECUTIVE ORDER NO. 209, ALSO KNOWN AS THE FAMILY CODE OF 1988, ARTICLE 157 ON THE VALUE OF THE FAMILY HOME"
@@ -15,6 +14,8 @@ subjects = [ "Family Home", "Family Code (E.O.No. 209)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53954770!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1111"
 
 [[history]]
 date = "2007-07-04"

@@ -6,7 +6,6 @@ name = "SBN-02432"
 [meta]
 bill_number = 2432
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2432", "https://web.senate.gov.ph/lisdata/57404763!.pdf",]
 title = "ENVIRONMENTAL AWARENESS AND EDUCATION ACT OF 2006"
 date_filed = "2006-08-03"
 long_title = "AN ACT TO PROMOTE ENVIRONMENTAL AWARENESS BY DECLARING JUNE 5 OF EVERY YEAR AS THE ENVIRONMENT DAY AND PRESCRIBING ENVIRONMENTAL EDUCATION TO ELEMENTARY AND HIGH SCHOOL STUDENTS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Awareness and Education Act",]
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/57404763!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2432"
 
 [[history]]
 date = "2006-08-03"

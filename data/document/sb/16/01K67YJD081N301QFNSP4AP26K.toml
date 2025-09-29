@@ -6,7 +6,6 @@ name = "SBN-01113"
 [meta]
 bill_number = 1113
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1113", "https://web.senate.gov.ph/lisdata/1716014398!.pdf",]
 title = "ANTI-GRAVE ROBBERS ACT"
 date_filed = "2013-07-25"
 long_title = "AN AC AMENDING ACT NO. 3815, OTHERWISE KNOWN AS THE PENAL CODE, BY PENALIZING ROBBERY COMMITTED IN A CEMETERY"
@@ -15,6 +14,8 @@ subjects = [ "Cemetery/Cemeteries", "Theft and Robbery", "Revised Penal Code (R.
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1716014398!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1113"
 
 [[history]]
 date = "2013-07-25"

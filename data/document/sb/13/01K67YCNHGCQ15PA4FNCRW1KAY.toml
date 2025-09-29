@@ -6,7 +6,6 @@ name = "SBN-00312"
 [meta]
 bill_number = 312
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-312", "https://web.senate.gov.ph/lisdata/1469764!.pdf",]
 title = "SALARY GRADE OF ELEM./HIGH SCHOOL PRINCIPALS EQUALIZATION"
 date_filed = "2004-06-30"
 long_title = "AN ACT EQUALIZING THE SALARY GRADE OF ELEMENTARY AND HIGH SCHOOL PRINCIPALS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "School Principals (Elem./High Schools)", "Salary Grade Equalizatio
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1469764!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-312"
 
 [[history]]
 date = "2004-06-30"

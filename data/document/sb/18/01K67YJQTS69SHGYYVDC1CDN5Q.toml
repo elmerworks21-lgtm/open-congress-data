@@ -6,7 +6,6 @@ name = "SBN-02033"
 [meta]
 bill_number = 2033
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2033", "https://web.senate.gov.ph/lisdata/3441331225!.pdf",]
 title = "EASTERN VISAYAS MEDICAL CENTER"
 date_filed = "2021-02-01"
 long_title = "AN ACT RENAMING THE EASTERN VISAYAS REGIONAL MEDICAL CENTER IN THE CITY OF TACLOBAN, PROVINCE OF LEYTE INTO EASTERN VISAYAS MEDICAL CENTER, INCREASING ITS BED CAPACITY FROM FIVE HUNDRED (500) TO ONE THOUSAND FIVE HUNDRED (1,500) BEDS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Change of Name", "Hospitals, Increase Bed Capacity",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3441331225!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2033"
 
 [[history]]
 date = "2021-02-01"

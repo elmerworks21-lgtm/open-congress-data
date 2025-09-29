@@ -6,7 +6,6 @@ name = "SBN-00035"
 [meta]
 bill_number = 35
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-35", "https://web.senate.gov.ph/lisdata/1169588!.pdf",]
 title = "COMMUNITY INTELLECTUAL RIGHTS PROTECTION ACT (CIRPA)"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A SYSTEM OF COMMUNITY INTELLECTUAL RIGHTS PROTECTION"
@@ -15,6 +14,8 @@ subjects = [ "Community Intellectual Rights Property", "Cirpa (Community Intelle
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1169588!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-35"
 
 [[history]]
 date = "2004-06-30"

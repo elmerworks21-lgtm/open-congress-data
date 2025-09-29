@@ -6,7 +6,6 @@ name = "SBN-00449"
 [meta]
 bill_number = 449
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-449", "https://web.senate.gov.ph/lisdata/1636513607!.pdf",]
 title = "CENTENARIANS ACT OF 2013"
 date_filed = "2013-07-04"
 long_title = "AN ACT HONORING AND GRANTING ADDITIONAL BENEFITS AND PRIVILEGES TO FILIPINO CENTENARIANS, DECLARING THE 25TH OF SEPTEMBER AS NATIONAL RESPECT FOR CENTENARIANS DAY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Centenarians",]
 authors_raw = "Recto, Ralph G., Villar, Cynthia A."
 author_codes = ["RRALP", "VCYNT"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1636513607!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-449"
 
 [[history]]
 date = "2013-07-04"

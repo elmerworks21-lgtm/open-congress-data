@@ -6,7 +6,6 @@ name = "SBN-00927"
 [meta]
 bill_number = 927
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-927", "https://web.senate.gov.ph/lisdata/3872235177!.pdf",]
 title = "AMENDING PD NO. 972, AS AMENDED BY P.D. NO. 1174 (COAL MINING DEVELOPMENT ACT OF 1976)"
 date_filed = "2022-07-28"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 972, AS AMENDED BY PRESIDENTIAL DECREE NO. 1174, OTHERWISE KNOWN AS THE 'COAL MINING DEVELOPMENT ACT OF 1976' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Coal Mining Development",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3872235177!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-927"
 
 [[history]]
 date = "2022-07-28"

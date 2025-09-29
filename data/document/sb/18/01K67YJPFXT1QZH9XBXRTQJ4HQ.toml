@@ -6,7 +6,6 @@ name = "SBN-00162"
 [meta]
 bill_number = 162
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-162", "https://web.senate.gov.ph/lisdata/3043827280!.pdf",]
 title = "GIRLS NOT BRIDES ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT PROTECTING CHILDREN BY PROHIBITING AND DECLARING CHILD MARRIAGE AS ILLEGAL, AND IMPOSING PENALTIES THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Child Marriage",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3043827280!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-162"
 
 [[history]]
 date = "2019-07-02"

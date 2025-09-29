@@ -6,7 +6,6 @@ name = "SBN-00328"
 [meta]
 bill_number = 328
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-328", "https://web.senate.gov.ph/lisdata/3061327469!.pdf",]
 title = "MAGNA CARTA OF WORKERS IN THE INFORMAL ECONOMY"
 date_filed = "2019-07-10"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF WORKERS IN INFORMAL ECONOMY, INSTITUTIONALIZING MECHANISMS FOR IMPLEMENTATION THEREOF AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3061327469!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-328"
 
 [[history]]
 date = "2019-07-10"

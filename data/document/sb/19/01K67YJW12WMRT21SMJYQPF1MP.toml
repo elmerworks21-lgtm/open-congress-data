@@ -6,7 +6,6 @@ name = "SBN-01639"
 [meta]
 bill_number = 1639
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1639", "https://web.senate.gov.ph/lisdata/4029936714!.pdf",]
 title = "LEGAL EDUCATION REFORM AND LEGAL SCHOLARSHIP AND RETURN SERVICE PROGRAM ACT"
 date_filed = "2023-01-09"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7662, OTHERWISE KNOWN AS THE LEGAL EDUCATION REFORM ACT OF 1993, CREATING FOR THE PURPOSE A LEGAL SCHOLARSHIP AND RETURN SERVICE PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Legal Education", "Scholarship Grants",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4029936714!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1639"
 
 [[history]]
 date = "2023-01-09"

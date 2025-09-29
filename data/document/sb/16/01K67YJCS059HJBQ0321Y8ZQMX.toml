@@ -6,7 +6,6 @@ name = "SBN-00765"
 [meta]
 bill_number = 765
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-765", "https://web.senate.gov.ph/lisdata/1671113947!.pdf",]
 title = "TAX REFORM ACT (SEC. 108 (B), R.A. NO. 8424)"
 date_filed = "2013-07-15"
 long_title = "AN ACT CLASSIFYING TRANSACTIONS INVOLVING PETROLEUM PRODUCTS AS ZERO PERCENT (0%) VALUE-ADDED TAX (VAT) TRANSACTIONS, AMENDING FOR THE PURPOSE SECTION 108 (B) OF REPUBLIC ACT NO. 8424, AS AMENDED BY REPUBLIC ACT NO. 9337, OTHERWISE KNOWN AS THE TAX REFORM ACT OF 1997, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tax Reform Act", "Petroleum Products", "Value-Added Tax (VAT)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1671113947!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-765"
 
 [[history]]
 date = "2013-07-15"

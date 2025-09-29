@@ -6,7 +6,6 @@ name = "SBN-01411"
 [meta]
 bill_number = 1411
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1411", "https://web.senate.gov.ph/lisdata/1750714743!.pdf",]
 title = "INFANT PROTECTION AND BABY SWITCHING PREVENTION ACT"
 date_filed = "2013-08-29"
 long_title = "AN ACT TO REQUIRE HOSPITALS TO ESTABLISH AND IMPLEMENT SECURITY PROCEDURES TO REDUCE THE LIKELIHOOD OF INFANT PATIENT ABDUCTION AND BABY SWITCHING, INCLUDING PROCEDURES FOR IDENTIFYING ALL INFANT PATIENTS IN THE HOSPITAL IN A MANNER THAT ENSURES IT WILL BE EVIDENT IF INFANTS ARE MISSING FROM THE HOSPITAL"
@@ -15,6 +14,8 @@ subjects = [ "Infant Patient Abduction", "Baby Switching",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1750714743!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1411"
 
 [[history]]
 date = "2013-08-29"

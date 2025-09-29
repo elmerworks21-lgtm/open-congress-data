@@ -6,7 +6,6 @@ name = "SBN-01921"
 [meta]
 bill_number = 1921
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1921", "https://web.senate.gov.ph/lisdata/1824315441!.pdf",]
 title = "AMENDING SEC. 37, CORPORATION CODE (GRANTING STOCKHOLDERS THE RIGHT OF APPRAISAL)"
 date_filed = "2013-11-14"
 long_title = "AN ACT AMENDING BATAS PAMBANSA BLG. 68, OTHERWISE KNOWN AS THE CORPORATION CODE, SECTION 37, GRANTING STOCKHOLDERS THE RIGHT OF APPRAISAL WHEN THE TERM OF CORPORATE EXISTENCE IS EXTENDED"
@@ -15,6 +14,8 @@ subjects = [ "Corporation Code",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1824315441!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1921"
 
 [[history]]
 date = "2013-11-14"

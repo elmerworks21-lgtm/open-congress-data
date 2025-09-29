@@ -6,7 +6,6 @@ name = "SBN-00033"
 [meta]
 bill_number = 33
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-33", "https://web.senate.gov.ph/lisdata/1167586!.pdf",]
 title = "BIO-MEDICAL WASTE CONTROL ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE REGULATION AND DISPOSAL OF BIO-MEDICAL WASTES, DECLARING CERTAIN ACTS UNLAWFUL, PRESCRIBING PENALTIES THERETO, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Bio-Medical Waste Control Act", "Medical Wastes Disposal",]
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1167586!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-33"
 
 [[history]]
 date = "2004-06-30"

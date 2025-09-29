@@ -6,7 +6,6 @@ name = "SBN-01048"
 [meta]
 bill_number = 1048
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1048", "https://web.senate.gov.ph/lisdata/4769143711!.pdf",]
 title = "AMENDING OMNIBUS ELECTION CODE (PROTECTING THE INTEGRITY OF THE RIGHT TO SUFFRAGE)"
 date_filed = "2025-08-06"
 long_title = "AN ACT FURTHER PROTECTING THE INTEGRITY OF THE RIGHT TO SUFFRAGE BY AMENDING SECTION 261 OF BATAS PAMBANSA BLG. 881, S. 1985, OTHERWISE KNOWN AS THE 'OMNIBUS ELECTION CODE,' AS AMENDED, DEFINING THE CRIME OF CYBER VOTE-BUYING AND VOTE-SELLING, AND PROVIDING PENALTIES THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Crime of Cyber Vote Buying/Vote Selling", "Omnibus Election Code (
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4769143711!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1048"
 
 [[history]]
 date = "2025-08-06"

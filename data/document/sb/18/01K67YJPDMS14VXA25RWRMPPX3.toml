@@ -6,7 +6,6 @@ name = "SBN-00061"
 [meta]
 bill_number = 61
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-61", "https://web.senate.gov.ph/lisdata/3029127119!.pdf",]
 title = "ALTERNATIVE CHILD CARE CODE OF THE PHILIPPINES"
 date_filed = "2019-07-01"
 long_title = "AN ACT CODIFYING THE ALTERNATIVE CHILD CARE LAWS, REORGANIZING THE INTERCOUNTRY ADOPTION BOARD IN TO THE NATIONAL AUTHORITY FOR CHILD CARE, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Alternative Child Care Code", "Adoption", "Foster Care",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3029127119!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-61"
 
 [[history]]
 date = "2019-07-01"

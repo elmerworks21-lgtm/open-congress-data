@@ -6,7 +6,6 @@ name = "SBN-00890"
 [meta]
 bill_number = 890
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-890", "https://web.senate.gov.ph/lisdata/4748343487!.pdf",]
 title = "DELAYED REGISTRATION OF BIRTH ACT"
 date_filed = "2025-08-05"
 long_title = "AN ACT STRENGTHEN THE SYSTEM OF FILING OF DELAYED REGISTRATION OF BIRTH IN THE COUNTRY, AMENDING FOR THE PURPOSE ACT NO. 3753"
@@ -15,6 +14,8 @@ subjects = [ "Delayed Registration of Birth", "Birth Registration",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4748343487!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-890"
 
 [[history]]
 date = "2025-08-05"

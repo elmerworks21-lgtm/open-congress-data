@@ -6,7 +6,6 @@ name = "SBN-01913"
 [meta]
 bill_number = 1913
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1913", "https://web.senate.gov.ph/lisdata/94848027!.pdf",]
 title = "ILLEGAL GAMBLING AND/OR BETTING"
 date_filed = "2010-07-22"
 long_title = "AN ACT RATIONALIZING THE LAW AGAINTS GAMBLING AND/OR BETTING BY PROVIDING STIFFER PENALTIES, FORFEITURE AND CONFISCATION PROVISIONS AND ESTABLISHING A PRIMA FACIE PRESUMPTION FOR VIOLATIONS THEREFOR, AMENDING FOR THESE PURPOSES PRESIDENTIAL DECREE NO. 1602"
@@ -15,6 +14,8 @@ subjects = [ "Illegal Gambling",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94848027!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1913"
 
 [[history]]
 date = "2010-07-22"

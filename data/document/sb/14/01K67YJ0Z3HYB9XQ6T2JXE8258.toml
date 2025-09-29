@@ -6,7 +6,6 @@ name = "SBN-00344"
 [meta]
 bill_number = 344
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-344", "https://web.senate.gov.ph/lisdata/44443847!.pdf",]
 title = "VOTERS REGISTRATION ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT AMENDING SECTION 58 OF REPUBLIC ACT 8189 OTHERWISE KNOWN AS ‘THE VOTERS REGISTRATION ACT OF 1996’ BY INCREASING THE PENALTY PROVIDED AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Voters Registration Act (RA 8189; Amendments)", "Election Offenses
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44443847!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-344"
 
 [[history]]
 date = "2007-07-02"

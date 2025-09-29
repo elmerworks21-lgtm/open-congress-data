@@ -6,7 +6,6 @@ name = "SBN-00225"
 [meta]
 bill_number = 225
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-225", "https://web.senate.gov.ph/lisdata/1382635!.pdf",]
 title = "HEALTH MAINTENANCE ORGANIZATION (HMOS) CODE OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING AFFORDABLE HEALTH CARE SERVICES, THROUGH THE HEALTH MAINTENANCE ORGANIZATIONS, REGULATING THEIR OPERATIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Maintenance Organization (HMOS)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1382635!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-225"
 
 [[history]]
 date = "2004-06-30"

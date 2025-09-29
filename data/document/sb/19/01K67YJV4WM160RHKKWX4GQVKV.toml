@@ -6,7 +6,6 @@ name = "SBN-00403"
 [meta]
 bill_number = 403
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-403", "https://web.senate.gov.ph/lisdata/3816434604!.pdf",]
 title = "NATIONAL TEACHERS MEDICAL CENTER ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT ESTABLISHING A SPECIAL HOSPITAL FOR TEACHERS AND THEIR DEPENDENTS, CONVERTING THE EAST AVENUE MEDICAL CENTER IN DILIMAN, QUEZON CITY INTO THE NATIONAL TEACHERS MEDICAL CENTER, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Teachers Medical Center", "Hospitals", "Hospitals, Establ
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3816434604!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-403"
 
 [[history]]
 date = "2022-07-12"

@@ -6,7 +6,6 @@ name = "SBN-01638"
 [meta]
 bill_number = 1638
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1638", "https://web.senate.gov.ph/lisdata/28182293!.pdf",]
 title = "AIRLINE PASSENGER FAIRNESS ACT"
 date_filed = "2004-08-04"
 long_title = "AN ACT ESTABLISHING A NATIONAL POLICY OF BASIC CONSUMER FAIR TREATMENT FOR AIRLINE PASSENGERS"
@@ -15,6 +14,8 @@ subjects = [ "Airline Passenger Fairness Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28182293!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1638"
 
 [[history]]
 date = "2004-08-04"

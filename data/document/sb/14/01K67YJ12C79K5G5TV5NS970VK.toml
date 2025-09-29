@@ -6,7 +6,6 @@ name = "SBN-00500"
 [meta]
 bill_number = 500
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-500", "https://web.senate.gov.ph/lisdata/47074030!.pdf",]
 title = "SUMMARY OF INCOME AND REVENUE (LOCAL GOVERNMENT)"
 date_filed = "2007-07-02"
 long_title = "AN ACT REQUIRING PROVINCIAL GOVERNORS, CITY AND MUNICIPAL MAYORS AND PUNONG BARANGAY TO POST AND PUBLISH WITHIN THE TERRITORIAL JURISDICTION OF THEIR LOCAL GOVERNMENT UNITS A SUMMARY OF INCOME AND REVENUE FROM BOTH PUBLIC AND PRIVATE SOURCES AND UTILIZATION OF FUNDS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Summary of Income and Revenue (Local Government)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47074030!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-500"
 
 [[history]]
 date = "2007-07-02"

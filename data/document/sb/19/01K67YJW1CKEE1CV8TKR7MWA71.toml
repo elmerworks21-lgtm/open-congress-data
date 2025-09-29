@@ -6,7 +6,6 @@ name = "SBN-01655"
 [meta]
 bill_number = 1655
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1655", "https://web.senate.gov.ph/lisdata/4033136745!.pdf",]
 title = "PHILIPPINE FILM ARCHIVE ACT OF 2022"
 date_filed = "2023-01-12"
 long_title = "AN ACT MAINTAINING AND PRESERVING FILIPINO FILMS, CREATING THE PHILIPPINE FILM ARCHIVE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Film Archive",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4033136745!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1655"
 
 [[history]]
 date = "2023-01-12"

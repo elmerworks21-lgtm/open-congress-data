@@ -6,7 +6,6 @@ name = "SBN-02012"
 [meta]
 bill_number = 2012
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2012", "https://web.senate.gov.ph/lisdata/1842015583!.pdf",]
 title = "CIVIL SERVICE CODE OF THE PHILIPPINES"
 date_filed = "2013-12-11"
 long_title = "AN ACT ESTABLISHING A CIVIL SERVICE CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Service Code",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1842015583!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2012"
 
 [[history]]
 date = "2013-12-11"

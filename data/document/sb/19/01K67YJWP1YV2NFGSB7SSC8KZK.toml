@@ -6,7 +6,6 @@ name = "SBN-02508"
 [meta]
 bill_number = 2508
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2508", "https://web.senate.gov.ph/lisdata/4314339248!.pdf",]
 title = "PHILIPPINE QUARANTINE AUTHORITY ACT OF 2023"
 date_filed = "2023-12-06"
 long_title = "AN ACT STRENGTHENING AND RATIONALIZING THE REGULATORY CAPACITY OF THE BUREAU OF QUARANTINE (BOQ), RENAMING IT TO PHILIPPINE QUARANTINE AUTHORITY (PQA), REPEALING REPUBLIC ACT 9271 (RA 9271), AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Bureau of Quarantine",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4314339248!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2508"
 
 [[history]]
 date = "2023-12-06"

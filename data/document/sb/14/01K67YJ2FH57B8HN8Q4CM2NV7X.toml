@@ -6,7 +6,6 @@ name = "SBN-02312"
 [meta]
 bill_number = 2312
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2312", "https://web.senate.gov.ph/lisdata/74456661!.pdf",]
 title = "BARANGAY HEALTH WORKERS (SEC. 6, R.A. 7883, P3,000.00 HONORARIA)"
 date_filed = "2008-05-21"
 long_title = "AN ACT GRANTING FIXED MONTHLY HONORARIA AND OTHER BENEFITS TO ACCREDITED BARANGAY HEALTH WORKERS, AMENDING FOR THE PURPOSE SECTION 6 OF REPUBLIC ACT 7883 OTHERWISE KNOWN AS THE BARANGAY HEALTH WORKERS INCENTIVES AND BENEFITS ACT OF 1995"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Worker",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74456661!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2312"
 
 [[history]]
 date = "2008-05-21"

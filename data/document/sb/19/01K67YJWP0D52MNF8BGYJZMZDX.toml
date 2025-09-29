@@ -6,7 +6,6 @@ name = "SBN-02507"
 [meta]
 bill_number = 2507
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2507", "https://web.senate.gov.ph/lisdata/4311439217!.pdf",]
 title = "NEGROS ISLAND REGION ACT"
 date_filed = "2023-12-06"
 long_title = "AN ACT ESTABLISHING THE NEGROS ISLAND REGION"
@@ -15,6 +14,8 @@ subjects = [ "Negros Island",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Villanueva, Joel, Gatchalian, Win, Ejercito, Joseph Victor G., Revilla Jr., Ramon Bong, Lapid, Manuel \"Lito\" M., Legarda, Loren B., Dela Rosa, Ronald \"Bato\", Angara, Sonny, Tolentino, Francis \"Tol\" N."
 author_codes = ["ASONN", "DRONA", "EJOSE", "GSHER", "LLORE", "LMANU", "RRAMO", "TFRAN", "VEMMA", "ZJMIG"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4311439217!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2507"
 
 [[history]]
 date = "2023-12-06"

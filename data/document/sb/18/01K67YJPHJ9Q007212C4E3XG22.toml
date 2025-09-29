@@ -6,7 +6,6 @@ name = "SBN-00235"
 [meta]
 bill_number = 235
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-235", "https://web.senate.gov.ph/lisdata/3049727371!.pdf",]
 title = "SECURITY OF TENURE FOR ALL LONG-TIME CASUAL AND CONTRACTUAL GOVERNMENT EMPLOYEES"
 date_filed = "2019-07-04"
 long_title = "AN ACT PROVIDING FOR SECURITY OF TENURE FOR ALL CASUAL AND CONTRACTUAL EMPLOYEE OF THE GOVERNMENT WHO HAVE RENDERED THE PRESCRIBED YEARS OF SERVICE IN THE NATIONAL GOVERNMENT AND THE LOCAL GOVERNMENT UNITS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Security of Tenure", "Casual/Contractual Employees", "Government E
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3049727371!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-235"
 
 [[history]]
 date = "2019-07-04"

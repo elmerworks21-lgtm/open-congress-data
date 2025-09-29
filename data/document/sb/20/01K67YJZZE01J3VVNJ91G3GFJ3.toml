@@ -6,7 +6,6 @@ name = "SBN-00292"
 [meta]
 bill_number = 292
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-292", "https://web.senate.gov.ph/lisdata/4678142788!.pdf",]
 title = "WASTE-TO-ENERGY ACT"
 date_filed = "2025-07-09"
 long_title = "AN ACT ESTABLISHING A NATIONAL ENERGY POLICY AND REGULATORY FRAMEWORK FOR FACILITIES UTILIZING WASTE-TO-ENERGY TECHNOLOGIES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4678142788!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-292"
 
 [[history]]
 date = "2025-07-09"

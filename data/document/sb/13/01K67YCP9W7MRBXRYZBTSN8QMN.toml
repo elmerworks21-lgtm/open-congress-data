@@ -6,7 +6,6 @@ name = "SBN-01660"
 [meta]
 bill_number = 1660
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1660", "https://web.senate.gov.ph/lisdata/28762342!.pdf",]
 title = "NO FRILLS PRISON ACT"
 date_filed = "2004-08-04"
 long_title = "AN ACT TO PREVENT LUXURIOUS CONDITIONS IN PRISONS"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners", "Detainees", "No Frills Prison Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28762342!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1660"
 
 [[history]]
 date = "2004-08-04"

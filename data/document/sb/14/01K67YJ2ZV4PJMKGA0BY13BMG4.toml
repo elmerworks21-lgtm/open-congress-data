@@ -6,7 +6,6 @@ name = "SBN-03023"
 [meta]
 bill_number = 3023
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3023", "https://web.senate.gov.ph/lisdata/101349054!.pdf",]
 title = "CONSUMER PROTECTION AGAINST COMPUTER SPYWARE ACT OF 2009"
 date_filed = "2009-01-28"
 long_title = "AN ACT PROTECTING CONSUMERS BY REGULATING THE UNAUTHORIZED AND DECEPTIVE INSTALLATION OF SPYWARE IN COMPUTERS, PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Computer Hardware/Software", "Consumers Rights Protection",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101349054!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3023"
 
 [[history]]
 date = "2009-01-28"

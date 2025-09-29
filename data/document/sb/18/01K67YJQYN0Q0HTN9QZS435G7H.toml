@@ -6,7 +6,6 @@ name = "SBN-02189"
 [meta]
 bill_number = 2189
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2189", "https://web.senate.gov.ph/lisdata/3501131838!.pdf",]
 title = "EXPANDING THE COVERAGE OF THE TELECOMMUTING ACT"
 date_filed = "2021-05-12"
 long_title = "AN ACT EXPANDING THE COVERAGE OF THE TELECOMMUTING ACT AND PROVIDING INCENTIVES FOR TELECOMMUTING EMPLOYEES, AMENDING FOR THE PURPOSE, REPUBLIC ACT NO. 11165, OTHERWISE KNOWN AS THE TELECOMMUTING ACT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Telecommuting",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3501131838!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2189"
 
 [[history]]
 date = "2021-05-12"

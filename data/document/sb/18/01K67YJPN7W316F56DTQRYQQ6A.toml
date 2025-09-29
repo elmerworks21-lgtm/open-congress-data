@@ -6,7 +6,6 @@ name = "SBN-00400"
 [meta]
 bill_number = 400
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-400", "https://web.senate.gov.ph/lisdata/3069627546!.pdf",]
 title = "ANTI-PRANK CALLERS ACT OF 2019"
 date_filed = "2019-07-11"
 long_title = "AN ACT PENALIZING PRANK CALLERS TO EMERGENCY HOTLINES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Prank Callers", "Emergency Hotline 117/Emergency Calls",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3069627546!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-400"
 
 [[history]]
 date = "2019-07-11"

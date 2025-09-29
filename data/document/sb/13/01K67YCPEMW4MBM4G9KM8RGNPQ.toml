@@ -6,7 +6,6 @@ name = "SBN-01892"
 [meta]
 bill_number = 1892
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1892", "https://web.senate.gov.ph/lisdata/31732355!.pdf",]
 title = "ANTI-PORNOGRAPHY ACT OF 2005"
 date_filed = "2005-01-26"
 long_title = "AN ACT PUNISHING THE PUBLICATION, BROADCASTING, AND EXHIBITION OF PORNOGRAPHIC MATERIALS THAT APPEAR IN TRADITIONAL MEDIA SUCH AS, BUT NOT LIMITED TO, PAPER, CELLULOID, FILM, MAGNETIC TAPOES, OR THROUGH AIRWAVES, OR THROUGH THE USE OF COMPUTERS, THE INTERNET, CYBERSPACE, INTERNET CHAT, WEB SITES, ELECTRONIC MAILS, OPTICAL MEDIA, OR OTHER ELECTRONIC MEDIA, AND OTHER TECHNOLOGICAL ADVANCEMENTS THEREOF, PROVIDING PENALTIES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Pornography Act",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31732355!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1892"
 
 [[history]]
 date = "2005-01-26"

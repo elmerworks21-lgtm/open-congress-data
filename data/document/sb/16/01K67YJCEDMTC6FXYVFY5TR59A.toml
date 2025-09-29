@@ -6,7 +6,6 @@ name = "SBN-00248"
 [meta]
 bill_number = 248
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-248", "https://web.senate.gov.ph/lisdata/1609613334!.pdf",]
 title = "CYBERCRIME PREVENTION ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT AMENDING SECTION 19 OF REPUBLIC ACT NO. 10175, OTHERWISE KNOWN AS THE CYBERCRIME PREVENTION ACT OF 2012"
@@ -15,6 +14,8 @@ subjects = [ "Cybercrime",]
 authors_raw = "Cayetano, Alan Peter Companero S."
 author_codes = ["CALAN"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1609613334!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-248"
 
 [[history]]
 date = "2013-07-01"

@@ -6,7 +6,6 @@ name = "SBN-01662"
 [meta]
 bill_number = 1662
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1662", "https://web.senate.gov.ph/lisdata/1779215029!.pdf",]
 title = "KAUNLARAN NG BAYAN"
 date_filed = "2013-09-16"
 long_title = "AN ACT INSTITUTING AN INCENTIVE PAY SYSTEM, BASED ON PRODUCTIVITY AND PERFORMANCE, FOR ALL OFFICIALS AND EMPLOYEES OF THE GOVERNMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Productivity Incentive", "Government Employees",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1779215029!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1662"
 
 [[history]]
 date = "2013-09-16"

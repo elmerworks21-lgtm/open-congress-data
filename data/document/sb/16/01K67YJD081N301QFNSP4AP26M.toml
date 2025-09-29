@@ -6,7 +6,6 @@ name = "SBN-01114"
 [meta]
 bill_number = 1114
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1114", "https://web.senate.gov.ph/lisdata/1716214400!.pdf",]
 title = "REGULATING AGGRESSIVE DRIVING"
 date_filed = "2013-07-25"
 long_title = "AN ACT REGULATING AGGRESSIVE DRIVING"
@@ -15,6 +14,8 @@ subjects = [ "Driving Behavior",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1716214400!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1114"
 
 [[history]]
 date = "2013-07-25"

@@ -6,7 +6,6 @@ name = "SBN-00243"
 [meta]
 bill_number = 243
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-243", "https://web.senate.gov.ph/lisdata/76626181!.pdf",]
 title = "MOTOR VEHICLE ACCIDENT PREVENTION COURSES"
 date_filed = "2010-07-06"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS TO EVALUATE, APPROVE AND ACCREDIT MOTOR VEHICLE ACCIDENT PREVENTION COURSES AND REQUIRING ALL LICENSED DRIVERS TO UNDERGO SUCH COURSES BEFORE THE ISSUANCE OF THEIR DRIVERS’ LICENSES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicles", "Department of Transportation and Communications 
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76626181!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-243"
 
 [[history]]
 date = "2010-07-06"

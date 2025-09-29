@@ -6,7 +6,6 @@ name = "SBN-03189"
 [meta]
 bill_number = 3189
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3189", "https://web.senate.gov.ph/lisdata/1322311102!.pdf",]
 title = "PET CLEANLINESS ACT"
 date_filed = "2012-05-09"
 long_title = "AN ACT DIRECTING OR MANDATING THE IMMEDIATE CLEANING OR REMOVING OF FECES OF DOGS AND OTHER PETS IN A PUBLIC OR PRIVATE PROPERTY NOT OWNED BY THE OWNER OR PERSON IN CHARGE OF THE DOG OR PET AND IMPOSING PENALTIES IN VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Pet Cleanliness",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1322311102!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3189"
 
 [[history]]
 date = "2012-05-09"

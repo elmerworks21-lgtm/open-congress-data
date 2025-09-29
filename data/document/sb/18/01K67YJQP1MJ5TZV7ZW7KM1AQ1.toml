@@ -6,7 +6,6 @@ name = "SBN-01845"
 [meta]
 bill_number = 1845
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1845", "https://web.senate.gov.ph/lisdata/3359030445!.pdf",]
 title = "FRONTLINE HEALTH WORKERS WELFARE ACT OF 2020"
 date_filed = "2020-09-23"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION AND ADVANCING THE WELFARE OF MEDICAL FRONTLINERS IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Frontliners", "Healthcare Workers",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3359030445!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1845"
 
 [[history]]
 date = "2020-09-23"

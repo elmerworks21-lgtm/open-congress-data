@@ -6,7 +6,6 @@ name = "SBN-00779"
 [meta]
 bill_number = 779
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-779", "https://web.senate.gov.ph/lisdata/3858035032!.pdf",]
 title = "ACT AMENDING SEC. 6 OF R.A. NO. 1379 (FORFEITURE LAW)"
 date_filed = "2022-07-19"
 long_title = "AN ACT AMENDING SECTION 6 OF REPUBLIC ACT NO. 1379, OTHERWISE KNOWN AS THE 'FORFEITURE LAW' TO PROVIDE A FIXED PERCENTAGE OF THE VALUE OF FORFEITED PROPERTIES IN CORRUPTION CASES AS ADDITIONAL FUNDING FOR THE OFFICE OF THE OMBUDSMAN AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forfeiture Law (R.A.No. 1379, Amendments)", "Ombudsman",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3858035032!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-779"
 
 [[history]]
 date = "2022-07-19"

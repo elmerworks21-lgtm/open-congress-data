@@ -6,7 +6,6 @@ name = "SBN-03291"
 [meta]
 bill_number = 3291
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3291", "https://web.senate.gov.ph/lisdata/1159210200!.pdf",]
 title = "DESTITUTE PERSONS ACT"
 date_filed = "2009-05-28"
 long_title = "AN ACT ESTABLISHING WELFARE HOMES FOR DESTITUTE PERSONS"
@@ -15,6 +14,8 @@ subjects = [ "Destitute Persons",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1159210200!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3291"
 
 [[history]]
 date = "2009-05-28"

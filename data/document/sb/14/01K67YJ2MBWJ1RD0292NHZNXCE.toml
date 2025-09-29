@@ -6,7 +6,6 @@ name = "SBN-02506"
 [meta]
 bill_number = 2506
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2506", "https://web.senate.gov.ph/lisdata/79707209!.pdf",]
 title = "INDUSTRIAL ENERGY EFFICIENCY RESEARCH AND DEVELOPMENT ACT OF 2008"
 date_filed = "2008-08-04"
 long_title = "AN ACT TO SUPPORT RESEARCH AND DEVELOPMENT OF NEW INDUSTRIAL PROCESSES AND TECHNOLOGIES THAT OPTIMIZE ENERGY EFFICIENCY AND ENVIRONMENTAL PERFORMANCE, UTILIZE DIVERSE SOURCES OF ENERGY, AND INCREASE ECONOMIC COMPETITIVENESS"
@@ -15,6 +14,8 @@ subjects = [ "Energy",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79707209!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2506"
 
 [[history]]
 date = "2008-08-04"

@@ -6,7 +6,6 @@ name = "SBN-00252"
 [meta]
 bill_number = 252
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-252", "https://web.senate.gov.ph/lisdata/4672942734!.pdf",]
 title = "OFW PENSION ACT OF 2025"
 date_filed = "2025-07-08"
 long_title = "AN ACT ESTABLISHING THE OVERSEAS FILIPINO WORKERS PENSION FUND TO PROVIDE PENSION TO OVERSEAS FILIPINO WORKERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Filipino Workers (OFW)",]
 authors_raw = "Tulfo, Erwin T."
 author_codes = ["TERWI"]
 committee_codes = ["MIGRW"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4672942734!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-252"
 
 [[history]]
 date = "2025-07-08"

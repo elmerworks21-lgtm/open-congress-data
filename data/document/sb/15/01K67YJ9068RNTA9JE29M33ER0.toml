@@ -6,7 +6,6 @@ name = "SBN-02558"
 [meta]
 bill_number = 2558
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2558", "https://web.senate.gov.ph/lisdata/102548787!.pdf",]
 title = "CLIMATE CHANGE ACT"
 date_filed = "2010-10-05"
 long_title = "AN ACT ESTABLISHING THE PEOPLE'S SURVIVAL FUND TO PROVIDE LONG-TERM FINANCE STREAMS TO ENABLE THE GOVERNMENT TO EFFECTIVELY ADDRESS THE PROBLEM OF CLIMATE CHANGE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9729, OTHERWISE KNOWN AS THE CLIMATE CHANGE ACT OF 2009, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Climate Change",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["CLIMC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/102548787!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2558"
 
 [[history]]
 date = "2010-10-05"

@@ -6,7 +6,6 @@ name = "SBN-00901"
 [meta]
 bill_number = 901
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-901", "https://web.senate.gov.ph/lisdata/3863235086!.pdf",]
 title = "PHILIPPINE RISE DEVELOPMENT AUTHORITY ACT OR PRDA ACT"
 date_filed = "2022-07-27"
 long_title = "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY (PRDA), DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Rise Development Authority",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3863235086!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-901"
 
 [[history]]
 date = "2022-07-27"

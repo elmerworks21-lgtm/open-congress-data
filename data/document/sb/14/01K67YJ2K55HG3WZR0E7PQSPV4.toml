@@ -6,7 +6,6 @@ name = "SBN-02452"
 [meta]
 bill_number = 2452
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2452", "https://web.senate.gov.ph/lisdata/79037112!.pdf",]
 title = "FREE VACCINATION AND IMMUNIZATION ACT OF 2008"
 date_filed = "2008-07-21"
 long_title = "AN ACT ESTABLISHING A COMPREHENSIVE VACCINATION AND IMMUNIZATION PROGRAM FOR FILIPINO INFANTS AND CHILDREN, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Babies/Infants", "Free Vaccination and Immunization",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79037112!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2452"
 
 [[history]]
 date = "2008-07-21"

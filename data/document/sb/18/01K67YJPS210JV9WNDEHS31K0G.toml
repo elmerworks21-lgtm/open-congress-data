@@ -6,7 +6,6 @@ name = "SBN-00583"
 [meta]
 bill_number = 583
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-583", "https://web.senate.gov.ph/lisdata/3086627857!.pdf",]
 title = "INFORMATION AND COMMUNICATIONS TECHNOLOGY TRANSFER ACCELERATION ACT OF 2019"
 date_filed = "2019-07-17"
 long_title = "AN ACT ACCELERATING THE TRANSFER OF INFORMATION AND COMMUNICATIONS, E-COMMERCE, AND SCIENCE AND TECHNOLOGY TO THE COUNTRYSIDE BY ESTABLISHING ICT CENTERS FOR EXCELLENCE IN ALL REGIONS OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Information and Communications Technology (ICT)",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3086627857!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-583"
 
 [[history]]
 date = "2019-07-17"

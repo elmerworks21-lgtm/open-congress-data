@@ -6,7 +6,6 @@ name = "SBN-00395"
 [meta]
 bill_number = 395
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-395", "https://web.senate.gov.ph/lisdata/3815634596!.pdf",]
 title = "BARANGAY FOOD SECURITY ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT MANDATING THE ESTABLISHMENT OF VEGETABLE CROP GARDENS FOR INDIGENTS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Vegetable Gardens", "Indigent Persons", "Food Security", "Urban Fa
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EJOSE"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3815634596!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-395"
 
 [[history]]
 date = "2022-07-12"

@@ -6,7 +6,6 @@ name = "SBN-00031"
 [meta]
 bill_number = 31
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-31", "https://web.senate.gov.ph/lisdata/42083471!.pdf",]
 title = "AFP CHIEF OF STAFF (FIXED TERM)"
 date_filed = "2007-06-30"
 long_title = "AN ACT PRESCRIBING A FIXED TERM FOR THE CHIEF OF STAFF OF THE ARMED FORCES OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "AFP Chief of Staff (Fixed Term)", "Armed Forces of the Philippines
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42083471!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-31"
 
 [[history]]
 date = "2007-06-30"

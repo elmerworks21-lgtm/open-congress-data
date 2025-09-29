@@ -6,7 +6,6 @@ name = "SBN-00191"
 [meta]
 bill_number = 191
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-191", "https://web.senate.gov.ph/lisdata/2361320269!.pdf",]
 title = "PHILIPPINE BOXER'S WELFARE ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT CREATING THE PHILIPPINE BOXING COMMISSION THEREBY STRENGTHENING THE COUNTRY'S STANDING IN BOXING SPORTS, ENSURING THE WELFARE OF FILIPINO BOXERS, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Boxing Commission",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2361320269!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-191"
 
 [[history]]
 date = "2016-06-30"

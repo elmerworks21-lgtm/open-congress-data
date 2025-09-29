@@ -6,7 +6,6 @@ name = "SBN-01204"
 [meta]
 bill_number = 1204
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1204", "https://web.senate.gov.ph/lisdata/3193528789!.pdf",]
 title = "CAMPUS PRESS FREEDOM ACT"
 date_filed = "2019-11-27"
 long_title = "AN ACT UPHOLDING AND PROMOTING CAMPUS JOURNALISM AND CAMPUS PRESS FREEDOM, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 7079, OTHERWISE KNOWN AS AN ACT PROVIDING FOR THE DEVELOPMENT AND PROMOTION OF CAMPUS JOURNALISM, PENALIZING VIOLATIONS AGAINST CAMPUS PRESS FREEDOM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Campus Press Freedom",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3193528789!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1204"
 
 [[history]]
 date = "2019-11-27"

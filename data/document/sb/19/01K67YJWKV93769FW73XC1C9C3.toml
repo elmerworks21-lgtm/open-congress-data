@@ -6,7 +6,6 @@ name = "SBN-02433"
 [meta]
 bill_number = 2433
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2433", "https://web.senate.gov.ph/lisdata/4262938767!.pdf",]
 title = "ESTABLISHING A LEVEL III GENERAL HOSPITAL IN BAY, LAGUNA (THE LAGUNA REGIONAL HOSPITAL)"
 date_filed = "2023-09-05"
 long_title = "AN ACT ESTABLISHING A LEVEL III GENERAL HOSPITAL IN THE MUNICIPALITY OF BAY, PROVINCE OF LAGUNA, TO BE KNOWN AS THE LAGUNA REGIONAL HOSPITAL, UNDER THE DIRECT CONTROL AND SUPERVISION OF THE DEPARTMENT OF HEALTH, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Hospitals, Establishment", "Department of Health (DOH)",]
 authors_raw = "Revilla Jr., Ramon Bong, Legarda, Loren B."
 author_codes = ["LLORE", "RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4262938767!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2433"
 
 [[history]]
 date = "2023-09-05"

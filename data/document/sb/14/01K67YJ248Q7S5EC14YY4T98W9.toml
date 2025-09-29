@@ -6,7 +6,6 @@ name = "SBN-01831"
 [meta]
 bill_number = 1831
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1831", "https://web.senate.gov.ph/lisdata/62945621!.pdf",]
 title = "BOARD ON COMPUTER EDUCATION, CREATION"
 date_filed = "2007-11-12"
 long_title = "AN ACT TO INTEGRATE A COMPUTER EDUCATION PROGRAM INTO THE EDUCATIONAL SYSTEM AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Board on Computer Education",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/62945621!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1831"
 
 [[history]]
 date = "2007-11-12"

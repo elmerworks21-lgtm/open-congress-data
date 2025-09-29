@@ -6,7 +6,6 @@ name = "SBN-00040"
 [meta]
 bill_number = 40
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-40", "https://web.senate.gov.ph/lisdata/1584813080!.pdf",]
 title = "NATIONAL ENVIRONMENTAL PROTECTION ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT CREATING THE NATIONAL ENVIRONMENTAL PROTECTION AGENCY, DEFINING ITS POWERS, FUNCTIONS AND RESPONSIBILITIES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Protection",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1584813080!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-40"
 
 [[history]]
 date = "2013-07-01"

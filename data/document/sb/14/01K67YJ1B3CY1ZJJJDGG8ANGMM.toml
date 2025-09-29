@@ -6,7 +6,6 @@ name = "SBN-00926"
 [meta]
 bill_number = 926
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-926", "https://web.senate.gov.ph/lisdata/51854552!.pdf",]
 title = "GOVERNMENT EMPLOYEES MAXIMIZE RETIREMENT BENEFITS"
 date_filed = "2007-07-04"
 long_title = "AN ACT TO FURTHER AMEND PRESIDENTIAL DECREE NO. 1146 AS AMENDED BY REPUBLIC ACT NO. 8291 OTHERWISE KNOWN AS THE REVISED GOVERNMENT SERVICE INSURANCE ACT OF 2007"
@@ -15,6 +14,8 @@ subjects = [ "Government Service Insurance System (GSIS)", "Retirement Benefits"
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51854552!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-926"
 
 [[history]]
 date = "2007-07-04"

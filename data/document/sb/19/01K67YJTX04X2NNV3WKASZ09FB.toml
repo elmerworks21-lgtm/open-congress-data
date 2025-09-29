@@ -6,7 +6,6 @@ name = "SBN-00046"
 [meta]
 bill_number = 46
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-46", "https://web.senate.gov.ph/lisdata/3774734189!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2022-07-06"
 long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Filipino Seafarers",]
 authors_raw = "Estrada, Jinggoy E., Padilla, Robinhood C., Villar, Cynthia A."
 author_codes = ["EJING", "PROBI", "VCYNT"]
 committee_codes = ["MIGRW"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3774734189!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-46"
 
 [[history]]
 date = "2022-07-06"

@@ -6,7 +6,6 @@ name = "SBN-01419"
 [meta]
 bill_number = 1419
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1419", "https://web.senate.gov.ph/lisdata/2580922170!.pdf",]
 title = "FREE IRRIGATION SERVICE AND CONDONATION ACT OF 2017"
 date_filed = "2017-05-02"
 long_title = "AN ACT PROVIDING FOR FREE IRRIGATION SERVICE AND THE CONDONATION OF BACK ACCOUNTS OR UNPAID IRRIGATION SERVICE FEES, AMORTIZATION AND EQUITY PAYMENTS OF FARMERS AND IRRIGATOR’S ASSOCIATIONS FROM THE NATIONAL IRRIGATION ADMINISTRATION"
@@ -15,6 +14,8 @@ subjects = [ "Irrigation", "Condonation", "National Irrigation Administration",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2580922170!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1419"
 
 [[history]]
 date = "2017-05-02"

@@ -6,7 +6,6 @@ name = "SBN-02759"
 [meta]
 bill_number = 2759
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2759", "https://web.senate.gov.ph/lisdata/110779429!.pdf",]
 title = "TOTAL PLASTIC BAG BAN ACT OF 2011"
 date_filed = "2011-03-29"
 long_title = "AN ACT PROHIBITING THE USE OF PLASTIC BAGS IN GROCERIES, RESTAURANTS, AND OTHER ESTABLISHMENTS, AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Plastic", "Shopping Bags",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/110779429!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2759"
 
 [[history]]
 date = "2011-03-29"

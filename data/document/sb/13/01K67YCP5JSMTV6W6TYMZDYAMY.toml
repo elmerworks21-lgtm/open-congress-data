@@ -6,7 +6,6 @@ name = "SBN-01411"
 [meta]
 bill_number = 1411
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1411", "https://web.senate.gov.ph/lisdata/26261990!.pdf",]
 title = "PHILIPPINE IMMIGRATION AND NATURALIZATION ACT OF 2004"
 date_filed = "2004-07-07"
 long_title = "AN ACT REORGANIZING THE BUREAU OF IMMIGRATION HEREINAFTER TO BE KNOWN AS THE COMMISSION ON IMMIGRATION AND NATURALIZATION, DEFINING ITS ORGANIZATIONAL STRUCTURE, AND THE POWERS AND FUNCTIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Phil. Immigration/Naturalization Act", "Bureau of Immigration (Reo
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26261990!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1411"
 
 [[history]]
 date = "2004-07-07"

@@ -6,7 +6,6 @@ name = "SBN-02350"
 [meta]
 bill_number = 2350
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2350", "https://web.senate.gov.ph/lisdata/75206735!.pdf",]
 title = "PHILIPPINE NATIONAL HEALTH RESEARCH SYSTEM ACT OF 2008"
 date_filed = "2008-05-28"
 long_title = "AN ACT ESTABLISHING A PHILIPPINE NATIONAL HEALTH RESEARCH SYSTEM MANDATING SELECTED GOVERNMENT AGENCIES TO ALLOCATE PERCENTAGES OF THEIR GROSS ANNUAL INCOME OR CHARGE ADDITIONAL FEES FOR HEALTH RESEARCH AND DEVELOPMENT (R & D) ACTIVITIES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine National Health Research System",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75206735!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2350"
 
 [[history]]
 date = "2008-05-28"

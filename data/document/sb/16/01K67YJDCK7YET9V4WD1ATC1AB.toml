@@ -6,7 +6,6 @@ name = "SBN-01711"
 [meta]
 bill_number = 1711
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1711", "https://web.senate.gov.ph/lisdata/1785315078!.pdf",]
 title = "FREEDOM OF INFORMATION ACT OF 2013"
 date_filed = "2013-09-18"
 long_title = "AN ACT FORTIFYING THE PEOPLE'S RIGHT OF OWNERSHIP OVER INFORMATION HELD BY THE PEOPLE'S GOVERNMENT"
@@ -15,6 +14,8 @@ subjects = [ "Right to Information",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1785315078!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1711"
 
 [[history]]
 date = "2013-09-18"

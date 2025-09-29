@@ -6,7 +6,6 @@ name = "SBN-02102"
 [meta]
 bill_number = 2102
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2102", "https://web.senate.gov.ph/lisdata/4145837750!.pdf",]
 title = "THE BARANGAY SKILLED WORKERS REGISTRY ACT OF 2023"
 date_filed = "2023-04-26"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF REGISTRIES OF PROFESSIONALS AND SKILLED WORKERS IN BARANGAYS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Registry of Professional/Skilled Workers", "Barangays",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4145837750!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2102"
 
 [[history]]
 date = "2023-04-26"

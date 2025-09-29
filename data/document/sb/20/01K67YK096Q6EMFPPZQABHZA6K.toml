@@ -6,7 +6,6 @@ name = "SBN-00816"
 [meta]
 bill_number = 816
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-816", "https://web.senate.gov.ph/lisdata/4738243384!.pdf",]
 title = "SCIENCE FOR CHANGE PROGRAM"
 date_filed = "2025-08-04"
 long_title = "AN ACT ESTABLISHING THE SCIENCE FOR CHANGE PROGRAM AND APPROPRIATING FUNDS, THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Science for Change Program",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4738243384!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-816"
 
 [[history]]
 date = "2025-08-04"

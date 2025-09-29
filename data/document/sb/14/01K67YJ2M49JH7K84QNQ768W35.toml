@@ -6,7 +6,6 @@ name = "SBN-02495"
 [meta]
 bill_number = 2495
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2495", "https://web.senate.gov.ph/lisdata/79297225!.pdf",]
 title = "CRIMINALIZING NECROPHILIA"
 date_filed = "2008-07-30"
 long_title = "AN ACT CRIMINALIZING NECROPHILIA AND IMPOSING APPROPRIATE PENALTIES THEREFOR, INCORPORATING FOR THIS PURPOSE ARTICLE 335-A INTO ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Villar, Manny, Escudero, Francis \"Chiz\" G., Gordon, Richard \"Dick\" J., Lapid, Manuel \"Lito\" M."
 author_codes = ["EFRAN", "GRICH", "LMANU", "VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79297225!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2495"
 
 [[history]]
 date = "2008-07-30"

@@ -6,7 +6,6 @@ name = "SBN-02094"
 [meta]
 bill_number = 2094
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2094", "https://web.senate.gov.ph/lisdata/38733238!.pdf",]
 title = "CLEAN COMMON CARRIERS ACT OF 2005"
 date_filed = "2005-08-23"
 long_title = "AN ACT INCREASING THE PENALTIES OF DRIVERS AND OPERATORS OF COMMON CARRIERS OPERATING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS"
@@ -15,6 +14,8 @@ subjects = [ "Clean Common Carriers Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/38733238!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2094"
 
 [[history]]
 date = "2005-08-23"

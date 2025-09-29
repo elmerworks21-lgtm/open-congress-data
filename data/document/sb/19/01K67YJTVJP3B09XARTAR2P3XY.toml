@@ -6,7 +6,6 @@ name = "SBN-00011"
 [meta]
 bill_number = 11
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-11", "https://web.senate.gov.ph/lisdata/3771234154!.pdf",]
 title = "EDUCATION ROADMAP ACT"
 date_filed = "2022-07-05"
 long_title = "AN ACT PROVIDING FOR AN EDUCATION ROADMAP TOWARDS GLOBAL COMPETITIVENESS AND HUMAN CAPITAL DEVELOPMENT"
@@ -15,6 +14,8 @@ subjects = [ "Educational Roadmap", "Road Map",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3771234154!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-11"
 
 [[history]]
 date = "2022-07-05"

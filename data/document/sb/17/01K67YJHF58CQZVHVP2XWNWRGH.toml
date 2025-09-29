@@ -6,7 +6,6 @@ name = "SBN-00446"
 [meta]
 bill_number = 446
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-446", "https://web.senate.gov.ph/lisdata/2388320676!.pdf",]
 title = "GREEN ROOFTOP ACT"
 date_filed = "2016-07-19"
 long_title = "AN ACT PROMOTING GREEN ROOFTOPS ON ALL NEW COMMERCIAL, INDUSTRIAL AND GOVERNMENT-OWNED BUILDINGS IN THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Green Rooftops Act",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2388320676!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-446"
 
 [[history]]
 date = "2016-07-19"

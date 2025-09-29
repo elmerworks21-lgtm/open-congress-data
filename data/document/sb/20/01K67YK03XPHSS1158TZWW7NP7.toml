@@ -6,7 +6,6 @@ name = "SBN-00533"
 [meta]
 bill_number = 533
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-533", "https://web.senate.gov.ph/lisdata/4708843088!.pdf",]
 title = "FREE PROFESSIONAL EXAMINATIONS ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT EXEMPTING QUALIFIED INDIGENTS FROM THE PAYMENT OF PROFESSIONAL EXAMINATION FEES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Entrance and Licensure Examinations", "Indigent Persons",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4708843088!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-533"
 
 [[history]]
 date = "2025-07-14"

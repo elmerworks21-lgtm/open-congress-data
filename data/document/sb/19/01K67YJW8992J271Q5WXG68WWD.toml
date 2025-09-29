@@ -6,7 +6,6 @@ name = "SBN-01958"
 [meta]
 bill_number = 1958
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1958", "https://web.senate.gov.ph/lisdata/4098637352!.pdf",]
 title = "SUSTAINABLE TRANSPORTATION ACT OF 2023"
 date_filed = "2023-03-02"
 long_title = "AN ACT PROMOTING SUSTAINABLE AND ALTERNATIVE MODES OF TRANSPORTATION AND OTHER MOBILITY OPTIONS TO IMPROVE AIR QUALITY, INCREASE EFFICIENCY, REDUCE CONGESTION, AND CONTRIBUTE TO POSITIVE HEALTH IMPACTS IN OUR SOCIETY"
@@ -15,6 +14,8 @@ subjects = [ "Sustainable Transportation",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["SDGIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4098637352!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1958"
 
 [[history]]
 date = "2023-03-02"

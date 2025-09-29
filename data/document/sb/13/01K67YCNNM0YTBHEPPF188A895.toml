@@ -6,7 +6,6 @@ name = "SBN-00542"
 [meta]
 bill_number = 542
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-542", "https://web.senate.gov.ph/lisdata/16991039!.pdf",]
 title = "SCIENTIFIC AND TECHNOLOGICAL RESEARCH AND DEVELOPMENT ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT MANDATING MULTINATIONAL AND DOMESTIC MANUFACTURING CORPORATIONS TO ALLOCATE ONE PERCENT (1%) OF THEIR ANNUAL CORPORATE INCOME FOR SCIENTIFIC AND TECHNOLOGICAL RESEARCH AND DEVELOPMENT"
@@ -15,6 +14,8 @@ subjects = [ "Scientific/Technological Research & Devt", "Multinational Companie
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/16991039!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-542"
 
 [[history]]
 date = "2004-06-30"

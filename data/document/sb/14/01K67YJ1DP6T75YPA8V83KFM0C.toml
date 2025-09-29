@@ -6,7 +6,6 @@ name = "SBN-01056"
 [meta]
 bill_number = 1056
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1056", "https://web.senate.gov.ph/lisdata/53324720!.pdf",]
 title = "NON-INDIGENOUS SPECIES MANAGEMENT ACT OF 2007"
 date_filed = "2007-07-04"
 long_title = "AN ACT CREATING THE NON-INDIGENOUS SPECIES MANAGEMENT PLAN AND LISTING PROCESS FOR NON-NATIVE SPECIES"
@@ -15,6 +14,8 @@ subjects = [ "Non-Indigenous Species Management Act of 2007",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53324720!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1056"
 
 [[history]]
 date = "2007-07-04"

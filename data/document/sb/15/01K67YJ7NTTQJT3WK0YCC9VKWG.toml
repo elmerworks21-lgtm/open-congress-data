@@ -6,7 +6,6 @@ name = "SBN-00709"
 [meta]
 bill_number = 709
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-709", "https://web.senate.gov.ph/lisdata/80346506!.pdf",]
 title = "TELECOMMUNICATIONS ACCESSIBILITY ENHANCEMENT ACT"
 date_filed = "2010-07-07"
 long_title = "AN ACT PROVIDING TELECOMMUNICATIONS SYSTEMS ACCESSIBILITY TO THE HEARING-IMPAIRED AND SPEECH-IMPAIRED"
@@ -15,6 +14,8 @@ subjects = [ "Telecommunications Systems Accessibility",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80346506!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-709"
 
 [[history]]
 date = "2010-07-07"

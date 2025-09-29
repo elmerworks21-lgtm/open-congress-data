@@ -6,7 +6,6 @@ name = "SBN-01213"
 [meta]
 bill_number = 1213
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1213", "https://web.senate.gov.ph/lisdata/3197028818!.pdf",]
 title = "NATIONAL ROAD SAFETY UNIT ACT OF 2019"
 date_filed = "2019-11-28"
 long_title = "AN ACT CREATING THE NATIONAL ROAD SAFETY UNIT (NRSU) UNDER THE DEPARTMENT OF TRANSPORTATION, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Road Safety", "Department of Transportation (DOTR)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3197028818!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1213"
 
 [[history]]
 date = "2019-11-28"

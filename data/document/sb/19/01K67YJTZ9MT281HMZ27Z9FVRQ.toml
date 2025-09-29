@@ -6,7 +6,6 @@ name = "SBN-00149"
 [meta]
 bill_number = 149
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-149", "https://web.senate.gov.ph/lisdata/3785734298!.pdf",]
 title = "TEACHER SALARY INCREASE ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT INCREASING THE SALARY GRADES OF TEACHER I TO TEACHER III AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Salary Grade Level", "Salary",]
 authors_raw = "Gatchalian, Win, Escudero, Francis G."
 author_codes = ["EFRAN", "GSHER"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3785734298!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-149"
 
 [[history]]
 date = "2022-07-07"

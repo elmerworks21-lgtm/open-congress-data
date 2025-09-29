@@ -6,7 +6,6 @@ name = "SBN-00318"
 [meta]
 bill_number = 318
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-318", "https://web.senate.gov.ph/lisdata/3807634519!.pdf",]
 title = "E-GOVERNANCE ACT OF 2022"
 date_filed = "2022-07-12"
 long_title = "AN ACT INSTITUTIONALIZING THE TRANSITION OF THE GOVERNMENT TO E-GOVERNANCE IN THE DIGITAL AGE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "E-Governance", "E-Government Services", "Information and Communica
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3807634519!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-318"
 
 [[history]]
 date = "2022-07-12"

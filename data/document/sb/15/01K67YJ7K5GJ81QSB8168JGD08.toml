@@ -6,7 +6,6 @@ name = "SBN-00576"
 [meta]
 bill_number = 576
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-576", "https://web.senate.gov.ph/lisdata/79876468!.pdf",]
 title = "INSURANCE CODE (AMENDING SEC. 385, P.D. NO. 1460)"
 date_filed = "2010-07-07"
 long_title = "AN ACT AMENDING SECTION 385 OF PRESIDENTIAL DECREE NO. 1460, AS AMENDED BY PRESIDENTIAL DECREE 1455, OTHERWISE KNOWN AS THE INSURANCE CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Insurance Code",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79876468!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-576"
 
 [[history]]
 date = "2010-07-07"

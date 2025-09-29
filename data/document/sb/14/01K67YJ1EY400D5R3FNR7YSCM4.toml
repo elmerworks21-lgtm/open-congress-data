@@ -6,7 +6,6 @@ name = "SBN-01116"
 [meta]
 bill_number = 1116
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1116", "https://web.senate.gov.ph/lisdata/54004775!.pdf",]
 title = "VISION CARE FOR KIDS ACT OF 2007"
 date_filed = "2007-07-04"
 long_title = "AN ACT TO ESTABLISH A GRANT PROGRAM TO PROVIDE VISION CARE TO CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Vision Care for Kids",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54004775!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1116"
 
 [[history]]
 date = "2007-07-04"

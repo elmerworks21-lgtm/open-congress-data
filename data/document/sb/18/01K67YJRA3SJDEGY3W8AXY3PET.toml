@@ -6,7 +6,6 @@ name = "SBN-02483"
 [meta]
 bill_number = 2483
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2483", "https://web.senate.gov.ph/lisdata/3699633345!.pdf",]
 title = "AMENDING R.A. NO. 9266 ('ARCHITECTURE ACT OF 2004)"
 date_filed = "2022-01-24"
 long_title = "AN ACT STRENGTHENING THE ARCHITECTURE PROFESSION, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9266, OTHERWISE KNOWN AS THE 'ARCHITECTURE ACT OF 2004'"
@@ -15,6 +14,8 @@ subjects = [ "Architecture",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3699633345!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2483"
 
 [[history]]
 date = "2022-01-24"

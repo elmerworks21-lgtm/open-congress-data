@@ -6,7 +6,6 @@ name = "SBN-01848"
 [meta]
 bill_number = 1848
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1848", "https://web.senate.gov.ph/lisdata/3360530461!.pdf",]
 title = "DEPARTMENT OF OVERSEAS FILIPINOS ACT OF 2020"
 date_filed = "2020-09-23"
 long_title = "AN ACT CREATING THE DEPARTMENT OF OVERSEAS FILIPINOS, DEFINING ITS POWERS AND FUNCTIONS, RATIONALIZING THE ORGANIZATION AND FUNCTIONS OF GOVERNMENT AGENCIES RELATED TO OVERSEAS EMPLOYMENT AND MIGRATION, APPROPRIATING FUNDS THEREFOR, AND OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Overseas Filipino Workers (DOFW)", "Overseas Filipin
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3360530461!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1848"
 
 [[history]]
 date = "2020-09-23"

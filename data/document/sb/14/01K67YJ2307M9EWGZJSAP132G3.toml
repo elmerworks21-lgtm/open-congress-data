@@ -6,7 +6,6 @@ name = "SBN-01768"
 [meta]
 bill_number = 1768
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1768", "https://web.senate.gov.ph/lisdata/61555486!.pdf",]
 title = "PRESCRIPTION DRUG PRICE MONITORING ACT OF 2007"
 date_filed = "2007-10-16"
 long_title = "AN ACT ESTABLISHING A PRESCRIPTION DRUG PRICE MONITORING COMMISSION"
@@ -15,6 +14,8 @@ subjects = [ "Drugs and Medicines",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/61555486!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1768"
 
 [[history]]
 date = "2007-10-16"

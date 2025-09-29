@@ -6,7 +6,6 @@ name = "SBN-00470"
 [meta]
 bill_number = 470
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-470", "https://web.senate.gov.ph/lisdata/1634913590!.pdf",]
 title = "PRESIDENTIAL DECREE NO. 1606 (AMENDMENTS)"
 date_filed = "2013-07-04"
 long_title = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 1606, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Sandiganbayan",]
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1634913590!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-470"
 
 [[history]]
 date = "2013-07-04"

@@ -6,7 +6,6 @@ name = "SBN-02204"
 [meta]
 bill_number = 2204
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2204", "https://web.senate.gov.ph/lisdata/2956226250!.pdf",]
 title = "ANTI-TERRORISM ACT OF 2019"
 date_filed = "2019-02-04"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 9372, OTHERWISE KNOWN AS AN ACT TO SECURE THE STATE AND PROTECT OUR PEOPLE FROM TERRORISM"
@@ -15,6 +14,8 @@ subjects = [ "Terrorism",]
 authors_raw = "Gordon, Richard J., Honasan II, Gregorio B., Sotto III, Vicente C., Lacson, Panfilo M., Legarda, Loren B."
 author_codes = ["GRICH", "HGREG", "LLORE", "LPANF", "SVICE"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2956226250!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2204"
 
 [[history]]
 date = "2019-02-04"

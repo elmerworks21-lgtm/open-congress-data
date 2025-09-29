@@ -6,7 +6,6 @@ name = "SBN-02465"
 [meta]
 bill_number = 2465
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2465", "https://web.senate.gov.ph/lisdata/79307163!.pdf",]
 title = "CHANGING THE NOMENCLATURE OF THE NATIONAL LIBRARY"
 date_filed = "2008-07-24"
 long_title = "AN ACT FURTHER CHANGING THE NOMENCLATURE OF THE NATIONAL LIBRARY INTO THE NATIONAL LIBRARY OF THE PHILIPPINES, AMENDING FOR THE PURPOSE SECTIONS 1 AND 2 OF REPUBLIC ACT NUMBERED THREE THOUSAND EIGHT HUNDRED SEVENTY-THREE, ENTITLED AN ACT CHANGING THE NAME OF THE BUREAU OF PUBLIC LIBRARIES TO THE NATIONAL LIBRARY"
@@ -15,6 +14,8 @@ subjects = [ "National Library",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79307163!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2465"
 
 [[history]]
 date = "2008-07-24"

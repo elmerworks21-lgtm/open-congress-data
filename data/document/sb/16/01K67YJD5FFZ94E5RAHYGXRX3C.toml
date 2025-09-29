@@ -6,7 +6,6 @@ name = "SBN-01371"
 [meta]
 bill_number = 1371
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1371", "https://web.senate.gov.ph/lisdata/1746514701!.pdf",]
 title = "BOY SCOUTS OF THE PHILIPPINE CHARTER OF 2013"
 date_filed = "2013-08-28"
 long_title = "AN ACT INSTITUTING THE BOY SCOUTS OF THE PHILIPPINES CHARTER, DEFINING ITS OBJECTIVES, POWER AND FUNCTIONS, REPEALING FOR THE PURPOSE COMMONWEALTH ACT NO. 111, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Boy Scout", "Girl Scout",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1746514701!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1371"
 
 [[history]]
 date = "2013-08-28"

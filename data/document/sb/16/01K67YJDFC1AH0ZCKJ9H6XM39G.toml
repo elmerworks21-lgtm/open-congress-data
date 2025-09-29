@@ -6,7 +6,6 @@ name = "SBN-01848"
 [meta]
 bill_number = 1848
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1848", "https://web.senate.gov.ph/lisdata/1805415287!.pdf",]
 title = "REGIONAL COURT OF LABOR RELATIONS (RCLR)"
 date_filed = "2013-10-14"
 long_title = "AN ACT ESTABLISHING THE REGIONAL COURT OF LABOR RELATIONS (RCLR) UNDER THE SUPERVISION OF THE SUPREME COURT, THEREBY ABOLISHING THE NATIONAL LABOR RELATIONS COMMISSION (NLRC)"
@@ -15,6 +14,8 @@ subjects = [ "National Labor Relations Commission (NLRC)", "Supreme Court",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1805415287!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1848"
 
 [[history]]
 date = "2013-10-14"

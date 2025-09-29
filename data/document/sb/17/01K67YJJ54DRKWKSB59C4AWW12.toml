@@ -6,7 +6,6 @@ name = "SBN-01397"
 [meta]
 bill_number = 1397
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1397", "https://web.senate.gov.ph/lisdata/2563522109!.pdf",]
 title = "MOTORCYCLE CRIME PREVENTION ACT OF 2017"
 date_filed = "2017-03-15"
 long_title = "AN ACT PENALIZING AND PREVENTING THE USE OF MOTORCYCLES OR SCOOTERS IN THE COMMISSION OF CRIMES THROUGH THE USE OF BIGGER PLATE NUMBERS AND IDENTIFICATION MARKS, REGULATION OF BACKRIDERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Motorcycle",]
 authors_raw = "Sotto III, Vicente C., Gordon, Richard J."
 author_codes = ["GRICH", "SVICE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2563522109!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1397"
 
 [[history]]
 date = "2017-03-15"

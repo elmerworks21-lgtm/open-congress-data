@@ -6,7 +6,6 @@ name = "SBN-00342"
 [meta]
 bill_number = 342
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-342", "https://web.senate.gov.ph/lisdata/4683242839!.pdf",]
 title = "GRANTING OFFICIAL PASSPORTS TO NATIONAL ATHLETES AND COACHES"
 date_filed = "2025-07-09"
 long_title = "AN ACT GRANTING OFFICIAL PASSPORTS TO NATIONAL ATHLETES AND COACHES, AMENDING FOR THE PURPOSE SECTIONS 5 AND 7 OF REPUBLIC ACT NO. 11983, OR THE 'NEW PHILIPPINE PASSPORT ACT', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Athletes and Coaches", "Passports/Passports Data",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4683242839!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-342"
 
 [[history]]
 date = "2025-07-09"

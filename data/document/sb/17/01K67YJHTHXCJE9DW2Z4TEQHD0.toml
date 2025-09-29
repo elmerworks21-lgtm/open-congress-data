@@ -6,7 +6,6 @@ name = "SBN-00983"
 [meta]
 bill_number = 983
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-983", "https://web.senate.gov.ph/lisdata/2455221127!.pdf",]
 title = "INTERGRATED URBAN AGRICULTURE ACT OF 2016"
 date_filed = "2016-08-03"
 long_title = "AN ACT PROMOTING INTEGRATED URBAN AGRICULTURE AND VERTICAL FARMING TO ADDRESS FOOD SECURITY CONCERNS AND TO PROVIDE LIVELIHOOD OPPORTUNITIES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Urban Farming/City Garden", "Farmers", "Food Security",]
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2455221127!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-983"
 
 [[history]]
 date = "2016-08-03"

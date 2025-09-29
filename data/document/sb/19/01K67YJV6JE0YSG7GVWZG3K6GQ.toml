@@ -6,7 +6,6 @@ name = "SBN-00480"
 [meta]
 bill_number = 480
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-480", "https://web.senate.gov.ph/lisdata/3824134678!.pdf",]
 title = "MABCA NATIONAL HIGH SCHOOL (SAGÑAY, CAMARINES SUR)"
 date_filed = "2022-07-13"
 long_title = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY MABCA, MUNICIPALITY OF SAGNAY, PROVINCE OF CAMARINES SUR TO BE KNOWN AS THE MABCA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Schools, Establishment",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3824134678!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-480"
 
 [[history]]
 date = "2022-07-13"

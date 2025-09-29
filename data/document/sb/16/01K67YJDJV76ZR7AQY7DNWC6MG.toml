@@ -6,7 +6,6 @@ name = "SBN-02025"
 [meta]
 bill_number = 2025
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2025", "https://web.senate.gov.ph/lisdata/1843315597!.pdf",]
 title = "NATIONAL STUDENT LOAN PROGRAM FOR THE POOR ACT OF 2013"
 date_filed = "2013-12-11"
 long_title = "AN ACT CREATING A NATIONAL STUDENT LOAN BOARD TO IMPLEMENT A NATIONAL STUDENT LOAN PROGRAM FOR THE POOR, DEFINING ITS IMPLEMENTING GUIDELINES, RULES AND REGULATIONS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Student Loan Program",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1843315597!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2025"
 
 [[history]]
 date = "2013-12-11"

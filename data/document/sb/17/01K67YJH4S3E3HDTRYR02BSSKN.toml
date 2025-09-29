@@ -6,7 +6,6 @@ name = "SBN-00020"
 [meta]
 bill_number = 20
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-20", "https://web.senate.gov.ph/lisdata/2343320018!.pdf",]
 title = "CHECKED-IN AMMUNITION LIABILITY EXEMPTION ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT TO EXEMPT PASSENGERS FROM LIABIILITY FOR ILLEGAL POSSESSION OF CHECKED-IN AMMUNITION"
@@ -15,6 +14,8 @@ subjects = [ "Firearms", "Tanim Bala",]
 authors_raw = "Honasan II, Gregorio B."
 author_codes = ["HGREG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2343320018!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-20"
 
 [[history]]
 date = "2016-06-30"

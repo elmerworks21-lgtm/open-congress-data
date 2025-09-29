@@ -6,7 +6,6 @@ name = "SBN-02590"
 [meta]
 bill_number = 2590
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2590", "https://web.senate.gov.ph/lisdata/2046117563!.pdf",]
 title = "SEX OFFENDER REGISTRATION ACT OF 2015"
 date_filed = "2015-01-28"
 long_title = "AN ACT CREATING A SYSTEM OF REGISTRATION AND NOTIFICATION FOR SEX OFFENDERS AND PROVIDING A PENALTY FOR NON-COMPLIANCE"
@@ -15,6 +14,8 @@ subjects = [ "Sex Offenders",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2046117563!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2590"
 
 [[history]]
 date = "2015-01-28"

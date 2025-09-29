@@ -6,7 +6,6 @@ name = "SBN-01747"
 [meta]
 bill_number = 1747
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1747", "https://web.senate.gov.ph/lisdata/1791315139!.pdf",]
 title = "INTERNET GAMBLING PROHIBITION ACT"
 date_filed = "2013-10-02"
 long_title = "AN ACT PROHIBITING INTERNET GAMBLING"
@@ -15,6 +14,8 @@ subjects = [ "Internet Gambling",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1791315139!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1747"
 
 [[history]]
 date = "2013-10-02"

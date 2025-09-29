@@ -6,7 +6,6 @@ name = "SBN-02101"
 [meta]
 bill_number = 2101
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2101", "https://web.senate.gov.ph/lisdata/4145737749!.pdf",]
 title = "STUDENT LOAN PAYMENT MORATORIUM DURING DISASTERS AND EMERGENCIES ACT"
 date_filed = "2023-04-26"
 long_title = "AN ACT PROVIDING FOR A MORATORIUM ON STUDENT LOAN PAYMENT DURING DISASTERS AND OTHER EMERGENCIES"
@@ -15,6 +14,8 @@ subjects = [ "Student Loan Program", "Moratorium",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4145737749!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2101"
 
 [[history]]
 date = "2023-04-26"

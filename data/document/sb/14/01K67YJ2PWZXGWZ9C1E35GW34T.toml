@@ -6,7 +6,6 @@ name = "SBN-02628"
 [meta]
 bill_number = 2628
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2628", "https://web.senate.gov.ph/lisdata/85757761!.pdf",]
 title = "FOOD SUBSIDY PROGRAM"
 date_filed = "2008-09-18"
 long_title = "AN ACT TO ALLEVIATE THE CONDITIONS OF THE MARGINALIZED SECTORS OF SOCIETY BY PROVIDING A FOOD SUBSIDY PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Poverty Alleviation", "Food Subsidy Program",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/85757761!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2628"
 
 [[history]]
 date = "2008-09-18"

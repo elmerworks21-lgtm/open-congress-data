@@ -6,7 +6,6 @@ name = "SBN-02099"
 [meta]
 bill_number = 2099
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2099", "https://web.senate.gov.ph/lisdata/38793330!.pdf",]
 title = "ANTI-TORTURE ACT OF 2005"
 date_filed = "2005-08-24"
 long_title = "AN ACT PENALIZING THE COMMISSION OF ACTS OF TORTURE AND OTHER CRUEL, INHUMAN AND DEGRADING TREATMENT OR PUNISHMENTS, AND PROVIDING FOR A REHABILITATION PROGRAM FOR VICTIMS"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Torture Act of 2004",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/38793330!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2099"
 
 [[history]]
 date = "2005-08-24"

@@ -6,7 +6,6 @@ name = "SBN-02677"
 [meta]
 bill_number = 2677
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2677", "https://web.senate.gov.ph/lisdata/4409540069!.pdf",]
 title = "NATIONAL COMPUTER RECYCLING ACT OF 2024"
 date_filed = "2024-05-15"
 long_title = "AN ACT INSTITUTIONALIZING A GRANT AND FEE PROGRAM TO INCENTIVIZE AND PROMOTE THE PROPER RECYCLING OF USED COMPUTERS AND TO PROMOTE THE DEVELOPMENT OF A NATIONAL INFRASTRUCTURE FOR THE RECYCLING OF USED COMPUTERS"
@@ -15,6 +14,8 @@ subjects = [ "Computer", "Recycling",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4409540069!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2677"
 
 [[history]]
 date = "2024-05-15"

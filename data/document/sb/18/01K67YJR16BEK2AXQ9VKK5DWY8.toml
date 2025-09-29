@@ -6,7 +6,6 @@ name = "SBN-02287"
 [meta]
 bill_number = 2287
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2287", "https://web.senate.gov.ph/lisdata/3526832136!.pdf",]
 title = "FINANCIAL PRODUCTS AND SERVICES CONSUMER PROTECTION ACT"
 date_filed = "2021-06-03"
 long_title = "AN ACT AFFORDING MORE PROTECTION TO CONSUMERS OF FINANCIAL PRODUCTS AND SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Financial Consumer Protection",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3526832136!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2287"
 
 [[history]]
 date = "2021-06-03"

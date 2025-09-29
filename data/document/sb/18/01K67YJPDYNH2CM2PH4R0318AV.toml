@@ -6,7 +6,6 @@ name = "SBN-00075"
 [meta]
 bill_number = 75
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-75", "https://web.senate.gov.ph/lisdata/3030527138!.pdf",]
 title = "TEACHING SUPPLIES ALLOWANCE ACT OF 2019"
 date_filed = "2019-07-01"
 long_title = "AN ACT INSTITUTIONALIZING THE GRANT OF A TEACHING SUPPLIES ALLOWANCE FOR PUBLIC SCHOOL TEACHERS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Teaching Supplies Allowance", "Public School Teachers",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3030527138!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-75"
 
 [[history]]
 date = "2019-07-01"

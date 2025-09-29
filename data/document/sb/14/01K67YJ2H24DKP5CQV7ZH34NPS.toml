@@ -6,7 +6,6 @@ name = "SBN-02375"
 [meta]
 bill_number = 2375
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2375", "https://web.senate.gov.ph/lisdata/75586795!.pdf",]
 title = "INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
 date_filed = "2008-06-04"
 long_title = "THE INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Investments",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75586795!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2375"
 
 [[history]]
 date = "2008-06-04"

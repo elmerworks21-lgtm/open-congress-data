@@ -6,7 +6,6 @@ name = "SBN-00055"
 [meta]
 bill_number = 55
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-55", "https://web.senate.gov.ph/lisdata/1184642!.pdf",]
 title = "HAPPY MONDAY LAW"
 date_filed = "2004-06-30"
 long_title = "AN ACT RATIONALIZING THE OBSERVANCE OF REGULAR AND LOCAL SPECIAL HOLIDAYS IN THE PHILIPPINES AND DECLARING ALL SUCH HOLIDAYS TO FALL ON A MONDAY"
@@ -15,6 +14,8 @@ subjects = [ "Happy Monday Law", "Holidays (Regular/Special Holidays)",]
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1184642!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-55"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00719"
 [meta]
 bill_number = 719
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-719", "https://web.senate.gov.ph/lisdata/2423820852!.pdf",]
 title = "NATIONAL SUSTAINABLE SANITATION ACT OF 2016"
 date_filed = "2016-07-20"
 long_title = "AN ACT STRENGTHENING THE SUSTAINABLE SANITATION PROGRAM BY REORGANIZING THE SANITATION UNIT OF THE DEPARTMENT OF HEALTH AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Sanitation", "Department of Health (DOH)", "Reorganization",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2423820852!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-719"
 
 [[history]]
 date = "2016-07-20"

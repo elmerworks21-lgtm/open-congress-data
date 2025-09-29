@@ -6,7 +6,6 @@ name = "SBN-00526"
 [meta]
 bill_number = 526
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-526", "https://web.senate.gov.ph/lisdata/3090927762!.pdf",]
 title = "PHILIPPINE RUBBER INDUSTRY DEVELOPMENT ACT OF 2019"
 date_filed = "2019-07-16"
 long_title = "AN ACT TO DEVELOP THE RUBBER INDUSTRY, ESTABLISHING FOR THE PURPOSE THE PHILIPPINE RUBBER INDUSTRY DEVELOPMENT BOARD, DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Rubber Industry",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3090927762!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-526"
 
 [[history]]
 date = "2019-07-16"

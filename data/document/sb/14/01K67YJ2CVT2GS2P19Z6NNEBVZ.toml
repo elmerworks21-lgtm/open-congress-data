@@ -6,7 +6,6 @@ name = "SBN-02188"
 [meta]
 bill_number = 2188
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2188", "https://web.senate.gov.ph/lisdata/71476387!.pdf",]
 title = "PHILIPPINE VOIP ACT"
 date_filed = "2008-04-23"
 long_title = "AN ACT TO PROMOTE AND GOVERN THE DEVELOPMENT OF VOICE OVER INTERNET PROTOCOL IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Voice Over Internet Protocol (VOIP)",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71476387!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2188"
 
 [[history]]
 date = "2008-04-23"

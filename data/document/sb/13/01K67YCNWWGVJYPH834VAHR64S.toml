@@ -6,7 +6,6 @@ name = "SBN-00958"
 [meta]
 bill_number = 958
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-958", "https://web.senate.gov.ph/lisdata/21621688!.pdf",]
 title = "PHILIPPINE INFORMATION AGENCY"
 date_filed = "2004-06-30"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE INFORMATION AGENCY (PIA), AMENDING FOR THIS PURPOSE EXECUTIVE ORDER NO. 100 ALSO KNOWN AS 'CREATING THE PHILIPPINE INFORMATION AGENCY', BY PROVIDING AN ADDITIONAL FUNCTION, ESTABLISHING A NATIONWIDE WELFARE FUND AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Information Agency (PIA)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21621688!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-958"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00683"
 [meta]
 bill_number = 683
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-683", "https://web.senate.gov.ph/lisdata/2420320811!.pdf",]
 title = "ANTI-DISCRIMINATION ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROHIBITING DISCRIMINATION OF THE BASIS OF ETHNICITY, RACE, RELIGION OR BELIEF, SEX, GENDER, SEXUAL ORIENTATION, GENDER IDENTITY, GENDER EXPRESSION, CIVIL STATUS AND HIV STATUS, AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination", "Gender Discrimination", "Ethnic", "Religion
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Villanueva, Joel"
 author_codes = ["APAOL", "VEMMA"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2420320811!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-683"
 
 [[history]]
 date = "2016-07-20"

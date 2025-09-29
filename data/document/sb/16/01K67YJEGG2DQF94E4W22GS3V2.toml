@@ -6,7 +6,6 @@ name = "SBN-03075"
 [meta]
 bill_number = 3075
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3075", "https://web.senate.gov.ph/lisdata/2280619495!.pdf",]
 title = "UNSOUGHT CELLULAR MOBILE PHONE SERVICES ACT"
 date_filed = "2016-01-12"
 long_title = "AN ACT PROHIBITING CELLULAR MOBILE PHONE PROVIDERS FROM CONVEYING UNSOUGHT SERVICES THAT ARE AUTOMATICALLY AND INVOLUNTARILY CHARGED AGAINST THE ACCOUNT OF SUBSCRIBERS, IMPOSING PENALTIES ON UNLAWFUL ACTS OF THE PROVIDERS"
@@ -15,6 +14,8 @@ subjects = [ "Cellular Phones", "Cell Phones",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2280619495!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3075"
 
 [[history]]
 date = "2016-01-12"

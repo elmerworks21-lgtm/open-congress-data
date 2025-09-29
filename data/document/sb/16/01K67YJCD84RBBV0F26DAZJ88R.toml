@@ -6,7 +6,6 @@ name = "SBN-00190"
 [meta]
 bill_number = 190
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-190", "https://web.senate.gov.ph/lisdata/1601613253!.pdf",]
 title = "CLEAR SIDEWALKS ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT REGULATING THE USE OF SIDEWALKS FOR COMMERCIAL AND OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sidewalks",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1601613253!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-190"
 
 [[history]]
 date = "2013-07-01"

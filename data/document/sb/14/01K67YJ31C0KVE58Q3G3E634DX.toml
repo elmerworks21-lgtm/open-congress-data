@@ -6,7 +6,6 @@ name = "SBN-03093"
 [meta]
 bill_number = 3093
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3093", "https://web.senate.gov.ph/lisdata/103999270!.pdf",]
 title = "ANIMAL WELFARE ACT"
 date_filed = "2009-02-24"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8485, ALSO KNOWN AS THE ANIMAL WELFARE ACT OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Animal Welfare Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/103999270!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3093"
 
 [[history]]
 date = "2009-02-24"

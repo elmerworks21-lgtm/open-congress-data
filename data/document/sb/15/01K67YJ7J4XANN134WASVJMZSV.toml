@@ -6,7 +6,6 @@ name = "SBN-00525"
 [meta]
 bill_number = 525
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-525", "https://web.senate.gov.ph/lisdata/78706304!.pdf",]
 title = "OMNIBUS ELECTION CODE (AMENDING ART. 264, P.B. BLG. 881)"
 date_filed = "2010-07-07"
 long_title = "AN ACT AMENDING SECTION 264 OF BATAS PAMBANSA BLG. 881, OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE OF THE PHILIPPINES, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78706304!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-525"
 
 [[history]]
 date = "2010-07-07"

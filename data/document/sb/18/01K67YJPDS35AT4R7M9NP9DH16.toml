@@ -6,7 +6,6 @@ name = "SBN-00068"
 [meta]
 bill_number = 68
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-68", "https://web.senate.gov.ph/lisdata/3029827126!.pdf",]
 title = "EQUAL WEIGHT TO THE DECISIONS OF BOTH PARENTS IN IMPORTANT MATTERS CONCERNING THEIR MARRIAGE/FAMILY"
 date_filed = "2019-07-01"
 long_title = "AN ACT ENSURING THE FUNDAMENTAL EQUALITY OF MEN AND WOMEN UNDER THE LAWS ON MARRIAGE AND FAMILY RELATIONS, AMENDING FOR THE PURPOSE EXECUTIVE ORDER NO. 209, OTHERWISE KNOWN AS THE FAMILY CODE OF THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Marriage", "Family Code(E.O.No. 209)",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3029827126!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-68"
 
 [[history]]
 date = "2019-07-01"

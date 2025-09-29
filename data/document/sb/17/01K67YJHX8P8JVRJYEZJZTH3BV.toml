@@ -6,7 +6,6 @@ name = "SBN-01102"
 [meta]
 bill_number = 1102
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1102", "https://web.senate.gov.ph/lisdata/2469821282!.pdf",]
 title = "THE SINGER'S EQUITY ACT"
 date_filed = "2016-08-25"
 long_title = "AN ACT CONSERVING, PROMOTING AND POPULARIZING THE NATION’S HISTORICAL AND CULTURAL HERITAGE AND RESOURCES, AS WELL AS ARTISTIC CREATIONS BY EXACTING A PERFORMANCE FEE FROM FOREIGN PERFORMERS AND ALLOCATING THE PROCEEDS THEREOF TO THE NATIONAL COMMISSION FOR CULTURE AND THE ARTS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Fees and Charges", "National Cultural Heritage", "Foreign Artists/
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2469821282!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1102"
 
 [[history]]
 date = "2016-08-25"

@@ -6,7 +6,6 @@ name = "SBN-00373"
 [meta]
 bill_number = 373
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-373", "https://web.senate.gov.ph/lisdata/4686442871!.pdf",]
 title = "NATIONAL MINIMUM WAGE ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT STRENGTHENING THE PROTECTION OF PRIVATE SECTOR WORKERS BY ESTABLISHING A NATIONAL MINIMUM WAGE AND ENHANCING PENALTIES FOR NON-COMPLIANCE, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Wage Rationalization", "Wage/Wages",]
 authors_raw = "Padilla, Robinhood"
 author_codes = ["PROBI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4686442871!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-373"
 
 [[history]]
 date = "2025-07-10"

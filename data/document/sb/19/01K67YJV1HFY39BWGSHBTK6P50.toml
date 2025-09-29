@@ -6,7 +6,6 @@ name = "SBN-00248"
 [meta]
 bill_number = 248
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-248", "https://web.senate.gov.ph/lisdata/3796734410!.pdf",]
 title = "DOH HOSPITAL BED CAPACITY AND SERVICE CAPABILITY RATIONALIZATION ACT"
 date_filed = "2022-07-11"
 long_title = "AN ACT AUTHORIZING THE DEPARTMENT OF HEALTH (DOH) TO SET AND APPROVE THE BED CAPACITY AND SERVICE CAPABILITY OF ALL DOH HOSPITALS"
@@ -15,6 +14,8 @@ subjects = [ "Department of Health (DOH)", "Hospitals (Government Hospitals)",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3796734410!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-248"
 
 [[history]]
 date = "2022-07-11"

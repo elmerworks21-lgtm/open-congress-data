@@ -6,7 +6,6 @@ name = "SBN-00204"
 [meta]
 bill_number = 204
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-204", "https://web.senate.gov.ph/lisdata/3046227340!.pdf",]
 title = "FIRE PROTECTION MODERNIZATION ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT STRENGTHENING AND MODERNIZING THE BUREAU OF FIRE PROTECTION, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Bureau of Fire Protection",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3046227340!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-204"
 
 [[history]]
 date = "2019-07-02"

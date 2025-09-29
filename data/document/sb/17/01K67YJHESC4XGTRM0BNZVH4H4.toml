@@ -6,7 +6,6 @@ name = "SBN-00426"
 [meta]
 bill_number = 426
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-426", "https://web.senate.gov.ph/lisdata/2426120637!.pdf",]
 title = "TERTIARY EDUCATION TUITION"
 date_filed = "2016-07-19"
 long_title = "AN ACT ALLOWING EXPENSES INCURRED IN PAYMENTS FOR TERTIARY EDUCATION TUITION AND RELATED EDUCATIONAL EXPENSES AS DEDUCTIONS FROM GROSS INCOME OF INDIVIDUALS, AMENDING FOR THE PURPOSE SECTION 34 OF THE NATIONAL INTERNAL REVENUE CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Tuition Fees", "Taxes (In
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2426120637!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-426"
 
 [[history]]
 date = "2016-07-19"

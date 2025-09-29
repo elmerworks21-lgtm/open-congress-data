@@ -6,7 +6,6 @@ name = "SBN-01305"
 [meta]
 bill_number = 1305
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1305", "https://web.senate.gov.ph/lisdata/56054966!.pdf",]
 title = "DECRIMINALIZING VAGRANCY, ALARMS AND SCANDALS, AND OTHER CERTAIN FELONIES"
 date_filed = "2007-07-24"
 long_title = "AN ACT TO IMPROVE THE ADMINISTRATION OF JUSTICE BY DECRIMINALIZING AND PROVIDING FOR THE IMPOSITION OF ALTERNATIVE PENALTIES SHORT OF DEPRIVATION OF LIBERTY FOR CERTAIN OFFENSES"
@@ -15,6 +14,8 @@ subjects = [ "Administration of Justice", "Alarms and Scandals", "Premature Marr
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56054966!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1305"
 
 [[history]]
 date = "2007-07-04"

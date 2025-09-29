@@ -6,7 +6,6 @@ name = "SBN-00800"
 [meta]
 bill_number = 800
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-800", "https://web.senate.gov.ph/lisdata/3851334971!.pdf",]
 title = "DIALYSIS CENTER ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT HOSPITALS TO ESTABLISH, OPERATE AND MAINTAIN A DIALYSIS CENTERS IN THEIR RESPECTIVE HOSPITAL AND PROVIDING FREE DIALYSIS TREATMENT TO INDIGENT PATIENTS"
@@ -15,6 +14,8 @@ subjects = [ "Dialysis Center", "Hospitals (Government Hospitals)", "Indigent Pe
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3851334971!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-800"
 
 [[history]]
 date = "2022-07-25"

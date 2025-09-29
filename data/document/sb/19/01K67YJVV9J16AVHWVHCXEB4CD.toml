@@ -6,7 +6,6 @@ name = "SBN-01401"
 [meta]
 bill_number = 1401
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1401", "https://web.senate.gov.ph/lisdata/3968936001!.pdf",]
 title = "NATIONAL KASAMBAHAY DAY OR ARAW NG KASAMBAHAY"
 date_filed = "2022-10-19"
 long_title = "AN ACT DECLARING JANUARY 18 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY FOR ALL KASAMBAHAY IN THE ENTIRE COUNTRY. THE ACT SHALL BE CALLED AS 'NATIONAL KASAMBAHAY DAY' OR 'ARAW NG KASAMBAHAY'"
@@ -15,6 +14,8 @@ subjects = [ "Kasambahay Day",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3968936001!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1401"
 
 [[history]]
 date = "2022-10-19"

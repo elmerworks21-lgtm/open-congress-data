@@ -6,7 +6,6 @@ name = "SBN-00145"
 [meta]
 bill_number = 145
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-145", "https://web.senate.gov.ph/lisdata/3041127244!.pdf",]
 title = "BUY PINOY, BUILD PINOY MONTH ACT"
 date_filed = "2019-07-02"
 long_title = "AN ACT DESIGNATING THE MONTH OF NOVEMBER AS ‘BUY PINOY, BUILD PINOY MONTH’ TO ENCOURAGE THE PUBLIC AND PRIVATE SECTORS TO PRIORITIZE THE PURCHASE AND UTILIZATION OF FILIPINO PRODUCTS, LABOR AND SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Buy Pinoy/Tatak Pinoy", "Philippine Made Materials/Products",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3041127244!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-145"
 
 [[history]]
 date = "2019-07-02"

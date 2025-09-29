@@ -6,7 +6,6 @@ name = "SBN-00182"
 [meta]
 bill_number = 182
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-182", "https://web.senate.gov.ph/lisdata/13301130!.pdf",]
 title = "CELL PHONE SUBSCRIBER PROTECTION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO ESTABLISH MINIMUM STANDARDS REGARDING THE QUALITY OF WIRELESS TELEPHONE SERVICE AND TO MONITOR COMPLAINTS REGARDING SUCH SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Cell Phone Subscriber Protection Act", "Wireless Telephone/Cellula
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/13301130!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-182"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00166"
 [meta]
 bill_number = 166
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-166", "https://web.senate.gov.ph/lisdata/3787434315!.pdf",]
 title = "BARANGAY OFFICIALS RETIREMENT BENEFITS ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT GRANTING RETIREMENT BENEFITS TO ALL ELECTIVE OR APPOINTIVE BARANGAY OFFICIALS WHO HAVE RENDERED A PERIOD OF NINE (9) YEARS OR THREE TERMS OF PUBLIC SERVICE IN THE BARANGAY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Officials", "Retirement Benefits",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EJOSE"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3787434315!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-166"
 
 [[history]]
 date = "2022-07-07"

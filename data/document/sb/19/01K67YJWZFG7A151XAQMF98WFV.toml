@@ -6,7 +6,6 @@ name = "SBN-02839"
 [meta]
 bill_number = 2839
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2839", "https://web.senate.gov.ph/lisdata/4503940950!.pdf",]
 title = "AN ACT PROVIDING FOR A NEW CHARTER FOR THE LAND BANK OF THE PHILIPPINES"
 date_filed = "2024-09-24"
 long_title = "AN ACT PROVIDING FOR A NEW CHARTER FOR THE LAND BANK OF THE PHILIPPINES, REPEALING FOR THE PURPOSE SECTIONS 74 TO 100 OF REPUBLIC ACT NO. 3844, AS AMENDED, OTHERWISE KNOWN AS THE AGRICULTURAL REFORM CODE OF 1963"
@@ -15,6 +14,8 @@ subjects = [ "Land Bank of the Philippines (LBP)", "Charter",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4503940950!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2839"
 
 [[history]]
 date = "2024-09-24"

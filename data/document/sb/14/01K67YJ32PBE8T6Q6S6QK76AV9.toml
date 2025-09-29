@@ -6,7 +6,6 @@ name = "SBN-03154"
 [meta]
 bill_number = 3154
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3154", "https://web.senate.gov.ph/lisdata/107529504!.pdf",]
 title = "MANDATORY UNIVERSAL HEALTHCARE COVERAGE OF EVERY FILIPINO ACT"
 date_filed = "2009-04-13"
 long_title = "AN ACT TO ENSURE THAT EVERY FILIPINO IS GRANTED WITH BASIC HEALTHCARE SERVICES, PROVIDING FOR THE PURPOSE A MANDATORY UNIVERSAL HEALTHCARE COVERAGE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Healthcare Services", "Health Care Delivery System",]
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107529504!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3154"
 
 [[history]]
 date = "2009-04-13"

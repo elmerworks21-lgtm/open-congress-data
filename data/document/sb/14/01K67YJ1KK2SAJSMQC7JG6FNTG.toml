@@ -6,7 +6,6 @@ name = "SBN-01348"
 [meta]
 bill_number = 1348
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1348", "https://web.senate.gov.ph/lisdata/56485045!.pdf",]
 title = "MAKING MALVERSATION OF RECLAIMED LANDS A CRIME"
 date_filed = "2007-07-24"
 long_title = "AN ACT MAKING THE MALVERSATION OF RECLAIMED LANDS A CRIME, AMENDING FOR THIS PURPOSE ARTICLE 217 OF ACT NO.3815, OTHERWISE KNOWN AS THE PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (RA 3815", "Amendments)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56485045!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1348"
 
 [[history]]
 date = "2007-07-24"

@@ -6,7 +6,6 @@ name = "SBN-01579"
 [meta]
 bill_number = 1579
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1579", "https://web.senate.gov.ph/lisdata/27962171!.pdf",]
 title = "RESTRICTIONS ON GARNISHMENT OF COMPENSATION ACT"
 date_filed = "2004-08-02"
 long_title = "AN ACT PROVIDING FOR RESTRICTIONS ON GARNISHMENT OF COMPENSATION DUE FOR PERSONAL SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Compensation Garnishment Restriction", "Personal Services",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27962171!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1579"
 
 [[history]]
 date = "2004-08-02"

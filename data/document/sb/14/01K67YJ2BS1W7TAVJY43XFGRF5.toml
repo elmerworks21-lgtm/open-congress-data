@@ -6,7 +6,6 @@ name = "SBN-02142"
 [meta]
 bill_number = 2142
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2142", "https://web.senate.gov.ph/lisdata/70606302!.pdf",]
 title = "BIO-MEDICAL WASTE CONTROL ACT"
 date_filed = "2008-03-26"
 long_title = "AN ACT PROVIDING FOR THE REGULATION AND DISPOSAL OF BIO-MEDICAL WASTES, DECLARING CERTAIN ACTS UNLAWFUL, PRESCRIBING PENALTIES THERETO, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Bio-Medical Waste Control",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/70606302!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2142"
 
 [[history]]
 date = "2008-03-26"

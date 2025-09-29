@@ -6,7 +6,6 @@ name = "SBN-00521"
 [meta]
 bill_number = 521
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-521", "https://web.senate.gov.ph/lisdata/47304051!.pdf",]
 title = "LOCAL GOVERNMENT ACADEMY"
 date_filed = "2007-07-02"
 long_title = "AN ACT STRENGTHENING THE LOCAL GOVERNMENT ACADEMY OF THE PHILIPPINES, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Academy",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47304051!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-521"
 
 [[history]]
 date = "2007-07-02"

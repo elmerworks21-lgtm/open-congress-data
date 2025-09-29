@@ -6,7 +6,6 @@ name = "SBN-00587"
 [meta]
 bill_number = 587
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-587", "https://web.senate.gov.ph/lisdata/3087027863!.pdf",]
 title = "INTEGRATED URBAN AGRICULTURE ACT"
 date_filed = "2019-07-17"
 long_title = "AN ACT PROMOTING INTEGRATED URBAN FARMING TO ADDRESS FOOD SECURITY CONCERNS AND LIVELIHOOD OPPORTUNITIES AND APPROPRIATING FUNDS FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Urban Agricultural Development",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3087027863!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-587"
 
 [[history]]
 date = "2019-07-17"

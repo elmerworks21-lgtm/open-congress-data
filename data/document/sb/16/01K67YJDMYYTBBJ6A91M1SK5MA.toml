@@ -6,7 +6,6 @@ name = "SBN-02118"
 [meta]
 bill_number = 2118
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2118", "https://web.senate.gov.ph/lisdata/1868915816!.pdf",]
 title = "FILIPINO SIGN LANGUAGE ACT OF 2014"
 date_filed = "2014-02-11"
 long_title = "AN ACT DECLARING FILIPINO SIGN LANGUAGE AS THE NATIONAL SIGN LANGUAGE OF THE FILIPINO DEAF AND THE OFFICIAL LANGUAGE OF GOVERNMENT IN ALL TRANSACTIONS INVOLVING THE DEAF, AND MANDATING ITS USE IN SCHOOLS, BROADCAST MEDIA, AND WORKPLACES"
@@ -15,6 +14,8 @@ subjects = [ "Deaf-Mute", "Persons with Disabilities (PWDS)", "Filipino Sign Lan
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Legarda, Loren B."
 author_codes = ["APAOL", "LLORE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1868915816!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2118"
 
 [[history]]
 date = "2014-02-11"

@@ -6,7 +6,6 @@ name = "SBN-00107"
 [meta]
 bill_number = 107
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-107", "https://web.senate.gov.ph/lisdata/3781534256!.pdf",]
 title = "PHILIPPINE MINERAL RESOURCES ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT TO REGULATE THE RATIONAL EXPLORATION, DEVELOPMENT AND UTILIZATION OF MINERAL RESOURCES, AND TO ENSURE THE EQUITABLE SHARING OF BENEFITS FOR THE STATE, INDIGENOUS PEOPLES AND LOCAL COMMUNITIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mineral Resources", "Indigenous People",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3781534256!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-107"
 
 [[history]]
 date = "2022-07-07"

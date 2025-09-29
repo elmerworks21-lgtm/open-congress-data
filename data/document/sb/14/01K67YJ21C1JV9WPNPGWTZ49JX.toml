@@ -6,7 +6,6 @@ name = "SBN-01694"
 [meta]
 bill_number = 1694
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1694", "https://web.senate.gov.ph/lisdata/60905437!.pdf",]
 title = "MANDATORY COMPLIANCE BY MOTORISTS TO USE SEAT BELT DEVICES"
 date_filed = "2007-10-02"
 long_title = "AN ACT AMENDING SECTION 12 OF REPUBLIC ACT NO. 8750 OTHERWISE KNOWN AS AN ACT REQUIRING THE MANDATORY COMPLIANCE BY MOTORISTS OF PRIVATE AND PUBLIC VEHICLES TO USE SEAT BELT DEVICES, AND REQUIRING VEHICLE MANUFACTURERS TO INSTALL SET BELT DEVICES IN ALL THEIR MANUFACTURED VEHICLES"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicle",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60905437!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1694"
 
 [[history]]
 date = "2007-10-02"

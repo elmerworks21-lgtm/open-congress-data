@@ -6,7 +6,6 @@ name = "SBN-02002"
 [meta]
 bill_number = 2002
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2002", "https://web.senate.gov.ph/lisdata/2859524991!.pdf",]
 title = "JUDGES-AT-LARGE ACT OF 2018"
 date_filed = "2018-09-12"
 long_title = "AN ACT CREATING THE POSITIONS FOR JUDGES-AT-LARGE, AMENDING FOR THE PURPOSE BATAS PAMBANSA BILANG 129, OTHERWISE KNOWN AS THE 'THE JUDICIARY REORGANIZATION ACT OF 1980,' AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Judges", "Judiciary Reorganization Act (Batas Pambansa Blg. 129)",
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2859524991!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2002"
 
 [[history]]
 date = "2018-09-12"

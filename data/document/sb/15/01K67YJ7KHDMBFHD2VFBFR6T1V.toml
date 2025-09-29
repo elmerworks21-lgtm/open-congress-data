@@ -6,7 +6,6 @@ name = "SBN-00595"
 [meta]
 bill_number = 595
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-595", "https://web.senate.gov.ph/lisdata/80156487!.pdf",]
 title = "JUDICIARY REORGANIZATION ACT (SEC.42, BATAS PAMBANSA BLG. 129)"
 date_filed = "2010-07-07"
 long_title = "AN ACT AMENDING SECTION 42 OF BATAS PAMBANSA BILANG 129, AS AMENDED, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1981, EXEMPTING AFFECTED MEMBERS OF THE JUDICIARY AS MAY HEREIN BE QUALIFIED FROM THE CONTINUOUS SERVICE REQUIREMENT"
@@ -15,6 +14,8 @@ subjects = [ "Judiciary Reorganization Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80156487!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-595"
 
 [[history]]
 date = "2010-07-07"

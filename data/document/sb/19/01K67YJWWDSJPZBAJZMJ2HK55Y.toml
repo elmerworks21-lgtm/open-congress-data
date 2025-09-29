@@ -6,7 +6,6 @@ name = "SBN-02752"
 [meta]
 bill_number = 2752
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2752", "https://web.senate.gov.ph/lisdata/4437040316!.pdf",]
 title = "ANTI-POGO ACT"
 date_filed = "2024-07-29"
 long_title = "AN ACT BANNING PHILIPPINE OFFSHORE GAMING OPERATORS (POGO) AND OTHER OPERATIONS RELATED THERETO AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Offshore Gaming Operations (POGO)", "Anti-Pogo",]
 authors_raw = "Villanueva, Joel, Go, Christopher Lawrence T."
 author_codes = ["GCHRI", "VEMMA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4437040316!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2752"
 
 [[history]]
 date = "2024-07-29"

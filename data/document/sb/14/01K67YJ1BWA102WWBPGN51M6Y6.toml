@@ -6,7 +6,6 @@ name = "SBN-00963"
 [meta]
 bill_number = 963
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-963", "https://web.senate.gov.ph/lisdata/52274595!.pdf",]
 title = "NATIONAL INSTITUTE FOR SCIENCE AND MATHEMATICS EDUCATION DEVELOPMENT ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT CREATING THE NATIONAL INSTITUTE FOR SCIENCE AND MATHEMATICS EDUCATION DEVELOPMENT (NISMED) APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Institute for Science", "Mathematics Education Developmen
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52274595!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-963"
 
 [[history]]
 date = "2007-07-04"

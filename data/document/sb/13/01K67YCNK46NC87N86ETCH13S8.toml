@@ -6,7 +6,6 @@ name = "SBN-00404"
 [meta]
 bill_number = 404
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-404", "https://web.senate.gov.ph/lisdata/1561862!.pdf",]
 title = "AFP EDUCATION AND TRAINING ASSISTANCE ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING AN EDUCATIONAL ASSISTANCE AND TRAINING PROGRAM FOR ENLISTED PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "AFP Education & Training Assistance Act",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1561862!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-404"
 
 [[history]]
 date = "2004-06-30"

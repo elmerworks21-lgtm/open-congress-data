@@ -6,7 +6,6 @@ name = "SBN-00291"
 [meta]
 bill_number = 291
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-291", "https://web.senate.gov.ph/lisdata/1449722!.pdf",]
 title = "RIVER AND WATERWAYS ECOLOGICAL ZONES ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT DECLARING AND ESTABLISHING RIVERS, RIVER SYSTEMS, BEACHES SHORES AND WATERWAYS AS ECOLOGICAL ZONE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rivers", "Waterways Ecological Zones Act",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1449722!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-291"
 
 [[history]]
 date = "2004-06-30"

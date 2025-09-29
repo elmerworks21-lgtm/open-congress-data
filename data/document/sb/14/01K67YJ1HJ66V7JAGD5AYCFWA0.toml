@@ -6,7 +6,6 @@ name = "SBN-01245"
 [meta]
 bill_number = 1245
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1245", "https://web.senate.gov.ph/lisdata/55424956!.pdf",]
 title = "PRECRIPTIVE PERIOD FOR RECTIFICATION OF SIMULATED BIRTHS EXTENSION"
 date_filed = "2007-07-18"
 long_title = "AN ACT EXTENDING THE PRESCRIPTIVE PERIOD FOR RECTIFICATION OF SIMULATED BIRTHS AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8552, OTHERWISE KNOWN AS THE DOMESTIC ADOPTION ACT OF 1998"
@@ -15,6 +14,8 @@ subjects = [ "Simulated Births", "Domestic Adoption",]
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55424956!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1245"
 
 [[history]]
 date = "2007-07-18"

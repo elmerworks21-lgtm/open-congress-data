@@ -6,7 +6,6 @@ name = "SBN-00417"
 [meta]
 bill_number = 417
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-417", "https://web.senate.gov.ph/lisdata/2385420556!.pdf",]
 title = "STUDENTS' RIGHTS AND WELFARE ACT"
 date_filed = "2016-07-19"
 long_title = "AN ACT PROVIDING FOR A NATIONAL POLICY ON STUDENTS' RIGHTS AND WELFARE"
@@ -15,6 +14,8 @@ subjects = [ "Students Rights and Welfare",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2385420556!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-417"
 
 [[history]]
 date = "2016-07-19"

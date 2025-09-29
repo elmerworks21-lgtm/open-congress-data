@@ -6,7 +6,6 @@ name = "SBN-02612"
 [meta]
 bill_number = 2612
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2612", "https://web.senate.gov.ph/lisdata/2049117595!.pdf",]
 title = "NATIONAL SUSTAINABLE SANITATION ACT OF 2015"
 date_filed = "2015-02-02"
 long_title = "AN ACT STRENGTHENING THE SUSTAINABLE SANITATION PROGRAM OF THE COUNTRY BY REORGANIZING THE SANITATION UNIT OF THE DEPARTMENT OF HEALTH AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Sanitation", "Department of Health (DOH)",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2049117595!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2612"
 
 [[history]]
 date = "2015-02-02"

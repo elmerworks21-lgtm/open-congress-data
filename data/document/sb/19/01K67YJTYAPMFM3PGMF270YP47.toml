@@ -6,7 +6,6 @@ name = "SBN-00104"
 [meta]
 bill_number = 104
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-104", "https://web.senate.gov.ph/lisdata/3781234253!.pdf",]
 title = "THE MOTORCYCLES-FOR-HIRE ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT ALLOWING AND REGULATING THE USE OF MOTORCYCLES AS PUBLIC UTILITY VEHICLES, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 4136, OTERWISE KNOWN AS THE LAND TRANSPORTATION AND TRAFFIC CODE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Motorcycles-For-Hire", "Motorcycle", "Public Utility Vehicles", "L
 authors_raw = "Poe, Grace, Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA", "PGRAC"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3781234253!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-104"
 
 [[history]]
 date = "2022-07-07"

@@ -6,7 +6,6 @@ name = "SBN-01263"
 [meta]
 bill_number = 1263
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1263", "https://web.senate.gov.ph/lisdata/3928935722!.pdf",]
 title = "PHILIPPINE HEART CENTERS"
 date_filed = "2022-09-01"
 long_title = "AN ACT ESTABLISHING PHILIPPINE HEART CENTERS IN CEBU FOR VISAYAS AND IN CAGAYAN DE ORO CITY FOR MINDANAO, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Heart Center",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3928935722!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1263"
 
 [[history]]
 date = "2022-09-01"

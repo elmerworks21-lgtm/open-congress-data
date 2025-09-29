@@ -6,7 +6,6 @@ name = "SBN-02338"
 [meta]
 bill_number = 2338
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2338", "https://web.senate.gov.ph/lisdata/4219438380!.pdf",]
 title = "SCAM PREVENTION EDUCATION ACT OF 2023"
 date_filed = "2023-07-20"
 long_title = "AN ACT INCORPORATING SCAM PREVENTION EDUCATION IN THE SENIOR HIGH SCHOOL CURRICULA, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Scam", "Senior High School", "Curriculum/Curricula",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4219438380!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2338"
 
 [[history]]
 date = "2023-07-20"

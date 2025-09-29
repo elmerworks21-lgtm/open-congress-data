@@ -6,7 +6,6 @@ name = "SBN-00401"
 [meta]
 bill_number = 401
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-401", "https://web.senate.gov.ph/lisdata/45763923!.pdf",]
 title = "COMPREHENSIVE TUBERCULOSIS ELIMINATION ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING A NATIONAL PLAN FOR TUBERCULOSIS PREVENTION, TREATMENT AND CONTROL AND PROVIDING RELIABLE DRUGS SUPPLY AND FREE LABORATORY MONITORING SERVICE TO TB PATIENTS"
@@ -15,6 +14,8 @@ subjects = [ "Tuberculosis",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45763923!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-401"
 
 [[history]]
 date = "2007-07-02"

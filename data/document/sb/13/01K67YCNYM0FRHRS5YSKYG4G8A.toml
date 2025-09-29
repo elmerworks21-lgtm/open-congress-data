@@ -6,7 +6,6 @@ name = "SBN-01043"
 [meta]
 bill_number = 1043
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1043", "https://web.senate.gov.ph/lisdata/22471368!.pdf",]
 title = "REVISED CHARTER OF THE COOPERATIVE DEV'T AUTHORITY"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6939, CREATING THE COOPERATIVE DEVELOPMENT AUTHORITY"
@@ -15,6 +14,8 @@ subjects = [ "Cooperative Development Authority",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["COOPE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/22471368!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1043"
 
 [[history]]
 date = "2004-06-30"

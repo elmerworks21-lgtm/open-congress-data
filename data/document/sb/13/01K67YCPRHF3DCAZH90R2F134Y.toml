@@ -6,7 +6,6 @@ name = "SBN-02384"
 [meta]
 bill_number = 2384
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2384", "https://web.senate.gov.ph/lisdata/55704605!.pdf",]
 title = "SCHOOL HEALTH AND NUTRITION MODERNIZATION ACT"
 date_filed = "2006-06-07"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE SCHOOL HEALTH AND NUTRITION PROGRAM (SHNP) OF THE DEPARTMENT OF EDUCATION, AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "School Health and Nutrition Modernization",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55704605!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2384"
 
 [[history]]
 date = "2006-06-07"

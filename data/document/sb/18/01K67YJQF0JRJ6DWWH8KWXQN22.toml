@@ -6,7 +6,6 @@ name = "SBN-01538"
 [meta]
 bill_number = 1538
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1538", "https://web.senate.gov.ph/lisdata/3277529647!.pdf",]
 title = "STUDENT LOAN PAYMENT MORATORIUM DURING DISASTERS AND EMERGENCIES ACT"
 date_filed = "2020-05-20"
 long_title = "AN ACT PROVIDING FOR A MORATORIUM ON STUDENT LOAN PAYMENT DURING DISASTERS AND OTHER EMERGENCIES"
@@ -15,6 +14,8 @@ subjects = [ "Student Loan Program", "Moratorium",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3277529647!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1538"
 
 [[history]]
 date = "2020-05-20"

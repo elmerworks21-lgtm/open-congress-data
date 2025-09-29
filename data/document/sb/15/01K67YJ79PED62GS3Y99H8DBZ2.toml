@@ -6,7 +6,6 @@ name = "SBN-00118"
 [meta]
 bill_number = 118
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-118", "https://web.senate.gov.ph/lisdata/75136364!.pdf",]
 title = "PROMPT ACTION ON LETTERS AND REQUEST, UNDER R.A. 6713, CODE OF ETHICAL STANDARD"
 date_filed = "2010-07-05"
 long_title = "AN ACT PROVIDING FOR STIFFER PENALTIES AGAINST PUBLIC OFFICIALS AND EMPLOYEES WHO REFUSE OR NEGLECT TO ACT PROMPTLY ON THE PUBLIC’S PERSONAL TRANSACTIONS AND COMMUNICATIONS AS REQUIRED UNDER REPUBLIC ACT NO. 6713, OTHERWISE KNOWN AS THE CODE OF CONDUCT AND ETHICAL STANDARDS FOR PUBLIC OFFICIALS AND EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Code of Conduct and Ethical Standards (R.A.No. 6713)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75136364!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-118"
 
 [[history]]
 date = "2010-07-05"

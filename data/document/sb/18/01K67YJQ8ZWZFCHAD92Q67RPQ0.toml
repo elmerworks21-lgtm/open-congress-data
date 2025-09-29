@@ -6,7 +6,6 @@ name = "SBN-01292"
 [meta]
 bill_number = 1292
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1292", "https://web.senate.gov.ph/lisdata/3219229033!.pdf",]
 title = "ENVIRONMENTAL RESPONSIBILITY ACT"
 date_filed = "2020-01-23"
 long_title = "AN ACT PROMOTING ENVIRONMENTAL CONSCIOUSNESS THROUGH EDUCATION AND CIVIC ENGAGEMENT IN ORDER TO INCREASE SOCIAL RESPONSIBILITY AMONG THE YOUTH, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Education", "Youth",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3219229033!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1292"
 
 [[history]]
 date = "2020-01-23"

@@ -6,7 +6,6 @@ name = "SBN-02265"
 [meta]
 bill_number = 2265
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2265", "https://web.senate.gov.ph/lisdata/1923216356!.pdf",]
 title = "PAGASA MODERNIZATION ACT"
 date_filed = "2014-06-02"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE, ATMOSPHERIC, GEOPHYSICAL AND ASTRONOMICAL SERVICES ADMINISTRATION (PAGASA), AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Pagasa (Philippine Atmospheric, Geophysical and Astronomical Servi
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1923216356!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2265"
 
 [[history]]
 date = "2014-06-02"

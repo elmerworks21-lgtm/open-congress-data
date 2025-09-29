@@ -6,7 +6,6 @@ name = "SBN-02234"
 [meta]
 bill_number = 2234
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2234", "https://web.senate.gov.ph/lisdata/99008375!.pdf",]
 title = "SCHOOLS FOR CHILDREN WITH SPECIAL NEEDS ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF ONE SCHOOL FOR CHILDREN WITH SPECIAL NEEDS IN EVERY MUNICIPALITY THROUGHOUT THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Special Education", "Child Care Laws",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99008375!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2234"
 
 [[history]]
 date = "2010-08-02"

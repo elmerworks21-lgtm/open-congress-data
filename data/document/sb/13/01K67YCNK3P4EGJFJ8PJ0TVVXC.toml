@@ -6,7 +6,6 @@ name = "SBN-00402"
 [meta]
 bill_number = 402
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-402", "https://web.senate.gov.ph/lisdata/1559860!.pdf",]
 title = "INSTITUTIONALIZED PAYMENT OF COMPENSATION TO BARANGAY OFF."
 date_filed = "2004-06-30"
 long_title = "AN ACT MANDATING THE PAYMENT OF REGULAR COMPENSATION TO ELECTED AND OTHER BARANGAY OFFICIALS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Officials (Compensation)", "Local Government Code (RA 716
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1559860!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-402"
 
 [[history]]
 date = "2004-06-30"

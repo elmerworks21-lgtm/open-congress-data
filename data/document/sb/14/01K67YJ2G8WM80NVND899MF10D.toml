@@ -6,7 +6,6 @@ name = "SBN-02341"
 [meta]
 bill_number = 2341
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2341", "https://web.senate.gov.ph/lisdata/75086724!.pdf",]
 title = "MAGNA CARTA FOR YOUTH"
 date_filed = "2008-05-28"
 long_title = "AN ACT RECOGNIZING THE POTENTIALS OF THE FILIPINO YOUTH TOWARD NATION-BUILDING, PRESCRIBING THE FREE EXERCISE OF CERTAIN RIGHTS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Youth Commission",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75086724!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2341"
 
 [[history]]
 date = "2008-05-28"

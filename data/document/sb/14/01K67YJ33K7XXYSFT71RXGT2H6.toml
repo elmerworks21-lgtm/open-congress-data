@@ -6,7 +6,6 @@ name = "SBN-03195"
 [meta]
 bill_number = 3195
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3195", "https://web.senate.gov.ph/lisdata/109549705!.pdf",]
 title = "CHRONIC FATIGUE SYNDROME AWARENESS ACT OF 2009"
 date_filed = "2009-04-28"
 long_title = "AN ACT PROMOTING AWARENESS OF CHRONIC FATIGUE SYNDROME AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Chronic Fatigue Syndrome",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/109549705!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3195"
 
 [[history]]
 date = "2009-04-28"

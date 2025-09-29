@@ -6,7 +6,6 @@ name = "SBN-00163"
 [meta]
 bill_number = 163
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-163", "https://web.senate.gov.ph/lisdata/2358520214!.pdf",]
 title = "ANTI-DISCRIMINATION ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF ETHNICITY, RACE, RELIGION OR BELIEF, SEX OR GENDER OR SEXUAL ORIENTATION, LANGUAGE, DISABILITY, EDUCATIONAL ATTAINMENT AND OTHER FORMS OF DISCRIMINATION AND PROVIDING PENALTIES FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination", "Ethics", "Gender Discrimination", "Religion
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2358520214!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-163"
 
 [[history]]
 date = "2016-06-30"

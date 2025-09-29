@@ -6,7 +6,6 @@ name = "SBN-00768"
 [meta]
 bill_number = 768
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-768", "https://web.senate.gov.ph/lisdata/3855835012!.pdf",]
 title = "AMENDING SECS. 3 AND 4 OF P.D. NO. 1631 (CREATING THE LUNGSOD NG KABATAAN)"
 date_filed = "2022-07-19"
 long_title = "AN ACT AMENDING SECTIONS 3 AND 4 OF PRESIDENTIAL DECREE NO. 1631, SERIES OF 1979 OR THE ACT CREATING THE LUNGSOD NG KABATAAN AS AMENDED BY EXECUTIVE ORDER NO. 893, SERIES OF 1983"
@@ -15,6 +14,8 @@ subjects = [ "Lungsod Ng Kabataan",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3855835012!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-768"
 
 [[history]]
 date = "2022-07-19"

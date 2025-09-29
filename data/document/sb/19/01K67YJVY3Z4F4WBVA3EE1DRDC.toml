@@ -6,7 +6,6 @@ name = "SBN-01510"
 [meta]
 bill_number = 1510
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1510", "https://web.senate.gov.ph/lisdata/3989236331!.pdf",]
 title = "FOREIGN AFFAIRS RETIREMENT AND DISABILITY BENEFITS ACT"
 date_filed = "2022-11-15"
 long_title = "AN ACT ADJUSTING THE MONTHLY PENSION AND DISABILITY BENEFITS OF RETIREES OF THE DEPARTMENT OF FOREIGN AFFAIRS"
@@ -15,6 +14,8 @@ subjects = [ "Department of Foreign Affairs (DFA)", "Retirement Benefits",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3989236331!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1510"
 
 [[history]]
 date = "2022-11-15"

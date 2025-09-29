@@ -6,7 +6,6 @@ name = "SBN-00828"
 [meta]
 bill_number = 828
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-828", "https://web.senate.gov.ph/lisdata/2436921010!.pdf",]
 title = "ALIS TB ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT PROMOTING THE TREATMENT AND ERADICATION OF TUBERCULOSIS, AMENDING FOR THE PURPOSE SECTION 12 OF REPUBLIC ACT NO. 7875, AS AMENDED BY REPUBLIC ACT NO. 10606, OTHERWISE KNOWN AS AN ACT INSTITUTING A NATIONAL HEALTH INSURANCE PROGRAM FOR ALL FILIPINOS AND ESTABLISHING THE PHILIPPINE HEALTH INSURANCE CORPORATION FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Tuberculosis", "National Health Insurance", "Philippine Health Ins
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2436921010!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-828"
 
 [[history]]
 date = "2016-07-21"

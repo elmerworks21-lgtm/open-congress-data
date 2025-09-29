@@ -6,7 +6,6 @@ name = "SBN-00789"
 [meta]
 bill_number = 789
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-789", "https://web.senate.gov.ph/lisdata/3860335057!.pdf",]
 title = "FEAST OF OUR LADY OF GUADALUPE DAY ACT"
 date_filed = "2022-07-21"
 long_title = "AN ACT DECLARING DECEMBER 12 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE ENTIRE COUNTRY TO COMMEMORATE THE FEAST OF OUR LADY OF GUADALUPE"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Special Working)", "Feast of Our Lady of Guadalupe",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["CULTA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3860335057!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-789"
 
 [[history]]
 date = "2022-07-21"

@@ -6,7 +6,6 @@ name = "SBN-00015"
 [meta]
 bill_number = 15
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-15", "https://web.senate.gov.ph/lisdata/3023127060!.pdf",]
 title = "PUBLIC-PRIVATE PARTNERSHIP ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT INSTITUTIONALIZING AND STRENGTHENING PUBLIC-PRIVATE PARTNERSHIPS"
@@ -15,6 +14,8 @@ subjects = [ "Public-Private Partnership (PPP) Projects", "Build-Operate-Transfe
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3023127060!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-15"
 
 [[history]]
 date = "2019-07-01"

@@ -6,7 +6,6 @@ name = "SBN-00478"
 [meta]
 bill_number = 478
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-478", "https://web.senate.gov.ph/lisdata/3823934676!.pdf",]
 title = "PUBLIC SCHOOL DATABASE ACT"
 date_filed = "2022-07-13"
 long_title = "AN ACT MANDATING THE AUTOMATION OF A NATIONAL PUBLIC SCHOOL DATABASE"
@@ -15,6 +14,8 @@ subjects = [ "Public School Database",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3823934676!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-478"
 
 [[history]]
 date = "2022-07-13"

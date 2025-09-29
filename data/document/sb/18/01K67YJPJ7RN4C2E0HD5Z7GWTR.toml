@@ -6,7 +6,6 @@ name = "SBN-00263"
 [meta]
 bill_number = 263
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-263", "https://web.senate.gov.ph/lisdata/3054627405!.pdf",]
 title = "SOLID WASTE IMPORTATION BAN ACT OF 2019"
 date_filed = "2019-07-08"
 long_title = "AN ACT BANNING SOLID WASTE IMPORTATION"
@@ -15,6 +14,8 @@ subjects = [ "Solid Waste", "Waste Importation Ban",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3054627405!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-263"
 
 [[history]]
 date = "2019-07-08"

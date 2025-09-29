@@ -6,7 +6,6 @@ name = "SBN-01333"
 [meta]
 bill_number = 1333
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1333", "https://web.senate.gov.ph/lisdata/1742814662!.pdf",]
 title = "LEGISLATIVE DOCUMENT ACCESSIBILITY ACT"
 date_filed = "2013-08-22"
 long_title = "AN ACT TO IMPROVE THE ACCESSIBILITY OF LEGISLATIVE DOCUMENTS"
@@ -15,6 +14,8 @@ subjects = [ "Legislative Document Accessibility",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1742814662!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1333"
 
 [[history]]
 date = "2013-08-22"

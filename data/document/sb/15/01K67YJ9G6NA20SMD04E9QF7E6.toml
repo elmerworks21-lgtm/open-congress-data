@@ -6,7 +6,6 @@ name = "SBN-03123"
 [meta]
 bill_number = 3123
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3123", "https://web.senate.gov.ph/lisdata/1280910825!.pdf",]
 title = "ANTI-MONEY LAUNDERING ACT"
 date_filed = "2012-02-14"
 long_title = "AN ACT FURTHER STRENGTHENING THE ANTI-MONEY LAUNDERING LAW, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9160, OTHERWISE KNOWN AS THE 'ANTI-MONEY LAUNDERING ACT OF 2001', AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Money Laundering",]
 authors_raw = "Osmena III, Sergio R., Guingona III, Teofisto \"Tg\""
 author_codes = ["GTEOF", "OSERG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1280910825!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3123"
 
 [[history]]
 date = "2012-02-14"

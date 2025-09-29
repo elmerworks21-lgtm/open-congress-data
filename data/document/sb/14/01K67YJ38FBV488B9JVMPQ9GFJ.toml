@@ -6,7 +6,6 @@ name = "SBN-03390"
 [meta]
 bill_number = 3390
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3390", "https://web.senate.gov.ph/lisdata/1206610628!.pdf",]
 title = "DRIVER EDUCATION ACT OF 2009"
 date_filed = "2009-08-17"
 long_title = "AN ACT INSTITUTING A DRIVER EDUCATION PROGRAM PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Driver Education Program",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1206610628!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3390"
 
 [[history]]
 date = "2009-08-17"

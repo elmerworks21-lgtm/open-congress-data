@@ -6,7 +6,6 @@ name = "SBN-00193"
 [meta]
 bill_number = 193
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-193", "https://web.senate.gov.ph/lisdata/3037627176!.pdf",]
 title = "PHILIPPINE BOXING AND COMBAT SPORTS COMMISSION ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT CREATING THE PHILIPPINE BOXING COMMISSION AND COMBAT SPORTS COMMISSION AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Sports Development Program", "Boxer Welfare", "Philippine Boxing C
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3037627176!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-193"
 
 [[history]]
 date = "2019-07-02"

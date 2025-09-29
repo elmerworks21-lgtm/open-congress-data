@@ -6,7 +6,6 @@ name = "SBN-01247"
 [meta]
 bill_number = 1247
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1247", "https://web.senate.gov.ph/lisdata/1731414549!.pdf",]
 title = "SITING OF LANDFILLS/GARBAGE DUMPS NEAR EDUCATIONAL FACILITIES BAN"
 date_filed = "2013-08-08"
 long_title = "AN ACT PROHIBITING LANDFILLS/GARBAGE DUMPS NEAR EDUCATIONAL FACILITIES"
@@ -15,6 +14,8 @@ subjects = [ "Garbage",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1731414549!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1247"
 
 [[history]]
 date = "2013-08-08"

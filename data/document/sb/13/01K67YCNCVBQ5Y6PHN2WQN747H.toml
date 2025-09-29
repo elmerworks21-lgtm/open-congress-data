@@ -6,7 +6,6 @@ name = "SBN-00062"
 [meta]
 bill_number = 62
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-62", "https://web.senate.gov.ph/lisdata/1191696!.pdf",]
 title = "FAMILY WELFARE ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROTECTING THE WELFARE OF THE FILIPINO FAMILY THROUGH THE ESTABLISHMENT OF A NATIONAL FAMILY WELFARE PROGRAM, CREATION OF THE NATIONAL FAMILY WELFARE COMMISSION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Family Welfare Act", "National Family Welfare Commission",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1191696!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-62"
 
 [[history]]
 date = "2004-06-30"

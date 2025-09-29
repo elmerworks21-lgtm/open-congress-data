@@ -6,7 +6,6 @@ name = "SBN-03045"
 [meta]
 bill_number = 3045
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3045", "https://web.senate.gov.ph/lisdata/102589130!.pdf",]
 title = "STILLBIRTH AWARENESS AND RESEARCH ACT OF 2009"
 date_filed = "2009-02-09"
 long_title = "AN ACT PROVIDING FOR A NATIONAL COLLECTION FO DATA ON STILLBIRTHS IN A STANDARDIZED MANNER, PROVIDING FOR INFORMATION AND RESEARCH PROGRAM ON STILLBIRTHS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Stillbirths",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/102589130!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3045"
 
 [[history]]
 date = "2009-02-09"

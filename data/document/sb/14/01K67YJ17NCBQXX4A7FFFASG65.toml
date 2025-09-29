@@ -6,7 +6,6 @@ name = "SBN-00763"
 [meta]
 bill_number = 763
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-763", "https://web.senate.gov.ph/lisdata/49874376!.pdf",]
 title = "NATIONAL CHILDREN'S DAY ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT DECLARING NOVEMBER 20 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY TO BE KNOWN AS NATIONAL CHILDREN’S DAY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49874376!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-763"
 
 [[history]]
 date = "2007-07-03"

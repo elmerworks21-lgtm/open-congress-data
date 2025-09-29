@@ -6,7 +6,6 @@ name = "SBN-02132"
 [meta]
 bill_number = 2132
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2132", "https://web.senate.gov.ph/lisdata/3491331736!.pdf",]
 title = "PUBLIC SCHOOL TEACHERS' ANNUAL MEDICAL CHECK-UP ACT"
 date_filed = "2021-04-14"
 long_title = "AN ACT PROVIDING FOR AN ANNUAL MEDICAL EXAMINATION BENEFIT FOR PUBLIC SCHOOL TEACHERS AND ALLOCATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Public School Teachers", "Medical Assistance/Dental Assistance",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3491331736!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2132"
 
 [[history]]
 date = "2021-04-14"

@@ -6,7 +6,6 @@ name = "SBN-00722"
 [meta]
 bill_number = 722
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-722", "https://web.senate.gov.ph/lisdata/3107427971!.pdf",]
 title = "STIFFER PENALTIES FOR WILFUL OR INDISCRIMINATE DISCHARGE OF FIREARMS"
 date_filed = "2019-07-24"
 long_title = "AN ACT PROVIDING FOR STIFFER PENALTIES FOR WILFUL OR INDISCRIMINATE DISCHARGE OF FIREARMS, AMENDING FOR THE PURPOSE ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Firearms", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3107427971!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-722"
 
 [[history]]
 date = "2019-07-24"

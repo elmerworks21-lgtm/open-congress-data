@@ -6,7 +6,6 @@ name = "SBN-01309"
 [meta]
 bill_number = 1309
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1309", "https://web.senate.gov.ph/lisdata/2532321833!.pdf",]
 title = "AMENDING R.A. NO. 10068 (ORGANIC AGRICULTURE ACT OF 2010)"
 date_filed = "2017-01-31"
 long_title = "AN ACT STRENGTHENING SUSTAINABLE AGRICULTURE AND ENHANCING SUPPORT FOR SMALL ORGANIC FARMERS, AMENDING FOR THE PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NO. 10068 OR THE ORGANIC AGRICULTURE ACT OF 2010"
@@ -15,6 +14,8 @@ subjects = [ "Organic Agriculture/Organic Farming", "Farmers",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2532321833!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1309"
 
 [[history]]
 date = "2017-01-31"

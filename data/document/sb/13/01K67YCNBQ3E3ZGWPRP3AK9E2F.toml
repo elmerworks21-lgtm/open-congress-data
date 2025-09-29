@@ -6,7 +6,6 @@ name = "SBN-00003"
 [meta]
 bill_number = 3
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-3", "https://web.senate.gov.ph/lisdata/1245556!.pdf",]
 title = "MAGNA CARTA OF PATIENT'S RIGHTS AND OBLIGATIONS"
 date_filed = "2004-06-30"
 long_title = "AN ACT DECLARING THE RIGHTS AND OBLIGATIONS OF PATIENTS AND ESTABLISHING A GRIEVANCE MECHANISM FOR VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Patients Rights and Obligations", "Magna Carta of Patients Rights"
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
 author_codes = ["AEDGA", "FJUAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1245556!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-3"
 
 [[history]]
 date = "2004-06-30"

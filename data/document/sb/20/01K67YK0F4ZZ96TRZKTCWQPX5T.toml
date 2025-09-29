@@ -6,7 +6,6 @@ name = "SBN-01130"
 [meta]
 bill_number = 1130
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1130", "https://web.senate.gov.ph/lisdata/4768443704!.pdf",]
 title = "NATIONAL INDIGENOUS PEOPLES DAY"
 date_filed = "2025-08-07"
 long_title = "AN ACT DECLARING THE 9TH OF AUGUST AS 'NATIONAL INDIGENOUS PEOPLES DAY' A SPECIAL NON-WORKING HOLIDAY, AND THE MONTH OF AUGUST AS 'NATIONAL INDIGENOUS PEOPLES MONTH'"
@@ -15,6 +14,8 @@ subjects = [ "National Indigenous Peoples Day", "Holidays (Special Non-Working)"
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4768443704!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1130"
 
 [[history]]
 date = "2025-08-07"

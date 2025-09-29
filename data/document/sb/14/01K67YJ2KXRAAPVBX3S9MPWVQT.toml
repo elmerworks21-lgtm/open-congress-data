@@ -6,7 +6,6 @@ name = "SBN-02485"
 [meta]
 bill_number = 2485
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2485", "https://web.senate.gov.ph/lisdata/79617193!.pdf",]
 title = "JOINT LEGISLATIVE-EXECUTIVE TAX COMMISSION (JLETC)"
 date_filed = "2008-07-28"
 long_title = "AN ACT CREATING A JOINT LEGISLATIVE-EXECUTIVE TAX COMMISSION, DEFINING ITS COMPOSITION, POWERS AND FUNCTIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Joint Legislative-Executive Tax Commission",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79617193!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2485"
 
 [[history]]
 date = "2008-07-28"

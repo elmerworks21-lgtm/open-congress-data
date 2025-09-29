@@ -6,7 +6,6 @@ name = "SBN-01016"
 [meta]
 bill_number = 1016
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1016", "https://web.senate.gov.ph/lisdata/22231298!.pdf",]
 title = "TAX ON LIFE INSURANCE PREMIUMS REDUCTION"
 date_filed = "2004-06-30"
 long_title = "AN ACT REDUCING THE TAX INSURANCE PREMIUM UNDER CERTAIN CONDITIONS, AMENDING FOR THIS PURPOSE SECTION 123 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Life Insurance Premiums (Tax Reduction)", "National Internal Reven
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/22231298!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1016"
 
 [[history]]
 date = "2004-06-30"

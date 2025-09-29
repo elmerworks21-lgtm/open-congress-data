@@ -6,7 +6,6 @@ name = "SBN-00099"
 [meta]
 bill_number = 99
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-99", "https://web.senate.gov.ph/lisdata/41673570!.pdf",]
 title = "PAYMENT OF RETIREMENT BENEFITS (SSS/GSIS MEMBERS)"
 date_filed = "2007-06-30"
 long_title = "AN ACT MANDATING THE PAYMENT OF RETIREMENT BENEFITS TO SSS OR GSIS MEMBERS WITHIN A MAXIMUM PERIOD OF THIRTY (30) DAYS FROM THE RETIREMENT DATE AND FOR OTHER PURPOSES”"
@@ -15,6 +14,8 @@ subjects = [ "Retirement Benefits Payment (Sss", "Gsis Members)",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41673570!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-99"
 
 [[history]]
 date = "2007-06-30"

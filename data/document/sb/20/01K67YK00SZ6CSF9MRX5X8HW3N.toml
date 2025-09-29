@@ -6,7 +6,6 @@ name = "SBN-00365"
 [meta]
 bill_number = 365
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-365", "https://web.senate.gov.ph/lisdata/4685642863!.pdf",]
 title = "WASTE-TO-ENERGY ACT"
 date_filed = "2025-07-10"
 long_title = "ESTABLISHING A NATIONAL ENERGY POLICY AND REGULATORY FRAMEWORK FOR FACILITIES UTILIZING WASTE-TO-ENERGY TECHNOLOGIES"
@@ -15,6 +14,8 @@ subjects = [ "Waste-To-Energy Technologies",]
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4685642863!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-365"
 
 [[history]]
 date = "2025-07-10"

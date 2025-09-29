@@ -6,7 +6,6 @@ name = "SBN-00645"
 [meta]
 bill_number = 645
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-645", "https://web.senate.gov.ph/lisdata/48564232!.pdf",]
 title = "RIGHT TO TRAVEL ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT UPHOLDING THE RIGHT TO TRAVEL AND PROVIDING GROUNDS FOR TRAVEL RESTRICTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Right to Travel",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48564232!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-645"
 
 [[history]]
 date = "2007-07-03"

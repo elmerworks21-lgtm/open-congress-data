@@ -6,7 +6,6 @@ name = "SBN-00654"
 [meta]
 bill_number = 654
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-654", "https://web.senate.gov.ph/lisdata/18401215!.pdf",]
 title = "PROTECTION OF MINORS FROM VICES ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROHIBITING THE SALE OF CIGARS, CIGARETTES AND ALCOHOLIC OR INTOXICATING LIQUOR OR BEVERAGE TO MINORS"
@@ -15,6 +14,8 @@ subjects = [ "Protection of Minors From Vices", "Children/Youth (Cigar/Liquor Se
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18401215!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-654"
 
 [[history]]
 date = "2004-06-30"

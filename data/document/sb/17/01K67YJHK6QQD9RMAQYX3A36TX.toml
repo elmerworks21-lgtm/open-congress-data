@@ -6,7 +6,6 @@ name = "SBN-00641"
 [meta]
 bill_number = 641
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-641", "https://web.senate.gov.ph/lisdata/2412920766!.pdf",]
 title = "PHILIPPINE CIVIL SERVICE REFORM"
 date_filed = "2016-07-20"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE CIVIL SERVICE REFORM CODE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Service Code",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2412920766!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-641"
 
 [[history]]
 date = "2016-07-20"

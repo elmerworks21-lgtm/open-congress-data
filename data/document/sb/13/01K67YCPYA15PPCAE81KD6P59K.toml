@@ -6,7 +6,6 @@ name = "SBN-02637"
 [meta]
 bill_number = 2637
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2637", "https://web.senate.gov.ph/lisdata/71575806!.pdf",]
 title = "VIDEO GAME SALE AND RENTAL REGULATION ACT OF 2007"
 date_filed = "2007-06-04"
 long_title = "AN ACT PROHIBITING THE SALE OR RENTAL OF VIOLENT VIDEO GAMES TO MINORS"
@@ -15,6 +14,8 @@ subjects = [ "Video Game Sale", "Rental Regulation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71575806!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2637"
 
 [[history]]
 date = "2007-06-04"

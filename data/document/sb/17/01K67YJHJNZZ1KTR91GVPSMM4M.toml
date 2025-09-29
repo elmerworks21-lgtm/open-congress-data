@@ -6,7 +6,6 @@ name = "SBN-00615"
 [meta]
 bill_number = 615
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-615", "https://web.senate.gov.ph/lisdata/2410020739!.pdf",]
 title = "UNDERGROUND WIRING ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT REQUIRING ALL FRANCHISE GRANTEES USING WIRES AND CABLES IN THE OPERATION OF THEIR BUSINESS WITHIN THE PHILIPPINES TO PLACE THEIR WIRE AND CABLE CONNECTIONS UNDER THE GROUND, PROVIDING PENALTIES THEREOF AND FOR OTEHR PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2410020739!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-615"
 
 [[history]]
 date = "2016-07-19"

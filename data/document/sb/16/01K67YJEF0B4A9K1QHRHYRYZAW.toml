@@ -6,7 +6,6 @@ name = "SBN-03003"
 [meta]
 bill_number = 3003
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3003", "https://web.senate.gov.ph/lisdata/2249219198!.pdf",]
 title = "AMENDING SEC. 24, NIRC (RATES OF TAX ON TAXABLE INCOME OF INDIVIDUALS)"
 date_filed = "2015-11-05"
 long_title = "AN ACT AMENDING SECTION 24 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income 
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2249219198!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3003"
 
 [[history]]
 date = "2015-11-05"

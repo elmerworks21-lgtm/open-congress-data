@@ -6,7 +6,6 @@ name = "SBN-01891"
 [meta]
 bill_number = 1891
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1891", "https://web.senate.gov.ph/lisdata/64275718!.pdf",]
 title = "MAGNA CARTA FOR WOMEN"
 date_filed = "2007-11-20"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA FOR WOMEN"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Women",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64275718!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1891"
 
 [[history]]
 date = "2007-11-20"

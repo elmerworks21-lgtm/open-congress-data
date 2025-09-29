@@ -6,7 +6,6 @@ name = "SBN-00179"
 [meta]
 bill_number = 179
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-179", "https://web.senate.gov.ph/lisdata/3045627297!.pdf",]
 title = "HUMAN RIGHTS DEFENDERS PROTECTION ACT"
 date_filed = "2019-07-02"
 long_title = "AN ACT TO PROMOTE AND PROTECT THE RIGHTS OF HUMAN RIGHTS DEFENDERS"
@@ -15,6 +14,8 @@ subjects = [ "Human Rights", "Human Rights Violations",]
 authors_raw = "De Lima, Leila M., Hontiveros, Risa"
 author_codes = ["DLEIL", "HANAT"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3045627297!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-179"
 
 [[history]]
 date = "2019-07-02"

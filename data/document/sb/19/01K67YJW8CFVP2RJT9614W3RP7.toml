@@ -6,7 +6,6 @@ name = "SBN-01962"
 [meta]
 bill_number = 1962
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1962", "https://web.senate.gov.ph/lisdata/4101537377!.pdf",]
 title = "AMENDING R.A. NO. 10845 (ANTI-AGRICULTURAL SMUGGLING ACT OF 2016)"
 date_filed = "2023-03-06"
 long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 10845, OTHERWISE KNOWN AS THE ANTI-AGRICULTURAL SMUGGLING ACT OF 2016, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Agricultural Smuggling", "Economic Sabotage",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4101537377!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1962"
 
 [[history]]
 date = "2023-03-06"

@@ -6,7 +6,6 @@ name = "SBN-00142"
 [meta]
 bill_number = 142
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-142", "https://web.senate.gov.ph/lisdata/2356220179!.pdf",]
 title = "DAIRY DEVELOPMENT ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT MERGING THE PHILIPPINE CARABAO CENTER AND THE NATIONAL DAIRY AUTHORITY INTO THE PHILIPPINE NATIONAL DAIRY DEVELOPMENT AGENCY TO PROVIDE GREATER FOCUS ON THE ACCELERATED DEVELOPMENT OF THE DAIRY INDUSTRY AND TO INCREASE PRODUCTION OF DAIRY ANIMALS IN THE PHILIPPINES, PROVIDING A RUMINANT DEVELOPMENT FUND THEREFORE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Dairy Industry", "Philippine Carabao Center", "Ruminant Stock",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2356220179!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-142"
 
 [[history]]
 date = "2016-06-30"

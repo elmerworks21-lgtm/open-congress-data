@@ -6,7 +6,6 @@ name = "SBN-00224"
 [meta]
 bill_number = 224
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-224", "https://web.senate.gov.ph/lisdata/76166143!.pdf",]
 title = "INTERNATIONALLY PROTECTED PERSONS ACT OF 2010"
 date_filed = "2010-07-06"
 long_title = "AN ACT TO GIVE EFFECT TO THE CONVENTION ON THE PREVENTION AND PUNISHMENT OF CRIMES AGAINST INTERNATIONALLY PROTECTED PERSONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internationally Protected Persons",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76166143!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-224"
 
 [[history]]
 date = "2010-07-06"

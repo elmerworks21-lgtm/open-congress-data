@@ -6,7 +6,6 @@ name = "SBN-01349"
 [meta]
 bill_number = 1349
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1349", "https://web.senate.gov.ph/lisdata/56495048!.pdf",]
 title = "BANNING ON EXPERIMENTS ON CLONING OF HUMAN BEINGS"
 date_filed = "2007-07-24"
 long_title = "AN ACT TO BAN EXPERIMENTS ON THE CLONING OF HUMAN BEINGS"
@@ -15,6 +14,8 @@ subjects = [ "Cloning of Human Beings Ban",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56495048!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1349"
 
 [[history]]
 date = "2007-07-24"

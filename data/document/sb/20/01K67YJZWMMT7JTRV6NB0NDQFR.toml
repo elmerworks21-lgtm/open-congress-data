@@ -6,7 +6,6 @@ name = "SBN-00145"
 [meta]
 bill_number = 145
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-145", "https://web.senate.gov.ph/lisdata/4662242626!.pdf",]
 title = "NATIONAL WATER RESOURCES MANAGEMENT ACT"
 date_filed = "2025-07-07"
 long_title = "AN ACT ESTABLISHING THE NATIONAL FRAMEWORK FOR WATER RESOURCE MANAGEMENT AND CREATING THE DEPARTMENT OF WATER RESOURCES AND THE WATER REGULATORY COMMISSION, DEFINING THEIR MANDATE, POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Water Resources Management",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4662242626!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-145"
 
 [[history]]
 date = "2025-07-07"

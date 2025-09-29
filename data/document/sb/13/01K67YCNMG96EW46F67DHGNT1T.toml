@@ -6,7 +6,6 @@ name = "SBN-00480"
 [meta]
 bill_number = 480
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-480", "https://web.senate.gov.ph/lisdata/1638939!.pdf",]
 title = "ANTI-OBSCENITY AND PORNOGRAPHY ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROHIBITING THE PUBLICATION, SALE, DISTRIBUTION, IMPORTATION AND EXHIBITION OF THE OBSCENE AND PORNOGRAPHIC MATERIALS AND THE PERFORMANCE OR EXHIBITION OF INDECENT ACTS IN PUBLIC AND PROVIDING PENALTIES FOR VIOLATION THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pornographic Materials (Publication/Sale", "Anti-Obscenity and Por
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1638939!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-480"
 
 [[history]]
 date = "2004-06-30"

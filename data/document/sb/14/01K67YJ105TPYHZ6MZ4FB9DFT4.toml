@@ -6,7 +6,6 @@ name = "SBN-00394"
 [meta]
 bill_number = 394
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-394", "https://web.senate.gov.ph/lisdata/45673915!.pdf",]
 title = "PROHIBITION AGAINST AGE DISCRIMINATION ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO PROHIBIT ANY EMPLOYER, LABOR CONTRACTOR AND LABOR ORGANIZATION FROM DISCRIMINATING AGAINST ANY INDIVIDUAL BECAUSE OF THE INDIVIDUAL’S AGE"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Age Discrimination", "Labor Contractor/Labor Organization",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45673915!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-394"
 
 [[history]]
 date = "2007-07-02"

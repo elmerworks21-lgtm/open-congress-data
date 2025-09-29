@@ -6,7 +6,6 @@ name = "SBN-02068"
 [meta]
 bill_number = 2068
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2068", "https://web.senate.gov.ph/lisdata/34863290!.pdf",]
 title = "PHILIPPINE HALAL ACT OF 2005"
 date_filed = "2005-08-02"
 long_title = "AN ACT CREATING THE PHILIPPINE HALAL ACCREDITATION AND REGULATORY BOARD AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Halal Act",]
 authors_raw = "Magsaysay Jr., Ramon B."
 author_codes = ["MRAMO"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34863290!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2068"
 
 [[history]]
 date = "2005-08-03"

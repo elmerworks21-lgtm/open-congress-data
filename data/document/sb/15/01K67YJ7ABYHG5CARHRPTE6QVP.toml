@@ -6,7 +6,6 @@ name = "SBN-00145"
 [meta]
 bill_number = 145
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-145", "https://web.senate.gov.ph/lisdata/76616394!.pdf",]
 title = "LA MESA WATERSHED RESERVATION ACT OF 2010"
 date_filed = "2010-07-05"
 long_title = "AN ACT ESTABLISHING THE LA MESA WATERSHED IN THE CITIES OF QUEZON AND CALOOCAN AND IN THE MUNICIPALITY OF RODRIGUEZ, PROVINCE OF RIZAL AS A WATERSHED RESERVATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "La Mesa Watershed",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76616394!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-145"
 
 [[history]]
 date = "2010-07-05"

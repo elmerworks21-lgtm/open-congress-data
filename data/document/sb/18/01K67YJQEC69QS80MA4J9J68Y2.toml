@@ -6,7 +6,6 @@ name = "SBN-01513"
 [meta]
 bill_number = 1513
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1513", "https://web.senate.gov.ph/lisdata/3271229576!.pdf",]
 title = "LABOR EDUCATION ACT"
 date_filed = "2020-05-05"
 long_title = "AN ACT INTEGRATING LABOR EDUCATION IN THE TERTIARY EDUCATION CURRICULUM"
@@ -15,6 +14,8 @@ subjects = [ "Labor Education", "Tertiary Education", "Curriculum/Curricula",]
 authors_raw = "Lapid, Manuel \"Lito\" M., Revilla Jr., Ramon Bong, Villanueva, Joel, Hontiveros, Risa, Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["HANAT", "LMANU", "RRAMO", "VEMMA", "ZJMIG"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3271229576!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1513"
 
 [[history]]
 date = "2020-05-05"

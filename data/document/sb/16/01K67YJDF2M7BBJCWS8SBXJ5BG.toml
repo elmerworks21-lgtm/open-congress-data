@@ -6,7 +6,6 @@ name = "SBN-01833"
 [meta]
 bill_number = 1833
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1833", "https://web.senate.gov.ph/lisdata/1803315266!.pdf",]
 title = "PILIPINAS"
 date_filed = "2013-10-10"
 long_title = "ISANG BATAS NA NAGTATAKDA NA ANG KATAWAGAN SA ATING BANSA AY REPUBLIKA NG PILIPINAS O SA MAIKLING SALITA AY PILIPINAS"
@@ -15,6 +14,8 @@ subjects = [ "Pilipinas",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1803315266!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1833"
 
 [[history]]
 date = "2013-10-10"

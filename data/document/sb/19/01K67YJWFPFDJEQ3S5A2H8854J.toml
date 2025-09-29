@@ -6,7 +6,6 @@ name = "SBN-02252"
 [meta]
 bill_number = 2252
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2252", "https://web.senate.gov.ph/lisdata/4185438122!.pdf",]
 title = "PAOAY LAKE PROTECTED LANDSCAPE ACT"
 date_filed = "2023-05-25"
 long_title = "AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITY OF PAOAY IN THE PROVINCE OF ILOCOS NORTE, A PROTECTED AREA WITH THE CATEGORY OF PROTECTED LANDSCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE PAOAY LAKE PROTECTED LANDSCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Protected Area", "Protected Landscape",]
 authors_raw = "Villar, Cynthia A., Marcos, Imee R., Legarda, Loren B., Angara, Sonny, Villanueva, Joel, Dela Rosa, Ronald \"Bato\""
 author_codes = ["ASONN", "DRONA", "LLORE", "MIMEE", "VCYNT", "VEMMA"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4185438122!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2252"
 
 [[history]]
 date = "2023-05-25"

@@ -6,7 +6,6 @@ name = "SBN-00046"
 [meta]
 bill_number = 46
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-46", "https://web.senate.gov.ph/lisdata/1585713095!.pdf",]
 title = "TANODBATA ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT CREATING THE OFFICE OF TANODBATA AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tanodbata",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1585713095!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-46"
 
 [[history]]
 date = "2013-07-01"

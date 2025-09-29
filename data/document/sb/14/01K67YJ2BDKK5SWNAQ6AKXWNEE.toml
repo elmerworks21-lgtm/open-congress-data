@@ -6,7 +6,6 @@ name = "SBN-02123"
 [meta]
 bill_number = 2123
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2123", "https://web.senate.gov.ph/lisdata/70416282!.pdf",]
 title = "LOAN/FINANCIAL OBLIGATION AMORTIZED BEFORE END OF TERM OF LOCAL EXECUTIVES"
 date_filed = "2008-03-13"
 long_title = "AN ACT LIMITING THE PERIOD OF AMORTIZATION OF LOANS CONTRACTED BY LOCAL GOVERNMENTS TO THE TERM OF OFFICE OF THE LOCAL EXECUTIVES CONCERNED, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/70416282!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2123"
 
 [[history]]
 date = "2008-03-13"

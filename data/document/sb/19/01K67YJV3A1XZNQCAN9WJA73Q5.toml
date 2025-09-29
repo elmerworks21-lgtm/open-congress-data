@@ -6,7 +6,6 @@ name = "SBN-00332"
 [meta]
 bill_number = 332
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-332", "https://web.senate.gov.ph/lisdata/3808934532!.pdf",]
 title = "CNSP BIRTH REGISTRATION ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT FURTHER STRENGTHENING THE SYSTEM OF BIRTH REGISTRATION OF CHILDREN IN NEED OF SPECIAL PROTECTION (CNSP) IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Birth Registration", "Children in Need of Special Protection (CSNP
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3808934532!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-332"
 
 [[history]]
 date = "2022-07-12"

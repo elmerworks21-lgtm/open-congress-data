@@ -6,7 +6,6 @@ name = "SBN-01330"
 [meta]
 bill_number = 1330
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1330", "https://web.senate.gov.ph/lisdata/3944535841!.pdf",]
 title = "PHILIPPINE RISE RESOURCE DEVELOPMENT AUTHORITY ACT"
 date_filed = "2022-09-19"
 long_title = "AN ACT CREATING THE PHILIPPINE RISE DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Rise", "Philippine Rise Development Authority",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3944535841!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1330"
 
 [[history]]
 date = "2022-09-19"

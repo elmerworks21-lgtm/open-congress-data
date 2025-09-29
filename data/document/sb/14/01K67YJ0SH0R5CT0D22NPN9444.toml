@@ -6,7 +6,6 @@ name = "SBN-00098"
 [meta]
 bill_number = 98
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-98", "https://web.senate.gov.ph/lisdata/41663569!.pdf",]
 title = "CONSERVATION, PROTECTION AND RENEWAL OF THE NATIONS PATRIMONY ACT"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO CONSERVE AND PROTECT THE PUBLIC FORESTS, MANGROVES AND WILDLIFE THEREIN THROUGH A PROGRAM OF RENEWAL, REFORESTATION AND REPLANTING, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forest Conservation/Forest Protection", "Nations Patrimony", "Wild
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41663569!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-98"
 
 [[history]]
 date = "2007-06-30"

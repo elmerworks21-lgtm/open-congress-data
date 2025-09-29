@@ -6,7 +6,6 @@ name = "SBN-01049"
 [meta]
 bill_number = 1049
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1049", "https://web.senate.gov.ph/lisdata/1709014304!.pdf",]
 title = "APO REEF NATURAL PARK (ARNP) ACT OF 2013"
 date_filed = "2013-07-23"
 long_title = "AN ACT ESTABLISHING THE APO REEF IN SABLAYAN, OCCIDENTAL MINDORO AS A PROTECTED AREA UNDER THE CATEGORY OF NATURAL PARK AND ITS PERIPHERAL WATERS AS BUFFER ZONES, PROVIDING FOR ITS MANAGEMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Protected Area", "Protected Landscape",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1709014304!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1049"
 
 [[history]]
 date = "2013-07-23"

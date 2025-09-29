@@ -6,7 +6,6 @@ name = "SBN-00998"
 [meta]
 bill_number = 998
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-998", "https://web.senate.gov.ph/lisdata/2456721142!.pdf",]
 title = "SALARY STANDARDIZATION LAW OF 2016"
 date_filed = "2016-08-08"
 long_title = "AN ACT MODIFYING THE COMPENSATION AND POSITION CLASSIFICATION SYSTEM OF CIVILIAN GOVERNMENT PERSONNEL AND THE BASE PAY SCHEDULE OF MILITARY AND UNIFORMED PERSONNEL IN THE GOVERNMENT"
@@ -15,6 +14,8 @@ subjects = [ "Salary Standardization", "Military and Uniformed Personnel", "Gove
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2456721142!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-998"
 
 [[history]]
 date = "2016-08-08"

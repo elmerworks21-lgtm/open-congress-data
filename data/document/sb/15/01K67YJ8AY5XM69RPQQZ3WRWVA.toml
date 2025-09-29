@@ -6,7 +6,6 @@ name = "SBN-01752"
 [meta]
 bill_number = 1752
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1752", "https://web.senate.gov.ph/lisdata/93117845!.pdf",]
 title = "DEFIBRILLATORS IN AIRPORTS ACT"
 date_filed = "2010-07-21"
 long_title = "AN ACT REQUIRING THE PLACEMENT OF DEFIBRILLATORS IN PUBLIC USE AIRPORTS"
@@ -15,6 +14,8 @@ subjects = [ "Airport",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/93117845!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1752"
 
 [[history]]
 date = "2010-07-21"

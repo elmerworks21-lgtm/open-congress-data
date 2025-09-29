@@ -6,7 +6,6 @@ name = "SBN-00516"
 [meta]
 bill_number = 516
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-516", "https://web.senate.gov.ph/lisdata/2395620622!.pdf",]
 title = "INTERNATIONALLY PROTECTED PERSONS ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT TO GIVE EFFECT TO THE CONVENTION ON THE PREVENTION AND PUNISHMENT OF CRIMES AGAINST INTERNATIONALLY PROTECTED PERSONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internationally Protected Persons",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2395620622!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-516"
 
 [[history]]
 date = "2016-07-19"

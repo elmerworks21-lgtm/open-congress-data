@@ -6,7 +6,6 @@ name = "SBN-02876"
 [meta]
 bill_number = 2876
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2876", "https://web.senate.gov.ph/lisdata/2187118592!.pdf",]
 title = "FREEDOM FROM THREATS ACT"
 date_filed = "2015-07-28"
 long_title = "AN ACT IMPOSING HIGHER PENALTIES FOR THE ACT OF THREATENING OR INJURING A MEMBER OF A GOVERNMENT OFFICIAL'S AND LAW ENFORCEMENT OFFICER'S FAMILY IN ORDER TO INFLUENCE, IMPEDE, OR RETALIATE AGAINST HIM"
@@ -15,6 +14,8 @@ subjects = [ "Law Enforcement Agency", "Government Official/Public Official",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2187118592!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2876"
 
 [[history]]
 date = "2015-07-28"

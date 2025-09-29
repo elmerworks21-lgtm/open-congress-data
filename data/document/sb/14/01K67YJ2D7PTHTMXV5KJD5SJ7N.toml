@@ -6,7 +6,6 @@ name = "SBN-02205"
 [meta]
 bill_number = 2205
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2205", "https://web.senate.gov.ph/lisdata/71816411!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSION AND LABOR ARBITERS"
 date_filed = "2008-04-28"
 long_title = "AN ACT RATIONALIZING RELIEFS FROM AN EXECUTION OF FINAL DECISIONS AND AWARDS OF THE NATIONAL LABOR RELATIONS COMMISSION AND THE LABOR ARBITERS, THEREBY AMENDING FOR THAT PURPOSE ARTICLES 223 AND 224 OF THE LABOR CODE"
@@ -15,6 +14,8 @@ subjects = [ "Labor Arbiters", "National Labor Relations Commission (NLRC)", "La
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71816411!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2205"
 
 [[history]]
 date = "2008-04-28"

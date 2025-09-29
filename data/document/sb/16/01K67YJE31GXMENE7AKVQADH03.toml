@@ -6,7 +6,6 @@ name = "SBN-02706"
 [meta]
 bill_number = 2706
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2706", "https://web.senate.gov.ph/lisdata/2079117884!.pdf",]
 title = "SUC LAND USE DEVELOPMENT AND INFRASTRUCTURE ACT"
 date_filed = "2015-03-17"
 long_title = "AN ACT REQUIRING STATE UNIVERSITIES AND COLLEGES TO PREPARE AND IMPLEMENT A LAND USE DEVELOPMENT AND INFRASTRUCTURE PLAN WHICH INCLUDE THE CONSTRUCTION OF DORMITORIES AND HOUSING SITES"
@@ -15,6 +14,8 @@ subjects = [ "State Colleges and Universities (SCUS)", "Dormitories/Boarding Hou
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2079117884!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2706"
 
 [[history]]
 date = "2015-03-17"

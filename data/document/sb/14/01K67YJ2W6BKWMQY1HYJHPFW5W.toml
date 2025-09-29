@@ -6,7 +6,6 @@ name = "SBN-02876"
 [meta]
 bill_number = 2876
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2876", "https://web.senate.gov.ph/lisdata/93098424!.pdf",]
 title = "CREDIT CARD HOLDERS"
 date_filed = "2008-11-13"
 long_title = "AN ACT PROVIDING PROTECTION TO CREDIT CARD HOLDERS BY SETTING A CEILING ON INTEREST RATES AND SURCHARGES AND PROHIBITING HIDDEN PENALTIES OR COSTS IMPOSED BY BANKS AND SIMILAR FINANCIAL INSTITUTIONS ON PURCHASES AND CASH ADVANCES MADE THROUGH CREDIT FACILITY"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card Holder Protection",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/93098424!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2876"
 
 [[history]]
 date = "2008-11-13"

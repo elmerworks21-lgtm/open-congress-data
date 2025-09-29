@@ -6,7 +6,6 @@ name = "SBN-00598"
 [meta]
 bill_number = 598
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-598", "https://web.senate.gov.ph/lisdata/2407320721!.pdf",]
 title = "MARINE AND COASTAL RESOURCES PROTECTION ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT ESTABLISHING MARINE PROTECTED AREAS IN ALL COASTAL MUNICIPALITIES AND CITIES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Marine Protected Areas", "Coastal Environment Program/Coastal Reso
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2407320721!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-598"
 
 [[history]]
 date = "2016-07-19"

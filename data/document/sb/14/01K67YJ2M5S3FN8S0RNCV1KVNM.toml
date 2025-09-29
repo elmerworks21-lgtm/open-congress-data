@@ -6,7 +6,6 @@ name = "SBN-02497"
 [meta]
 bill_number = 2497
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2497", "https://web.senate.gov.ph/lisdata/79717202!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE"
 date_filed = "2008-07-30"
 long_title = "AN ACT EXEMPTING FROM DOCUMENTARY STAMP TAX ANY SALE, BARTER OR EXCHANGE OF SHARES OF STOCK LISTED AND TRADED THROUGH THE STOCK EXCHANGE, FURTHER AMENDING FOR THE PURPOSE SECTION 199 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED BY REPUBLIC ACT NO. 9243, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Documentary Stamp Tax",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79717202!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2497"
 
 [[history]]
 date = "2008-07-30"

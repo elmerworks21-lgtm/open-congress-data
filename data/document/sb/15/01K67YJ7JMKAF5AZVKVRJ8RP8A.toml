@@ -6,7 +6,6 @@ name = "SBN-00550"
 [meta]
 bill_number = 550
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-550", "https://web.senate.gov.ph/lisdata/79256341!.pdf",]
 title = "CHINESE NEW YEAR"
 date_filed = "2010-07-07"
 long_title = "AN ACT DECLARING THE DAY ON WHICH CHINESE NEW YEAR FALLS EACH YEAR AS A SPECIAL WORKING HOLIDAY AS A SIGN OF GOODWILL AND AMITY BETWEEN THE PHILIPPINES AND CHINA"
@@ -15,6 +14,8 @@ subjects = [ "Chinese New Year",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79256341!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-550"
 
 [[history]]
 date = "2010-07-07"

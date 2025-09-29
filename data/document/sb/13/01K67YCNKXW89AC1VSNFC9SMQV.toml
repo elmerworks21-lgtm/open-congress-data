@@ -6,7 +6,6 @@ name = "SBN-00448"
 [meta]
 bill_number = 448
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-448", "https://web.senate.gov.ph/lisdata/1605907!.pdf",]
 title = "WITHHOLDING TAX EXEMPTION ON BANK DEPOSITS (SENIOR CITIZENS)"
 date_filed = "2004-06-30"
 long_title = "AN ACT EXEMPTING THE BANK DEPOSITS OF SENIOR CITIZENS FROM THE TWENTY PERCENT (20%) WITHHOLDING TAX ON INTEREST INCOME, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7423."
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens Bank Deposits", "Taxes (Withholding Tax Exemption)
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1605907!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-448"
 
 [[history]]
 date = "2004-06-30"

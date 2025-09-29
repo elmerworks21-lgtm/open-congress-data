@@ -6,7 +6,6 @@ name = "SBN-00654"
 [meta]
 bill_number = 654
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-654", "https://web.senate.gov.ph/lisdata/3851834972!.pdf",]
 title = "PHILIPPINE NAVY ARCHIPELAGIC DEFENSE ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT INSTITUTIONALIZING THE PHILIPPINE NAVY FORWARD OPERATING BASES, APPROPRIATING FUNDS FOR THE ESTABLISHMENT THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Archipelagic Baselines of the Philippines", "Archipelagic", "Archi
 authors_raw = "Tolentino, Francis \"Tol\" N., Tulfo, Raffy T."
 author_codes = ["TFRAN", "TRAFF"]
 committee_codes = ["SCPMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3851834972!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-654"
 
 [[history]]
 date = "2022-07-14"

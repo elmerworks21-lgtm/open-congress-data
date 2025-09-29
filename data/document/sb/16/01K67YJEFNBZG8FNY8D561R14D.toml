@@ -6,7 +6,6 @@ name = "SBN-03032"
 [meta]
 bill_number = 3032
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3032", "https://web.senate.gov.ph/lisdata/2263619347!.pdf",]
 title = "NATIONAL PREVENTIVE MECHANISM ACT OF 2015"
 date_filed = "2015-12-10"
 long_title = "AN ACT ESTABLISHING THE NATIONAL PREVENTIVE MECHANISM IN THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Human Rights", "Torture",]
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2263619347!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3032"
 
 [[history]]
 date = "2015-12-10"

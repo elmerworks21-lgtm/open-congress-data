@@ -6,7 +6,6 @@ name = "SBN-00564"
 [meta]
 bill_number = 564
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-564", "https://web.senate.gov.ph/lisdata/79486405!.pdf",]
 title = "JOSE R. REYES MEMORIAL MEDICAL CENTER (JRRMMC)"
 date_filed = "2010-07-07"
 long_title = "AN ACT UPGRADING THE JOSE R. REYES MEMORIAL MEDICAL CENTER (JRRMMC) INTO A DEPARTMENT OF HEALTH (DOH) NATIONAL CENTER FOR TRAUMA, CANCER AND DERMATOLOGY AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Upgrading",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79486405!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-564"
 
 [[history]]
 date = "2010-07-07"

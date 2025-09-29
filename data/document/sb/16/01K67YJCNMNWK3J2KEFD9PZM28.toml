@@ -6,7 +6,6 @@ name = "SBN-00600"
 [meta]
 bill_number = 600
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-600", "https://web.senate.gov.ph/lisdata/1647113712!.pdf",]
 title = "GOVERNMENT OFFICIALS AND EMPLOYEES"
 date_filed = "2013-07-08"
 long_title = "AN ACT PROVIDING AUTOMATIC PROMOTION OF GOVERNMENT OFFICIALS AND EMPLOYEES UPON RETIREMENT FROM GOVERNMENT SERVICE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Employees", "Retirement Benefits",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1647113712!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-600"
 
 [[history]]
 date = "2013-07-08"

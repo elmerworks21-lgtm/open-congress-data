@@ -6,7 +6,6 @@ name = "SBN-00994"
 [meta]
 bill_number = 994
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-994", "https://web.senate.gov.ph/lisdata/84577010!.pdf",]
 title = "PRIVATE HOSPITAL ASSISTANCE ACT OF 2010"
 date_filed = "2010-07-08"
 long_title = "AN ACT PROVIDING ASSISTANCE TO PRIVATE HOSPITALS BY GRANTING INCENTIVES AND ESTABLISHING A PRIVATE-HOSPITAL DEVELOPMENT PLAN AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals (Private Hospital Development)",]
 authors_raw = "Lapid, Manuel \"Lito\" M., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84577010!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-994"
 
 [[history]]
 date = "2010-07-08"

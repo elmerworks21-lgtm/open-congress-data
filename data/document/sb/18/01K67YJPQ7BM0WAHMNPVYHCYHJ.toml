@@ -6,7 +6,6 @@ name = "SBN-00493"
 [meta]
 bill_number = 493
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-493", "https://web.senate.gov.ph/lisdata/3072027564!.pdf",]
 title = "THE FIRECRACKER BAN ACT"
 date_filed = "2019-07-15"
 long_title = "AN ACT BANNING THE USE OF FIRECRACKERS EXCEPT IN DESIGNATED AREAS DONE BY PROFESSIONALS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Firecrackers", "Pyrotechnic Devices",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3072027564!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-493"
 
 [[history]]
 date = "2019-07-15"

@@ -6,7 +6,6 @@ name = "SBN-01251"
 [meta]
 bill_number = 1251
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1251", "https://web.senate.gov.ph/lisdata/2513321647!.pdf",]
 title = "GENDER-BASED ELECTRONIC VIOLENCE ACT OF 2016"
 date_filed = "2016-11-22"
 long_title = "AN ACT DEFINING GENDER-BASED ELECTRONIC VIOLENCE, PROVIDING PROTECTIVE MEASURES AND PRESCRIBING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Gender-Based Electronic Violence",]
 authors_raw = "Hontiveros, Risa, De Lima, Leila M."
 author_codes = ["DLEIL", "HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2513321647!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1251"
 
 [[history]]
 date = "2016-11-22"

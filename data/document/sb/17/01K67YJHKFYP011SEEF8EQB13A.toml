@@ -6,7 +6,6 @@ name = "SBN-00653"
 [meta]
 bill_number = 653
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-653", "https://web.senate.gov.ph/lisdata/2414120778!.pdf",]
 title = "TAX RELIEF IN TIMES OF CALAMITY"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROVIDING FOR TAX RELIEF IN TIMES OF CALAMITY"
@@ -15,6 +14,8 @@ subjects = [ "Taxes/Taxation", "Calamity/Disaster",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2414120778!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-653"
 
 [[history]]
 date = "2016-07-20"

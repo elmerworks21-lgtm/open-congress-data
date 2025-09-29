@@ -6,7 +6,6 @@ name = "SBN-01207"
 [meta]
 bill_number = 1207
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1207", "https://web.senate.gov.ph/lisdata/1727414507!.pdf",]
 title = "GETTING YOUTH RE-INVESTED IN ENVIRONMENTAL EDUCATION NOW ACT (GREEN ACT)"
 date_filed = "2013-08-01"
 long_title = "AN ACT TO ENHANCE ENVIRONMENTAL JUSTICE EDUCATION IN SECONDARY SCHOOLS THAT SERVE DISADVANTAGED STUDENTS"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Education", "Students",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1727414507!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1207"
 
 [[history]]
 date = "2013-08-01"

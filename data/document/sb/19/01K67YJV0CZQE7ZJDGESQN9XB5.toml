@@ -6,7 +6,6 @@ name = "SBN-00194"
 [meta]
 bill_number = 194
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-194", "https://web.senate.gov.ph/lisdata/3790234776!.pdf",]
 title = "E-GOVERNANCE ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT INSTITUTIONALIZING THE TRANSITION OF THE GOVERNMENT TO E-GOVERNANCE IN THE DIGITAL AGE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "E-Government Services", "Department of Information and Communicati
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3790234776!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-194"
 
 [[history]]
 date = "2022-07-07"

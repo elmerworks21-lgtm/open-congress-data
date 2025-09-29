@@ -6,7 +6,6 @@ name = "SBN-00729"
 [meta]
 bill_number = 729
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-729", "https://web.senate.gov.ph/lisdata/3108127978!.pdf",]
 title = "TRANSPORTATION NETWORK SERVICE ACT"
 date_filed = "2019-07-24"
 long_title = "AN ACT REGULATING TRANSPORTATION NETWORK SERVICES, IMPOSING AND AUTHORIZING FEES, PROVIDING PENALTIES FOR VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Transportation Network Services",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3108127978!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-729"
 
 [[history]]
 date = "2019-07-24"

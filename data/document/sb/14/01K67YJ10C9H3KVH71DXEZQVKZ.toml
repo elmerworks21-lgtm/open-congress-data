@@ -6,7 +6,6 @@ name = "SBN-00406"
 [meta]
 bill_number = 406
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-406", "https://web.senate.gov.ph/lisdata/45813928!.pdf",]
 title = "BUREAU ON HAZARDOUS WASTE, ENVIRONMENTAL SPILLS AND DISEASE REGISTRY"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING A BUREAU ON HAZARDOUS WASTES AND ENVIRONMENTAL SPILLS AND DISEASE REGISTRY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Bureau on Hazardous Waste, Environmental Spills and Disease Regist
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45813928!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-406"
 
 [[history]]
 date = "2007-07-02"

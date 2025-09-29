@@ -6,7 +6,6 @@ name = "SBN-01950"
 [meta]
 bill_number = 1950
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1950", "https://web.senate.gov.ph/lisdata/4097337353!.pdf",]
 title = "AGUSAN DEL NORTE GENERAL HOSPITAL AND TRAINING CENTER"
 date_filed = "2023-03-01"
 long_title = "AN ACT CONVERTING THE AGUSAN DEL NORTE PROVINCIAL HOSPITAL IN BUTUAN CITY, PROVINCE OF AGUSAN DEL NORTE INTO A LEVEL III TEACHING AND TRAINING HOSPITAL TO BE KNOWN AS THE AGUSAN DEL NORTE GENERAL HOSPITAL AND TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Conversion",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4097337353!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1950"
 
 [[history]]
 date = "2023-03-01"

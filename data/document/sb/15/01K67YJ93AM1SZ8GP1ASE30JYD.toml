@@ -6,7 +6,6 @@ name = "SBN-02668"
 [meta]
 bill_number = 2668
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2668", "https://web.senate.gov.ph/lisdata/106599121!.pdf",]
 title = "ELECTRONIC LIBEL (E-LIBEL)"
 date_filed = "2011-01-31"
 long_title = "AN ACT AMENDING ARTICLE 355 OF ACT NO. 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Libel (Electronic Libel/E-Libel)", "Revised Penal Code (R.A.No. 38
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106599121!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2668"
 
 [[history]]
 date = "2011-01-31"

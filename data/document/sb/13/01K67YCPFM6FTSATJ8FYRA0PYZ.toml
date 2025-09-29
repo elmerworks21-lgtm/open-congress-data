@@ -6,7 +6,6 @@ name = "SBN-01944"
 [meta]
 bill_number = 1944
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1944", "https://web.senate.gov.ph/lisdata/32562424!.pdf",]
 title = "FOREIGN CONSULTANT'S DISCLOSURE ACT OF 2005"
 date_filed = "2005-03-03"
 long_title = "AN ACT REQUIRING ALL BRANCHES AND AGENCIES OF THE GOVERNMENT, INCLUDING GOVERNMENT-OWNED OR CONTROLLED CORPORATIONS AND THEIR SUBSIDIARIES TO DISCLOSE THE IDENTITY OF THEIR FOREIGN CONSULTANTS, THE NATURE OF THEIR WORK AND THEIR COMPENSATION, PERKS AND OTHER PRIVILEGES, AND PROVIDING PENALTIES IN CASE OF VIOLATION THEREOF."
@@ -15,6 +14,8 @@ subjects = [ "GOCC (Government-Owned/Controlled Corp.)", "Foreign Consultant`S D
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/32562424!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1944"
 
 [[history]]
 date = "2005-03-03"

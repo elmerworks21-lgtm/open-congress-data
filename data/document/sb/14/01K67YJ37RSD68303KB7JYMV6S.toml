@@ -6,7 +6,6 @@ name = "SBN-03366"
 [meta]
 bill_number = 3366
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3366", "https://web.senate.gov.ph/lisdata/1202110579!.pdf",]
 title = "PALLIATIVE AND END OF LIFE CARE ACT OF 2009"
 date_filed = "2009-07-28"
 long_title = "AN ACT PROVIDING PALLIATIVE AND END OF LIFE CARE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Palliative Care",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1202110579!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3366"
 
 [[history]]
 date = "2009-07-28"

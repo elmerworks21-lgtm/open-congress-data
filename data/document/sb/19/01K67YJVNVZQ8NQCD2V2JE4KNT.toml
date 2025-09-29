@@ -6,7 +6,6 @@ name = "SBN-01165"
 [meta]
 bill_number = 1165
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1165", "https://web.senate.gov.ph/lisdata/3918235620!.pdf",]
 title = "EMERGENCY MEDICAL SERVICES SYSTEM (EMSS) ACT"
 date_filed = "2022-08-15"
 long_title = "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM, PROVIDING FOR THE ESTABLISHMENT, SUPERVISION, AND REGULATION OF EMERGENCY MEDICAL SERVICES PROGRESSION, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Emergency Medical Services System (EMSS)",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3918235620!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1165"
 
 [[history]]
 date = "2022-08-15"

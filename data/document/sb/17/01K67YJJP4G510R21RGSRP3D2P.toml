@@ -6,7 +6,6 @@ name = "SBN-02038"
 [meta]
 bill_number = 2038
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2038", "https://web.senate.gov.ph/lisdata/2871125181!.pdf",]
 title = "ANTI-OVERLOADING ACT OF 2018"
 date_filed = "2018-10-01"
 long_title = "AN ACT INCREASING THE PENALTY OF OVERLOADING OF PASSENGERS IN PUBLIC UTILITY VEHICLES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Overloading", "Passengers", "Public Utility Vehicles",]
 authors_raw = "Ejercito, Joseph Victor G., Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["EVICT", "PEMMA"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2871125181!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2038"
 
 [[history]]
 date = "2018-10-01"

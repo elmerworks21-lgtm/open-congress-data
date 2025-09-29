@@ -6,7 +6,6 @@ name = "SBN-00078"
 [meta]
 bill_number = 78
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-78", "https://web.senate.gov.ph/lisdata/3778134222!.pdf",]
 title = "PHILIPPINE ARCHIPELAGIC SEA LANES ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT AUTHORIZING THE PRESIDENT OF THE PHILIPPINES TO ESTABLISH THE ARCHIPELAGIC SEA LANES IN PHILIPPINE ARCHIPELAGIC WATERS, PRESCRIBING THE OBLIGATIONS OF FOREIGN SHIPS AND AIRCRAFT EXERCISING ARCHIPELAGIC SEA LANES PASSAGE THROUGH THE DESIGNATED ARCHIPELAGIC SEA LANES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "President of the Philippines", "Archipelagic Sea Lanes",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III, Legarda, Loren B."
 author_codes = ["LLORE", "PAQUI"]
 committee_codes = ["SCPMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3778134222!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-78"
 
 [[history]]
 date = "2022-07-07"

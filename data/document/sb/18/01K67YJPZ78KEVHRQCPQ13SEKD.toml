@@ -6,7 +6,6 @@ name = "SBN-00867"
 [meta]
 bill_number = 867
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-867", "https://web.senate.gov.ph/lisdata/3125428152!.pdf",]
 title = "JUST AND HUMANE PUBLIC UTILITY VEHICLES MODERNIZATION ACT"
 date_filed = "2019-08-05"
 long_title = "AN ACT PROVIDING FOR A JUST AND HUMANE PUBLIC UTILITY VEHICLE (PUV) MODERNIZATION PROGRAM, WITH TRANSITORY ASSISTANCE AND SERVICES RENDERED TO PUV DRIVERS, OPERATORS AND STAKEHOLDERS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Public Utility Vehicles",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3125428152!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-867"
 
 [[history]]
 date = "2019-08-05"

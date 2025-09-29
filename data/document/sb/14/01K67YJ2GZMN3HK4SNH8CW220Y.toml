@@ -6,7 +6,6 @@ name = "SBN-02371"
 [meta]
 bill_number = 2371
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2371", "https://web.senate.gov.ph/lisdata/75596793!.pdf",]
 title = "MAGNA CARTA OF PATIENT'S RIGHTS AND OBLIGATIONS OF 2008"
 date_filed = "2008-06-03"
 long_title = "AN ACT PROCLAIMING THE RIGHTS AND OBLIGATIONS OF PATIENTS, PROVIDING A GRIEVANCE MECHANISM THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Patients Rights and Obligations", "Patients",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75596793!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2371"
 
 [[history]]
 date = "2008-06-03"

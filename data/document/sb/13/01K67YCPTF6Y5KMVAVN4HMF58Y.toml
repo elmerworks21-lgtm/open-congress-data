@@ -6,7 +6,6 @@ name = "SBN-02488"
 [meta]
 bill_number = 2488
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2488", "https://web.senate.gov.ph/lisdata/62025116!.pdf",]
 title = "INTERNET PROTECTION ACT OF 2006"
 date_filed = "2006-10-11"
 long_title = "AN ACT REQUIRING INTERNET CAFES AND EDUCATIONAL INSTITUTIONS WITH INTERNET ACCESS TO INSTALL A SOFTWARE TECHNOLOGY FOR BLOCKING INTERNET WEBSITES DISPLAYING OBSCENE AND VIOLENT MATERIALS PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internet Protection",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/62025116!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2488"
 
 [[history]]
 date = "2006-10-11"

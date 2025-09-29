@@ -6,7 +6,6 @@ name = "SBN-00978"
 [meta]
 bill_number = 978
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-978", "https://web.senate.gov.ph/lisdata/3138528280!.pdf",]
 title = "ADDITIONAL LEAVES FOR VICTIMS OF DOMESTIC VIOLENCE ACT"
 date_filed = "2019-08-28"
 long_title = "AN ACT GRANTING ADDITIONAL LEAVES FOR VICTIMS OF DOMESTIC VIOLENCE, PROVIDING PARAMETERS THEREFOR, AND AMENDING FOR SUCH PURPOSE REPUBLIC ACT NO. 9262, OTHERWISE KNOWN AS THE ANTI-VIOLENCE AGAINST WOMEN AND CHILDREN ACT"
@@ -15,6 +14,8 @@ subjects = [ "Domestic Violence", "Violence Against Women", "Leave of Absence",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3138528280!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-978"
 
 [[history]]
 date = "2019-08-28"

@@ -6,7 +6,6 @@ name = "SBN-01750"
 [meta]
 bill_number = 1750
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1750", "https://web.senate.gov.ph/lisdata/3331530150!.pdf",]
 title = "E-GOVERNMET SERVICES ACT OF 2020"
 date_filed = "2020-07-29"
 long_title = "AN ACT REQUIRING THE DIGITALIZATION OF FRONTLINE SERVICES OF ALL GOVERNMENT AGENCIES AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "E-Government Services", "Digital Technology", "Information and Communications Technology (ICT)",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3331530150!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1750"
 
 [[history]]
 date = "2020-07-29"

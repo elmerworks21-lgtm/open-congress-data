@@ -6,7 +6,6 @@ name = "SBN-02352"
 [meta]
 bill_number = 2352
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2352", "https://web.senate.gov.ph/lisdata/1963616761!.pdf",]
 title = "THE GREEN ENERGY GOVERNMENT OFFICES ACT OF 2014"
 date_filed = "2014-08-12"
 long_title = "AN ACT PROMOTING THE DEVELOPMENT AND UTILIZATION OF RENEWABLE ENERGY IN ALL GOVERNMENT BUILDINGS AND OFFICES, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Renewable Energy", "Solar Energy",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1963616761!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2352"
 
 [[history]]
 date = "2014-08-12"

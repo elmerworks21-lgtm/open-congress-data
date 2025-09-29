@@ -6,7 +6,6 @@ name = "SBN-00942"
 [meta]
 bill_number = 942
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-942", "https://web.senate.gov.ph/lisdata/3133628232!.pdf",]
 title = "PROTECTION OF WATERSHEDS FOR IRRIGATION ACT"
 date_filed = "2019-08-20"
 long_title = "AN ACT FOR THE PROTECTION, CONSERVATION AND REHABILITATION OF WATERSHEDS SUPPORTING THE NATIONAL IRRIGATION SYSTEM (NIS) TO ENSURE CONTINUOUS SUPPLY OF WATER FOR AGRICULTURAL PRODUCTION AND SELF-SUFFICIENCY IN FOOD AND PROVIDING FUNDS FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Watersheds", "Irrigation",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3133628232!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-942"
 
 [[history]]
 date = "2019-08-20"

@@ -6,7 +6,6 @@ name = "SBN-01461"
 [meta]
 bill_number = 1461
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1461", "https://web.senate.gov.ph/lisdata/26762041!.pdf",]
 title = "BUSINESS AND EDUCATION SHARING TECHNOLOGY ACT (BEST)"
 date_filed = "2004-07-22"
 long_title = "AN ACT RECOGNIZING BUSINESSES WHICH SHOW AN EXEMPLARY COMMITMENT TO PARTICIPATING WITH SCHOOLS TO ENHANCE EDUCATORS' TECHNOLOGY CAPABILITIES AND TO MAKE EVERY STUDENT TECHNOLOGICALLY LITERATE"
@@ -15,6 +14,8 @@ subjects = [ "Business & Education Sharing Technology", "Best",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26762041!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1461"
 
 [[history]]
 date = "2004-07-22"

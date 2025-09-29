@@ -6,7 +6,6 @@ name = "SBN-01884"
 [meta]
 bill_number = 1884
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1884", "https://web.senate.gov.ph/lisdata/1812015365!.pdf",]
 title = "AMENDING SEC. 5, SEAT BELTS USE ACT (PROHIBITING CHILDREN TO SIT IN FRONT SEAT)"
 date_filed = "2013-10-24"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8750, ALSO KNOWN AS THE SEAT BELTS USE ACT OF 1999, SECTIONS THREE AND FIVE"
@@ -15,6 +14,8 @@ subjects = [ "Seatbelts", "Children/Child Care",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1812015365!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1884"
 
 [[history]]
 date = "2013-10-24"

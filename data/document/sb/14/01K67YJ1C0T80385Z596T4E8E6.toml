@@ -6,7 +6,6 @@ name = "SBN-00970"
 [meta]
 bill_number = 970
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-970", "https://web.senate.gov.ph/lisdata/52364602!.pdf",]
 title = "PRESCRIPTION DRUG PRICE MONITORING COMMISSION ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT ESTABLISHING A PRESCRIPTION DRUG PRICE MONITORING COMMISSION"
@@ -15,6 +14,8 @@ subjects = [ "Drugs and Medicines",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52364602!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-970"
 
 [[history]]
 date = "2007-07-04"

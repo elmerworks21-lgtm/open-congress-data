@@ -6,7 +6,6 @@ name = "SBN-00170"
 [meta]
 bill_number = 170
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-170", "https://web.senate.gov.ph/lisdata/4664743832!.pdf",]
 title = "PHILHEALTH CARD ACT OF 2025"
 date_filed = "2025-07-07"
 long_title = "AN ACT MANDATING THE ISSUANCE OF PHILHEALTH CARDS TO ALL FILIPINOS, APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Health Card",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
 author_codes = ["GCHRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4664743832!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-170"
 
 [[history]]
 date = "2025-07-07"

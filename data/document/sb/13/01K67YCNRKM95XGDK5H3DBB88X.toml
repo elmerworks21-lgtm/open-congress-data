@@ -6,7 +6,6 @@ name = "SBN-00715"
 [meta]
 bill_number = 715
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-715", "https://web.senate.gov.ph/lisdata/19051287!.pdf",]
 title = "RECYCLE WASTE ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING THE RECYCLING AND THE UTILIZATION OF RECYCLED MATERIALS BY EDUCATIONAL INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Recycle Waste Act", "Educational Institutions/Recycled Papers",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19051287!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-715"
 
 [[history]]
 date = "2004-06-30"

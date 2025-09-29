@@ -6,7 +6,6 @@ name = "SBN-01039"
 [meta]
 bill_number = 1039
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1039", "https://web.senate.gov.ph/lisdata/4765243669!.pdf",]
 title = "CROWDSOURCING IN LEGISLATIVE POLICYMAKING ACT"
 date_filed = "2025-08-06"
 long_title = "AN ACT ESTABLISHING A FRAMEWORK FOR CITIZENS PARTICIPATION IN LEGISLATIVE POLICYMAKING THROUGH THE USE OF INFORMATION AND COMMUNICATIONS TECHNOLOGY PLATFORMS"
@@ -15,6 +14,8 @@ subjects = [ "Crowdsourcing", "Legislative Policymaking",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4765243669!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1039"
 
 [[history]]
 date = "2025-08-06"

@@ -6,7 +6,6 @@ name = "SBN-00900"
 [meta]
 bill_number = 900
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-900", "https://web.senate.gov.ph/lisdata/20981588!.pdf",]
 title = "WATERSHEDS AND OTHER PROTECTED AREAS LOGGING BAN"
 date_filed = "2004-06-30"
 long_title = "AN ACT DEFINING THE OFFENSE OF ILLEGAL LOGGING IN WATERSHEDS AND OTHER PROTECTED AREAS AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Watersheds Logging Ban",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20981588!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-900"
 
 [[history]]
 date = "2004-06-30"

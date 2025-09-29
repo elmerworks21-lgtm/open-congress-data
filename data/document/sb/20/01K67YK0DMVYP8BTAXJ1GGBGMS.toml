@@ -6,7 +6,6 @@ name = "SBN-01050"
 [meta]
 bill_number = 1050
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1050", "https://web.senate.gov.ph/lisdata/4769743717!.pdf",]
 title = "INTEGRATED COASTAL MANAGEMENT ACT"
 date_filed = "2025-08-06"
 long_title = "AN ACT ADOPTING INTEGRATED COASTAL MANAGEMENT AS A NATIONAL STRATEGY FOR THE HOLISTIC AND SUSTAINABLE MANAGEMENT OF COASTAL AND RELATED ECOSYSTEMS AND THE RESOURCES THEREIN, ESTABLISHING THE NATIONAL COASTAL GREENBELT ACTION PLAN, OTHER SUPPORTING MECHANISMS FOR IMPLEMENTATION, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Integrated Coastal Management",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4769743717!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1050"
 
 [[history]]
 date = "2025-08-06"

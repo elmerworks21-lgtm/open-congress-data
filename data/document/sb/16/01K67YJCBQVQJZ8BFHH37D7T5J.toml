@@ -6,7 +6,6 @@ name = "SBN-00120"
 [meta]
 bill_number = 120
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-120", "https://web.senate.gov.ph/lisdata/1591113149!.pdf",]
 title = "LOCAL TAXATION, LOCAL GOVERNMENT CODE"
 date_filed = "2013-07-01"
 long_title = "AN ACT RATIONALIZING LOCAL TAXATION AMENDING FOR THAT PURPOSE SECTION 150, CHAPTER 1, TITLE ONE, BOOK II OF REPUBLIC ACT NO. 7160, AS AMENDED, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE"
@@ -15,6 +14,8 @@ subjects = [ "Local Taxation", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1591113149!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-120"
 
 [[history]]
 date = "2013-07-01"

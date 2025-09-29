@@ -6,7 +6,6 @@ name = "SBN-02140"
 [meta]
 bill_number = 2140
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2140", "https://web.senate.gov.ph/lisdata/70586300!.pdf",]
 title = "PUBLIC SECTOR WORKERS' ACROSS-THE-BOARD INCREASE COMPENSATION ACT OF 2008"
 date_filed = "2008-03-25"
 long_title = "AN ACT PROVIDING FOR A THREE THOUSAND PESOS (P 3,000.00) ACROSS-THE-BOARD INCREASE IN THE MONTHLY WAGE AND SALARY RATES OF EMPLOYEES IN THE PUBLIC SECTOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Across the Board Wage Increase (P 3,000.00)",]
 authors_raw = "Honasan II, Gregorio B."
 author_codes = ["HGREG"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/70586300!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2140"
 
 [[history]]
 date = "2008-03-25"

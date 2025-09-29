@@ -6,7 +6,6 @@ name = "SBN-00269"
 [meta]
 bill_number = 269
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-269", "https://web.senate.gov.ph/lisdata/3800834450!.pdf",]
 title = "REGIONAL TERTIARY CARE HOSPITALS ACT"
 date_filed = "2022-07-11"
 long_title = "AN ACT INSTITUTIONALIZING THE ESTABLISHMENT OF TERTIARY CARE HOSPITALS IN ALL REGIONS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tertiary Care Hospital", "Hospitals, Establishment",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3800834450!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-269"
 
 [[history]]
 date = "2022-07-11"

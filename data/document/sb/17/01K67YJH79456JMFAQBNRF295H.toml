@@ -6,7 +6,6 @@ name = "SBN-00125"
 [meta]
 bill_number = 125
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-125", "https://web.senate.gov.ph/lisdata/2354420159!.pdf",]
 title = "THE CORPORATE INCOME TAX RATE"
 date_filed = "2016-06-30"
 long_title = "AN ACT REDUCING THE CORPORATE INCOME TAX RATE, AMENDING SECTIONS 27 AND 28 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Corporate Income T
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2354420159!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-125"
 
 [[history]]
 date = "2016-06-30"

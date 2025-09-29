@@ -6,7 +6,6 @@ name = "SBN-00802"
 [meta]
 bill_number = 802
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-802", "https://web.senate.gov.ph/lisdata/2433420941!.pdf",]
 title = "UNEMPLOYMENT OR INVOLUNTARY SEPARATION BENEFITS"
 date_filed = "2016-07-21"
 long_title = "AN ACT AUTHORIZING THE GRANT OF UNEMPLOYMENT OR INVOLUNTARY SEPARATION BENEFITS TO ELIGIBLE MEMBERS OF THE SOCIAL SECURITY SYSTEM (SSS), AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8282, OTHERWISE KNOWN AS SOCIAL SECURITY ACT OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "Unemployment", "Social Security Act of 1997 (R.A.No. 8282)",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2433420941!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-802"
 
 [[history]]
 date = "2016-07-21"

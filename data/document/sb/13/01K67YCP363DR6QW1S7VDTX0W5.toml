@@ -6,7 +6,6 @@ name = "SBN-01288"
 [meta]
 bill_number = 1288
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1288", "https://web.senate.gov.ph/lisdata/24951867!.pdf",]
 title = "PENALIZING THE SELLING OF FIREARMS, AMMUNITIONS, EXPLOSIVES"
 date_filed = "2004-07-02"
 long_title = "AN ACT PENALIZING THE SELLING OF FIREARMS, AMMUNITION OR EXPLOSIVES OR ANY PARTS OR COMPONENTS USED IN THE MANUFACTURE OF FIREARMS, AMMUNITION OR EXPLOSIVES TO THE ENEMIES OF THE STATE, IMPOSING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Firearms", "Ammunitions", "Explosives",]
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24951867!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1288"
 
 [[history]]
 date = "2004-07-02"

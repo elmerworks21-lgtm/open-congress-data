@@ -6,7 +6,6 @@ name = "SBN-02333"
 [meta]
 bill_number = 2333
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2333", "https://web.senate.gov.ph/lisdata/3566632260!.pdf",]
 title = "PHILIPPINE MARITIME ZONES ACT"
 date_filed = "2021-07-27"
 long_title = "AN ACT DEFINING THE MARITIME ZONES OF THE REPUBLIC OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Maritime Zone",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3566632260!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2333"
 
 [[history]]
 date = "2021-07-27"

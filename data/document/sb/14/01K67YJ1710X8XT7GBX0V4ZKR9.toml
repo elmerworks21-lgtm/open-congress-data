@@ -6,7 +6,6 @@ name = "SBN-00733"
 [meta]
 bill_number = 733
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-733", "https://web.senate.gov.ph/lisdata/49554339!.pdf",]
 title = "DOWNSTREAM NATURAL GAS INDUSTRY ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT ORDAINING THE DEVELOPMENT OF THE DOWNSTREAM NATURAL GAS INDUSTRY AND CONSOLIDATING FOR THAT PURPOSE ALL LAWS RELATING TO THE TRANSMISSION, DISTRIBUTION AND SUPPLY OF NATURAL GAS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Downstream Natural Gas Industry",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49554339!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-733"
 
 [[history]]
 date = "2007-07-03"

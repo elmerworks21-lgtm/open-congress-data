@@ -6,7 +6,6 @@ name = "SBN-02134"
 [meta]
 bill_number = 2134
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2134", "https://web.senate.gov.ph/lisdata/40533406!.pdf",]
 title = "LIABILITY OF SHIP AGENTS IN COASTWISE/FOREIGN TRADE"
 date_filed = "2005-09-26"
 long_title = "AN ACT LIMITING THE LIABILITY OF SHIP AGENTS ENGAGED IN COASTWISE AND FOREIGN TRADE, AMENDING FOR THIS PURPOSE ARTICLES 586, 587, 618, 826 AND RELATED PROVISIONS OF THE CODE OF COMMERCE AS WELL AS OTHER APPLICABLE LAWS"
@@ -15,6 +14,8 @@ subjects = [ "Ship Agents (Coastwise/Foreign Trade)", "Code of Commerce (Arts. 5
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/40533406!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2134"
 
 [[history]]
 date = "2005-09-26"

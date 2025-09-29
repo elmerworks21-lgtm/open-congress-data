@@ -6,7 +6,6 @@ name = "SBN-03213"
 [meta]
 bill_number = 3213
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3213", "https://web.senate.gov.ph/lisdata/1338211160!.pdf",]
 title = "CAREER EXECUTIVE SERVICE ACT OF 2012"
 date_filed = "2012-05-30"
 long_title = "AN ACT STRENGTHENING THE CAREER EXECUTIVE SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Career Executive Service System",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1338211160!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3213"
 
 [[history]]
 date = "2012-05-30"

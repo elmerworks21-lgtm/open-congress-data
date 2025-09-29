@@ -6,7 +6,6 @@ name = "SBN-00769"
 [meta]
 bill_number = 769
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-769", "https://web.senate.gov.ph/lisdata/19591383!.pdf",]
 title = "MATERNITY LEAVE BENEFITS REGARDLESS OF MARITAL STATUS"
 date_filed = "2004-06-30"
 long_title = "AN ACT MANDATING MATERNITY LEAVE BENEFITS REGARDLESS OF MARITAL STATUS, AMENDING FOR THIS PURPOSE ARTICLE 133 OF PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Maternity Leave Benefits", "Labor Code/Pd 442/Article 133",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19591383!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-769"
 
 [[history]]
 date = "2004-06-30"

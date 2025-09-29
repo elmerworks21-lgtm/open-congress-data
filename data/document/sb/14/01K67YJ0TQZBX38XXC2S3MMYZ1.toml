@@ -6,7 +6,6 @@ name = "SBN-00150"
 [meta]
 bill_number = 150
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-150", "https://web.senate.gov.ph/lisdata/42493636!.pdf",]
 title = "FOOD DONATION ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO ENCOURAGE THE DONATION OF FOOD FOR CHARITABLE PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Food Donation",]
 authors_raw = "Gordon, Richard \"Dick\" J., Zubiri, Juan Miguel F., Honasan II, Gregorio B., Ejercito-Estrada, Jinggoy P., Pimentel Jr., Aquilino Q."
 author_codes = ["EJING", "GRICH", "HGREG", "PAQUI", "ZMIGU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42493636!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-150"
 
 [[history]]
 date = "2007-06-30"

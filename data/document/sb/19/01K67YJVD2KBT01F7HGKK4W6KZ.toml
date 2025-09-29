@@ -6,7 +6,6 @@ name = "SBN-00783"
 [meta]
 bill_number = 783
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-783", "https://web.senate.gov.ph/lisdata/3859235048!.pdf",]
 title = "PROHIBITING MERCHANDISING STORES FROM CHARGING MORE THAN THE CASH RETAIL PRICE WITH CREDIT CARDS"
 date_filed = "2022-07-21"
 long_title = "AN ACT PROHIBITING MERCHANDISING STORES AND SERVICE ESTABLISHMENTS FROM CHARGING MORE THAN THE CASH RETAIL PRICE OF GOODS AND SERVICES PURCHASED WITH CREDIT CARDS AND PRESCRIBING PENALTIES FOR ANY VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card", "Merchandising Stores and Service Establishments",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3859235048!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-783"
 
 [[history]]
 date = "2022-07-21"

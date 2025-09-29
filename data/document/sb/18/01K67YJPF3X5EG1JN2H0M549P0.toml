@@ -6,7 +6,6 @@ name = "SBN-00128"
 [meta]
 bill_number = 128
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-128", "https://web.senate.gov.ph/lisdata/3037927227!.pdf",]
 title = "THE MOTORCYCLES-FOR-HIRE ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT ALLOWING AND REGULATING THE USE OF MOTORCYCLES AS PUBLIC UTILITY VEHICLES, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 4136, OTHERWISE KNOWN AS THE ‘LAND TRANSPORTATION AND TRAFFIC CODE’, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Motorcycle", "Public Utility Vehicles", "Land Transportation and Traffic Code (R.A.No. 4136)", "Habal-Habal",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3037927227!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-128"
 
 [[history]]
 date = "2019-07-02"

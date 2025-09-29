@@ -6,7 +6,6 @@ name = "SBN-02435"
 [meta]
 bill_number = 2435
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2435", "https://web.senate.gov.ph/lisdata/4267838807!.pdf",]
 title = "DECLARING THE PROVINCE OF SOUTHERN LEYTE, A TOURISM ZONE"
 date_filed = "2023-09-12"
 long_title = "AN ACT DECLARING THE PROVINCE OF SOUTHERN LEYTE, A TOURISM ZONE AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tourism Zone", "Department of Tourism (DOT)",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["TOURI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4267838807!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2435"
 
 [[history]]
 date = "2023-09-12"

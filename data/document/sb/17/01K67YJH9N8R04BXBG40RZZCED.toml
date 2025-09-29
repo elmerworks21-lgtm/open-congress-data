@@ -6,7 +6,6 @@ name = "SBN-00221"
 [meta]
 bill_number = 221
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-221", "https://web.senate.gov.ph/lisdata/2364220300!.pdf",]
 title = "NO MOTORCYCLE BACK-RIDE ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT PROHIBITING BACKRIDERS ON TWO-WHEELED MOTORCYCLES/SCOOTERS AND EXCEPTIONS THERETO"
@@ -15,6 +14,8 @@ subjects = [ "Motorcycle",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2364220300!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-221"
 
 [[history]]
 date = "2016-07-04"

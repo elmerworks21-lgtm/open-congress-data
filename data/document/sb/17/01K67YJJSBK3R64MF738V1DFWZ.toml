@@ -6,7 +6,6 @@ name = "SBN-02139"
 [meta]
 bill_number = 2139
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2139", "https://web.senate.gov.ph/lisdata/2927125867!.pdf",]
 title = "AN ACT REORGANIZING COMELEC OFFICES"
 date_filed = "2019-01-14"
 long_title = "AN ACT REORGANIZING THE OFFICES OF THE COMMISSION ON ELECTIONS (COMELEC)"
@@ -15,6 +14,8 @@ subjects = [ "Commission on Election (Comelec)", "Reorganization",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2927125867!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2139"
 
 [[history]]
 date = "2019-01-14"

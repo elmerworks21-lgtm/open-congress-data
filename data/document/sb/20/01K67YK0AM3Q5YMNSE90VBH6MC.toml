@@ -6,7 +6,6 @@ name = "SBN-00892"
 [meta]
 bill_number = 892
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-892", "https://web.senate.gov.ph/lisdata/4748943493!.pdf",]
 title = "AMENDING P.D. NO. 1467 (REVISED CHARTER OF THE PHILIPPINE CROP INSURANCE CORPORATION ACT)"
 date_filed = "2025-08-05"
 long_title = "AN ACT INSTITUTIONALIZING THE PROVISION OF CROP INSURANCE FOR THE FISHERIES LIVESTOCK AND POULTRY SECTORS, AMENDING FOR THE PURPOSE SECTION 1 OF PRESIDENTIAL DECREE NO. 1467, AS AMENDED, OTHERWISE KNOWN AS THE 'REVISED CHARTER OF THE PHILIPPINE CROP INSURANCE CORPORATION ACT OF 1995'"
@@ -15,6 +14,8 @@ subjects = [ "Crop Insurance", "Fisheries Livestock", "Poultry Sectors",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4748943493!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-892"
 
 [[history]]
 date = "2025-08-05"

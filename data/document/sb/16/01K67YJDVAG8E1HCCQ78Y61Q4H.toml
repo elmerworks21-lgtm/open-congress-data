@@ -6,7 +6,6 @@ name = "SBN-02378"
 [meta]
 bill_number = 2378
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2378", "https://web.senate.gov.ph/lisdata/1971316838!.pdf",]
 title = "AMENDING ART. 15, RA 3720 ( FOOD AND DRUG AND COSMETIC ACT)"
 date_filed = "2014-08-27"
 long_title = "AN ACT AMENDING ARTICLE 15 OF R.A. NO. 3720, ALSO KNOWN AS THE FOOD, DRUG AND COSMETIC ACT, REQUIRING THAT FOODS CONTAINING SPICES, FLAVORING, OR COLORING DERIVED FROM MEAT, POULTRY OR OTHER ANIMAL PRODUCTS BEAR LABELING STATING THAT FACT AND THEIR NAMES"
@@ -15,6 +14,8 @@ subjects = [ "Food Products Label",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1971316838!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2378"
 
 [[history]]
 date = "2014-08-27"

@@ -6,7 +6,6 @@ name = "SBN-00913"
 [meta]
 bill_number = 913
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-913", "https://web.senate.gov.ph/lisdata/4752443530!.pdf",]
 title = "PHILIPPINE POLLUTANT RELEASE AND TRANSFER REGISTRY ACT"
 date_filed = "2025-08-05"
 long_title = "AN ACT CREATING A PHILIPPINE POLLUTANT RELEASE AND TRANSFER REGISTRY"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Pollutant Release and Transfer Registry (Pprtr)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4752443530!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-913"
 
 [[history]]
 date = "2025-08-05"

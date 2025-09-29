@@ -6,7 +6,6 @@ name = "SBN-01085"
 [meta]
 bill_number = 1085
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1085", "https://web.senate.gov.ph/lisdata/1712214349!.pdf",]
 title = "ENERGY EFFICIENCY AND CONSERVATION ACT OF 2013"
 date_filed = "2013-07-23"
 long_title = "AN ACT INSTITUTIONALIZING ENERGY EFFICIENCY AND CONSERVATION, ENHANCING THE EFFICIENT USE OF ENERGY, GRANTING INCENTIVES TO ENERGY EFFICIENCY AND CONSERVATION PROJECTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Energy Conservation",]
 authors_raw = "Guingona III, Teofisto \"Tg\""
 author_codes = ["GTEOF"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1712214349!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1085"
 
 [[history]]
 date = "2013-07-23"

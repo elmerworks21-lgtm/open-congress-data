@@ -6,7 +6,6 @@ name = "SBN-02348"
 [meta]
 bill_number = 2348
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2348", "https://web.senate.gov.ph/lisdata/75166730!.pdf",]
 title = "GOVERNMENT EMPLOYEES ENTREPRENEURSHIP DEVELOPMENT ACT OF 2008"
 date_filed = "2008-05-28"
 long_title = "AN ACT TO DEVELOP ENTREPRENEURSHIP AMONG GOVERNMENT EMPLOYEES FOR AN INNOVATION-INSPIRED CORPS OF CIVIL SERVANTS AND A PRODUCTIVE POST-SERVICE CITIZENRY"
@@ -15,6 +14,8 @@ subjects = [ "Government Employees Entrepreneurship Development",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75166730!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2348"
 
 [[history]]
 date = "2008-05-28"

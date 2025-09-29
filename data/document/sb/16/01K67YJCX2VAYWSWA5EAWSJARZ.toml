@@ -6,7 +6,6 @@ name = "SBN-00955"
 [meta]
 bill_number = 955
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-955", "https://web.senate.gov.ph/lisdata/1699014219!.pdf",]
 title = "PAGASA MODERNIZATION ACT OF 2013"
 date_filed = "2013-07-18"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE ATMOSPHERIC GEOPHYSICAL AND ASTRONOMICAL SERVICES ADMINISTRATION (PAGASA), PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pagasa (Philippine Atmospheric, Geophysical and Astronomical Servi
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1699014219!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-955"
 
 [[history]]
 date = "2013-07-18"

@@ -6,7 +6,6 @@ name = "SBN-00404"
 [meta]
 bill_number = 404
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-404", "https://web.senate.gov.ph/lisdata/77836654!.pdf",]
 title = "PHILIPPINE HALAL OF 2010"
 date_filed = "2010-07-06"
 long_title = "AN ACT CREATING THE PHILIPPINE HALAL ACCREDITATION AND REGULATORY BOARD AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Halal Accreditation and Regulatory Board",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU", "TANTO"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/77836654!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-404"
 
 [[history]]
 date = "2010-07-06"

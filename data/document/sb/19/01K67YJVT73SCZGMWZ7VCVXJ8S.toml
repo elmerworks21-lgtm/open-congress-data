@@ -6,7 +6,6 @@ name = "SBN-01356"
 [meta]
 bill_number = 1356
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1356", "https://web.senate.gov.ph/lisdata/3958435932!.pdf",]
 title = "SPECIAL NON-WORKING HOLIDAY IN THE MUNICIPALITY OF KAWIT, PROVINCE OF CAVITE"
 date_filed = "2022-09-29"
 long_title = "AN ACT DECLARING AUGUST 1 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE MUNICIPALITY OF KAWIT, PROVINCE OF CAVITE IN COMMEMORATION OF ITS FOUNDING ANNIVERSARY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3958435932!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1356"
 
 [[history]]
 date = "2022-09-29"

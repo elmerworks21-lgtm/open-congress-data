@@ -6,7 +6,6 @@ name = "SBN-01509"
 [meta]
 bill_number = 1509
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1509", "https://web.senate.gov.ph/lisdata/58205182!.pdf",]
 title = "RIGHT TO KNOW ABOUT AIRPORT POLLUTION ACT"
 date_filed = "2007-09-03"
 long_title = "AN ACT REQUIRING THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES TO CONDUCT A FEASIBILITY STUDY FOR APPLYING AIRPORT BUBBLES AS A METHOD OF IDENTIFYING, ASSESSING, AND REDUCING THE ADVERSE ENVIRONMENTAL IMPACTS OF THE AIRPORT GROUND AND FLIGHT OPERATIONS AND IMPROVING THE OVERALL QUALITY OF THE ENVIRONMENT"
@@ -15,6 +14,8 @@ subjects = [ "Airport Pollution", "Department of Environment and Natural Resourc
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58205182!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1509"
 
 [[history]]
 date = "2007-09-03"

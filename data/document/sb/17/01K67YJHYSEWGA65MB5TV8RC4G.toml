@@ -6,7 +6,6 @@ name = "SBN-01165"
 [meta]
 bill_number = 1165
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1165", "https://web.senate.gov.ph/lisdata/2486521419!.pdf",]
 title = "NO GARAGE, NO CAR ACT OF 2016"
 date_filed = "2016-09-20"
 long_title = "AN ACT REQUIRING PARKING SPACE FROM MOTOR VEHICLE BUYERS IN METROPOLITAN AREAS AS A PRE-REQUISITE FOR THE PURCHASE OF A MOTOR VEHICLE AND REGISTRATION WITH THE LAND TRANSPORTATION OFFICE (LTO)"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicles",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2486521419!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1165"
 
 [[history]]
 date = "2016-09-20"

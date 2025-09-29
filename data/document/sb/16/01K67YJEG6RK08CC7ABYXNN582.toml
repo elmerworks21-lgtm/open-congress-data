@@ -6,7 +6,6 @@ name = "SBN-03059"
 [meta]
 bill_number = 3059
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3059", "https://web.senate.gov.ph/lisdata/2278419472!.pdf",]
 title = "MEAT ADDITIVE DISCLOSURE ACT"
 date_filed = "2016-01-11"
 long_title = "AN ACT REQUIRING MEAT PACKERS TO DISCLOSE THE ADDITIVES THAT THEY PLACE IN THEIR PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Meat Products",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2278419472!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3059"
 
 [[history]]
 date = "2016-01-11"

@@ -6,7 +6,6 @@ name = "SBN-01322"
 [meta]
 bill_number = 1322
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1322", "https://web.senate.gov.ph/lisdata/3942935825!.pdf",]
 title = "VIROLOGY INSTITUTE OF THE PHILIPPINES (VIP) ACT"
 date_filed = "2022-09-19"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE VIROLOGY SCIENCE AND TECHNOLOGY INSTITUTE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Virology Institute of the Philippines (VIP)",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3942935825!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1322"
 
 [[history]]
 date = "2022-09-19"

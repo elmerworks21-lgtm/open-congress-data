@@ -6,7 +6,6 @@ name = "SBN-01331"
 [meta]
 bill_number = 1331
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1331", "https://web.senate.gov.ph/lisdata/56315018!.pdf",]
 title = "TEACHERS OF CHILDREN WITH HANDICAPS ENHANCEMENT ACT"
 date_filed = "2007-07-24"
 long_title = "AN ACT ESTABLISHING A COMPREHENSIVE TRAINING PROGRAM FOR TEACHERS OF CHILDREN WITH HANDICAP"
@@ -15,6 +14,8 @@ subjects = [ "Teachers of Children with Handicaps Enhancement Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56315018!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1331"
 
 [[history]]
 date = "2007-07-24"

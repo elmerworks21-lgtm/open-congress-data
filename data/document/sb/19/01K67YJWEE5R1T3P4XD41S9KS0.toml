@@ -6,7 +6,6 @@ name = "SBN-02211"
 [meta]
 bill_number = 2211
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2211", "https://web.senate.gov.ph/lisdata/4170237986!.pdf",]
 title = "MARINE TURTLE AWARENESS MONTH"
 date_filed = "2023-05-17"
 long_title = "AN ACT DECLARING THE MONTH OF JUNE OF EVERY YEAR AS THE MARINE TURTLE AWARENESS MONTH"
@@ -15,6 +14,8 @@ subjects = [ "Sea Turtle",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4170237986!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2211"
 
 [[history]]
 date = "2023-05-17"

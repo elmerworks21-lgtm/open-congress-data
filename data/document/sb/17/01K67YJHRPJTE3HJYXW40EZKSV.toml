@@ -6,7 +6,6 @@ name = "SBN-00896"
 [meta]
 bill_number = 896
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-896", "https://web.senate.gov.ph/lisdata/2445221035!.pdf",]
 title = "AIRLINE PASSENGER BILL OF RIGHTS OF 2016"
 date_filed = "2016-07-26"
 long_title = "AN ACT ESTABLISHING THE RIGHTS OF AIRLINE PASSENGERS BY PROVIDING STANDARDS FOR AIRLINE CARRIER SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Airline Passengers Bill of Rights", "Bill of Rights",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2445221035!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-896"
 
 [[history]]
 date = "2016-07-26"

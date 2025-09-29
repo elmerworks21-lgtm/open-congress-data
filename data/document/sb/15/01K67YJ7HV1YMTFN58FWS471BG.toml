@@ -6,7 +6,6 @@ name = "SBN-00511"
 [meta]
 bill_number = 511
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-511", "https://web.senate.gov.ph/lisdata/78246276!.pdf",]
 title = "NATIONAL IRRIGATION ADMINISTRATION"
 date_filed = "2010-07-07"
 long_title = "AN ACT PROVIDING FOR THE INCLUSION OF A REPRESENTATIVE OF THE PRIVATE SECTOR IN THE BOARD OF DIRECTORS OF THE NATIONAL IRRIGATION ADMINISTRATION, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 3601, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Irrigation Administration",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78246276!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-511"
 
 [[history]]
 date = "2010-07-07"

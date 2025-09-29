@@ -6,7 +6,6 @@ name = "SBN-00348"
 [meta]
 bill_number = 348
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-348", "https://web.senate.gov.ph/lisdata/3810734548!.pdf",]
 title = "THE INDIGENT CHILDREN FREE MEDICAL AND DENTAL SERVICE ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT REQUIRING ALL GOVERNMENT AND PRIVATE HOSPITALS, MEDICAL CENTERS, CLINICS, INFIRMARIES AND PUERICULTURE CENTERS TO GIVE FREE MEDICAL AND DENTAL ASSISTANCE TO INDIGENT CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Medical Assistance/Dental Assistance", "Indigent Children", "Hospi
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3810734548!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-348"
 
 [[history]]
 date = "2022-07-12"

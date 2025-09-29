@@ -6,7 +6,6 @@ name = "SBN-01859"
 [meta]
 bill_number = 1859
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1859", "https://web.senate.gov.ph/lisdata/31042301!.pdf",]
 title = "AUDITED FINANCIAL STATEMENTS FOR BANK LOANS"
 date_filed = "2004-11-17"
 long_title = "AN ACT REQUIRING AUDITED FINANCIAL STATEMENTS SUBMITTED TO TAX AUTHORITIES AS MINIMUM SECURITY REQUIREMENTS FOR BANK LOANS, AMENDING FOR THE PURPOSE SECTION 40 OF REPUBLIC ACT NO. 8791, OTHERWISE KNOWN AS THE GENERAL BANKING LAW OF 2000"
@@ -15,6 +14,8 @@ subjects = [ "General Banking Law of 2000 (RA 8791)", "Financial Statements Audi
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31042301!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1859"
 
 [[history]]
 date = "2004-11-17"

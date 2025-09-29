@@ -6,7 +6,6 @@ name = "SBN-00069"
 [meta]
 bill_number = 69
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-69", "https://web.senate.gov.ph/lisdata/41283539!.pdf",]
 title = "TEACHERS SALARY GRADE LEVEL UPGRADING"
 date_filed = "2007-06-30"
 long_title = "AN ACT UPGRADING THE MINIMUM SALARY GRADE LEVEL OF TEACHERS FROM SALARY GRADE 10 TO 19"
@@ -15,6 +14,8 @@ subjects = [ "Teachers (Salary Grade Increase)",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41283539!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-69"
 
 [[history]]
 date = "2007-06-30"

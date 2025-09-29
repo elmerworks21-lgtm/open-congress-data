@@ -6,7 +6,6 @@ name = "SBN-01103"
 [meta]
 bill_number = 1103
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1103", "https://web.senate.gov.ph/lisdata/3907935519!.pdf",]
 title = "NATIONAL CANCER CENTER OF THE PHILIPPINES"
 date_filed = "2022-08-08"
 long_title = "AN ACT ESTABLISHING A NATIONAL CANCER CENTER TO BE KNOWN AS THE NATIONAL CANCER CENTER OF THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "National Cancer Center of the Philippines (NCCP)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3907935519!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1103"
 
 [[history]]
 date = "2022-08-08"

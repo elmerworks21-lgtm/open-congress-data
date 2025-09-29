@@ -6,7 +6,6 @@ name = "SBN-02366"
 [meta]
 bill_number = 2366
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2366", "https://web.senate.gov.ph/lisdata/1967416799!.pdf",]
 title = "NURSE IN EVERY PUBLIC SCHOOL ACT"
 date_filed = "2014-08-19"
 long_title = "AN ACT ASSIGNING ONE REGISTERED NURSE FOR EVERY PUBLIC SCHOOL IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Nurses", "Health Care Workers",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1967416799!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2366"
 
 [[history]]
 date = "2014-08-19"

@@ -6,7 +6,6 @@ name = "SBN-00429"
 [meta]
 bill_number = 429
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-429", "https://web.senate.gov.ph/lisdata/2386520640!.pdf",]
 title = "NATIONAL SEAFARERS COMMISSION ACT"
 date_filed = "2016-07-19"
 long_title = "AN ACT CREATING A NATIONAL SEAFARERS COMMISSION, PRESCRIBING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFORE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Seafarers Commission", "Seafarers",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2386520640!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-429"
 
 [[history]]
 date = "2016-07-19"

@@ -6,7 +6,6 @@ name = "SBN-02482"
 [meta]
 bill_number = 2482
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2482", "https://web.senate.gov.ph/lisdata/101048694!.pdf",]
 title = "DEPARTMENT OF PEACE ACT"
 date_filed = "2010-09-07"
 long_title = "AN ACT TO ESTABLISH A DEPARTMENT OF PEACE IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Peace",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["PEACE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101048694!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2482"
 
 [[history]]
 date = "2010-09-07"

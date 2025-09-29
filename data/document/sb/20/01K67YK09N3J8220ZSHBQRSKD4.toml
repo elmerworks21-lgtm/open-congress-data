@@ -6,7 +6,6 @@ name = "SBN-00840"
 [meta]
 bill_number = 840
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-840", "https://web.senate.gov.ph/lisdata/4740643409!.pdf",]
 title = "PROTECTED GEOGRAPHICAL INDICATIONS ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION OF GEOGRAPHICAL INDICATIONS FOR AGRICULTURAL OR NATURAL (UNPROCESSED OR WILD) PRODUCTS, PROCESSED PRODUCTS, WINES AND SPIRITS, OR ANY PRODUCTS OF HANDICRAFT OR INDUSTRY"
@@ -15,6 +14,8 @@ subjects = [ "Protected Geographical Indications",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4740643409!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-840"
 
 [[history]]
 date = "2025-08-04"

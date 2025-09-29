@@ -6,7 +6,6 @@ name = "SBN-01513"
 [meta]
 bill_number = 1513
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1513", "https://web.senate.gov.ph/lisdata/3989536334!.pdf",]
 title = "REVISED NATIONAL APPRENTICESHIP PROGRAM ACT OF 2022"
 date_filed = "2022-11-16"
 long_title = "AN ACT PROVIDING FOR A REVISED NATIONAL APPRENTICESHIP PROGRAM, REPEALING FOR THE PURPOSE CHAPTERS I AND II OF TITLE II, BOOK II OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Apprentice/Apprenticeship", "Presidential Decree (P.D.No. 442)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3989536334!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1513"
 
 [[history]]
 date = "2022-11-16"

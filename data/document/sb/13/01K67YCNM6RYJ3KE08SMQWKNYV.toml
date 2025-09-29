@@ -6,7 +6,6 @@ name = "SBN-00463"
 [meta]
 bill_number = 463
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-463", "https://web.senate.gov.ph/lisdata/1621922!.pdf",]
 title = "ANTI-DRUNK DRIVING ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT DEFINING AS A CRIME THE ACT OF DRIVING ANY MOTOR VEHICLE WHILE UNDER THE INFLUENCE OF ALCOHOLIC BEVERAGES AND/OR PROHIBITED DRUGS AND PROVIDING GRADUATED PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Drunk Driving Act", "Alcohol (Crime: Drunk-Driving)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1621922!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-463"
 
 [[history]]
 date = "2004-06-30"

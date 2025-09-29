@@ -6,7 +6,6 @@ name = "SBN-02552"
 [meta]
 bill_number = 2552
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2552", "https://web.senate.gov.ph/lisdata/102418777!.pdf",]
 title = "FISCAL RESPONSIBILITY ACT"
 date_filed = "2010-09-30"
 long_title = "AN ACT INSTILLING FISCAL DISCIPLINE IN THE PUBLIC SECTOR BY SPECIFYING PRINCIPLES OF RESPONSIBLE FINANCIAL MANAGEMENT AND PROMOTING FULL TRANSPARENCY AND ACCOUNTABILITY IN GOVERNMENT REVENUE, EXPENDITURE AND BORROWING PROGRAMS"
@@ -15,6 +14,8 @@ subjects = [ "Fiscal Responsibility",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/102418777!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2552"
 
 [[history]]
 date = "2010-09-30"

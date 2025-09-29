@@ -6,7 +6,6 @@ name = "SBN-00495"
 [meta]
 bill_number = 495
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-495", "https://web.senate.gov.ph/lisdata/3825634693!.pdf",]
 title = "HIDILYN DIAZ ACT"
 date_filed = "2022-07-13"
 long_title = "AN ACT EXEMPTING INCENTIVES, REWARDS, BONUSES, AND OTHER FORMS OF EMOLUMENTS RECEIVED BY NATIONAL ATHLETES AND COACHES FROM TAXES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10699, OTHERWISE KNOWN AS THE 'NATIONAL ATHLETES AND COACHES BENEFITS AND INCENTIVES ACT'"
@@ -15,6 +14,8 @@ subjects = [ "National Athletes and Coaches Benefits and Incentives Act (R.A. No
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3825634693!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-495"
 
 [[history]]
 date = "2022-07-13"

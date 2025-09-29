@@ -6,7 +6,6 @@ name = "SBN-01443"
 [meta]
 bill_number = 1443
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1443", "https://web.senate.gov.ph/lisdata/2591922275!.pdf",]
 title = "FARM SCHOOL AND AGRICULTURE TRAINING SCHOLARSHIP ACT OF 2017"
 date_filed = "2017-05-09"
 long_title = "AN ACT ESTABLISHING A FARM SCHOOL IN EVERY TOWN IN THE COUNTRY AND PROVIDE AGRICULTURAL SCHOLARSHIP FUNDS AS PART OF THE TECHNICAL-VOCATIONAL TRAINING FUNDS OF THE TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Farm School", "Agriculture Training", "Technical Education and Ski
 authors_raw = "Villar, Cynthia A., Villanueva, Joel"
 author_codes = ["VCYNT", "VEMMA"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2591922275!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1443"
 
 [[history]]
 date = "2017-05-09"

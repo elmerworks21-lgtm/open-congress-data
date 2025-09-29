@@ -6,7 +6,6 @@ name = "SBN-02489"
 [meta]
 bill_number = 2489
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2489", "https://web.senate.gov.ph/lisdata/62035117!.pdf",]
 title = "SURIGAO DEL SUR SPECIAL ECONOMIC ZONE AND FREE PORT OF 2006"
 date_filed = "2006-10-11"
 long_title = "AN ACT ESTABLISHING THE SURIGAO DEL SUR SPECIAL ECONOMIC ZONE AND FREEPORT IN THE MUNICIPALITIES OF CARRASCAL, CANTILAN, MADRID, CARMEN, AND LANUZA, PROVINCE OF SURIGAO DEL SUR, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Economic Zone", "Free Port (Surigao Del Sur)",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/62035117!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2489"
 
 [[history]]
 date = "2006-10-11"

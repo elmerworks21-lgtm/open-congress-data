@@ -6,7 +6,6 @@ name = "SBN-01510"
 [meta]
 bill_number = 1510
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1510", "https://web.senate.gov.ph/lisdata/27252091!.pdf",]
 title = "FAMILY FRIENDLY WORKPLACE ACT"
 date_filed = "2004-07-27"
 long_title = "AN ACT PROVIDING PRIVATE SECTOR EMPLOYEES COMPENSATORY TIME OFF, BI-WEEKLY WORK SCHEDULES AND FLEXIBLE CREDIT HOURS"
@@ -15,6 +14,8 @@ subjects = [ "Family Friendly Workplace Act", "Private Sector Employees (Time-Of
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27252091!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1510"
 
 [[history]]
 date = "2004-07-27"

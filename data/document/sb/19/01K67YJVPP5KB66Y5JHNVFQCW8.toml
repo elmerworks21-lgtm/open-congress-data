@@ -6,7 +6,6 @@ name = "SBN-01203"
 [meta]
 bill_number = 1203
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1203", "https://web.senate.gov.ph/lisdata/3914135579!.pdf",]
 title = "AMENDING SECTION 13 OF REPUBLIC ACT NO. 8178 (RICE COMPETITIVENESS ENHANCEMENT FUND)"
 date_filed = "2022-08-17"
 long_title = "AN ACT AMENDING SECTION 13 OF REPUBLIC ACT NO. 8178, AS AMENDED BY REPUBLIC ACT NO. 9496, ENTITLED AN ACT REPLACING QUANTITATIVE IMPORT RESTRICTIONS ON AGRICULTURAL PRODUCTS, EXCEPT RICE, WITH TARIFFS, CREATING THE AGRICULTURAL COMPETITIVENESS ENHANCEMENT FUND, AND FOR OTHER PURPOSES, 'REPUBLIC ACT NO. 11203, ENTITLED AN ACT LIBERALIZING THE IMPORTATION, EXPORTATION AND TRADING OF RICE, LIFTING FOR THE PURPOSE THE QUANTITATIVE IMPORT RESTRICTION ON RICE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rice Competitiveness Enhancement Fund", "Rice Tariffication", "Qua
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3914135579!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1203"
 
 [[history]]
 date = "2022-08-17"

@@ -6,7 +6,6 @@ name = "SBN-00432"
 [meta]
 bill_number = 432
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-432", "https://web.senate.gov.ph/lisdata/3819334631!.pdf",]
 title = "DISTANCE INCENTIVE ALLOWANCE FOR PUBLIC SCHOOL TEACHERS ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING INCENTIVE ALLOWANCE TO PUBLIC SCHOOL TEACHERS WHO ARE ASSIGNED OUTSIDE OF THEIR CITIES MUNICIPALITIES, AND PROVINCES APPROPRIATING FUNDS THEREFORE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Public School Teachers", "Distance Incentive Allowance", "Benefits
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3819334631!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-432"
 
 [[history]]
 date = "2022-07-12"

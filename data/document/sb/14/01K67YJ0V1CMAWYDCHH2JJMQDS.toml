@@ -6,7 +6,6 @@ name = "SBN-00162"
 [meta]
 bill_number = 162
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-162", "https://web.senate.gov.ph/lisdata/42623649!.pdf",]
 title = "CIVILIAN COMPENSATION ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO PROVIDE COMPENSATION, REIMBURSEMENT FOR HOSPITALIZATION EXPENSES, AND OTHER BENEFITS, TO CIVILIANS CAUGHT IN THE CROSSFIRE BETWEEN REBELS AND THE MILITARY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Civilian Compensation Act of 2007", "Armed Conflict (Military and 
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42623649!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-162"
 
 [[history]]
 date = "2007-06-30"

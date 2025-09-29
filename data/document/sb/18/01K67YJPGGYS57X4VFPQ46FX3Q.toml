@@ -6,7 +6,6 @@ name = "SBN-00188"
 [meta]
 bill_number = 188
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-188", "https://web.senate.gov.ph/lisdata/3040827190!.pdf",]
 title = "NATIONAL COMMISSION ON DISABILITY AFFAIRS ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT CREATING THE NATIONAL COMMISSION ON DISABILITY AFFAIRS, DEFINING ITS POWERS, FUNCTIONS AND RESPONSIBILITIES AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Commission on Disability Affairs",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3040827190!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-188"
 
 [[history]]
 date = "2019-07-02"

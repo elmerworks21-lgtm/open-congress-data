@@ -6,7 +6,6 @@ name = "SBN-00142"
 [meta]
 bill_number = 142
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-142", "https://web.senate.gov.ph/lisdata/75776390!.pdf",]
 title = "LAND ADMINISTRATION REFORM ACT OF 2010"
 date_filed = "2010-07-05"
 long_title = "AN ACT INSTITUTING REFORMS IN LAND ADMINISTRATION SYSTEM, CREATING THE LAND ADMINISTRATION AUTHORITY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Land Administration",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75776390!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-142"
 
 [[history]]
 date = "2010-07-05"

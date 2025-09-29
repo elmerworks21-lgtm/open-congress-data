@@ -6,7 +6,6 @@ name = "SBN-00126"
 [meta]
 bill_number = 126
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-126", "https://web.senate.gov.ph/lisdata/2354520160!.pdf",]
 title = "AMENDING THE TAX REFORM ACT OF 1997 ON VAT EXEMPTION OF PETROLEUM PRODUCTS"
 date_filed = "2016-06-30"
 long_title = "AN ACT CLASSIFYING THE SALE OR IMPORTATION OF PETROLEUM PRODUCTS AND RAW MATERIALS IN THE MANUFACTURE THEREOF AS VALUE-ADDED TAX EXEMPT TRANSACTIONS, AMENDING FOR THE PURPOSE SECTION 109 (1) OF REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE TAX REFORM ACT OF 1997, AS AMENDED BY REPUBLIC ACT NO. 9337, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Value-Added Tax / Vat)", "Tax Reform Act", "Petroleum Produ
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2354520160!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-126"
 
 [[history]]
 date = "2016-06-30"

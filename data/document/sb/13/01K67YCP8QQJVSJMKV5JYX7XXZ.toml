@@ -6,7 +6,6 @@ name = "SBN-01594"
 [meta]
 bill_number = 1594
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1594", "https://web.senate.gov.ph/lisdata/28192186!.pdf",]
 title = "INCREASING PENALTIES - CERTAIN INSTANCES OF QUALIFIED THEFT"
 date_filed = "2004-08-03"
 long_title = "AN ACT INCREASING PENALTIES FOR CERTAIN INSTANCES OF QUALIFIED THEFT THEREBY AMENDING ARTICLE 310, CHAPTER THREE OF REPUBLIC ACT 3815, AS AMENDED OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Crime (Qualified Theft)", "Revised Penal Code (Art 310)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28192186!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1594"
 
 [[history]]
 date = "2004-08-03"

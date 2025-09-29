@@ -6,7 +6,6 @@ name = "SBN-00753"
 [meta]
 bill_number = 753
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-753", "https://web.senate.gov.ph/lisdata/1669613932!.pdf",]
 title = "SPECIAL AND INDEPENDENT PROSECUTOR ACT OF 2013"
 date_filed = "2013-07-15"
 long_title = "AN ACT TO STRENGTHEN PUBLIC TRUST AND ACCOUNTABILITY BY ENSURING IMPARTIALITY IN THE INVESTIGATION AND PROSECUTION OF CERTAIN CASES INVOLVING IMPEACHABLE PUBLIC OFFICIALS AND THEIR RELATIVES WITHIN THE 6TH CIVIL DEGREE OF CONSANGUINITY OR AFFINITY, MANDATING FOR THE PURPOSE THE APPOINTMENT OF THE SPECIAL AND INDEPENDENT PROSECUTOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Official/Public Official", "Prosecutor",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1669613932!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-753"
 
 [[history]]
 date = "2013-07-15"

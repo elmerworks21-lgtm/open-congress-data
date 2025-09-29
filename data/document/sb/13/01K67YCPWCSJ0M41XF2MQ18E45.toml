@@ -6,7 +6,6 @@ name = "SBN-02574"
 [meta]
 bill_number = 2574
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2574", "https://web.senate.gov.ph/lisdata/67155502!.pdf",]
 title = "MEDICAL TOURISM ACT OF 2007"
 date_filed = "2007-01-23"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE AND HOLISTIC MECHANISM FOR THE PROMOTION OF MEDICAL TOURISM IN THE COUNTRY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Tourism",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67155502!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2574"
 
 [[history]]
 date = "2007-01-23"

@@ -6,7 +6,6 @@ name = "SBN-00709"
 [meta]
 bill_number = 709
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-709", "https://web.senate.gov.ph/lisdata/4724043239!.pdf",]
 title = "ANTI-AYUDA ABUSE ACT"
 date_filed = "2025-07-17"
 long_title = "AN ACT ESTABLISHING A REPORTING MECHANISM FOR ABUSES OF GOVERNMENT SOCIAL ASSISTANCE PROGRAMS, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Ayuda Abuse", "Social Assistance Program",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4724043239!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-709"
 
 [[history]]
 date = "2025-07-17"

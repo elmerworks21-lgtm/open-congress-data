@@ -6,7 +6,6 @@ name = "SBN-03375"
 [meta]
 bill_number = 3375
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3375", "https://web.senate.gov.ph/lisdata/1204510600!.pdf",]
 title = "GUN CONTROL ACT OF 2009"
 date_filed = "2009-08-11"
 long_title = "AN ACT AMENDING THE PROVISIONS OF PRESIDENTIAL DECREE NO. 1866, ENTITLED CODIFYING THE LAWS ON ILLEGAL/UNLAWFUL POSSESSION, MANUFACTURE, DEALING IN, ACQUISITION OR DISPOSITION OF FIREARMS, AMMUNITIONS OR INSTRUMENTS USED IN THE MANUFACTURE OF FIREARMS AND AMMUNITION, AND IMPOSING STIFFER PENALTIES FOR CERTAIN VIOLATIONS THEREOF, AS AMENDED BY REPUBLIC ACT NOS. 8294 AND 9516"
@@ -15,6 +14,8 @@ subjects = [ "Firearms, Ammunition or Explosives, Weapons", "Presidential Decree
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1204510600!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3375"
 
 [[history]]
 date = "2009-08-11"

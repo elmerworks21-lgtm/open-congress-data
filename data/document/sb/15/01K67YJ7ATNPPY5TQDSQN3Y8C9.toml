@@ -6,7 +6,6 @@ name = "SBN-00166"
 [meta]
 bill_number = 166
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-166", "https://web.senate.gov.ph/lisdata/73565923!.pdf",]
 title = "CREDIT CARD ACCESS DEVICE"
 date_filed = "2010-07-06"
 long_title = "AN ACT GOVERNING CREDIT CARD AND OTHER ACCESS DEVICE TRANSACTIONS AND PROVIDING PENALTIES THEREFOR."
@@ -15,6 +14,8 @@ subjects = [ "Credit Card",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/73565923!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-166"
 
 [[history]]
 date = "2010-07-06"

@@ -6,7 +6,6 @@ name = "SBN-00153"
 [meta]
 bill_number = 153
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-153", "https://web.senate.gov.ph/lisdata/2357520203!.pdf",]
 title = "TRAIN PROTECTION ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT DEFINING THE CRIME OF ROBBERY OF TRAIN IMPLEMENTS, CLASSIFYING THE ACT AS HEINOUS CRIME AND IMPOSING PENALTY THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Train Protection Act", "Heinous Crimes", "Theft and Robbery",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2357520203!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-153"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00061"
 [meta]
 bill_number = 61
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-61", "https://web.senate.gov.ph/lisdata/4653542754!.pdf",]
 title = "AMENDING THE NIRC (EXEMPTING ELECTRICITY SALES FROM VAT)"
 date_filed = "2025-07-03"
 long_title = "AN ACT EXEMPTING ELECTRICITY SALES FROM VALUE-ADDED TAX, FURTHER AMENDING FOR THE PURPOSE SECTIONS 108 AND 109 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Electricity Sales", "Taxes (Value-Added Tax / Vat)",]
 authors_raw = "Marcoleta, Rodante D."
 author_codes = ["MRODA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4653542754!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-61"
 
 [[history]]
 date = "2025-07-03"

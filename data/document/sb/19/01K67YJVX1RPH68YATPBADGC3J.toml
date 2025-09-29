@@ -6,7 +6,6 @@ name = "SBN-01467"
 [meta]
 bill_number = 1467
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1467", "https://web.senate.gov.ph/lisdata/3978736293!.pdf",]
 title = "PHILIPPINE BUILDING ACT OF 2022"
 date_filed = "2022-11-03"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE BUILDING ACT OF 2022, THEREBY REPEALING PRESIDENTIAL DECREE NO. 1096, OTHERWISE KNOWN AS THE 'ADOPTING A NATIONAL BUILDING CODE OF THE PHILIPPINES (NBCP) THEREBY REVISING REPUBLIC ACT NUMBERED SIXTY-FIVE HUNDRED FORTY-ONE (R.A. NO. 6541)'"
@@ -15,6 +14,8 @@ subjects = [ "Buildings/Structures", "Building Code of the Philippines (R.A.No. 
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3978736293!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1467"
 
 [[history]]
 date = "2022-11-03"

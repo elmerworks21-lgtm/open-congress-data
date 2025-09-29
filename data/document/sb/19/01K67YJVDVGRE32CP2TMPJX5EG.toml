@@ -6,7 +6,6 @@ name = "SBN-00818"
 [meta]
 bill_number = 818
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-818", "https://web.senate.gov.ph/lisdata/3857935030!.pdf",]
 title = "FAIR DEBT COLLECTION PRACTICES ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT REGULATING THE DEBT COLLECTION PRACTICES OF DEBT COLLECTORS TO PROTECT BORROWERS FROM ABUSES, HARASSMENT, UNFAIR TREATMENT AND MISREPRESENTATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Fair Debt", "Debt Service/Collection",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3857935030!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-818"
 
 [[history]]
 date = "2022-07-25"

@@ -6,7 +6,6 @@ name = "SBN-03194"
 [meta]
 bill_number = 3194
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3194", "https://web.senate.gov.ph/lisdata/2312319862!.pdf",]
 title = "NATIONAL POLICE COMMISSION REORGANIZATION ACT"
 date_filed = "2016-02-01"
 long_title = "AN ACT PROVIDING FOR THE REORGANIZATION OF THE NATIONAL POLICE COMMISSION"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "National Police Commission (Napolcom)", "Reorganization",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2312319862!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3194"
 
 [[history]]
 date = "2016-02-01"

@@ -6,7 +6,6 @@ name = "SBN-00072"
 [meta]
 bill_number = 72
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-72", "https://web.senate.gov.ph/lisdata/3777534216!.pdf",]
 title = "PHILIPPINE ORTHOPEDIC CENTER MODERNIZATION ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT MODERNIZING THE PHILIPPINE ORTHOPEDIC CENTER, UPGRADING ITS SERVICE FACILITIES AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Orthopedic Center",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
 author_codes = ["PAQUI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3777534216!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-72"
 
 [[history]]
 date = "2022-07-07"

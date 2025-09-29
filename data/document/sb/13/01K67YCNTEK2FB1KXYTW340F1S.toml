@@ -6,7 +6,6 @@ name = "SBN-00818"
 [meta]
 bill_number = 818
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-818", "https://web.senate.gov.ph/lisdata/20161481!.pdf",]
 title = "SANDWICHED MONDAY OR FRIDAY AS NON WORKING HOLIDAY"
 date_filed = "2004-06-30"
 long_title = "AN ACT DECLARING ALL OFFICIAL NON-WORKING DAYS TO FALL EITHER ON A MONDAY OR A FRIDAY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Sandwiched Monday", "Friday)",]
 authors_raw = "Villar Jr., Manuel B., Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH", "VMANU"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20161481!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-818"
 
 [[history]]
 date = "2004-06-30"

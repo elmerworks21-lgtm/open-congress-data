@@ -6,7 +6,6 @@ name = "SBN-00670"
 [meta]
 bill_number = 670
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-670", "https://web.senate.gov.ph/lisdata/18561231!.pdf",]
 title = "STREET CHILDREN CRISIS CENTER ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A CRISIS CENTER FOR STREET CHILDREN IN ALL CITIES AND MUNICIPALITIES IN THE NATIONAL CAPITAL REGION AND IN EVERY HIGHLY URBANIZED CITY IN THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Street Children Crisis Center Act",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18561231!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-670"
 
 [[history]]
 date = "2004-06-30"

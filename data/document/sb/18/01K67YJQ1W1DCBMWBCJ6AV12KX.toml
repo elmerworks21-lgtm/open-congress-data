@@ -6,7 +6,6 @@ name = "SBN-00994"
 [meta]
 bill_number = 994
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-994", "https://web.senate.gov.ph/lisdata/3140628300!.pdf",]
 title = "INTERNS’ RIGHTS AND WELFARE ACT OF 2019"
 date_filed = "2019-09-02"
 long_title = "AN ACT PROVIDING FOR A NATIONAL FRAMEWORK FOR INTERNS’ RIGHTS AND WELFARE"
@@ -15,6 +14,8 @@ subjects = [ "Internship",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3140628300!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-994"
 
 [[history]]
 date = "2019-09-02"

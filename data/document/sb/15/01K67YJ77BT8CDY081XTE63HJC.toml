@@ -6,7 +6,6 @@ name = "SBN-00017"
 [meta]
 bill_number = 17
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-17", "https://web.senate.gov.ph/lisdata/73855953!.pdf",]
 title = "MAGNA CARTA OF THE POOR"
 date_filed = "2010-07-01"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF THE POOR"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of the Poor",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/73855953!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-17"
 
 [[history]]
 date = "2010-07-01"

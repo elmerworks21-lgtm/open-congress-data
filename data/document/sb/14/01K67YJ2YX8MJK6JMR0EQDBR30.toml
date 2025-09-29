@@ -6,7 +6,6 @@ name = "SBN-02981"
 [meta]
 bill_number = 2981
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2981", "https://web.senate.gov.ph/lisdata/98038847!.pdf",]
 title = "NON-RENEWAL OF NOMINATIONS OR APPOINTMENTS ACTS OF 2008"
 date_filed = "2009-01-12"
 long_title = "AN ACT PROHIBITING THE PRESIDENTIAL RE-NOMINATION OR RE-APPOINTMENT OF A NOMINEE OR AN APPOINTEE WHOSE NOMINATION OR APPOINTMENT HAD BEEN TWICE BY-PASSED BY THE COMMISSION ON APPOINTMENTS, BANNING THE PAYMENT OF SALARIES, EMOLUMENTS, PER DIEMS TO THE PERSONS CONCERNED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Commission on Appointments",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98038847!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2981"
 
 [[history]]
 date = "2009-01-12"

@@ -6,7 +6,6 @@ name = "SBN-00921"
 [meta]
 bill_number = 921
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-921", "https://web.senate.gov.ph/lisdata/83196874!.pdf",]
 title = "SCIENCE AND TECHNOLOGY FUNDING ACT OF 2010"
 date_filed = "2010-07-08"
 long_title = "AN ACT INCREASING THE YEARLY ALLOCATION FOR SCIENTIFIC AND TECHNOLOGICAL ACTIVITIES (STA)"
@@ -15,6 +14,8 @@ subjects = [ "Science and Technology Funding Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/83196874!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-921"
 
 [[history]]
 date = "2010-07-08"

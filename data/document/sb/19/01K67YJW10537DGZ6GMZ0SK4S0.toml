@@ -6,7 +6,6 @@ name = "SBN-01637"
 [meta]
 bill_number = 1637
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1637", "https://web.senate.gov.ph/lisdata/4027936683!.pdf",]
 title = "SIKOLOHISTA PARA SA BAYAN ACT OF 2022"
 date_filed = "2023-01-04"
 long_title = "AN ACT PROMOTING COMMUNITY-BASED MENTAL HEALTH SERVICES THROUGH HIRING OF AT LEAST ONE PSYCHOLOGIST PER CITY OR MUNICIPALITY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Mental Health", "Psychologist",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4027936683!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1637"
 
 [[history]]
 date = "2023-01-04"

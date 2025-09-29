@@ -6,7 +6,6 @@ name = "SBN-01798"
 [meta]
 bill_number = 1798
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1798", "https://web.senate.gov.ph/lisdata/3340730209!.pdf",]
 title = "HEAVY EQUIPMENT REGISTRATION ACT"
 date_filed = "2020-08-27"
 long_title = "AN ACT PROVIDING FOR THE COMPULSORY REGISTRATION OF HEAVY EQUIPMENT"
@@ -15,6 +14,8 @@ subjects = [ "Heavy Equipment",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3340730209!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1798"
 
 [[history]]
 date = "2020-08-27"

@@ -6,7 +6,6 @@ name = "SBN-00350"
 [meta]
 bill_number = 350
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-350", "https://web.senate.gov.ph/lisdata/44543853!.pdf",]
 title = "CHILDREN'S MEDIA PROTECTION ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT LIMITING EXPOSURE OF CHILDREN TO VIOLENT PROGRAMMING ON TELEVISION AND CABLE SYSTEMS"
@@ -15,6 +14,8 @@ subjects = [ "Childrens Media Protection", "Anti-Violent Programs",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44543853!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-350"
 
 [[history]]
 date = "2007-07-02"

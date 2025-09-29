@@ -6,7 +6,6 @@ name = "SBN-00601"
 [meta]
 bill_number = 601
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-601", "https://web.senate.gov.ph/lisdata/17871159!.pdf",]
 title = "LABEL WARNING: ALCOHOL DURING PREGNANCY IS HAZARDOUS TO LIFE"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING THAT ALL LIQUOR PRODUCTS CARRY A WARNING LABEL THAT ALCOHOL INTAKE DURING PREGNANCY IS HAZARDOUS TO THE LIFE AND HEALTH OF THE UNBORN CHILD"
@@ -15,6 +14,8 @@ subjects = [ "Liquor Warning Labeling (Pregnant Women)", "Alcohol (Warning Label
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/17871159!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-601"
 
 [[history]]
 date = "2004-06-30"

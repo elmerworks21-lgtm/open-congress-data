@@ -6,7 +6,6 @@ name = "SBN-02529"
 [meta]
 bill_number = 2529
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2529", "https://web.senate.gov.ph/lisdata/4340439486!.pdf",]
 title = "PHILIPPINE COMMISSION ON CHILDREN ACT"
 date_filed = "2024-02-05"
 long_title = "AN ACT REORGANIZING THE COUNCIL FOR THE WELFARE OF CHILDREN INTO THE PHILIPPINE COMMISSION ON CHILDREN, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Commission on Children", "Children/Child Care",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4340439486!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2529"
 
 [[history]]
 date = "2024-02-05"

@@ -6,7 +6,6 @@ name = "SBN-00494"
 [meta]
 bill_number = 494
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-494", "https://web.senate.gov.ph/lisdata/79996782!.pdf",]
 title = "HEALTH SERVICES COST CONTROL ACT"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO REDUCE HEALTH CARE COSTS BY REQUIRING TERTIARY AND SPECIALIZED HOSPITALS TO SHARE CERTAIN SERVICES AND EQUIPMENT"
@@ -15,6 +14,8 @@ subjects = [ "Health Care Delivery System",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79996782!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-494"
 
 [[history]]
 date = "2010-07-07"

@@ -6,7 +6,6 @@ name = "SBN-00738"
 [meta]
 bill_number = 738
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-738", "https://web.senate.gov.ph/lisdata/3843434889!.pdf",]
 title = "MENU LABELING ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT REQUIRING THE DISPLAY OF CALORIE AND OTHER NUTRITIONAL INFORMATION IN MENUS OF FOOD SERVICE ESTABLISHMENTS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Label/Labeling", "Nutritional Information Disclosure",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3843434889!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-738"
 
 [[history]]
 date = "2022-07-18"

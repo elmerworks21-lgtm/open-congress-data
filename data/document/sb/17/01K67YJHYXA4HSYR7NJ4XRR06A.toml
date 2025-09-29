@@ -6,7 +6,6 @@ name = "SBN-01171"
 [meta]
 bill_number = 1171
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1171", "https://web.senate.gov.ph/lisdata/2490121432!.pdf",]
 title = "EXPANDED CROP INSURANCE ACT OF 2016"
 date_filed = "2016-09-26"
 long_title = "AN ACT TO PROVIDE COMPENSATION TO FARMERS WHO SUFFER FROM RECURRENT DISASTERS AND CALAMITIES, TO SUSTAIN AGRICULTURAL CREDIT AND FINANCING, AND TO ENSURE FOOD SECURITY, BY MAKING INSURANCE MANDATORY FOR PALAY AND OTHER ESSENTIAL CROPS, AMENDING FOR THE PURPOSE SECTION 4 OF PRESIDENTIAL DECREE NO. 1467, AS AMENDED BY REPUBLIC ACT NO. 8175, OR THE ‘REVISED CHARTER OF THE PHILIPPINE CROP INSURANCE CORPORATION (PCIC) ACT OF 1995,’ AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Crop Insurance Corporation", "Farmers", "Calamity/Disas
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2490121432!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1171"
 
 [[history]]
 date = "2016-09-26"

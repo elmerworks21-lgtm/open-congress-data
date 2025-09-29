@@ -6,7 +6,6 @@ name = "SBN-02313"
 [meta]
 bill_number = 2313
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2313", "https://web.senate.gov.ph/lisdata/54384501!.pdf",]
 title = "TAX INCENTIVES TO BROADCAST AND PRINT MEDIA"
 date_filed = "2006-06-07"
 long_title = "AN ACT GRANTING TAX INCENTIVES TO BROADCAST AND PRINT MEDIA DEVOTING AIR TIME AND SPACE TO EDUCATION, AS WELL AS, TO SPONSORS, SUPPORTING SUCH PROGRAMS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Tax Incentives, Broadcast", "Print Media)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54384501!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2313"
 
 [[history]]
 date = "2006-06-07"

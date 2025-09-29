@@ -6,7 +6,6 @@ name = "SBN-00094"
 [meta]
 bill_number = 94
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-94", "https://web.senate.gov.ph/lisdata/3779734238!.pdf",]
 title = "TEACHING SUPPLIES ALLOWANCE ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING FOR A TEACHING SUPPLIES ALLOWANCE FOR PUBLIC SCHOOL TEACHERS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Teaching Supplies Allowance", "Public School Teachers",]
 authors_raw = "Angara, Sonny, Go, Christopher Lawrence T."
 author_codes = ["ASONN", "GCHRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3779734238!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-94"
 
 [[history]]
 date = "2022-07-07"

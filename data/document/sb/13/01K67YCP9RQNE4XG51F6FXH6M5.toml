@@ -6,7 +6,6 @@ name = "SBN-01651"
 [meta]
 bill_number = 1651
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1651", "https://web.senate.gov.ph/lisdata/28542323!.pdf",]
 title = "UNIFORM WARNINGS ON PERSONAL PROTECTIVE EQUIPMENT"
 date_filed = "2004-08-04"
 long_title = "AN ACT TO PROVIDE FOR UNIFORM WARNINGS ON PERSONAL PROTECTIVE EQUIPMENT FOR OCCUPATIONAL USE"
@@ -15,6 +14,8 @@ subjects = [ "Personal Protective Equipment", "Labor Code (Art. 162)", "Occupati
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28542323!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1651"
 
 [[history]]
 date = "2004-08-04"

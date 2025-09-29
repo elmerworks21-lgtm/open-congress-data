@@ -6,7 +6,6 @@ name = "SBN-02243"
 [meta]
 bill_number = 2243
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2243", "https://web.senate.gov.ph/lisdata/72356469!.pdf",]
 title = "PROTECTION TO PROBATIONARY EMPLOYEES"
 date_filed = "2008-05-05"
 long_title = "AN ACT MAINTAINING THE PRESENT PROVISION ON PROBATIONARY EMPLOYMENT INCREASING AT THE SAME TIME THE GOVERNMENT'S PROTECTION TO PROBATIONARY EMPLOYEES, AMENDING FOR THIS PURPOSE ART. 281 OF THE LABOR CODE"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code (Pd 442)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72356469!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2243"
 
 [[history]]
 date = "2008-05-05"

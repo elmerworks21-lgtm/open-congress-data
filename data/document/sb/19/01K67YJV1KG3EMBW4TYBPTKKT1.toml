@@ -6,7 +6,6 @@ name = "SBN-00250"
 [meta]
 bill_number = 250
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-250", "https://web.senate.gov.ph/lisdata/3796934412!.pdf",]
 title = "IMPOSING VALUE-ADDED TAX ON DIGITAL TRANSACTIONS"
 date_filed = "2022-07-11"
 long_title = "AN ACT IMPOSING VALUE-ADDED TAX ON DIGITAL TRANSACTIONS IN THE PHILIPPINES, AMENDING FOR THE PURPOSE SECTIONS 105, 108, 109, 113, 114, AND 236 AND ADDING A NEW SECTION 105-A OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMEDNED"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Value-Added Tax / Vat)", "Digital Transaction", "National I
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3796934412!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-250"
 
 [[history]]
 date = "2022-07-11"

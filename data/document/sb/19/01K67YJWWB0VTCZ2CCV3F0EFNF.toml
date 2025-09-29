@@ -6,7 +6,6 @@ name = "SBN-02749"
 [meta]
 bill_number = 2749
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2749", "https://web.senate.gov.ph/lisdata/4436740313!.pdf",]
 title = "THE ORDER OF PRESIDENTIAL SUCCESSION"
 date_filed = "2024-07-23"
 long_title = "AN ACT PRESCRIBING THE ORDER OF PRESIDENTIAL SUCCESSION"
@@ -15,6 +14,8 @@ subjects = [ "Presidential Succession", "Succession",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4436740313!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2749"
 
 [[history]]
 date = "2024-07-23"

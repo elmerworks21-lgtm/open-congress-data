@@ -6,7 +6,6 @@ name = "SBN-02725"
 [meta]
 bill_number = 2725
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2725", "https://web.senate.gov.ph/lisdata/2110717986!.pdf",]
 title = "FITNESS PROFESSIONALS LICENSING ACT"
 date_filed = "2015-04-16"
 long_title = "AN ACT REGULATING PERSONAL TRAINING AND GROUP FITNESS INSTRUCTION"
@@ -15,6 +14,8 @@ subjects = [ "Fitness",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2110717986!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2725"
 
 [[history]]
 date = "2015-04-16"

@@ -6,7 +6,6 @@ name = "SBN-01278"
 [meta]
 bill_number = 1278
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1278", "https://web.senate.gov.ph/lisdata/3930935741!.pdf",]
 title = "BUSINESS PERMIT AND LICENSING OFFICE (BPLO) ACT OF 2022"
 date_filed = "2022-09-05"
 long_title = "AN ACT ESTABLISHING A BUSINESS PERMIT AND LICENSING OFFICE (BPLO) IN EVERY CITY OR MUNICIPALITY IN THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Business Permit", "License",]
 authors_raw = "Ejercito, Joseph Victor G., Gatchalian, Win, Tolentino, Francis \"Tol\" N., Villanueva, Joel"
 author_codes = ["EJOSE", "GSHER", "TFRAN", "VEMMA"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3930935741!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1278"
 
 [[history]]
 date = "2022-09-05"

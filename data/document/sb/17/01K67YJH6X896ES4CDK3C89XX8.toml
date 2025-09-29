@@ -6,7 +6,6 @@ name = "SBN-00110"
 [meta]
 bill_number = 110
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-110", "https://web.senate.gov.ph/lisdata/2352520143!.pdf",]
 title = "BIGGER PIE, BIGGER SLICE BILL"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FOR THE SHARE IN THE NATIONAL TAXES OF LOCAL GOVERNMENT UNITS, AMENDING FOR THIS PURPOSE REPUBLICT ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Taxes/Taxation", "Local Government Units (LGUS)", "Local Governmen
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2352520143!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-110"
 
 [[history]]
 date = "2016-06-30"

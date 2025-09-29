@@ -6,7 +6,6 @@ name = "SBN-00017"
 [meta]
 bill_number = 17
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-17", "https://web.senate.gov.ph/lisdata/1146570!.pdf",]
 title = "PHILIPPINE NATIONAL POLICE MODERNIZATION PROGRAM"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE PHILIPPINE NATIONAL POLICE MODERNIZATION PROGRAM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "PNP (Phil. Police Modernization Program)",]
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
 author_codes = ["AEDGA", "FJUAN"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1146570!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-17"
 
 [[history]]
 date = "2004-06-30"

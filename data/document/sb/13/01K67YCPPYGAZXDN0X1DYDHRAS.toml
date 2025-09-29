@@ -6,7 +6,6 @@ name = "SBN-02289"
 [meta]
 bill_number = 2289
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2289", "https://web.senate.gov.ph/lisdata/53944525!.pdf",]
 title = "ALZHEIMER'S DISEASE AWARENESS MONTH (NOVEMBER)"
 date_filed = "2006-06-07"
 long_title = "AN ACT DESIGNATING NOVEMBER OF EACH YEAR AS ALZHEIMER'S DISEASE AWARENESS MONTH"
@@ -15,6 +14,8 @@ subjects = [ "Alzheimers Disease Awareness Month (November)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53944525!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2289"
 
 [[history]]
 date = "2006-06-07"

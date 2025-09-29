@@ -6,7 +6,6 @@ name = "SBN-01262"
 [meta]
 bill_number = 1262
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1262", "https://web.senate.gov.ph/lisdata/3214328991!.pdf",]
 title = "MOTORCYCLES-FOR-HIRE ACT"
 date_filed = "2020-01-07"
 long_title = "AN ACT ALLOWING AND REGULATING THE USE OF MOTORCYCLES AS PUBLIC UTILITY VEHICLES, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 4136, OTHERWISE KNOWN AS THE LAND TRANSPORTATION AND TRAFFIC CODE, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Motorcycle", "Public Utility Vehicles",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3214328991!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1262"
 
 [[history]]
 date = "2020-01-07"

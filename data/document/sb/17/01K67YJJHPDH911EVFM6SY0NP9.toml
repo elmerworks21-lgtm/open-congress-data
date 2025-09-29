@@ -6,7 +6,6 @@ name = "SBN-01865"
 [meta]
 bill_number = 1865
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1865", "https://web.senate.gov.ph/lisdata/2809724400!.pdf",]
 title = "INCREASING THE MONTHLY SOCIAL PENSION OF SENIOR CITIZENS"
 date_filed = "2018-07-04"
 long_title = "AN ACT INCREASING THE MONTHLY SOCIAL PENSION OF SENIOR CITIZENS AND EXPANDING THE COVERAGE THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens", "Pension",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2809724400!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1865"
 
 [[history]]
 date = "2018-07-04"

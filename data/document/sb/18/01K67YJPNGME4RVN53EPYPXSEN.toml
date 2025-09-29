@@ -6,7 +6,6 @@ name = "SBN-00412"
 [meta]
 bill_number = 412
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-412", "https://web.senate.gov.ph/lisdata/3074427580!.pdf",]
 title = "ANTI-DISCRIMINATION ACT OF 2019"
 date_filed = "2019-07-11"
 long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF SEXUAL ORIENTATION OR GENDER IDENTITY OR EXPRESSION (SOGIE), AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination", "Sexual Orientation (Lesbians/Gays/Sogie)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3074427580!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-412"
 
 [[history]]
 date = "2019-07-11"

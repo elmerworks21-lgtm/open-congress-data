@@ -6,7 +6,6 @@ name = "SBN-02004"
 [meta]
 bill_number = 2004
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2004", "https://web.senate.gov.ph/lisdata/66985928!.pdf",]
 title = "BICYCLE HELMET SAFETY ACT"
 date_filed = "2008-01-21"
 long_title = "AN ACT PROMULGATING THE UNIFORM STANDARDS FOR BICYCLE HELMETS AND PROMOTING ITS USE, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Helmet",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/66985928!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2004"
 
 [[history]]
 date = "2008-01-21"

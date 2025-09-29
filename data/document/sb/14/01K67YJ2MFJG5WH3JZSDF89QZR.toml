@@ -6,7 +6,6 @@ name = "SBN-02512"
 [meta]
 bill_number = 2512
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2512", "https://web.senate.gov.ph/lisdata/79797306!.pdf",]
 title = "TEMPORARY SHELTER PROGRAM FOR TRAFFICKED PERSON ACT OF 2008"
 date_filed = "2008-08-04"
 long_title = "AN ACT TO INSTITUTE MECHANISMS FOR THE CREATION OF TEMPORARY SHELTER PROGRAM FOR TRAFFICKED PERSONS"
@@ -15,6 +14,8 @@ subjects = [ "Human Trafficking",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79797306!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2512"
 
 [[history]]
 date = "2008-08-04"

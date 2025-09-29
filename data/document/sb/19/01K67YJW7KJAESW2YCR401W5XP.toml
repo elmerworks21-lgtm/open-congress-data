@@ -6,7 +6,6 @@ name = "SBN-01926"
 [meta]
 bill_number = 1926
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1926", "https://web.senate.gov.ph/lisdata/4091737280!.pdf",]
 title = "CHARTER OF THE CITY OF LILOAN"
 date_filed = "2023-02-27"
 long_title = "AN ACT CONVERTING THE MUNICIPALITY OF LILOAN IN THE PROVINCE OF CEBU INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF LILOAN"
@@ -15,6 +14,8 @@ subjects = [ "Municipality, Conversion (Cityhood)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4091737280!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1926"
 
 [[history]]
 date = "2023-02-27"

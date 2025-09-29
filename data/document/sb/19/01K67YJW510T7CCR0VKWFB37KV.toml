@@ -6,7 +6,6 @@ name = "SBN-01818"
 [meta]
 bill_number = 1818
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1818", "https://web.senate.gov.ph/lisdata/4058336996!.pdf",]
 title = "VIROLOGY AND VACCINE INSTITUTE OF THE PHILIPPINES (VIP) ACT"
 date_filed = "2023-01-31"
 long_title = "VIROLOGY AND VACCINE INSTITUTE OF THE PHILIPPINES ACT"
@@ -15,6 +14,8 @@ subjects = [ "Virology and Vaccine Institute of the Philippines", "Vaccine", "Vi
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4058336996!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1818"
 
 [[history]]
 date = "2023-01-31"

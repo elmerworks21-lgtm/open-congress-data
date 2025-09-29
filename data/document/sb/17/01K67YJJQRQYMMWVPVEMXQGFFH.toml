@@ -6,7 +6,6 @@ name = "SBN-02076"
 [meta]
 bill_number = 2076
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2076", "https://web.senate.gov.ph/lisdata/2884625374!.pdf",]
 title = "REGULATION OF WASTE TREATMENT TECHNOLOGY ACT"
 date_filed = "2018-10-15"
 long_title = "AN ACT REGULATING THE USE OF TREATMENT TECHNOLOGY FOR MUNICIPAL AND HAZARDOUS WASTES, REPEALING FOR THE PURPOSE SECTION 20 OF REPUBLIC ACT NO. 8749, ENTITLED ‘THE PHILIPPINE CLEAN AIR ACT OF 1999’"
@@ -15,6 +14,8 @@ subjects = [ "Hazardous/Toxic/Radioactive Wastes Management", "Clean Air Act",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2884625374!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2076"
 
 [[history]]
 date = "2018-10-15"

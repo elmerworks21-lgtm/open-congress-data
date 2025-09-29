@@ -6,7 +6,6 @@ name = "SBN-01880"
 [meta]
 bill_number = 1880
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1880", "https://web.senate.gov.ph/lisdata/3371130611!.pdf",]
 title = "ROLL-OVER INTERNET ACT"
 date_filed = "2020-10-12"
 long_title = "AN ACT MANDATING AND INSTITUTIONALIZING ROLL-OVER DATA ALLOCATION SCHEME, PROVIDING FOR PENALTIES AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Data Roll-Over", "Internet Access", "Internet Service Providers",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3371130611!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1880"
 
 [[history]]
 date = "2020-10-12"

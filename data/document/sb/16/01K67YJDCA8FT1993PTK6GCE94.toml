@@ -6,7 +6,6 @@ name = "SBN-01696"
 [meta]
 bill_number = 1696
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1696", "https://web.senate.gov.ph/lisdata/1783015064!.pdf",]
 title = "EDUCATION FOR THE 21ST CENTURY ACT"
 date_filed = "2013-09-17"
 long_title = "AN ACT TO ENABLE PHILIPPINE SCHOOLS TO USE COMPUTER HARDWARE TO INCREASE STUDENT ACHIEVEMENT AND PREPARE STUDENTS FOR THE 21ST CENTURY WORKPLACE"
@@ -15,6 +14,8 @@ subjects = [ "Computer Education",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1783015064!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1696"
 
 [[history]]
 date = "2013-09-17"

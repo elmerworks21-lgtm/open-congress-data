@@ -6,7 +6,6 @@ name = "SBN-00387"
 [meta]
 bill_number = 387
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-387", "https://web.senate.gov.ph/lisdata/3068527534!.pdf",]
 title = "PASIG RIVER DEVELOPMENT ACT"
 date_filed = "2019-07-11"
 long_title = "AN ACT CREATING THE PASIG RIVER REHABILITATION AND DEVELOPMENT AUTHORITY, PRESCRIBING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Pasig River", "Rehabilitation/Rehabilitation Fund",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3068527534!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-387"
 
 [[history]]
 date = "2019-07-11"

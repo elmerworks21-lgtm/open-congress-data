@@ -6,7 +6,6 @@ name = "SBN-00863"
 [meta]
 bill_number = 863
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-863", "https://web.senate.gov.ph/lisdata/51074480!.pdf",]
 title = "STAPLE WIRES ON FOOD ITEMS PROHIBITION ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROHIBITING THE USE OF STAPLE WIRES OR ANY OTHER SIMILAR FORM OF METAL OBJECTS AS MEDIUM FOR CLOSING AND SEALING FOOD ITEMS INSIDE ITS PACKAGING, PROVIDING PENALTIES FOR VIOLATION THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Staple Wires on Food Items Prohibition",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51074480!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-863"
 
 [[history]]
 date = "2007-07-03"

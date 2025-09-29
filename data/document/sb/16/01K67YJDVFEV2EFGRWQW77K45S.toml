@@ -6,7 +6,6 @@ name = "SBN-02385"
 [meta]
 bill_number = 2385
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2385", "https://web.senate.gov.ph/lisdata/1979216897!.pdf",]
 title = "UNDERPRIVILEGED STUDENTS' DISCOUNT ACT OF 2014"
 date_filed = "2014-09-03"
 long_title = "AN ACT GRANTING DISCOUNTS ON BASIC AND EDUCATION SERVICES TO UNDERPRIVILEGED STUDENTS IN ALL LEVELS, INCLUDING THOSE ENROLLED IN TECHNICAL-VOCATIONAL (TECH-VOC) INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Students", "Discount Privileges",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1979216897!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2385"
 
 [[history]]
 date = "2014-09-03"

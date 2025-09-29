@@ -6,7 +6,6 @@ name = "SBN-02672"
 [meta]
 bill_number = 2672
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2672", "https://web.senate.gov.ph/lisdata/90568236!.pdf",]
 title = "CONQUER CHILDHOOD CANCER ACT OF 2008"
 date_filed = "2008-10-14"
 long_title = "AN ACT TO ADVANCE THE MEDICAL RESEARCH AND TREATMENTS INTO PEDIATRIC CANCERS, ENSURE PATIENTS AND FAMILIES HAVE ACCESS TO THE CURRENT TREATMENTS AND INFORMATION REGARDING PEDIATRIC CANCERS, ESTABLISH A POPULATION-BASED NATIONAL CHILDHOOD CANCER DATABASE, AND PROMOTE PUBLIC AWARENESS OF PEDIATRIC CANCERS"
@@ -15,6 +14,8 @@ subjects = [ "Pediatric Cancer", "Childhood Cancer",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90568236!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2672"
 
 [[history]]
 date = "2008-10-14"

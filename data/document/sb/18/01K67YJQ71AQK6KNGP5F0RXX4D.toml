@@ -6,7 +6,6 @@ name = "SBN-01211"
 [meta]
 bill_number = 1211
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1211", "https://web.senate.gov.ph/lisdata/3196828816!.pdf",]
 title = "LGU TRANSPORTATION ACT"
 date_filed = "2019-11-27"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE 'LOCAL GOVERNMENT CODE OF 1991', BY EXPANDING THE SCOPE OF LOCAL GOVERNMENT UNITS' POWERS OVER LOCAL PUBLIC TRANSPORTATION SYSTEMS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code (R.A.No. 7160)", "Transportation/Transport S
 authors_raw = "Tolentino, Francis \"Tol\" N., Recto, Ralph G., Gatchalian, Win"
 author_codes = ["GSHER", "RRALP", "TFRAN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3196828816!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1211"
 
 [[history]]
 date = "2019-11-27"

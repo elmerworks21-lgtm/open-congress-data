@@ -6,7 +6,6 @@ name = "SBN-00976"
 [meta]
 bill_number = 976
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-976", "https://web.senate.gov.ph/lisdata/3138328278!.pdf",]
 title = "FOOD ALLERGEN AWARENESS AND LABELING ACT"
 date_filed = "2019-08-28"
 long_title = "AN ACT REQUIRING THE DISCLOSURE OF FOOD ALLERGEN INFORMATION ON MENUS AND BOARDS OF FOOD ESTABLISHMENTS AND RAISING AWARENESS ON FOOD ALLERGENS"
@@ -15,6 +14,8 @@ subjects = [ "Food Allergy/Anaphylaxis", "Food Establishments", "Food Labeling/P
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3138328278!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-976"
 
 [[history]]
 date = "2019-08-28"

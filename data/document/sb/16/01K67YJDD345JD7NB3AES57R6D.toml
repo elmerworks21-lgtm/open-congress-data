@@ -6,7 +6,6 @@ name = "SBN-01733"
 [meta]
 bill_number = 1733
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1733", "https://web.senate.gov.ph/lisdata/1787815101!.pdf",]
 title = "PEOPLE'S FREEDOM OF INFORMATION ACT OF 2013"
 date_filed = "2013-09-24"
 long_title = "AN ACT IMPLEMENTING THE PEOPLE'S RIGHT TO INFORMATION AND THE CONSTITUTIONAL POLICIES OF FULL PUBLIC DISCLOSURE AND HONESTY IN THE PUBLIC SERVICE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Right to Information",]
 authors_raw = "Escudero, Francis \"Chiz\" G., Trillanes, Antonio \"Sonny\" F., Osmena III, Sergio R., Honasan II, Gregorio B., Guingona III, Teofisto \"Tg\", Cayetano, Alan Peter Companero S., Ejercito, Joseph Victor G., Angara, Juan Edgardo \"Sonny\" M., Poe, Grace L., Revilla Jr., Ramon A., Legarda, Loren B."
 author_codes = ["ASONN", "CALAN", "EFRAN", "EVICT", "GTEOF", "HGREG", "LLORE", "OSERG", "PGRAC", "RRAMO", "TANTO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1787815101!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1733"
 
 [[history]]
 date = "2013-09-24"

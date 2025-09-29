@@ -6,7 +6,6 @@ name = "SBN-00629"
 [meta]
 bill_number = 629
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-629", "https://web.senate.gov.ph/lisdata/2411720754!.pdf",]
 title = "CHIROPRACTIC ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT REGULATING THE PRACTICE OF CHIROPRACTIC CARE IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Chiropractic Act",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2411720754!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-629"
 
 [[history]]
 date = "2016-07-19"

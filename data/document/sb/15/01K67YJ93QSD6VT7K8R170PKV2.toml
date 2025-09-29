@@ -6,7 +6,6 @@ name = "SBN-02687"
 [meta]
 bill_number = 2687
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2687", "https://web.senate.gov.ph/lisdata/107449190!.pdf",]
 title = "CRIMINAL JUSTICE REFORM COMMISSION ACT"
 date_filed = "2011-02-10"
 long_title = "AN ACT CREATING A COMMISSION ON CRIMINAL JUSTICE REFORM"
@@ -15,6 +14,8 @@ subjects = [ "Criminal Justice Reform Commission",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107449190!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2687"
 
 [[history]]
 date = "2011-02-10"

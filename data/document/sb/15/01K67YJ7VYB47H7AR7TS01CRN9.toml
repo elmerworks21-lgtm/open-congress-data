@@ -6,7 +6,6 @@ name = "SBN-01015"
 [meta]
 bill_number = 1015
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1015", "https://web.senate.gov.ph/lisdata/84847040!.pdf",]
 title = "LABOR CODE (AMENDING ART. 106, P.D. 442 RE JOB CONTRACTING)"
 date_filed = "2010-07-08"
 long_title = "AN ACT EXPANDING THE LIABILITIES OF INDIRECT EMPLOYERS IN JOB CONTRACTING, COVERING OTHER BENEFITS DUE THEIR EMPLOYEES, FOR THIS PURPOSE AMENDING ARTICLE 106 OF PRESIDENTIAL DECREE 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442; Amendments)", "Job Con
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84847040!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1015"
 
 [[history]]
 date = "2010-07-08"

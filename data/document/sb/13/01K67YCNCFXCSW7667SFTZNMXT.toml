@@ -6,7 +6,6 @@ name = "SBN-00043"
 [meta]
 bill_number = 43
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-43", "https://web.senate.gov.ph/lisdata/1177596!.pdf",]
 title = "NON POLITICAL INTERFERENCE ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROHIBITING ELECTED OR APPOINTED NATIONAL OR LOCAL OFFICIALS FROM ISSUING RECOMMENDATION LETTERS FOR THE APPOINTMENT, HIRING OF AN EMPLOYEE OR OFFICIAL IN GOVERNMENT AGENCIES INCLUDING GOVERNMENT OWNED OR CONTROLLED CORPORATIONS AND PRIVATE COMPANIES FROM REQUIRING THE SAME"
@@ -15,6 +14,8 @@ subjects = [ "Non Political Interference Act", "Recommendation Letters Issuance 
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1177596!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-43"
 
 [[history]]
 date = "2004-06-30"

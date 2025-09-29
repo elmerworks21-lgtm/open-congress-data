@@ -6,7 +6,6 @@ name = "SBN-02700"
 [meta]
 bill_number = 2700
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2700", "https://web.senate.gov.ph/lisdata/4420140172!.pdf",]
 title = "HEALTHY FOOD MARKETING ENVIRONMENT ACT"
 date_filed = "2024-05-23"
 long_title = "AN ACT TO CREATE A HEALTHY FOOD MARKETING ENVIRONMENT BY REQUIRING FRONT-OF-PACKAGE WARNING LABELS FOR FOOD HIGH IN FAT, SODIUM, OR SUGAR AND REGULATING THE MARKETING OF SUCH FOOD TO CHILDREN"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Healthy Food and Beverage in Public Schools", "Food Labeling/Packaging",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4420140172!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2700"
 
 [[history]]
 date = "2024-05-23"

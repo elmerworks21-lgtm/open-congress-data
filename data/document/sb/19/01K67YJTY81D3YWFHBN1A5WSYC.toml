@@ -6,7 +6,6 @@ name = "SBN-00101"
 [meta]
 bill_number = 101
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-101", "https://web.senate.gov.ph/lisdata/3780534246!.pdf",]
 title = "SUSPENSION OF EXISE TAXES ON REGULAR GASOLINE, UNLEADED PREMIUM GASOLINE, AND DIESEL"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING FOR THE AUTOMATIC SUSPENSION OF EXCISE TAXES ON REGULAR GASOLINE, UNLEADED PREMIUM GASOLINE, AND DIESEL, AMENDING FOR THE PURPOSE SECTION 148 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Excise Tax)", "Petroleum Products", "National Internal Reve
 authors_raw = "Poe, Grace, Escudero, Francis G."
 author_codes = ["EFRAN", "PGRAC"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3780534246!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-101"
 
 [[history]]
 date = "2022-07-07"

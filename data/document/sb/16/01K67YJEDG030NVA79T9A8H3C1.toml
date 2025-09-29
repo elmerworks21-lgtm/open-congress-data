@@ -6,7 +6,6 @@ name = "SBN-02949"
 [meta]
 bill_number = 2949
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2949", "https://web.senate.gov.ph/lisdata/2223518950!.pdf",]
 title = "HOUSING BAN ALONG RIVERBANKS ACT OF 2015"
 date_filed = "2015-09-14"
 long_title = "AN ACT TO BAN THE CONSTRUCTION OF HOUSES ALONG RIVER BANKS, WATERWAYS AND BANKS OF INLAND WATERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rivers and Waterways", "Housing Projects",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2223518950!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2949"
 
 [[history]]
 date = "2015-09-14"

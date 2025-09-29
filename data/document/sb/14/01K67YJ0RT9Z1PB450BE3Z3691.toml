@@ -6,7 +6,6 @@ name = "SBN-00066"
 [meta]
 bill_number = 66
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-66", "https://web.senate.gov.ph/lisdata/41263536!.pdf",]
 title = "NATIONAL CULTURAL HERITAGE ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION AND CONSERVATION OF THE NATIONAL CULTURAL HERITAGE STRENGTHENING THE NATIONAL COMMISSION FOR CULTURE AND THE ARTS (NCCA), AND ITS AFFILIATED CULTURAL AGENCIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Cultural Heritage",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41263536!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-66"
 
 [[history]]
 date = "2007-06-30"

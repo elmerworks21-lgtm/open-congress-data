@@ -6,7 +6,6 @@ name = "SBN-00425"
 [meta]
 bill_number = 425
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-425", "https://web.senate.gov.ph/lisdata/46013953!.pdf",]
 title = "DEATH BENEFITS FOR SEAFARERS ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT FIXING THE MINIMUM STANDARD FOR DEATH BENEFITS TO FILIPINO SEAFARERS EMPLOYED OVERSEAS AND ESTABLISHING A MECHANISM AT THE PHILIPPINE OVERSEAS EMPLOYMENT ADMINISTRATION FOR ITS REGULAR REVIEW AND REALIGNMENT TO PREVAILING INTERNATIONAL STANDARDS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Seafarers", "Philippine Overseas Employment Administration (POEA)"
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46013953!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-425"
 
 [[history]]
 date = "2007-07-02"

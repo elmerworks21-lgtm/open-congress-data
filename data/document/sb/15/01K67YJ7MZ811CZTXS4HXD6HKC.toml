@@ -6,7 +6,6 @@ name = "SBN-00668"
 [meta]
 bill_number = 668
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-668", "https://web.senate.gov.ph/lisdata/81786649!.pdf",]
 title = "MAGNA CARTA OF PUBLIC HEALTH WORKERS"
 date_filed = "2010-07-07"
 long_title = "AN ACT AMENDING SECTIONS 19 AND 39 OF REPUBLIC ACT NUMBERED SEVEN THOUSAND THREE HUNDRED AND FIVE (R.A. 7305) OTHERWISE KNOWN AS THE MAGNA CARTA OF PUBLIC HEALTH WORKERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Public Health Workers",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81786649!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-668"
 
 [[history]]
 date = "2010-07-07"

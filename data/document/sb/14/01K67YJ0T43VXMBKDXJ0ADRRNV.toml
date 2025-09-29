@@ -6,7 +6,6 @@ name = "SBN-00125"
 [meta]
 bill_number = 125
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-125", "https://web.senate.gov.ph/lisdata/42233609!.pdf",]
 title = "ADDITIONAL EXEMPTIONS OF INDIVIDUAL TAXPAYERS"
 date_filed = "2007-06-30"
 long_title = "AN ACT INCREASING THE ALLOWABLE PERSONAL AND ADDITIONAL EXEMPTIONS OF INDIVIDUAL TAXPAYERS, AMENDING FOR THE PURPOSE SECTION 35 (A) AND (B) OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Individual Income Tax Exemption", "National Internal Revenue Code 
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42233609!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-125"
 
 [[history]]
 date = "2007-06-30"

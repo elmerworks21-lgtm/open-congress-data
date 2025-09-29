@@ -6,7 +6,6 @@ name = "SBN-00798"
 [meta]
 bill_number = 798
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-798", "https://web.senate.gov.ph/lisdata/2433020933!.pdf",]
 title = "CONSOLIDATED INVESTMENTS AND INCENTIVES CODE OF THE PHILIPPINES"
 date_filed = "2016-07-21"
 long_title = "AN ACT HARMONIZING THE GRANT AND ADMINISTRATION OF FISCAL AND NON-FISCAL INCENTIVES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Investment and Incentives Code", "Fiscal Incentives",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2433020933!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-798"
 
 [[history]]
 date = "2016-07-21"

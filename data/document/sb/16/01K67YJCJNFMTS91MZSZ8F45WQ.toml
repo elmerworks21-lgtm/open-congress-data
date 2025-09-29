@@ -6,7 +6,6 @@ name = "SBN-00456"
 [meta]
 bill_number = 456
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-456", "https://web.senate.gov.ph/lisdata/1631914377!.pdf",]
 title = "ANTI-SMUGGLING ACT OF 2013"
 date_filed = "2013-07-04"
 long_title = "AN ACT INSTITUTING REFORMS IN THE BUREAU OF CUSTOMS, INCREASING PENALTIES FOR SMUGGLING AND FOR OTHER PURPOSES, THEREBY AMENDING PRESIDENTIAL DECREE NO. 1464, OTHERWISE KNOWN AS THE TARIFF AND CUSTOMS CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Smuggling", "Tariff and Customs Code (P.D.No. 1464)", "Bureau
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1631914377!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-456"
 
 [[history]]
 date = "2013-07-04"

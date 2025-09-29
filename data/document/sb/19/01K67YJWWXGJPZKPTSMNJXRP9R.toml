@@ -6,7 +6,6 @@ name = "SBN-02764"
 [meta]
 bill_number = 2764
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2764", "https://web.senate.gov.ph/lisdata/4446640416!.pdf",]
 title = "COLLECTION OF TRAVEL TAX"
 date_filed = "2024-08-05"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 1183, OTHERWISE KNOWN AS THE DECREE AMENDING AND CONSOLIDATING THE PROVISIONS ON TRAVEL TAX OF REPUBLIC ACT NO. 1478 AS AMENDED AND REPUBLIC ACT NO. 6141, PRESCRIBING THE MANNER OF COLLECTION THEREOF, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Travel Tax",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4446640416!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2764"
 
 [[history]]
 date = "2024-08-05"

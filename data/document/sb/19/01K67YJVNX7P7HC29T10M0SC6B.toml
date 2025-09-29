@@ -6,7 +6,6 @@ name = "SBN-01168"
 [meta]
 bill_number = 1168
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1168", "https://web.senate.gov.ph/lisdata/3919535633!.pdf",]
 title = "MARITIME SAFETY, SECURITY AND PREVENTION OF SHIP-SOURCED POLLUTION ACT OF THE PHILIPPINES"
 date_filed = "2022-08-15"
 long_title = "AN ACT PROVIDING FOR THE FULL AND EFFECTIVE IMPLEMENTATION AND ENFORCEMENT OF INTERNATIONAL MARITIME INSTRUMENTS OF WHICH THE PHILIPPINES IS A STATE-PARTY"
@@ -15,6 +14,8 @@ subjects = [ "Maritime Safety", "Ship Pollution",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3919535633!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1168"
 
 [[history]]
 date = "2022-08-15"

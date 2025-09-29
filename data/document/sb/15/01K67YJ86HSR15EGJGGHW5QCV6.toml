@@ -6,7 +6,6 @@ name = "SBN-01529"
 [meta]
 bill_number = 1529
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1529", "https://web.senate.gov.ph/lisdata/91057649!.pdf",]
 title = "PREPARING TEACHERS FOR DIGITAL AGE LEARNERS ACT OF 2010"
 date_filed = "2010-07-19"
 long_title = "AN ACT TO AUTHORIZE A PROGRAM TO PREPARE TEACHERS FOR DIGITAL AGE LEARNERS"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Information and Communications Technology (ICT)",]
 authors_raw = "Defensor Santiago, Miriam, Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU", "SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/91057649!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1529"
 
 [[history]]
 date = "2010-07-19"

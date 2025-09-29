@@ -6,7 +6,6 @@ name = "SBN-02168"
 [meta]
 bill_number = 2168
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2168", "https://web.senate.gov.ph/lisdata/42403513!.pdf",]
 title = "CIVIL AVIATION ACT OF 2005"
 date_filed = "2005-11-21"
 long_title = "AN ACT CREATING THE CIVIL AVIATION AUTHORITY OF THE PHILIPPINES FOR THE REGULATION OF ALL CIVIL AVIATION ACTIVITIES AND INSTITUTION OF SAFETY REQUIREMENTS, DEFINING ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Aviation Authority Act",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42403513!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2168"
 
 [[history]]
 date = "2005-11-21"

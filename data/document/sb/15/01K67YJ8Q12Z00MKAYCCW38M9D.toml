@@ -6,7 +6,6 @@ name = "SBN-02358"
 [meta]
 bill_number = 2358
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2358", "https://web.senate.gov.ph/lisdata/99318516!.pdf",]
 title = "SPECIAL EDUCATION ACT OF 2010"
 date_filed = "2010-08-09"
 long_title = "AN ACT ESTABLISHING AT LEAST ONE (1) SPECIAL EDUCATION CENTER FOR EACH SCHOOL DIVISION AND AT LEAST THREE (3) SPECIAL EDUCATION CENTERS IN BIG SCHOOL DIVISIONS FOR CHILDREN WITH SPECIAL NEEDS, GUIDELINES FOR GOVERNMENT FINANCIAL ASSISTANCE AND OTHER INCENTIVES AND SUPPORT"
@@ -15,6 +14,8 @@ subjects = [ "Special Education",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99318516!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2358"
 
 [[history]]
 date = "2010-08-09"

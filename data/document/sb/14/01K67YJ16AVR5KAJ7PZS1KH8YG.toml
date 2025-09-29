@@ -6,7 +6,6 @@ name = "SBN-00698"
 [meta]
 bill_number = 698
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-698", "https://web.senate.gov.ph/lisdata/49204295!.pdf",]
 title = "HEALTH SERVICES COST CONTROL ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT TO REDUCE HEALTH CARE COSTS BY REQUIRING TERTIARY AND SPECIALIZED HOSPITALS TO SHARE CERTAIN SERVICES AND EQUIPMENT"
@@ -15,6 +14,8 @@ subjects = [ "Health Services Cost Control", "Healthcare Services/Health Care De
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49204295!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-698"
 
 [[history]]
 date = "2007-07-03"

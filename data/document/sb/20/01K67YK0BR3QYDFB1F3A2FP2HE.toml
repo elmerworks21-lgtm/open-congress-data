@@ -6,7 +6,6 @@ name = "SBN-00952"
 [meta]
 bill_number = 952
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-952", "https://web.senate.gov.ph/lisdata/4751643522!.pdf",]
 title = "STRENGTHENING THE NATIONAL PROGRAM FOR THE ELIMINATION OF TUBERCULOSIS"
 date_filed = "2025-08-05"
 long_title = "AN ACT STRENGTHENING THE NATIONAL PROGRAM FOR THE ELIMINATION OF TUBERCULOSIS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10767 OR THE COMPREHENSIVE TUBERCULOSIS ELIMINATION PLAN ACT"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Tuberculosis",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4751643522!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-952"
 
 [[history]]
 date = "2025-08-05"

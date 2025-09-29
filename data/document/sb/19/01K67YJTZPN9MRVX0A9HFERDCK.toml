@@ -6,7 +6,6 @@ name = "SBN-00164"
 [meta]
 bill_number = 164
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-164", "https://web.senate.gov.ph/lisdata/3787234313!.pdf",]
 title = "HEALTH WORKERS HOUSING ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING HOUSING TO PUBLIC HEALTH WORKERS NEAR GOVERNMENT HOSPITALS AND OTHER HEALTH FACILITIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Healthcare Workers", "Housing Projects",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EJOSE"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3787234313!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-164"
 
 [[history]]
 date = "2022-07-07"

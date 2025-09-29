@@ -6,7 +6,6 @@ name = "SBN-00160"
 [meta]
 bill_number = 160
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-160", "https://web.senate.gov.ph/lisdata/3043627278!.pdf",]
 title = "LINGAP PARA KAY LOLO AT LOLA ACT"
 date_filed = "2019-07-02"
 long_title = "AN ACT GRANTING UNIVERSAL SOCIAL PENSION TO ALL SENIOR CITIZENS AGED 65 YEARS OLD AND ABOVE, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 7432, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Pension",]
 authors_raw = "Hontiveros, Risa, De Lima, Leila M."
 author_codes = ["DLEIL", "HANAT"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3043627278!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-160"
 
 [[history]]
 date = "2019-07-02"

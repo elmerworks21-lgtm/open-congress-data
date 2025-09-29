@@ -6,7 +6,6 @@ name = "SBN-00202"
 [meta]
 bill_number = 202
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-202", "https://web.senate.gov.ph/lisdata/3046027310!.pdf",]
 title = "DEPARTMENT OF OFW ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT CREATING THE DEPARTMENT OF OVERSEAS FILIPINOS, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, RATIONALIZING THE ORGANIZATION AND FUNCTIONS OF GOVERNMENT AGENCIES RELATED TO MIGRATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Overseas Filipino Workers (DOFW)", "Overseas Filipin
 authors_raw = "Go, Christopher Lawrence T., Tolentino, Francis \"Tol\" N."
 author_codes = ["GCHRI", "TFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3046027310!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-202"
 
 [[history]]
 date = "2019-07-02"

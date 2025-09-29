@@ -6,7 +6,6 @@ name = "SBN-00110"
 [meta]
 bill_number = 110
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-110", "https://web.senate.gov.ph/lisdata/4658742591!.pdf",]
 title = "HEALTH PASSPORT SYSTEM ACT"
 date_filed = "2025-07-03"
 long_title = "AN ACT ESTABLISHING A NATIONAL HEALTH PASSPORT SYSTEM INTEGRATED WITH THE PHILIPPINE IDENTIFICATION SYSTEM (PHILSYS), STRENGTHENING PRIMARY HEALTHCARE BY MANDATING THE DEPARTMENT OF HEALTH AND THE PHILIPPINE HEALTH INSURANCE CORPORATION TO ENSURE THAT EVERY INDIGENT OR DISADVANTAGED FILIPINO CITIZEN RECEIVES, FREE OF CHARGE, A COMPREHENSIVE EXECUTIVE CHECK-UP AT LEAST ONCE A YEAR, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Passport System", "Philippine Identification System (Philsy
 authors_raw = "Cayetano, Alan Peter \"Compañero\" S."
 author_codes = ["CALAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4658742591!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-110"
 
 [[history]]
 date = "2025-07-03"

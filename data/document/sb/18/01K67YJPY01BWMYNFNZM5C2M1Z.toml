@@ -6,7 +6,6 @@ name = "SBN-00809"
 [meta]
 bill_number = 809
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-809", "https://web.senate.gov.ph/lisdata/3118428083!.pdf",]
 title = "TO AMEND SEC.12 OF R. A. NO. 8436, AS AMENDED BY R.A. NO. 9369"
 date_filed = "2019-07-29"
 long_title = "AN ACT TO AMEND SECTION 12 OF REPUBLIC ACT NO. 8436, AS AMENDED BY REPUBLIC ACT NO. 9369 ENTITLED, ‘AN ACT AUTHORIZING THE COMMISSION ON ELECTIONS TO USE AN AUTOMATED ELECTION SYSTEM IN THE MAY 11, 1998 NATIONAL AND LOCAL ELECTORAL EXERCISES’, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Automated Election System (R.A.No. 9369)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3118428083!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-809"
 
 [[history]]
 date = "2019-07-29"

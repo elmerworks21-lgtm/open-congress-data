@@ -6,7 +6,6 @@ name = "SBN-00667"
 [meta]
 bill_number = 667
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-667", "https://web.senate.gov.ph/lisdata/2415720795!.pdf",]
 title = "ANTI-HARASSMENT OF TOURISTS ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT TO PREVENT HARASSMENT OF TOURISTS"
@@ -15,6 +14,8 @@ subjects = [ "Harassment",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["TOURI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2415720795!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-667"
 
 [[history]]
 date = "2016-07-20"

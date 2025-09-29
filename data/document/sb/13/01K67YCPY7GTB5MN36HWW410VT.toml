@@ -6,7 +6,6 @@ name = "SBN-02631"
 [meta]
 bill_number = 2631
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2631", "https://web.senate.gov.ph/lisdata/71515812!.pdf",]
 title = "SCHOOLS FOR CHILDREN WITH SPECIAL NEEDS ACT OF 2007"
 date_filed = "2007-06-04"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF ONE SCHOOL FOR CHILDREN WITH SPECIAL NEEDS IN EVERY MUNICIPALITY THROUGHOUT THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Children (Special Needs)", "Children and Youth with Special Needs"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71515812!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2631"
 
 [[history]]
 date = "2007-06-04"

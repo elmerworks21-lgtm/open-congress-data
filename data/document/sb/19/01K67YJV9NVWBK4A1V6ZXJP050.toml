@@ -6,7 +6,6 @@ name = "SBN-00622"
 [meta]
 bill_number = 622
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-622", "https://web.senate.gov.ph/lisdata/3846534921!.pdf",]
 title = "AMENDING R.A NO. 10066 (NATIONAL CULTURAL HERITAGE ACT OF 2009)"
 date_filed = "2022-07-14"
 long_title = "AN ACT STRENGTHENING THE CONSERVATION AND PROTECTION OF NATIONAL CULTURAL HERITAGE THROUGH ENHANCED CULTURAL HERITAGE EDUCATION PROGRAMS AND CULTURAL MAPPING, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10066 OR THE NATIONAL CULTURAL HERITAGE ACT OF 2009"
@@ -15,6 +14,8 @@ subjects = [ "Cultural Heritage",]
 authors_raw = "Legarda, Loren B., Padilla, Robinhood C."
 author_codes = ["LLORE", "PROBI"]
 committee_codes = ["CULTA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3846534921!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-622"
 
 [[history]]
 date = "2022-07-14"

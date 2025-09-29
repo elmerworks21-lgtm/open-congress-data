@@ -6,7 +6,6 @@ name = "SBN-01458"
 [meta]
 bill_number = 1458
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1458", "https://web.senate.gov.ph/lisdata/2597722335!.pdf",]
 title = "UNIVERSAL HEALTH CARE FOR ALL FILIPINOS ACT"
 date_filed = "2017-05-16"
 long_title = "AN ACT PROVIDING UNIVERSAL HEALTH CARE FOR ALL FILIPINOS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7875, OTHERWISE KNOWN AS THE 'NATIONAL HEALTH INSURANCE ACT OF 1995', AS AMENDED BY REPUBLIC ACT NO. 10606 AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Universal Health Care", "National Health Insurance", "Health Care"
 authors_raw = "Ejercito, Joseph Victor G., Binay, Maria Lourdes Nancy S., De Lima, Leila M., Villar, Cynthia A."
 author_codes = ["BMARI", "DLEIL", "EVICT", "VCYNT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2597722335!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1458"
 
 [[history]]
 date = "2017-05-16"

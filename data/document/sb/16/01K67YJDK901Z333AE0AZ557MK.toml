@@ -6,7 +6,6 @@ name = "SBN-02044"
 [meta]
 bill_number = 2044
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2044", "https://web.senate.gov.ph/lisdata/1845915621!.pdf",]
 title = "PHILIPPINE PRESS FREEDOM DAY"
 date_filed = "2013-12-16"
 long_title = "AN ACT DECLARING NOVEMBER TWENTY-THREE OF EVERY YEAR AS PHILIPPINE PRESS FREEDOM DAY"
@@ -15,6 +14,8 @@ subjects = [ "Journalist Welfare",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1845915621!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2044"
 
 [[history]]
 date = "2013-12-16"

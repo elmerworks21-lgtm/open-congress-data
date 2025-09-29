@@ -6,7 +6,6 @@ name = "SBN-01334"
 [meta]
 bill_number = 1334
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1334", "https://web.senate.gov.ph/lisdata/2538421887!.pdf",]
 title = "COLLECTIVE INVESTMENT SCHEMES LAW"
 date_filed = "2017-02-14"
 long_title = "COLLECTIVE INVESTMENT SCHEMES LAW"
@@ -15,6 +14,8 @@ subjects = [ "Investment Schemes",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2538421887!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1334"
 
 [[history]]
 date = "2017-02-14"

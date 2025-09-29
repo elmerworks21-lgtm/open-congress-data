@@ -6,7 +6,6 @@ name = "SBN-01483"
 [meta]
 bill_number = 1483
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1483", "https://web.senate.gov.ph/lisdata/90007544!.pdf",]
 title = "NATURAL DEATH ACT"
 date_filed = "2010-07-15"
 long_title = "AN ACT RECOGNIZING THE FUNDAMENTAL RIGHT OF ADULT PERSONS TO DECIDE THEIR OWN HEALTH CARE, INCLUDING THE DECISION TO HAVE LIFE-SUSTAINING TREATMENT WITHHELD OR WITHDRAWN IN INSTANCES OF A TERNAL CONDITION OR PERMANENT UNCONSCIOUS CONDITION"
@@ -15,6 +14,8 @@ subjects = [ "Natural Death",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90007544!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1483"
 
 [[history]]
 date = "2010-07-15"

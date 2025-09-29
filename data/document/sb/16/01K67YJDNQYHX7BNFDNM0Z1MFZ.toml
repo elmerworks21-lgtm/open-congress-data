@@ -6,7 +6,6 @@ name = "SBN-02152"
 [meta]
 bill_number = 2152
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2152", "https://web.senate.gov.ph/lisdata/1883615960!.pdf",]
 title = "THE BILL OF RIGHTS OF TAXI PASSENGERS"
 date_filed = "2014-03-03"
 long_title = "AN ACT ORDAINING THE BILL OF RIGHTS OF TAXI PASSENGERS"
@@ -15,6 +14,8 @@ subjects = [ "Taxi Passengers Bill of Rights",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1883615960!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2152"
 
 [[history]]
 date = "2014-03-03"

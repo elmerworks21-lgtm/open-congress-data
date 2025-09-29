@@ -6,7 +6,6 @@ name = "SBN-00357"
 [meta]
 bill_number = 357
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-357", "https://web.senate.gov.ph/lisdata/2379520458!.pdf",]
 title = "ZERO FOOD WASTE ACT"
 date_filed = "2016-07-04"
 long_title = "AN ACT PROVIDING FOR A SYSTEM OF REDISTRIBUTING AND RECYCLING FOOD WASTE TO PROMOTE FOOD SECURITY"
@@ -15,6 +14,8 @@ subjects = [ "Food Security", "Food Waste",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Legarda, Loren B., Villanueva, Joel"
 author_codes = ["APAOL", "LLORE", "VEMMA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2379520458!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-357"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00461"
 [meta]
 bill_number = 461
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-461", "https://web.senate.gov.ph/lisdata/46663989!.pdf",]
 title = "RIVER SYSTEMS AND WATERWAYS ECOLOGICAL ZONES ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT DECLARING AND ESTABLISHING RIVERS, RIVER SYSTEMS, BEACHES, SHORES AND WATERWAYS AS ECOLOGICAL ZONES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "River Systems and Waterways Ecological Zones",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46663989!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-461"
 
 [[history]]
 date = "2007-07-02"

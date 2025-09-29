@@ -6,7 +6,6 @@ name = "SBN-03488"
 [meta]
 bill_number = 3488
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3488", "https://web.senate.gov.ph/lisdata/1277611459!.pdf",]
 title = "OLD TIRES SALE PROHIBITION ACT"
 date_filed = "2009-10-14"
 long_title = "AN ACT PROHIBITING THE SALE OF TIRES AGED OVER SIX (6) YEARS, AND REQUIRING THE STATING OF THE DATE OF MANUFACTURE, AND THE MANDATORY POSTING OF THE DANGERS OF AGED TIRES AT THE POINT OF SALE"
@@ -15,6 +14,8 @@ subjects = [ "Tires",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1277611459!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3488"
 
 [[history]]
 date = "2009-10-14"

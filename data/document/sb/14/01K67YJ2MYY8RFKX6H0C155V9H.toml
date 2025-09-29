@@ -6,7 +6,6 @@ name = "SBN-02535"
 [meta]
 bill_number = 2535
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2535", "https://web.senate.gov.ph/lisdata/80687305!.pdf",]
 title = "ONE TIME PHILIPPINES ACT OF 2008"
 date_filed = "2008-08-13"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE STANDARD TIME TO BE OBSERVED IN ALL GOVERNMENT OFFICES"
@@ -15,6 +14,8 @@ subjects = [ "One Time Philippines Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80687305!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2535"
 
 [[history]]
 date = "2008-08-13"

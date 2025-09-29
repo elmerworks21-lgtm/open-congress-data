@@ -6,7 +6,6 @@ name = "SBN-01846"
 [meta]
 bill_number = 1846
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1846", "https://web.senate.gov.ph/lisdata/4067737070!.pdf",]
 title = "INTERNET TRANSACTIONS ACT OF 2023"
 date_filed = "2023-02-06"
 long_title = "AN ACT PROTECTING CONSUMERS AND MERCHANTS ENGAGED IN INTERNET TRANSACTIONS, CREATING FOR THIS PURPOSE THE ELECTRONIC COMMERCE BUREAU, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internet Transactions", "E-Commerce Bureau",]
 authors_raw = "Gatchalian, Win, Zubiri, Juan Miguel \"Migz\" F., Estrada, Jinggoy E., Villar, Mark A., Marcos, Imee R., Legarda, Loren B., Revilla Jr., Ramon Bong, Villanueva, Joel, Go, Christopher Lawrence T., Padilla, Robinhood C., Villar, Cynthia A."
 author_codes = ["EJING", "GCHRI", "GSHER", "LLORE", "MIMEE", "PROBI", "RRAMO", "VCYNT", "VEMMA", "VMARK", "ZJMIG"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4067737070!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1846"
 
 [[history]]
 date = "2023-02-06"

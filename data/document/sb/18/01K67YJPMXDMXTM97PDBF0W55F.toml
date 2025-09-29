@@ -6,7 +6,6 @@ name = "SBN-00385"
 [meta]
 bill_number = 385
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-385", "https://web.senate.gov.ph/lisdata/3068327531!.pdf",]
 title = "AIR PASSENGER BILL OF RIGHTS ACT"
 date_filed = "2019-07-11"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION OF THE RIGHTS OF AIRLINE PASSENGERS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Airline Passengers Bill of Rights", "Passengers",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3068327531!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-385"
 
 [[history]]
 date = "2019-07-11"

@@ -6,7 +6,6 @@ name = "SBN-00362"
 [meta]
 bill_number = 362
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-362", "https://web.senate.gov.ph/lisdata/4685342860!.pdf",]
 title = "TEACHER SALARY INCREASE ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT PROVIDING FOR A TWENTY THOUSAND PESO ACROSS-THE-BOARD INCREASE IN THE BASIC MONTHLY SALARY OF ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOL TEACHERS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Wage Increase/Salary Increase",]
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4685342860!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-362"
 
 [[history]]
 date = "2025-07-10"

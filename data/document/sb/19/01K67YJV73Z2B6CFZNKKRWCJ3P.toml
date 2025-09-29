@@ -6,7 +6,6 @@ name = "SBN-00505"
 [meta]
 bill_number = 505
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-505", "https://web.senate.gov.ph/lisdata/3826634704!.pdf",]
 title = "PHILIPPINE SELF-RELIANT DEFENSE POSTURE PROGRAM ACT"
 date_filed = "2022-07-13"
 long_title = "AN ACT INSTITUTIONALIZING A PHILIPPINE SELF-RELIANT DEFENSE POSTURE PROGRAM AND PROMOTING THE DEVELOPMENT OF A NATIONAL DEFENSE INDUSTRY PURSUANT THERETO"
@@ -15,6 +14,8 @@ subjects = [ "Self Reliant Defense Posture (SRDP) Program", "National Defense In
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3826634704!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-505"
 
 [[history]]
 date = "2022-07-13"

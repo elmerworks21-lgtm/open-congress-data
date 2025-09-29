@@ -6,7 +6,6 @@ name = "SBN-00310"
 [meta]
 bill_number = 310
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-310", "https://web.senate.gov.ph/lisdata/1613513362!.pdf",]
 title = "LIVESTOCK DEVELOPMENT COUNCIL"
 date_filed = "2013-07-02"
 long_title = "AN ACT PROVIDING INDEMNIFICATION FOR OWNERS WHOSE LIVESTOCK ARE AFFECTED BY HIGHLY COMMUNICABLE DISEASES, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 914, ENTITLED 'AN ACT CREATING THE LIVESTOCK DEVELOPMENT COUNCIL, DEFINING ITS POWERS AND FUNCTIONS AND PROVIDING FUNDS THEREFOR, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Livestock",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1613513362!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-310"
 
 [[history]]
 date = "2013-07-02"

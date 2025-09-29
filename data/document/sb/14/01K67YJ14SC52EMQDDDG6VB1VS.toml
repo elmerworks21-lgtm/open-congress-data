@@ -6,7 +6,6 @@ name = "SBN-00619"
 [meta]
 bill_number = 619
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-619", "https://web.senate.gov.ph/lisdata/48304205!.pdf",]
 title = "NATIONAL BOOK DEVELOPMENT TRUST FUND ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT CREATING A NATIONAL BOOK DEVELOPMENT TRUST FUND TO SUPPORT FILIPINO AUTHORSHIP"
@@ -15,6 +14,8 @@ subjects = [ "National Book Development Trust Fund",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48304205!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-619"
 
 [[history]]
 date = "2007-07-03"

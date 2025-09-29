@@ -6,7 +6,6 @@ name = "SBN-02150"
 [meta]
 bill_number = 2150
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2150", "https://web.senate.gov.ph/lisdata/70916334!.pdf",]
 title = "RIGHT OF REPLY"
 date_filed = "2008-04-03"
 long_title = "AN ACT GRANTING THE RIGHT OF REPLY AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Right of Reply",]
 authors_raw = "Pimentel Jr., Aquilino Q., Revilla Jr., Ramon A., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "PAQUI", "RRAMO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/70916334!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2150"
 
 [[history]]
 date = "2008-04-03"

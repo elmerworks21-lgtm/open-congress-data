@@ -6,7 +6,6 @@ name = "SBN-01803"
 [meta]
 bill_number = 1803
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1803", "https://web.senate.gov.ph/lisdata/93787915!.pdf",]
 title = "PENALIZING THE FAILURE TO REPORT ACTS OF HAZING"
 date_filed = "2010-07-21"
 long_title = "AN ACT PENALIZING THE FAILURE TO REPORT ACTS OF HAZING, AMENDING REPUBLIC ACT NO. 8049"
@@ -15,6 +14,8 @@ subjects = [ "Hazing",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/93787915!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1803"
 
 [[history]]
 date = "2010-07-21"

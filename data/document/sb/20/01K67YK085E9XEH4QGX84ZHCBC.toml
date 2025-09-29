@@ -6,7 +6,6 @@ name = "SBN-00760"
 [meta]
 bill_number = 760
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-760", "https://web.senate.gov.ph/lisdata/4729843297!.pdf",]
 title = "ENHANCED STARTUP LAW"
 date_filed = "2025-07-29"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11337, OTHERWISE KNOWN AS THE 'INNOVATIVE STARTUP ACT,' BY EXPANDING THE DEFINITION OF STARTUPS, STRENGTHENING INTER-AGENCY COORDINATION, ESTABLISHING A STARTUP PROGRAM SECRETARIAT, AND PROVIDING ADDITIONAL MEASURES TO PROMOTE INNOVATION-DRIVEN ENTERPRISES"
@@ -15,6 +14,8 @@ subjects = [ "Startup Ecosystem", "Enhanced Startup Law",]
 authors_raw = "Aquino, Bam"
 author_codes = ["BAQUI"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4729843297!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-760"
 
 [[history]]
 date = "2025-07-29"

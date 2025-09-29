@@ -6,7 +6,6 @@ name = "SBN-02245"
 [meta]
 bill_number = 2245
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2245", "https://web.senate.gov.ph/lisdata/72376471!.pdf",]
 title = "EXPLOSIVES AND CHEMICALS"
 date_filed = "2008-05-05"
 long_title = "AN ACT PROVIDING FOR STRICT REGULATION AND STIFFER PENALTIES FOR THE ILLEGAL/UNLAWFUL IMPORTATION, MANUFACTURE, ACQUISITION, SALE, DISPOSITION OR POSSESSION OF EXPLOSIVES AND CHEMICALS OR ACCESSORIES USED IN THE MANUFACTURE OF EXPLOSIVES, REPEALING EXECUTIVE ORDER NO. 522 AND AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 1866, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Presidential Decrees (P.D.No. 1866)", "Firearms, Ammunition or Exp
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72376471!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2245"
 
 [[history]]
 date = "2008-05-05"

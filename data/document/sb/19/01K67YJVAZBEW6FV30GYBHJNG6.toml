@@ -6,7 +6,6 @@ name = "SBN-00683"
 [meta]
 bill_number = 683
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-683", "https://web.senate.gov.ph/lisdata/3861835073!.pdf",]
 title = "DISABILITY PENSION OF VETERANS"
 date_filed = "2022-07-18"
 long_title = "AN ACT RATIONALIZING THE DISABILITY PENSION OF VETERANS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6948, ENTITLED, 'AN ACT STANDARDIZING AND UPGRADING THE BENEFITS FOR MILITARY VETERANS AND THEIR BENEFICIARIES,' AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Veterans", "Disability Pension", "Benefits and Incentives",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3861835073!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-683"
 
 [[history]]
 date = "2022-07-18"

@@ -6,7 +6,6 @@ name = "SBN-00158"
 [meta]
 bill_number = 158
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-158", "https://web.senate.gov.ph/lisdata/2358020208!.pdf",]
 title = "TUITION-FREE HIGHER EDUCATION ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FOR A FULL TUITION SUBSIDY FOR STUDENTS ENROLLED IN STATE UNIVERSITIES AND COLLEGES (SUCS), AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tuition Fees", "Students", "State Colleges and Universities (SCUS)
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2358020208!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-158"
 
 [[history]]
 date = "2016-06-30"

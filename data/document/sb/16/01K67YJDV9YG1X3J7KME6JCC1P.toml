@@ -6,7 +6,6 @@ name = "SBN-02377"
 [meta]
 bill_number = 2377
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2377", "https://web.senate.gov.ph/lisdata/1971216837!.pdf",]
 title = "CAREER AWARENESS ACT OF 2014"
 date_filed = "2014-08-27"
 long_title = "AN ACT MANDATING THE DEVELOPMENT OF AN AGE SPECIFIC PROGRAM FOR STUDENTS REGARDING CAREER OPPORTUNITIES"
@@ -15,6 +14,8 @@ subjects = [ "Students",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1971216837!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2377"
 
 [[history]]
 date = "2014-08-27"

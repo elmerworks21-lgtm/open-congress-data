@@ -6,7 +6,6 @@ name = "SBN-01494"
 [meta]
 bill_number = 1494
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1494", "https://web.senate.gov.ph/lisdata/3268429553!.pdf",]
 title = "PNP-IAS REFORM ACT OF 2016"
 date_filed = "2020-05-04"
 long_title = "AN ACT TO STRENGTHEN THE INTERNAL AFFAIRS SERVICE OF THE PHILIPPINE NATIONAL POLICE, AND FOR THIS PURPOSE AMENDING CERTAIN PROVISIONS OF THE PNP LAW UNDER REPUBLIC ACT SIXTY NINE AND SEVENTY FIVE (RA 6975) AS AMENDED BY REPUBLIC ACT EIGHTY FIVE HUNDRED AND FIFTY ONE (RA 8551), AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine National Police (PNP)", "Internal Affairs Service",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3268429553!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1494"
 
 [[history]]
 date = "2020-05-04"

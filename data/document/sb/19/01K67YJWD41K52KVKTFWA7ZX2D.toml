@@ -6,7 +6,6 @@ name = "SBN-02159"
 [meta]
 bill_number = 2159
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2159", "https://web.senate.gov.ph/lisdata/4156337844!.pdf",]
 title = "AMENDING R.A. NO. 11213 AS THE TAX AMNESTY ACT"
 date_filed = "2023-05-09"
 long_title = "AN ACT EXTENDING THE PERIOD OF AVAILMENT OF THE ESTATE TAX AMNESTY, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11213, AS AMENDED, OTHERWISE KNOWN AS THE TAX AMNESTY ACT"
@@ -15,6 +14,8 @@ subjects = [ "Tax Amnesty", "Taxes (Estate Tax)", "Estate Tax",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4156337844!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2159"
 
 [[history]]
 date = "2023-05-09"

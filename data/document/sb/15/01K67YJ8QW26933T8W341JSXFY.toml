@@ -6,7 +6,6 @@ name = "SBN-02392"
 [meta]
 bill_number = 2392
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2392", "https://web.senate.gov.ph/lisdata/99798560!.pdf",]
 title = "SAMAR ISLAND NATURAL PARK (SINP) ACT OF 2010"
 date_filed = "2010-08-12"
 long_title = "AN ACT DECLARING THE SAMAR ISLAND NATURAL PARK (SINP), SITUATED IN THE PROVINCES OF SAMAR, NORTHERN SAMAR AND EASTERN SAMAR, AS PROTECTD AREA AND ITS PERIPHERAL AREAS AS BUFFER ZONE, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Protected Landscape", "Protected Area",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99798560!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2392"
 
 [[history]]
 date = "2010-08-12"

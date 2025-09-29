@@ -6,7 +6,6 @@ name = "SBN-01150"
 [meta]
 bill_number = 1150
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1150", "https://web.senate.gov.ph/lisdata/1718814426!.pdf",]
 title = "PRE-HOSPITAL EMERGENCY CARE ACT OF 2013"
 date_filed = "2013-07-29"
 long_title = "AN ACT INSTITUTIONALIZING A PRE-HOSPITAL EMERGENCY MEDICAL CARE SYSTEM, PROVIDING FOR THE ESTABLISHMENT, SUPERVISION AND REGULATION OF THE PRE-HOSPITAL EMERGENCY CARE PROFESSION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pre-Hospital Emergency Care System",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1718814426!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1150"
 
 [[history]]
 date = "2013-07-29"

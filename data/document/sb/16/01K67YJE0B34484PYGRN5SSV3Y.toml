@@ -6,7 +6,6 @@ name = "SBN-02592"
 [meta]
 bill_number = 2592
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2592", "https://web.senate.gov.ph/lisdata/2046317565!.pdf",]
 title = "BONE MARROW FAILURE DISEASE RESEARCH ACT"
 date_filed = "2015-01-28"
 long_title = "AN ACT TO ESTABLISH A NATIONAL ACQUIRED BONE MARROW FAILURE DISEASE REGISTRY ON ACQUIRED BONE MARROW FAILURE DISEASES"
@@ -15,6 +14,8 @@ subjects = [ "Bone Marrow Failure Diseases",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2046317565!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2592"
 
 [[history]]
 date = "2015-01-28"

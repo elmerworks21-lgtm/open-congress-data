@@ -6,7 +6,6 @@ name = "SBN-02511"
 [meta]
 bill_number = 2511
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2511", "https://web.senate.gov.ph/lisdata/3741433801!.pdf",]
 title = "AMENDING MENTAL HEALTH ACT"
 date_filed = "2022-03-23"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11036 OTHERWISE KNOWN AS THE 'MENTAL HEALTH ACT,' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mental Health", "Health Facilities",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3741433801!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2511"
 
 [[history]]
 date = "2022-03-23"

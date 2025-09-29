@@ -6,7 +6,6 @@ name = "SBN-02466"
 [meta]
 bill_number = 2466
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2466", "https://web.senate.gov.ph/lisdata/60385031!.pdf",]
 title = "WORKERS' CONSTITUTIONAL RIGHT TO SELF ORGANIZATION"
 date_filed = "2006-09-19"
 long_title = "AN ACT STRENGTHENING THE WORKERS' CONSTITUTIONAL RIGHT TO SELF-ORGANIZATION, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES,"
@@ -15,6 +14,8 @@ subjects = [ "Workers Right to Self-Organization",]
 authors_raw = "Pangilinan, Francis N., Gordon, Richard \"Dick\" J., Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING", "GRICH", "PFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60385031!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2466"
 
 [[history]]
 date = "2006-09-19"

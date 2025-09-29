@@ -6,7 +6,6 @@ name = "SBN-01683"
 [meta]
 bill_number = 1683
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1683", "https://web.senate.gov.ph/lisdata/92567786!.pdf",]
 title = "FAMILY WELFARE"
 date_filed = "2010-07-21"
 long_title = "AN ACT TO AMEND PRESIDENTIAL DECREE NO. 442, BOOK IV, TO INCLUDE AN ADDITIONAL TITLE ON FAMILY WELFARE"
@@ -15,6 +14,8 @@ subjects = [ "Family Planning", "Labor Code of the Philippines (P.D.No. 442; Ame
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/92567786!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1683"
 
 [[history]]
 date = "2010-07-20"

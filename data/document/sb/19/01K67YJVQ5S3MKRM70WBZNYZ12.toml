@@ -6,7 +6,6 @@ name = "SBN-01225"
 [meta]
 bill_number = 1225
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1225", "https://web.senate.gov.ph/lisdata/3922035657!.pdf",]
 title = "SOUTHERN LEYTE STATE UNIVERSITY-PINTUYAN CAMPUS ACT"
 date_filed = "2022-08-23"
 long_title = "AN ACT INTEGRATING THE PINTUYAN NATIONAL VOCATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF PINTUYAN, PROVINCE OF SOUTHERN LEYTE, INTO THE SOUTHERN LEYTE STATE UNIVERSITY (SLSU) SYSTEM, TO BE KNOWN AS THE SLSU-PINTUYAN CAMPUS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "State Universities and Colleges (SUCS)",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3922035657!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1225"
 
 [[history]]
 date = "2022-08-23"

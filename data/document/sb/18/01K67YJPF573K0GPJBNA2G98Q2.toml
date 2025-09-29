@@ -6,7 +6,6 @@ name = "SBN-00131"
 [meta]
 bill_number = 131
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-131", "https://web.senate.gov.ph/lisdata/3038427230!.pdf",]
 title = "UPGRADING THE MINIMUM SALARY GRADE LEVEL OF TEACHERS"
 date_filed = "2019-07-02"
 long_title = "AN ACT UPGRADING THE MINIMUM SALARY GRADE LEVEL OF TEACHERS FROM SALARY GRADE LEVEL 11 TO 19"
@@ -15,6 +14,8 @@ subjects = [ "Public School Teachers", "Salary Grade Level",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3038427230!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-131"
 
 [[history]]
 date = "2019-07-02"

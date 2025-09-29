@@ -6,7 +6,6 @@ name = "SBN-02102"
 [meta]
 bill_number = 2102
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2102", "https://web.senate.gov.ph/lisdata/1865415774!.pdf",]
 title = "AMENDING SEC. 86 (A) (4), NATIONAL INTERNAL REVENUE CODE"
 date_filed = "2014-02-04"
 long_title = "AN ACT AMENDING SECTION 86 (A) (4) OF REPUBLIC ACT NO. 8424, AS AMENDED, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes/Taxation", "Family 
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1865415774!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2102"
 
 [[history]]
 date = "2014-02-04"

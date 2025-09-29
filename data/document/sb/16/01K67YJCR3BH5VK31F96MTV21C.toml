@@ -6,7 +6,6 @@ name = "SBN-00718"
 [meta]
 bill_number = 718
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-718", "https://web.senate.gov.ph/lisdata/1662313861!.pdf",]
 title = "THE TAXPAYER BILL OF RIGHTS ACT OF 2013"
 date_filed = "2013-07-10"
 long_title = "AN ACT ORDAINING A BILL OF RIGHTS FOR TAXPAYERS"
@@ -15,6 +14,8 @@ subjects = [ "Bill of Rights",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1662313861!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-718"
 
 [[history]]
 date = "2013-07-10"

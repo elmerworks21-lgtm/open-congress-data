@@ -6,7 +6,6 @@ name = "SBN-00909"
 [meta]
 bill_number = 909
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-909", "https://web.senate.gov.ph/lisdata/1693514172!.pdf",]
 title = "SICK LEAVE BANK ACT"
 date_filed = "2013-07-18"
 long_title = "AN ACT CREATING A SICK LEAVE BANK FOR GOVERNMENT EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Sick Leave Bank (Government Employees)", "Leave of Absence",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1693514172!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-909"
 
 [[history]]
 date = "2013-07-18"

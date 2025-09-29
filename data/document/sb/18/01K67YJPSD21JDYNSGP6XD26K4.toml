@@ -6,7 +6,6 @@ name = "SBN-00599"
 [meta]
 bill_number = 599
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-599", "https://web.senate.gov.ph/lisdata/3088427875!.pdf",]
 title = "SECRETARY OF THE DEPARTMENT OF AGRICULTURE AS CHAIRPERSON OF THE NATIONAL FOOD AUTHORITY"
 date_filed = "2019-07-17"
 long_title = "AN ACT DESIGNATING THE SECRETARY OF THE DEPARTMENT OF AGRICULTURE AS CHAIRPERSON OF THE NATIONAL FOOD AUTHORITY COUNCIL"
@@ -15,6 +14,8 @@ subjects = [ "Department of Agriculture", "National Food Authority (NFA)",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3088427875!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-599"
 
 [[history]]
 date = "2019-07-17"

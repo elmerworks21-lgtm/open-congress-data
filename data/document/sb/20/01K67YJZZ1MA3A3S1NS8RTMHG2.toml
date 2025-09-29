@@ -6,7 +6,6 @@ name = "SBN-00271"
 [meta]
 bill_number = 271
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-271", "https://web.senate.gov.ph/lisdata/4676042767!.pdf",]
 title = "UPGRADING THE MINIMUM SALARY GRADE LEVEL OF NURSES"
 date_filed = "2025-07-08"
 long_title = "AN ACT UPGRADING THE MINIMUM SALARY GRADE LEVEL OF NURSES FROM SALARY GRADE 15 TO 19, AMENDING SEC. 32 OF REPUBLIC ACT NO. 9173, OTHERWISE KNOWN AS 'THE PHILIPPINE NURSING ACT OF 2002'"
@@ -15,6 +14,8 @@ subjects = [ "Nurses/Nursing", "Salary Grade Level",]
 authors_raw = "Aquino, Bam"
 author_codes = ["BAQUI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4676042767!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-271"
 
 [[history]]
 date = "2025-08-05"

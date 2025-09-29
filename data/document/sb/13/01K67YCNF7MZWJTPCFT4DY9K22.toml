@@ -6,7 +6,6 @@ name = "SBN-00191"
 [meta]
 bill_number = 191
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-191", "https://web.senate.gov.ph/lisdata/13391147!.pdf",]
 title = "HEALTH MAINTENANCE ORGANIZATIONS (HMOs) ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING AFFORDABLE HEALTH CARE SERVICES, THROUGH THE HEALTH MAINTENANCE ORGANIZATIONS, REGULATING THEIR OPERATIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Maintenance Organizations (HMOS)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/13391147!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-191"
 
 [[history]]
 date = "2004-06-30"

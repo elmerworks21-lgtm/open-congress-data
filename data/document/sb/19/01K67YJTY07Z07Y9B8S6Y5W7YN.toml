@@ -6,7 +6,6 @@ name = "SBN-00091"
 [meta]
 bill_number = 91
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-91", "https://web.senate.gov.ph/lisdata/3779434235!.pdf",]
 title = "EHEALTH SYSTEM AND SERVICES ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE EHEALTH SYSTEM AND SERVICES IN SUPPORT OF UNIVERSAL HEALTH CARE USING INFORMATION AND COMMUNICATIONS TECHNOLOGY IN THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Angara, Sonny, Gatchalian, Win, Villanueva, Joel"
 author_codes = ["ASONN", "GSHER", "VEMMA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3779434235!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-91"
 
 [[history]]
 date = "2022-07-07"

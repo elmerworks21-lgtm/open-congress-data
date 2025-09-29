@@ -6,7 +6,6 @@ name = "SBN-00938"
 [meta]
 bill_number = 938
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-938", "https://web.senate.gov.ph/lisdata/4756043566!.pdf",]
 title = "SENIOR CITIZENS FRAUD EDUCATION ACT"
 date_filed = "2025-08-05"
 long_title = "AN ACT EDUCATING THE PUBLIC, SENIOR CITIZENS, THEIR FAMILIES AND THEIR CAREGIVERS ON IDENTIFYING AND PREVENTING FRAUDULENT ACTIVITIES TARGETING SENIOR CITIZENS"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens Fraud Education", "Senior Citizen/Elderly",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4756043566!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-938"
 
 [[history]]
 date = "2025-08-05"

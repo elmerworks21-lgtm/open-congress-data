@@ -6,7 +6,6 @@ name = "SBN-01858"
 [meta]
 bill_number = 1858
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1858", "https://web.senate.gov.ph/lisdata/4070937104!.pdf",]
 title = "COMPREHENSIVE LUPUS PREVENTION ACT"
 date_filed = "2023-02-09"
 long_title = "AN ACT INSTITUTING A NATIONAL HEALTH PROGRAM TO COMBAT SYSTEMIC LUPUS ERYTHEMATOSUS (SLE) DISEASE AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Lupus Disease", "Systemic Lupus Erythematosus (SLE)",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4070937104!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1858"
 
 [[history]]
 date = "2023-02-09"

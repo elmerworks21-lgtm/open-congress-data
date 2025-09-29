@@ -6,7 +6,6 @@ name = "SBN-02456"
 [meta]
 bill_number = 2456
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2456", "https://web.senate.gov.ph/lisdata/59724883!.pdf",]
 title = "SAFETY MEASURES FOR CULVERTS/DRAINAGE SYSTEMS"
 date_filed = "2006-09-05"
 long_title = "AN ACT PROVIDING FOR SAFETY MEASURES FOR CULVERTS OR OTHER SIMILAR FLOOD OR DRAINAGE SYSTEMS MAINTAINED BY GOVERNMENTAL ENTITIES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/59724883!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2456"
 
 [[history]]
 date = "2006-09-05"

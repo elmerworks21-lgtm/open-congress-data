@@ -6,7 +6,6 @@ name = "SBN-00945"
 [meta]
 bill_number = 945
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-945", "https://web.senate.gov.ph/lisdata/3133928236!.pdf",]
 title = "GALING PINOY KOMIKS SUPPORT ACT"
 date_filed = "2019-08-20"
 long_title = "AN ACT TO ENHANCE GENUINE FILIPINO CULTURE, PROMOTE NATIONALISM, AND RECOGNIZE WRITERS AND ARTISTS, BY SUPPORTING THE PHILIPPINE KOMIKS INDUSTRY THROUGH ITS MANDATED USE IN INSTRUCTIONAL MATERIALS IN PUBLIC SCHOOLS, PROVIDING FINANCIAL INCENTIVES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Komiks",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3133928236!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-945"
 
 [[history]]
 date = "2019-08-20"

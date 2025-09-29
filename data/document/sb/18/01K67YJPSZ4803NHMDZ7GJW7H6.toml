@@ -6,7 +6,6 @@ name = "SBN-00629"
 [meta]
 bill_number = 629
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-629", "https://web.senate.gov.ph/lisdata/3097527861!.pdf",]
 title = "SOILLESS AGRICULTURAL PRODUCTION ACT OF 2019"
 date_filed = "2019-07-18"
 long_title = "AN ACT PROMOTING THE USE OF AEROPONICS, HYDROPONICS AND AQUAPONICS FOR THE PRODUCTION OF HIGH VALUE FISH, CROPS AND VEGETABLES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Hydroponics Agriculture", "Agriculture Training", "Aeroponics Tech
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3097527861!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-629"
 
 [[history]]
 date = "2019-07-18"

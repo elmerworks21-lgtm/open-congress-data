@@ -6,7 +6,6 @@ name = "SBN-02539"
 [meta]
 bill_number = 2539
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2539", "https://web.senate.gov.ph/lisdata/4342339507!.pdf",]
 title = "INCREASING THE BED CAPACITY OF THE PHILIPPINE GENERAL HOSPITAL"
 date_filed = "2024-02-07"
 long_title = "AN ACT INCREASING THE BED CAPACITY OF THE PHILIPPINE GENERAL HOSPITAL FROM ONE THOUSAND AND FIVE HUNDRED BEDS (1,500) TO TWO THOUSAND AND TWO HUNDRED BEDS (2,200) AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4342339507!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2539"
 
 [[history]]
 date = "2024-02-07"

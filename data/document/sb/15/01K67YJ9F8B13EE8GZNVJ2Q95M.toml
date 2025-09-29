@@ -6,7 +6,6 @@ name = "SBN-03081"
 [meta]
 bill_number = 3081
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3081", "https://web.senate.gov.ph/lisdata/1254410603!.pdf",]
 title = "REQUISITES FOR CREATION OF A MUNICIPALITY"
 date_filed = "2011-12-05"
 long_title = "AN ACT AMENDING SECTION 450 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, AS AMENDED, ALLOWING THE CONVERSION OF A MUNICIPALITY WHICH HAS A LAND AREA OF AT LEAST FIFTY (50) SQUARE KILOMETERS OR INHABITANTS OF AT LEAST TWENTY-FIVE THOUSAND (25,000) INTO A COMPONENT CITY IF IT HAS AN ANNUAL AVERAGE LOCALLY GENERATED INCOME OF AT LEAST TWO HUNDRED TWENTY MILLION PESOS (P220,000,000.00) FOR THE LAST TWO CONSECUTIVE YEARS BASED ON 2010 CONSTANT PRICES"
@@ -15,6 +14,8 @@ subjects = [ "Municipality, Creation", "Local Government Code, Amendments (R.A.N
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1254410603!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3081"
 
 [[history]]
 date = "2011-12-05"

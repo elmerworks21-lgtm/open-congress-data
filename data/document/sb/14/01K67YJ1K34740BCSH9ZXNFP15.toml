@@ -6,7 +6,6 @@ name = "SBN-01322"
 [meta]
 bill_number = 1322
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1322", "https://web.senate.gov.ph/lisdata/56224999!.pdf",]
 title = "PROTECTION FROM INVOLUNTARY COLLECTION ACT"
 date_filed = "2007-07-24"
 long_title = "AN ACT TO PROTECT INDIVIDUALS FROM HAVING THEIR MONEY INVOLUNTARILY COLLECTED AND USED FOR POLITICAL ACTIVITIES BY A CORPORATION, ORGANIZATION OR GROUP"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56224999!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1322"
 
 [[history]]
 date = "2007-07-24"

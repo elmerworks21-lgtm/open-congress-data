@@ -6,7 +6,6 @@ name = "SBN-00816"
 [meta]
 bill_number = 816
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-816", "https://web.senate.gov.ph/lisdata/3857535026!.pdf",]
 title = "ANTI-ELDER ABUSE ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT PROVIDING PROTECTION TO THE ELDERLY AGAINST ABUSE, NEGLECT, AND EXPLOITATION, AND PRESCRIBING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Elder Abuse", "Senior Citizen/Elderly",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3857535026!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-816"
 
 [[history]]
 date = "2022-07-25"

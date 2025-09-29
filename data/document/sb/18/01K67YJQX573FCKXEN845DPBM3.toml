@@ -6,7 +6,6 @@ name = "SBN-02123"
 [meta]
 bill_number = 2123
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2123", "https://web.senate.gov.ph/lisdata/3479231625!.pdf",]
 title = "EXPANDED STIMULUS PACKAGE ACT OF 2021"
 date_filed = "2021-03-24"
 long_title = "AN ACT AUGMENTING THE STIMULUS PACKAGE FOR COVID-19 RESPONSE AND RECOVERY INTERVENTIONS AND PROVIDING MECHANISMS TO STRENGTHENING THE IMPLEMENTATION OF THE SAME, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Covid-19",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3479231625!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2123"
 
 [[history]]
 date = "2021-03-24"

@@ -6,7 +6,6 @@ name = "SBN-01009"
 [meta]
 bill_number = 1009
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1009", "https://web.senate.gov.ph/lisdata/52804657!.pdf",]
 title = "PARENTS EMPOWERMENT ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT TO PROVIDE A CIVIL ACTION FOR A MINOR INJURED BY EXPOSURE TO AN ENTERTAINMENT PRODUCT CONTAINING MATERIAL THAT IS HARMFUL TO MINORS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Parents Empowerment",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52804657!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1009"
 
 [[history]]
 date = "2007-07-04"

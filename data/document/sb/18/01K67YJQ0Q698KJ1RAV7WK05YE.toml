@@ -6,7 +6,6 @@ name = "SBN-00939"
 [meta]
 bill_number = 939
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-939", "https://web.senate.gov.ph/lisdata/3133328229!.pdf",]
 title = "SCHOOL BUS SAFETY ACT"
 date_filed = "2019-08-20"
 long_title = "AN ACT PRESCRIBING SCHOOL BUS SAFETY STANDARDS AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "School Bus",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3133328229!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-939"
 
 [[history]]
 date = "2019-08-20"

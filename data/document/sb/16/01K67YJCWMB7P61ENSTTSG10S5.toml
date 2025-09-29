@@ -6,7 +6,6 @@ name = "SBN-00935"
 [meta]
 bill_number = 935
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-935", "https://web.senate.gov.ph/lisdata/1697014199!.pdf",]
 title = "TEACHERS OF CHILDREN WITH SPECIAL NEEDS ENHANCEMENT ACT"
 date_filed = "2013-07-18"
 long_title = "AN ACT ESTABLISHING A COMPREHENSIVE TRAINING PROGRAM FOR TEACHERS OF CHILDREN WITH SPECIAL NEEDS"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Children with Special Needs",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1697014199!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-935"
 
 [[history]]
 date = "2013-07-18"

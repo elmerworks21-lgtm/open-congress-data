@@ -6,7 +6,6 @@ name = "SBN-01115"
 [meta]
 bill_number = 1115
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1115", "https://web.senate.gov.ph/lisdata/2471021307!.pdf",]
 title = "MAGNA CARTA FOR DAY CARE WORKERS"
 date_filed = "2016-08-30"
 long_title = "AN ACT GRANTING THE MAGNA CARTA FOR DAY CARE WORKERS, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Day Care Workers", "Day Care Centers/Day Care Faci
 authors_raw = "Villar, Cynthia A., Ejercito, Joseph Victor G."
 author_codes = ["EVICT", "VCYNT"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2471021307!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1115"
 
 [[history]]
 date = "2016-08-30"

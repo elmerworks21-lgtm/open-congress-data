@@ -6,7 +6,6 @@ name = "SBN-02643"
 [meta]
 bill_number = 2643
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2643", "https://web.senate.gov.ph/lisdata/106089074!.pdf",]
 title = "JOBS ACT OF 2011"
 date_filed = "2011-01-20"
 long_title = "AN ACT PROMOTING JOB GENERATION BY PROVIDING ADDITIONAL INCENTIVES TO MICRO, SMALL AND MEDIUM ENTERPRISES"
@@ -15,6 +14,8 @@ subjects = [ "Small and Medium Enterprises", "Micro Enterprises", "Micro, Small 
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106089074!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2643"
 
 [[history]]
 date = "2011-01-20"

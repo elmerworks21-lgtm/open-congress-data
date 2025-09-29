@@ -6,7 +6,6 @@ name = "SBN-01616"
 [meta]
 bill_number = 1616
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1616", "https://web.senate.gov.ph/lisdata/1772414977!.pdf",]
 title = "INFERTILITY TREATMENT IN HEALTH INSURANCE ACT"
 date_filed = "2013-09-10"
 long_title = "AN ACT REQUIRING COVERAGE FOR THE TREATMENT OF INFERTILITY IN ANY GROUP HEALTH PLAN OR HEALTH INSURANCE"
@@ -15,6 +14,8 @@ subjects = [ "Infertility", "Health Insurance",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1772414977!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1616"
 
 [[history]]
 date = "2013-09-10"

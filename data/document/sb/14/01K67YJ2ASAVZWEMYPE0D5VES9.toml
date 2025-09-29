@@ -6,7 +6,6 @@ name = "SBN-02099"
 [meta]
 bill_number = 2099
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2099", "https://web.senate.gov.ph/lisdata/69586198!.pdf",]
 title = "SURVIVORSHIP BENEFITS PAYMENT (COA, CSC, COMELEC, OMBUDSMAN DECEASED RETIRED MEMBERS)"
 date_filed = "2008-03-03"
 long_title = "AN ACT PROVIDING FOR THE PAYMENT OF SURVIVORSHIP BENEFITS TO THE SURVIVING LEGITIMATE SPOUSE OF A DECEASED RETIRED MEMBER OF THE COMMISSION ON AUDIT, CIVIL SERVICE COMMISSION, COMMISSION ON ELECTIONS, AND THE OMBUDSMAN AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Survivors Benefits",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/69586198!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2099"
 
 [[history]]
 date = "2008-03-03"

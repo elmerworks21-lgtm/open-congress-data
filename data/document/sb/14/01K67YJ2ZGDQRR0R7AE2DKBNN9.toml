@@ -6,7 +6,6 @@ name = "SBN-03010"
 [meta]
 bill_number = 3010
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3010", "https://web.senate.gov.ph/lisdata/100669027!.pdf",]
 title = "SUSTAINABLE MANAGEMENT OF FOREST ACT OF 2009"
 date_filed = "2009-01-21"
 long_title = "AN ACT PROVIDING FOR THE SUSTAINABLE MANAGEMENT OF FOREST RESOURCES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forest Management", "Sustainable Forest Management",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/100669027!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3010"
 
 [[history]]
 date = "2009-01-21"

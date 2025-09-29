@@ -6,7 +6,6 @@ name = "SBN-02016"
 [meta]
 bill_number = 2016
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2016", "https://web.senate.gov.ph/lisdata/34422791!.pdf",]
 title = "PREGNANT WOMEN"
 date_filed = "2005-05-19"
 long_title = "AN ACT TO ENSURE EVERY PREGNANT WOMAN'S ACCESS TO SKILLED BIRTH ATTENDANT AT THE TIME OF CHILDBIRTH AND IMMEDIATELY THEREAFTER"
@@ -15,6 +14,8 @@ subjects = [ "Women (Pregnant)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34422791!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2016"
 
 [[history]]
 date = "2005-05-19"

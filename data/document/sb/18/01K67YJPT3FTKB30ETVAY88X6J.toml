@@ -6,7 +6,6 @@ name = "SBN-00635"
 [meta]
 bill_number = 635
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-635", "https://web.senate.gov.ph/lisdata/3098527851!.pdf",]
 title = "AUTOMATED TELLER MACHINE (ATM) FEE REGULATORY ACT"
 date_filed = "2019-07-22"
 long_title = "AN ACT REQUIRING FINANCIAL INSTITUTIONS TO POST TRANSACTION FEES FOR EACH AUTOMATED TELLER MACHINE TRANSACTION AND RESTRICTING TRANSACTION FEES FOR AUTOMATED TELLER MACHINES"
@@ -15,6 +14,8 @@ subjects = [ "Automated Teller Machines (ATM)",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3098527851!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-635"
 
 [[history]]
 date = "2019-07-22"

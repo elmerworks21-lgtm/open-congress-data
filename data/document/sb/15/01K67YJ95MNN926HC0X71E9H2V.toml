@@ -6,7 +6,6 @@ name = "SBN-02773"
 [meta]
 bill_number = 2773
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2773", "https://web.senate.gov.ph/lisdata/110929456!.pdf",]
 title = "PHILIPPINE AIR FORCE ACADEMY (PAFA)"
 date_filed = "2011-03-31"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE AIR FORCE ACADEMY (PAFA) AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Air Force Academy (PAFA)",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/110929456!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2773"
 
 [[history]]
 date = "2011-03-31"

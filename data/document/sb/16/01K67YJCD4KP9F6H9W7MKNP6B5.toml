@@ -6,7 +6,6 @@ name = "SBN-00183"
 [meta]
 bill_number = 183
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-183", "https://web.senate.gov.ph/lisdata/1600913246!.pdf",]
 title = "NATIONAL TELECOMMUNICATIONS COMMISSION REORGANIZATION ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT REORGANIZING THE NATIONAL TELECOMMUNICATIONS COMMISSION, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Telecommunications Commission (NTC)",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1600913246!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-183"
 
 [[history]]
 date = "2013-07-01"

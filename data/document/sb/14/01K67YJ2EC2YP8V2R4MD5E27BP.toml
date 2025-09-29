@@ -6,7 +6,6 @@ name = "SBN-02258"
 [meta]
 bill_number = 2258
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2258", "https://web.senate.gov.ph/lisdata/72976518!.pdf",]
 title = "NURSES LIMITED HOURS OF WORK"
 date_filed = "2008-05-07"
 long_title = "AN ACT LIMITING THE CONSECUTIVE HOURS OF WORK BY NURSES"
@@ -15,6 +14,8 @@ subjects = [ "Nurse", "Nursing Profession",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72976518!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2258"
 
 [[history]]
 date = "2008-05-07"

@@ -6,7 +6,6 @@ name = "SBN-02232"
 [meta]
 bill_number = 2232
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2232", "https://web.senate.gov.ph/lisdata/98938355!.pdf",]
 title = "TEEN PREGNANCY PREVENTION, RESPONSIBILITY AND OPPORTUNITY ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT PROVIDING GRANTS TO INSTITUTE PROJECTS TO PROVIDE EDUCATION ON PREVENTING TEEN PREGNANCIES"
@@ -15,6 +14,8 @@ subjects = [ "Pregnancy",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98938355!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2232"
 
 [[history]]
 date = "2010-08-02"

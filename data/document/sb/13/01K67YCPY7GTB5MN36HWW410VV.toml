@@ -6,7 +6,6 @@ name = "SBN-02632"
 [meta]
 bill_number = 2632
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2632", "https://web.senate.gov.ph/lisdata/71525811!.pdf",]
 title = "ANTI-CABLE TAPPING ACT OF 2007"
 date_filed = "2007-06-04"
 long_title = "AN ACT PENALIZING UNAUTHORIZED INTERCEPTION AND RECEPTION OF CABLE TELEVISION SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Cable Tapping", "Cable Tapping (Penalty)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71525811!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2632"
 
 [[history]]
 date = "2007-06-04"

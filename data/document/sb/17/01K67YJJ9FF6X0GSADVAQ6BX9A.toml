@@ -6,7 +6,6 @@ name = "SBN-01548"
 [meta]
 bill_number = 1548
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1548", "https://web.senate.gov.ph/lisdata/2645422777!.pdf",]
 title = "SCIENCE FOR CHANGE PROGRAM (SCP) ACT OF 2017"
 date_filed = "2017-08-14"
 long_title = "AN ACT ESTABLISHING THE SCIENCE FOR CHANGE PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Science and Technology",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2645422777!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1548"
 
 [[history]]
 date = "2017-08-14"

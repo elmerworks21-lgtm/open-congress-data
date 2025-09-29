@@ -6,7 +6,6 @@ name = "SBN-00617"
 [meta]
 bill_number = 617
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-617", "https://web.senate.gov.ph/lisdata/18031178!.pdf",]
 title = "MILK NUTRITION AND LABELING ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING STANDARDS FOR THE IDENTITY OF MILK AND REQUIRING THE LABELING THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Milk Nutrition and Labeling Act",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18031178!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-617"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-02264"
 [meta]
 bill_number = 2264
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2264", "https://web.senate.gov.ph/lisdata/4188338150!.pdf",]
 title = "NATIONAL AGRICULTURAL CROP PROGRAM 2023"
 date_filed = "2023-05-29"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF AGRICULTURE TO ESTABLISH A NATIONAL AGRICULTURAL CROP PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Agriculture", "National Agricultural Crop Program",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4188338150!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2264"
 
 [[history]]
 date = "2023-05-30"

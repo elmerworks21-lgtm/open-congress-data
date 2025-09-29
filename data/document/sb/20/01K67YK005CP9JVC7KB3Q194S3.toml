@@ -6,7 +6,6 @@ name = "SBN-00333"
 [meta]
 bill_number = 333
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-333", "https://web.senate.gov.ph/lisdata/4682242829!.pdf",]
 title = "STUDENT LOAD DISCOUNT ACT"
 date_filed = "2025-07-09"
 long_title = "AN ACT INSTITUTIONALIZING THE GRANT OF STUDENT LOAD DISCOUNT PRIVILEGE ON MOBILE AND INTERNET SERVICES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Student Load Discount",]
 authors_raw = "Ejercito, Jv"
 author_codes = ["JVEJE"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4682242829!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-333"
 
 [[history]]
 date = "2025-07-09"

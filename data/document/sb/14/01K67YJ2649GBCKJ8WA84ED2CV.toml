@@ -6,7 +6,6 @@ name = "SBN-01905"
 [meta]
 bill_number = 1905
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1905", "https://web.senate.gov.ph/lisdata/64815752!.pdf",]
 title = "INDIGENOUS PEOPLES CONNECTIVITY ACT OF 2007"
 date_filed = "2007-11-26"
 long_title = "AN ACT PROVIDING ACCESS TO INDIGENOUS CULTURAL COMMUNITIES/INDIGENOUS PEOPLES TO VARIOUS INFORMATION AND COMMUNICATIONS TECHNOLOGY"
@@ -15,6 +14,8 @@ subjects = [ "Tribal Communities/Cultural Communities", "Telecommunications Acce
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64815752!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1905"
 
 [[history]]
 date = "2007-11-26"

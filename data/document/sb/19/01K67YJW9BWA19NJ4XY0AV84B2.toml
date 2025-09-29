@@ -6,7 +6,6 @@ name = "SBN-02001"
 [meta]
 bill_number = 2001
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2001", "https://web.senate.gov.ph/lisdata/4117537486!.pdf",]
 title = "NEW PHILIPPINE PASSPORT ACT"
 date_filed = "2023-03-14"
 long_title = "AN ACT PROVIDING FOR A NEW PASSPORT LAW, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 8239, OTHERWISE KNOWN AS THE PHILIPPINE PASSPORT ACT OF 1996"
@@ -15,6 +14,8 @@ subjects = [ "Passports/Passports Data", "Passport (R.A.No. 8239)",]
 authors_raw = "Revilla Jr., Ramon Bong, Estrada, Jinggoy E., Marcos, Imee R., Go, Christopher Lawrence T., Villanueva, Joel, Villar, Cynthia A., Gatchalian, Win, Legarda, Loren B."
 author_codes = ["EJING", "GCHRI", "GSHER", "LLORE", "MIMEE", "RRAMO", "VCYNT", "VEMMA"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4117537486!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2001"
 
 [[history]]
 date = "2023-03-14"

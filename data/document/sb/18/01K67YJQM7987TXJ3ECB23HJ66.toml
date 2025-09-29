@@ -6,7 +6,6 @@ name = "SBN-01776"
 [meta]
 bill_number = 1776
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1776", "https://web.senate.gov.ph/lisdata/3334230179!.pdf",]
 title = "UNIVERSAL HEALTH CARE ACT (AMENDMENTS)"
 date_filed = "2020-08-18"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNIVERSAL HEALTH CARE ACT, TO PROVIDE FOR FREE ANNUAL MEDICAL CHECK UP FOR FILIPINOS"
@@ -15,6 +14,8 @@ subjects = [ "Universal Health Care", "Health Care",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3334230179!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1776"
 
 [[history]]
 date = "2020-08-18"

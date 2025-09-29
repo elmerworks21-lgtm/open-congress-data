@@ -6,7 +6,6 @@ name = "SBN-03394"
 [meta]
 bill_number = 3394
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3394", "https://web.senate.gov.ph/lisdata/1506812607!.pdf",]
 title = "FILING FEES FOR PETITION FOR HABEAS CORPUS"
 date_filed = "2013-01-23"
 long_title = "AN ACT PROVIDING A MECHANISM FOR DISCHARGING THE FILING FEES FOR PETITIONS FOR HABEAS CORPUS"
@@ -15,6 +14,8 @@ subjects = [ "Habeas Corpus",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1506812607!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3394"
 
 [[history]]
 date = "2013-01-23"

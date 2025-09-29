@@ -6,7 +6,6 @@ name = "SBN-00702"
 [meta]
 bill_number = 702
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-702", "https://web.senate.gov.ph/lisdata/18921264!.pdf",]
 title = "PENALIZING MISHANDLING OF CRIME'S EVIDENCE"
 date_filed = "2004-06-30"
 long_title = "AN ACT PENALIZING THE IMPROPER HANDLING OR SAFEKEEPING OF EVIDENCE OF A CRIME UNDER INVESTIGATION"
@@ -15,6 +14,8 @@ subjects = [ "Crime Scene Evidence Mishandling",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18921264!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-702"
 
 [[history]]
 date = "2004-06-30"

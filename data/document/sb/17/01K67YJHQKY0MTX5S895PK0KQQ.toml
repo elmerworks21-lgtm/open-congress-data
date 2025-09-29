@@ -6,7 +6,6 @@ name = "SBN-00845"
 [meta]
 bill_number = 845
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-845", "https://web.senate.gov.ph/lisdata/2438620991!.pdf",]
 title = "PHILIPPINE CHARITY SWEEPSTAKES OFFICE ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT PROVIDING FUNDING SUPPORT FOR UNIVERSAL HEALTH CARE COVERAGE AND IMPROVING PHILHEALTH BENEFIT PACKAGES BY ALLOCATING SEVENTY PERCENT (70%) OF THE PHILIPPINE CHARITY SWEEPSTAKES OFFICE CHARITY FUND FOR SUCH PURPOSE, THEREBY AMENDING REPUBLIC ACT NO. 1169, AS AMENDED BY BATAS PAMBANSA BLG. 42"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Charity Sweepstakes Office (PCSO)", "Philippine Health 
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2438620991!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-845"
 
 [[history]]
 date = "2016-07-21"

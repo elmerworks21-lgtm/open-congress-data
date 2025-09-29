@@ -6,7 +6,6 @@ name = "SBN-02492"
 [meta]
 bill_number = 2492
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2492", "https://web.senate.gov.ph/lisdata/62435202!.pdf",]
 title = "MEAT PACKING ACT OF 2006"
 date_filed = "2006-10-12"
 long_title = "AN ACT REQUIRING MEAT PACKERS TO DISCLOSE THE ADDITIVES THAT THEY PLACE IN THEIR PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Meat Packaging",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/62435202!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2492"
 
 [[history]]
 date = "2006-10-12"

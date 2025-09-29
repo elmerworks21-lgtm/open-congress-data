@@ -6,7 +6,6 @@ name = "SBN-01268"
 [meta]
 bill_number = 1268
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1268", "https://web.senate.gov.ph/lisdata/3929935731!.pdf",]
 title = "ILIGAN CITY DISTRICT HOSPITAL"
 date_filed = "2022-09-01"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DISTRICT HOSPITAL IN ILIGAN CITY TO BE KNOWN AS THE ILIGAN CITY DISTRICT HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Establishment",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3929935731!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1268"
 
 [[history]]
 date = "2022-09-01"

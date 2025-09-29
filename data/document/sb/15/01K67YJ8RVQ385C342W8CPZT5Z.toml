@@ -6,7 +6,6 @@ name = "SBN-02433"
 [meta]
 bill_number = 2433
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2433", "https://web.senate.gov.ph/lisdata/101118648!.pdf",]
 title = "WAGE RATIONALIZATION ACT"
 date_filed = "2010-08-23"
 long_title = "AN ACT INCREASING THE PENALTIES FOR NON-COMPLIANCE OF THE PRESCRIBED INCREASES AND ADJUSTMENTS IN THE WAGE RATES OF WORKERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6727, OTHERWISE KNOWN AS THE 'WAGE RATIONALIZATION ACT'"
@@ -15,6 +14,8 @@ subjects = [ "Wage Rationalization",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101118648!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2433"
 
 [[history]]
 date = "2010-08-23"

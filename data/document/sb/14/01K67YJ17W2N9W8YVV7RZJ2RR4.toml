@@ -6,7 +6,6 @@ name = "SBN-00775"
 [meta]
 bill_number = 775
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-775", "https://web.senate.gov.ph/lisdata/49994392!.pdf",]
 title = "AUDITED FINANCIAL STATEMENTS AS REQUIREMENTS FOR BANK LOANS"
 date_filed = "2007-07-03"
 long_title = "AN ACT REQUIRING AUDITED FINANCIAL STATEMENTS SUBMITTED TO TAX AUTHORITIES AS MINIMUM SECURITY REQUIREMENTS FOR BANK LOANS, AMENDING FOR THE PURPOSE SECTION 40 OF REPUBLIC ACT NO. 8791, OTHERWISE KNOWN AS THE GENERAL BANKING LAW OF 2000"
@@ -15,6 +14,8 @@ subjects = [ "General Banking Law (RA 8791)",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49994392!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-775"
 
 [[history]]
 date = "2007-07-03"

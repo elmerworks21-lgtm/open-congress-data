@@ -6,7 +6,6 @@ name = "SBN-00052"
 [meta]
 bill_number = 52
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-52", "https://web.senate.gov.ph/lisdata/1181634!.pdf",]
 title = "GENETICALLY-MODIFIED ORGANISMS FOOD PRODUCTS LABELING"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING THE MANDATORY LABELING OF FOOD AND FOOD PRODUCTS CONTAINING GENETICALLY-MODIFIED ORGANISMS, INCLUDING THOSE PRODUCED BY GENETIC ENGINEERING TECHNOLOGIES, AMENDING FOR THE PURPOSE REPUBLIC ACT THREE THOUSAND SEVEN HUNDRED AND TWENTY, OTHERWISE KNOWN AS THE FOOD, DRUGS AND COSMETICS ACT AND REPUBLIC ACT SEVEN THOUSAND AND THREE HUNDRED NINETY FOUR, OTHERWISE KNOWN AS THE CONSUMER'S ACT OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Food/Food Products Labeling (GMO)", "Genetically-Modified Organism
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1181634!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-52"
 
 [[history]]
 date = "2004-06-30"

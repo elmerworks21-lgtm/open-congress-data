@@ -6,7 +6,6 @@ name = "SBN-01511"
 [meta]
 bill_number = 1511
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1511", "https://web.senate.gov.ph/lisdata/3989336332!.pdf",]
 title = "INCREASING THE SERVICE INCENTIVE LEAVE OF EMPLOYESS"
 date_filed = "2022-11-16"
 long_title = "AN ACT INCREASING THE SERVICE INCENTIVE LEAVE OF EMPLOYEES, AMENDING FOR THE PURPOSE ARTICLE 95 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Service Incentive Leave", "Presidential Decree (P.D.No. 442)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3989336332!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1511"
 
 [[history]]
 date = "2022-11-16"

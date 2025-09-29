@@ -6,7 +6,6 @@ name = "SBN-02650"
 [meta]
 bill_number = 2650
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2650", "https://web.senate.gov.ph/lisdata/2060617708!.pdf",]
 title = "CHOCOLATE HILLS PROTECTION ACT OF 2015"
 date_filed = "2015-02-16"
 long_title = "AN ACT PROCLAIMING THE CHOCOLATE HILLS AS NATIONAL PATRIMONY AND GEOLOGICAL MONUMENTS, PROVIDING PENALTIES FOR THEIR PILLAGE, DEFACEMENT AND DESPOIL, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Chocolate Hills",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2060617708!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2650"
 
 [[history]]
 date = "2015-02-16"

@@ -6,7 +6,6 @@ name = "SBN-01288"
 [meta]
 bill_number = 1288
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1288", "https://web.senate.gov.ph/lisdata/2524221741!.pdf",]
 title = "AUTOMATIC RESIGNATION OF PUNONG BARANGAY ACT"
 date_filed = "2016-12-15"
 long_title = "AN ACT DECLARING THE PUNONG BARANGAY AS DEEMED IPSO FACTO RESIGNED UPON THE FILING CERTIFICATE OF CANDIDACY, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9006, OTHERWISE KNOWN AS THE ‘FAIR ELECTIONS ACT’ AND BATAS PAMBANSA BLG. 881, ENTITLED ‘OMNIBUS ELECTION CODE OF THE PHILIPPINES’ AND OTHER ELECTION RELATED LAWS"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Captain/Punong Barangay", "Elections/Electoral Reforms",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2524221741!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1288"
 
 [[history]]
 date = "2016-12-15"

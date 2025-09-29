@@ -6,7 +6,6 @@ name = "SBN-00309"
 [meta]
 bill_number = 309
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-309", "https://web.senate.gov.ph/lisdata/44093812!.pdf",]
 title = "PROTECTION FROM INVOLUNTARY COLLECTION ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO PROTECT INDIVIDUALS FROM HAVING THEIR MONEY INVOLUNTARY COLLECTED AND USED FOR POLITICAL ACTIVITIES BY A CORPORATION, ORGANIZATION OR GROUP"
@@ -15,6 +14,8 @@ subjects = [ "Protection From Involuntary Collection", "Extortion",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44093812!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-309"
 
 [[history]]
 date = "2007-07-02"

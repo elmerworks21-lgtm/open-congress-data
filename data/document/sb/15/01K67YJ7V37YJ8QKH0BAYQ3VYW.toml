@@ -6,7 +6,6 @@ name = "SBN-00972"
 [meta]
 bill_number = 972
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-972", "https://web.senate.gov.ph/lisdata/84226974!.pdf",]
 title = "LUDONG PROTECTION AND CONSERVATION ACT OF 2010"
 date_filed = "2010-07-08"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION AND CONSERVATION OF THE FISH CESTRAEUS PLICATILIS IN THE PHILIPPINES, COMMONLY KNOWN AS ‘LUDONG’, PROVIDING A COMPREHENSIVE MECHANISM FOR INFORMATION, EDUCATION, COMMUNICATION (IEC) CAMPAIGN, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Ludong",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84226974!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-972"
 
 [[history]]
 date = "2010-07-08"

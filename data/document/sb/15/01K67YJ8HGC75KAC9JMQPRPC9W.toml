@@ -6,7 +6,6 @@ name = "SBN-02081"
 [meta]
 bill_number = 2081
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2081", "https://web.senate.gov.ph/lisdata/96298200!.pdf",]
 title = "PHILIPPINE SPECIAL CHILDREN CENTER ACT OF 2010"
 date_filed = "2010-07-27"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE SPECIAL CHILDREN CENTER, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Special Children Center",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/96298200!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2081"
 
 [[history]]
 date = "2010-07-27"

@@ -6,7 +6,6 @@ name = "SBN-01505"
 [meta]
 bill_number = 1505
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1505", "https://web.senate.gov.ph/lisdata/27202086!.pdf",]
 title = "INT'L TRAFFICKING OF WOMEN & CHILDREN VICTIM PROTECTION ACT"
 date_filed = "2004-07-27"
 long_title = "AN ACT TO COMBAT THE CRIME OF INTERNATIONAL TRAFFICKING AND TO PROTECT THE RIGHTS OF VICTIMS"
@@ -15,6 +14,8 @@ subjects = [ "Trafficking of Women and Children",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27202086!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1505"
 
 [[history]]
 date = "2004-07-27"

@@ -6,7 +6,6 @@ name = "SBN-02356"
 [meta]
 bill_number = 2356
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2356", "https://web.senate.gov.ph/lisdata/1964116766!.pdf",]
 title = "NUTRITION AND DIETETICS LAW OF 2014"
 date_filed = "2014-08-13"
 long_title = "AN ACT REGULATING THE PRACTICE OF NUTRITION AND DIETETICS IN THE PHILIPPINES, REPEALING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1286, KNOWN AS THE NUTRITION AND DIETETICS DECREE OF 1977, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Villar, Cynthia A."
 author_codes = ["TANTO", "VCYNT"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1964116766!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2356"
 
 [[history]]
 date = "2014-08-13"

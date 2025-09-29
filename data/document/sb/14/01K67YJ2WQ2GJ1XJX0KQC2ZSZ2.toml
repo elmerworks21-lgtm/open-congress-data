@@ -6,7 +6,6 @@ name = "SBN-02901"
 [meta]
 bill_number = 2901
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2901", "https://web.senate.gov.ph/lisdata/94578560!.pdf",]
 title = "CALBAYOG CITY DISTRICT HOSPITAL"
 date_filed = "2008-11-25"
 long_title = "AN ACT CONVERTING THE EASTERN VISAYAS REGIONAL MEDICAL CENTER IN TACLOBAN CITY INTO A GOVERNMENT OWNED AND CONTROLLED HOSPITAL CORPORATION AND THE CALBAYOG CITY DISTRICT HOSPITAL AS A SUBSIDIARY THEREOF AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Conversion", "Upgrading",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94578560!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2901"
 
 [[history]]
 date = "2008-11-25"

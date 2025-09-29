@@ -6,7 +6,6 @@ name = "SBN-00042"
 [meta]
 bill_number = 42
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-42", "https://web.senate.gov.ph/lisdata/3774334185!.pdf",]
 title = "MAGNA CARTA FOR WORKERS IN THE INFORMAL ECONOMY"
 date_filed = "2022-07-06"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR WORKERS, ENTERPRISES AND ORGANIZATIONS IN THE INFORMAL ECONOMY AND PROVIDING MECHANISMS FOR RECOGNITION, INTEGRATION, AND TRANSITION TO THE FORMAL ECONOMY"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Workers in the Informal Economy",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3774334185!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-42"
 
 [[history]]
 date = "2022-07-06"

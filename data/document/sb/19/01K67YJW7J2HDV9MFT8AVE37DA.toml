@@ -6,7 +6,6 @@ name = "SBN-01923"
 [meta]
 bill_number = 1923
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1923", "https://web.senate.gov.ph/lisdata/4089737258!.pdf",]
 title = "CRITICAL INFORMATION INFRASTRUCTURE PROTECTION ACT OF 2023"
 date_filed = "2023-02-27"
 long_title = "AN ACT REQUIRING CRITICAL INFORMATION INFRASTRUCTURE INSTITUTIONS TO ADOPT AND IMPLEMENT ADEQUATE MEASURES TO PROTECT THEIR INFORMATION AND COMMUNICATIONS TECHNOLOGY (ICT) SYSTEMS AND INFRASTRUCTURE"
@@ -15,6 +14,8 @@ subjects = [ "Critical Infrastructure", "Information and Communications Technolo
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4089737258!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1923"
 
 [[history]]
 date = "2023-02-27"

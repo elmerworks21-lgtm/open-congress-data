@@ -6,7 +6,6 @@ name = "SBN-00556"
 [meta]
 bill_number = 556
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-556", "https://web.senate.gov.ph/lisdata/3833334784!.pdf",]
 title = "SUSTAINABLE PUBLIC PROCUREMENT ACT"
 date_filed = "2022-07-13"
 long_title = "AN ACT ESTABLISHING A SUSTAINABLE PROCUREMENT PROGRAM FOR ALL DEPARTMENTS, BUREAUS, OFFICES, AND AGENCIES OF THE GOVERNMENT"
@@ -15,6 +14,8 @@ subjects = [ "Public Procurement", "Government Agencies",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3833334784!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-556"
 
 [[history]]
 date = "2022-07-13"

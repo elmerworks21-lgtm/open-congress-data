@@ -6,7 +6,6 @@ name = "SBN-01943"
 [meta]
 bill_number = 1943
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1943", "https://web.senate.gov.ph/lisdata/33712423!.pdf",]
 title = "NEW CENTRAL BANK ACT, AMENDMENTS"
 date_filed = "2005-03-02"
 long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED SEVENTY-SIX HUNDRED AND FIFTY-THREE ENTITLED 'THE NEW CENTRAL BANK ACT' AND FOR OTHER PURPOSES."
@@ -15,6 +14,8 @@ subjects = [ "New Central Bank Act (R.A.No. 7653)", "Banks (Bangko Sentral; Quas
 authors_raw = "Osmena III, Sergio R., Angara, Edgardo J."
 author_codes = ["AEDGA", "OSERG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/33712423!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1943"
 
 [[history]]
 date = "2005-03-02"

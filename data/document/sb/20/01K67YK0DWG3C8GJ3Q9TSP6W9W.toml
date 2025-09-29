@@ -6,7 +6,6 @@ name = "SBN-01062"
 [meta]
 bill_number = 1062
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1062", "https://web.senate.gov.ph/lisdata/4772843750!.pdf",]
 title = "PHYSICIAN PRO BONO CARE ACT"
 date_filed = "2025-08-06"
 long_title = "AN ACT GIVING TAX INCENTIVES TO PHYSICIANS RENDERING PRO BONO SERVICES TO INDIGENT PATIENTS"
@@ -15,6 +14,8 @@ subjects = [ "Pro Bono Services", "Physician", "Indigent Patients",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4772843750!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1062"
 
 [[history]]
 date = "2025-09-03"

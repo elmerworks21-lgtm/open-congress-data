@@ -6,7 +6,6 @@ name = "SBN-02129"
 [meta]
 bill_number = 2129
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2129", "https://web.senate.gov.ph/lisdata/40463395!.pdf",]
 title = "REVISED PENAL CODE (PENALTIES FOR FALSE TESTIMONY)"
 date_filed = "2005-09-22"
 long_title = "AN ACT AMENDING ARTICLE 180 OF ACT NO. 3815, ALSO KNOWN AS THE REVISED PENAL CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (RA 3815)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/40463395!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2129"
 
 [[history]]
 date = "2005-09-22"

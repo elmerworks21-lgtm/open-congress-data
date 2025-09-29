@@ -6,7 +6,6 @@ name = "SBN-01245"
 [meta]
 bill_number = 1245
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1245", "https://web.senate.gov.ph/lisdata/24561825!.pdf",]
 title = "LAND USE CODE OF THE PHILIPPINES"
 date_filed = "2004-07-01"
 long_title = "AN ACT PROVIDING FOR A NATIONAL LAND USE FRAMEWORK AND ITS IMPLEMENTING MECHANISMS"
@@ -15,6 +14,8 @@ subjects = [ "Land Use Code of the Philippines",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24561825!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1245"
 
 [[history]]
 date = "2004-07-01"

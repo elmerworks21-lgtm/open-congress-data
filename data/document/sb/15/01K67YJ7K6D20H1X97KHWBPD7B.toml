@@ -6,7 +6,6 @@ name = "SBN-00578"
 [meta]
 bill_number = 578
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-578", "https://web.senate.gov.ph/lisdata/79896470!.pdf",]
 title = "REAL PROPERTY TAX (TREES AND OTHER IMPROVEMENTS ON LANDS)"
 date_filed = "2010-07-07"
 long_title = "AN ACT EXEMPTING FROM REAL PROPERTY TAX THE TREES AND OTHER IMPROVEMENTS ON LANDS COVERED BY CERTIFICATES OF STEWARDSHIP CONTRACTS UNDER THE INTEGRATED SOCIAL FORESTRY PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Real Property Tax",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79896470!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-578"
 
 [[history]]
 date = "2010-07-07"

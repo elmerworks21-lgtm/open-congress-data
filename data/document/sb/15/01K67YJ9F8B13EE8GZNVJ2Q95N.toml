@@ -6,7 +6,6 @@ name = "SBN-03082"
 [meta]
 bill_number = 3082
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3082", "https://web.senate.gov.ph/lisdata/1255810607!.pdf",]
 title = "PUBLIC SCHOOLS TEACHERS' SALARY UPGRADING ACT"
 date_filed = "2011-12-06"
 long_title = "AN ACT INCREASING THE SALARY GRADE OF PUBLIC SCHOOL TEACHERS FROM SALARY GRADE 10 TO 15 AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Salary Grade",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1255810607!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3082"
 
 [[history]]
 date = "2011-12-06"

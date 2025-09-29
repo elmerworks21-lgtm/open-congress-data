@@ -6,7 +6,6 @@ name = "SBN-02637"
 [meta]
 bill_number = 2637
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2637", "https://web.senate.gov.ph/lisdata/2053717630!.pdf",]
 title = "SAFER INTERNET DAY (SID) ACT OF 2015"
 date_filed = "2015-02-09"
 long_title = "AN ACT DECLARING EVERY 10TH OF FEBRUARY OF EACH YEAR AS NATIONAL SAFER INTERNET DAY IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Safer Internet Day", "Internet Safety",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2053717630!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2637"
 
 [[history]]
 date = "2015-02-09"

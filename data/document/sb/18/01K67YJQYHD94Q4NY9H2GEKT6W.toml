@@ -6,7 +6,6 @@ name = "SBN-02182"
 [meta]
 bill_number = 2182
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2182", "https://web.senate.gov.ph/lisdata/3500231829!.pdf",]
 title = "CALAMITIES HAZARD MITIGATION PROGRAM ACT"
 date_filed = "2021-05-12"
 long_title = "AN ACT REQUIRING THE PHILIPPINE INSTITUTE OF VOLCANOLOGY AND SEISMOLOGY (PHIVOLCS) AND THE PHILIPPINE ATMOSPHERIC, GEOPHYSICAL AND ASTRONOMICAL SERVICES ADMINISTRATION (PAGASA) TO ESTABLISH THE NATURAL CALAMITIES’ HAZARD MITIGATION PROGRAM"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa)", "Philippine Institute of Volcanology and Seismology (Phivolcs)", "Calamity/Disaster",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3500231829!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2182"
 
 [[history]]
 date = "2021-05-12"

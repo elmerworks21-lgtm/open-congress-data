@@ -6,7 +6,6 @@ name = "SBN-02212"
 [meta]
 bill_number = 2212
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2212", "https://web.senate.gov.ph/lisdata/1905116168!.pdf",]
 title = "YOUTH ENTREPRENEURSHIP ACT OF 2014"
 date_filed = "2014-05-07"
 long_title = "AN ACT TO ACTIVELY PROMOTE ENTREPRENEURSHIP AND FINANCIAL EDUCATION AMONG FILIPINO YOUTH"
@@ -15,6 +14,8 @@ subjects = [ "Youth Development", "Entrepreneurship Education",]
 authors_raw = "Villar, Cynthia A., Cayetano, Pia S., Angara, Juan Edgardo \"Sonny\" M., Aquino IV, Paolo Benigno \"Bam\", Defensor Santiago, Miriam, Poe, Grace L."
 author_codes = ["APAOL", "ASONN", "CPIAS", "PGRAC", "SMIRI", "VCYNT"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1905116168!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2212"
 
 [[history]]
 date = "2014-05-07"

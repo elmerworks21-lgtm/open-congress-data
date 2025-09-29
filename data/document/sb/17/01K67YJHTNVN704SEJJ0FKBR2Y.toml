@@ -6,7 +6,6 @@ name = "SBN-00989"
 [meta]
 bill_number = 989
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-989", "https://web.senate.gov.ph/lisdata/2455821133!.pdf",]
 title = "DISASTER PREPAREDNESS IN SCHOOLS ACT"
 date_filed = "2016-08-08"
 long_title = "AN ACT MANDATING THE CREATION OF A SCHOOL DISASTER MANAGEMENT COMMITTEE TO CONDUCT SAFETY DRILLS FOR EMERGENCY SITUATIONS IN ALL SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Disaster Awareness", "Mitigation", "Post-Disaster Recovery",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2455821133!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-989"
 
 [[history]]
 date = "2016-08-08"

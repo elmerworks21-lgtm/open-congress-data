@@ -6,7 +6,6 @@ name = "SBN-00492"
 [meta]
 bill_number = 492
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-492", "https://web.senate.gov.ph/lisdata/3825334690!.pdf",]
 title = "PHILIPPINE ARTS IN VENICE BIENNALE ACT OF 2022"
 date_filed = "2022-07-13"
 long_title = "AN ACT INSTITUTIONALIZING PHILIPPINE PARTICIPATION IN THE INTERNATIONAL EXHIBITIONS OF THE VENICE BIENNALE"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Arts", "Venice Biennale",]
 authors_raw = "Legarda, Loren B., Villanueva, Joel"
 author_codes = ["LLORE", "VEMMA"]
 committee_codes = ["CULTA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3825334690!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-492"
 
 [[history]]
 date = "2022-07-13"

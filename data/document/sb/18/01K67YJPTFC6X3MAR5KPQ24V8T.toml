@@ -6,7 +6,6 @@ name = "SBN-00648"
 [meta]
 bill_number = 648
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-648", "https://web.senate.gov.ph/lisdata/3099827830!.pdf",]
 title = "ORGANIC AGRICULTURE ACT (R.A.NO. 10068)"
 date_filed = "2019-07-22"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10068, OTHERWISE KNOWN AS THE ORGANIC AGRICULTURE ACT OF 2010"
@@ -15,6 +14,8 @@ subjects = [ "Organic Agriculture", "Organic Farming",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3099827830!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-648"
 
 [[history]]
 date = "2019-07-22"

@@ -6,7 +6,6 @@ name = "SBN-00302"
 [meta]
 bill_number = 302
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-302", "https://web.senate.gov.ph/lisdata/1459749!.pdf",]
 title = "TUITION FEE RATIONALIZATION ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT RATIONALIZING AND REGULATING TUITION AND OTHER SCHOOL FEES IN ALL HIGHER AND BASIC EDUCATION INSTITUTIONS, CREATING A TUITION FEE RATIONALIZING COUNCIL, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tuition Fee Rationalization", "Basic Education (Tuition Fee Rate)"
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1459749!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-302"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00648"
 [meta]
 bill_number = 648
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-648", "https://web.senate.gov.ph/lisdata/11091209!.pdf",]
 title = "REDEFINING THE TERM VETERAN"
 date_filed = "2004-06-30"
 long_title = "AN ACT REDEFINING THE TERM 'VETERAN' THEREBY AMENDING FURTHER REPUBLIC ACT NO. 6948 AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Veterans Act (RA 6948, Amendments)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/11091209!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-648"
 
 [[history]]
 date = "2004-06-30"

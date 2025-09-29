@@ -6,7 +6,6 @@ name = "SBN-00498"
 [meta]
 bill_number = 498
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-498", "https://web.senate.gov.ph/lisdata/47054028!.pdf",]
 title = "EARLY RETIREMENT AND VOLUNTARY SEPARATION"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROVIDING EARLY RETIREMENT AND VOLUNTARY SEPARATION FROM THE GOVERNMENT SERVICE, PROVIDING A SYSTEM OF FUNDING THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Early Retirement (Employees)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47054028!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-498"
 
 [[history]]
 date = "2007-07-02"

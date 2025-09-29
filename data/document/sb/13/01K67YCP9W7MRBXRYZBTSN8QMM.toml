@@ -6,7 +6,6 @@ name = "SBN-01659"
 [meta]
 bill_number = 1659
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1659", "https://web.senate.gov.ph/lisdata/28752339!.pdf",]
 title = "TECH-PREP EDUCATION ACT"
 date_filed = "2004-08-04"
 long_title = "AN ACT PROVIDING TECHNICAL PREPARATION EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "Technical Preparation Education", "Secondary/Tertiary Education",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28752339!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1659"
 
 [[history]]
 date = "2004-08-04"

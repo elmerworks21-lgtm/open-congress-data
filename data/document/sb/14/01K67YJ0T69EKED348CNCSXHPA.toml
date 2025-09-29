@@ -6,7 +6,6 @@ name = "SBN-00127"
 [meta]
 bill_number = 127
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-127", "https://web.senate.gov.ph/lisdata/42253612!.pdf",]
 title = "NORTHERN SAMAR SPECIAL ECONOMIC ZONE ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE AND FREE PORT IN THE PROVINCE OF NORTHERN SAMAR, COVERING THE MUNICIPALITIES OF SAN JOSE, BOBON AND CATARMAN, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Northern Samar Special Economic Zone",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42253612!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-127"
 
 [[history]]
 date = "2007-06-30"

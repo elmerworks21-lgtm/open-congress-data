@@ -6,7 +6,6 @@ name = "SBN-01461"
 [meta]
 bill_number = 1461
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1461", "https://web.senate.gov.ph/lisdata/2604622393!.pdf",]
 title = "ELECTRIC COOPERATIVES EMERGENCY AND RESILIENCY FUND ACT OF 2017"
 date_filed = "2017-05-17"
 long_title = "AN ACT INSTITUTIONALIZING THE ELECTRIC COOPERATIVES EMERGENCY AND RESILIENCY FUND AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Electric Cooperatives",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2604622393!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1461"
 
 [[history]]
 date = "2017-05-17"

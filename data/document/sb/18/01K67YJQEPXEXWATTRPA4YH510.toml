@@ -6,7 +6,6 @@ name = "SBN-01524"
 [meta]
 bill_number = 1524
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1524", "https://web.senate.gov.ph/lisdata/3274929610!.pdf",]
 title = "CAMPUS PRESS FREEDOM ACT OF 2020"
 date_filed = "2020-05-12"
 long_title = "AN ACT UPHOLDING AND PROMOTING CAMPUS JOURNALISM AND CAMPUS PRESS FREEDOM, REPEALING FOR THE PURPOSE, REPUBLIC ACT NO. 7079, ENTITLED ‘AN ACT PROVIDING FOR THE DEVELOPMENT AND PROMOTION OF CAMPUS JOURNALISM’, PENALIZING VIOLATIONS AGAINST CAMPUS PRESS FREEDOM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Campus Press Freedom", "Journalism",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3274929610!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1524"
 
 [[history]]
 date = "2020-05-12"

@@ -6,7 +6,6 @@ name = "SBN-01915"
 [meta]
 bill_number = 1915
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1915", "https://web.senate.gov.ph/lisdata/4086537233!.pdf",]
 title = "HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM (HEART) ACT"
 date_filed = "2023-02-21"
 long_title = "AN ACT CREATING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Health Emergency Auxiliary Reinforcement Team (Heart)", "Department of Health (DOH)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4086537233!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1915"
 
 [[history]]
 date = "2023-02-21"

@@ -6,7 +6,6 @@ name = "SBN-03147"
 [meta]
 bill_number = 3147
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3147", "https://web.senate.gov.ph/lisdata/1301310955!.pdf",]
 title = "AMATEUR RADIO EMERGENCY ENHANCEMENT ACT OF 2012"
 date_filed = "2012-03-08"
 long_title = "AN ACT PROMOTING AND ENCOURAGING THE VALUABLE PUBLIC SERVICE, DISASTER RELIEF, AND EMERGENCY COMMUNICATIONS PROVIDED ON A VOLUNTEER BASIS BY AMATEUR RADIO LICENSEES OF THE NATIONAL TELECOMMUNICATIONS COMMISSION"
@@ -15,6 +14,8 @@ subjects = [ "National Telecommunications Commission (NTC)", "Emergency Response
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1301310955!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3147"
 
 [[history]]
 date = "2012-03-08"

@@ -6,7 +6,6 @@ name = "SBN-01489"
 [meta]
 bill_number = 1489
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1489", "https://web.senate.gov.ph/lisdata/1758714821!.pdf",]
 title = "RATES OF ESTATE TAX"
 date_filed = "2013-09-03"
 long_title = "AN ACT INCREASING THE ESTATE TAX EXEMPTION, AMENDING FOR THE PURPOSE SECTION 84, CHAPTER I, ESTATE TAX, TITLE III OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Tax Exemption", "Real Estate Tax", "National Internal Revenue Code
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1758714821!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1489"
 
 [[history]]
 date = "2013-09-03"

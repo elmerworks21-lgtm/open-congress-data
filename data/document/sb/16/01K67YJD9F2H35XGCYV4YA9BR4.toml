@@ -6,7 +6,6 @@ name = "SBN-01570"
 [meta]
 bill_number = 1570
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1570", "https://web.senate.gov.ph/lisdata/1767214899!.pdf",]
 title = "CHILDREN'S PROTECTION FROM ALCOHOL ADVERTISING ACT"
 date_filed = "2013-09-05"
 long_title = "AN ACT ESTABLISHING ADVERTISING REQUIREMENTS FOR ALCOHOLIC BEVERAGES TO PROTECT YOUNG PEOPLE"
@@ -15,6 +14,8 @@ subjects = [ "Alcoholic Beverages", "Children and Youth",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1767214899!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1570"
 
 [[history]]
 date = "2013-09-05"

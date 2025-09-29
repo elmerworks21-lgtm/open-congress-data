@@ -6,7 +6,6 @@ name = "SBN-00534"
 [meta]
 bill_number = 534
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-534", "https://web.senate.gov.ph/lisdata/2397520603!.pdf",]
 title = "GOVERNMENT FUNDING ACCOUNTABILITY AND TRANSPARENCY ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT REQUIRING THE FULL DISCLOSURE OF ALL ENTITIES AND ORGANIZATIONS RECEIVING GOVERNMENT FUNDS THRU A SEARCHABLE DATA BASE WEBSITE"
@@ -15,6 +14,8 @@ subjects = [ "Government Funding Accountability", "Accountability/Transparency",
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2397520603!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-534"
 
 [[history]]
 date = "2016-07-19"

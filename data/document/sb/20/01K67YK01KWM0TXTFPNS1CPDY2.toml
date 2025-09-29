@@ -6,7 +6,6 @@ name = "SBN-00409"
 [meta]
 bill_number = 409
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-409", "https://web.senate.gov.ph/lisdata/4690142907!.pdf",]
 title = "MEDICAL ASSISTANCE TO INDIGENT AND FINANCIALLY INCAPACITATED PATIENTS ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT INSTITUTIONALIZING THE MEDICAL ASSISTANCE TO INDIGENT AND FINANCIALLY INCAPACITATED PATIENTS PROGRAM UNDER THE DEPARTMENT OF HEALTH, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Assistance", "Indigent Patients",]
 authors_raw = "Go, Christopher Lawrence \"Bong\" T."
 author_codes = ["GCHRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4690142907!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-409"
 
 [[history]]
 date = "2025-07-10"

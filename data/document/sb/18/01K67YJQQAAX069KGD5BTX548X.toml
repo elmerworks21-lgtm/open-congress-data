@@ -6,7 +6,6 @@ name = "SBN-01894"
 [meta]
 bill_number = 1894
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1894", "https://web.senate.gov.ph/lisdata/3383430646!.pdf",]
 title = "AMENDING R.A. NO. 10175 (CYBERCRIME PREVENTION ACT OF 2012)"
 date_filed = "2020-10-26"
 long_title = "AN ACT DEFINING ECONOMIC SABOTAGE IN COMPUTER-RELATED OFFENSES AND AMENDING REPUBLIC ACT NO. 10175, OTHERWISE KNOWN AS THE ‘CYBERCRIME PREVENTION ACT OF 2012’"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Cybercrime", "Economic Sabotage",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3383430646!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1894"
 
 [[history]]
 date = "2020-10-26"

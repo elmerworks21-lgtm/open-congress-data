@@ -6,7 +6,6 @@ name = "SBN-02133"
 [meta]
 bill_number = 2133
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2133", "https://web.senate.gov.ph/lisdata/97318262!.pdf",]
 title = "MOTHER SCREENING ACT OF 2010"
 date_filed = "2010-07-27"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE SCREENING PROGRAM FOR MOTHERS AFTER CHILDBIRTH AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mother Screening",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/97318262!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2133"
 
 [[history]]
 date = "2010-07-27"

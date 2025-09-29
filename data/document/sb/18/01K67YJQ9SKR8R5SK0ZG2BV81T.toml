@@ -6,7 +6,6 @@ name = "SBN-01326"
 [meta]
 bill_number = 1326
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1326", "https://web.senate.gov.ph/lisdata/3232229168!.pdf",]
 title = "NATIONAL COOPERATIVE MONTH"
 date_filed = "2020-02-10"
 long_title = "AN ACT DECLARING THE MONTH OF OCTOBER OF EVERY YEAR AS THE ‘NATIONAL COOPERATIVE MONTH’ IN THE ENTIRE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Cooperatives",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["COOPE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3232229168!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1326"
 
 [[history]]
 date = "2020-02-10"

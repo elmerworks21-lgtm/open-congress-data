@@ -6,7 +6,6 @@ name = "SBN-00634"
 [meta]
 bill_number = 634
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-634", "https://web.senate.gov.ph/lisdata/48454220!.pdf",]
 title = "SAFE BOTTLED WATER ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT ESTABLISHING QUALITY STANDARDS FOR MINERAL, CARBONATED AND OTHER BOTTLED WATER"
@@ -15,6 +14,8 @@ subjects = [ "Bottled Water Safety (Mineral Water)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48454220!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-634"
 
 [[history]]
 date = "2007-07-03"

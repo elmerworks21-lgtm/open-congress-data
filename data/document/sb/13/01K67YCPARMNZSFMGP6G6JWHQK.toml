@@ -6,7 +6,6 @@ name = "SBN-01710"
 [meta]
 bill_number = 1710
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1710", "https://web.senate.gov.ph/lisdata/28932494!.pdf",]
 title = "FOOD DONATION ACT"
 date_filed = "2004-08-10"
 long_title = "AN ACT TO ENCOURAGE THE DONATION OF FOOD FOR CHARITABLE PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Food Donation Act",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28932494!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1710"
 
 [[history]]
 date = "2004-08-10"

@@ -6,7 +6,6 @@ name = "SBN-00459"
 [meta]
 bill_number = 459
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-459", "https://web.senate.gov.ph/lisdata/3080927652!.pdf",]
 title = "AMENDING R.A.NO. 386 TO SET THE MINIMUM AMOUNT OF DEATH INDEMNITY TO P50,000.00"
 date_filed = "2019-07-15"
 long_title = "AN ACT AMENDING ARTICLE 2206 OF REPUBLIC ACT NO. 386, OTHERWISE KNOWN AS THE CIVIL CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Code of the Philippines", "Death Indemnity",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3080927652!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-459"
 
 [[history]]
 date = "2019-07-15"

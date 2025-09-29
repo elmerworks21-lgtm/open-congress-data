@@ -6,7 +6,6 @@ name = "SBN-01501"
 [meta]
 bill_number = 1501
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1501", "https://web.senate.gov.ph/lisdata/3269029561!.pdf",]
 title = "TIMBANGAN SA MERKADO ACT"
 date_filed = "2020-05-04"
 long_title = "AN ACT TO PROTECT FILIPINO CONSUMERS FROM SUBSTANDARD PRODUCTS, MANDATING FOR THIS PURPOSE THE ESTABLISHMENT OF A ‘TIMBANGAN CENTER’ IN ALL PUBLIC AND PRIVATE MARKETS IN THE COUNTRY, AMENDING FOR THE PURPOSE CHAPTER II OF REPUBLIC ACT NO. 7394, OTHERWISE KNOWN AS THE ‘CONSUMER ACT OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Timbangan Ng Bayan", "Consumer Protection", "Public Markets", "Con
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3269029561!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1501"
 
 [[history]]
 date = "2020-05-04"

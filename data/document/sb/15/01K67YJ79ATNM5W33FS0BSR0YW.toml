@@ -6,7 +6,6 @@ name = "SBN-00102"
 [meta]
 bill_number = 102
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-102", "https://web.senate.gov.ph/lisdata/74556344!.pdf",]
 title = "ANTI-INFLUENCE PEDDLING ACT"
 date_filed = "2010-07-05"
 long_title = "AN ACT PENALIZING INFLUENCE PEDDLING AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Influence Peddling",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74556344!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-102"
 
 [[history]]
 date = "2010-07-05"

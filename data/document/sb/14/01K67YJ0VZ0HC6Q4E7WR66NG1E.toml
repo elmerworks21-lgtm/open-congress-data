@@ -6,7 +6,6 @@ name = "SBN-00204"
 [meta]
 bill_number = 204
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-204", "https://web.senate.gov.ph/lisdata/43043700!.pdf",]
 title = "ELECTRONIC MEDICAL RECORDS ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT MAKING AVAILABLE ELECTRONIC MEDICAL RECORDS OF ALL PATIENTS OF HOSPITALS AND CLINICS ESTABLISHING FOR THIS PURPOSE ELECTRONIC MEDICAL RECORD CENTER UNDER THE DEPARTMENT OF HEALTH APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Medical Records", "Department of Health (DOH)", "Health
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43043700!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-204"
 
 [[history]]
 date = "2007-06-30"

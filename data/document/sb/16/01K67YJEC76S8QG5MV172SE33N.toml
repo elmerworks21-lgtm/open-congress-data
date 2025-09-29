@@ -6,7 +6,6 @@ name = "SBN-02896"
 [meta]
 bill_number = 2896
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2896", "https://web.senate.gov.ph/lisdata/2193718654!.pdf",]
 title = "MEDICINE BANK ACT"
 date_filed = "2015-08-11"
 long_title = "AN ACT CREATING A MEDICINE BANK"
@@ -15,6 +14,8 @@ subjects = [ "Medicines/Drugs", "Health Care Delivery System",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2193718654!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2896"
 
 [[history]]
 date = "2015-08-11"

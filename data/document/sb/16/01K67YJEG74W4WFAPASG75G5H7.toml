@@ -6,7 +6,6 @@ name = "SBN-03060"
 [meta]
 bill_number = 3060
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3060", "https://web.senate.gov.ph/lisdata/2278519473!.pdf",]
 title = "UNDIAGNOSED DISEASES REGISTRY ACT"
 date_filed = "2016-01-11"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT AND MAINTENANCE OF AN UNDIAGNOSED DISEASES REGISTRY"
@@ -15,6 +14,8 @@ subjects = [ "Health Care Delivery System", "Diseases Registry",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2278519473!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3060"
 
 [[history]]
 date = "2016-01-11"

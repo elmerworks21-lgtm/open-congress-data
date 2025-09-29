@@ -6,7 +6,6 @@ name = "SBN-01620"
 [meta]
 bill_number = 1620
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1620", "https://web.senate.gov.ph/lisdata/3305429897!.pdf",]
 title = "PANABO CITY DISTRICT HOSPITAL"
 date_filed = "2020-06-18"
 long_title = "AN ACT ESTABLISHING A TWENTY-FIVE (25) BED CAPACITY DISTRICT HOSPITAL IN PANABO CITY, PROVINCE OF DAVAO DEL NORTE, TO BE KNOWN AS THE PANABO CITY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Establishment",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3305429897!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1620"
 
 [[history]]
 date = "2020-06-18"

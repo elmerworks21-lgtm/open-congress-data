@@ -6,7 +6,6 @@ name = "SBN-02480"
 [meta]
 bill_number = 2480
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2480", "https://web.senate.gov.ph/lisdata/60875059!.pdf",]
 title = "SEX OFFENDER REGISTRATION ACT"
 date_filed = "2006-10-04"
 long_title = "AN ACT TO CREATE A SYSTEM OF REGISTRATION AND NOTIFICATION FOR SEX OFFENDERS AND PROVIDING A PENALTY FOR NON-COMPLIANCE"
@@ -15,6 +14,8 @@ subjects = [ "Sex Offender Registration",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60875059!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2480"
 
 [[history]]
 date = "2006-10-04"

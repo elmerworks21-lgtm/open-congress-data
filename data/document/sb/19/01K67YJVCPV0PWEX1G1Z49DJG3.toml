@@ -6,7 +6,6 @@ name = "SBN-00765"
 [meta]
 bill_number = 765
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-765", "https://web.senate.gov.ph/lisdata/3854735002!.pdf",]
 title = "PUBLIC-PRIVATE PARTNERSHIP (PPP) ACT"
 date_filed = "2022-07-19"
 long_title = "AN ACT PROMOTING AND AUTHORIZING PUBLIC - PRIVATE PARTNERSHIPS FOR THE FINANCING, CONSTRUCTION, OPERATION AND MAINTENANCE OF INFRASTRUCTURE FACILITIES APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Public-Private Partnership (PPP) Projects", "Infrastructures",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3854735002!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-765"
 
 [[history]]
 date = "2022-07-19"

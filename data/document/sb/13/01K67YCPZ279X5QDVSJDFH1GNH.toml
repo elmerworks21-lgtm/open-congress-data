@@ -6,7 +6,6 @@ name = "SBN-02681"
 [meta]
 bill_number = 2681
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2681", "https://web.senate.gov.ph/lisdata/72425835!.pdf",]
 title = "VISION CARE FOR KIDS ACT"
 date_filed = "2007-06-06"
 long_title = "AN ACT TO ESTABLISH A GRANT PROGRAM TO PROVIDE VISION CARE TO CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Vision Care for Kids", "Children and Youth (Vision Care)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72425835!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2681"
 
 [[history]]
 date = "2007-06-06"

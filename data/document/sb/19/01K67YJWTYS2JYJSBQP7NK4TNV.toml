@@ -6,7 +6,6 @@ name = "SBN-02690"
 [meta]
 bill_number = 2690
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2690", "https://web.senate.gov.ph/lisdata/4413540120!.pdf",]
 title = "BACOOR ASSEMBLY OF 1898 ACT"
 date_filed = "2024-05-21"
 long_title = "AN ACT DECLARING AUGUST 1 OF EVERY YEAR A SPECIAL WORKING HOLIDAY TO BE KNOWN AS THE 'ARAW NG PAGLALATHALA AT PAGTATANYAG NG KASARINLAN NG PILIPINAS'"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Special Working)",]
 authors_raw = "Revilla Jr., Ramon Bong, Legarda, Loren B."
 author_codes = ["LLORE", "RRAMO"]
 committee_codes = ["CULTA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4413540120!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2690"
 
 [[history]]
 date = "2024-05-21"

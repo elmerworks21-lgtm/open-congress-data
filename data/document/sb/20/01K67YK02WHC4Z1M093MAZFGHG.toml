@@ -6,7 +6,6 @@ name = "SBN-00477"
 [meta]
 bill_number = 477
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-477", "https://web.senate.gov.ph/lisdata/4699642997!.pdf",]
 title = "NATIONAL FILM ARCHIVE ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT CREATING THE NATIONAL FILM ARCHIVE OF THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "National Film Archive",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4699642997!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-477"
 
 [[history]]
 date = "2025-07-14"

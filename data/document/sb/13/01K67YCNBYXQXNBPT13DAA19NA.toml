@@ -6,7 +6,6 @@ name = "SBN-00014"
 [meta]
 bill_number = 14
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-14", "https://web.senate.gov.ph/lisdata/1143567!.pdf",]
 title = "HALAL ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING THE GENERAL GUIDELINES FOR THE PHILIPPINE HALAL SYSTEM, CREATING FOR THE PURPOSE THE PHILIPPINE HALAL EXECUTIVE COUNCIL AND CONVERTING THE SAME INTO A BOARD AFTER THE TRANSITION PERIOD, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Halal Act of 2004", "Muslim Community",]
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
 author_codes = ["AEDGA", "FJUAN"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1143567!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-14"
 
 [[history]]
 date = "2004-06-30"

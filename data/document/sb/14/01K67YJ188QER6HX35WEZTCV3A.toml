@@ -6,7 +6,6 @@ name = "SBN-00793"
 [meta]
 bill_number = 793
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-793", "https://web.senate.gov.ph/lisdata/50174410!.pdf",]
 title = "REVISED PHILIPPINE EXTRADITION LAW"
 date_filed = "2007-07-03"
 long_title = "AN ACT PRESCRIBING THE PROCEDURE FOR THE IMPLEMENTATION OF EXTRADITION TREATIES BETWEEN THE PHILIPPINE GOVERNMENT AND A FOREIGN COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Extradition Law",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50174410!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-793"
 
 [[history]]
 date = "2007-07-03"

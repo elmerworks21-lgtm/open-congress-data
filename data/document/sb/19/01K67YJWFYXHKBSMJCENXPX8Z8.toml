@@ -6,7 +6,6 @@ name = "SBN-02265"
 [meta]
 bill_number = 2265
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2265", "https://web.senate.gov.ph/lisdata/4190238272!.pdf",]
 title = "TRUTHFUL CONGRESSIONAL INQUIRY ACT"
 date_filed = "2023-05-30"
 long_title = "AN ACT DEFINING UNTRUTHFUL STATEMENT AND FABRICATED EVIDENCE BEFORE CONGRESS IN THE CONDUCT OF THEIR LEGISLATIVE AND OVERSIGHT FUNCTIONS COMMITTED BY MILITARY AND UNIFORMED PERSONNEL AND OTHER GOVERNMENT PERSONNEL AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "False Testimony/False Confessions", "Perjury", "Military and Unifo
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4190238272!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2265"
 
 [[history]]
 date = "2023-05-30"

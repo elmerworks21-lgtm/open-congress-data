@@ -6,7 +6,6 @@ name = "SBN-01755"
 [meta]
 bill_number = 1755
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1755", "https://web.senate.gov.ph/lisdata/62055536!.pdf",]
 title = "CLEAN COMMON CARRIERS ACT OF 2007"
 date_filed = "2007-10-16"
 long_title = "AN ACT INCREASING THE PENALTIES OF DRIVERS AND OPERATORS OF COMMON CARRIERS OPERATING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS"
@@ -15,6 +14,8 @@ subjects = [ "Clean Common Carriers",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/62055536!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1755"
 
 [[history]]
 date = "2007-10-16"

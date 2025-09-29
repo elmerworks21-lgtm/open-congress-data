@@ -6,7 +6,6 @@ name = "SBN-02669"
 [meta]
 bill_number = 2669
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2669", "https://web.senate.gov.ph/lisdata/71895774!.pdf",]
 title = "PREVENTIVE MEDICINE AND PUBLIC HEALTH TRAINING ACT"
 date_filed = "2007-06-06"
 long_title = "AN ACT PROVIDING GRANTS FOR THE TRAINING OF MEDICAL RESIDENTS IN PREVENTIVE MEDICINE AND PUBLIC HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Preventive Medicine/Public Health Training", "Medical Residents Gr
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71895774!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2669"
 
 [[history]]
 date = "2007-06-06"

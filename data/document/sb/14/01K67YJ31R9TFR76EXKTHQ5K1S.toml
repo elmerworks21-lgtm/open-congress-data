@@ -6,7 +6,6 @@ name = "SBN-03110"
 [meta]
 bill_number = 3110
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3110", "https://web.senate.gov.ph/lisdata/104319309!.pdf",]
 title = "SAVE OUR CHILDREN ACT"
 date_filed = "2009-03-02"
 long_title = "AN ACT INCREASING THE PENALTY ON CRIMES AGAINST CHILDREN AND ESTABLISHING A SEPARATE DNA DATABASE FOR VIOLENT PREDATORS AGAINST CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Children and Youth", "Dna Database",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/104319309!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3110"
 
 [[history]]
 date = "2009-03-02"

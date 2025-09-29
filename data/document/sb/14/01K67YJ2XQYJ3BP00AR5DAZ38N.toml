@@ -6,7 +6,6 @@ name = "SBN-02929"
 [meta]
 bill_number = 2929
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2929", "https://web.senate.gov.ph/lisdata/95008608!.pdf",]
 title = "FINANCIAL CRIMES TASK FORCE ACT OF 2008"
 date_filed = "2008-12-03"
 long_title = "AN ACT TO ESTABLISH THE TASK FORCE ON FINANCIAL CRIMES"
@@ -15,6 +14,8 @@ subjects = [ "Financial Crimes",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/95008608!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2929"
 
 [[history]]
 date = "2008-12-03"

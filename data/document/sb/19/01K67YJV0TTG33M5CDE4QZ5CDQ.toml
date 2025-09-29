@@ -6,7 +6,6 @@ name = "SBN-00215"
 [meta]
 bill_number = 215
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-215", "https://web.senate.gov.ph/lisdata/3792334497!.pdf",]
 title = "REDEFINING THE CRIME OF ILLEGAL RECRUITMENT COMMITTED BY A SYNDICATE"
 date_filed = "2022-07-07"
 long_title = "AN ACT REDEFINING THE CRIME OF ILLEGAL RECRUITMENT COMMITTED BY A SYNDICATE, AMENDING FOR THE PURPOSE ARTICLE 38 OF PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE ‘LABOR CODE OF THE PHILIPPINES’, AS AMENDED AND SECTION 6 OF REPUBLIC ACT NO. 10022 OTHERWISE KNOWN AS THE MIGRANT WORKERS ACT, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Illegal Recruitment", "Labor Code of the Philippines (P.D.No. 442)
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["MIGRW"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3792334497!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-215"
 
 [[history]]
 date = "2022-07-07"

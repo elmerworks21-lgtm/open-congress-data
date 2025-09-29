@@ -6,7 +6,6 @@ name = "SBN-00138"
 [meta]
 bill_number = 138
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-138", "https://web.senate.gov.ph/lisdata/75736385!.pdf",]
 title = "IMMUNIZATION SERVICES AGAINST HEPATITIS-B FOR INFANTS"
 date_filed = "2010-07-05"
 long_title = "AN ACT REQUIRING MANDATORY BASIC IMMUNIZATION SERVICES AGAINST HEPATITIS-B FOR INFANTS, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 996 AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hepatitis-B",]
 authors_raw = "Cayetano, Pia S., Legarda, Loren B., Ejercito-Estrada, Jinggoy P., Cayetano, Alan Peter Companero S."
 author_codes = ["CALAN", "CPIAS", "EJING", "LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75736385!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-138"
 
 [[history]]
 date = "2010-07-05"

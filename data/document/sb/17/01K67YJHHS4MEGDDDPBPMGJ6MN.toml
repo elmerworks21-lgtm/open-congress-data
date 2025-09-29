@@ -6,7 +6,6 @@ name = "SBN-00571"
 [meta]
 bill_number = 571
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-571", "https://web.senate.gov.ph/lisdata/2403620694!.pdf",]
 title = "BAMBOO AND RATTAN ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT PROPOSING THE CREATION OF THE PHILIPPINE BAMBOO AND RATTAN CENTER (PBRC) TO CONSERVE, PROPAGATE AND PROMOTE BAMBOO AND RATTAN SPECIES"
@@ -15,6 +14,8 @@ subjects = [ "Bamboo and Rattan",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2403620694!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-571"
 
 [[history]]
 date = "2016-07-19"

@@ -6,7 +6,6 @@ name = "SBN-02378"
 [meta]
 bill_number = 2378
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2378", "https://web.senate.gov.ph/lisdata/55644599!.pdf",]
 title = "HEALTH WORKERS' DAY ACT"
 date_filed = "2006-06-07"
 long_title = "AN ACT DECLARING MAY 7 OF EVERY YEAR AS HEALTH WORKERS DAY"
@@ -15,6 +14,8 @@ subjects = [ "Holiday: Health Workers Day (May 7)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55644599!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2378"
 
 [[history]]
 date = "2006-06-07"

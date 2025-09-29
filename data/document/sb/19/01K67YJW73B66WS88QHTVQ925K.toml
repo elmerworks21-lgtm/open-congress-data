@@ -6,7 +6,6 @@ name = "SBN-01901"
 [meta]
 bill_number = 1901
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1901", "https://web.senate.gov.ph/lisdata/4082037193!.pdf",]
 title = "TAWANG INTEGRATED SCHOOL"
 date_filed = "2023-02-20"
 long_title = "AN ACT CONVERTING TAWANG ELEMENTARY SCHOOL IN BARANGAY TAWANG, MUNICIPALITY OF LA TRINIDAD, PROVINCE OF BENGUET INTO AN INTEGRATED SCHOOL TO BE KNOWN AS TAWANG INTEGRATED SCHOOL AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Schools, Conversion",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4082037193!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1901"
 
 [[history]]
 date = "2023-02-20"

@@ -6,7 +6,6 @@ name = "SBN-00106"
 [meta]
 bill_number = 106
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-106", "https://web.senate.gov.ph/lisdata/1588313122!.pdf",]
 title = "MICRO-ENTERPRISE DEVELOPMENT INSTITUTION ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT GOVERNING THE CREATION AND ACCREDITATION OF MICRO-ENTERPRISE DEVELOPMENT INSTITUTIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Microenterprise Development Institutions (Microdevs)", "Poverty Al
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1588313122!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-106"
 
 [[history]]
 date = "2013-07-01"

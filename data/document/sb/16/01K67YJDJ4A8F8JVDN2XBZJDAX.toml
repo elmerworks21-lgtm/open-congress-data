@@ -6,7 +6,6 @@ name = "SBN-01987"
 [meta]
 bill_number = 1987
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1987", "https://web.senate.gov.ph/lisdata/1837315538!.pdf",]
 title = "BAKOD CENTRAL VISAYAS ACT OF 2013"
 date_filed = "2013-11-28"
 long_title = "AN ACT ESTABLISHING THE BAKOD CENTRAL VISAYAS COMMISSION FOR THE AID, RECONSTRUCTION, RELIEF, REHABILITATION, HOME REBUILDING FINANCING SUBSIDY, LIVELIHOOD GENERATION AND EMPLOYMENT SERVICES, PUBLIC INFRASTRUCTURE REBUILDING, AND HERITAGE STRUCTURES AND TOURISM SITES RESTORATION, FOR THE VICTIMS AND AFFECTED AREAS OF THE OCTOBER 15, 2013 EARTHQUAKE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES."
@@ -15,6 +14,8 @@ subjects = [ "Earthquake",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1837315538!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1987"
 
 [[history]]
 date = "2013-11-28"

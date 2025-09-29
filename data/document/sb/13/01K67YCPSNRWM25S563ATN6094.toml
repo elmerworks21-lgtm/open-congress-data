@@ -6,7 +6,6 @@ name = "SBN-02448"
 [meta]
 bill_number = 2448
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2448", "https://web.senate.gov.ph/lisdata/58574846!.pdf",]
 title = "SENIOR CITIZENS DISCOUNT ON PETROLEUM PRODUCTS"
 date_filed = "2006-08-28"
 long_title = "AN ACT GRANTING ALL QUALIFIED SENIOR CITIZENS TWENTY PERCENT (20%) DISCOUNT ON GASOLINE, KEROSENE, LIQUEFIED PETROLEUM GAS (LPG) AND OTHER PETROLEUM PRODUCTS, AMENDING FOR THE PURPOSE SECTION 4 AND 10 OF REPUBLIC ACT NO. 7432, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens (Benefits", "Privileges)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58574846!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2448"
 
 [[history]]
 date = "2006-08-28"

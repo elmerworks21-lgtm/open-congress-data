@@ -6,7 +6,6 @@ name = "SBN-00521"
 [meta]
 bill_number = 521
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-521", "https://web.senate.gov.ph/lisdata/3090427754!.pdf",]
 title = "DON CARLOS POLYTECHNIC STATE COLLEGE"
 date_filed = "2019-07-16"
 long_title = "AN ACT CONVERTING THE DON CARLOS POLYTECHNIC COLLEGE INTO A STATE COLLEGE TO BE KNOWN AS DON CARLOS POLYTECHNIC STATE COLLEGE"
@@ -15,6 +14,8 @@ subjects = [ "State Colleges and Universities (SCUS)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3090427754!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-521"
 
 [[history]]
 date = "2019-07-16"

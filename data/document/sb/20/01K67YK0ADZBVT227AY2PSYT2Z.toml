@@ -6,7 +6,6 @@ name = "SBN-00880"
 [meta]
 bill_number = 880
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-880", "https://web.senate.gov.ph/lisdata/4747243474!.pdf",]
 title = "PANDEMIC AND OTHER PUBLIC HEALTH EMERGENCY PREPAREDNESS ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT ESTABLISHING A PANDEMIC AND OTHER PUBLIC HEALTH EMERGENCY PREPAREDNESS PLAN, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Pandemic Preparedness and Response", "Public Health Emergency Response",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4747243474!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-880"
 
 [[history]]
 date = "2025-08-04"

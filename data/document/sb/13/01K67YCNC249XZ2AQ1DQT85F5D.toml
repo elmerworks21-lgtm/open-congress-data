@@ -6,7 +6,6 @@ name = "SBN-00020"
 [meta]
 bill_number = 20
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-20", "https://web.senate.gov.ph/lisdata/1149573!.pdf",]
 title = "REVISED AGRI-AGRA ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 717, OTHERWISE KNOWN AS THE AGRI-AGRA LAW, TO MAXIMIZE THE USAGE OF THE AGRI-AGRA FUND, WITH STRICT EMPHASIS ON RURAL CREDIT FOCUSING ON SMALL FARMERS, FISHERMEN AND ENTERPRISES WITH CAPITALIZATIONS NOT EXCEEDING 500,000 PESOS"
@@ -15,6 +14,8 @@ subjects = [ "Agri-Agra Law (Pd 717, Amendments)", "Rural Credit (Agri-Agra Fund
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1149573!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-20"
 
 [[history]]
 date = "2004-06-30"

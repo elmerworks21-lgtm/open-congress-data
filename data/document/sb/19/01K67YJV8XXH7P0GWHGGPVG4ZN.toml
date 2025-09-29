@@ -6,7 +6,6 @@ name = "SBN-00590"
 [meta]
 bill_number = 590
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-590", "https://web.senate.gov.ph/lisdata/3837234821!.pdf",]
 title = "DOMESTIC VEHICLE PROCUREMENT ACT OF 2021"
 date_filed = "2022-07-14"
 long_title = "AN ACT PRIORITIZING DOMESTICALLY MANUFACTURED VEHICLES IN PUBLIC PROCUREMENT"
@@ -15,6 +14,8 @@ subjects = [ "Domestic Vehicle Procurement", "Public Procurement", "Domestic Man
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3837234821!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-590"
 
 [[history]]
 date = "2022-07-14"

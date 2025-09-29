@@ -6,7 +6,6 @@ name = "SBN-00068"
 [meta]
 bill_number = 68
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-68", "https://web.senate.gov.ph/lisdata/2348120105!.pdf",]
 title = "PUBLIC TELECOMMUNICATIONS ACT OF THE PHILIPPINES"
 date_filed = "2016-06-30"
 long_title = "AN ACT EXPANDING THE COVERAGE AND STRENGTHENING THE POWERS OF THE NATIONAL TELECOMMUNICATIONS COMMISSION (NTC) AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7925 OTHERWISE KNOWN AS THE PUBLIC TELECOMMUNICATIONS ACT OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "National Telecommunications Commission (NTC)", "Public Telecommuni
 authors_raw = "Recto, Ralph G., Villanueva, Joel"
 author_codes = ["RRALP", "VEMMA"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2348120105!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-68"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00765"
 [meta]
 bill_number = 765
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-765", "https://web.senate.gov.ph/lisdata/2429720900!.pdf",]
 title = "DOWNSTREAM NATURAL GAS INDUSTRY DEVELOPMENT ACT"
 date_filed = "2016-07-21"
 long_title = "AN ACT ORDAINING THE DEVELOPMENT OF THE DOWNSTREAM NATURAL GAS INDUSTRY, CONSOLIDATING FOR THE PURPOSE ALL LAWS RELATING TO THE TRANSMISSION, DISTRIBUTION AND SUPPLY OF NATURAL GAS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Downstream Natural Gas Industry",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2429720900!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-765"
 
 [[history]]
 date = "2016-07-21"

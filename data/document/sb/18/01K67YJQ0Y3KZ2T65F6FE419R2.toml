@@ -6,7 +6,6 @@ name = "SBN-00949"
 [meta]
 bill_number = 949
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-949", "https://web.senate.gov.ph/lisdata/3134328240!.pdf",]
 title = "TRIBAL HEALTH WORKERS ACT OF 2017"
 date_filed = "2019-08-20"
 long_title = "AN ACT STRENGTHENING THE HEALTHCARE SYSTEM IN CULTURAL AND INDIGENOUS COMMUNITIES BY INSTITUTIONALIZING THE TRAINING AND EMPLOYMENT OF TRIBAL HEALTH WORKERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Indigenous Cultural Communities", "Tribal Health Workers",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3134328240!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-949"
 
 [[history]]
 date = "2019-08-20"

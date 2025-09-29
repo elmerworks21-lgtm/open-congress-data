@@ -6,7 +6,6 @@ name = "SBN-00944"
 [meta]
 bill_number = 944
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-944", "https://web.senate.gov.ph/lisdata/52034570!.pdf",]
 title = "NUISANCE CANDIDATES"
 date_filed = "2007-07-04"
 long_title = "AN ACT EXPANDING THE GROUNDS FOR DECLARING A PERSON WHO FILED A CERTIFICATE OF CANDIDACY A NUISANCE CANDIDATE, AMENDING SECTION 69 OF BATAS PAMBANSA BLG. 881, AS AMENDED OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "Nuisance Candid
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52034570!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-944"
 
 [[history]]
 date = "2007-07-04"

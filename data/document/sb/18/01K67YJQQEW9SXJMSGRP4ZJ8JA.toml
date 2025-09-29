@@ -6,7 +6,6 @@ name = "SBN-01900"
 [meta]
 bill_number = 1900
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1900", "https://web.senate.gov.ph/lisdata/3388230683!.pdf",]
 title = "BACOOR CITY LTO REGULAR DISTRICT OFFICE"
 date_filed = "2020-11-09"
 long_title = "AN ACT ESTABLISHING A REGULAR DISTRICT OFFICE OF THE LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD (LTFRB) IN THE CITY OF BACOOR, PROVINCE OF CAVITE AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Land Transportation Franchising and Regulatory Board (Ltfrb)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3388230683!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1900"
 
 [[history]]
 date = "2020-11-09"

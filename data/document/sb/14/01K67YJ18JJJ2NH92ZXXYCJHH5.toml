@@ -6,7 +6,6 @@ name = "SBN-00809"
 [meta]
 bill_number = 809
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-809", "https://web.senate.gov.ph/lisdata/50334426!.pdf",]
 title = "DPWH MAY PROGRAM A SUBSTITUTE PRIORITY PROJECT LISTING"
 date_filed = "2007-07-03"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8150 ENTITLED AN ACT PROVIDING FOR A FOUR-YEAR PUBLIC WORKS AND HIGHWAYS INFRASTRUCTURE PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Department of Public Works and Highways (DPWH)", "Infrastructure P
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50334426!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-809"
 
 [[history]]
 date = "2007-07-03"

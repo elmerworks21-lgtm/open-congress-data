@@ -6,7 +6,6 @@ name = "SBN-00402"
 [meta]
 bill_number = 402
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-402", "https://web.senate.gov.ph/lisdata/77796650!.pdf",]
 title = "PHILIPPINE HAZARDOUS AND RADIOACTIVE WASTE MANAGEMENT ACT"
 date_filed = "2010-07-06"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE HAZARDOUS AND RADIOACTIVE WASTES MANAGEMENT, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Hazardous", "Toxic", "Radioactive Wastes Management",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/77796650!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-402"
 
 [[history]]
 date = "2010-07-06"

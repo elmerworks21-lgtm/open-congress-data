@@ -6,7 +6,6 @@ name = "SBN-01299"
 [meta]
 bill_number = 1299
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1299", "https://web.senate.gov.ph/lisdata/4794943970!.pdf",]
 title = "MAHIYA NAMAN KAYO ACT"
 date_filed = "2025-08-27"
 long_title = "AN ACT PROMOTING TRANSPARENCY, ACCOUNTABILITY, AND GOOD GOVERNANCE BY PROHIBITING MEMBERS OF CONGRESS FROM INTERVENING IN THE IDENTIFICATION AND BUDGETING OF LOCAL INFRASTRUCTURE PROJECTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Good Governance", "Infrastructures", "Accountability/Transparency"
 authors_raw = "Padilla, Robinhood"
 author_codes = ["PROBI"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4794943970!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1299"
 
 [[history]]
 date = "2025-08-27"

@@ -6,7 +6,6 @@ name = "SBN-00723"
 [meta]
 bill_number = 723
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-723", "https://web.senate.gov.ph/lisdata/3107527972!.pdf",]
 title = "MUFFLER ACT OF 2019"
 date_filed = "2019-07-24"
 long_title = "AN ACT PROHIBITING THE USE OF MOTOR VEHICLES WITHOUT MUFFLERS OR THOSE THAT ARE DEFECTIVE OR HAVE BEEN MODIFIED WHICH INCREASE THE SOUND EMITTED BY MOTOR VEHICLES, PENALIZING OWNERS AND DRIVERS THAT CONTRIBUTE TO NOISE POLLUTION IN THE ENVIRONMENT"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Motor Vehicles", "Mufflers", "Noise Pollution",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3107527972!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-723"
 
 [[history]]
 date = "2019-07-24"

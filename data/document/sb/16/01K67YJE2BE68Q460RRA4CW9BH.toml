@@ -6,7 +6,6 @@ name = "SBN-02678"
 [meta]
 bill_number = 2678
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2678", "https://web.senate.gov.ph/lisdata/2070117803!.pdf",]
 title = "LIFEGUARD ACT"
 date_filed = "2015-03-03"
 long_title = "AN ACT PROVIDING FOR THE EMPLOYMENT OF QUALIFIED LIFEGUARDS AT ALL PUBLIC SWIMMING POOLS AND BATHING FACILITIES, AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Lifeguard",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2070117803!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2678"
 
 [[history]]
 date = "2015-03-03"

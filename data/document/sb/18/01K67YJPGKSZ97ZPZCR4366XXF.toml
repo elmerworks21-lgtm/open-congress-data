@@ -6,7 +6,6 @@ name = "SBN-00192"
 [meta]
 bill_number = 192
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-192", "https://web.senate.gov.ph/lisdata/3037827177!.pdf",]
 title = "DEPARTMENT OF SPORTS ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT CREATING THE DEPARTMENT OF SPORTS, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sports Development Program", "Department of Sports",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3037827177!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-192"
 
 [[history]]
 date = "2019-07-02"

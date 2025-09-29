@@ -6,7 +6,6 @@ name = "SBN-02405"
 [meta]
 bill_number = 2405
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2405", "https://web.senate.gov.ph/lisdata/56374723!.pdf",]
 title = "COMMISSION OF ACTS OF TORTURE AND INVOLUNTARY DISAPPEARANCE OF PERSONS ARRESTED"
 date_filed = "2006-06-20"
 long_title = "AN ACT PENALIZING THE COMMISSION OF ACTS OF TORTURE AND INVOLUNTARY DISAPPEARANCE OF PERSONS ARRESTED, DETAINED OR UNDER CUSTODIAL INVESTIGATION, AND GRANTING JURISDICTION TO THE COMMISSION ON HUMAN RIGHTS TO CONDUCT PRELIMINARY INVESTIGATION FOR VIOLATION OF THE CUSTODIAL RIGHTS OF THE ACCUSED, AMENDING FOR THIS PURPOSE SECTIONS 2, 3 AND 4 OF R.A. 7438, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Involuntary Disappearance Act", "R.A. No. 7438 (Involuntary Disapp
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56374723!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2405"
 
 [[history]]
 date = "2006-06-20"

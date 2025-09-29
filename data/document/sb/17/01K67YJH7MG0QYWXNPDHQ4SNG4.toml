@@ -6,7 +6,6 @@ name = "SBN-00140"
 [meta]
 bill_number = 140
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-140", "https://web.senate.gov.ph/lisdata/2355921229!.pdf",]
 title = "FREE IRRIGATION REFORM AND RESTRUCTURING ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FOR FREE IRRIGATION SERVICES TO FARMERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 3601, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Farmers", "Irrigation", "National Irrigation Administration",]
 authors_raw = "Villar, Cynthia A., Legarda, Loren B."
 author_codes = ["LLORE", "VCYNT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2355921229!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-140"
 
 [[history]]
 date = "2016-06-30"

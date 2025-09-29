@@ -6,7 +6,6 @@ name = "SBN-01313"
 [meta]
 bill_number = 1313
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1313", "https://web.senate.gov.ph/lisdata/2534421846!.pdf",]
 title = "PUBLIC HEALTH INTERVENTION FOR DRUG USE ACT OF 2017"
 date_filed = "2017-02-06"
 long_title = "AN ACT MAINSTREAMING THE PUBLIC HEALTH APPROACH TO PHILIPPINE DRUG POLICY, ESTABLISHING AND IMPLEMENTING COMMUNITY-BASED PROGRAMS AND STRATEGIES FOR DRUG-RELATED ISSUES AND CONCERNS, AND PROHIBITING HARMFUL AND DISCRIMINATORY INTERVENTIONS AND PRACTICES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Public Health Intervention for Drug Use", "Drug Addict", "Illegal 
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2534421846!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1313"
 
 [[history]]
 date = "2017-02-06"

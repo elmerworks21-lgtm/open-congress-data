@@ -6,7 +6,6 @@ name = "SBN-02001"
 [meta]
 bill_number = 2001
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2001", "https://web.senate.gov.ph/lisdata/34272710!.pdf",]
 title = "NATIONAL LABOR RELATION COMMISSION"
 date_filed = "2005-05-17"
 long_title = "AN ACT DEFINING THE JURISDICTION OF LABOR CASES BETWEEN THE NATIONAL LABOR RELATION COMMISSION AND THE REGIONAL OFFICES OF THE DEPARTMENT OF LABOR AND EMPLOYMENT, AMENDING FOR THIS PURPOSE, ARTICLES 129 AND 217 OF PRESIDENTIAL DECREE FOUR HUNDRED FORTY TWO (PD 442), AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "National Labor Relations Commission",]
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34272710!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2001"
 
 [[history]]
 date = "2005-05-17"

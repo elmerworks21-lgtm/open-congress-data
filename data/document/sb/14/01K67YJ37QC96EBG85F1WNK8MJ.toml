@@ -6,7 +6,6 @@ name = "SBN-03364"
 [meta]
 bill_number = 3364
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3364", "https://web.senate.gov.ph/lisdata/1201910577!.pdf",]
 title = "PROBABLE CARCINOGEN INFORMATION ACT OF 2009"
 date_filed = "2009-07-28"
 long_title = "AN ACT CREATING A DATABASE OF PRODUCTS CONTAINING PROBABLE CARCINOGENS"
@@ -15,6 +14,8 @@ subjects = [ "Carcinogens",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1201910577!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3364"
 
 [[history]]
 date = "2009-07-28"

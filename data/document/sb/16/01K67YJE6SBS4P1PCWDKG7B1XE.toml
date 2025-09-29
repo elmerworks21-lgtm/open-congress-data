@@ -6,7 +6,6 @@ name = "SBN-02800"
 [meta]
 bill_number = 2800
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2800", "https://web.senate.gov.ph/lisdata/2162218346!.pdf",]
 title = "AMENDING SEC. 391, INSURANCE CODE"
 date_filed = "2015-06-04"
 long_title = "AN ACT FURTHER AMENDING SECTION 391 OF PRESIDENTIAL DECREE NO. 612, OTHERWISE KNOWN AS THE 'INSURANCE CODE', AS AMENDED BY REPUBLIC ACT NO. 10607"
@@ -15,6 +14,8 @@ subjects = [ "Insurance Code",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2162218346!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2800"
 
 [[history]]
 date = "2015-06-04"

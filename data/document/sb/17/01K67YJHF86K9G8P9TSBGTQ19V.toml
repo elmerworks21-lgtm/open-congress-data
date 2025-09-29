@@ -6,7 +6,6 @@ name = "SBN-00451"
 [meta]
 bill_number = 451
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-451", "https://web.senate.gov.ph/lisdata/2388820515!.pdf",]
 title = "DEPARTMENT OF SPORTS ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT CREATING THE DEPARTMENT OF SPORTS, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Sports",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2388820515!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-451"
 
 [[history]]
 date = "2016-07-19"

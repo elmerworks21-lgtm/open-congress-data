@@ -6,7 +6,6 @@ name = "SBN-00536"
 [meta]
 bill_number = 536
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-536", "https://web.senate.gov.ph/lisdata/3091927780!.pdf",]
 title = "REPEALING R.A. NO. 10912 (CONTINUING PROFESSIONAL DEVELOPMENT ACT OF 2016)"
 date_filed = "2019-07-16"
 long_title = "AN ACT REPEALING REPUBLIC ACT NO. 10912, OTHERWISE KNOWN AS THE ‘CONTINUING PROFESSIONAL DEVELOPMENT ACT OF 2016"
@@ -15,6 +14,8 @@ subjects = [ "Continuing Professional Development (R.A.No. 10912)",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3091927780!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-536"
 
 [[history]]
 date = "2019-07-16"

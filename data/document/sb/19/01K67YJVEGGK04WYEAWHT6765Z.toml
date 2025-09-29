@@ -6,7 +6,6 @@ name = "SBN-00845"
 [meta]
 bill_number = 845
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-845", "https://web.senate.gov.ph/lisdata/3865935113!.pdf",]
 title = "AGRICULTURE EDUCATION ACT OF 2022"
 date_filed = "2022-07-25"
 long_title = "AN ACT RATIONALIZING AGRICULTURE EDUCATION IN THE PHILIPPINES BY ESTABLISHING A NATIONAL SYSTEM OF AGRICULTURE EDUCATION INSTITUTIONS, PROVIDING FOR MECHANISMS OF IMPLEMENTATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Agriculture Education",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3865935113!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-845"
 
 [[history]]
 date = "2022-07-25"

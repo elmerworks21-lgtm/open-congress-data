@@ -6,7 +6,6 @@ name = "SBN-01151"
 [meta]
 bill_number = 1151
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1151", "https://web.senate.gov.ph/lisdata/3182728685!.pdf",]
 title = "RELIEF GOODS FREE TRANSPORTATION ACT"
 date_filed = "2019-11-06"
 long_title = "AN ACT PROVIDING FOR FREE FREIGHT SERVICES IN THE TRANSPORTATION OF RELIEF GOODS TO CALAMITY-STRICKEN AREAS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Calamity/Disaster", "Relief Goods",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3182728685!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1151"
 
 [[history]]
 date = "2019-11-06"

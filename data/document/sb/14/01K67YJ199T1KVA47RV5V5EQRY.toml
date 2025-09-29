@@ -6,7 +6,6 @@ name = "SBN-00844"
 [meta]
 bill_number = 844
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-844", "https://web.senate.gov.ph/lisdata/50714461!.pdf",]
 title = "MARITIME ADMINISTRATION ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT CONSOLIDATING ADMIRALTY AND MARITIME LAWS TO MODERNIZE THE MARITIME INDUSTRY, PROMOTE AND REGULATE MERCHANT MARINE ACTIVITIES, RATIONALIZE THE ORGANIZATION AND FUNCTIONS OF GOVERNMENT AGENCIES RELATED TO ADMIRALTY AND MARITIME MATTERS, AND ENSURE THE PROTECTION OF THE MARINE WEALTH IN THE PHILIPPINE TERRITORY"
@@ -15,6 +14,8 @@ subjects = [ "Maritime Administration",]
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50714461!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-844"
 
 [[history]]
 date = "2007-07-03"

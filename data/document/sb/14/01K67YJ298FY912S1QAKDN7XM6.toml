@@ -6,7 +6,6 @@ name = "SBN-02031"
 [meta]
 bill_number = 2031
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2031", "https://web.senate.gov.ph/lisdata/67435994!.pdf",]
 title = "NUTRITION AND HEALTH ACT OF 2008"
 date_filed = "2008-01-29"
 long_title = "AN ACT TO ESTABLISH WITHIN THE DEPARTMENT OF HEALTH A PERMANENT COUNCIL ON NUTRITION AND HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Department of Health (DOH)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67435994!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2031"
 
 [[history]]
 date = "2008-01-29"

@@ -6,7 +6,6 @@ name = "SBN-03525"
 [meta]
 bill_number = 3525
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3525", "https://web.senate.gov.ph/lisdata/1296511652!.pdf",]
 title = "CHILD CARE CENTER ACT OF 2009"
 date_filed = "2009-11-11"
 long_title = "AN ACT REGULATING CHILD CARE CENTERS"
@@ -15,6 +14,8 @@ subjects = [ "Children Center", "Child Care Center",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1296511652!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3525"
 
 [[history]]
 date = "2009-11-11"

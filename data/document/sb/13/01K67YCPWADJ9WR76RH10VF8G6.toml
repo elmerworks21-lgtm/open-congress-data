@@ -6,7 +6,6 @@ name = "SBN-02571"
 [meta]
 bill_number = 2571
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2571", "https://web.senate.gov.ph/lisdata/67085495!.pdf",]
 title = "COMPREHENSIVE HANDEDNESS ACT OF 2007"
 date_filed = "2007-01-22"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE FRAMEWORK AND PROGRAM FOR LEFT-HANDERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Comprehensive Handedness Act",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67085495!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2571"
 
 [[history]]
 date = "2007-01-22"

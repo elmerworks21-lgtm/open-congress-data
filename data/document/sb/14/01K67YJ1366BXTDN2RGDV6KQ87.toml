@@ -6,7 +6,6 @@ name = "SBN-00541"
 [meta]
 bill_number = 541
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-541", "https://web.senate.gov.ph/lisdata/47524071!.pdf",]
 title = "PHILIPPINE COAST GUARD ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE COAST GUARD AS AN ATTACHED AGENCY TO THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS, FURTHER AMENDING REPUBLIC ACT NO. 5173 AND PRESIDENTIAL DECREE 601, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Coast Guard", "Department of Transportation and Communi
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47524071!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-541"
 
 [[history]]
 date = "2007-07-02"

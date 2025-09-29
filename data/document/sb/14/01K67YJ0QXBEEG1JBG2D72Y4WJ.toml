@@ -6,7 +6,6 @@ name = "SBN-00028"
 [meta]
 bill_number = 28
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-28", "https://web.senate.gov.ph/lisdata/42053468!.pdf",]
 title = "GMO BAN ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROHIBITING THE IMPORTATION OF GMO PLANTS, FRUITS, FOOD AND PRODUCTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Genetically Modified Organism (GMO)", "Food Products",]
 authors_raw = "Madrigal, M. A."
 author_codes = ["MJAMB"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42053468!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-28"
 
 [[history]]
 date = "2007-06-30"

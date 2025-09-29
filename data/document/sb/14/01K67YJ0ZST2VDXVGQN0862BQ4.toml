@@ -6,7 +6,6 @@ name = "SBN-00375"
 [meta]
 bill_number = 375
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-375", "https://web.senate.gov.ph/lisdata/45423896!.pdf",]
 title = "NATIONAL EDUCATION ASSESSMENT AND EVALUATION ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT CONVERTING THE NATIONAL EDUCATION TESTING AND RESEARCH CENTER (NERTC) INTO A NATIONAL EDUCATION ASSESSMENT AND EVALUATION AUTHORITY (NEAEA), DEFINING ITS STRUCTURE, POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Education Assessment and Evaluation", "National Education
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45423896!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-375"
 
 [[history]]
 date = "2007-07-02"

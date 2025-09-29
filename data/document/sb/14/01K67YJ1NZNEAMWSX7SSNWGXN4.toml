@@ -6,7 +6,6 @@ name = "SBN-01459"
 [meta]
 bill_number = 1459
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1459", "https://web.senate.gov.ph/lisdata/57705129!.pdf",]
 title = "CLARIFYING PROJECT EMPLOYMENT AND REQUIREMENT FOR REHIRING"
 date_filed = "2007-08-14"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 442, KNOWN AS THE LABOR CODE, ARTICLE 280, TO CLARIFY THE INDICIA OF PROJECT EMPLOYMENT, REQUIREMENT FOR REHIRING OF PROJECT EMPLOYEES, AND CONDITIONS FOR THEIR EMPLOYMENT AND TERMINATION"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code (Pd 442)", "Private Sector", "Project Employment",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/57705129!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1459"
 
 [[history]]
 date = "2007-08-14"

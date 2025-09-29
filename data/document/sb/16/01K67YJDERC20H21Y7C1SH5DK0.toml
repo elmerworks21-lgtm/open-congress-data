@@ -6,7 +6,6 @@ name = "SBN-01819"
 [meta]
 bill_number = 1819
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1819", "https://web.senate.gov.ph/lisdata/1801915252!.pdf",]
 title = "MAMMOGRAPHY"
 date_filed = "2013-10-03"
 long_title = "AN ACT ESTABLISHING QUALITY STANDARDS IN MAMMOGRAPHY"
@@ -15,6 +14,8 @@ subjects = [ "Mammography",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1801915252!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1819"
 
 [[history]]
 date = "2013-10-03"

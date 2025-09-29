@@ -6,7 +6,6 @@ name = "SBN-00220"
 [meta]
 bill_number = 220
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-220", "https://web.senate.gov.ph/lisdata/3047927356!.pdf",]
 title = "RATIONALIZING THE EARMARKING OF VALUE-ADDED TAXATION"
 date_filed = "2019-07-03"
 long_title = "AN ACT RATIONALIZING THE EARMARKING OF VALUE-ADDED TAXATION TO ADDRESS INTER-GENERATIONAL POVERTY, AMENDING FOR THE PURPOSE SECTION 288 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Value-Added Tax / Vat)", "Poverty Alleviation", "National I
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3047927356!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-220"
 
 [[history]]
 date = "2019-07-03"

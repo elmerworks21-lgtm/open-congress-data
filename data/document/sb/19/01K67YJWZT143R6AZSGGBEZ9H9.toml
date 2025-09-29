@@ -6,7 +6,6 @@ name = "SBN-02857"
 [meta]
 bill_number = 2857
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2857", "https://web.senate.gov.ph/lisdata/4516341026!.pdf",]
 title = "FILM PHILIPPINES ACT"
 date_filed = "2024-10-28"
 long_title = "AN ACT PROVIDING FOR THE PROMOTION OF FILM AND TELEVISION TOURISM, CREATING THE FILM PHILIPPINES OFFICE, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Film", "Film Tourism", "Film/Movie Industry",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4516341026!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2857"
 
 [[history]]
 date = "2024-10-28"

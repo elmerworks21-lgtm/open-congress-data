@@ -6,7 +6,6 @@ name = "SBN-01942"
 [meta]
 bill_number = 1942
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1942", "https://web.senate.gov.ph/lisdata/32512422!.pdf",]
 title = "PHILIPPINE FOOD TECHNOLOGY OF 2005"
 date_filed = "2005-03-01"
 long_title = "AN ACT PROVIDING FOR THE REGISTRATION, LICENSURE AND PRACTICE OF FOOD TECHNOLOGY IN THE PHILIPPINES, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES."
@@ -15,6 +14,8 @@ subjects = [ "Philippine Food Technology of 2005", "Food Technology (Licensure)"
 authors_raw = "Magsaysay Jr., Ramon B."
 author_codes = ["MRAMO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/32512422!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1942"
 
 [[history]]
 date = "2005-03-01"

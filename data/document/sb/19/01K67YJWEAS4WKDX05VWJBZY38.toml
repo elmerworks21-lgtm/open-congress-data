@@ -6,7 +6,6 @@ name = "SBN-02205"
 [meta]
 bill_number = 2205
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2205", "https://web.senate.gov.ph/lisdata/4169537977!.pdf",]
 title = "AMENDING R.A. NO. 10845 (ANTI-AGRICULTURAL SMUGGLING ACT)"
 date_filed = "2023-05-16"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 10845, OTHERWISE KNOWN AS THE ANTI-AGRICULTURAL SMUGGLING ACT OF 2016, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Smuggling", "Anti-Smuggling",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4169537977!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2205"
 
 [[history]]
 date = "2023-05-16"

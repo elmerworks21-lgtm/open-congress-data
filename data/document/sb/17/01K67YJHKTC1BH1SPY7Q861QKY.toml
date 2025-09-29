@@ -6,7 +6,6 @@ name = "SBN-00668"
 [meta]
 bill_number = 668
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-668", "https://web.senate.gov.ph/lisdata/2415820796!.pdf",]
 title = "PHILIPPINE ISLAMIC FINANCING ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6848, ALSO KNOWN AS CHARTER OF AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES, AND PROVIING FOR THE REGULATION AND ORGANIZATION OF AN EXPANDED ISLAMIC BANKING SYSTEM IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Islamic Banking",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2415820796!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-668"
 
 [[history]]
 date = "2016-07-20"

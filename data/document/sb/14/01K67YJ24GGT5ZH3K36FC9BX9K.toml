@@ -6,7 +6,6 @@ name = "SBN-01843"
 [meta]
 bill_number = 1843
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1843", "https://web.senate.gov.ph/lisdata/63095635!.pdf",]
 title = "ANTI-DISCRIMINATION ACT OF 2007"
 date_filed = "2007-11-12"
 long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF SEXUAL ORIENTATION AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination Act", "Anti-Gender Discrimination",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/63095635!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1843"
 
 [[history]]
 date = "2007-11-12"

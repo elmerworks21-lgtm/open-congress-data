@@ -6,7 +6,6 @@ name = "SBN-00475"
 [meta]
 bill_number = 475
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-475", "https://web.senate.gov.ph/lisdata/3823634673!.pdf",]
 title = "THE NATIONAL READING MONTH ACT"
 date_filed = "2022-07-13"
 long_title = "AN ACT INSTITUTIONALIZING A NATIONAL READING MONTH IN NOVEMBER OF EVERY YEAR, PROVIDING FOR MULTI-STAKEHOLDER PARTICIPATION IN THE INCULCATION OF A CULTURE OF READING IN BASIC EDUCATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Reading Month", "Basic Education/Basic Education Institut
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3823634673!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-475"
 
 [[history]]
 date = "2022-07-13"

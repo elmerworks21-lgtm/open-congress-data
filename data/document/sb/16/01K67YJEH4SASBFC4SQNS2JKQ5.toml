@@ -6,7 +6,6 @@ name = "SBN-03102"
 [meta]
 bill_number = 3102
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3102", "https://web.senate.gov.ph/lisdata/2292019611!.pdf",]
 title = "PUBLIC OFFICERS AND EMPLOYEES SMOKING BAN ACT"
 date_filed = "2016-01-25"
 long_title = "AN ACT BANNING PUBLIC OFFICERS AND EMPLOYEES FROM SMOKING WITHIN THE WORK PREMISES DURING OFFICIAL WORK HOURS AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Smoking", "Anti-Smoking",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2292019611!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3102"
 
 [[history]]
 date = "2016-01-25"

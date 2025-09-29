@@ -6,7 +6,6 @@ name = "SBN-00712"
 [meta]
 bill_number = 712
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-712", "https://web.senate.gov.ph/lisdata/4724443244!.pdf",]
 title = "FREE HEALTH AIDS FOR SENIORS ACT"
 date_filed = "2025-07-17"
 long_title = "AN ACT PROVIDING FOR FREE DENTAL, VISION, AND HEARING ASSISTIVE DEVICES, INCLUDING DENTURES, PRESCRIPHON GLASSES, AND HEARING AIDS, TO SENIOR CITIZENS AND INDIGENTS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Senior Citizen/Elderly", "Indigent Persons", "Dental Health",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4724443244!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-712"
 
 [[history]]
 date = "2025-07-17"

@@ -6,7 +6,6 @@ name = "SBN-00748"
 [meta]
 bill_number = 748
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-748", "https://web.senate.gov.ph/lisdata/1668013922!.pdf",]
 title = "TAX REFORM ACT"
 date_filed = "2013-07-15"
 long_title = "AN ACT EXEMPTING MONEY TRANSFER TO THE PHILIPPINES OF OVERSEAS FOREIGN WORKERS FROM THE IMPOSITION OF DOCUMENTARY STAMP TAX, AMENDING FOR THE PURPOSE SECTION 181 OF REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE 'TAX REFORM ACT OF 1997', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tax Reform Act", "Documentary Stamp Tax",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1668013922!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-748"
 
 [[history]]
 date = "2013-07-15"

@@ -6,7 +6,6 @@ name = "SBN-01792"
 [meta]
 bill_number = 1792
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1792", "https://web.senate.gov.ph/lisdata/3337330199!.pdf",]
 title = "BETTER NORMAL FOR SUSTAINABLE RECOVERY ACT OF 2020"
 date_filed = "2020-08-26"
 long_title = "AN ACT ESTABLISHING PUBLIC HEALTH AND ENVIRONMENTAL STANDARDS AND SAFEGUARDS FOR THE BETTER NORMAL IN THE WORKPLACE, PUBLIC PLACES AND COMMUNITIES TOWARD A SUSTAINABLE RECOVERY FROM THE CORONA VIRUS DISEASE-19 (COVID-19) PANDEMIC"
@@ -15,6 +14,8 @@ subjects = [ "Covid-19", "Pandemic", "Better Normal",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3337330199!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1792"
 
 [[history]]
 date = "2020-08-26"

@@ -6,7 +6,6 @@ name = "SBN-00245"
 [meta]
 bill_number = 245
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-245", "https://web.senate.gov.ph/lisdata/4672242727!.pdf",]
 title = "PAGKAIN PARA SA LAHAT ACT"
 date_filed = "2025-07-08"
 long_title = "AN ACT ESTABLISHING THE PAGKAIN PARA SA LAHAT PROGRAM AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Food Security", "Food Surplus",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4672242727!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-245"
 
 [[history]]
 date = "2025-07-08"

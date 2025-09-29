@@ -6,7 +6,6 @@ name = "SBN-02357"
 [meta]
 bill_number = 2357
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2357", "https://web.senate.gov.ph/lisdata/55014551!.pdf",]
 title = "ORGAN DONATION ACT OF 1991"
 date_filed = "2006-06-07"
 long_title = "AN ACT AMENDING SECTIONS 8 AND 13 OF REPUBLIC ACT NO. 7170 OTHERWISE KNOWN AS THE ORGAN DONATION ACT OF 1991 AS AMENDED BY REPUBLIC ACT NO. 7885 AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55014551!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2357"
 
 [[history]]
 date = "2006-06-07"

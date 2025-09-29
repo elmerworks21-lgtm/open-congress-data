@@ -6,7 +6,6 @@ name = "SBN-01234"
 [meta]
 bill_number = 1234
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1234", "https://web.senate.gov.ph/lisdata/55304949!.pdf",]
 title = "PREVENTING INDUSTRIAL PLAYERS TO PASS ON THE COST OF THEIR ONEROUS CONTRACTS TO END-USERS"
 date_filed = "2007-07-16"
 long_title = "AN ACT AMENDING SECTIONS 4, 20, 21, 26, 30, 31, 32, 33, 34, 38, 41, 43, 46 OF REPUBLIC ACT NO. 9136 ENTITLED AN ACT ORDAINING REFORMS IN THE ELECTRIC POWER INDUSTRY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electric Power Industry Reform (RA 9136; Epira)", "Independent Pow
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55304949!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1234"
 
 [[history]]
 date = "2007-07-04"

@@ -6,7 +6,6 @@ name = "SBN-02289"
 [meta]
 bill_number = 2289
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2289", "https://web.senate.gov.ph/lisdata/1949216607!.pdf",]
 title = "AMENDING SEC. 2 AND 3 (PATERNITY LEAVE ACT)"
 date_filed = "2014-06-19"
 long_title = "AN ACT AMENDING SECTION TWO AND THREE OF REPUBLIC ACT NO. 8187, OTHERWISE KNOWN AS THE PATERNITY LEAVE ACT OF 1996"
@@ -15,6 +14,8 @@ subjects = [ "Paternity Leave",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1949216607!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2289"
 
 [[history]]
 date = "2014-06-19"

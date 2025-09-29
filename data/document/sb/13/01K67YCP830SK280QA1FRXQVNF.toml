@@ -6,7 +6,6 @@ name = "SBN-01562"
 [meta]
 bill_number = 1562
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1562", "https://web.senate.gov.ph/lisdata/27792153!.pdf",]
 title = "FREEDOM OF SPEECH AND OF ASSOCIATION ON CAMPUS ACT"
 date_filed = "2004-07-29"
 long_title = "AN ACT TO PROTECT THE FREEDOM OF SPEECH AND OF ASSOCIATION RIGHTS OF STUDENTS ATTENDING INSTITUTIONS OF HIGHER EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "Freedom of Speech/Association on Campus", "Students (Higher Educat
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27792153!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1562"
 
 [[history]]
 date = "2004-07-29"

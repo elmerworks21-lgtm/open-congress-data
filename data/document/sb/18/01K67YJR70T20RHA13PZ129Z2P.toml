@@ -6,7 +6,6 @@ name = "SBN-02381"
 [meta]
 bill_number = 2381
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2381", "https://web.senate.gov.ph/lisdata/3611832542!.pdf",]
 title = "VACCINE PASSPORT PROGRAM ACT"
 date_filed = "2021-09-06"
 long_title = "AN ACT CREATING A VACCINE PASSPORT PROGRAM, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 11525, OTHERWISE KNOWN AS THE COVID-19 VACCINATION PROGRAM ACT OF 2021, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Vaccine Passport Program", "Covid-19",]
 authors_raw = "Cayetano, Pia S., Drilon, Franklin M., Angara, Sonny, Poe, Grace, Gatchalian, Win, Marcos, Imee R."
 author_codes = ["ASONN", "CPIAS", "DFRAN", "GSHER", "MIMEE", "PGRAC"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3611832542!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2381"
 
 [[history]]
 date = "2021-09-06"

@@ -6,7 +6,6 @@ name = "SBN-00272"
 [meta]
 bill_number = 272
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-272", "https://web.senate.gov.ph/lisdata/3801134453!.pdf",]
 title = "COMPREHENSIVE AUTISM INTERVENTION ACT"
 date_filed = "2022-07-11"
 long_title = "AN ACT INSTITUTING A NATIONAL COMPREHENSIVE PROGRAM ON AUTISM SPECTRUM DISORDER AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Autism Spectrum Disorder (ASD)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3801134453!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-272"
 
 [[history]]
 date = "2022-07-11"

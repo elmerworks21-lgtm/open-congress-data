@@ -6,7 +6,6 @@ name = "SBN-02402"
 [meta]
 bill_number = 2402
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2402", "https://web.senate.gov.ph/lisdata/76666903!.pdf",]
 title = "HEALTH AND EDUCATION ACCELERATION PROGRAM (HEAP) ACT OF 2008"
 date_filed = "2008-06-11"
 long_title = "AN ACT CREATING THE HEALTH AND EDUCATION ACCELERATION PROGRAM CORPORATION, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76666903!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2402"
 
 [[history]]
 date = "2008-06-11"

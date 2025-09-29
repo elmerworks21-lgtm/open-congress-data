@@ -6,7 +6,6 @@ name = "SBN-02472"
 [meta]
 bill_number = 2472
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2472", "https://web.senate.gov.ph/lisdata/60585040!.pdf",]
 title = "NORTHERN SAMAR SPECIAL ECONOMIC ZONE ACT OF 2006"
 date_filed = "2006-09-25"
 long_title = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE AND FREE PORT IN THE PROVINCE OF NORTHERN SAMAR, COVERING THE MUNICIPALITIES OF SAN JOSE, BOBON AND CATARMAN, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Economic Zone", "Freeport (Samar)",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60585040!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2472"
 
 [[history]]
 date = "2006-09-25"

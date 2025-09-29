@@ -6,7 +6,6 @@ name = "SBN-00046"
 [meta]
 bill_number = 46
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-46", "https://web.senate.gov.ph/lisdata/2345920043!.pdf",]
 title = "ANTI-CONTRABAND IN PRISON ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PENALIZING ANY PERSON PROVIDING OR POSSESSING CONTRABAND AND THOSE WHO SHALL AID OR ABET THE INTRODUCTION OF THE SAME INSIDE ANY PRISON FACILITY ADMINISTERED BY THE DEPARTMENT OF JUSTICE, PROVIDING PENALTIES THEREFORE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Contraband", "Department of Justice (DOJ)", "Jail Facility/Prison 
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2345920043!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-46"
 
 [[history]]
 date = "2016-06-30"

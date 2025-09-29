@@ -6,7 +6,6 @@ name = "SBN-02040"
 [meta]
 bill_number = 2040
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2040", "https://web.senate.gov.ph/lisdata/3445131264!.pdf",]
 title = "CHARTER OF THE CITY OF TALAVERA"
 date_filed = "2021-02-08"
 long_title = "AN ACT CONVERTING THE MUNICIPALITY OF TALAVERA, PROVINCE OF NUEVA ECIJA INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF TALAVERA"
@@ -15,6 +14,8 @@ subjects = [ "Municipality, Conversion (Cityhood)", "Cityhood",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3445131264!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2040"
 
 [[history]]
 date = "2021-02-08"

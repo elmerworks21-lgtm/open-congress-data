@@ -6,7 +6,6 @@ name = "SBN-00888"
 [meta]
 bill_number = 888
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-888", "https://web.senate.gov.ph/lisdata/2444421027!.pdf",]
 title = "AGRICULTURE AND FISHERIES EXTENSION ACT"
 date_filed = "2016-07-26"
 long_title = "AN ACT PRESCRIBING THE STRENGTHENING OF THE NATIONAL EXTENSION SYSTEM TO ACCELERATE AGRICULTURE AND FISHERIES DEVELOPMENT, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Agriculture and Fisheries Extension Act",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2444421027!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-888"
 
 [[history]]
 date = "2016-07-26"

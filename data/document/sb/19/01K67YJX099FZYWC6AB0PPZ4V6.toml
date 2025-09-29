@@ -6,7 +6,6 @@ name = "SBN-02871"
 [meta]
 bill_number = 2871
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2871", "https://web.senate.gov.ph/lisdata/4521741106!.pdf",]
 title = "CHEMICAL WEAPONS PROHIBITION ACT"
 date_filed = "2024-11-05"
 long_title = "AN ACT PROHIBITING THE DEVELOPMENT, PRODUCTION, STOCKPILING AND USE OF CHEMICAL WEAPONS, PROVIDING FOR THEIR DESTRUCTION, IMPOSING PENALTIES FOR VIOLATIONS, AND APPRORIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Chemical Weapons Prohibition",]
 authors_raw = "Estrada, Jinggoy E., Padilla, Robinhood C."
 author_codes = ["EJING", "PROBI"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4521741106!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2871"
 
 [[history]]
 date = "2024-11-05"

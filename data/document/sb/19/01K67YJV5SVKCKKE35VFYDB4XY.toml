@@ -6,7 +6,6 @@ name = "SBN-00444"
 [meta]
 bill_number = 444
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-444", "https://web.senate.gov.ph/lisdata/3820534643!.pdf",]
 title = "REGISTERED NURSE FOR EVERY BARANGAY"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING FOR THE EMPLOYMENT OF AT LEAST ONE REGISTERED NURSE TO BE ASSIGNED FOR EVERY BARANGAY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nurses/Nursing", "Barangays", "Healthcare Workers",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3820534643!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-444"
 
 [[history]]
 date = "2022-07-12"

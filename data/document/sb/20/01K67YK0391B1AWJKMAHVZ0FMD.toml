@@ -6,7 +6,6 @@ name = "SBN-00501"
 [meta]
 bill_number = 501
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-501", "https://web.senate.gov.ph/lisdata/4704543047!.pdf",]
 title = "MODERNIZED ZONE IMPROVEMENT RIAN (ZIP) CODE SYSTEM ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT MANDATING THE PHILIPPINE POSTAL CORPORATION TO ADOPT A MODERNIZED ZONE IMPROVEMENT PLAN CODE SYSTEM"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Postal Corporation", "Modernized Zip Code System",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4704543047!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-501"
 
 [[history]]
 date = "2025-07-14"

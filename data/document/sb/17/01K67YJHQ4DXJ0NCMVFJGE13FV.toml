@@ -6,7 +6,6 @@ name = "SBN-00822"
 [meta]
 bill_number = 822
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-822", "https://web.senate.gov.ph/lisdata/2436320986!.pdf",]
 title = "NATIONAL INTERNAL REVENUE TAXES COLLECTED BY THE BIR AND THE BOC"
 date_filed = "2016-07-21"
 long_title = "AN ACT TO INCLUDE IN THE COMPUTATION OF THE INTERNAL REVENUE ALLOTMENT (IRA), ALL THE NATIONAL INTERNAL REVENUE TAXES COLLECTED BY THE BUREAU OF INTERNAL REVENUE AND THE BUREAU OF CUSTOMS, AMENDING FOR THIS PURPOSE SECTION 284 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Bureau of Customs", "Bure
 authors_raw = "Recto, Ralph G., Villanueva, Joel"
 author_codes = ["RRALP", "VEMMA"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2436320986!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-822"
 
 [[history]]
 date = "2016-07-21"

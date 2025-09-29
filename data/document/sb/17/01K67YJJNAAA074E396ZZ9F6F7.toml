@@ -6,7 +6,6 @@ name = "SBN-02008"
 [meta]
 bill_number = 2008
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2008", "https://web.senate.gov.ph/lisdata/2861025012!.pdf",]
 title = "DISPOSAL OF ELECTRONIC DEVICES"
 date_filed = "2018-09-17"
 long_title = "AN ACT PROHIBITING THE DISPOSAL OF ELECTRONIC DEVICES AT SOLID WASTE MANAGEMENT FACILITIES"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Equipment", "Electronic Waste (E-Waste)", "Solid Waste"
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2861025012!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2008"
 
 [[history]]
 date = "2018-09-17"

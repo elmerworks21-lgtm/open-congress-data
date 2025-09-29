@@ -6,7 +6,6 @@ name = "SBN-00355"
 [meta]
 bill_number = 355
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-355", "https://web.senate.gov.ph/lisdata/1512807!.pdf",]
 title = "PHILIPPINE PASSPORT ACT, AMENDMENTS"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO FURTHER PROTECT THE INTEGRITY OF A PASSPORT, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8239, OTHERWISE KNOWN AS THE 'PHILIPPINE PASSPORT ACT OF 1996', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Phil. Passport Act (RA 8239/Amendments)", "Passport Forgery (Punis
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1512807!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-355"
 
 [[history]]
 date = "2004-06-30"

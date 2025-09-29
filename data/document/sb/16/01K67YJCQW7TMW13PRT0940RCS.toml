@@ -6,7 +6,6 @@ name = "SBN-00710"
 [meta]
 bill_number = 710
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-710", "https://web.senate.gov.ph/lisdata/1660213840!.pdf",]
 title = "NEW DEPED RETIREMENT AGE ACT"
 date_filed = "2013-07-10"
 long_title = "AN ACT LOWERING THE RETIREMENT AGE OF EMPLOYEES OF THE DEPARTMENT OF EDUCATION FROM 65 YEARS OLD TO 60 YEARS OLD"
@@ -15,6 +14,8 @@ subjects = [ "Department of Education, Culture and Sports (DepEd)", "Retirement 
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1660213840!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-710"
 
 [[history]]
 date = "2013-07-10"

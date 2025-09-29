@@ -6,7 +6,6 @@ name = "SBN-00400"
 [meta]
 bill_number = 400
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-400", "https://web.senate.gov.ph/lisdata/3816134601!.pdf",]
 title = "TELEMEDICINE ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT INSTITUTIONALIZING A NATIONAL TELEMEDICINE SYSTEM IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Telemedicine", "National Telemedicine System", "Health Services",]
 authors_raw = "Tolentino, Francis \"Tol\" N., Escudero, Francis G., Villanueva, Joel"
 author_codes = ["EFRAN", "TFRAN", "VEMMA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3816134601!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-400"
 
 [[history]]
 date = "2022-07-12"

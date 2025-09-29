@@ -6,7 +6,6 @@ name = "SBN-03198"
 [meta]
 bill_number = 3198
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3198", "https://web.senate.gov.ph/lisdata/2312719866!.pdf",]
 title = "OPERATING ROOM PRIVACY ACT"
 date_filed = "2016-02-01"
 long_title = "AN ACT REQUIRING THE EXPRESS, WRITTEN CONSENT OF A PATIENT OR HIS AUTHORIZED REPRESENTATIVE TO AUTHORIZE THE PRESENCE OF NON-MEDICAL PESONNEL DURING SURGERY"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Patients", "Privacy",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2312719866!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3198"
 
 [[history]]
 date = "2016-02-01"

@@ -6,7 +6,6 @@ name = "SBN-02022"
 [meta]
 bill_number = 2022
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2022", "https://web.senate.gov.ph/lisdata/34482826!.pdf",]
 title = "GOOD CONDUCT ALLOWANCE (PRISONERS)"
 date_filed = "2005-05-23"
 long_title = "AN ACT GRANTING MANDATORY GOOD CONDUCT ALLOWANCE TO PRISONERS WHO PARTICIPATE IN LITERACY, SKILLS AND VALUES DEVELOPMENT PROGRAMS IN PENAL INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Good Conduct Allowance (Prisoners)",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34482826!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2022"
 
 [[history]]
 date = "2005-05-23"

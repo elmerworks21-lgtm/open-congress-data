@@ -6,7 +6,6 @@ name = "SBN-00841"
 [meta]
 bill_number = 841
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-841", "https://web.senate.gov.ph/lisdata/4740743410!.pdf",]
 title = "ABOLISHING THE PRINTING AND MAILING OF THE VOTERS INFORMATION AND INSTRUCTION SHEET"
 date_filed = "2025-08-04"
 long_title = "AN ACT AMENDING SECTION 185 OF THE OMNIBUS ELECTION CODE, AS AMENDED BY REPUBLIC ACT NO. 7904, BY ABOLISHING THE PRINTING AND MAILING OF THE VOTERS INFORMATION AND INSTRUCTION SHEET"
@@ -15,6 +14,8 @@ subjects = [ "Voters Information and Instruction Sheet", "Omnibus Election Code 
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4740743410!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-841"
 
 [[history]]
 date = "2025-08-04"

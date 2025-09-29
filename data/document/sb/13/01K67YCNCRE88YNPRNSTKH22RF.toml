@@ -6,7 +6,6 @@ name = "SBN-00056"
 [meta]
 bill_number = 56
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-56", "https://web.senate.gov.ph/lisdata/1185644!.pdf",]
 title = "DIALYSIS CENTER ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL AND PROVINCIAL GOVERNMENT HOSPITALS TO ESTABLISH, OPERATE AND MAINTAIN A DIALYSIS WARD OR UNIT IN THEIR RESPECTIVE HOSPITAL AND PROVIDING FREE DIALYSIS TREATMENT TO INDIGENT PATIENTS"
@@ -15,6 +14,8 @@ subjects = [ "Dialysis Center Act", "Indigent Patients Free Dialysis Treat.",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1185644!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-56"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00425"
 [meta]
 bill_number = 425
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-425", "https://web.senate.gov.ph/lisdata/2386220636!.pdf",]
 title = "MEDICAL RESIDENCY TRAINING PROGRAMS"
 date_filed = "2016-07-19"
 long_title = "AN ACT TO MANAGE MEDICAL RESIDENCY TRAINING PROGRAMS IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Residency Training",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2386220636!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-425"
 
 [[history]]
 date = "2016-07-19"

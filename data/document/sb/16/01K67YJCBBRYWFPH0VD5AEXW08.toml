@@ -6,7 +6,6 @@ name = "SBN-00100"
 [meta]
 bill_number = 100
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-100", "https://web.senate.gov.ph/lisdata/1596613201!.pdf",]
 title = "INTEGRATED COASTAL MANAGEMENT ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT TO ADOPT INTEGRATED COASTAL MANAGEMENT AS A NATIONAL STRATEGY TO ENSURE THE SUSTAINABLE DEVELOPMENT OF THE COASTAL AND MARINE ENVIRONMENT AND RESOURCES AND TO ESTABLISH SUPPORTING MECHANISMS FOR ITS IMPLEMENTATION, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Coastal Environment Program",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1596613201!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-100"
 
 [[history]]
 date = "2013-07-01"

@@ -6,7 +6,6 @@ name = "SBN-02086"
 [meta]
 bill_number = 2086
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2086", "https://web.senate.gov.ph/lisdata/38653230!.pdf",]
 title = "PANDEMIC INFLUENZA PREPAREDNESS ACT"
 date_filed = "2005-08-23"
 long_title = "AN ACT TO PROVIDE FOR PANDEMIC INFLUENZA PREPAREDNESS AND TO ESTABLISH A POLICY COORDINATING COMMITTEE ON PANDEMIC INFLUENZA PREPAREDNESS"
@@ -15,6 +14,8 @@ subjects = [ "Pandemic Influenza Preparedness Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/38653230!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2086"
 
 [[history]]
 date = "2005-08-23"

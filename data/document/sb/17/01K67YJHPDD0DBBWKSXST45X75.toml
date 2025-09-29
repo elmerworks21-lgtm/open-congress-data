@@ -6,7 +6,6 @@ name = "SBN-00792"
 [meta]
 bill_number = 792
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-792", "https://web.senate.gov.ph/lisdata/2432420927!.pdf",]
 title = "JUDICIARY INDEPENDENCE ENHANCING ACT"
 date_filed = "2016-07-21"
 long_title = "AN ACT BANNING THE RE-APPOINTMENT OF A REGULAR MEMBER OF THE JUDICIAL AND BAR COUNCIL (JBC) WHO HAS ALREADY SERVED THE FULLTERM"
@@ -15,6 +14,8 @@ subjects = [ "Judicial and Bar Council (JBC)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2432420927!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-792"
 
 [[history]]
 date = "2016-07-21"

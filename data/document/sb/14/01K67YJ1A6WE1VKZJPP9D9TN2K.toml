@@ -6,7 +6,6 @@ name = "SBN-00885"
 [meta]
 bill_number = 885
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-885", "https://web.senate.gov.ph/lisdata/51384511!.pdf",]
 title = "GUIDELINES UNDER WHICH THE PHIL. COAST GUARD ALLOWS DUMPING OF WASTE MATERIALS IN NAVIGABLE WATER"
 date_filed = "2007-07-03"
 long_title = "AN ACT AMENDING CERTAIN SECTIONS OF PRESIDENTIAL DECREE NUMBERED SIX HUNDRED, OTHERWISE KNOWN AS THE MARINE POLLUTION DECREE OF 1974"
@@ -15,6 +14,8 @@ subjects = [ "Marine Pollution", "Philippine Coast Guard",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51384511!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-885"
 
 [[history]]
 date = "2007-07-03"

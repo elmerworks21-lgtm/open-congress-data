@@ -6,7 +6,6 @@ name = "SBN-01141"
 [meta]
 bill_number = 1141
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1141", "https://web.senate.gov.ph/lisdata/54254801!.pdf",]
 title = "MAGNA CARTA OF HOUSEHOLD HELPERS"
 date_filed = "2007-07-04"
 long_title = "AN ACT INSTITUTING POLICIES GOVERNING THE HOUSEHOLD EMPLOYMENT INDUSTRY, ESTABLISHING A STANDARD OF PROTECTION AND PROMOTING THE WELFARE OF HOUSEHOLD HELPERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Household Helpers", "Batas Kasambahay/Househelpers"
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54254801!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1141"
 
 [[history]]
 date = "2007-07-04"

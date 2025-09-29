@@ -6,7 +6,6 @@ name = "SBN-01001"
 [meta]
 bill_number = 1001
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1001", "https://web.senate.gov.ph/lisdata/3895135401!.pdf",]
 title = "INCREASING THE BED CAPACITY OF THE PHILIPPINE GENERAL HOSPITAL"
 date_filed = "2022-08-03"
 long_title = "AN ACT INCREASING THE BED CAPACITY OF THE PHILIPPINE GENERAL HOSPITAL FROM ONE THOUSAND AND FIVE HUNDRED BEDS (1,500) TO TWO THOUSAND AND TWO HUNDRED BEDS (2,200) AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine General Hospital (PGH)", "Hospitals, Increase Bed Capacity",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3895135401!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1001"
 
 [[history]]
 date = "2022-08-03"

@@ -6,7 +6,6 @@ name = "SBN-01920"
 [meta]
 bill_number = 1920
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1920", "https://web.senate.gov.ph/lisdata/3395930730!.pdf",]
 title = "THE INTEGRATED COASTAL MANAGEMENT ACT"
 date_filed = "2020-11-18"
 long_title = "AN ACT TO ADOPT INTEGRATED COASTAL MANAGEMENT AS A NATIONAL STRATEGY TO ENSURE THE SUSTAINABLE DEVELOPMENT OF THE COASTAL AND MARINE ENVIRONMENT AND TO ESTABLISH SUPPORTING MECHANISMS FOR ITS IMPLEMENTATION"
@@ -15,6 +14,8 @@ subjects = [ "Coastal Management",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3395930730!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1920"
 
 [[history]]
 date = "2020-11-18"

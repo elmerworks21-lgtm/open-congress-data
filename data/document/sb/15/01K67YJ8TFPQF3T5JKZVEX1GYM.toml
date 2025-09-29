@@ -6,7 +6,6 @@ name = "SBN-02506"
 [meta]
 bill_number = 2506
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2506", "https://web.senate.gov.ph/lisdata/101678751!.pdf",]
 title = "ADDITIONAL AD VALOREM TAX ON IDLE LANDS"
 date_filed = "2010-09-13"
 long_title = "AN ACT INCREASING THE TAX ON IDLE LANDS, AMENDING FOR THE PURPOSE, SECTION 236 OF R.A. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Land Conversion", "Local Government Code, Amendments 
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101678751!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2506"
 
 [[history]]
 date = "2010-09-13"

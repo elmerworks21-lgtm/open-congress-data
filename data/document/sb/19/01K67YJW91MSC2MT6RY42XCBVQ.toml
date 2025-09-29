@@ -6,7 +6,6 @@ name = "SBN-01989"
 [meta]
 bill_number = 1989
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1989", "https://web.senate.gov.ph/lisdata/4114237459!.pdf",]
 title = "TELEMEDICINE DEVELOPMENT ACT OF 2023"
 date_filed = "2023-03-13"
 long_title = "AN ACT PROVIDING FOR A NATIONAL POLICY AND REGULATORY FRAMEWORK FOR THE PHILIPPINE TELEMEDICINE INDUSTRY, PROMOTING THE DELIVERY OF HEALTH SERVICES USING INFORMATION AND COMMUNICATIONS TECHNOLOGIES, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Telemedicine", "Health Care Delivery System", "Health Services",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4114237459!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1989"
 
 [[history]]
 date = "2023-03-13"

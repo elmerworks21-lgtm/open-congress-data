@@ -6,7 +6,6 @@ name = "SBN-00905"
 [meta]
 bill_number = 905
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-905", "https://web.senate.gov.ph/lisdata/51634531!.pdf",]
 title = "SMUGGLERS SHOULD BE BARRED FROM AUCTION SALE OF ITEMS FORFEITED BY BUREAU OF CUSTOMS"
 date_filed = "2007-07-03"
 long_title = "AN ACT RATIONALIZING THE FORFEITURE AND DISPOSITION OF PROPERTY SEIZED BY THE BUREAU OF CUSTOMS, AMENDING FOR THE PURPOSE CERTAIN SECTIONS OF THE TARIFF AND CUSTOMS CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Seized Property (Forfeiture and Disposition)", "Bureau of Customs 
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51634531!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-905"
 
 [[history]]
 date = "2007-07-03"

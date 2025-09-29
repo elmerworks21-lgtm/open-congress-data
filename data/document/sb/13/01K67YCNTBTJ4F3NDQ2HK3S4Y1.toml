@@ -6,7 +6,6 @@ name = "SBN-00813"
 [meta]
 bill_number = 813
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-813", "https://web.senate.gov.ph/lisdata/20101465!.pdf",]
 title = "NATIONAL ATHLETES, COACHES & TRAINERS BENEFITS/INCENTIVES"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED NINETY HUNDRED AND SIXTY FOUR OR OTHERWISE KNOWN AS THE NATIONAL ATHLETES, COACHES AND TRAINERS BENEFITS AND INCENTIVES ACT OF 2001, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Athletes", "Coaches", "Trainers Benefits",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20101465!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-813"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-02743"
 [meta]
 bill_number = 2743
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2743", "https://web.senate.gov.ph/lisdata/109719342!.pdf",]
 title = "HOLIDAY: RIZAL DAY (JUNE 19)"
 date_filed = "2011-03-14"
 long_title = "AN ACT MOVING THE OBSERVANCE OF RIZAL DAY FROM DECEMBER 30 TO JUNE 19, AMENDING FOR THE PURPOSE SECTION 26, CHAPTER 7, BOOK 1 OF EXECUTIVE ORDER NO. 292, AS AMENDED, OTHERWISE KNOWN AS THE ADMINISTRATIVE CODE OF 1987"
@@ -15,6 +14,8 @@ subjects = [ "Administrative Code of 1987 (E.O.No. 292)", "Holidays (Non-Working
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
 author_codes = ["MFERD"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/109719342!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2743"
 
 [[history]]
 date = "2011-03-14"

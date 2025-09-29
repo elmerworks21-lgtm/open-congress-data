@@ -6,7 +6,6 @@ name = "SBN-01310"
 [meta]
 bill_number = 1310
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1310", "https://web.senate.gov.ph/lisdata/1740514638!.pdf",]
 title = "MEDICAL GIFT GIVING BAN ACT"
 date_filed = "2013-08-15"
 long_title = "AN ACT PROHIBITING THE GIVING OF GIFTS BY PHARMACEUTICAL DRUG MANUFACTURERS AND DISTRIBUTORS TO ENCOURAGE MEDICAL PRACTITIONERS TO PRESCRIBE CERTAIN PHARMACEUTICAL DRUGS AND PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Pharmaceutical Manufacturers/Medical Device Manufacturers", "Pharm
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1740514638!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1310"
 
 [[history]]
 date = "2013-08-15"

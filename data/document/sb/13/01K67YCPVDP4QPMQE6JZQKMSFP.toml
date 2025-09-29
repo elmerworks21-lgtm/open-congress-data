@@ -6,7 +6,6 @@ name = "SBN-02529"
 [meta]
 bill_number = 2529
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2529", "https://web.senate.gov.ph/lisdata/64525329!.pdf",]
 title = "AGUSAN MARSH WILDLIFE SANCTUARY ACT OF 2006"
 date_filed = "2006-11-24"
 long_title = "AN ACT DECLARING THE AGUSAN MARSH IN THE PROVINCE OF AGUSAN DEL SUR AS A PROTECTED AREA AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Buffer Zones (Agusan Marsh Protected Area)",]
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64525329!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2529"
 
 [[history]]
 date = "2006-11-24"

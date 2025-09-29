@@ -6,7 +6,6 @@ name = "SBN-02688"
 [meta]
 bill_number = 2688
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2688", "https://web.senate.gov.ph/lisdata/90728252!.pdf",]
 title = "INCREASE MAXIMUM DEPOSIT INSURANCE COVERAGE OF P500.000.00"
 date_filed = "2008-10-20"
 long_title = "AN ACT GRANTING BROADER PROTECTION TO BANK DEPOSITORS AND REFORM POWERS TO THE PHILIPPINE DEPOSIT INSURANCE CORPORATION BY AMENDING REPUBLIC ACT NO. 3591, AS AMENDED, OTHERWISE KNOWN AS 'THE CHARTER OF THE PHILIPPINE DEPOSIT INSURANCE CORPORATION' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Deposit Insurance Corporation (PDIC)",]
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90728252!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2688"
 
 [[history]]
 date = "2008-10-20"

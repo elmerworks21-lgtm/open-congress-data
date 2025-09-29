@@ -6,7 +6,6 @@ name = "SBN-02683"
 [meta]
 bill_number = 2683
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2683", "https://web.senate.gov.ph/lisdata/90678247!.pdf",]
 title = "TEEN DATING VIOLENCE ACT OF 2008"
 date_filed = "2008-10-16"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF EDUCATION TO INCLUDE DATING VIOLENCE EDUCATION IN THE PHYSICAL EDUCATION, HEALTH AND MUSIC (PEHM) CURRICULUM FOR SECONDARY EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "Department of Education (DepEd)", "Physical Education, Health and 
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90678247!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2683"
 
 [[history]]
 date = "2008-10-16"

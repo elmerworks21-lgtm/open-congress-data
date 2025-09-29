@@ -6,7 +6,6 @@ name = "SBN-01983"
 [meta]
 bill_number = 1983
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1983", "https://web.senate.gov.ph/lisdata/1835415529!.pdf",]
 title = "AMENDING 223, REVISED PENAL CODE (RELEASING PRISONERS WITHOUT COURT ORDER/AUTHORIZATION)"
 date_filed = "2013-11-27"
 long_title = "AN ACT PENALIZING PUBLIC OFFICERS FOR RELEASING PRISONERS IN ORDER TO COMMIT A CRIME AND ALLOWING THEM TO RETURN TO PRISON, AND FOR THIS PURPOSE AMENDING ARTICLE 223 OF THE REVISED PENAL CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (R.A.No. 3815)", "Prisoners/Inmates",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1835415529!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1983"
 
 [[history]]
 date = "2013-11-27"

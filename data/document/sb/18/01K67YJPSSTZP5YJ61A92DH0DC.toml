@@ -6,7 +6,6 @@ name = "SBN-00618"
 [meta]
 bill_number = 618
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-618", "https://web.senate.gov.ph/lisdata/3096227894!.pdf",]
 title = "IMMORALITY, PORNOGRAPHY AND OBSCENITY DETERRENCE ACT"
 date_filed = "2019-07-18"
 long_title = "AN ACT DETERRING THE CONTINUED PROLIFERATION OF IMMORAL DOCTRINES, OBSCENE PUBLICATIONS AND EXHIBITIONS AND INDECENT SHOWS BY INCREASING THE PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Obscenity/Anti-Smut Campaign", "Pornography",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3096227894!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-618"
 
 [[history]]
 date = "2019-07-18"

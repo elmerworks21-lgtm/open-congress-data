@@ -6,7 +6,6 @@ name = "SBN-01683"
 [meta]
 bill_number = 1683
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1683", "https://web.senate.gov.ph/lisdata/3318430025!.pdf",]
 title = "E-GOVERNMENT ACT OF 2020"
 date_filed = "2020-07-13"
 long_title = "AN ACT ESTABLISHING THE E-GOVERNMENT, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "E-Government Services",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3318430025!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1683"
 
 [[history]]
 date = "2020-07-13"

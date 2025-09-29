@@ -6,7 +6,6 @@ name = "SBN-02180"
 [meta]
 bill_number = 2180
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2180", "https://web.senate.gov.ph/lisdata/3499931826!.pdf",]
 title = "CHILDREN'S VISION IMPROVEMENT AND LEARNING READINESS ACT"
 date_filed = "2021-05-12"
 long_title = "AN ACT ESTABLISHING A GRANT PROGRAM TO PROVIDE COMPREHENSIVE EYE EXAMINATIONS TO CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Children/Child Care", "Eye Examination",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3499931826!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2180"
 
 [[history]]
 date = "2021-05-12"

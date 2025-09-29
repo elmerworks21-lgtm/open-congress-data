@@ -6,7 +6,6 @@ name = "SBN-00943"
 [meta]
 bill_number = 943
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-943", "https://web.senate.gov.ph/lisdata/3875235205!.pdf",]
 title = "RELAXING INVESTMENT RESTRICTIONS TO QUALIFIED DOMESTIC AND FOREIGN BIDDERS FOR PUBLIC WORKS PROJECTS"
 date_filed = "2022-08-01"
 long_title = "AN ACT RELAXING INVESTMENT RESTRICTIONS AND AFFORDING EQUAL OPPORTUNITIES TO ELIGIBLE AND QUALIFIED DOMESTIC AND FOREIGN BIDDERS TO PARTICIPATE IN THE BIDDING FOR THE GOVERNMENT'S PUBLIC WORKS PROJECTS, AMENDING COMMONWEALTH ACT NO. 541, AS AMENDED BY LETTER OF INSTRUCTIONS NO. 630, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Public Bidding", "Government Projects",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3875235205!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-943"
 
 [[history]]
 date = "2022-08-01"

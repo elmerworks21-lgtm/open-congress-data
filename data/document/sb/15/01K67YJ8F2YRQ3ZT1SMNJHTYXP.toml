@@ -6,7 +6,6 @@ name = "SBN-01963"
 [meta]
 bill_number = 1963
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1963", "https://web.senate.gov.ph/lisdata/95948085!.pdf",]
 title = "ANTI-SPYWARE ACT"
 date_filed = "2010-07-22"
 long_title = "AN ACT TO REGULATE THE UNAUTHORIZED INSTALLATION OF COMPUTER SOFTWARE AND TO REQUIRE THE CLEAR DISCLOSURE TO COMPUTER USERS OF CERTAIN COMPUTER SOFTWARE FEATURES THAT MAY POSE A THREAT TO USER PRIVACY"
@@ -15,6 +14,8 @@ subjects = [ "Computer Spyware",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/95948085!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1963"
 
 [[history]]
 date = "2010-07-22"

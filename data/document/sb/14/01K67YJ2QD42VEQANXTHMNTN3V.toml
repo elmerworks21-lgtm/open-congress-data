@@ -6,7 +6,6 @@ name = "SBN-02652"
 [meta]
 bill_number = 2652
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2652", "https://web.senate.gov.ph/lisdata/88468046!.pdf",]
 title = "DISPOSITION OF SMUGGLED SUGAR"
 date_filed = "2008-10-06"
 long_title = "AN ACT PROVIDING FOR THE DISPOSITION OF SMUGGLED SUGAR"
@@ -15,6 +14,8 @@ subjects = [ "Smuggled Sugar",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/88468046!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2652"
 
 [[history]]
 date = "2008-10-06"

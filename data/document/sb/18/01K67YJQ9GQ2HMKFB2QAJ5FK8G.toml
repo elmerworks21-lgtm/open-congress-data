@@ -6,7 +6,6 @@ name = "SBN-01316"
 [meta]
 bill_number = 1316
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1316", "https://web.senate.gov.ph/lisdata/3228829135!.pdf",]
 title = "COMELEC OFFICES REORGANIZATION ACT OF 2020"
 date_filed = "2020-02-03"
 long_title = "AN ACT REORGANIZING THE OFFICES OF THE COMMISSION ON ELECTIONS AND RECLASSIFYING THE PLANTILLA POSITIONS IN THE AGENCY"
@@ -15,6 +14,8 @@ subjects = [ "Commission on Election (Comelec)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3228829135!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1316"
 
 [[history]]
 date = "2020-02-03"

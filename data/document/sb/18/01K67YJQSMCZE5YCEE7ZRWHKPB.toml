@@ -6,7 +6,6 @@ name = "SBN-01980"
 [meta]
 bill_number = 1980
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1980", "https://web.senate.gov.ph/lisdata/3425431054!.pdf",]
 title = "URBAN GREENING ACT"
 date_filed = "2021-01-12"
 long_title = "AN ACT MANDATING THE SUBMISSION OF A GREENING PLAN AS A REQUIREMENT FOR THE ISSUANCE OF BUILDING PERMIT"
@@ -15,6 +14,8 @@ subjects = [ "Greening Act",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3425431054!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1980"
 
 [[history]]
 date = "2021-01-12"

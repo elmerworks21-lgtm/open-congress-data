@@ -6,7 +6,6 @@ name = "SBN-01074"
 [meta]
 bill_number = 1074
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1074", "https://web.senate.gov.ph/lisdata/3160028445!.pdf",]
 title = "EXCISE TAX ON ALCOHOL PRODUCTS"
 date_filed = "2019-09-25"
 long_title = "AN ACT INCREASING THE EXCISE TAX ON ALCOHOL PRODUCTS, HEATED TOBACCO PRODUCTS AND VAPOR PRODUCTS, AMENDING FOR THIS PURPOSE SECTIONS 141, 142, 143, 144, 147, 150, AND 288, OF REPUBLIC ACT NO. 8424, AS AMENDED, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Excise Tax)", "Tobacco Products/Tobacco Industry", "Alcohol
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D., Cayetano, Pia S."
 author_codes = ["CPIAS", "PEMMA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3160028445!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1074"
 
 [[history]]
 date = "2019-09-25"

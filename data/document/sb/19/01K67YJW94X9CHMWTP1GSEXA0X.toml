@@ -6,7 +6,6 @@ name = "SBN-01993"
 [meta]
 bill_number = 1993
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1993", "https://web.senate.gov.ph/lisdata/4114737464!.pdf",]
 title = "BLUE ECONOMY ACT"
 date_filed = "2023-03-14"
 long_title = "AN ACT ESTABLISHING A FRAMEWORK FOR BLUE ECONOMY, PROMOTING STEWARDSHIP AND SUSTAINABLE DEVELOPMENT OF COASTAL AND MARINE ECOSYSTEMS AND RESOURCES"
@@ -15,6 +14,8 @@ subjects = [ "Blue Economy", "Coastal and Marine Ecosystem",]
 authors_raw = "Legarda, Loren B., Villanueva, Joel, Revilla Jr., Ramon Bong"
 author_codes = ["LLORE", "RRAMO", "VEMMA"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4114737464!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1993"
 
 [[history]]
 date = "2023-03-14"

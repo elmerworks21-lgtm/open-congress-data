@@ -6,7 +6,6 @@ name = "SBN-00238"
 [meta]
 bill_number = 238
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-238", "https://web.senate.gov.ph/lisdata/2367720317!.pdf",]
 title = "PNP. BFP AND BJMP HEIGHT REQUIREMENT ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT REPEALING THE MINIMUM HEIGHT REQUIREMENT FOR APPLICANTS TO THE PHILIPPINE NATIONAL POLICE (PNP), THE BUREAU OF FIRE PROTECTION (BFP), AND THE BUREAU OF JAIL MANAGEMNET AND PENOLOGY (BJMP)"
@@ -15,6 +14,8 @@ subjects = [ "Philippine National Police (PNP)", "Bureau of Fire Protection", "B
 authors_raw = "Honasan II, Gregorio B."
 author_codes = ["HGREG"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2367720317!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-238"
 
 [[history]]
 date = "2016-07-04"

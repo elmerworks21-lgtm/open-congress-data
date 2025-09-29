@@ -6,7 +6,6 @@ name = "SBN-01412"
 [meta]
 bill_number = 1412
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1412", "https://web.senate.gov.ph/lisdata/26271991!.pdf",]
 title = "ANTI-STALKING ACT OF 2004"
 date_filed = "2004-07-07"
 long_title = "AN ACT DEFINING AND PENALIZING STALKING, AMENDING FOR THAT PURPOSE THE REVISED PENAL CODE, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Stalking (Anti-Stalking Act)", "Revised Penal Code (Add`L Sec. 282
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26271991!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1412"
 
 [[history]]
 date = "2004-07-07"

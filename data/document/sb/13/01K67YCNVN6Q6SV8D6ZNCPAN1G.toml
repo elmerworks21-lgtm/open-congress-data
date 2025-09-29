@@ -6,7 +6,6 @@ name = "SBN-00889"
 [meta]
 bill_number = 889
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-889", "https://web.senate.gov.ph/lisdata/20871577!.pdf",]
 title = "MIGRANT WORKERS HOSPITAL ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A SPECIAL HOSPITAL FOR OVERSEAS CONTRACT WORKERS (OCWs) AND THEIR DEPENDENTS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Migrant Workers Hospital Act", "Overseas Filipino Workers (OFWs Ho
 authors_raw = "Ejercito-Estrada, Jinggoy P., Angara, Edgardo J."
 author_codes = ["AEDGA", "EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20871577!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-889"
 
 [[history]]
 date = "2004-06-30"

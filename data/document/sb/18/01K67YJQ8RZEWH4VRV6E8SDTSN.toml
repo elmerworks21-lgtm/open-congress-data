@@ -6,7 +6,6 @@ name = "SBN-01282"
 [meta]
 bill_number = 1282
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1282", "https://web.senate.gov.ph/lisdata/3217629020!.pdf",]
 title = "ENVIRONMENTAL EDUCATION IN SENIOR HIGH SCHOOL ACT"
 date_filed = "2020-01-21"
 long_title = "AN ACT INTEGRATING ENVIRONMENTAL EDUCATION IN THE SENIOR HIGH SCHOOL (SHS) CURRICULUM"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Education", "Senior High School",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3217629020!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1282"
 
 [[history]]
 date = "2020-01-21"

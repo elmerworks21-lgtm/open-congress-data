@@ -6,7 +6,6 @@ name = "SBN-00365"
 [meta]
 bill_number = 365
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-365", "https://web.senate.gov.ph/lisdata/76886198!.pdf",]
 title = "MARINE RESOURCES AWARENESS AND EDUCATION ACT"
 date_filed = "2010-07-06"
 long_title = "AN ACT TO PROMOTE MARINE RESOURCES AWARENESS THROUGH REQUIRING THE INCLUSION OF MARITIME/ MARINE EDUCATION AS A SEPARATE SUBJECT IN ELEMENTARY AND HIGH SCHOOL CURRICULUM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Marine Resources Awareness",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76886198!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-365"
 
 [[history]]
 date = "2010-07-06"

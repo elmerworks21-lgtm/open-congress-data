@@ -6,7 +6,6 @@ name = "SBN-00058"
 [meta]
 bill_number = 58
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-58", "https://web.senate.gov.ph/lisdata/2347120079!.pdf",]
 title = "FREE PUBLIC WI-FI ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FREE WI-FI INTERNET ACCESS IN PUBLIC BUILDINGS, TRANSPORT TERMINALS AND PARKS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Wi-Fi Internet Access",]
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2347120079!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-58"
 
 [[history]]
 date = "2016-06-30"

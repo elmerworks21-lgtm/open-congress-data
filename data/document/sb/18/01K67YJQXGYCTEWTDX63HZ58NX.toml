@@ -6,7 +6,6 @@ name = "SBN-02138"
 [meta]
 bill_number = 2138
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2138", "https://web.senate.gov.ph/lisdata/3491931742!.pdf",]
 title = "LAGUNA LAKE CONSERVATION ACT"
 date_filed = "2021-04-19"
 long_title = "AN ACT CREATING THE LAGUNA LAKE CONSERVATION AUTHORITY (LLCA), THEREBY REPEALING REPUBLIC ACT NO. 4850, AS AMENDED, OTHERWISE KNOWN AS THE LAGUNA LAKE DEVELOPMENT AUTHORITY ACT OF 1966, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Laguna Lake Conservation Authority",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3491931742!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2138"
 
 [[history]]
 date = "2021-04-19"

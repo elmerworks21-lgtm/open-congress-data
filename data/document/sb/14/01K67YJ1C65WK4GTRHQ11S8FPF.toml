@@ -6,7 +6,6 @@ name = "SBN-00980"
 [meta]
 bill_number = 980
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-980", "https://web.senate.gov.ph/lisdata/52464612!.pdf",]
 title = "WOMEN'S MEDICAL AND HOSPITALIZATION BENEFITS ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT GRANTING FREE MEDICAL AND HOSPITALIZATION BENEFITS TO INDIGENT FILIPINO WOMEN SUFFERING FROM WOMEN’S DISEASES, ILLNESSES AND INJURIES DUE TO VIOLENCE INFLICTED ON WOMEN, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Womens Medical", "Hospitalization Benefits",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52464612!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-980"
 
 [[history]]
 date = "2007-07-04"

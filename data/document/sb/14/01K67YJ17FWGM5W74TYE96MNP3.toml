@@ -6,7 +6,6 @@ name = "SBN-00755"
 [meta]
 bill_number = 755
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-755", "https://web.senate.gov.ph/lisdata/49774361!.pdf",]
 title = "AFFORDABLE MEDICINES ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT PRESCRIBING SPECIAL MEASURES TO LOWER THE PRICE OF MEDICINES AND OTHER RELATED PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medicines (Cheaper Medicines)",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49774361!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-755"
 
 [[history]]
 date = "2007-07-03"

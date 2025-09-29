@@ -6,7 +6,6 @@ name = "SBN-00340"
 [meta]
 bill_number = 340
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-340", "https://web.senate.gov.ph/lisdata/1497792!.pdf",]
 title = "GOOD SAMARITAN ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROMOTE AND ENCOURAGE THE FORMATION AND OPERATION OF PRIVATE NONPROFIT EMERGENCY RESCUE UNITS"
@@ -15,6 +14,8 @@ subjects = [ "Good Samaritan Act", "Emergency Rescue Services",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1497792!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-340"
 
 [[history]]
 date = "2004-06-30"

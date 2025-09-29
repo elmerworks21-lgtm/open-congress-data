@@ -6,7 +6,6 @@ name = "SBN-02444"
 [meta]
 bill_number = 2444
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2444", "https://web.senate.gov.ph/lisdata/3660232958!.pdf",]
 title = "RECLASSIFYING AS AGRICULTURAL LAND A PARCEL OF LAND OF THE PUBLIC DOMAIN IN BAYAMBANG, PANGASINAN"
 date_filed = "2021-11-08"
 long_title = "AN ACT RECLASSIFYING AS AGRICULTURAL LAND A PARCEL OF LAND OF THE PUBLIC DOMAIN LOCATED IN MANGABUL RESERVATION IN THE MUNICIPALITY OF BAYAMBANG, PROVINCE OF PANGASINAN, FOR THE PURPOSE OF DISTRIBUTING THE SAME TO LONG-TERM FARMERS AND OCCUPANTS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Land", "Farmers",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3660232958!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2444"
 
 [[history]]
 date = "2021-11-08"

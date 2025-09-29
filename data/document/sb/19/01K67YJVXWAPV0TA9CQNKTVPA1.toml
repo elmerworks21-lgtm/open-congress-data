@@ -6,7 +6,6 @@ name = "SBN-01501"
 [meta]
 bill_number = 1501
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1501", "https://web.senate.gov.ph/lisdata/3986336174!.pdf",]
 title = "AUTHORIZING THE COMELEC TO DESIGNATE PRECINCTS FOR PERSONS WITH DISABILITIES AND SENIOR CITIZENS"
 date_filed = "2022-11-14"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10366, OTHERWISE KNOWN AS AN ACT AUTHORIZING THE COMMISSION ON ELECTIONS TO DESIGNATE PRECINCTS ASSIGNED TO ACCESSIBLE POLLING PLACES EXCLUSIVELY FOR PERSONS WITH DISABILITIES AND SENIOR CITIZENS"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizen/Elderly", "Persons with Disabilities (PWDS)", "Poll
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3986336174!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1501"
 
 [[history]]
 date = "2022-11-14"

@@ -6,7 +6,6 @@ name = "SBN-01818"
 [meta]
 bill_number = 1818
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1818", "https://web.senate.gov.ph/lisdata/1801815251!.pdf",]
 title = "CREDIT CARD APPLICATIONS"
 date_filed = "2013-10-03"
 long_title = "AN ACT PROHIBITING THE MAILING OF CREDIT CARD APPLICATIONS TO PERSONS UNDER TWENTY-FIVE YEARS OF AGE"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1801815251!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1818"
 
 [[history]]
 date = "2013-10-03"

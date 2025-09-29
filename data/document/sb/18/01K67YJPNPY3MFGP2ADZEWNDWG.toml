@@ -6,7 +6,6 @@ name = "SBN-00420"
 [meta]
 bill_number = 420
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-420", "https://web.senate.gov.ph/lisdata/3075927608!.pdf",]
 title = "TRABAHO CENTER IN SCHOOLS ACT"
 date_filed = "2019-07-15"
 long_title = "AN ACT ESTABLISHING JOB PLACEMENT OFFICES IN PUBLIC HIGH SCHOOLS TO PROVIDE CAREER SERVICES TO THE YOUTH, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Jobs", "Youth",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3075927608!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-420"
 
 [[history]]
 date = "2019-07-15"

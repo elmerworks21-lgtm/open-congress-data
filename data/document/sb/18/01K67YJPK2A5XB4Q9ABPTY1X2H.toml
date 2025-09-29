@@ -6,7 +6,6 @@ name = "SBN-00302"
 [meta]
 bill_number = 302
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-302", "https://web.senate.gov.ph/lisdata/3058427443!.pdf",]
 title = "THE PUBLIC SCHOOL TEACHERS' SALARY UPGRADING ACT"
 date_filed = "2019-07-08"
 long_title = "AN ACT INCREASING THE SALARY GRADE OF PUBLIC SCHOOL TEACHERS FROM SALARY GRADE 11 TO 15 AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Public School Teachers", "Salary Grade Level",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3058427443!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-302"
 
 [[history]]
 date = "2019-07-08"

@@ -6,7 +6,6 @@ name = "SBN-02241"
 [meta]
 bill_number = 2241
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2241", "https://web.senate.gov.ph/lisdata/1919416319!.pdf",]
 title = "AMENDING SEC. 40, DOMESTIC WORKERS ACT"
 date_filed = "2014-05-26"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10361, OR THE DOMESTIC WORKERS ACT, BY CLARIFYING THAT THE FINE IMPOSED THEREIN SHALL INURE TO THE SOLE BENEFIT OF THE AGGRIEVED DOMESTIC WORKER, WHICH MAY BE AWARDED IN THE SAME LABOR, CIVIL OR CRIMINAL PROCEEDINGS INSTITUTED BY THE DOMESTIC WORKER"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Domestic Worker",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1919416319!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2241"
 
 [[history]]
 date = "2014-05-26"

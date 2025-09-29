@@ -6,7 +6,6 @@ name = "SBN-02985"
 [meta]
 bill_number = 2985
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2985", "https://web.senate.gov.ph/lisdata/98278898!.pdf",]
 title = "TOY-INFLICTED INJURIES AND DEATHS"
 date_filed = "2009-01-15"
 long_title = "AN ACT TO PREVENT TOY-INFLICTED INJURIES AND DEATHS"
@@ -15,6 +14,8 @@ subjects = [ "Toys",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98278898!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2985"
 
 [[history]]
 date = "2009-01-15"

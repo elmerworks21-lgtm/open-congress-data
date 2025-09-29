@@ -6,7 +6,6 @@ name = "SBN-00819"
 [meta]
 bill_number = 819
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-819", "https://web.senate.gov.ph/lisdata/3858235033!.pdf",]
 title = "BILL OF RIGHTS OF PASSENGERS OF TAXIS, TOURIST CAR TRANSPORT SERVICES AND OTHER SIMILAR VEHICLES"
 date_filed = "2022-07-25"
 long_title = "AN ACT ESTABLISHING THE RIGHTS OF PASSENGERS OF TAXIS, TOURIST CAR TRANSPORT SERVICES AND OTHER SIMILAR VEHICLES FOR HIRE"
@@ -15,6 +14,8 @@ subjects = [ "Passenger Transit Rights", "Transportation Network Vehicle Service
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3858235033!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-819"
 
 [[history]]
 date = "2022-07-25"

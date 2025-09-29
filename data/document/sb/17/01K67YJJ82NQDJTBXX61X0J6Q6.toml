@@ -6,7 +6,6 @@ name = "SBN-01498"
 [meta]
 bill_number = 1498
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1498", "https://web.senate.gov.ph/lisdata/2626222599!.pdf",]
 title = "TO HARMONIZE LEGAL EDUCATION"
 date_filed = "2017-07-17"
 long_title = "AN ACT TO HARMONIZE LEGAL EDUCATION IN OUR COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Legal Education",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2626222599!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1498"
 
 [[history]]
 date = "2017-07-17"

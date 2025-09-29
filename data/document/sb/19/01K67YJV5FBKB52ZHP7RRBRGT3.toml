@@ -6,7 +6,6 @@ name = "SBN-00430"
 [meta]
 bill_number = 430
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-430", "https://web.senate.gov.ph/lisdata/3819134629!.pdf",]
 title = "TODA ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF TRICYCLE DRIVERS AND OPERATORS, INSTITUTIONALIZING MECHANISMS FOR ITS IMPLEMENTATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tricycles/Pedicabs", "Drivers/Operators", "Magna Carta for Tricycl
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3819134629!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-430"
 
 [[history]]
 date = "2022-07-12"

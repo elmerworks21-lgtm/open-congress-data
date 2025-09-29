@@ -6,7 +6,6 @@ name = "SBN-02939"
 [meta]
 bill_number = 2939
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2939", "https://web.senate.gov.ph/lisdata/95218628!.pdf",]
 title = "LASER HAIR REMOVAL REGULATORY ACT OF 2008"
 date_filed = "2008-12-03"
 long_title = "AN ACT REGULATING THE USE OF LASERS IN COSMETOLOGICAL HAIR REMOVAL PROCEDURES"
@@ -15,6 +14,8 @@ subjects = [ "Lasers (Cosmetological Hair Removal)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/95218628!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2939"
 
 [[history]]
 date = "2008-12-03"

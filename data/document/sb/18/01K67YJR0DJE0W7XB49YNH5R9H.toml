@@ -6,7 +6,6 @@ name = "SBN-02252"
 [meta]
 bill_number = 2252
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2252", "https://web.senate.gov.ph/lisdata/3517432025!.pdf",]
 title = "LOCAL HOUSING OFFICE ACT"
 date_filed = "2021-06-01"
 long_title = "AN ACT MANDATING THE CREATION OF A LOCAL HOUSING OFFICE IN EVERY CITY AND MUNICIPALITY, PROVIDING FOR ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Housing Office",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3517432025!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2252"
 
 [[history]]
 date = "2021-06-01"

@@ -6,7 +6,6 @@ name = "SBN-01751"
 [meta]
 bill_number = 1751
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1751", "https://web.senate.gov.ph/lisdata/62015532!.pdf",]
 title = "YOUTH SUICIDE PREVENTION ACT OF 2007"
 date_filed = "2007-10-16"
 long_title = "AN ACT TO PROVIDE YOUTH SUICIDE EARLY INTERVENTION AND PREVENTION EXPANSION"
@@ -15,6 +14,8 @@ subjects = [ "Youth Suicide Prevention",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/62015532!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1751"
 
 [[history]]
 date = "2007-10-16"

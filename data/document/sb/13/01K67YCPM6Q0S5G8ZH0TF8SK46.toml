@@ -6,7 +6,6 @@ name = "SBN-02160"
 [meta]
 bill_number = 2160
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2160", "https://web.senate.gov.ph/lisdata/42133499!.pdf",]
 title = "DEBT SERVICE PAYMENTS APPROPRIATION"
 date_filed = "2005-11-16"
 long_title = "AN ACT RESTORING TO CONGRESS THE POWER TO APPROPRIATE PAYMENTS ON DEBT SERVICE, REVIVING FOR THE PURPOSE SECTION 6 OF REPUBLIC ACT NO. 4860 (FOREIGN BORROWING ACT), AND REPEALING SECTION 7 OF PRESIDENTIAL DECREE NO. 81, SECTION 31 OF PRESIDENTIAL DECREE NO. 1177 AND SECTIONS 1, 2 AND 3 OF PRESIDENTIAL DECREE NO. 1967"
@@ -15,6 +14,8 @@ subjects = [ "Foreign Borrowings/ Debt Cap", "Debt Service Payments",]
 authors_raw = "Lim, Alfredo S."
 author_codes = ["LALFR"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42133499!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2160"
 
 [[history]]
 date = "2005-11-16"

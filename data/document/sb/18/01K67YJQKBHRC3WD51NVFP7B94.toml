@@ -6,7 +6,6 @@ name = "SBN-01738"
 [meta]
 bill_number = 1738
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1738", "https://web.senate.gov.ph/lisdata/3330230138!.pdf",]
 title = "E-GOVERNANCE ACT OF 2020"
 date_filed = "2020-07-27"
 long_title = "AN ACT INSTITUTIONALIZING THE TRANSITION OF THE GOVERNMENT TO EGOVERNANCE IN THE DIGITAL AGE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "E-Government Services", "Digital Technology", "Information and Communications Technology (ICT)",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3330230138!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1738"
 
 [[history]]
 date = "2020-07-27"

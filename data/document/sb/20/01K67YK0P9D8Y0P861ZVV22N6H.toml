@@ -6,7 +6,6 @@ name = "SBN-01271"
 [meta]
 bill_number = 1271
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1271", "https://web.senate.gov.ph/lisdata/4791343929!.pdf",]
 title = "MAGNA CARTA OF BARANGAY HEALTH WORKERS"
 date_filed = "2025-08-27"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF BARANGAY HEALTH WORKERS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Barangay Health Worker",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4791343929!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1271"
 
 [[history]]
 date = "2025-08-27"

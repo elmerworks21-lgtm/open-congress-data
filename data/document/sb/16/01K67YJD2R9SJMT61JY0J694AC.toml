@@ -6,7 +6,6 @@ name = "SBN-01234"
 [meta]
 bill_number = 1234
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1234", "https://web.senate.gov.ph/lisdata/1730114536!.pdf",]
 title = "DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY ACT OF 2013"
 date_filed = "2013-08-06"
 long_title = "AN ACT CREATING THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Information and Communications Technology",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1730114536!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1234"
 
 [[history]]
 date = "2013-08-06"

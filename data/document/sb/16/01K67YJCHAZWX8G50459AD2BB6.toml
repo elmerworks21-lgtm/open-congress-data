@@ -6,7 +6,6 @@ name = "SBN-00391"
 [meta]
 bill_number = 391
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-391", "https://web.senate.gov.ph/lisdata/1625313482!.pdf",]
 title = "FIRE PROTECTION MODERNIZATION ACT"
 date_filed = "2013-07-03"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF FIRE PROTECTION"
@@ -15,6 +14,8 @@ subjects = [ "Fire Protection",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1625313482!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-391"
 
 [[history]]
 date = "2013-07-03"

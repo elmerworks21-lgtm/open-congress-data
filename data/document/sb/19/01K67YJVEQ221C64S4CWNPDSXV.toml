@@ -6,7 +6,6 @@ name = "SBN-00854"
 [meta]
 bill_number = 854
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-854", "https://web.senate.gov.ph/lisdata/3867335126!.pdf",]
 title = "NATIONAL BUILDING CODE INTEGRATION ACT OF 2022"
 date_filed = "2022-07-25"
 long_title = "AN ACT MANDATING THE INTEGRATION OF THE NATIONAL BUILDING CODE OF THE PHILIPPINES UNDER REPUBLIC ACT NO. 6541, ENTITLED AN ACT TO ORDAIN AND INSTITUTE A NATIONAL BUILDING CODE OF THE PHILIPPINES, AS A MAJOR SUBJECT IN THE CURRICULUM OF THE BACHELOR OF SCIENCE DEGREE PROGRAMS IN CIVIL ENGINEERING, MECHANICAL ENGINEERING, ELECTRICAL ENGINEERING, SANITARY ENGINEERING, ELECTRONICS ENGINEERING, AND ARCHITECTURE, AND ITS INCLUSION AS A TOPIC IN THE LICENSURE EXAMINATIONS FOR THESE PROFESSIONS"
@@ -15,6 +14,8 @@ subjects = [ "National Building Code of the Philippines", "Curriculum/Curricula"
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3867335126!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-854"
 
 [[history]]
 date = "2022-07-25"

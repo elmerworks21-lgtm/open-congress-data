@@ -6,7 +6,6 @@ name = "SBN-00398"
 [meta]
 bill_number = 398
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-398", "https://web.senate.gov.ph/lisdata/45733919!.pdf",]
 title = "NUTRITION AND HEALTH ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO ESTABLISH WITHIN THE DEPARTMENT OF HEALTH A PERMANENT COUNCIL ON NUTRITION AND HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition", "Department of Health (DOH)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45733919!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-398"
 
 [[history]]
 date = "2007-07-02"

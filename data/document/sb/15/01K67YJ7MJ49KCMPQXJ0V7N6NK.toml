@@ -6,7 +6,6 @@ name = "SBN-00648"
 [meta]
 bill_number = 648
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-648", "https://web.senate.gov.ph/lisdata/81506620!.pdf",]
 title = "PHILIPPINE OVERSEAS WORKERS BANK"
 date_filed = "2010-07-07"
 long_title = "AN ACT CREATING THE PHILIPPINE OVERSEAS WORKERS BANK, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Overseas Workers Bank",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81506620!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-648"
 
 [[history]]
 date = "2010-07-07"

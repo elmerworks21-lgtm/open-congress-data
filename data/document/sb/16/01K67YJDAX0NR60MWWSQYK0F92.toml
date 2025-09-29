@@ -6,7 +6,6 @@ name = "SBN-01633"
 [meta]
 bill_number = 1633
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1633", "https://web.senate.gov.ph/lisdata/1776314997!.pdf",]
 title = "CHILDREN'S MEDIA PROTECTION ACT"
 date_filed = "2013-09-11"
 long_title = "AN ACT LIMITING EXPOSURE OF CHILDREN TO VIOLENT PROGRAMMING ON TELEVISION AND CABLE SYSTEMS"
@@ -15,6 +14,8 @@ subjects = [ "Childrens Media Protection", "Cable Television", "Violence", "Tele
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1776314997!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1633"
 
 [[history]]
 date = "2013-09-11"

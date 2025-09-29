@@ -6,7 +6,6 @@ name = "SBN-02172"
 [meta]
 bill_number = 2172
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2172", "https://web.senate.gov.ph/lisdata/3498731814!.pdf",]
 title = "ILOCOS NORTE AS THE GARLIC CAPITAL OF THE PHILIPPINES"
 date_filed = "2021-05-11"
 long_title = "AN ACT DECLARING THE PROVINCE OF ILOCOS NORTE AS THE GARLIC CAPITAL OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Garlic Capital",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3498731814!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2172"
 
 [[history]]
 date = "2021-05-11"

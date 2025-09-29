@@ -6,7 +6,6 @@ name = "SBN-00332"
 [meta]
 bill_number = 332
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-332", "https://web.senate.gov.ph/lisdata/1620213430!.pdf",]
 title = "NATIONAL CHILDREN'S DAY ACT OF 2013"
 date_filed = "2013-07-03"
 long_title = "AN ACT DECLARING NOVEMBER 20 OF EVERY YEAR A SPECIAL WORKING HOLIDAY TO BE KNOWN AS NATIONAL CHILDREN'S DAY"
@@ -15,6 +14,8 @@ subjects = [ "National Childrens Day", "Holidays (Special Working)",]
 authors_raw = "Cayetano, Pia S., Villar, Cynthia A., Trillanes, Antonio \"Sonny\" F., Pimentel, Aquilino Koko III L."
 author_codes = ["CPIAS", "PAQUI", "TANTO", "VCYNT"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1620213430!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-332"
 
 [[history]]
 date = "2013-07-03"

@@ -6,7 +6,6 @@ name = "SBN-01338"
 [meta]
 bill_number = 1338
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1338", "https://web.senate.gov.ph/lisdata/25441917!.pdf",]
 title = "GUARANTEE CAP ACT OF 2004"
 date_filed = "2004-07-06"
 long_title = "AN ACT TO LIMIT ANNUAL GOVERNMENT GUARANTEES TO THIRTY PERCENT OF ONE PERCENT (0.30%) OF THE GROSS DOMESTIC PRODUCT (GDP), AT CURRENT PRICES, OF THE PRECEDING YEARS"
@@ -15,6 +14,8 @@ subjects = [ "Guarantee Cap Act", "Government Guarantees", "Gross Domestic Produ
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/25441917!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1338"
 
 [[history]]
 date = "2004-07-06"

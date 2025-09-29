@@ -6,7 +6,6 @@ name = "SBN-00414"
 [meta]
 bill_number = 414
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-414", "https://web.senate.gov.ph/lisdata/3817534613!.pdf",]
 title = "STRENGTHENING R. A. NO. 11165 (TELECOMMUTING ACT)"
 date_filed = "2022-07-12"
 long_title = "AN ACT STRENGTHENING REPUBLIC ACT NO. 11165, OTHERWISE KNOWN AS THE 'TELECOMMUTING ACT', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Telecommuting",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3817534613!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-414"
 
 [[history]]
 date = "2022-07-12"

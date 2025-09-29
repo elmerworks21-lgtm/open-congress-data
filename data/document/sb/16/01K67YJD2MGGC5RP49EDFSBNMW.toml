@@ -6,7 +6,6 @@ name = "SBN-01228"
 [meta]
 bill_number = 1228
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1228", "https://web.senate.gov.ph/lisdata/1729514528!.pdf",]
 title = "LOCAL GOVERNMENT CODE (TITLES V AND VI, SECS. 102 AND 107)"
 date_filed = "2013-08-06"
 long_title = "AN ACT AMENDING TITLES V AND VI, SECTIONS 102 AND 107 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE"
@@ -15,6 +14,8 @@ subjects = [ "Local Health Board", "Local Government Code (R.A.No. 7160)",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1729514528!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1228"
 
 [[history]]
 date = "2013-08-06"

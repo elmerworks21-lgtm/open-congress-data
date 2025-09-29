@@ -6,7 +6,6 @@ name = "SBN-00714"
 [meta]
 bill_number = 714
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-714", "https://web.senate.gov.ph/lisdata/1661213851!.pdf",]
 title = "SPECIAL RICE AND CORN INSURANCE PROGRAM OF 2013"
 date_filed = "2013-07-10"
 long_title = "AN ACT AUTHORIZING THE GRANT OF A FULL CROP INSURANCE COVERAGE TO QUALIFIED FARMERS, PROVIDING FOR THE REQUIRED GOVERNMENT PREMIUM SUBSIDY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Insurance", "Rice Security",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1661213851!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-714"
 
 [[history]]
 date = "2013-07-10"

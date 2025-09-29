@@ -6,7 +6,6 @@ name = "SBN-01992"
 [meta]
 bill_number = 1992
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1992", "https://web.senate.gov.ph/lisdata/34182637!.pdf",]
 title = "BOOK TRADE (DISCOUNT)"
 date_filed = "2005-05-03"
 long_title = "AN ACT ADOPTING A RETAIL PRICE MAINTENANCE AND UNIFORM DISCOUNTING SCHEME IN BOOK TRADE WITH THE END VIEW OF INSURING AFFORDABLE, ACCESSIBLE AND QUALITY-LADEN TEXTBOOKS AND OTHER RELATED EDUCATIONAL MATERIALS TO BE USED BY PRIVATE AND PUBLIC SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Book Trade Uniform Discounting Scheme",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34182637!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1992"
 
 [[history]]
 date = "2005-05-03"

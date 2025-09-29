@@ -6,7 +6,6 @@ name = "SBN-03254"
 [meta]
 bill_number = 3254
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3254", "https://web.senate.gov.ph/lisdata/113059973!.pdf",]
 title = "CLUB NOISE REGULATORY ACT OF 2009"
 date_filed = "2009-05-18"
 long_title = "AN ACT REGULATING THE OPERATION OF DANCE CLUBS"
@@ -15,6 +14,8 @@ subjects = [ "Noise Regulation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/113059973!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3254"
 
 [[history]]
 date = "2009-05-18"

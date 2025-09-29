@@ -6,7 +6,6 @@ name = "SBN-00645"
 [meta]
 bill_number = 645
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-645", "https://web.senate.gov.ph/lisdata/3850634961!.pdf",]
 title = "TAX-FREE IMPORTATION OF MEDICAL SUPPLIES AND EQUIPMENT ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT EXEMPTING THE IMPORTATION OF MEDICAL SUPPLIES AND EQUIPMENT FROM CUSTOMS DUTY AND VALUE-ADDED TAX"
@@ -15,6 +14,8 @@ subjects = [ "Medical Supplies and Equipment", "Taxes (Value-Added Tax / Vat)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3850634961!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-645"
 
 [[history]]
 date = "2022-07-14"

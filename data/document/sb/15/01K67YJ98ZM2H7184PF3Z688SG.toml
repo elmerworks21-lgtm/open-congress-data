@@ -6,7 +6,6 @@ name = "SBN-02888"
 [meta]
 bill_number = 2888
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2888", "https://web.senate.gov.ph/lisdata/117949941!.pdf",]
 title = "ASSAULT USING A LASER DEVICE"
 date_filed = "2011-07-18"
 long_title = "AN ACT DEFINING THE OFFENSES OF ASSAULT USING A LASER DEVICE AND AGGRAVATED ASSAULT USING A LASER DEVICE AND IMPOSING PENALTIES THEREON"
@@ -15,6 +14,8 @@ subjects = [ "Laser Device", "Laser Beams",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/117949941!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2888"
 
 [[history]]
 date = "2011-07-18"

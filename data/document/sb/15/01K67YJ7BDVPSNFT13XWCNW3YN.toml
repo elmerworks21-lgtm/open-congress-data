@@ -6,7 +6,6 @@ name = "SBN-00195"
 [meta]
 bill_number = 195
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-195", "https://web.senate.gov.ph/lisdata/75916121!.pdf",]
 title = "NATIONAL MILITARY APPRECIATION WEEK ACT OF 2010"
 date_filed = "2010-07-06"
 long_title = "AN ACT DECLARING THE LAST FULL WEEK OF AUGUST AS NATIONAL MILITARY APPRECIATION WEEK"
@@ -15,6 +14,8 @@ subjects = [ "National Military Appreciation Week",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75916121!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-195"
 
 [[history]]
 date = "2010-07-06"

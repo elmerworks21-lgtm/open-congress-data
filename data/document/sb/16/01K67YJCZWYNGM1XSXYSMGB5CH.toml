@@ -6,7 +6,6 @@ name = "SBN-01095"
 [meta]
 bill_number = 1095
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1095", "https://web.senate.gov.ph/lisdata/1713714373!.pdf",]
 title = "SAFE AND NONTOXIC CHILDREN'S PRODUCTS ACT OF 2013"
 date_filed = "2013-07-24"
 long_title = "AN ACT TO REGULATE THE IMPORTATION, MANUFACTURE, SALE AND DISTRIBUTION OF CHILDREN’S TOYS, SCHOOL SUPPLIES, CHILDCARE ARTICLES AND OTHER RELATED PRODUCTS, CONTAINING TOXIC CHEMICALS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Children/Child Care", "Chemicals", "Toy Safety",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1713714373!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1095"
 
 [[history]]
 date = "2013-07-24"

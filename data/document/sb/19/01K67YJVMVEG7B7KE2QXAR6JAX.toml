@@ -6,7 +6,6 @@ name = "SBN-01119"
 [meta]
 bill_number = 1119
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1119", "https://web.senate.gov.ph/lisdata/3909835539!.pdf",]
 title = "BETTER NORMAL FOR THE WORKPLACE, COMMUNITIES AND PUBLIC SPACES ACT OF 2022"
 date_filed = "2022-08-09"
 long_title = "AN ACT ESTABLISHING PUBLIC HEALTH AND ENVIRONMENTAL STANDARDS AND SAFEGUARDS FOR THE BETTER NORMAL IN THE WORKPLACE, PUBLIC PLACES AND COMMUNITIES TOWARD A SUSTAINABLE RECOVERY FROM THE CORONAVIRUS DISESASE (COVID-19) PANDEMIC AND OTHER SIMILAR INFECTIOUS DISEASES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Better Normal", "Covid-19",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3909835539!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1119"
 
 [[history]]
 date = "2022-08-09"

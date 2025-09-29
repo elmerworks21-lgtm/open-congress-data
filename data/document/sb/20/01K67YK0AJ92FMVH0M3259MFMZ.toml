@@ -6,7 +6,6 @@ name = "SBN-00889"
 [meta]
 bill_number = 889
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-889", "https://web.senate.gov.ph/lisdata/4748243486!.pdf",]
 title = "MANDATORY CONSTITUTIONAL EDUCATION ACT"
 date_filed = "2025-08-05"
 long_title = "AN ACT INTEGRATING THE TEACHING OF THE 1987 PHILIPPINE CONSTITUTION IN THE SECONDARY EDUCATION CURRICULUM OF ALL PUBLIC AND PRIVATE EDUCATIONAL INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Constitutional Education", "Philippine Constitution", "Curriculum/
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4748243486!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-889"
 
 [[history]]
 date = "2025-08-05"

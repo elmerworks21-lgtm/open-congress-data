@@ -6,7 +6,6 @@ name = "SBN-00405"
 [meta]
 bill_number = 405
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-405", "https://web.senate.gov.ph/lisdata/45803927!.pdf",]
 title = "INTEGRATED MEDICAL PROFESSIONAL ORGANIZATION ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT ACCREDITING THE PHILIPPINE MEDICAL ASSOCIATION AS THE INTEGRATED MEDICAL PROFESSIONAL ORGANIZATION OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Professional Organization", "Philippine Medical Associatio
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45803927!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-405"
 
 [[history]]
 date = "2007-07-02"

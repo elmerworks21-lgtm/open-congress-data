@@ -6,7 +6,6 @@ name = "SBN-02118"
 [meta]
 bill_number = 2118
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2118", "https://web.senate.gov.ph/lisdata/39963361!.pdf",]
 title = "PHILIPPINE NAVAL ACADEMY"
 date_filed = "2005-09-08"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE NAVAL ACADEMY AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Naval Academy (Establishment)",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/39963361!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2118"
 
 [[history]]
 date = "2005-09-08"

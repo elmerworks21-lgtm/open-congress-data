@@ -6,7 +6,6 @@ name = "SBN-00186"
 [meta]
 bill_number = 186
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-186", "https://web.senate.gov.ph/lisdata/3041227192!.pdf",]
 title = "COMPREHENSIVE STATEMENT OF ASSETS, LIABILITIES AND NET WORTH ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE LAW ON STATEMENT OF ASSETS, LIABILITIES AND NET WORTH AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Statement of Assets, Liabilities and Net Worth (SALN)",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3041227192!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-186"
 
 [[history]]
 date = "2019-07-02"

@@ -6,7 +6,6 @@ name = "SBN-00103"
 [meta]
 bill_number = 103
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-103", "https://web.senate.gov.ph/lisdata/3781134252!.pdf",]
 title = "THE PHILIPPINE DISASTER RISK REDUCTION AND MANAGEMENT SYSTEM ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT REORGANIZING AND STRENGTHENING THE DISASTER RISK REDUCTION AND MANAGEMENT SYSTEM OF THE PHILIPPINES, ESTABLISHING FOR THE PURPOSE THE DEPARTMENT OF DISASTER RESILIENCE AND EMERGENCY MANAGEMENT, EMPOWERING THE REGIONAL FIELD OFFICES, ESTABLISHING COORDINATING MECHANISMS, STRENGTHENING COMMUNITY PARTICIPATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Disaster Risk Reduction and Management", "Philippine Disaster Risk
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3781134252!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-103"
 
 [[history]]
 date = "2022-07-07"

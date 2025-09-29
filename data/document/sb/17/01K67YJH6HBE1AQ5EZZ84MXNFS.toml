@@ -6,7 +6,6 @@ name = "SBN-00096"
 [meta]
 bill_number = 96
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-96", "https://web.senate.gov.ph/lisdata/2350920112!.pdf",]
 title = "HOTLINE 117 ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT INSTITUTIONALIZING AND FURTHER DEVELOPING 117 AS THE NATIONWIDE EMERGENCY ASSISTANCE TELEPHONE NUMBER FOR PUBLIC SAFETY AND SECURITY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Emergency Hotline 117", "Emergency Calls",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2350920112!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-96"
 
 [[history]]
 date = "2016-06-30"

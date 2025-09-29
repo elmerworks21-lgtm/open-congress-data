@@ -6,7 +6,6 @@ name = "SBN-02585"
 [meta]
 bill_number = 2585
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2585", "https://web.senate.gov.ph/lisdata/83037502!.pdf",]
 title = "IMPROVING CLASSROOM LEARNING AND STUDENT PERFORMANCE ACT OF 2008"
 date_filed = "2008-09-02"
 long_title = "AN ACT TO IMPROVE THE QUALITY OF CLASSROOM LEARNING BY EMPOWERING PROVINCES TO DEVELOP PERFORMANCE-BASED ASSESSMENTS THAT MEASURE HIGHER ORDER THINKING SKILLS"
@@ -15,6 +14,8 @@ subjects = [ "Classroom Learning Quality",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/83037502!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2585"
 
 [[history]]
 date = "2008-09-02"

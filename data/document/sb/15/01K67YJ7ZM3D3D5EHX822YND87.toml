@@ -6,7 +6,6 @@ name = "SBN-01189"
 [meta]
 bill_number = 1189
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1189", "https://web.senate.gov.ph/lisdata/86827237!.pdf",]
 title = "BEACHES ENVIRONMENTAL ASSESSMENT, CLOSURE, AND HEALTH ACT"
 date_filed = "2010-07-12"
 long_title = "AN ACT TO IMPROVE THE QUALITY OF BEACHES AND COASTAL RECREATION WATER"
@@ -15,6 +14,8 @@ subjects = [ "Beaches",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/86827237!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1189"
 
 [[history]]
 date = "2010-07-12"

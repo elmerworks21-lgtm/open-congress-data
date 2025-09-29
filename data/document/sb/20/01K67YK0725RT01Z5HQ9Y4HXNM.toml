@@ -6,7 +6,6 @@ name = "SBN-00702"
 [meta]
 bill_number = 702
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-702", "https://web.senate.gov.ph/lisdata/4723243232!.pdf",]
 title = "INCREASING UTILIZATION OF RENEWABLE ENERGY IN GOVERNMENT"
 date_filed = "2025-07-17"
 long_title = "AN ACT MANDATING ALL GOVERNMENT DEPARTMENTS, BUREAUS, OFFICES, AGENCIES, AND INSTRUMENTALITIES, INCLUDING LOCAL GOVERNMENT UNITS AND GOVERNMENT-OWNED OR - CONTROLLED CORPORATIONS, TO SOURCE A MINIMUM PERCENTAGE OF THEIR ELECTRICITY FROM RENEWABLE ENERGY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electricity", "Renewable Energy", "Government Agencies",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4723243232!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-702"
 
 [[history]]
 date = "2025-07-17"

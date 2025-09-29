@@ -6,7 +6,6 @@ name = "SBN-02036"
 [meta]
 bill_number = 2036
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2036", "https://web.senate.gov.ph/lisdata/67535989!.pdf",]
 title = "WAGE RATIONALIZATION ACT"
 date_filed = "2008-01-29"
 long_title = "AN ACT INCREASING THE PENALTIES FOR NON-COMPLIANCE OF THE PRESCRIBED INCREASES AND ADJUSTMENTS IN THE WAGE RATES OF WORKERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6727, OTHERWISE KNOWN AS THE 'WAGE RATIONALIZATION ACT', AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Aquino III, Benigno S."
 author_codes = ["ABENI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67535989!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2036"
 
 [[history]]
 date = "2008-01-29"

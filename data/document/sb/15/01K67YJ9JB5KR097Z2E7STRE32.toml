@@ -6,7 +6,6 @@ name = "SBN-03210"
 [meta]
 bill_number = 3210
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3210", "https://web.senate.gov.ph/lisdata/1337611152!.pdf",]
 title = "WORKERS' RIGHTS TO PEACEFUL CONCERTED ACTIVITIES"
 date_filed = "2012-05-24"
 long_title = "AN ACT STRENGTHENING WORKERS' RIGHTS TO PEACEFUL CONCERTED ACTIVITIES, AMENDING FOR THIS PURPOSE ARTICLES 263, 264 AND 272 OF PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Workers Right to Self-Organization",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1337611152!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3210"
 
 [[history]]
 date = "2012-05-24"

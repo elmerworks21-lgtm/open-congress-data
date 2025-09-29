@@ -6,7 +6,6 @@ name = "SBN-03398"
 [meta]
 bill_number = 3398
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3398", "https://web.senate.gov.ph/lisdata/1218310699!.pdf",]
 title = "LEAD CONTAMINATION CONTROL ACT OF 2009"
 date_filed = "2009-08-19"
 long_title = "AN ACT TO STOP THE HAZARDOUS EFFECTS OF LEAD CONTAMINATION OF WATER SUPPLIES IN DRINKING WATER COOLERS"
@@ -15,6 +14,8 @@ subjects = [ "Lead Content", "Drinking Water",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1218310699!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3398"
 
 [[history]]
 date = "2009-08-19"

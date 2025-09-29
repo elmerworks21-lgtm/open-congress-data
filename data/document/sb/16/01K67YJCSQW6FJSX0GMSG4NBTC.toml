@@ -6,7 +6,6 @@ name = "SBN-00802"
 [meta]
 bill_number = 802
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-802", "https://web.senate.gov.ph/lisdata/1678014014!.pdf",]
 title = "AGRITOURISM PROMOTION ACT OF 2013"
 date_filed = "2013-07-16"
 long_title = "AN ACT TO PROMOTE AGRITOURISM IN THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Agritourism",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1678014014!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-802"
 
 [[history]]
 date = "2013-07-16"

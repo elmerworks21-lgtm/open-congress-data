@@ -6,7 +6,6 @@ name = "SBN-00052"
 [meta]
 bill_number = 52
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-52", "https://web.senate.gov.ph/lisdata/40993522!.pdf",]
 title = "LIMITING THE PASS ON CHARGES OF DISTRIBUTION UTILITIES TO CONSUMERS"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROVIDING FOR A DEVISE TO DECREASE THE COST OF ELECTRIC POWER CONSUMPTION OF END CONSUMERS, BY WAY OF LIMITING THE PASS ON CHARGES OF DISTRIBUTION UTILITIES TO CONSUMERS AS WELL AS COMPLETELY BANNING CROSS-OWNERSHIP FROM AND AMONG POWER UTILITY COMPANIES, AMENDING FOR THE PURPOSE CERTAIN PROVISIONS OF REPUBLIC ACT 9136 OTHERWISE KNOWN AS THE ‘ELECTRIC POWER INDUSTRY REFORM ACT OF 2001’, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electric Power Industry Reform (RA 9136; Epira)", "Power Utility C
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/40993522!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-52"
 
 [[history]]
 date = "2007-06-30"

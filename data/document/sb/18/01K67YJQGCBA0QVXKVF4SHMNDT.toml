@@ -6,7 +6,6 @@ name = "SBN-01592"
 [meta]
 bill_number = 1592
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1592", "https://web.senate.gov.ph/lisdata/3301829865!.pdf",]
 title = "MEDICAL RESERVE CORPS ACT"
 date_filed = "2020-06-10"
 long_title = "AN ACT STRENGTHENING THE NATIONAL PREPAREDNESS AND RESPONSE TO PANDEMIC, EPIDEMIC, AND OTHER PUBLIC HEALTH EMERGENCIES, CREATING A MEDICAL RESERVE CORPS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Reserve Corps", "Pandemic",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3301829865!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1592"
 
 [[history]]
 date = "2020-06-10"

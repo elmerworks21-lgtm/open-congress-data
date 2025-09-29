@@ -6,7 +6,6 @@ name = "SBN-00810"
 [meta]
 bill_number = 810
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-810", "https://web.senate.gov.ph/lisdata/50344427!.pdf",]
 title = "BUDGET IMPOUNDMENT CONTROL ACT"
 date_filed = "2007-07-03"
 long_title = "THE BUDGET IMPOUNDMENT CONTROL ACT"
@@ -15,6 +14,8 @@ subjects = [ "Budget Impoundment Control Act",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50344427!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-810"
 
 [[history]]
 date = "2007-07-03"

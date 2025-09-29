@@ -6,7 +6,6 @@ name = "SBN-00540"
 [meta]
 bill_number = 540
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-540", "https://web.senate.gov.ph/lisdata/16971035!.pdf",]
 title = "COMPUTER EDUCATION PROGRAM - CURRICULA"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO INTEGRATE A COMPUTER EDUCATION PROGRAM INTO THE EDUCATIONAL SYSTEM AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Curricula (Computer Education Program)", "Information Technology",
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/16971035!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-540"
 
 [[history]]
 date = "2004-06-30"

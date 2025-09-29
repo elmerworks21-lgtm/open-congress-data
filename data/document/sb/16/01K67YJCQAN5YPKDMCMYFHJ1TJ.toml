@@ -6,7 +6,6 @@ name = "SBN-00682"
 [meta]
 bill_number = 682
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-682", "https://web.senate.gov.ph/lisdata/1664313882!.pdf",]
 title = "INVENTORS AND INVENTION INCENTIVES ACT OF 2013"
 date_filed = "2013-07-09"
 long_title = "AN ACT CREATING A PHILIPPINE INVENTORS COMMISSION, DEFINING ITS POWERS, FUNCTIONS AND DUTIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Inventors and Inventions",]
 authors_raw = "Legarda, Loren B., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "LLORE"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1664313882!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-682"
 
 [[history]]
 date = "2013-07-09"

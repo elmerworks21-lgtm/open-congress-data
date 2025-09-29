@@ -6,7 +6,6 @@ name = "SBN-02531"
 [meta]
 bill_number = 2531
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2531", "https://web.senate.gov.ph/lisdata/4340939489!.pdf",]
 title = "LAGUNA REGIONAL HOSPITAL"
 date_filed = "2024-02-06"
 long_title = "AN ACT ESTABLISHING A LEVEL III GENERAL HOSPITAL IN THE MUNICIPALITY OF BAY, PROVINCE OF LAGUNA, TO BE KNOWN AS THE LAGUNA REGIONAL HOSPITAL, UNDER THE DIRECT CONTROL AND SUPERVISION OF THE DEPARTMENT OF HEALTH, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Hospitals, Establishment",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EJOSE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4340939489!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2531"
 
 [[history]]
 date = "2024-02-06"

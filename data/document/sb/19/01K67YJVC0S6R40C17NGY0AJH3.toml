@@ -6,7 +6,6 @@ name = "SBN-00730"
 [meta]
 bill_number = 730
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-730", "https://web.senate.gov.ph/lisdata/3841934874!.pdf",]
 title = "AMENDING OMNIBUS ELECTION CODE (OFFICE SPACE FOR FIELD OFFICERS AND THEIR STAFF)"
 date_filed = "2022-07-18"
 long_title = "AN ACT AMENDING SECTION 55 OF BATAS PAMBANSA BLG. 881, OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE, AS AMENDED, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3841934874!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-730"
 
 [[history]]
 date = "2022-07-18"

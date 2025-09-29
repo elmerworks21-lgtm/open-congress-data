@@ -6,7 +6,6 @@ name = "SBN-00515"
 [meta]
 bill_number = 515
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-515", "https://web.senate.gov.ph/lisdata/3827634714!.pdf",]
 title = "EATING DISORDERS AWARENESS, PREVENTION AND EDUCATION ACT"
 date_filed = "2022-07-13"
 long_title = "AN ACT TO PROVIDE EATING DISORDERS AWARENESS, PREVENTION, AND EDUCATION AMONG ELEMENTARY, SECONDARY AND COLLEGE STUDENTS, THEIR PARENTS AND GUARDIANS"
@@ -15,6 +14,8 @@ subjects = [ "Eating Disorder", "Students", "Parents",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3827634714!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-515"
 
 [[history]]
 date = "2022-07-13"

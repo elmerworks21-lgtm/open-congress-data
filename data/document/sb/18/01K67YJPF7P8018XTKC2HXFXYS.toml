@@ -6,7 +6,6 @@ name = "SBN-00134"
 [meta]
 bill_number = 134
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-134", "https://web.senate.gov.ph/lisdata/3039227233!.pdf",]
 title = "DIALYSIS CENTER ACT"
 date_filed = "2019-07-02"
 long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT HOSPITALS TO ESTABLISH, OPERATE AND MAINTAIN A DIALYSIS WARD OR UNIT IN THEIR RESPECTIVE HOSPITAL AND PROVIDING FREE DIALYSIS TREATMENT TO INDIGENT PATIENTS"
@@ -15,6 +14,8 @@ subjects = [ "Dialysis Center", "Hospitals (Government Hospitals)", "Indigent Pe
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3039227233!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-134"
 
 [[history]]
 date = "2019-07-02"

@@ -6,7 +6,6 @@ name = "SBN-01304"
 [meta]
 bill_number = 1304
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1304", "https://web.senate.gov.ph/lisdata/3227529121!.pdf",]
 title = "AMENDING ARTICLES 14, 19, 124, 211 AND 225 OF E.O. NO. 209 (FAMILY CODE OF THE PHILIPPINES)"
 date_filed = "2020-02-03"
 long_title = "AN ACT AMENDING ARTICLES 14, 19, 124, 211 AND 225 OF EXECUTIVE ORDER NO. 209, OTHERWISE KNOWN AS THE FAMILY CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Family Code(E.O.No. 209)",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3227529121!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1304"
 
 [[history]]
 date = "2020-02-03"

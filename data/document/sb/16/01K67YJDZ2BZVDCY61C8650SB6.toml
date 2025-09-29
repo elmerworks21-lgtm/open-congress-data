@@ -6,7 +6,6 @@ name = "SBN-02527"
 [meta]
 bill_number = 2527
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2527", "https://web.senate.gov.ph/lisdata/2033317440!.pdf",]
 title = "DRUG-FREE BORDERS ACT"
 date_filed = "2014-12-22"
 long_title = "AN ACT SECURING THE PHILIPPINE'S BORDERS TO MAKE MORE EFFECTIVE THE PROHIBITION AGAINST THE ENTRY OF ILLEGAL DRUGS INTO THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Illegal Drugs", "Philippine Coast Guard", "Bureau of Customs", "De
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2033317440!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2527"
 
 [[history]]
 date = "2014-12-22"

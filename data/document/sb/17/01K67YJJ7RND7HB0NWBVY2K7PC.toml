@@ -6,7 +6,6 @@ name = "SBN-01483"
 [meta]
 bill_number = 1483
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1483", "https://web.senate.gov.ph/lisdata/2616622501!.pdf",]
 title = "FISCAL AND MONETARY REPORT ACT OF 2017"
 date_filed = "2017-05-30"
 long_title = "AN ACT MANDATING THE SECRETARIES OF THE DEPARTMENT OF FINANCE, NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY, AND DEPARTMENT OF BUDGET AND MANAGEMENT, AND THE GOVERNOR OF THE BANGKO SENTRAL NG PILIPINAS, TO APPEAR BIANNUALLY BEFORE A JOINT SESSION OF CONGRESS TO REPORT ON THE STATUS AND DIRECTIONS OF THE FISCAL AND MONETARY POLICIES OF THE STATE"
@@ -15,6 +14,8 @@ subjects = [ "Department of Finance", "Department of Budget and Management (DBM)
 authors_raw = "Recto, Ralph G., Gatchalian, Sherwin T."
 author_codes = ["GSHER", "RRALP"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2616622501!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1483"
 
 [[history]]
 date = "2017-05-30"

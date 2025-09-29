@@ -6,7 +6,6 @@ name = "SBN-00638"
 [meta]
 bill_number = 638
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-638", "https://web.senate.gov.ph/lisdata/2412620763!.pdf",]
 title = "APPOINTMENTS CONFIRMATION ACT OF 2016"
 date_filed = "2016-07-20"
 long_title = "AN ACT SETTING THE LIMITS ON THE POWER OF THE PRESIDENT TO REAPPOINT BYPASSED NOMINEES"
@@ -15,6 +14,8 @@ subjects = [ "Presidential Appointments", "Commission on Appointments (CA)", "Pr
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2412620763!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-638"
 
 [[history]]
 date = "2016-07-20"

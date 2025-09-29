@@ -6,7 +6,6 @@ name = "SBN-01432"
 [meta]
 bill_number = 1432
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1432", "https://web.senate.gov.ph/lisdata/1752914764!.pdf",]
 title = "AGRICULTURAL LAND PROTECTION ACT"
 date_filed = "2013-08-29"
 long_title = "AN ACT REQUIRING THE DEPARTMENT OF AGRARIAN REFORM AND THE DEPARTMENT OF AGRICULTURE TO SUBMIT AN ANNUAL REPORT TO CONGRESS ON THE CONVERSION OF AGRICULTURAL LAND TO NON-AGRICULTURAL USES INCLUDING A REVIEW OF EXISTING POLICIES AND PROCEDURES"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Land", "Department of Agrarian Reform (DAR)", "Depart
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1752914764!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1432"
 
 [[history]]
 date = "2013-08-29"

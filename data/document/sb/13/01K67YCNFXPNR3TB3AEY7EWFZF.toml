@@ -6,7 +6,6 @@ name = "SBN-00228"
 [meta]
 bill_number = 228
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-228", "https://web.senate.gov.ph/lisdata/1385640!.pdf",]
 title = "REDUCING THE RETIREMENT AGE OF GOVERNMENT"
 date_filed = "2004-06-30"
 long_title = "AN ACT REDUCING THE RETIREMENT AGE OF GOVERNMENT, AMENDING FURTHER FOR THE PURPOSE THE GOVERNMENT SERVICE INSURANCE SYSTEM OF 1997, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Retirement Age Reduction (Govt. Employee", "Gsis Act (R.A.No. 8291
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1385640!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-228"
 
 [[history]]
 date = "2004-06-30"

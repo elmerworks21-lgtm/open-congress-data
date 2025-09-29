@@ -6,7 +6,6 @@ name = "SBN-01746"
 [meta]
 bill_number = 1746
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1746", "https://web.senate.gov.ph/lisdata/61965527!.pdf",]
 title = "FLEXIBLE WORKING SCHEDULE IN THE PRIVATE SECTOR"
 date_filed = "2007-10-16"
 long_title = "AN ACT PROVIDING FOR A FLEXIBLE WORKING SCHEDULE IN THE PRIVATE SECTOR, THEREBY AMENDING ARTICLES 83, 85 AND 87 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code (Pd 442)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/61965527!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1746"
 
 [[history]]
 date = "2007-10-16"

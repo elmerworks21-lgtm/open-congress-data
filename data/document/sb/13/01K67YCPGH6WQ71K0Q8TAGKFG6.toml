@@ -6,7 +6,6 @@ name = "SBN-01978"
 [meta]
 bill_number = 1978
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1978", "https://web.senate.gov.ph/lisdata/33132458!.pdf",]
 title = "GRANTING FILIPINO CITIZENSHIP TO MR. CHARLES WILLIAM MOSSER"
 date_filed = "2005-04-12"
 long_title = "AN ACT GRANTING FILIPINO CITIZENSHIP TO MR. CHARLES WILLIAM MOSSER, WITH ALL THE RIGHTS AND PRIVILEGES AND PREROGATIVES APPURTENANT THERETO."
@@ -15,6 +14,8 @@ subjects = [ "Filipino Citizenship (Mr. Mosser)", "Mosser, Charles William",]
 authors_raw = "Flavier, Juan M., Drilon, Franklin M., Pangilinan, Francis N., Enrile, Juan Ponce, Angara, Edgardo J., Ejercito-Estrada, Jinggoy P., Magsaysay Jr., Ramon B., Biazon, Rodolfo G."
 author_codes = ["AEDGA", "BRODO", "DFRAN", "EJING", "EJUAN", "FJUAN", "MRAMO", "PFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/33132458!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1978"
 
 [[history]]
 date = "2005-04-12"

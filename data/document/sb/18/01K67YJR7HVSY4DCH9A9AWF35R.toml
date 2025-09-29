@@ -6,7 +6,6 @@ name = "SBN-02400"
 [meta]
 bill_number = 2400
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2400", "https://web.senate.gov.ph/lisdata/3627132633!.pdf",]
 title = "STRENGTHENING THE MAGNA CARTA FOR MICRO, SMALL AND MEDIUM ENTERPRISES"
 date_filed = "2021-09-15"
 long_title = "AN ACT FURTHER PROMOTING ENTREPRENEURSHIP BY STRENGTHENING, EMPOWERING, AND ENHANCING THE FINANCING AND OTHER SUPPORT PROGRAMS FOR MICRO, SMALL AND MEDIUM ENTERPRISES, AS AMENDED, OTHERWISE KNOWN AS THE ‘MAGNA CARTA FOR MICRO, SMALL AND MEDIUM ENTERPRISES (MSMES)’"
@@ -15,6 +14,8 @@ subjects = [ "Micro, Small and Medium Enterprises (Msmes)", "Entrepreneurship", 
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3627132633!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2400"
 
 [[history]]
 date = "2021-09-15"

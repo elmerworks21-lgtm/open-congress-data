@@ -6,7 +6,6 @@ name = "SBN-01918"
 [meta]
 bill_number = 1918
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1918", "https://web.senate.gov.ph/lisdata/64945760!.pdf",]
 title = "HEALTH PROMOTION ACT OF 2007"
 date_filed = "2007-11-26"
 long_title = "AN ACT ESTABLISHING A NATIONAL HEALTH PROMOTION INSTITUTE TO MAINSTREAM HEALTH PROMOTION IN THE PHILIPPINE HEALTH CARE SYSTEM, PROVIDING FOR A HEALTH PROMOTION FUND AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Healthcare Services", "Health Care Delivery System",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64945760!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1918"
 
 [[history]]
 date = "2007-11-26"

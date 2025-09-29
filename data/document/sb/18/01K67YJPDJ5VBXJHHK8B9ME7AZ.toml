@@ -6,7 +6,6 @@ name = "SBN-00058"
 [meta]
 bill_number = 58
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-58", "https://web.senate.gov.ph/lisdata/3028827116!.pdf",]
 title = "HAZARDOUS HOUSEHOLD SUBSTANCES LABELLING ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT REQUIRING THE MANDATORY LABELLING OF HOUSEHOLD PRODUCTS CONTAINING HAZARDOUS SUBSTANCES"
@@ -15,6 +14,8 @@ subjects = [ "Hazardous/Toxic/Radioactive Wastes Management", "Label/Labeling",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3028827116!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-58"
 
 [[history]]
 date = "2019-07-01"

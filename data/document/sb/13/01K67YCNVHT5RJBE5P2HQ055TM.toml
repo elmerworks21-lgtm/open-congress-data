@@ -6,7 +6,6 @@ name = "SBN-00881"
 [meta]
 bill_number = 881
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-881", "https://web.senate.gov.ph/lisdata/20791569!.pdf",]
 title = "HOUSING COOPERATIVE ACT OF THE PHILIPPINES"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROMOTE AND ENCOURAGE THE ORGANIZATION AND SUSTAINED DEVELOPMENT OF COOPERATIVES AS INSTRUMENTS FOR THE FULFILLMENT OF THE BASIC NEED OF HOUSING FOR THE HOMELESS AND UNDERPRIVILEGED AND AMENDING FOR THAT PURPOSE REPUBLIC ACT NO. 6938, THE COOPERATIVE CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Housing Cooperative Act", "Cooperative Code (RA 6938)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["COOPE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20791569!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-881"
 
 [[history]]
 date = "2004-06-30"

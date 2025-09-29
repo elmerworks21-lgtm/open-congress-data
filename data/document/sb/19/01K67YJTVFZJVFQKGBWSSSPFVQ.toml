@@ -6,7 +6,6 @@ name = "SBN-00008"
 [meta]
 bill_number = 8
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-8", "https://web.senate.gov.ph/lisdata/3770934152!.pdf",]
 title = "PANGKABUHAYAN ACT OF 2022"
 date_filed = "2022-07-04"
 long_title = "AN ACT TO PROMOTE AND ADVANCE SUSTAINABLE LIVELIHOOD AND ENTREPRENEUERSHIP BY INTEGRATING, ENHANCING, AND INSTITUTIONALIZING FINANCING AND OTHER PROGRAMS FOR LIVELIHOOD SUPPORT FOR MICRO, SMALL AND MEDIUM ENTERPRISES (MSMES), APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Micro, Small and Medium Enterprises (Msmes)", "Pangkabuhayan Act",
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3770934152!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-8"
 
 [[history]]
 date = "2022-07-04"

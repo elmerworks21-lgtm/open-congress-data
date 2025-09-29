@@ -6,7 +6,6 @@ name = "SBN-01880"
 [meta]
 bill_number = 1880
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1880", "https://web.senate.gov.ph/lisdata/31402340!.pdf",]
 title = "FILING OF FALSE COMPLAINTS AGAINST PUBLIC OFFICERS"
 date_filed = "2005-01-10"
 long_title = "AN ACT DECLARING THE FILING OF FALSE COMPLAINTS AGAINST PUBLIC OFFICERS AS A CRIME AGAINST HONOR, PRESCRIBING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Whistleblower (Public Officers)", "Crime Against Honor (False Comp
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31402340!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1880"
 
 [[history]]
 date = "2005-01-10"

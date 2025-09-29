@@ -6,7 +6,6 @@ name = "SBN-00650"
 [meta]
 bill_number = 650
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-650", "https://web.senate.gov.ph/lisdata/2413820775!.pdf",]
 title = "PLASTIC BAG PHASE-OUT ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT REGULATING PRODUCTION, SALE, USE, RECOVERY, RECYCLING, AND DISPOSAL OF PLASTIC BAGS, PROMOTING THE USE OF REUSABLE BAGS, PROVIDING MECHANISM FOR THE RECOVERY, COLLECTION, AND DISPOSAL OF PLASTIC BAGS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Plastic/Plastic Bags", "Recycling",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2413820775!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-650"
 
 [[history]]
 date = "2016-07-20"

@@ -6,7 +6,6 @@ name = "SBN-02325"
 [meta]
 bill_number = 2325
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2325", "https://web.senate.gov.ph/lisdata/74776700!.pdf",]
 title = "AMUSEMENT TAX EXEMPTION"
 date_filed = "2008-05-26"
 long_title = "AN ACT AMENDING SECTION 140 (A) OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Amusement Tax", "Movie Industry/Local Film Industry", "Local Gover
 authors_raw = "Legarda, Loren B., Villar, Manny, Aquino III, Benigno S., Escudero, Francis \"Chiz\" G., Zubiri, Juan Miguel F., Lapid, Manuel \"Lito\" M., Gordon, Richard \"Dick\" J., Pimentel Jr., Aquilino Q."
 author_codes = ["ABENI", "EFRAN", "GRICH", "LLORE", "LMANU", "PAQUI", "VMANU", "ZMIGU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74776700!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2325"
 
 [[history]]
 date = "2008-05-26"

@@ -6,7 +6,6 @@ name = "SBN-01739"
 [meta]
 bill_number = 1739
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1739", "https://web.senate.gov.ph/lisdata/61895520!.pdf",]
 title = "NATURAL DEATH ACT OF 2007"
 date_filed = "2007-10-16"
 long_title = "AN ACT RECOGNIZING THE FUNDAMENTAL RIGHT OF ADULT PERSONS TO DECIDE THEIR OWN HEALTH CARE, INCLUDING THE DECISION TO HAVE LIFE-SUSTAINING TREATMENT WITHHELD OR WITHDRAWN IN INSTANCES OF A TERMINAL CONDITION OR PERMANENT UNCONSCIOUS CONDITION"
@@ -15,6 +14,8 @@ subjects = [ "Euthanasia/Mercy Killing", "Health Care Directives",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/61895520!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1739"
 
 [[history]]
 date = "2007-10-16"

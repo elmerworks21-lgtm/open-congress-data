@@ -6,7 +6,6 @@ name = "SBN-01602"
 [meta]
 bill_number = 1602
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1602", "https://web.senate.gov.ph/lisdata/3302829874!.pdf",]
 title = "ALNO NATIONAL HIGH SCHOOL"
 date_filed = "2020-06-18"
 long_title = "AN ACT CONVERTING THE BENGUET NATIONAL HIGH SCHOOL – ALNO ANNEX IN BARANGAY ALNO, MUNICIPALITY OF LA TRINIDAD, PROVINCE OF BENGUET INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE ALNO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Schools, Conversion",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3302829874!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1602"
 
 [[history]]
 date = "2020-06-18"

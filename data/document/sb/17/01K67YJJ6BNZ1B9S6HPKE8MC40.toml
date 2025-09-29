@@ -6,7 +6,6 @@ name = "SBN-01442"
 [meta]
 bill_number = 1442
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1442", "https://web.senate.gov.ph/lisdata/2591822274!.pdf",]
 title = "AMENDING R.A. NO. 9497 (CIVIL AVIATION AUTHORITY ACT OF 2008)"
 date_filed = "2017-05-09"
 long_title = "AN ACT STRENGTHENING THE CIVIL AVIATION AUTHORITY OF THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9497, OTHERWISE KNOWN AS CIVIL AVIATION AUTHORITY ACT OF 2008"
@@ -15,6 +14,8 @@ subjects = [ "Civil Aviation Authority", "Aviation",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2591822274!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1442"
 
 [[history]]
 date = "2017-05-09"

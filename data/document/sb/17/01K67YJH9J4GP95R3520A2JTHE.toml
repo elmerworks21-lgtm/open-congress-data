@@ -6,7 +6,6 @@ name = "SBN-00218"
 [meta]
 bill_number = 218
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-218", "https://web.senate.gov.ph/lisdata/2363920297!.pdf",]
 title = "THE FIRECRACKER BAN ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT BANNING THE USE OF FIRECRACKERS EXCEPT IN DESIGNATED AREAS DONE BY PROFESSIONALS"
@@ -15,6 +14,8 @@ subjects = [ "Firecrackers", "Pyrotechnic Devices",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2363920297!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-218"
 
 [[history]]
 date = "2016-07-04"

@@ -6,7 +6,6 @@ name = "SBN-00796"
 [meta]
 bill_number = 796
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-796", "https://web.senate.gov.ph/lisdata/3115028050!.pdf",]
 title = "DEATH PENALTY LAW OF 2019"
 date_filed = "2019-07-25"
 long_title = "AN ACT RE-INSTITUTING THE DEATH PENALTY IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Death Penalty",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3115028050!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-796"
 
 [[history]]
 date = "2019-07-25"

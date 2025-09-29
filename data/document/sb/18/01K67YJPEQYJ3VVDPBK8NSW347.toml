@@ -6,7 +6,6 @@ name = "SBN-00111"
 [meta]
 bill_number = 111
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-111", "https://web.senate.gov.ph/lisdata/3035127209!.pdf",]
 title = "THE E-VAW LAW OF 2019"
 date_filed = "2019-07-01"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9262, DEFINING ELECTRONIC VIOLENCE AGAINST WOMEN OR E-VAW, PROVIDING PROTECTIVE MEASURES AND PRESCRIBING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Violence Against Women (E-Vaw)",]
 authors_raw = "Binay, Maria Lourdes Nancy S., Villanueva, Joel"
 author_codes = ["BMARI", "VEMMA"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3035127209!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-111"
 
 [[history]]
 date = "2019-07-01"

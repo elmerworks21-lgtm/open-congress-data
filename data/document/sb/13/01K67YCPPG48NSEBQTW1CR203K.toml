@@ -6,7 +6,6 @@ name = "SBN-02263"
 [meta]
 bill_number = 2263
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2263", "https://web.senate.gov.ph/lisdata/53654447!.pdf",]
 title = "LAWS ON PATENTS, TRADENAMES AND TRADEMARKS"
 date_filed = "2006-06-07"
 long_title = "AN ACT TO MAKE THE LAWS ON PATENTS, TRADENAMES AND TRADEMARKS MORE RESPONSIVE TO THE HEALTH CARE NEEDS OF THE FILIPINO PEOPLE BY CLARIFYING NON-PATENTABLE INVENTIONS, ALLOWING THE IMPORTATION AND EARLY DEVELOPMENT OF PATENTED MEDICINES, AND MODIFYING GOVERNMENT USE PROVISIONS FOR DRUGS OR MEDICINES, TO LOWER PRICES AND INCREASE ACCESS TO AND SUPPLY OF QUALITY DRUGS OR MEDICINES, AMENDING FOR THIS PURPOSE CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8293 OTHERWISE KNOWN AS THE INTELLECTUAL PROPERTY CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Law on Patents", "Tradenames", "Trademarks",]
 authors_raw = "Roxas, Mar, Cayetano, Companera Pia S."
 author_codes = ["CPIAS", "RMARA"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53654447!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2263"
 
 [[history]]
 date = "2006-06-07"

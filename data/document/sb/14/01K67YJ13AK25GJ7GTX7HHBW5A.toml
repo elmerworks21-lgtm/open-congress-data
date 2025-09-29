@@ -6,7 +6,6 @@ name = "SBN-00548"
 [meta]
 bill_number = 548
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-548", "https://web.senate.gov.ph/lisdata/47594078!.pdf",]
 title = "BILL OF RIGHTS FOR CHILDREN VICTIMS ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROTECTING THE RIGHTS OF CHILDREN WHO ARE VICTIMS OF CRIME AND ESTABLISHING A VICTIM'S BILL OF RIGHTS FOR CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Victims Bill of Rights for Children",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47594078!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-548"
 
 [[history]]
 date = "2007-07-02"

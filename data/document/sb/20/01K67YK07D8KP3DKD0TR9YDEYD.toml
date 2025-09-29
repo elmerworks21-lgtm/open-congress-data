@@ -6,7 +6,6 @@ name = "SBN-00721"
 [meta]
 bill_number = 721
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-721", "https://web.senate.gov.ph/lisdata/4725743257!.pdf",]
 title = "SOLID WASTE IMPORTATION BAN ACT OF 2025"
 date_filed = "2025-07-21"
 long_title = "AN ACT ESTABLISHING A BAN ON THE IMPORTATION OF SOLID WASTE, PROVIDING PENALTIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Solid Waste Importation Ban",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4725743257!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-721"
 
 [[history]]
 date = "2025-07-21"

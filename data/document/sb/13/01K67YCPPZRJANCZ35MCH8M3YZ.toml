@@ -6,7 +6,6 @@ name = "SBN-02290"
 [meta]
 bill_number = 2290
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2290", "https://web.senate.gov.ph/lisdata/53954524!.pdf",]
 title = "AUTISM REGISTRY"
 date_filed = "2006-06-07"
 long_title = "AN ACT ESTABLISHING AUTISM REGISTRY"
@@ -15,6 +14,8 @@ subjects = [ "Autism Registry (Establishment)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53954524!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2290"
 
 [[history]]
 date = "2006-06-07"

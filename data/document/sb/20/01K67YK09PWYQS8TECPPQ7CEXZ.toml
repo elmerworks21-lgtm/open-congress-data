@@ -6,7 +6,6 @@ name = "SBN-00842"
 [meta]
 bill_number = 842
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-842", "https://web.senate.gov.ph/lisdata/4740843411!.pdf",]
 title = "CORN INDUSTRY DEVELOPMENT ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT TO DEVELOP THE PHILIPPINE CORN INDUSTRY, ENHANCE THE AVAILABILITY AND AFFORDABILITY OF QUALITY FEEDS AND STAPLE FOOD, AND PROVIDE FOR A CORN COMPETITIVENESS ENHANCEMENT FUND"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Corn Industry Development",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4740843411!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-842"
 
 [[history]]
 date = "2025-08-04"

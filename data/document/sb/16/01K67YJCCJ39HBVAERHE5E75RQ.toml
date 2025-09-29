@@ -6,7 +6,6 @@ name = "SBN-00155"
 [meta]
 bill_number = 155
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-155", "https://web.senate.gov.ph/lisdata/1598113218!.pdf",]
 title = "GENETICALLY MODIFIED ORGANISM AND BIOTECHNOLOGY LABELLING ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT PRESCRIBING THE PROPER LABELING OF PLANTS, FOOD AND PRODUCTS CONTAINING GENETICALLY MODIFIED ORGANISMS AND/OR RESULT OF BIOTECHNOLOGY, PROVIDING PENALTIES FOR VIOLATION THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Label/Labeling", "Biotechnology", "Food Products Label",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1598113218!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-155"
 
 [[history]]
 date = "2013-07-01"

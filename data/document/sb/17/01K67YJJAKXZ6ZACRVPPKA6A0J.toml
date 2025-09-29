@@ -6,7 +6,6 @@ name = "SBN-01588"
 [meta]
 bill_number = 1588
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1588", "https://web.senate.gov.ph/lisdata/2674622971!.pdf",]
 title = "AMENDING R.A. NO. 8424 (TAX REFORM ACT OF 1997)"
 date_filed = "2017-09-14"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE ‘TAX REFORM ACT OF 1997’, AS AMENDED, BY INSERTING NEW SECTIONS 150-A AND 150-B UNDER CHAPTER VI, TITLE VI, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tax Reform Act", "Alcoholic Beverages", "Taxes (Excise Tax)",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2674622971!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1588"
 
 [[history]]
 date = "2017-09-14"

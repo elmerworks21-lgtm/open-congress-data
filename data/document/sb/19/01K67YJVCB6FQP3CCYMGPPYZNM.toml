@@ -6,7 +6,6 @@ name = "SBN-00748"
 [meta]
 bill_number = 748
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-748", "https://web.senate.gov.ph/lisdata/3844434901!.pdf",]
 title = "PHILIPPINE AEROSPACE DEVELOPMENT CORPORATION (PADC)"
 date_filed = "2022-07-18"
 long_title = "AN ACT EXTENDING THE LIFE OF THE PHILIPPINE AEROSPACE DEVELOPMENT CORPORATION (PADC) BY ANOTHER FIFTY (50) YEARS, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 286, SERIES OF 1973, AS AMENDED, ENTITLED AUTHORIZING THE CREATION OF A PHILIPPINE AEROSPACE DEVELOPMENT CORPORATION, APPROPRIATING FUNDS THEREFORE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Aerospace Development Corporation (PADC)", "Presidentia
 authors_raw = "Tolentino, Francis \"Tol\" N., Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU", "TFRAN"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3844434901!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-748"
 
 [[history]]
 date = "2022-07-18"

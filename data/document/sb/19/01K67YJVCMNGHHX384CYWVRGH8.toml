@@ -6,7 +6,6 @@ name = "SBN-00762"
 [meta]
 bill_number = 762
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-762", "https://web.senate.gov.ph/lisdata/3853934993!.pdf",]
 title = "USE OF DIGITAL PAYMENTS ACT"
 date_filed = "2022-07-19"
 long_title = "AN ACT PROMOTING THE ADOPTION OF DIGITAL PAYMENTS FOR FINANCIAL TRANSACTIONS OF THE GOVERNMENT AND ALL MERCHANTS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Digital Payments",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3853934993!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-762"
 
 [[history]]
 date = "2022-07-19"

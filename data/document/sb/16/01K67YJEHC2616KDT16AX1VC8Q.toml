@@ -6,7 +6,6 @@ name = "SBN-03115"
 [meta]
 bill_number = 3115
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3115", "https://web.senate.gov.ph/lisdata/2293319624!.pdf",]
 title = "HEALTHY FOOD CHOICES FOR KIDS ACT"
 date_filed = "2016-01-25"
 long_title = "AN ACT ESTABLISHING A PILOT PROGRAM THAT REQUIRES SCHOOLS TO POST NUTRITIONAL CONTENT INFORMATION REGARDING FOODS SERVED AT SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2293319624!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3115"
 
 [[history]]
 date = "2016-01-25"

@@ -6,7 +6,6 @@ name = "SBN-00687"
 [meta]
 bill_number = 687
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-687", "https://web.senate.gov.ph/lisdata/4724843248!.pdf",]
 title = "NATIONAL AUTISM CARE PLAN ACT"
 date_filed = "2025-07-17"
 long_title = "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUBCOMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS, AND PROVIDING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Autism",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4724843248!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-687"
 
 [[history]]
 date = "2025-07-16"

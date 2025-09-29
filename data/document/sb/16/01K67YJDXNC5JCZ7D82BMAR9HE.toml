@@ -6,7 +6,6 @@ name = "SBN-02465"
 [meta]
 bill_number = 2465
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2465", "https://web.senate.gov.ph/lisdata/2013317245!.pdf",]
 title = "AMENDING SEC. 6; BP 68 (CORPORATION CODE)"
 date_filed = "2014-11-24"
 long_title = "AN ACT AMENDING BATAS PAMBANSA BLG. 68 OTHERWISE KNOWN AS THE CORPORATION CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Corporation Code", "Pre-Need",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2013317245!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2465"
 
 [[history]]
 date = "2014-11-24"

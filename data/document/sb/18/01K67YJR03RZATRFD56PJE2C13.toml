@@ -6,7 +6,6 @@ name = "SBN-02238"
 [meta]
 bill_number = 2238
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2238", "https://web.senate.gov.ph/lisdata/3510431944!.pdf",]
 title = "PHILIPPINE VACCINE DEVELOPMENT ACT OF 2021"
 date_filed = "2021-05-26"
 long_title = "AN ACT CREATING THE PHILIPPINE VACCINE AUTHORITY FOR THE DEVELOPMENT OF LOCAL VACCINE MANUFACTURING CAPABILITY, TO SUPPORT LOCALLY MANUFACTURED VACCINES, AND PROVIDING FOR A VACCINE DEVELOPMENT FUND AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Vaccines", "Vaccination Program",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3510431944!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2238"
 
 [[history]]
 date = "2021-05-26"

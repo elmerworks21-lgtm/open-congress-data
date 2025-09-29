@@ -6,7 +6,6 @@ name = "SBN-02343"
 [meta]
 bill_number = 2343
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2343", "https://web.senate.gov.ph/lisdata/4220238392!.pdf",]
 title = "LINE WORKERS INSURANCE AND BENEFITS ACT"
 date_filed = "2023-07-24"
 long_title = "AN ACT PROVIDING FOR MANDATORY INSURANCE COVERAGE AND BENEFITS FOR ALL LINE WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Line Workers", "Insurance", "Benefits and Incentives",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4220238392!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2343"
 
 [[history]]
 date = "2023-07-24"

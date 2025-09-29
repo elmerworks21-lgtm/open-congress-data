@@ -6,7 +6,6 @@ name = "SBN-00419"
 [meta]
 bill_number = 419
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-419", "https://web.senate.gov.ph/lisdata/3818034618!.pdf",]
 title = "MAGNA CARTA OF THE DRUG ENFORCEMENT OFFICERS AND OTHER PERSONNEL OF THE PDEA"
 date_filed = "2022-07-12"
 long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF BENEFITS FOR THE OFFICERS AND PERSONNEL OF THE PHILIPPINE DRUG ENFORCEMENT AGENCY"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Drug Enforcement Agency (PDEA)", "Magna Carta of the Dr
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3818034618!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-419"
 
 [[history]]
 date = "2022-07-12"

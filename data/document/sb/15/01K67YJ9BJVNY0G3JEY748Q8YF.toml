@@ -6,7 +6,6 @@ name = "SBN-02987"
 [meta]
 bill_number = 2987
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2987", "https://web.senate.gov.ph/lisdata/1225410338!.pdf",]
 title = "LGUS SHARE FROM THE NATIONAL INTERNAL REVENUE TAXES"
 date_filed = "2011-10-10"
 long_title = "AN ACT INCREASING THE SHARE OF LOCAL GOVERNMENT UNITS FROM 40% OF THE NATIONAL INTERNAL REVENUE TAXES TO 50% SHARE IN ALL NATIONAL TAXES, TO INCLUDE ALL THE NATIONAL TAXES COLLECTED BY THE BUREAU OF INTERNAL REVENUE, BUREAU OF CUSTOMS, PHILIPPINE PORTS AUTHORITY, DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES; THE DEPARTMENT OF FOREIGN AFFAIRS AND SUCH OTHER GOVERNMENT AGENCIES DEPUTIZED BY THE BUREAU OF INTERNAL REVENUE TO COLLECT NATIONAL TAXES, AMENDING FOR THIS PURPOSE SECTION 284 OF REPUBLIC ACT 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Units (LGUS)", "Internal Revenue Allotment (Local
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1225410338!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2987"
 
 [[history]]
 date = "2011-10-10"

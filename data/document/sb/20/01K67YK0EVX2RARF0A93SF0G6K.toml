@@ -6,7 +6,6 @@ name = "SBN-01115"
 [meta]
 bill_number = 1115
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1115", "https://web.senate.gov.ph/lisdata/4766243679!.pdf",]
 title = "MAGNA CARTA FOR BARANGAY OFFICIALS ACT"
 date_filed = "2025-08-07"
 long_title = "AN ACT STRENGTHENING THE BARANGAY AS THE BASIC LOCAL GOVERNMENT UNIT BY INCREASING ITS CAPACITY TO DELIVER SERVICES, PROVIDING SALARY GRADES, RETIREMENT BENEFITS AND OTHER ENTITLEMENTS OF CERTAIN BARANGAY OFFICIALS, INCREASING THEIR TERM OF OFFICE, AND OTHER PURPOSES, AMENDING REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, AND OTHER RELATED LAWS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Barangay Officials", "Salary Grade Level", "Retire
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4766243679!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1115"
 
 [[history]]
 date = "2025-08-07"

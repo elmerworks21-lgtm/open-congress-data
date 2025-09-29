@@ -6,7 +6,6 @@ name = "SBN-02218"
 [meta]
 bill_number = 2218
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2218", "https://web.senate.gov.ph/lisdata/2985226540!.pdf",]
 title = "MICROGRID SYSTEMS ACT"
 date_filed = "2019-04-22"
 long_title = "AN ACT AMENDING PROMOTING THE USE OF MICROGRID SYSTEMS FOR THE TOTAL ELECTRIFICATION OF UNSERVED AND UNDERSERVED AREAS"
@@ -15,6 +14,8 @@ subjects = [ "Microgrid", "Electricity",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2985226540!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2218"
 
 [[history]]
 date = "2019-04-22"

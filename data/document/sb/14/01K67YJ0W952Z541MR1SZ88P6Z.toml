@@ -6,7 +6,6 @@ name = "SBN-00211"
 [meta]
 bill_number = 211
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-211", "https://web.senate.gov.ph/lisdata/43113707!.pdf",]
 title = "RENEWABLE ENERGY RESOURCES ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE ENERGY PLAN FOR THE EXPLORATION, DEVELOPMENT, AND UTILIZATION OF NEW AND RENEWABLE ENERGY SYSTEMS USING INDIGENOUS RESOURCES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Renewable Energy Resources", "Wind Energy System (Study/Utilizatio
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43113707!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-211"
 
 [[history]]
 date = "2007-06-30"

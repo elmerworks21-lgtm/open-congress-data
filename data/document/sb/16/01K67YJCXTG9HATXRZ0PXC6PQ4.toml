@@ -6,7 +6,6 @@ name = "SBN-00994"
 [meta]
 bill_number = 994
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-994", "https://web.senate.gov.ph/lisdata/1705914270!.pdf",]
 title = "NEW MINING ENGINEERING ACT OF 2013"
 date_filed = "2013-07-22"
 long_title = "AN ACT REGULATING THE PRACTICE OF MINING ENGINEERING IN THE PHILIPPINES, REPEALING FOR THE PURPOSE REPUBLIC ACT NUMBERED FOUR THOUSAND TWO HUNDRED SEVENTY FOUR (R.A.NO. 4274), AS AMENDED ENTITLED 'MINING ENGINEERING LAW OF THE PHILIPPINES', AND FOR OTHER PURPOSES."
@@ -15,6 +14,8 @@ subjects = [ "Mining Engineering",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1705914270!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-994"
 
 [[history]]
 date = "2013-07-22"

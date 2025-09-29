@@ -6,7 +6,6 @@ name = "SBN-00991"
 [meta]
 bill_number = 991
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-991", "https://web.senate.gov.ph/lisdata/21951723!.pdf",]
 title = "KAUNLARAN NG BAYAN"
 date_filed = "2004-06-30"
 long_title = "AN ACT INSTITUTING AN INCENTIVE PAY SYSTEM, BASED ON PRODUCTIVITY AND PERFORMANCE, FOR ALL OFFICIALS AND EMPLOYEES OF THE GOVERNMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Kaunlaran Ng Bayan", "Incentive Pay System/Productivity", "Governm
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21951723!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-991"
 
 [[history]]
 date = "2004-06-30"

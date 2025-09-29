@@ -6,7 +6,6 @@ name = "SBN-01882"
 [meta]
 bill_number = 1882
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1882", "https://web.senate.gov.ph/lisdata/1811815363!.pdf",]
 title = "LOCAL GOVERNMENT ACADEMY CHARTER"
 date_filed = "2013-10-24"
 long_title = "AN ACT STRENGTHENING THE LOCAL GOVERNMENT ACADEMY (LGA)"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Academy of the Philippines",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1811815363!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1882"
 
 [[history]]
 date = "2013-10-24"

@@ -6,7 +6,6 @@ name = "SBN-00208"
 [meta]
 bill_number = 208
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-208", "https://web.senate.gov.ph/lisdata/1603913276!.pdf",]
 title = "VALUE-ADDED TAX RATE ON PETROLEUM PRODUCTS"
 date_filed = "2013-07-01"
 long_title = "AN ACT AUTOMATICALLY DECREASING THE VALUE-ADDED TAX RATE ON PETROLEUM PRODUCTS DEPENDING ON INCREASING WORLD CRUDE OIL PRICES"
@@ -15,6 +14,8 @@ subjects = [ "Value-Added Tax (VAT)", "Petroleum Products",]
 authors_raw = "Honasan II, Gregorio B."
 author_codes = ["HGREG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1603913276!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-208"
 
 [[history]]
 date = "2013-07-01"

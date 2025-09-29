@@ -6,7 +6,6 @@ name = "SBN-03232"
 [meta]
 bill_number = 3232
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3232", "https://web.senate.gov.ph/lisdata/112329891!.pdf",]
 title = "AUTOMATED FINGERPRINT IDENTIFICATION SYSTEM/ BIOMETRICS"
 date_filed = "2009-05-12"
 long_title = "AN ACT REQUIRING ALL REGISTERED VOTERS WHOSE BIOMETRICS HAVE NOT BEEN CAPTURED TO APPEAR BEFORE THE ELECTION OFFICER OF THEIR PLACE OF REGISTRATION FOR PURPOSES OF HAVING THEIR PHOTOGRAPHS, FINGERPRINTS AND SIGNATURES CAPTURED THROUGH THE METHOD OF BIOMETRICS, FOR PURPOSES OF ENSURING THAT THE AUTOMATED FINGERPRINT IDENTIFICATION SYSTEM (AFIS) CAN BE UTILIZED TO CLEANSE THE RECORDS OF DOUBLE OR MULTIPLE REGISTRANTS"
@@ -15,6 +14,8 @@ subjects = [ "Automated Fingerprint Identification System (AIFS)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/112329891!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3232"
 
 [[history]]
 date = "2009-05-12"

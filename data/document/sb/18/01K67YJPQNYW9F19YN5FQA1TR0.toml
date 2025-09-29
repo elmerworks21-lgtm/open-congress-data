@@ -6,7 +6,6 @@ name = "SBN-00515"
 [meta]
 bill_number = 515
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-515", "https://web.senate.gov.ph/lisdata/3089827745!.pdf",]
 title = "CRIME INVESTIGATION MODERNIZATION ACT"
 date_filed = "2019-07-16"
 long_title = "AN ACT MODERNIZING THE CRIME INVESTIGATION TECHNIQUES OF LAW ENFORCEMENT AGENCIES AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Crime Investigation", "Law Enforcement Officers/Law Enforcement Agency/Law Enforcement Operations",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3089827745!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-515"
 
 [[history]]
 date = "2019-07-16"

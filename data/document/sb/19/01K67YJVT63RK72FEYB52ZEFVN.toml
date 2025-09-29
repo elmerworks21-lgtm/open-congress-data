@@ -6,7 +6,6 @@ name = "SBN-01355"
 [meta]
 bill_number = 1355
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1355", "https://web.senate.gov.ph/lisdata/3958135931!.pdf",]
 title = "CHARTER OF THE CITY OF CARMONA"
 date_filed = "2022-09-29"
 long_title = "AN ACT CONVERTING THE MUNICIPALITY OF CARMONA IN THE PROVINCE OF CAVITE INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF CARMONA"
@@ -15,6 +14,8 @@ subjects = [ "Municipality, Conversion (Cityhood)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3958135931!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1355"
 
 [[history]]
 date = "2022-09-29"

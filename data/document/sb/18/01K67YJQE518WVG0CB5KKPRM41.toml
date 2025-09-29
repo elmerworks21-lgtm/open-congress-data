@@ -6,7 +6,6 @@ name = "SBN-01505"
 [meta]
 bill_number = 1505
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1505", "https://web.senate.gov.ph/lisdata/3270229565!.pdf",]
 title = "REGIONAL TERTIARY CARE HOSPITALS ACT"
 date_filed = "2020-05-04"
 long_title = "AN ACT INSTITUTIONALIZING THE ESTABLISHMENT OF TERTIARY CARE HOSPITALS IN ALL REGIONS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tertiary Care Hospital", "Health Care Delivery System",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3270229565!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1505"
 
 [[history]]
 date = "2020-05-04"

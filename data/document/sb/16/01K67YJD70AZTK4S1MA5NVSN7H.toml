@@ -6,7 +6,6 @@ name = "SBN-01444"
 [meta]
 bill_number = 1444
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1444", "https://web.senate.gov.ph/lisdata/1754114776!.pdf",]
 title = "TSUNAMI READY ACT"
 date_filed = "2013-08-29"
 long_title = "AN ACT ESTABLISHING A PROGRAM TO STRENGTHEN TSUNAMI DETECTION, FORECAST, WARNING, AND TSUNAMI HAZARD MITIGATION CAPABILITIES OF THE PHILIPPINE INSTITUTE OF VOLCANOLOGY AND SEISMOLOGY"
@@ -15,6 +14,8 @@ subjects = [ "Disaster Awareness/Mitigation", "Philippine Institute of Volcanolo
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1754114776!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1444"
 
 [[history]]
 date = "2013-08-29"

@@ -6,7 +6,6 @@ name = "SBN-00582"
 [meta]
 bill_number = 582
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-582", "https://web.senate.gov.ph/lisdata/47934124!.pdf",]
 title = "PHILIPPINE AIR FORCE ACADEMY ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE AIR FORCE ACADEMY (PAFA) AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Air Force Academy (PAFA)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47934124!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-582"
 
 [[history]]
 date = "2007-07-02"

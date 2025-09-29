@@ -6,7 +6,6 @@ name = "SBN-02109"
 [meta]
 bill_number = 2109
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2109", "https://web.senate.gov.ph/lisdata/69686208!.pdf",]
 title = "OLD-AGE PENSION FOR LIFE TO SENIOR CITIZENS"
 date_filed = "2008-03-05"
 long_title = "AN ACT GRANTING OLD-AGE PENSION FOR LIFE TO SENIOR CITIZENS WHO RETIRED UNDER REPUBLIC ACT 1616 AS WELL AS SURVIVORSHIP BENEFITS TO THEIR SURVIVORS"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/69686208!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2109"
 
 [[history]]
 date = "2008-03-05"

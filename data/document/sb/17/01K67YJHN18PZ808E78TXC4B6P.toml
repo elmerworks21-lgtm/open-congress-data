@@ -6,7 +6,6 @@ name = "SBN-00726"
 [meta]
 bill_number = 726
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-726", "https://web.senate.gov.ph/lisdata/2424520859!.pdf",]
 title = "NURSE IN EVERY BARANGAY ACT OF 2016"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROVIDING FOR THE EMPLOYMENT OF NURSES, ASSIGNING ONE REGISTERED NURSE FOR EVERY BARANGAY IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Nurses",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2424520859!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-726"
 
 [[history]]
 date = "2016-07-20"

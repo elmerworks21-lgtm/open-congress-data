@@ -6,7 +6,6 @@ name = "SBN-00116"
 [meta]
 bill_number = 116
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-116", "https://web.senate.gov.ph/lisdata/1251997!.pdf",]
 title = "PROSTATE CANCER PUBLIC AWARENESS ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A PROGRAM FOR PUBLIC EDUCATION ON PROSTATE CANCER"
@@ -15,6 +14,8 @@ subjects = [ "Prostate Cancer Public Awareness Act",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1251997!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-116"
 
 [[history]]
 date = "2004-06-30"

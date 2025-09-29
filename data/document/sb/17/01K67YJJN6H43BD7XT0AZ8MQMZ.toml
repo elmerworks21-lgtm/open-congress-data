@@ -6,7 +6,6 @@ name = "SBN-02001"
 [meta]
 bill_number = 2001
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2001", "https://web.senate.gov.ph/lisdata/2859424990!.pdf",]
 title = "TRANSFERRING THE JURISDICTION OF CRIMINAL CASES"
 date_filed = "2018-09-12"
 long_title = "AN ACT TRANSFERRING THE JURISDICTION OF CRIMINAL CASES ARISING FROM VIOLATIONS OF COMMERCIAL LAWS TO SPECIAL COMMERCIAL COURTS"
@@ -15,6 +14,8 @@ subjects = [ "Criminal Cases From Violations of Commercial Laws", "Commercial Co
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2859424990!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2001"
 
 [[history]]
 date = "2018-09-12"

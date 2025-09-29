@@ -6,7 +6,6 @@ name = "SBN-00056"
 [meta]
 bill_number = 56
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-56", "https://web.senate.gov.ph/lisdata/3775934200!.pdf",]
 title = "GOVERNMENT OFFICIALS AND EMPLOYEES TO EXECUTE A WRITTEN PERMISSION TO EXAMINE THEIR DEPOSITS"
 date_filed = "2022-07-07"
 long_title = "AN ACT MANDATING GOVERNMENT OFFICIALS AND EMPLOYEES TO EXECUTE AND SUBMIT A WRITTEN PERMISSION TO EXAMINE, INQUIRE OR LOOK INTO ALL THEIR DEPOSITS AND INVESTMENTS THEREBY WAIVING THE BANK SECRECY LAW AS PROVIDED FOR UNDER REPUBLIC ACT NUMBERS 1405 AND 6426"
@@ -15,6 +14,8 @@ subjects = [ "Government Official/Public Official", "Government Employees", "Ban
 authors_raw = "Escudero, Francis G."
 author_codes = ["EFRAN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3775934200!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-56"
 
 [[history]]
 date = "2022-07-07"

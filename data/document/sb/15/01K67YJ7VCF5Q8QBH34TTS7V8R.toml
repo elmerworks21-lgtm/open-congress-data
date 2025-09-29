@@ -6,7 +6,6 @@ name = "SBN-00987"
 [meta]
 bill_number = 987
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-987", "https://web.senate.gov.ph/lisdata/84376990!.pdf",]
 title = "SPECIAL FINANCIAL ASSISTANCE AND BENEFITS"
 date_filed = "2010-07-08"
 long_title = "AN ACT GRANTING SPECIAL FINANCIAL ASSISTANCE AND BENEFITS TO THE FAMILY OR BENEFICIARY OF ANY BARANGAY OFFICER, BARANGAY TANOD OR VOLUNTEER AND MEMBERS OF THE SANGGUNIANG KABATAAN COUNCIL KILLED OR PERMANENTLY INCAPACITATED WHILE ON DUTY OR BY REASON OF HIS/HER OFFICE OR POSITION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Financial Assistance", "Barangay Officials", "Barangay Tanod Briga
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84376990!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-987"
 
 [[history]]
 date = "2010-07-08"

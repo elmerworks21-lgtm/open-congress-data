@@ -6,7 +6,6 @@ name = "SBN-00450"
 [meta]
 bill_number = 450
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-450", "https://web.senate.gov.ph/lisdata/46293978!.pdf",]
 title = "ANTI-OBSCENITY ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROHIBITING THE DEMONSTRATION, PERFORMANCE OR EXHIBITION IN PUBLIC OF CERTAIN SEXUAL ACTS, AND THE PRODUCTION, IMPORTATION, SALE OR DISTRIBUTION, OR PUBLIC SHOWING OR DISPLAY OF PORNOGRAPHIC MATERIALS, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Obscenity", "Pornography/Obscenity",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46293978!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-450"
 
 [[history]]
 date = "2007-07-02"

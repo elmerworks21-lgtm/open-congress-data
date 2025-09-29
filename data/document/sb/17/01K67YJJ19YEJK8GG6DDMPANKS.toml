@@ -6,7 +6,6 @@ name = "SBN-01270"
 [meta]
 bill_number = 1270
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1270", "https://web.senate.gov.ph/lisdata/2517021691!.pdf",]
 title = "NATIONAL BIBLE DAY, LAST MONDAY OF JANUARY"
 date_filed = "2016-12-07"
 long_title = "AN ACT DECLARING THE LAST MONDAY OF JANUARY AS ‘NATIONAL BIBLE DAY’ AND PRONOUNCE THE SAME A REGULAR HOLIDAY AND EVERY YEAR THEREAFTER"
@@ -15,6 +14,8 @@ subjects = [ "National Bible Day", "Holidays (Regular)",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D., Villanueva, Joel"
 author_codes = ["PEMMA", "VEMMA"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2517021691!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1270"
 
 [[history]]
 date = "2016-12-07"

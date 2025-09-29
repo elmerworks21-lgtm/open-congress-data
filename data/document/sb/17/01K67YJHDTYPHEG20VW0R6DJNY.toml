@@ -6,7 +6,6 @@ name = "SBN-00384"
 [meta]
 bill_number = 384
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-384", "https://web.senate.gov.ph/lisdata/2382220486!.pdf",]
 title = "BARANGAY REFORM ACT"
 date_filed = "2016-07-18"
 long_title = "AN ACT STRENGTHENING THE BARANGAY UNIT THROUGH SUPPORT FOR BARANGAY OFFICIALS AND BARANGAY VOLUNTEER WORKERS, AMENDING REPUBLIC ACT NO. 7160, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Reform Act",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2382220486!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-384"
 
 [[history]]
 date = "2016-07-18"

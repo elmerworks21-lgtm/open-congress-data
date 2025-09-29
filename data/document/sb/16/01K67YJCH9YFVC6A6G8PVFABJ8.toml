@@ -6,7 +6,6 @@ name = "SBN-00389"
 [meta]
 bill_number = 389
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-389", "https://web.senate.gov.ph/lisdata/1625113480!.pdf",]
 title = "UNIVERSAL PREKINDERGARTEN ACT"
 date_filed = "2013-07-03"
 long_title = "AN ACT DIRECTING THE DEPARTMENT OF EDUCATION TO DEVELOP A UNIVERSAL PREKINDERGARTEN PROGRAM TO ENSURE THAT ALL CHILDREN THREE, FOUR, AND FIVE YEARS OLD HAVE ACCESS TO HIGH-QUALITY FULL-DAY, FULL-CALENDAR-YEAR PREKINDERGARTEN EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "Department of Education, Culture and Sports (DepEd)", "Prekinderga
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1625113480!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-389"
 
 [[history]]
 date = "2013-07-03"

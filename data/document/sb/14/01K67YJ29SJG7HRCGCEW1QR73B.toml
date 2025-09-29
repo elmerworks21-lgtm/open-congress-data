@@ -6,7 +6,6 @@ name = "SBN-02054"
 [meta]
 bill_number = 2054
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2054", "https://web.senate.gov.ph/lisdata/67896018!.pdf",]
 title = "OVERSEAS WORKERS CREDIT ASSISTANCE ACT OF 2008"
 date_filed = "2008-02-05"
 long_title = "AN ACT ESTABLISHING A CREDIT ASSISTANCE PROGRAM FOR OVERSEAS WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Workers Credit Assistance Act", "Overseas Contract Worker
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67896018!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2054"
 
 [[history]]
 date = "2008-02-05"

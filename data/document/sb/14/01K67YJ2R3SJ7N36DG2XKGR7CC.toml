@@ -6,7 +6,6 @@ name = "SBN-02678"
 [meta]
 bill_number = 2678
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2678", "https://web.senate.gov.ph/lisdata/90628242!.pdf",]
 title = "INCREASE MAXIMUM DEPOSIT INSURANCE COVERAGE TO P500,000.00"
 date_filed = "2008-10-15"
 long_title = "AN ACT AMENDING REPUBLIC ACT NUMBERED THREE THOUSAND FIVE HUNDRED NINETY-ONE, AS AMENDED, OTHERWISE KNOWN AS THE CHARTER OF THE PHILIPPINE DEPOSIT INSURANCE CORPORATION"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Deposit Insurance Corporation (PDIC)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90628242!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2678"
 
 [[history]]
 date = "2008-10-15"

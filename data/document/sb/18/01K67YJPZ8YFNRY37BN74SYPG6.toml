@@ -6,7 +6,6 @@ name = "SBN-00868"
 [meta]
 bill_number = 868
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-868", "https://web.senate.gov.ph/lisdata/3125528153!.pdf",]
 title = "AMENDING THE DOWNSTREAM OIL DEREGULATION ACT OF 1998"
 date_filed = "2019-08-06"
 long_title = "AN ACT TO PROMOTE FAIR TRADE IN THE OIL INDUSTRY AND FOR OTHER PURPOSES, AMENDING REPUBLIC ACT NO. 8479, OTHERWISE KNOWN AS THE ‘DOWNSTREAM OIL DEREGULATION ACT OF 1998’"
@@ -15,6 +14,8 @@ subjects = [ "Fair Trade (Oil Industry)", "Downstream Oil Industry Deregulation 
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3125528153!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-868"
 
 [[history]]
 date = "2019-08-06"

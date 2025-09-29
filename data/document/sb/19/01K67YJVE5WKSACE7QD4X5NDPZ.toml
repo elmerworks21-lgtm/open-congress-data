@@ -6,7 +6,6 @@ name = "SBN-00831"
 [meta]
 bill_number = 831
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-831", "https://web.senate.gov.ph/lisdata/3862435078!.pdf",]
 title = "INDIGENOUS COMMUNITY CONSERVED TERRITORIES AND AREAS ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT RECOGNIZING THE COMMUNITY CONSERVED TERRITORIES AND AREAS OF INDIGENOUS PEOPLES AND CULTURAL COMMUNITIES, ESTABLISHING FOR THE PURPOSE THE NATIONAL INDIGENOUS COMMUNITY CONSERVED AREAS REGISTRY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Indigenous People", "Indigenous Cultural Communities",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CULMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3862435078!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-831"
 
 [[history]]
 date = "2022-07-25"

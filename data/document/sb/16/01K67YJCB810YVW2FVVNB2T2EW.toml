@@ -6,7 +6,6 @@ name = "SBN-00095"
 [meta]
 bill_number = 95
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-95", "https://web.senate.gov.ph/lisdata/1594013175!.pdf",]
 title = "PUBLISHER, EDITOR OR REPORTER OF ANY PUBLICATION"
 date_filed = "2013-07-01"
 long_title = "AN ACT AMENDING SECTION 1 OF REPUBLIC ACT NO. 53, OTHERWISE KNOWN AS AN ACT TO EXEMPT THE PUBLISHER, EDITOR OR REPORTER OF ANY PUBLICATION FROM REVEALING THE SOURCE OF PUBLISHED NEWS OR INFORMATION OBTAINED IN CONFIDENCE"
@@ -15,6 +14,8 @@ subjects = [ "Publisher", "Editor", "Reporter",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1594013175!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-95"
 
 [[history]]
 date = "2013-07-01"

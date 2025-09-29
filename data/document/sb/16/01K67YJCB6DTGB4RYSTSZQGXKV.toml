@@ -6,7 +6,6 @@ name = "SBN-00093"
 [meta]
 bill_number = 93
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-93", "https://web.senate.gov.ph/lisdata/1593713170!.pdf",]
 title = "ISKOLAR NG BAYAN ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT MANDATING ALL STATE COLLEGES AND UNIVERSITIES TO CONFER AUTOMATIC ADMISSION AND PROVIDE SCHOLARSHIP GRANTS TO THE TOP TEN (10) PUBLIC HIGH SCHOOL STUDENTS OF THEIR GRADUATING CLASS, ANNUALLY, AND ALLOCATE FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "State Colleges and Universities (SCUS)", "Scholarship Grants",]
 authors_raw = "Cayetano, Alan Peter Companero S., Villar, Cynthia A."
 author_codes = ["CALAN", "VCYNT"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1593713170!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-93"
 
 [[history]]
 date = "2013-07-01"

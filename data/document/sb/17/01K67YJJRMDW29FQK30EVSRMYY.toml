@@ -6,7 +6,6 @@ name = "SBN-02115"
 [meta]
 bill_number = 2115
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2115", "https://web.senate.gov.ph/lisdata/2906025632!.pdf",]
 title = "OCCIDENTAL MINDORO SPECIAL ECONOMIC ZONE ZONE ACT OF 2018"
 date_filed = "2018-11-28"
 long_title = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE AND FREE PORT IN THE MUNICIPALITIES OF SAN JOSE AND MAGSAYSAY IN THE PROVINCE OF OCCIDENTAL MINDORO, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Economic Zone",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2906025632!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2115"
 
 [[history]]
 date = "2018-11-28"

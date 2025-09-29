@@ -6,7 +6,6 @@ name = "SBN-00127"
 [meta]
 bill_number = 127
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-127", "https://web.senate.gov.ph/lisdata/3037727226!.pdf",]
 title = "TULONG KABATAAN SA AGRIKULTURA ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT ENCOURAGING YOUTH SECTOR PARTICIPATION IN THE AGRICULTURAL SECTOR, ESTABLISHING FOR THE PURPOSE A ‘TULONG KABATAAN SA AGRIKULTURA PROGRAM’ AND A ‘TULONG KABATAAN SA AGRIKULTURA TRUST FUND’, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Education", "Agriculture Training", "Young Farmers Pr
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3037727226!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-127"
 
 [[history]]
 date = "2019-07-02"

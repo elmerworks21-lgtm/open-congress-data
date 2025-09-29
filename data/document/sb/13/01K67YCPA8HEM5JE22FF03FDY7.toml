@@ -6,7 +6,6 @@ name = "SBN-01679"
 [meta]
 bill_number = 1679
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1679", "https://web.senate.gov.ph/lisdata/29142463!.pdf",]
 title = "VISIT PHILIPPINES ACT"
 date_filed = "2004-08-10"
 long_title = "AN ACT TO ESTABLISH AN INTERGOVERNMENTAL TASK FORCE FOR INTERNATIONAL VISITOR ASSISTANCE TO MAKE PHILIPPINES THE PREMIERE TRAVEL AND TOURISM DESTINATION IN THE WORLD"
@@ -15,6 +14,8 @@ subjects = [ "Visit Philippines Act", "International Visitor Assistance", "Touri
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TOURI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/29142463!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1679"
 
 [[history]]
 date = "2004-08-10"

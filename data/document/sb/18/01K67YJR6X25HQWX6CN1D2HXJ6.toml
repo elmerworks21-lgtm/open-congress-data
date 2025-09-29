@@ -6,7 +6,6 @@ name = "SBN-02377"
 [meta]
 bill_number = 2377
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2377", "https://web.senate.gov.ph/lisdata/3612332552!.pdf",]
 title = "AMENDING R.A. NO. 7941 (PARTY-LIST SYSTEM ACT)"
 date_filed = "2021-09-01"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7941, ENTITLED ‘AN ACT PROVIDING FOR THE ELECTION OF PARTY-LIST REPRESENTATIVES THROUGH THE PARTY-LIST SYSTEM, AND APPROPRIATING FUNDS HEREFOR,’ OTHERWISE KNOWN AS THE ‘PARTY-LIST SYSTEM ACT’, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Party List System (R.A.No. 7941)",]
 authors_raw = "De Lima, Leila M., Sotto III, Vicente C., Marcos, Imee R."
 author_codes = ["DLEIL", "MIMEE", "SVICE"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3612332552!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2377"
 
 [[history]]
 date = "2021-09-01"

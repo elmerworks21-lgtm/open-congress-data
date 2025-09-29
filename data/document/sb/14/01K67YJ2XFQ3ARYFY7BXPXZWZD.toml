@@ -6,7 +6,6 @@ name = "SBN-02927"
 [meta]
 bill_number = 2927
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2927", "https://web.senate.gov.ph/lisdata/94978604!.pdf",]
 title = "VISION PRESERVATION ACT OF 2008"
 date_filed = "2008-12-03"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO ESTABLISH HEALTH PROGRAMS TO PREVENT VISION LOSS"
@@ -15,6 +14,8 @@ subjects = [ "Department of Health (DOH)", "Vision Loss Prevention",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94978604!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2927"
 
 [[history]]
 date = "2008-12-03"

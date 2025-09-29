@@ -6,7 +6,6 @@ name = "SBN-01415"
 [meta]
 bill_number = 1415
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1415", "https://web.senate.gov.ph/lisdata/57185079!.pdf",]
 title = "JUDICIARY RETIREMENT BENEFITS"
 date_filed = "2007-07-31"
 long_title = "AN ACT GRANTING ADDITIONAL RETIREMENT BENEFITS TO MEMBERS OF THE JUDICIARY, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 910, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Cayetano, \"Companera\" Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/57185079!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1415"
 
 [[history]]
 date = "2007-07-31"

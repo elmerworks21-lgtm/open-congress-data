@@ -6,7 +6,6 @@ name = "SBN-00968"
 [meta]
 bill_number = 968
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-968", "https://web.senate.gov.ph/lisdata/2452621108!.pdf",]
 title = "SOCIAL WELFARE ATTACHE ACT OF 2016"
 date_filed = "2016-08-01"
 long_title = "AN ACT ESTABLISHING SOCIAL WELFARE ATTACHES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Social Welfare Attache", "Overseas Filipino Workers (OFW)", "Migra
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2452621108!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-968"
 
 [[history]]
 date = "2016-08-01"

@@ -6,7 +6,6 @@ name = "SBN-01722"
 [meta]
 bill_number = 1722
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1722", "https://web.senate.gov.ph/lisdata/29182506!.pdf",]
 title = "RATIONALIZED SECURITY OF TENURE ACT OF 2004"
 date_filed = "2004-08-11"
 long_title = "AN ACT RATIONALIZING THE SECURITY OF TENURE OF EMPLOYEES IN THE PRIVATE SECTOR, STRENGTHENING THEIR RIGHTS, PROHIBITING CONTRACTING-OUT OF WORK, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rationalized Security of Tenure Act", "Employees (Private Sector)"
 authors_raw = "Lim, Alfredo S."
 author_codes = ["LALFR"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/29182506!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1722"
 
 [[history]]
 date = "2004-08-11"

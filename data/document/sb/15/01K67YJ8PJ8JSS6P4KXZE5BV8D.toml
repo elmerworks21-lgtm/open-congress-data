@@ -6,7 +6,6 @@ name = "SBN-02335"
 [meta]
 bill_number = 2335
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2335", "https://web.senate.gov.ph/lisdata/100148534!.pdf",]
 title = "LEAD EVALUATION, ABATEMENT, AND DETECTION CENTER ACT"
 date_filed = "2010-08-03"
 long_title = "AN ACT TO PROVIDE ASSISTANCE FOR START-UP COSTS OF COMMUNITY PROGRAMS TO PREVENT RESIDENTIAL LEAD-BASED POISONING IN CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Lead Content", "Poison Prevention",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/100148534!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2335"
 
 [[history]]
 date = "2010-08-03"

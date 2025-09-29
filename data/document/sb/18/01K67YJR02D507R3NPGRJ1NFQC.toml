@@ -6,7 +6,6 @@ name = "SBN-02236"
 [meta]
 bill_number = 2236
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2236", "https://web.senate.gov.ph/lisdata/3510231942!.pdf",]
 title = "DRUG ABUSE PREVENTION PROGRAM IN BASIC EDUCATION ACT"
 date_filed = "2021-05-25"
 long_title = "AN ACT INCORPORATING A DRUG ABUSE PREVENTION PROGRAM IN SUBJECTS FROM GRADES 7 TO 12 UNDER THE K TO 12 BASIC EDUCATION CURRICULUM, MANDATING CAPACITY BUILDING ON DRUG ABUSE PREVENTION FOR TEACHERS, TEACHING DRUG ABUSE PREVENTION TO PARTNERS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Drug Prevention", "Basic Education/Basic Education Institutions", 
 authors_raw = "Sotto III, Vicente C., Gatchalian, Win"
 author_codes = ["GSHER", "SVICE"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3510231942!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2236"
 
 [[history]]
 date = "2021-05-25"

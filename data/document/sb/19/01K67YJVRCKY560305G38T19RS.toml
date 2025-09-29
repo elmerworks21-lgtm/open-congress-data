@@ -6,7 +6,6 @@ name = "SBN-01280"
 [meta]
 bill_number = 1280
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1280", "https://web.senate.gov.ph/lisdata/3931135743!.pdf",]
 title = "PROTECTION AND PROMOTION OF THE WELFARE OF MIGRANT WORKERS"
 date_filed = "2022-09-06"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10022, FURTHER AMENDING REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS AN ACT TO INSTITUTE THE POLICIES OF OVERSEAS EMPLOYMENT AND ESTABLISH A HIGHER STANDARD OF PROTECTION AND PROMOTION OF THE WELFARE OF MIGRANT WORKERS, THEIR FAMILIES AND OVERSEAS FILIPINOS IN DISTRESS, AND FOR OTHER PURPOSES, TO MANDATE PHILHEALTH COVERAGE FOR DIAGNOSTIC, LABORATORY AND OTHER MEDICAL EXAMINATION REQUIREMENTS FOR THEIR EMPLOYMENT OVERSEAS"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Filipino Workers (OFWS)", "Migrant Workers",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["MIGRW"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3931135743!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1280"
 
 [[history]]
 date = "2022-09-06"

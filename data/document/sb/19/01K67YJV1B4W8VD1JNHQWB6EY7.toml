@@ -6,7 +6,6 @@ name = "SBN-00239"
 [meta]
 bill_number = 239
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-239", "https://web.senate.gov.ph/lisdata/3795334396!.pdf",]
 title = "FOOD FOREST GARDENING ACT OF 2022"
 date_filed = "2022-07-11"
 long_title = "AN ACT PROMOTING FOOD FOREST GARDENING, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Food Forest Gardening", "Sustainable Land Management", "Urban Farm
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3795334396!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-239"
 
 [[history]]
 date = "2022-07-11"

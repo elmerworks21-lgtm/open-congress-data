@@ -6,7 +6,6 @@ name = "SBN-01859"
 [meta]
 bill_number = 1859
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1859", "https://web.senate.gov.ph/lisdata/63355663!.pdf",]
 title = "SAFE BOTTLED WATER ACT OF 2007"
 date_filed = "2007-11-12"
 long_title = "AN ACT ESTABLISHING QUALITY STANDARDS FOR MINERAL AND CARBONATED WATER"
@@ -15,6 +14,8 @@ subjects = [ "Bottled Water Safety (Mineral Water)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/63355663!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1859"
 
 [[history]]
 date = "2007-11-12"

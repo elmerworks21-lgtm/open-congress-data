@@ -6,7 +6,6 @@ name = "SBN-01203"
 [meta]
 bill_number = 1203
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1203", "https://web.senate.gov.ph/lisdata/54984911!.pdf",]
 title = "VOLUNTEER PROTECTION ACT"
 date_filed = "2007-07-05"
 long_title = "AN ACT GRANTING IMMUNITY FROM PERSONAL CIVIL LIABILITY, UNDER CERTAIN CIRCUMSTANCE, TO VOLUNTEERS WORKING ON BEHALF OF NON-PROFIT ORGANIZATIONS AND GOVERNMENTAL ENTITIES"
@@ -15,6 +14,8 @@ subjects = [ "Volunteer Protection",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54984911!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1203"
 
 [[history]]
 date = "2007-07-05"

@@ -6,7 +6,6 @@ name = "SBN-01137"
 [meta]
 bill_number = 1137
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1137", "https://web.senate.gov.ph/lisdata/23431632!.pdf",]
 title = "PRIVATE HOSPITAL ASSISTANCE ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A PRIVATE-HOSPITAL DEVELOPMENT PLAN AND PROVIDING ASSISTANCE TO PRIVATE HOSPITALS BY GRANTING THEM INCENTIVES"
@@ -15,6 +14,8 @@ subjects = [ "Private Hospital Assistance Act",]
 authors_raw = "Pimentel Jr., Aquilino Q., Angara, Edgardo J."
 author_codes = ["AEDGA", "PAQUI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/23431632!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1137"
 
 [[history]]
 date = "2004-06-30"

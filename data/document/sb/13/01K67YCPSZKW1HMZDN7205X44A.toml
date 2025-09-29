@@ -6,7 +6,6 @@ name = "SBN-02464"
 [meta]
 bill_number = 2464
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2464", "https://web.senate.gov.ph/lisdata/60145029!.pdf",]
 title = "LEMON LAW OF 2006"
 date_filed = "2006-09-13"
 long_title = "AN ACT PROVIDING PROTECTION FOR BUYERS OF MOTOR VEHICLES, ENFORCING SALES WARRANTIES, IMPOSING PENALTIES FOR VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Lemon Car",]
 authors_raw = "Villar Jr., Manuel B., Pimentel Jr., Aquilino Q., Defensor Santiago, Miriam, Roxas, Mar"
 author_codes = ["PAQUI", "RMARA", "SMIRI", "VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60145029!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2464"
 
 [[history]]
 date = "2006-09-13"

@@ -6,7 +6,6 @@ name = "SBN-00182"
 [meta]
 bill_number = 182
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-182", "https://web.senate.gov.ph/lisdata/3789034332!.pdf",]
 title = "CITIZEN SERVICE PROGRAM ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT ESTABLISHING THE CITIZEN SERVICE PROGRAM, AMENDING REPUBLIC ACT NO. 9163 OTHERWISE KNOWN AS THE ‘NATIONAL SERVICE TRAINING PROGRAM (NSTP) ACT OF 2001,’ AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Service Training Program (NSTP)", "Citizen Service Traini
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3789034332!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-182"
 
 [[history]]
 date = "2022-07-07"

@@ -6,7 +6,6 @@ name = "SBN-02301"
 [meta]
 bill_number = 2301
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2301", "https://web.senate.gov.ph/lisdata/4208838280!.pdf",]
 title = "EXEMPTING ELECTRICITY SALES FROM VALUE-ADDED TAX"
 date_filed = "2023-07-12"
 long_title = "AN ACT EXEMPTING ELECTRICITY SALES FROM VALUE-ADDED TAX, FURTHER AMENDING FOR THE PURPOSE SECTIONS 108 AND 109 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Electricity", "Taxes (Value-Added Tax / Vat)", "National Internal 
 authors_raw = "Escudero, Francis G."
 author_codes = ["EFRAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4208838280!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2301"
 
 [[history]]
 date = "2023-07-12"

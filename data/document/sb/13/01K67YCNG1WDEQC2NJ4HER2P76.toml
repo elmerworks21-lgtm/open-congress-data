@@ -6,7 +6,6 @@ name = "SBN-00234"
 [meta]
 bill_number = 234
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-234", "https://web.senate.gov.ph/lisdata/1391651!.pdf",]
 title = "CHARTER OF THE OFFICE OF THE PHILIPPINE TRADE REPRESENTATIVE"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING THE OFFICE OF THE TRADE REPRESENTATIVE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Phil. Trade Representative Charter",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1391651!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-234"
 
 [[history]]
 date = "2004-06-30"

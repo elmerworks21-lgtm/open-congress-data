@@ -6,7 +6,6 @@ name = "SBN-00132"
 [meta]
 bill_number = 132
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-132", "https://web.senate.gov.ph/lisdata/3038727231!.pdf",]
 title = "UNDERPRIVILEGED STUDENTS' DISCOUNT ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT GRANTING DISCOUNTS ON BASIC AND EDUCATION SERVICES TO UNDERPRIVILEGED STUDENTS IN ALL LEVELS, INCLUDING THOSE ENROLLED IN TECHNICAL-VOCATIONAL (TECH-VOC) INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Students", "Discount Privileges", "Technical-Vocational (Tech-Voc)
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3038727231!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-132"
 
 [[history]]
 date = "2019-07-02"

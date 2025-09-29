@@ -6,7 +6,6 @@ name = "SBN-01569"
 [meta]
 bill_number = 1569
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1569", "https://web.senate.gov.ph/lisdata/4007936496!.pdf",]
 title = "PHILIPPINE EHEALTH SYSTEMS AND SERVICES ACT OF 2022"
 date_filed = "2022-11-29"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE EHEALTH SYSTEM IN THE DELIVERY OF HEALTH SERVICES WITH THE USE OF INFORMATION AND COMMUNICATIONS TECHNOLOGY IN THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "E-Health (Electronic Health)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4007936496!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1569"
 
 [[history]]
 date = "2022-11-29"

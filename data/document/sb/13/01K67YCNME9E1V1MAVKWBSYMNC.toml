@@ -6,7 +6,6 @@ name = "SBN-00477"
 [meta]
 bill_number = 477
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-477", "https://web.senate.gov.ph/lisdata/1635936!.pdf",]
 title = "EQUAL OPPORTUNITY ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR EQUAL EMPLOYMENT OPPORTUNITIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Equal Employment Opportunity",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1635936!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-477"
 
 [[history]]
 date = "2004-06-30"

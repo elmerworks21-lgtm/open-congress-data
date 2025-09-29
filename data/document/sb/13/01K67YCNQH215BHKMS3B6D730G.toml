@@ -6,7 +6,6 @@ name = "SBN-00653"
 [meta]
 bill_number = 653
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-653", "https://web.senate.gov.ph/lisdata/18391214!.pdf",]
 title = "CHILD AND FAMILY DEVELOPMENT ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO STRENGTHEN THE DEVELOPMENT OF CHILDREN AND FUNCTIONING OF FAMILIES BY ESTABLISHING A COMPREHENSIVE CHILD CARE PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Child and Family Development Act", "Comprehensive Child Care Progr
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18391214!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-653"
 
 [[history]]
 date = "2004-06-30"

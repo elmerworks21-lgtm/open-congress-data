@@ -6,7 +6,6 @@ name = "SBN-02676"
 [meta]
 bill_number = 2676
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2676", "https://web.senate.gov.ph/lisdata/72375830!.pdf",]
 title = "COMMUNITY HEALTH WORKERS ACT"
 date_filed = "2007-06-06"
 long_title = "AN ACT PROVIDING GRANTS TO COMMUNITY HEALTH WORKERS IN ORDER TO PROMOTE POSITIVE HEALTH BEHAVIORS IN WOMEN AND CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Community Health Workers",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72375830!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2676"
 
 [[history]]
 date = "2007-06-06"

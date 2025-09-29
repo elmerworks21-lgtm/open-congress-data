@@ -6,7 +6,6 @@ name = "SBN-01239"
 [meta]
 bill_number = 1239
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1239", "https://web.senate.gov.ph/lisdata/3923935729!.pdf",]
 title = "FREE ANNUAL MEDICAL CHECK-UP ACT"
 date_filed = "2022-08-31"
 long_title = "AN ACT PROVIDING FOR A FREE ANNUAL MEDICAL CHECK-UP FOR FILIPINOS AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Free Annual Medical Check-Up", "Filipino",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3923935729!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1239"
 
 [[history]]
 date = "2022-08-31"

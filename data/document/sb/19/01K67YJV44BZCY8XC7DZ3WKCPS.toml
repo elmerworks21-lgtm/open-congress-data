@@ -6,7 +6,6 @@ name = "SBN-00367"
 [meta]
 bill_number = 367
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-367", "https://web.senate.gov.ph/lisdata/3812834567!.pdf",]
 title = "DIALYSIS CLINICS IN ALL NATIONAL, REGIONAL AND PROVINCIAL HOSPITALS"
 date_filed = "2022-07-12"
 long_title = "AN ACT REQUIRING THE ESTABLISHMENT OF DIALYSIS CLINICS IN ALL NATIONAL, REGIONAL AND PROVINCIAL HOSPITALS AND PROVIDING FOR FREE DIALYSIS TREATMENTS TO INDIGENT PATIENTS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Dialysis Treatment", "Hospitals (Government Hospitals)", "Indigent
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3812834567!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-367"
 
 [[history]]
 date = "2022-07-12"

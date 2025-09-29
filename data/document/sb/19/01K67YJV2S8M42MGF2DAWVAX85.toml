@@ -6,7 +6,6 @@ name = "SBN-00307"
 [meta]
 bill_number = 307
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-307", "https://web.senate.gov.ph/lisdata/3806534508!.pdf",]
 title = "PNP CAMP DEVELOPMENT FUND ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT ESTABLISHING A CAMP DEVELOPMENT FUND FOR THE PHILIPPINE NATIONAL POLICE, APPROPRIATING THE SUM OF FIVE BILLION PESOS ANNUALLY FOR FIVE YEARS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Camp Development Fund", "Philippine National Police (PNP)",]
 authors_raw = "Cayetano, Alan Peter S."
 author_codes = ["CALAN"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3806534508!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-307"
 
 [[history]]
 date = "2022-07-12"

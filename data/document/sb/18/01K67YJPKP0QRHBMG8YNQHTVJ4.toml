@@ -6,7 +6,6 @@ name = "SBN-00330"
 [meta]
 bill_number = 330
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-330", "https://web.senate.gov.ph/lisdata/3061627471!.pdf",]
 title = "THE PHILIPPINE HIGH SCHOOL FOR SPORTS (PHSS) ACT OF 2019"
 date_filed = "2019-07-10"
 long_title = "AN ACT CREATING AND ESTABLISHING THE PHILIPPINE HIGH SCHOOL FOR SPORTS"
@@ -15,6 +14,8 @@ subjects = [ "Philippine High School for Sports (PHSS)",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3061627471!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-330"
 
 [[history]]
 date = "2019-07-10"

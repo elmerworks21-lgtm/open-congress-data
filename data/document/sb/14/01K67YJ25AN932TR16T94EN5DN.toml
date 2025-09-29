@@ -6,7 +6,6 @@ name = "SBN-01872"
 [meta]
 bill_number = 1872
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1872", "https://web.senate.gov.ph/lisdata/63495673!.pdf",]
 title = "AUTISM SPECTRUM DISORDERS (ASD)"
 date_filed = "2007-11-14"
 long_title = "AN ACT ESTABLISHING AN INTER-AGENCY INITIATIVE TO ENHANCE SERVICES FOR INDIVIDUALS WITH AUTISM SPECTRUM DISORDERS"
@@ -15,6 +14,8 @@ subjects = [ "Autism Center (Establishment)",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/63495673!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1872"
 
 [[history]]
 date = "2007-11-14"

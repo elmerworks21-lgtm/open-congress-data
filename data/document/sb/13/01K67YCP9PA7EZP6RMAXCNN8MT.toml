@@ -6,7 +6,6 @@ name = "SBN-01648"
 [meta]
 bill_number = 1648
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1648", "https://web.senate.gov.ph/lisdata/28422316!.pdf",]
 title = "NATIONAL CHILD ABUSES REGISTRATION ACT"
 date_filed = "2004-08-04"
 long_title = "AN ACT TO REQUIRE GOVERNMENT AGENCIES AND NON-GOVERNMENT AGENCIES TO REGISTER ALL OFFENDERS CONVICTED OF ANY ACT INVOLVING CHILD ABUSE WITH THE DEPARTMENT OF JUSTICE"
@@ -15,6 +14,8 @@ subjects = [ "Nat. Child Abuses Registration Act", "Registration (Child Abuse Of
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28422316!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1648"
 
 [[history]]
 date = "2004-08-04"

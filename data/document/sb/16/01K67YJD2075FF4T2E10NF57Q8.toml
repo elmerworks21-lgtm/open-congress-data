@@ -6,7 +6,6 @@ name = "SBN-01196"
 [meta]
 bill_number = 1196
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1196", "https://web.senate.gov.ph/lisdata/1725814487!.pdf",]
 title = "PINOY INNOVATOR ACT"
 date_filed = "2013-08-01"
 long_title = "AN ACT TO ESTABLISH A PROGRAM TO AWARD INNOVATION PRIZES TO INDIVIDUALS AND ENTITIES FOR RESEARCHING AND DEVELOPING INNOVATIVE TECHNOLOGIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Innovations/Innovative Technology", "Department of Trade and Indus
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1725814487!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1196"
 
 [[history]]
 date = "2013-08-01"

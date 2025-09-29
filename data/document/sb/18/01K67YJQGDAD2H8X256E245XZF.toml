@@ -6,7 +6,6 @@ name = "SBN-01594"
 [meta]
 bill_number = 1594
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1594", "https://web.senate.gov.ph/lisdata/3302029867!.pdf",]
 title = "FINANCIAL INSTITUTIONS STRATEGIC TRANSFER (FIST) ACT"
 date_filed = "2020-06-11"
 long_title = "AN ACT ENSURING PHILIPPINE FINANCIAL INDUSTRY RESILIENCY AGAINST THE COVID-19 PANDEMIC"
@@ -15,6 +14,8 @@ subjects = [ "Financial Industry Resiliency", "Covid-19", "Pandemic",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3302029867!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1594"
 
 [[history]]
 date = "2020-06-11"

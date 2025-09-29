@@ -6,7 +6,6 @@ name = "SBN-00714"
 [meta]
 bill_number = 714
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-714", "https://web.senate.gov.ph/lisdata/3840134856!.pdf",]
 title = "PLAIN WRITING FOR PUBLIC SERVICE ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT ENHANCING CITIZENS' ACCESS TO GOVERNMENT INFORMATION AND SERVICES BY REQUIRING ALL GOVERNMENT DOCUMENTS TO BE WRITTEN IN PLAIN LANGUAGE AND IF NECESSARY, TRANSLATED TO LOCAL LANGUAGE OR DIALECT"
@@ -15,6 +14,8 @@ subjects = [ "Plain Writing for Philippine Public Service Act", "Language Access
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3840134856!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-714"
 
 [[history]]
 date = "2022-07-18"

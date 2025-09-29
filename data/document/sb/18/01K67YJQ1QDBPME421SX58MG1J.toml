@@ -6,7 +6,6 @@ name = "SBN-00987"
 [meta]
 bill_number = 987
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-987", "https://web.senate.gov.ph/lisdata/3139628290!.pdf",]
 title = "INCREASING THE EXCISE TAX ON HEATED TOBACCO PRODUCTS AND VAPOR PRODUCTS"
 date_filed = "2019-08-28"
 long_title = "AN ACT INCREASING THE EXCISE TAX ON HEATED TOBACCO PRODUCTS AND VAPOR PRODUCTS, AMENDING FOR THIS PURPOSE SECTIONS 144 (B), 144 (C), 147 AND 150 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Excise Tax)", "Vaporized Nicotine Products/Vape", "National
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3139628290!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-987"
 
 [[history]]
 date = "2019-08-28"

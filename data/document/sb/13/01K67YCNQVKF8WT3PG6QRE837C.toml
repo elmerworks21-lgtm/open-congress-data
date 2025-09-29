@@ -6,7 +6,6 @@ name = "SBN-00671"
 [meta]
 bill_number = 671
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-671", "https://web.senate.gov.ph/lisdata/18571232!.pdf",]
 title = "FREE MEDICAL SUPPLIES FOR VICTIMS OF ARMED CONFLICT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR FREE MEDICINE AND OTHER BASIC MEDICAL SUPPLIES TO ANY PRIVATE PERSON OR INDIVIDUAL INJURED OR WOUNDED DURING A MILITARY OR GOVERNMENT OPERATION"
@@ -15,6 +14,8 @@ subjects = [ "Free Medicine/Medical Supplies (Victims)", "Armed Conflict/Militar
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18571232!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-671"
 
 [[history]]
 date = "2004-06-30"

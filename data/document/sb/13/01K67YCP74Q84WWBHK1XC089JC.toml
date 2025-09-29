@@ -6,7 +6,6 @@ name = "SBN-01506"
 [meta]
 bill_number = 1506
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1506", "https://web.senate.gov.ph/lisdata/27212087!.pdf",]
 title = "AMEND. ART. 867 SO THAT IT WOULD CORRECTLY REFER TO ART. 870"
 date_filed = "2004-07-27"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 386, ALSO KNOWN AS THE CIVIL CODE OF THE PHILIPPINES, ARTICLE 867"
@@ -15,6 +14,8 @@ subjects = [ "Civil Code (R.A.No. 386", "Art. 867", "870)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27212087!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1506"
 
 [[history]]
 date = "2004-07-27"

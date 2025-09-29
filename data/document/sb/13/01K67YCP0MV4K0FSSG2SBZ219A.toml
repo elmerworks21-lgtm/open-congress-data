@@ -6,7 +6,6 @@ name = "SBN-01147"
 [meta]
 bill_number = 1147
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1147", "https://web.senate.gov.ph/lisdata/23531650!.pdf",]
 title = "MINDANAO DEVELOPMENT CORPORATION ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING THE MINDANAO DEVELOPMENT CORPORATION, PRESCRIBING ITS POWERS, FUNCTIONS AND DUTIES, AND APPROPRIATION OF FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Mindanao Development Corporation Act",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/23531650!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1147"
 
 [[history]]
 date = "2004-06-30"

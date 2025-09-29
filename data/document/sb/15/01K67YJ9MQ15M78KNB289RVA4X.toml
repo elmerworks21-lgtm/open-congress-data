@@ -6,7 +6,6 @@ name = "SBN-03308"
 [meta]
 bill_number = 3308
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3308", "https://web.senate.gov.ph/lisdata/1423711974!.pdf",]
 title = "SOIL AND WATER CONSERVATION ACT OF 2012"
 date_filed = "2012-10-15"
 long_title = "AN ACT PROMOTING SOIL AND WATER CONSERVATION TECHNOLOGIES AND APPROACHES FOR SUSTAINABLE LAND MANAGEMENT IN THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sustainable Land Management", "Conservation",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1423711974!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3308"
 
 [[history]]
 date = "2012-10-15"

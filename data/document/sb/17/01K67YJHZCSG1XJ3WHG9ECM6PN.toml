@@ -6,7 +6,6 @@ name = "SBN-01191"
 [meta]
 bill_number = 1191
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1191", "https://web.senate.gov.ph/lisdata/2498321487!.pdf",]
 title = "PHILIPPINE MINERAL RESOURCES ACT OF 2016"
 date_filed = "2016-10-06"
 long_title = "AN ACT TO REGULATE THE RATIONAL EXPLORATION, DEVELOPMENT AND UTILIZATION OF MINERAL RESOURCES, AND TO ENSURE THE EQUITABLE SHARING OF BENEFITS FOR THE STATE, INDIGENOUS PEOPLES AND LOCAL COMMUNITIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mineral Resources",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2498321487!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1191"
 
 [[history]]
 date = "2016-10-06"

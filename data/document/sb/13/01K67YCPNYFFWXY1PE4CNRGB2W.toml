@@ -6,7 +6,6 @@ name = "SBN-02244"
 [meta]
 bill_number = 2244
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2244", "https://web.senate.gov.ph/lisdata/49814021!.pdf",]
 title = "THREE-YEAR MORATORIUM ON TUITION FEE INCREASE"
 date_filed = "2006-05-15"
 long_title = "AN ACT IMPOSING A THREE-YEAR MORATORIUM ON TUITION AND OTHER FEE INCREASES ON ALL EDUCATIONAL INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Moratorium (Three-Year; Tuition Fee Increase)", "Tuition Fee Incre
 authors_raw = "Madrigal, M. A."
 author_codes = ["MJAMB"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49814021!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2244"
 
 [[history]]
 date = "2006-05-15"

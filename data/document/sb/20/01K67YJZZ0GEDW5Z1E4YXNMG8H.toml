@@ -6,7 +6,6 @@ name = "SBN-00270"
 [meta]
 bill_number = 270
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-270", "https://web.senate.gov.ph/lisdata/4675942766!.pdf",]
 title = "LIBRENG CHECK-UP ACT"
 date_filed = "2025-07-08"
 long_title = "AN ACT PROVIDING FOR FREE ANNUAL MEDICAL CHECK-UP FOR FILIPINOS"
@@ -15,6 +14,8 @@ subjects = [ "Free Annual Medical Check-Up", "Health Care Delivery System",]
 authors_raw = "Aquino, Bam"
 author_codes = ["BAQUI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4675942766!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-270"
 
 [[history]]
 date = "2025-08-05"

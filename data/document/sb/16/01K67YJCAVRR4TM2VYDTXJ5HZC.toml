@@ -6,7 +6,6 @@ name = "SBN-00076"
 [meta]
 bill_number = 76
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-76", "https://web.senate.gov.ph/lisdata/1589813138!.pdf",]
 title = "GOVERNMENT PROCUREMENT REFORM ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT AMENDING SECTION 65 OF REPUBLIC ACT NO. 9184, OTHERWISE KNOWN AS THE GOVERNMENT PROCUREMENT REFORM ACT"
@@ -15,6 +14,8 @@ subjects = [ "Government Procurement",]
 authors_raw = "Guingona III, Teofisto \"Tg\""
 author_codes = ["GTEOF"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1589813138!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-76"
 
 [[history]]
 date = "2013-07-01"

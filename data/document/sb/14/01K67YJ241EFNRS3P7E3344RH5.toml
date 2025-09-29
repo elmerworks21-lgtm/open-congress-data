@@ -6,7 +6,6 @@ name = "SBN-01822"
 [meta]
 bill_number = 1822
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1822", "https://web.senate.gov.ph/lisdata/62765607!.pdf",]
 title = "VETERINARY QUARANTINE ACT OF 2007"
 date_filed = "2007-11-07"
 long_title = "AN ACT PROVIDING FOR A REVISED VETERINARY QUARANTINE ACT OF 2007"
@@ -15,6 +14,8 @@ subjects = [ "Animal Welfare", "Bureau of Animal Industry-National Veterinary Qu
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/62765607!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1822"
 
 [[history]]
 date = "2007-11-07"

@@ -6,7 +6,6 @@ name = "SBN-01722"
 [meta]
 bill_number = 1722
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1722", "https://web.senate.gov.ph/lisdata/4042836837!.pdf",]
 title = "PLASMA DONATION AND COLLECTION ACT"
 date_filed = "2023-01-23"
 long_title = "AN ACT PROMOTING PLASMA DONATION AND COLLECTION, ESTABLISHING PLASMA BANKS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Plasma Donation", "Collection",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4042836837!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1722"
 
 [[history]]
 date = "2023-01-23"

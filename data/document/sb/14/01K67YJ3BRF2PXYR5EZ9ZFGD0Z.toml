@@ -6,7 +6,6 @@ name = "SBN-03508"
 [meta]
 bill_number = 3508
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3508", "https://web.senate.gov.ph/lisdata/1285411523!.pdf",]
 title = "CLEAN COASTAL ENVIRONMENT AND PUBLIC HEALTH ACT OF 2009"
 date_filed = "2009-10-27"
 long_title = "AN ACT PROVIDING PROGRAMS FOR BEACH MONITORING"
@@ -15,6 +14,8 @@ subjects = [ "Coastal Management",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1285411523!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3508"
 
 [[history]]
 date = "2009-10-27"

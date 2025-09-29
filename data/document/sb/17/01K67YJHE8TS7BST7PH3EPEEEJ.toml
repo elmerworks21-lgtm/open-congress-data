@@ -6,7 +6,6 @@ name = "SBN-00402"
 [meta]
 bill_number = 402
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-402", "https://web.senate.gov.ph/lisdata/2383920510!.pdf",]
 title = "SUSTAINABLE FOREST MANAGEMENT ACT"
 date_filed = "2016-07-18"
 long_title = "AN ACT PROVIDING FOR SUSTAINABLE FOREST MANAGEMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sustainable Forest Management",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2383920510!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-402"
 
 [[history]]
 date = "2016-07-18"

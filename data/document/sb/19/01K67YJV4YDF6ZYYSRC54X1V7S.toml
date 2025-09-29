@@ -6,7 +6,6 @@ name = "SBN-00406"
 [meta]
 bill_number = 406
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-406", "https://web.senate.gov.ph/lisdata/3816735279!.pdf",]
 title = "TAX INCENTIVES TO PHARMACEUTICAL COMPANIES MANUFACTURING PEDIATRIC VACCINES/MEDICINES"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING INCENTIVES TO PHARMACEUTICAL COMPANIES ENGAGED IN THE DOMESTIC MANUFACTURE OF PEDIATRIC VACCINES AND MEDICINES, AMENDING FOR THE PURPOSE SECTION 109 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Vaccine", "Medicines/Drugs", "Pharmaceutical Manufacturers/Medical
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3816735279!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-406"
 
 [[history]]
 date = "2022-07-12"

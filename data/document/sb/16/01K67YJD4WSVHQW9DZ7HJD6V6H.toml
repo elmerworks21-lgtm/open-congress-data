@@ -6,7 +6,6 @@ name = "SBN-01341"
 [meta]
 bill_number = 1341
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1341", "https://web.senate.gov.ph/lisdata/1743614670!.pdf",]
 title = "ELECTROPLATING REGULATORY ACT"
 date_filed = "2013-08-22"
 long_title = "AN ACT REGULATING THE ELECTROPLATING INDUSTRY"
@@ -15,6 +14,8 @@ subjects = [ "Electroplating Industry",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1743614670!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1341"
 
 [[history]]
 date = "2013-08-22"

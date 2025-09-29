@@ -6,7 +6,6 @@ name = "SBN-01111"
 [meta]
 bill_number = 1111
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1111", "https://web.senate.gov.ph/lisdata/3169628547!.pdf",]
 title = "EXTENDING THE VALIDITY OF THE LICENSE TO OWN AND POSSESS, PERMIT TO CARRY OF FIREARMS"
 date_filed = "2019-10-08"
 long_title = "AN ACT EXTENDING THE VALIDITY OF THE LICENSE TO OWN AND POSSESS, PERMIT TO CARRY OUTSIDE OF RESIDENCE OR PLACE OF BUSINESS AND REGISTRATION OF FIREARMS, AMENDING FOR THE PURPOSE SECTIONS 4, 7, AND 19 OF REPUBLIC ACT NO. 10591, OTHERWISE KNOWN AS THE ‘COMPREHENSIVE FIREARMS AND AMMUNITION REGULATION ACT’, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Firearms", "Comprehensive Firearms and Ammunition Regulation Act (R.A.10591)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3169628547!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1111"
 
 [[history]]
 date = "2019-10-08"

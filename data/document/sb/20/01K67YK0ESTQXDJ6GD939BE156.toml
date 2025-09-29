@@ -6,7 +6,6 @@ name = "SBN-01111"
 [meta]
 bill_number = 1111
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1111", "https://web.senate.gov.ph/lisdata/4764643663!.pdf",]
 title = "ONE FILIPINO, ONE BANK ACCOUNT ACT"
 date_filed = "2025-08-07"
 long_title = "AN ACT MANDATING THE LAND BANK OF THE PHILIPPINES AND THE DEVELOPMENT BANK OF THE PHILIPPINES TO CREATE A BANK ACCOUNT FOR EVERY UNBANKED FILIPINO, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "One Filipino, One Bank Account",]
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4764643663!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1111"
 
 [[history]]
 date = "2025-08-07"

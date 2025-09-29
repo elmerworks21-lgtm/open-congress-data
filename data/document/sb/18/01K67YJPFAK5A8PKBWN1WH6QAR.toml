@@ -6,7 +6,6 @@ name = "SBN-00137"
 [meta]
 bill_number = 137
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-137", "https://web.senate.gov.ph/lisdata/3039527236!.pdf",]
 title = "COMPREHENSIVE ANTI-DISCRIMINATION ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF AGE, RACIAL OR ETHNIC ORIGIN, RELIGIOUS BELIEF OR ACTIVITY, POLITICAL INCLINATION OR CONVICTION, SOCIAL CLASS, SEX, GENDER, SEXUAL ORIENTATION, GENDER IDENTITY AND EXPRESSIONS, MARITAL OR RELATIONSHIP STATUS, DISABILITY, HIV STATUS, HEALTH STATUS OR MEDICAL HISTORY, LANGUAGE, PHYSICAL FEATURES, AND OTHER STATUS, AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination", "Age Discrimination", "Religion/Beliefs", "E
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3039527236!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-137"
 
 [[history]]
 date = "2019-07-02"

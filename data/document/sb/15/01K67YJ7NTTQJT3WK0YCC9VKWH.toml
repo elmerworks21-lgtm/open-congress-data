@@ -6,7 +6,6 @@ name = "SBN-00710"
 [meta]
 bill_number = 710
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-710", "https://web.senate.gov.ph/lisdata/80356507!.pdf",]
 title = "MEDICAL RESEARCH FACILITY"
 date_filed = "2010-07-07"
 long_title = "AN ACT ESTABLISHING A MEDICAL RESEARCH FACILITY TO SEARCH FOR VACCINES FOR DENGUE, MALARIA, YELLOW FEVER AND OTHER LOCAL VIRUS OR BACTERIA-BASED DISEASES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Research Facility",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80356507!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-710"
 
 [[history]]
 date = "2010-07-07"

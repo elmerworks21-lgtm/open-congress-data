@@ -6,7 +6,6 @@ name = "SBN-00256"
 [meta]
 bill_number = 256
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-256", "https://web.senate.gov.ph/lisdata/4673342738!.pdf",]
 title = "PHILIPPINE GERIATRIC HEALTH ACT"
 date_filed = "2025-07-08"
 long_title = "AN ACT ESTABLISHING THE NATIONAL CENTER FOR GERIATRIC HEALTH AND RESEARCH INSTITUTE, DEFINING ITS POWERS AND FUNCTIONS, CREATING REGIONAL GERIATRIC SPECIALTY CENTERS IN THE DEPARTMENT OF HEALTH-RETAINED HOSPITALS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Geriatric Health",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4673342738!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-256"
 
 [[history]]
 date = "2025-07-08"

@@ -6,7 +6,6 @@ name = "SBN-00748"
 [meta]
 bill_number = 748
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-748", "https://web.senate.gov.ph/lisdata/3109127989!.pdf",]
 title = "LIFEGUARD ACT OF 2019"
 date_filed = "2019-07-24"
 long_title = "AN ACT PROVIDING FOR THE EMPLOYMENT OF QUALIFIED LIFEGUARDS AT ALL PUBLIC SWIMMING POOLS AND BATHING FACILITIES, AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Lifeguard", "Swimming Pools/Bathing Facilities",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3109127989!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-748"
 
 [[history]]
 date = "2019-07-24"

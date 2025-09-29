@@ -6,7 +6,6 @@ name = "SBN-00906"
 [meta]
 bill_number = 906
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-906", "https://web.senate.gov.ph/lisdata/82976850!.pdf",]
 title = "OLD-AGE PENSION FOR LIFE TO SENIOR CITIZENS"
 date_filed = "2010-07-08"
 long_title = "AN ACT GRANTING OLD-AGE PENSION FOR LIFE TO SENIOR CITIZENS WHO RETIRED UNDER REPUBLIC ACT 1616 AS WELL AS SURVIVORSHIP BENEFITS TO THEIR SURVIVORS"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens", "Pension (Old-Age Pension, R.A.No. 1616)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/82976850!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-906"
 
 [[history]]
 date = "2010-07-08"

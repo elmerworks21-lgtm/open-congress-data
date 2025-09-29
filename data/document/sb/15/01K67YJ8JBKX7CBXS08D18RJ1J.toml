@@ -6,7 +6,6 @@ name = "SBN-02120"
 [meta]
 bill_number = 2120
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2120", "https://web.senate.gov.ph/lisdata/97188244!.pdf",]
 title = "PARENTS' EMPOWERMENT ACT"
 date_filed = "2010-07-27"
 long_title = "AN ACT TO PROVIDE A CIVIL ACTION FOR A MINOR INJURED BY EXPOSURE TO AN ENTERTAINMENT PRODUCT CONTAINING MATERIAL THAT IS HARMFUL TO MINORS"
@@ -15,6 +14,8 @@ subjects = [ "Parents",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/97188244!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2120"
 
 [[history]]
 date = "2010-07-27"

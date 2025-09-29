@@ -6,7 +6,6 @@ name = "SBN-01581"
 [meta]
 bill_number = 1581
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1581", "https://web.senate.gov.ph/lisdata/3288329765!.pdf",]
 title = "NATIONAL POLICE CLEARANCE SYSTEM ACT"
 date_filed = "2020-06-02"
 long_title = "AN ACT ESTABLISHING THE NATIONAL POLICE CLEARANCE SYSTEM, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine National Police (PNP)", "Clearance System",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3288329765!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1581"
 
 [[history]]
 date = "2020-06-02"

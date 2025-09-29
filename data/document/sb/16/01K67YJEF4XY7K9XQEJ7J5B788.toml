@@ -6,7 +6,6 @@ name = "SBN-03009"
 [meta]
 bill_number = 3009
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3009", "https://web.senate.gov.ph/lisdata/2252019229!.pdf",]
 title = "SALARY STANDARDIZATION LAW OF 2015"
 date_filed = "2015-11-10"
 long_title = "AN ACT MODIFYING THE COMPENSATION AND POSITION CLASSIFICATION SYSTEM OF CIVILIAN GOVERNMENT PERSONNEL AND THE BASE PAY SCHEDULE OF MILITARY AND UNIFORMED PERSONNEL IN THE GOVERNMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Salary Standardization",]
 authors_raw = "Drilon, Franklin M., Legarda, Loren B."
 author_codes = ["DFRAN", "LLORE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2252019229!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3009"
 
 [[history]]
 date = "2015-11-10"

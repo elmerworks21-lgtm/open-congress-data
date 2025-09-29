@@ -6,7 +6,6 @@ name = "SBN-00972"
 [meta]
 bill_number = 972
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-972", "https://web.senate.gov.ph/lisdata/3136728256!.pdf",]
 title = "GOOD SAMARITAN ACT OF 2019"
 date_filed = "2019-08-27"
 long_title = "AN ACT TO ENCOURAGE GOOD SAMARITANS WHO PROVIDE REASONABLE ASSISTANCE IN AN EMERGENCY BY PROTECTING THEM FROM LIABILITY"
@@ -15,6 +14,8 @@ subjects = [ "Good Samaritan Act",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3136728256!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-972"
 
 [[history]]
 date = "2019-08-27"

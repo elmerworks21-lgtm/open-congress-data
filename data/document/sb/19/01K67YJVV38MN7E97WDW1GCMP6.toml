@@ -6,7 +6,6 @@ name = "SBN-01393"
 [meta]
 bill_number = 1393
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1393", "https://web.senate.gov.ph/lisdata/3967135985!.pdf",]
 title = "BARANGAY HEALTH WORKERS ACT OF 2022"
 date_filed = "2022-10-13"
 long_title = "AN ACT MANDATING THE APPOINTMENT OF BARANGAY HEALTH WORKERS IN BARANGAYS, AND PROVIDING FOR THEIR DUTIES AND RESPONSIBILITIES, COMPENSATION AND BENEFITS, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Barangay Health Worker",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3967135985!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1393"
 
 [[history]]
 date = "2022-10-13"

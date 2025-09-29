@@ -6,7 +6,6 @@ name = "SBN-01497"
 [meta]
 bill_number = 1497
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1497", "https://web.senate.gov.ph/lisdata/2626022598!.pdf",]
 title = "HUMAN RIGHTS EDUCATION ACT OF 2017"
 date_filed = "2017-07-06"
 long_title = "AN ACT INSTITUTIONALIZING HUMAN RIGHTS AS A SEPARATE AND SPECIALIZED SUBJECT IN BOTH BASIC AND HIGHER EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "Human Rights", "Department of Education (DepEd)", "Commission on H
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2626022598!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1497"
 
 [[history]]
 date = "2017-07-06"

@@ -6,7 +6,6 @@ name = "SBN-00111"
 [meta]
 bill_number = 111
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-111", "https://web.senate.gov.ph/lisdata/4658842592!.pdf",]
 title = "NATIONAL MINIMUM WAGE ACT"
 date_filed = "2025-07-03"
 long_title = "AN ACT ESTABLISHING A NATIONAL MINIMUM WAGE FOR PRIVATE SECTOR WORKERS, IMPOSING STRICTER PENALTIES FOR VIOLATIONS THEREOF, AND AMENDING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE 'LABOR CODE OF THE PHILIPPINES'"
@@ -15,6 +14,8 @@ subjects = [ "Wage/Wages", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4658842592!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-111"
 
 [[history]]
 date = "2025-07-03"

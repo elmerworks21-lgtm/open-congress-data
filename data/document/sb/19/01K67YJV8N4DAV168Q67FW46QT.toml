@@ -6,7 +6,6 @@ name = "SBN-00579"
 [meta]
 bill_number = 579
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-579", "https://web.senate.gov.ph/lisdata/3835834809!.pdf",]
 title = "HAZARD PAY FOR WORKERS IN CRITICAL INDUSTRIES ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT GRANTING HAZARD PAY TO WORKERS IN CRITICAL INDUSTRIES DURING A STATE OF CALAMITY OR EMERGENCY OR PUBLIC HEALTH EMERGENCY"
@@ -15,6 +14,8 @@ subjects = [ "Hazard Pay", "Workers in Critical Industries", "State of National 
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3835834809!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-579"
 
 [[history]]
 date = "2022-07-14"

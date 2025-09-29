@@ -6,7 +6,6 @@ name = "SBN-00442"
 [meta]
 bill_number = 442
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-442", "https://web.senate.gov.ph/lisdata/46203970!.pdf",]
 title = "NATIONAL PEACE POLICY ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT DECLARING A NATIONAL PEACE POLICY THEREBY CREATING A COMMISSION ON PEACE"
@@ -15,6 +14,8 @@ subjects = [ "National Peace Policy", "Commission on Peace",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["PEACE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46203970!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-442"
 
 [[history]]
 date = "2007-07-02"

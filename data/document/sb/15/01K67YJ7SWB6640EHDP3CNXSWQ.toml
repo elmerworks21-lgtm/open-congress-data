@@ -6,7 +6,6 @@ name = "SBN-00913"
 [meta]
 bill_number = 913
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-913", "https://web.senate.gov.ph/lisdata/83046857!.pdf",]
 title = "OMNIBUS ELECTION CODE (ELECTORAL FRAUD)"
 date_filed = "2010-07-08"
 long_title = "AN ACT TO AMEND ARTICLE XXII, SECTION 261 (DD) OF BATAS PAMBANSA BLG. 881, OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE OF THE PHILIPPINES, AS AMENDED, TO INCLUDE OTHER FORMS OF ELECTORAL FRAUD, PRESCRIBING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "Elections/Elect
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/83046857!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-913"
 
 [[history]]
 date = "2010-07-08"

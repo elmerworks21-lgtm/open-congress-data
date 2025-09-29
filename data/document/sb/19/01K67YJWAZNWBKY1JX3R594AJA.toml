@@ -6,7 +6,6 @@ name = "SBN-02062"
 [meta]
 bill_number = 2062
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2062", "https://web.senate.gov.ph/lisdata/4137637692!.pdf",]
 title = "COMPREHENSIVE MENTAL HEALTH BENEFIT ACT"
 date_filed = "2023-04-12"
 long_title = "AN ACT EXPANDING PHILHEALTH COVERAGE TO INCLUDE BENEFIT PACKAGE TO ALL MENTAL HEALTH DISORDERS, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Mental Health", "Philippine Health Insurance Corporation (Philhealth/Phic)",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4137637692!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2062"
 
 [[history]]
 date = "2023-04-12"

@@ -6,7 +6,6 @@ name = "SBN-02545"
 [meta]
 bill_number = 2545
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2545", "https://web.senate.gov.ph/lisdata/4344039522!.pdf",]
 title = "PHILIPPINE NUCLEAR LIABILITY ACT"
 date_filed = "2024-02-13"
 long_title = "AN ACT GOVERNING CIVIL LIABILITY AND COMPENSATION CLAIMS FOR NUCLEAR DAMAGE, REPEALING FOR THE PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NO. 5207, OTHERWISE KNOWN AS THE ATOMIC ENERGY REGULATORY AND LIABILITY ACT OF 1968, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Nuclear Liability", "Atomic Energy", "Philippine Nuclear Regulator
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4344039522!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2545"
 
 [[history]]
 date = "2024-02-13"

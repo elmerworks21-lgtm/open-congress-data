@@ -6,7 +6,6 @@ name = "SBN-00085"
 [meta]
 bill_number = 85
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-85", "https://web.senate.gov.ph/lisdata/41473555!.pdf",]
 title = "PROHIBITING DISALLOWING STUDENTS WITH DELINQUENT TUITION FEES TO TAKE FINAL EXAM"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROHIBITING PRIVATE AND PUBLIC SCHOOLS FROM DISALLOWING STUDENTS WITH DELINQUENT TUITION FEES TO TAKE THE MIDTERM OR FINAL EXAMINATIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Students",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41473555!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-85"
 
 [[history]]
 date = "2007-06-30"

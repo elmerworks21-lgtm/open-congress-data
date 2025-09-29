@@ -6,7 +6,6 @@ name = "SBN-00024"
 [meta]
 bill_number = 24
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-24", "https://web.senate.gov.ph/lisdata/3772534167!.pdf",]
 title = "FAMILY AND MEDICAL LEAVE ACT OF 2022"
 date_filed = "2022-07-05"
 long_title = "AN ACT GRANTING 15 DAYS OF PAID LEAVE A YEAR TO EMPLOYEES WHOSE SPOUSE, PARENT, UNMARRIED CHILD, OR WHEN THEY THEMSELVES ARE SUFFERING FROM SERIOUS ILLNESS"
@@ -15,6 +14,8 @@ subjects = [ "Leave of Absence", "Employees",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3772534167!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-24"
 
 [[history]]
 date = "2022-07-05"

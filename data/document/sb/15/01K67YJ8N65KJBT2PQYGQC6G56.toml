@@ -6,7 +6,6 @@ name = "SBN-02262"
 [meta]
 bill_number = 2262
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2262", "https://web.senate.gov.ph/lisdata/98518397!.pdf",]
 title = "CALORIE COUNT DISPLAY ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT CLEARLY DISPLAY CALORIE COUNT LISTINGS OF THE FOOD ITEMS THEY SERVE REQUIRING RESTAURANTS AND OTHER FOOD-SERVICE ESTABLISHMENTS TO CLEARLY DISPLAY CALORIE COUNT LISTINGS OF THE FOOD ITEMS THEY SERVE"
@@ -15,6 +14,8 @@ subjects = [ "Food Establishments",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98518397!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2262"
 
 [[history]]
 date = "2010-08-02"

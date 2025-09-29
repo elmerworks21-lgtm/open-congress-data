@@ -6,7 +6,6 @@ name = "SBN-01845"
 [meta]
 bill_number = 1845
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1845", "https://web.senate.gov.ph/lisdata/2802924373!.pdf",]
 title = "JOSEFA LLANES ESCODA DAY"
 date_filed = "2018-05-31"
 long_title = "AN ACT DECLARING JANUARY 6 OF EVERY YEAR A SPECIAL WORKING HOLIDAY TO COMMEMORATE THE DEATH AND CONTRIBUTIONS OF JOSEFA LLANES ESCODA"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Special Working)",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2802924373!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1845"
 
 [[history]]
 date = "2018-05-31"

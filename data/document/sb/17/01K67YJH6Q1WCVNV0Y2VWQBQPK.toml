@@ -6,7 +6,6 @@ name = "SBN-00105"
 [meta]
 bill_number = 105
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-105", "https://web.senate.gov.ph/lisdata/2352120139!.pdf",]
 title = "SIM CARD REGISTRATION ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT REQUIRING THE REGISTRATION OF SUBSCRIBER IDENTITY MODULE (SIM) CARDS IN MOBILE PHONES"
@@ -15,6 +14,8 @@ subjects = [ "Cellular Phones/Cell Phones", "Sim Card Registration",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2352120139!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-105"
 
 [[history]]
 date = "2016-06-30"

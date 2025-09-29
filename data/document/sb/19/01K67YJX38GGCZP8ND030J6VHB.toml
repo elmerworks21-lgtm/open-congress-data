@@ -6,7 +6,6 @@ name = "SBN-02980"
 [meta]
 bill_number = 2980
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2980", "https://web.senate.gov.ph/lisdata/4591741953!.pdf",]
 title = "NEW ANTI-ESPIONAGE ACT"
 date_filed = "2025-02-04"
 long_title = "AN ACT DEFINING AND PENALIZING ESPIONAGE AND OTHER OFFENSES AGAINST NATIONAL SECURITY"
@@ -15,6 +14,8 @@ subjects = [ "Espionage", "National Security/National Security Policy",]
 authors_raw = "Estrada, Jinggoy E., Villanueva, Joel, Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["EJING", "VEMMA", "ZJMIG"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4591741953!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2980"
 
 [[history]]
 date = "2025-02-04"

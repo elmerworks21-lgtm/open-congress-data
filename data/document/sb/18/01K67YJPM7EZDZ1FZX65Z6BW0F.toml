@@ -6,7 +6,6 @@ name = "SBN-00352"
 [meta]
 bill_number = 352
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-352", "https://web.senate.gov.ph/lisdata/3064227493!.pdf",]
 title = "LOCAL BUDGETING REFORM ACT"
 date_filed = "2019-07-11"
 long_title = "AN ACT ENSURING THE EQUITABLE DISTRIBUTION OF FUNDS BETWEEN THE NATIONAL GOVERNMENT AND THE LOCAL GOVERNMENT UNITS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Units (LGUS)", "Local Budget Reform",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3064227493!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-352"
 
 [[history]]
 date = "2019-07-11"

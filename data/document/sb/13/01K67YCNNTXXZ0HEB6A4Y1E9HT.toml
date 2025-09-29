@@ -6,7 +6,6 @@ name = "SBN-00553"
 [meta]
 bill_number = 553
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-553", "https://web.senate.gov.ph/lisdata/17101059!.pdf",]
 title = "PENSIONADO ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING AN ADVANCED STUDIES DEVELOPMENT PROGRAM FOR EXCEPTIONAL EMPLOYEES FROM THE GOVERNMENT AND THE PRIVATE SECTOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pensionado Act", "Government Employees (Advanced Studies)", "Advan
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/17101059!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-553"
 
 [[history]]
 date = "2004-06-30"

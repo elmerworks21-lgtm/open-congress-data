@@ -6,7 +6,6 @@ name = "SBN-01429"
 [meta]
 bill_number = 1429
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1429", "https://web.senate.gov.ph/lisdata/26442008!.pdf",]
 title = "AMENDING ARTICLES 204, 205 AND 207 OF THE REVISED PENAL CODE"
 date_filed = "2004-07-14"
 long_title = "AN ACT AMENDING THE PENAL CODE, ARTICLES 204, 205 AND 207"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (Art. 204", "205", "207)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26442008!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1429"
 
 [[history]]
 date = "2004-07-14"

@@ -6,7 +6,6 @@ name = "SBN-00933"
 [meta]
 bill_number = 933
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-933", "https://web.senate.gov.ph/lisdata/3132728223!.pdf",]
 title = "EXPANDED SENIOR CITIZENS ACT OF 2019"
 date_filed = "2019-08-20"
 long_title = "AN ACT GRANTING SENIOR CITIZENS A MINIMUM OF FIVE PERCENT (5%) DISCOUNT ON THE FIRST 150 KILOWATT HOURS OF ELECTRICITY CONSUMPTION AND ON THE FIRST 50 CUBIC METERS OF WATER CONSUMPTION, AND EXEMPTION FROM THE VALUE-ADDED TAX (VAT), AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9994, OTHERWISE KNOWN AS THE 'EXPANDED SENIOR CITIZENS' ACT OF 2010'"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizen/Elderly", "Taxes (Value-Added Tax / Vat)", "Tax Exe
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3132728223!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-933"
 
 [[history]]
 date = "2019-08-20"

@@ -6,7 +6,6 @@ name = "SBN-00194"
 [meta]
 bill_number = 194
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-194", "https://web.senate.gov.ph/lisdata/1602013257!.pdf",]
 title = "CHILD CARE CENTER ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT REGULATING CHILD CARE CENTERS"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1602013257!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-194"
 
 [[history]]
 date = "2013-07-01"

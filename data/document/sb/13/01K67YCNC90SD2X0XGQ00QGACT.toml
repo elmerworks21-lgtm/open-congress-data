@@ -6,7 +6,6 @@ name = "SBN-00032"
 [meta]
 bill_number = 32
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-32", "https://web.senate.gov.ph/lisdata/1166585!.pdf",]
 title = "HEALTH MAINTENANCE ORGANIZATIONS (HMO) ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT GOVERNING THE OPERATIONS OF HEALTH MAINTENANCE ORGANIZATIONS, REGULATING THEIR ACTIVITIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Maintenance Organizations (HMO)",]
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
 author_codes = ["AEDGA", "FJUAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1166585!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-32"
 
 [[history]]
 date = "2004-06-30"

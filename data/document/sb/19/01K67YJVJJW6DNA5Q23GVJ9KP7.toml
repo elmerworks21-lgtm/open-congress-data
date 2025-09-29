@@ -6,7 +6,6 @@ name = "SBN-01017"
 [meta]
 bill_number = 1017
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1017", "https://web.senate.gov.ph/lisdata/3896835419!.pdf",]
 title = "MEDICAL RESERVE CORPS ACT"
 date_filed = "2022-08-04"
 long_title = "AN ACT INSTITUTING THE MEDICAL RESERVE CORPS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Medical Reserve Corps",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3896835419!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1017"
 
 [[history]]
 date = "2022-08-04"

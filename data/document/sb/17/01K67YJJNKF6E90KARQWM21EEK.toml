@@ -6,7 +6,6 @@ name = "SBN-02019"
 [meta]
 bill_number = 2019
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2019", "https://web.senate.gov.ph/lisdata/2866425117!.pdf",]
 title = "AMENDING SECTION 117 OF P.D. 1529 (PROPERTY REGISTRATION DECREE)"
 date_filed = "2018-09-19"
 long_title = "AN ACT AMENDING THE PROCEDURE ON CONSULTAS AMENDING FOR THE PURPOSE SECTION 117 OF PRESIDENTIAL DECREE 1529"
@@ -15,6 +14,8 @@ subjects = [ "Property Registration", "Presidential Decree (P.D.No. 1529)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2866425117!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2019"
 
 [[history]]
 date = "2018-09-19"

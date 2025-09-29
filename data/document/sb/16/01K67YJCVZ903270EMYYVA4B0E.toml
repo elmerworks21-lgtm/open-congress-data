@@ -6,7 +6,6 @@ name = "SBN-00911"
 [meta]
 bill_number = 911
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-911", "https://web.senate.gov.ph/lisdata/1693714174!.pdf",]
 title = "E-WASTE AND CELLULAR PHONES RECYCLING ACT"
 date_filed = "2013-07-18"
 long_title = "AN ACT PROVIDING FOR THE COLLECTION, TRANSPORTATION AND RECYCLING OF ELECTRONIC WASTE AND CELLULAR PHONES"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Waste (E-Waste)", "Cellular Phones/Cell Phones", "Recyc
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1693714174!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-911"
 
 [[history]]
 date = "2013-07-18"

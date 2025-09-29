@@ -6,7 +6,6 @@ name = "SBN-02492"
 [meta]
 bill_number = 2492
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2492", "https://web.senate.gov.ph/lisdata/101198671!.pdf",]
 title = "CREDIT CARD AND OTHER ACCESS DEVICE ACT OF 2010"
 date_filed = "2010-09-09"
 long_title = "AN ACT GOVERNING CREDIT CARD AND OTHER ACCESS DEVICE TRANSACTIONS AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101198671!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2492"
 
 [[history]]
 date = "2010-09-09"

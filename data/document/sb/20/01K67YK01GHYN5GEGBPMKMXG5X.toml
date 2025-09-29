@@ -6,7 +6,6 @@ name = "SBN-00404"
 [meta]
 bill_number = 404
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-404", "https://web.senate.gov.ph/lisdata/4689642902!.pdf",]
 title = "UNIVERSAL MEDICAL ASSISTANCE ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT INSTITUTING THE MEDICAL ASSISTANCE TO INDIGENT AND FINANCIALLY INCAPACITATED PATIENTS (MAIFIP) UNDER THE FRAMEWORK OF THE UNIVERSAL HEALTH CARE FOR ALL FILIPINOS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE 'UNIVERSAL HEALTH CARE ACT'"
@@ -15,6 +14,8 @@ subjects = [ "Universal Health Care", "Medical Assistance", "Indigent Patients",
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4689642902!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-404"
 
 [[history]]
 date = "2025-07-10"

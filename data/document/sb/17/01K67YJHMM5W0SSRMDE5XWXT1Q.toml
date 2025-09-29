@@ -6,7 +6,6 @@ name = "SBN-00705"
 [meta]
 bill_number = 705
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-705", "https://web.senate.gov.ph/lisdata/2422420838!.pdf",]
 title = "SCHOLARSHIP FOR THE POOR ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT REQUIRING ALL COLLEGES AND UNIVERSITIES TO PROVIDE SCHOLARSHIP GRANTS TO AT LEAST FIVE PERCENT (5%) OF THE STUDENT POPULATION WHO ARE POOR BUT DESERVING STUDENTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Scholarship Grants", "Students",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2422420838!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-705"
 
 [[history]]
 date = "2016-07-20"

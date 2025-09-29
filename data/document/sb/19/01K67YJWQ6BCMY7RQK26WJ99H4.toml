@@ -6,7 +6,6 @@ name = "SBN-02556"
 [meta]
 bill_number = 2556
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2556", "https://web.senate.gov.ph/lisdata/4347539544!.pdf",]
 title = "PHILIPPINES - UNITED ARAB EMIRATES FRIENDSHIP DAY"
 date_filed = "2024-02-19"
 long_title = "AN ACT DECLARING THE 19TH OF AUGUST OF EVERY YEAR AS A SPECIAL DAY FOR THE COMMEMORATION OF THE PHILIPPINES - UNITED ARAB EMIRATES FRIENDSHIP DAY"
@@ -15,6 +14,8 @@ subjects = [ "Commendation", "Expression of Congratulations",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III, Gatchalian, Win"
 author_codes = ["GSHER", "PAQUI"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4347539544!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2556"
 
 [[history]]
 date = "2024-02-19"

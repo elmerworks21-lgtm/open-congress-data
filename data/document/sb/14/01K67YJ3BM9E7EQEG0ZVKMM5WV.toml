@@ -6,7 +6,6 @@ name = "SBN-03502"
 [meta]
 bill_number = 3502
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3502", "https://web.senate.gov.ph/lisdata/1283611506!.pdf",]
 title = "TAX ON LIFE INSURANCE PREMIUMS"
 date_filed = "2009-10-15"
 long_title = "AN ACT REDUCING THE TAX INSURANCE PREMIUM UNDER CERTAIN CONDITIONS, AMENDING FOR THIS PURPOSE SECTION 123 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Life Insurance Premium Tax", "National Internal Revenue Code (NIRC
 authors_raw = "Ejercito-Estrada, Jinggoy P., Legarda, Loren B., Angara, Edgardo J., Lacson, Panfilo M."
 author_codes = ["AEDGA", "EJING", "LLORE", "LPANF"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1283611506!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3502"
 
 [[history]]
 date = "2009-10-15"

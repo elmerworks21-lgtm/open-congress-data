@@ -6,7 +6,6 @@ name = "SBN-03248"
 [meta]
 bill_number = 3248
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3248", "https://web.senate.gov.ph/lisdata/1381611661!.pdf",]
 title = "OLYMPIC GOLD MEDAL OF VALOR ACT OF 2012"
 date_filed = "2012-08-06"
 long_title = "AN ACT GRANTING AN OLYMPIC GOLD MEDAL OF VALOR TO FILIPINO OLYMPIC GOLD MEDALISTS"
@@ -15,6 +14,8 @@ subjects = [ "Athletes",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ASCOM"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1381611661!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3248"
 
 [[history]]
 date = "2012-08-06"

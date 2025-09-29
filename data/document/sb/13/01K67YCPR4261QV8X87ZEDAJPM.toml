@@ -6,7 +6,6 @@ name = "SBN-02359"
 [meta]
 bill_number = 2359
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2359", "https://web.senate.gov.ph/lisdata/55034553!.pdf",]
 title = "REVISED PENAL CODE"
 date_filed = "2006-06-07"
 long_title = "AN ACT AMENDING ARTICLE TWO HUNDRED TWO OF ACT NUMBERED THIRTY EIGHT HUNDRED FIFTEEN, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55034553!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2359"
 
 [[history]]
 date = "2006-06-07"

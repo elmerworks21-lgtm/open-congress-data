@@ -6,7 +6,6 @@ name = "SBN-02325"
 [meta]
 bill_number = 2325
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2325", "https://web.senate.gov.ph/lisdata/99918504!.pdf",]
 title = "POPCORN WORKERS LUNG DISEASE PREVENTION ACT"
 date_filed = "2010-08-03"
 long_title = "AN ACT TO DIRECT THE DEPARTMENT OF HEALTH AND THE DEPARTMENT OF LABOR AND EMPLOYMENT TO ISSUE A STANDARD REGULATING WORKER EXPOSURE TO DIACETYL"
@@ -15,6 +14,8 @@ subjects = [ "Diacetyl", "Department of Health (DOH)", "Department of Labor and 
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99918504!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2325"
 
 [[history]]
 date = "2010-08-03"

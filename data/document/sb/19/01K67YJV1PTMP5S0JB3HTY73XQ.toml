@@ -6,7 +6,6 @@ name = "SBN-00255"
 [meta]
 bill_number = 255
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-255", "https://web.senate.gov.ph/lisdata/3798634429!.pdf",]
 title = "MEDICAL RESERVE CORPS ACT"
 date_filed = "2022-07-11"
 long_title = "AN ACT PROVIDING FOR THE DEVELOPMENT, ADMINISTRATION, ORGANIZATION, TRAINING, MAINTENANCE AND UTILIZATION OF THE MEDICAL RESERVE CORPS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Reserve Corps",]
 authors_raw = "Cayetano, Pia S., Padilla, Robinhood C."
 author_codes = ["CPIAS", "PROBI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3798634429!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-255"
 
 [[history]]
 date = "2022-07-11"

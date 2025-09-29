@@ -6,7 +6,6 @@ name = "SBN-02600"
 [meta]
 bill_number = 2600
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2600", "https://web.senate.gov.ph/lisdata/4369839716!.pdf",]
 title = "PHILIPPINES - HUNGARY FRIENDSHIP DAY"
 date_filed = "2024-03-11"
 long_title = "AN ACT DECLARING THE 28TH OF SEPTEMBER OF EVERY YEAR AS A SPECIAL DAY FOR THE COMMEMORATION OF THE PHILIPPINES - HUNGARY FRIENDSHIP DAY"
@@ -15,6 +14,8 @@ subjects = [ "Philippines - Hungary Friendship Day",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
 author_codes = ["PAQUI"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4369839716!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2600"
 
 [[history]]
 date = "2024-03-11"

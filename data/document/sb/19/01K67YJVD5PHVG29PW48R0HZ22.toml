@@ -6,7 +6,6 @@ name = "SBN-00787"
 [meta]
 bill_number = 787
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-787", "https://web.senate.gov.ph/lisdata/3860135055!.pdf",]
 title = "BANNING A NO PERMIT, NO EXAM POLICY ACT"
 date_filed = "2022-07-21"
 long_title = "AN ACT PROHIBITING A 'NO PERMIT, NO EXAM' POLICY OR ANY SUCH POLICY THAT PREVENTS STUDENTS OF ANY EDUCATIONAL INSTITUTION FROM TAKING THEIR EXAMINATIONS DUE TO UNPAID TUITION AND OTHER SCHOOL FEES"
@@ -15,6 +14,8 @@ subjects = [ "No Permit, No Exam Policy", "Students", "Educational Institutions"
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3860135055!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-787"
 
 [[history]]
 date = "2022-07-21"

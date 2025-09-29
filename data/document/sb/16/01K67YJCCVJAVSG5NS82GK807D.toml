@@ -6,7 +6,6 @@ name = "SBN-00169"
 [meta]
 bill_number = 169
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-169", "https://web.senate.gov.ph/lisdata/1599513232!.pdf",]
 title = "PHILIPPINE BUSINESS REGISTRY DATABANK (PBRD) ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT AUTHORIZING THE ESTABLISHMENT OF A PHILIPPINE BUSINESS REGISTRY DATABANK"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Business Registry Databank",]
 authors_raw = "Osmena III, Sergio R., Villar, Cynthia A."
 author_codes = ["OSERG", "VCYNT"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1599513232!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-169"
 
 [[history]]
 date = "2013-07-01"

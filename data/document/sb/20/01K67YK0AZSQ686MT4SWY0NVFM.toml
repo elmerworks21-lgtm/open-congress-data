@@ -6,7 +6,6 @@ name = "SBN-00910"
 [meta]
 bill_number = 910
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-910", "https://web.senate.gov.ph/lisdata/4752143527!.pdf",]
 title = "REVISED PHILIPPINE COAST GUARD LAW"
 date_filed = "2025-08-05"
 long_title = "AN ACT PROVIDING FOR THE ADMINISTRATIVE REFORM AND REORGANIZATION OF THE PHILIPPINE COAST GUARD, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9993, OTHERWISE KNOWN AS THE 'PHILIPPINE COAST GUARD LAW OF 2009'"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Coast Guard",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4752143527!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-910"
 
 [[history]]
 date = "2025-08-05"

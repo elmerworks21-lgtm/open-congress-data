@@ -6,7 +6,6 @@ name = "SBN-00944"
 [meta]
 bill_number = 944
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-944", "https://web.senate.gov.ph/lisdata/3133828235!.pdf",]
 title = "THE BILL OF RIGHTS OF TAXI PASSENGERS"
 date_filed = "2019-08-20"
 long_title = "AN ACT ORDAINING THE BILL OF RIGHTS OF TAXI PASSENGERS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Taxi Passengers Bill of Rights",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3133828235!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-944"
 
 [[history]]
 date = "2019-08-20"

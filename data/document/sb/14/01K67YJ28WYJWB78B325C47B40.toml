@@ -6,7 +6,6 @@ name = "SBN-02015"
 [meta]
 bill_number = 2015
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2015", "https://web.senate.gov.ph/lisdata/67355968!.pdf",]
 title = "SAFEST ROUTES FOR NUCLEAR WASTES ACT OF 2008"
 date_filed = "2008-01-29"
 long_title = "AN ACT TO REQUIRE THE DESIGNATION OF THE SAFEST ROUTES FOR THE TRANSPORTATION OF HAZARDOUS AND NUCLEAR WASTES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67355968!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2015"
 
 [[history]]
 date = "2008-01-29"

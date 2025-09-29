@@ -6,7 +6,6 @@ name = "SBN-00621"
 [meta]
 bill_number = 621
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-621", "https://web.senate.gov.ph/lisdata/2410720746!.pdf",]
 title = "VETERANS MEMORIAL MEDICAL CENTER CHARTER ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT TO GIVE JURIDICAL PERSONALITY TO THE PRESENT VETERANS MEMORIAL MEDICAL CENTER (VMMC) AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Veterans Memorial Medical Center (VMMC)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2410720746!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-621"
 
 [[history]]
 date = "2016-07-19"

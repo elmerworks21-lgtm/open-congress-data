@@ -6,7 +6,6 @@ name = "SBN-00660"
 [meta]
 bill_number = 660
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-660", "https://web.senate.gov.ph/lisdata/2414820786!.pdf",]
 title = "BASES CONVERSION AND DEVELOPMENT ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7227, AS AMENDED BY REPUBLIC ACT NO. 9400, OTHERWISE KNOWN AS THE BASES CONVERSION AND DEVELOPMENT ACT OF 1992"
@@ -15,6 +14,8 @@ subjects = [ "Bases Conversion and Development Authority (BCDA)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2414820786!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-660"
 
 [[history]]
 date = "2016-07-20"

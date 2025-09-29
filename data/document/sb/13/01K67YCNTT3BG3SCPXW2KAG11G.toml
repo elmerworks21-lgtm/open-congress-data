@@ -6,7 +6,6 @@ name = "SBN-00840"
 [meta]
 bill_number = 840
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-840", "https://web.senate.gov.ph/lisdata/20381518!.pdf",]
 title = "PUBLIC ATTORNEY'S OFFICE REORGANIZATION"
 date_filed = "2004-06-30"
 long_title = "AN ACT REORGANIZING AND STRENGTHENING THE PUBLIC ATTORNEY'S OFFICE (PAO), AMENDING FOR THE PURPOSE THE PERTINENT PROVISIONS OF THE ADMINISTRATIVE CODE OF 1987"
@@ -15,6 +14,8 @@ subjects = [ "Public Attorney`S Office Reorganization", "Pao (Citizens Legal Ass
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20381518!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-840"
 
 [[history]]
 date = "2004-06-30"

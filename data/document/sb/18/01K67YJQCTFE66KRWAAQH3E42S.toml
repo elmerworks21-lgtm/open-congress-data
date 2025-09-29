@@ -6,7 +6,6 @@ name = "SBN-01445"
 [meta]
 bill_number = 1445
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1445", "https://web.senate.gov.ph/lisdata/3259829464!.pdf",]
 title = "COVID-19 DISEASE PREVENTION AND CONTROL CENTER"
 date_filed = "2020-04-27"
 long_title = "AN ACT ESTABLISHING A NATIONAL COVID-19 CENTER, TO BE KNOWN AS THE COVID-19 DISEASE PREVENTION AND CONTROL CENTER"
@@ -15,6 +14,8 @@ subjects = [ "Covid-19",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3259829464!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1445"
 
 [[history]]
 date = "2020-04-27"

@@ -6,7 +6,6 @@ name = "SBN-02010"
 [meta]
 bill_number = 2010
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2010", "https://web.senate.gov.ph/lisdata/1841015574!.pdf",]
 title = "AMENDING SEC. 173, PHILIPPINE INTELLECTUAL PROPERTY CODE (DERIVATIVE WORKS)"
 date_filed = "2013-12-09"
 long_title = "AN ACT CLARIFYING THE SCOPE OF DERIVATIVE WORKS, AMENDING FOR THE PURPOSE SECTION 173.1 (A) OF REPUBLIC ACT 8293 OR THE PHILIPPINE INTELLECTUAL PROPERTY CODE"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Intellectual Property Code",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1841015574!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2010"
 
 [[history]]
 date = "2013-12-09"

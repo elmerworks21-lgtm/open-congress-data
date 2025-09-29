@@ -6,7 +6,6 @@ name = "SBN-00188"
 [meta]
 bill_number = 188
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-188", "https://web.senate.gov.ph/lisdata/3789634770!.pdf",]
 title = "DISASTER RESILIENCE ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATE FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Department of Disaster Resilience", "Disaster Risk Reduction and M
 authors_raw = "Go, Christopher Lawrence T., Escudero, Francis G."
 author_codes = ["EFRAN", "GCHRI"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3789634770!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-188"
 
 [[history]]
 date = "2022-07-07"

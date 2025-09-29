@@ -6,7 +6,6 @@ name = "SBN-01274"
 [meta]
 bill_number = 1274
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1274", "https://web.senate.gov.ph/lisdata/2518721709!.pdf",]
 title = "POLICE COURT ACT OF 2016"
 date_filed = "2016-12-12"
 long_title = "AN ACT ESTABLISHING THE POLICE LAW ENFORCEMENT COURTS, GRANTING THESE EXCLUSIVE ORIGINAL JURISDICTION OVER VIOLATIONS OF CONSTITUTIONAL RIGHTS AND PNP RULES OF ENGAGEMENT COMMITTED BY THE POLICE, AMENDING BATAS PAMBANSA BILANG 129, AS AMENDED, OTHERWISE KNOWN AS ‘THE JUDICIARY REORGANIZATION ACT OF 1980’, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Police Court", "Philippine National Police (PNP)", "Judiciary Reor
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2518721709!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1274"
 
 [[history]]
 date = "2016-12-12"

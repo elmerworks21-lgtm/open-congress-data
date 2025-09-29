@@ -6,7 +6,6 @@ name = "SBN-02012"
 [meta]
 bill_number = 2012
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2012", "https://web.senate.gov.ph/lisdata/34382768!.pdf",]
 title = "HEPATITIS-B FOR INFANTS"
 date_filed = "2005-05-19"
 long_title = "AN ACT REQUIRING MANDATORY BASIC IMMUNIZATION SERVICES AGAINST HEPATITIS-B FOR INFANTS, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 996, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hepatitis-B (Infant)",]
 authors_raw = "Cayetano, Companera Pia S., Roxas, Mar, Ejercito-Estrada, Jinggoy P."
 author_codes = ["CPIAS", "EJING", "RMARA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34382768!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2012"
 
 [[history]]
 date = "2005-05-19"

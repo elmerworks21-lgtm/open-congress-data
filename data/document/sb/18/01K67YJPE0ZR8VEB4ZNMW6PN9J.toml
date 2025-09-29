@@ -6,7 +6,6 @@ name = "SBN-00077"
 [meta]
 bill_number = 77
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-77", "https://web.senate.gov.ph/lisdata/3030727134!.pdf",]
 title = "RETIREMENT BENEFIT FOR BARANGAY OFFICIALS, BARANGAY TANODS, BARANGAY HEALTH AND DAY CARE WORKERS"
 date_filed = "2019-07-01"
 long_title = "AN ACT PROVIDING BARANGAY OFFICIALS, INCLUDING BARANGAY TANODS, MEMBERS OF THE LUPON NG TAGAPAMAYAPA, BARANGAY HEALTH WORKERS AND BARANGAY DAY CARE WORKERS A RETIREMENT BENEFIT"
@@ -15,6 +14,8 @@ subjects = [ "Retirement Benefits", "Barangay Day Care", "Barangay Health Worker
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3030727134!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-77"
 
 [[history]]
 date = "2019-07-01"

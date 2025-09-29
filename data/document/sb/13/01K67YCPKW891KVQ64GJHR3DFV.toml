@@ -6,7 +6,6 @@ name = "SBN-02144"
 [meta]
 bill_number = 2144
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2144", "https://web.senate.gov.ph/lisdata/41093421!.pdf",]
 title = "RETINOBLASTOMA AWARENESS AND PREVENTION ACT OF 2005"
 date_filed = "2005-10-13"
 long_title = "AN ACT TO DIRECT THE SECRETARY OF HEALTH TO ESTABLISH A RETINOBLASTOMA PUBLIC AWARENESS AND PREVENTION PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Retinoblastoma Awareness and Prevention Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41093421!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2144"
 
 [[history]]
 date = "2005-10-13"

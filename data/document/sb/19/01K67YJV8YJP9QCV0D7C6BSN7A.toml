@@ -6,7 +6,6 @@ name = "SBN-00591"
 [meta]
 bill_number = 591
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-591", "https://web.senate.gov.ph/lisdata/3837334822!.pdf",]
 title = "NATIONAL COASTAL GREENBELT ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT ESTABLISHING THE NATIONAL COASTAL GREENBELT PROGRAM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Coastal Greenbelt", "Coastal Greenbelt",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3837334822!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-591"
 
 [[history]]
 date = "2022-07-14"

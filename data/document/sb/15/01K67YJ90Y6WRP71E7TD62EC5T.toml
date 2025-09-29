@@ -6,7 +6,6 @@ name = "SBN-02591"
 [meta]
 bill_number = 2591
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2591", "https://web.senate.gov.ph/lisdata/103808906!.pdf",]
 title = "PREVENTIVE SUSPENSION OF APPOINTIVE LOCAL OFFICIALS AND EMPLOYEES"
 date_filed = "2010-11-15"
 long_title = "AN ACT AMENDING SECTION 85, PARAGRAPH (A) OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code, Amendments (R.A.No. 7160)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/103808906!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2591"
 
 [[history]]
 date = "2010-11-15"

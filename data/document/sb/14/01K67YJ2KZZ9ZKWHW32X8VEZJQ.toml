@@ -6,7 +6,6 @@ name = "SBN-02488"
 [meta]
 bill_number = 2488
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2488", "https://web.senate.gov.ph/lisdata/79637195!.pdf",]
 title = "INFANT MORTALITY RESEARCH INITIATIVE ACT OF 2008"
 date_filed = "2008-07-29"
 long_title = "AN ACT TO ESTABLISH AN INFANT MORTALITY RESEARCH PROGRAM TO REDUCE THE RATE OF INFANT MORTALITY IN THE COUNTRY PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Infant",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79637195!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2488"
 
 [[history]]
 date = "2008-07-29"

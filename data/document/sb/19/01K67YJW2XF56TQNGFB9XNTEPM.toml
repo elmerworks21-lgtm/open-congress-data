@@ -6,7 +6,6 @@ name = "SBN-01723"
 [meta]
 bill_number = 1723
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1723", "https://web.senate.gov.ph/lisdata/4042936838!.pdf",]
 title = "UMBLICAL CORD BLOOD DONATION ACT"
 date_filed = "2023-01-23"
 long_title = "AN ACT PROMOTING AND REGULATING THE DONATION OF UMBILICAL CORD BLOOD, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Umbilical Cord Blood", "Blood Donation",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4042936838!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1723"
 
 [[history]]
 date = "2023-01-23"

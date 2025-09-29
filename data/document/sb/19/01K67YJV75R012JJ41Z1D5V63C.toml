@@ -6,7 +6,6 @@ name = "SBN-00508"
 [meta]
 bill_number = 508
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-508", "https://web.senate.gov.ph/lisdata/3826934707!.pdf",]
 title = "NISMED ACT OF 2022"
 date_filed = "2022-07-13"
 long_title = "AN ACT CREATING THE NATIONAL INSTITUTE FOR SCIENCE AND MATHEMATICS EDUCATION DEVELOPMENT, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Institute for Science and Mathemathics Education Developm
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3826934707!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-508"
 
 [[history]]
 date = "2022-07-13"

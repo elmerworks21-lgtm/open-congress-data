@@ -6,7 +6,6 @@ name = "SBN-00718"
 [meta]
 bill_number = 718
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-718", "https://web.senate.gov.ph/lisdata/3106327960!.pdf",]
 title = "BANNING THE SALE, PURCHASE AND CONSUMPTION OF SHARK FIN"
 date_filed = "2019-07-24"
 long_title = "AN ACT BANNING THE SALE, PURCHASE, POSSESSION, TRANSPORTATION, IMPORTATION, AND EXPORTATION OF SHARK FIN AND FOOD CONTAINING SHARK FIN"
@@ -15,6 +14,8 @@ subjects = [ "Shark Fins",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
 author_codes = ["PAQUI"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3106327960!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-718"
 
 [[history]]
 date = "2019-07-24"

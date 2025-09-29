@@ -6,7 +6,6 @@ name = "SBN-01851"
 [meta]
 bill_number = 1851
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1851", "https://web.senate.gov.ph/lisdata/63225647!.pdf",]
 title = "DISPOSITION OF REAL PROPERTIES OF THE NATIONAL GOVERNMENT"
 date_filed = "2007-11-12"
 long_title = "AN ACT REQUIRING CONGRESSIONAL APPROVAL IN THE RECLASSIFICATION AND DISPOSITION OF REAL PROPERTIES OF THE NATIONAL GOVERNMENT"
@@ -15,6 +14,8 @@ subjects = [ "Government Properties",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/63225647!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1851"
 
 [[history]]
 date = "2007-11-12"

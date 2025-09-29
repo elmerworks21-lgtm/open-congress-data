@@ -6,7 +6,6 @@ name = "SBN-01306"
 [meta]
 bill_number = 1306
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1306", "https://web.senate.gov.ph/lisdata/3937535794!.pdf",]
 title = "POSTPONING THE DECEMBER 2022 BARANGAY AND SK ELECTIONS"
 date_filed = "2022-09-12"
 long_title = "AN ACT POSTPONING THE DECEMBER 2022 BARANGAY AND SANGGUNIANG KABATAAN ELECTIONS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9164, AS AMENDED BY REPUBLIC ACT NO. 9340, REPUBLIC ACT NO. 10632, REPUBLIC ACT NO. 10656, REPUBLIC ACT NO. 10923, REPUBLIC ACT NO. 10952, AND REPUBLIC ACT NO. 11462, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Elections", "Sk Elections",]
 authors_raw = "Escudero, Francis G., Estrada, Jinggoy E., Gatchalian, Win, Marcos, Imee R., Go, Christopher Lawrence T."
 author_codes = ["EFRAN", "EJING", "GCHRI", "GSHER", "MIMEE"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3937535794!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1306"
 
 [[history]]
 date = "2022-09-12"

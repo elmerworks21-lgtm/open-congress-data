@@ -6,7 +6,6 @@ name = "SBN-02640"
 [meta]
 bill_number = 2640
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2640", "https://web.senate.gov.ph/lisdata/71605803!.pdf",]
 title = "BAN ASBESTOS ACT OF 2007"
 date_filed = "2007-06-04"
 long_title = "AN ACT BANNING THE IMPORTATION, MANUFACTURE, PROCESSING OR DISTRIBUTION IN COMMERCE OF ASBESTOS-CONTAINING PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Asbestos Containing Products Ban",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71605803!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2640"
 
 [[history]]
 date = "2007-06-04"

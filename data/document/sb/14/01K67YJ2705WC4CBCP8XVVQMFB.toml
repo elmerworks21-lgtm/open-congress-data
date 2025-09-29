@@ -6,7 +6,6 @@ name = "SBN-01949"
 [meta]
 bill_number = 1949
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1949", "https://web.senate.gov.ph/lisdata/65675814!.pdf",]
 title = "ANTI-CHILD PORNOGRAPHY ACT OF 2007"
 date_filed = "2007-12-10"
 long_title = "AN ACT DEFINING CHILD PORNOGRAPHY AND CHILD ABUSE MATERIALS AND PENALIZING ALL FORMS AND MEANS OF COMMISSION"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/65675814!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1949"
 
 [[history]]
 date = "2007-12-10"

@@ -6,7 +6,6 @@ name = "SBN-00320"
 [meta]
 bill_number = 320
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-320", "https://web.senate.gov.ph/lisdata/1477772!.pdf",]
 title = "PARKING AND SEATING SPACES FOR EXPECTANT MOTHERS"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING CERTAIN BUILDINGS, INSTITUTIONS, ESTABLISHMENTS AND PUBLIC UTILITIES TO RESERVE SUFFICIENT AND SUITABLE PARKING OR SEATING SPACES FOR THE USE OF EXPECTANT MOTHERS"
@@ -15,6 +14,8 @@ subjects = [ "Expectant Mothers (Parking/Seating Space", "Pregnancy",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1477772!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-320"
 
 [[history]]
 date = "2004-06-30"

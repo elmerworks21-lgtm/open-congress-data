@@ -6,7 +6,6 @@ name = "SBN-01816"
 [meta]
 bill_number = 1816
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1816", "https://web.senate.gov.ph/lisdata/62695600!.pdf",]
 title = "LOCAL LEADERS PROFESSIONALIZATION AND EDUCATION ACT OF 2007"
 date_filed = "2007-11-06"
 long_title = "AN ACT PROFESSIONALIZING LOCAL PUBLIC SECTOR MANAGEMENT MANDATING ELECTED LOCAL CHIEF EXECUTIVES TO TAKE A TWO-WEEK INTENSIVE LEADERSHIP AND GOVERNANCE COURSE THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Leaders Professionalization",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/62695600!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1816"
 
 [[history]]
 date = "2007-11-06"

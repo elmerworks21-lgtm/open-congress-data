@@ -6,7 +6,6 @@ name = "SBN-00548"
 [meta]
 bill_number = 548
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-548", "https://web.senate.gov.ph/lisdata/3093127792!.pdf",]
 title = "PHILIPPINE MANGO DEVELOPMENT ACT"
 date_filed = "2019-07-16"
 long_title = "AN ACT TO PROMOTE THE PRODUCTION, PROCESSING, MARKETING AND DISTRIBUTION OF PHILIPPINE MANGOES PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Mango Industry",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3093127792!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-548"
 
 [[history]]
 date = "2019-07-16"

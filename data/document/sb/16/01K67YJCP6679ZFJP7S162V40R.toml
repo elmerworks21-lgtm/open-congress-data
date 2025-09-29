@@ -6,7 +6,6 @@ name = "SBN-00627"
 [meta]
 bill_number = 627
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-627", "https://web.senate.gov.ph/lisdata/1668413926!.pdf",]
 title = "GOVERNMENT INDEBTEDNESS CAP ACT OF 2013"
 date_filed = "2013-07-08"
 long_title = "AN ACT SETTING A CEILING TO THE INDEBTEDNESS OF THE REPUBLIC OF THE PHILIPPINES TO ENSURE MACRO-ECONOMIC STABILITY AND SUSTAINABLE GROWTH AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Indebtedness Cap",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1668413926!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-627"
 
 [[history]]
 date = "2013-07-08"

@@ -6,7 +6,6 @@ name = "SBN-00506"
 [meta]
 bill_number = 506
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-506", "https://web.senate.gov.ph/lisdata/3088927731!.pdf",]
 title = "THE PHILIPPINE HIGH SCHOOL FOR SPORTS (PHSS) ACT"
 date_filed = "2019-07-16"
 long_title = "AN ACT CREATING AND ESTABLISHING THE PHILIPPINE HIGH SCHOOL FOR SPORTS"
@@ -15,6 +14,8 @@ subjects = [ "Philippine High School for Sports (PHSS)",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3088927731!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-506"
 
 [[history]]
 date = "2019-07-16"

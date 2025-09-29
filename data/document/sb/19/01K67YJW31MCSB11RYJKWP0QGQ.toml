@@ -6,7 +6,6 @@ name = "SBN-01728"
 [meta]
 bill_number = 1728
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1728", "https://web.senate.gov.ph/lisdata/4043936847!.pdf",]
 title = "TELEMEDICINE ACT OF 2023"
 date_filed = "2023-01-23"
 long_title = "AN ACT INSTITUTIONALIZING A NATIONAL TELEMEDICINE SYSTEM IN THE PHILIPPINES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Telemedicine",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4043936847!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1728"
 
 [[history]]
 date = "2023-01-23"

@@ -6,7 +6,6 @@ name = "SBN-00002"
 [meta]
 bill_number = 2
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2", "https://web.senate.gov.ph/lisdata/3021827046!.pdf",]
 title = "ANTI-DRUG PENAL INSTITUTION ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT ESTABLISHING A DETENTION PROGRAM AND FACILITY FOR HIGH-LEVEL DRUG OFFENDERS WITHIN THE NATIONAL PENITENTIARY SYSTEM UNDER THE BUREAU OF CORRECTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Illegal Drugs", "Anti-Drug Penal Institution", "Bureau of Correcti
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3021827046!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2"
 
 [[history]]
 date = "2019-07-01"

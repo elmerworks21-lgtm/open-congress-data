@@ -6,7 +6,6 @@ name = "SBN-02262"
 [meta]
 bill_number = 2262
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2262", "https://web.senate.gov.ph/lisdata/53614443!.pdf",]
 title = "NATIONAL CHILDREN'S DAY ACT OF 2006"
 date_filed = "2006-06-06"
 long_title = "AN ACT DECLARING NOVEMBER 20 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY TO BE KNOWN AS NATIONAL CHILDREN'S DAY"
@@ -15,6 +14,8 @@ subjects = [ "Holiday: National Childrens Day (Nov. 20)",]
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53614443!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2262"
 
 [[history]]
 date = "2006-06-06"

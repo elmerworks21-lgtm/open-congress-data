@@ -6,7 +6,6 @@ name = "SBN-00030"
 [meta]
 bill_number = 30
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-30", "https://web.senate.gov.ph/lisdata/74056000!.pdf",]
 title = "NATIONAL TELECOMMUNICATIONS COMMISSION REORGANIZATION"
 date_filed = "2010-07-01"
 long_title = "AN ACT REORGANIZING THE NATIONAL TELECOMMUNICATIONS COMMISSION, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Telecommunications Commission (NTC)",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74056000!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-30"
 
 [[history]]
 date = "2010-07-01"

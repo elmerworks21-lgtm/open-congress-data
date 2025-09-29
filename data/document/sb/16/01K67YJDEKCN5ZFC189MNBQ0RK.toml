@@ -6,7 +6,6 @@ name = "SBN-01812"
 [meta]
 bill_number = 1812
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1812", "https://web.senate.gov.ph/lisdata/1801215245!.pdf",]
 title = "PROFESSIONAL BOXING SAFETY ACT"
 date_filed = "2013-10-03"
 long_title = "AN ACT PROVIDING FOR HEALTH AND WORK SAFETY STANDARDS FOR PROFESSIONAL BOXERS"
@@ -15,6 +14,8 @@ subjects = [ "Boxer Welfare",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1801215245!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1812"
 
 [[history]]
 date = "2013-10-03"

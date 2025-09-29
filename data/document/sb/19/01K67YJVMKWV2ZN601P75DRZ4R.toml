@@ -6,7 +6,6 @@ name = "SBN-01109"
 [meta]
 bill_number = 1109
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1109", "https://web.senate.gov.ph/lisdata/3908635527!.pdf",]
 title = "SCIENCE FOR CHANGE PROGRAM (S4CP) ACT OF 2022"
 date_filed = "2022-08-08"
 long_title = "AN ACT ADVANCING SCIENCE, TECHNOLOGY AND INNOVATION THROUGH A HARMONIZED NATIONAL RESEARCH AND DEVELOPMENT AGENDA AND MANDATORY ADOPTION OF PUBLICLY FUNDED AND GENERATED TECHNOLOGIES IN ALL GOVERNMENT ENTITIES, THEREBY ESTABLISHING THE SCIENCE FOR CHANGE PROGRAM (S4CP)"
@@ -15,6 +14,8 @@ subjects = [ "Science for Change Program",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3908635527!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1109"
 
 [[history]]
 date = "2022-08-08"

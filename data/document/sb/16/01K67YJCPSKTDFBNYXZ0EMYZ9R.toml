@@ -6,7 +6,6 @@ name = "SBN-00656"
 [meta]
 bill_number = 656
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-656", "https://web.senate.gov.ph/lisdata/1659013829!.pdf",]
 title = "FREE MEDICINE FOR THE POOR ACT OF 2013"
 date_filed = "2013-07-08"
 long_title = "AN ACT ESTABLISHING A FREE MEDICINE ASSISTANCE PROGRAM FOR THE POOR AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Free Medicine Assistance Program",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1659013829!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-656"
 
 [[history]]
 date = "2013-07-08"

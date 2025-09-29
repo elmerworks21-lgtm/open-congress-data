@@ -6,7 +6,6 @@ name = "SBN-02532"
 [meta]
 bill_number = 2532
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2532", "https://web.senate.gov.ph/lisdata/4341439495!.pdf",]
 title = "PHILIPPINE CITIZENSHIP TO LUIS FABREGAS KHO"
 date_filed = "2024-02-06"
 long_title = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO LUIS FABREGAS KHO"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Citizenship",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4341439495!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2532"
 
 [[history]]
 date = "2024-02-06"

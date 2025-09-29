@@ -6,7 +6,6 @@ name = "SBN-00360"
 [meta]
 bill_number = 360
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-360", "https://web.senate.gov.ph/lisdata/3065027504!.pdf",]
 title = "SHARK CONSERVATION ACT OF THE PHILIPPINES"
 date_filed = "2019-07-11"
 long_title = "AN ACT REGULATING THE CATCHING, SALE, PURCHASE, POSSESSION, TRANSPORTATION, IMPORTATION, AND EXPORTATION OF ALL SHARKS, RAYS, AND CHIMAERAS AND ANY PART THEREOF IN THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Sharks", "Rays",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3065027504!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-360"
 
 [[history]]
 date = "2019-07-11"

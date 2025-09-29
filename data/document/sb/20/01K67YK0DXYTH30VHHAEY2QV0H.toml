@@ -6,7 +6,6 @@ name = "SBN-01065"
 [meta]
 bill_number = 1065
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1065", "https://web.senate.gov.ph/lisdata/4798544007!.pdf",]
 title = "HEALTHCARE FACILITY AUGMENTATION ACT"
 date_filed = "2025-08-06"
 long_title = "AN ACT ESTABLISHING A HOSPITAL IN STATE COLLEGES AND UNIVERSITIES OFFERING MEDICAL DEGREES NATIONWIDE, AND PROVIDING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Health Care", "Health Facilities", "Hospitals", "State Universities and Colleges (SUCS)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4798544007!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1065"
 
 [[history]]
 date = "2025-08-06"

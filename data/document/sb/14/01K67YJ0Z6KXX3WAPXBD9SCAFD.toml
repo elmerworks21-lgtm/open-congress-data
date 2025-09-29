@@ -6,7 +6,6 @@ name = "SBN-00347"
 [meta]
 bill_number = 347
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-347", "https://web.senate.gov.ph/lisdata/44513850!.pdf",]
 title = "ANTI-CABLE TELEVISION INTERNET THEFT OF SIGNAL SERVICE ACT (CATV)"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROHIBITING AND PENALIZING THE UNAUTHORIZED USE, EXPLOITATION, INTER-CONNECTION WITH, OR RECEPTION OF ANY SIGNAL OR SERVICE OF EXISTING CABLE TELEVISION (CATV) OR CABLE INTERNET SYSTEM NETWORK AND PRESCRIBING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Cable Television", "Internet Theft of Signal Service",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44513850!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-347"
 
 [[history]]
 date = "2007-07-02"

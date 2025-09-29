@@ -6,7 +6,6 @@ name = "SBN-00247"
 [meta]
 bill_number = 247
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-247", "https://web.senate.gov.ph/lisdata/43473743!.pdf",]
 title = "RETIREMENT BENEFITS FOR PUNONG BARANGAY AND SANGGUNIANG BARANGAY"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROVIDING RETIREMENT BENEFITS FOR THE PUNONG BARANGAY AND THE MEMBERS OF THE SANGGUNIANG BARANGAY WHO HAVE SERVED THREE CONSECUTIVE TERMS AS SUCH OFFICIALS"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Captain/Punong Barangay/Sangguniang Barangay", "Retiremen
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43473743!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-247"
 
 [[history]]
 date = "2007-06-30"

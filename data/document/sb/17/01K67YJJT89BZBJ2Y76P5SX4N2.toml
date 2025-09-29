@@ -6,7 +6,6 @@ name = "SBN-02178"
 [meta]
 bill_number = 2178
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2178", "https://web.senate.gov.ph/lisdata/2942826074!.pdf",]
 title = "SIARGAO ISLAND MEDICAL CENTER ACT OF 2019"
 date_filed = "2019-01-28"
 long_title = "AN ACT CONVERTING THE SIARGAO DISTRICT HOSPITAL IN THE PROVINCE OF SURIGAO DEL NORTE INTO A LEVEL 3 GENERAL HOSPITAL TO BE KNOWN AS THE SIARGAO ISLAND MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Conversion",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2942826074!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2178"
 
 [[history]]
 date = "2019-01-28"

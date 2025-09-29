@@ -6,7 +6,6 @@ name = "SBN-00186"
 [meta]
 bill_number = 186
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-186", "https://web.senate.gov.ph/lisdata/42863673!.pdf",]
 title = "PHILIPPINE COAST GUARD LAW OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT TRANSFERRING THE PHILIPPINE COAST GUARD TO THE DEPARTMENT OF NATIONAL DEFENSE AS A SEPARATE AND DISTINCT SERVICE UNDER THE PHILIPPINE NAVY, FURTHER AMENDING REPUBLIC ACT NO. 5173, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Coast Guard", "Department of National Defense (DND)", "
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42863673!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-186"
 
 [[history]]
 date = "2007-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00338"
 [meta]
 bill_number = 338
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-338", "https://web.senate.gov.ph/lisdata/2377720439!.pdf",]
 title = "CNSP BIRTH REGISTRATION ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT FURTHER STRENGTHENING THE SYSTEM OF BIRTH REGISTRATION OF CHILDREN IN NEED OF SPECIAL PROTECTION (CNSP) IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Children with Special Needs", "Birth Registration",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2377720439!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-338"
 
 [[history]]
 date = "2016-07-04"

@@ -6,7 +6,6 @@ name = "SBN-02251"
 [meta]
 bill_number = 2251
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2251", "https://web.senate.gov.ph/lisdata/4184538118!.pdf",]
 title = "THE PEOPLES BUDGET ACT OF 2023"
 date_filed = "2023-05-25"
 long_title = "AN ACT FURTHER ENHANCING PUBLIC PARTICIPATION, TRANSPARENCY AND ACCESSIBILITY TO THE NATIONAL BUDGET, THEREBY INSTITUTIONALIZING THE PUBLICATION OF THE PEOPLES BUDGET"
@@ -15,6 +14,8 @@ subjects = [ "Peoples Participation", "National Budget",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4184538118!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2251"
 
 [[history]]
 date = "2023-05-25"

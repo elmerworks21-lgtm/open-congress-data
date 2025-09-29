@@ -6,7 +6,6 @@ name = "SBN-00115"
 [meta]
 bill_number = 115
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-115", "https://web.senate.gov.ph/lisdata/3035527213!.pdf",]
 title = "INCREASING THE MONTHLY MINIMUM WAGE OF PUBLIC SCHOOL TEACHERS"
 date_filed = "2019-07-01"
 long_title = "AN ACT INCREASING THE MONTHLY MINIMUM WAGE OF PUBLIC SCHOOL TEACHERS TO TWENTY EIGHT THOUSAND PESOS (P28,000.00) AND NON-TEACHING PERSONNEL TO SIXTEEN THOUSAND PESOS (P16,000.00)"
@@ -15,6 +14,8 @@ subjects = [ "Public School Teachers", "Wage Increase/Salary Increase",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3035527213!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-115"
 
 [[history]]
 date = "2019-07-01"

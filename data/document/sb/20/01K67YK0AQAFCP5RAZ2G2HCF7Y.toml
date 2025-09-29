@@ -6,7 +6,6 @@ name = "SBN-00897"
 [meta]
 bill_number = 897
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-897", "https://web.senate.gov.ph/lisdata/4749943503!.pdf",]
 title = "AMENDING R.A. NO. 11697 (ELECTRIC VEHICLE INDUSTRY DEVELOPMENT ACT)"
 date_filed = "2025-08-05"
 long_title = "AN ACT PROVIDING FOR THE TAX AND DUTY TREATMENT OF ELECTRIC VEHICLES, AMENDING OR THE PURPOSE REPUBLIC ACT NO. 11697, OTHERWISE KNOWN AS THE 'ELECTRIC VEHICLE INDUSTRY DEVELOPMENT ACT'"
@@ -15,6 +14,8 @@ subjects = [ "Electric Vehicles Industry Development (EVID)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4749943503!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-897"
 
 [[history]]
 date = "2025-08-05"

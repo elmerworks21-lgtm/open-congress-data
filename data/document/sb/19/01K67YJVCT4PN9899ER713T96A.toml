@@ -6,7 +6,6 @@ name = "SBN-00770"
 [meta]
 bill_number = 770
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-770", "https://web.senate.gov.ph/lisdata/3856135015!.pdf",]
 title = "AMENDING R.A. NO. 11223 (THE UNIVERSAL HEALTH CARE ACT)"
 date_filed = "2022-07-19"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNIVERSAL HEALTH CARE ACT"
@@ -15,6 +14,8 @@ subjects = [ "Universal Health Care", "Health Services",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3856135015!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-770"
 
 [[history]]
 date = "2022-07-19"

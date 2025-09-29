@@ -6,7 +6,6 @@ name = "SBN-00567"
 [meta]
 bill_number = 567
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-567", "https://web.senate.gov.ph/lisdata/17221080!.pdf",]
 title = "21ST CENTURY COMMUNITY LEARNING CENTERS ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO DEVELOP AN EDUCATION STRATEGY THAT ADDRESSES THE EDUCATIONAL NEEDS OF ALL MEMBERS OF LOCAL COMMUNITIES"
@@ -15,6 +14,8 @@ subjects = [ "21st Century Community Learning Centers", "Schools (Community Lear
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/17221080!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-567"
 
 [[history]]
 date = "2004-06-30"

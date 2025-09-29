@@ -6,7 +6,6 @@ name = "SBN-03099"
 [meta]
 bill_number = 3099
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3099", "https://web.senate.gov.ph/lisdata/104059276!.pdf",]
 title = "ANTI-TRUST ACT OF THE PHILIPPINES"
 date_filed = "2009-02-24"
 long_title = "AN ACT PROHIBITING ANTI-COMPETITIVE PRACTICES AND CREATING THE COMPETITION REGULATORY COMMISSION"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Trust", "Monopoly/Monopolies",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/104059276!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3099"
 
 [[history]]
 date = "2009-02-24"

@@ -6,7 +6,6 @@ name = "SBN-02347"
 [meta]
 bill_number = 2347
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2347", "https://web.senate.gov.ph/lisdata/54914533!.pdf",]
 title = "HUMAN RIGHTS RESOURCE CENTER ACT OF 2006"
 date_filed = "2006-06-07"
 long_title = "AN ACT TO STRENGTHEN PHILIPPINE COMMITMENT TO HUMAN RIGHTS PROMOTION AND PROTECTION BY ESTABLISHING HUMAN RIGHTS RESOURCE CENTERS THROUGHOUT THE COUNTRY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Human Rights Resource Center",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54914533!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2347"
 
 [[history]]
 date = "2006-06-07"

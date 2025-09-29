@@ -6,7 +6,6 @@ name = "SBN-01920"
 [meta]
 bill_number = 1920
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1920", "https://web.senate.gov.ph/lisdata/1824215440!.pdf",]
 title = "CONSUMER PRIVACY IN COMMERCIAL TRANSACTIONS ACT"
 date_filed = "2013-11-14"
 long_title = "AN ACT PROTECTING CONSUMER PRIVACY IN CREDIT CARD AND CHECK TRANSACTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card", "Privacy",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1824215440!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1920"
 
 [[history]]
 date = "2013-11-14"

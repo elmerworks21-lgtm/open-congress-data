@@ -6,7 +6,6 @@ name = "SBN-01142"
 [meta]
 bill_number = 1142
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1142", "https://web.senate.gov.ph/lisdata/3912935567!.pdf",]
 title = "LIFEGUARD ACT OF 2022"
 date_filed = "2022-08-15"
 long_title = "AN ACT REQUIRING FOR THE EMPLOYMENT OF QUALIFIED LIFEGUARDS IN ALL PUBLIC SWIMMING POOLS AND BATHING FACILITIES, AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Lifeguard", "Swimming Pools/Bathing Facilities",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3912935567!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1142"
 
 [[history]]
 date = "2022-08-15"

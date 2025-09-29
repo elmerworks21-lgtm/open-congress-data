@@ -6,7 +6,6 @@ name = "SBN-02485"
 [meta]
 bill_number = 2485
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2485", "https://web.senate.gov.ph/lisdata/61515113!.pdf",]
 title = "LAND RESOURCE ADMINISTRATION REFORM ACT OF 2006"
 date_filed = "2006-10-10"
 long_title = "AN ACT INSTITUTING REFORMS IN LAND RESOURCE ADMINISTRATION"
@@ -15,6 +14,8 @@ subjects = [ "Land Resource Administration Reform",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/61515113!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2485"
 
 [[history]]
 date = "2006-10-10"

@@ -6,7 +6,6 @@ name = "SBN-00743"
 [meta]
 bill_number = 743
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-743", "https://web.senate.gov.ph/lisdata/49654349!.pdf",]
 title = "SAFE ACCESS IN FIRE EMERGENCIES ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT TO PROVIDE FOR SAFE ACCESS IN FIRE EMERGENCIES"
@@ -15,6 +14,8 @@ subjects = [ "Safe Access in Fire Emergencies",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49654349!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-743"
 
 [[history]]
 date = "2007-07-03"

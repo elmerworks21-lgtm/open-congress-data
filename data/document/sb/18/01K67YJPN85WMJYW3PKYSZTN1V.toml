@@ -6,7 +6,6 @@ name = "SBN-00401"
 [meta]
 bill_number = 401
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-401", "https://web.senate.gov.ph/lisdata/3071027582!.pdf",]
 title = "WASTE TO ENERGY ACT OF 2019"
 date_filed = "2019-07-11"
 long_title = "AN ACT ALLOWING THE USE OF WASTE TO ENERGY TECHNOLOGY IN ELECTRICITY, FUEL AND HEAT GENERATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Waste-To-Energy Technologies", "Waste Management", "Energy", "Elec
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3071027582!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-401"
 
 [[history]]
 date = "2019-07-11"

@@ -6,7 +6,6 @@ name = "SBN-00972"
 [meta]
 bill_number = 972
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-972", "https://web.senate.gov.ph/lisdata/21761703!.pdf",]
 title = "RAPE VICTIM ASSISTANCE AND PROTECTION ACT, AMENDMENTS"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8505, OTHERWISE KNOWN AS THE RAPE VICTIM ASSISTANCE AND PROTECTION ACT 0F 1998"
@@ -15,6 +14,8 @@ subjects = [ "Rape Victim Assistance", "RA 8505",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21761703!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-972"
 
 [[history]]
 date = "2004-06-30"

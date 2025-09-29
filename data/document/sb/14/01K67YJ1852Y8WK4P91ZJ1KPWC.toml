@@ -6,7 +6,6 @@ name = "SBN-00789"
 [meta]
 bill_number = 789
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-789", "https://web.senate.gov.ph/lisdata/50134406!.pdf",]
 title = "SCHOOL HEALTH"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE SCHOOL HEALTH AND NUTRITION PROGRAM (SHNP) OF THE DEPARTMENT OF EDUCATION, AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "School Nutrition and Balanced Diet",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50134406!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-789"
 
 [[history]]
 date = "2007-07-03"

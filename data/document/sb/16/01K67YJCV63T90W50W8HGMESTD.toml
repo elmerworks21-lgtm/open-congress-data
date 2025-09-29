@@ -6,7 +6,6 @@ name = "SBN-00876"
 [meta]
 bill_number = 876
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-876", "https://web.senate.gov.ph/lisdata/1689014126!.pdf",]
 title = "FOREIGN BORROWING ACT"
 date_filed = "2013-07-17"
 long_title = "AN ACT RESTORING TO CONGRESS THE POWER TO APPROPRIATE PAYMENTS ON DEBT SERVICE, REVIVING FOR THE PURPOSE SECTION 6 OF REPUBLIC ACT NO. 4860 (FOREIGN BORROWING ACT), AND REPEALING SECTION 7 OF PRESIDENTIAL DECREE NO. 81, SECTION 31 OF PRESIDENTIAL DECREE NO. 1177 AND SECTIONS 1, 2 AND 3 OF PRESIDENTIAL DECREE NO. 1967"
@@ -15,6 +14,8 @@ subjects = [ "Debt Service", "Foreign Borrowing Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1689014126!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-876"
 
 [[history]]
 date = "2013-07-17"

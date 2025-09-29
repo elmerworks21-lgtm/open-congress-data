@@ -6,7 +6,6 @@ name = "SBN-02937"
 [meta]
 bill_number = 2937
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2937", "https://web.senate.gov.ph/lisdata/1201510144!.pdf",]
 title = "HOLIDAY: GUIMARAS ISLAND DAY"
 date_filed = "2011-08-15"
 long_title = "AN ACT DECLARING MAY 22 OF EVERY YEAR AS A SPECIAL NON-WORKING HOLIDAY IN THE PROVINCE OF GUIMARAS TO COMMEMORATE ITS ANNIVERSARY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Non-Working)",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1201510144!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2937"
 
 [[history]]
 date = "2011-08-15"

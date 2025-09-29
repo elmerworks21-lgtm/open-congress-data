@@ -6,7 +6,6 @@ name = "SBN-00052"
 [meta]
 bill_number = 52
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-52", "https://web.senate.gov.ph/lisdata/4652642530!.pdf",]
 title = "AMENDING PHILIPPINE TEACHERS PROFESSIONALIZATION ACT OF 1994 (CREATION AND COMPOSITION OF THE BOARD)"
 date_filed = "2025-07-02"
 long_title = "AN ACT FURTHER AMENDING REPUBLIC ACT NO. 7836, OTHERWISE KNOWN AS THE 'PHILIPPINE TEACHERS ROFESSIONALIZATION ACT OF 1994', AS AMENDED BY REPUBLIC ACT NO. 9293"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Teachers Professionalization",]
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4652642530!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-52"
 
 [[history]]
 date = "2025-07-02"

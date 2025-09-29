@@ -6,7 +6,6 @@ name = "SBN-00107"
 [meta]
 bill_number = 107
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-107", "https://web.senate.gov.ph/lisdata/2352320141!.pdf",]
 title = "ESTATE TAX REPEAL ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT REPEALING THE ESTATE TAX UNDER REPUBLIC ACT NO. 8424, OR THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Estate Tax)",]
 authors_raw = "Gordon, Richard J., Legarda, Loren B."
 author_codes = ["GRICH", "LLORE"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2352320141!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-107"
 
 [[history]]
 date = "2016-06-30"

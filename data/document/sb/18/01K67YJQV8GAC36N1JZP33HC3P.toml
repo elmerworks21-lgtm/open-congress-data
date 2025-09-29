@@ -6,7 +6,6 @@ name = "SBN-02052"
 [meta]
 bill_number = 2052
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2052", "https://web.senate.gov.ph/lisdata/3452331330!.pdf",]
 title = "POLE ATTACHMENTS ACT"
 date_filed = "2021-02-15"
 long_title = "AN ACT REGULATING POLES, POLE ATTACHMENTS AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Pole", "Pole Attachments",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3452331330!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2052"
 
 [[history]]
 date = "2021-02-15"

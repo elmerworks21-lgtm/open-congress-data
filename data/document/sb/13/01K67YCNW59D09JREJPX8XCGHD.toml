@@ -6,7 +6,6 @@ name = "SBN-00915"
 [meta]
 bill_number = 915
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-915", "https://web.senate.gov.ph/lisdata/21171606!.pdf",]
 title = "FOUNDATION FOR THE ENCOURAGEMENT OF GIFTED CHILDREN & YOUTH"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING A PUBLIC CORPORATION TO BE KNOWN AS THE FOUNDATION FOR THE ENCOURAGEMENT OF GIFTED AND TALENTED CHILDREN AND YOUTH, AND TO DEFINE ITS POWERS AND PURPOSES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Foundation for Encouragement (Youth)", "Children and Youth (Gifted
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21171606!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-915"
 
 [[history]]
 date = "2004-06-30"

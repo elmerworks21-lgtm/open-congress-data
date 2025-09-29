@@ -6,7 +6,6 @@ name = "SBN-00950"
 [meta]
 bill_number = 950
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-950", "https://web.senate.gov.ph/lisdata/3134428241!.pdf",]
 title = "FALSE BOMB THREAT PROHIBITION ACT"
 date_filed = "2019-08-20"
 long_title = "AN ACT PENALIZING THE DISSEMINATION OF FALSE INFORMATION AS TO THE PRESENCE OF BOMBS, EXPLOSIVES AND OTHER INCENDIARY DEVICES IN HIGH DENSITY OR SENSITIVE PLACES AND PROVIDING PENALTIES THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "False Bomb Threat", "Bombs, Explosives and Other Incendiary Devices", "Fake News",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3134428241!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-950"
 
 [[history]]
 date = "2019-08-20"

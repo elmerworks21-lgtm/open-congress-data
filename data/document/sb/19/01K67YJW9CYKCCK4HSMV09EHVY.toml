@@ -6,7 +6,6 @@ name = "SBN-02002"
 [meta]
 bill_number = 2002
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2002", "https://web.senate.gov.ph/lisdata/4116837505!.pdf",]
 title = "ACCROSS THE BOARD WAGE INCREASE ACT OF 2023"
 date_filed = "2023-03-14"
 long_title = "AN ACT PROVIDING FOR A 150 PESOS DAILY ACROSS-THE-BOARD INCREASE IN THE SALARY RATES OF EMPLOYEES AND WORKERS IN THE PRIVATE SECTOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Wage Increase/Salary Increase", "Private Sector",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Legarda, Loren B., Binay, Maria Lourdes Nancy S., Go, Christopher Lawrence T."
 author_codes = ["BMARI", "GCHRI", "LLORE", "ZJMIG"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4116837505!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2002"
 
 [[history]]
 date = "2023-03-14"

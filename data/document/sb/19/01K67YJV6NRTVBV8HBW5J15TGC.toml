@@ -6,7 +6,6 @@ name = "SBN-00485"
 [meta]
 bill_number = 485
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-485", "https://web.senate.gov.ph/lisdata/3824634683!.pdf",]
 title = "AMENDING RENEWABLE ENERGY ACT OF 2008 (NET METERING PROGRAM)"
 date_filed = "2022-07-13"
 long_title = "AN ACT ENHANCING THE IMPLEMENTATION OF THE NET-METERING PROGRAM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9513, OTHERWISE KNOWN AS THE RENEWABLE ENERGY ACT OF 2008"
@@ -15,6 +14,8 @@ subjects = [ "Net-Metering Program", "Renewable Energy",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3824634683!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-485"
 
 [[history]]
 date = "2022-07-13"

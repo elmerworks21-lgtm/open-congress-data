@@ -6,7 +6,6 @@ name = "SBN-00999"
 [meta]
 bill_number = 999
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-999", "https://web.senate.gov.ph/lisdata/1706714282!.pdf",]
 title = "MAGNA CARTA FOR GOVERNMENT ACCOUNTANTS"
 date_filed = "2013-07-22"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF GOVERNMENT ACCOUNTANTS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Government Accountants",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1706714282!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-999"
 
 [[history]]
 date = "2013-07-22"

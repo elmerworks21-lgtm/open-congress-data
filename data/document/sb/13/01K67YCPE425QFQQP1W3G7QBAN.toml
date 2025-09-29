@@ -6,7 +6,6 @@ name = "SBN-01868"
 [meta]
 bill_number = 1868
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1868", "https://web.senate.gov.ph/lisdata/31152317!.pdf",]
 title = "GANG PREVENTION AND EFFECTIVE DETERRENCE ACT OF 2004"
 date_filed = "2004-12-01"
 long_title = "AN ACT DETERRING AND PUNISHING ESTABLISHMENT AND OPERATION OF CRIMINAL STREET GANGS, RECRUITMENT OF INDIVIDUALS TO PARTICIPATE THEREIN, COMMISSION OF VIOLENT GANG CRIMES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Gang Prevention and Effective Deterrence", "Criminal Street Gang",
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31152317!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1868"
 
 [[history]]
 date = "2004-12-01"

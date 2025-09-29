@@ -6,7 +6,6 @@ name = "SBN-01163"
 [meta]
 bill_number = 1163
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1163", "https://web.senate.gov.ph/lisdata/3917935617!.pdf",]
 title = "CENTER FOR DISEASE CONTROL AND PREVENTION ACT"
 date_filed = "2022-08-15"
 long_title = "AN ACT ESTABLISHING A CENTER FOR DISEASE CONTROL AND PREVENTION, PROVIDING MECHANISMS FOR EPIDEMIC CONTROL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine Center for Disease Control and Prevention",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EJOSE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3917935617!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1163"
 
 [[history]]
 date = "2022-08-15"

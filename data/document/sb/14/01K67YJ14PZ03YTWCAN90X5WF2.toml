@@ -6,7 +6,6 @@ name = "SBN-00615"
 [meta]
 bill_number = 615
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-615", "https://web.senate.gov.ph/lisdata/48264201!.pdf",]
 title = "ANTI-SMUGGLING ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 1464, OTHERWISE KNOWN AS THE TARIFF AND CUSTOMS CODE OF THE PHILIPPINES, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Smuggling", "Tariff and Customs Code (Pd 1464)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48264201!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-615"
 
 [[history]]
 date = "2007-07-03"

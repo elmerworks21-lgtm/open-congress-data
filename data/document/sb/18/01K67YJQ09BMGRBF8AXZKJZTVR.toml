@@ -6,7 +6,6 @@ name = "SBN-00916"
 [meta]
 bill_number = 916
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-916", "https://web.senate.gov.ph/lisdata/3130528202!.pdf",]
 title = "PILOTAGE ACT OF 2019"
 date_filed = "2019-08-15"
 long_title = "AN ACT REGULATING HARBOR PILOTAGE SERVICES AND THE CONDUCT OF HARBOR PILOTS IN ALL PORTS IN THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Harbor Pilotage Services",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3130528202!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-916"
 
 [[history]]
 date = "2019-08-15"

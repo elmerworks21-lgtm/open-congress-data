@@ -6,7 +6,6 @@ name = "SBN-02928"
 [meta]
 bill_number = 2928
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2928", "https://web.senate.gov.ph/lisdata/4573141697!.pdf",]
 title = "PHILIPPINE GENERAL HOSPITAL (INCREASING THE BED CAPACITY)"
 date_filed = "2025-01-22"
 long_title = "AN ACT INCREASING THE BED CAPACITY OF THE PHILIPPINE GENERAL HOSPITAL FROM ONE THOUSAND THREE HUNDRED THRITY-FOUR (1,334) TO TWO THOUSAND TWO HUNDRED (2,200) BEDS, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Hospitals, Increase Bed Capacity", "Philippine General Hospital (PGH)",]
 authors_raw = "Angara, Sonny, Go, Christopher Lawrence T., Estrada, Jinggoy E., Cayetano, Pia S., Villanueva, Joel"
 author_codes = ["ASONN", "CPIAS", "EJING", "GCHRI", "VEMMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4573141697!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2928"
 
 [[history]]
 date = "2025-01-22"

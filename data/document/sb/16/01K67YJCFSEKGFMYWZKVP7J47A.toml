@@ -6,7 +6,6 @@ name = "SBN-00317"
 [meta]
 bill_number = 317
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-317", "https://web.senate.gov.ph/lisdata/1614913376!.pdf",]
 title = "PAWNBROKING REGULATION ACT"
 date_filed = "2013-07-02"
 long_title = "AN ACT REGULATING PAWNSHOP ESTABLISHMENTS AND OPERATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Pawnshops",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1614913376!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-317"
 
 [[history]]
 date = "2013-07-02"

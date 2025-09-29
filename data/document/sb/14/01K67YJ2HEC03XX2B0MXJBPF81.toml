@@ -6,7 +6,6 @@ name = "SBN-02389"
 [meta]
 bill_number = 2389
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2389", "https://web.senate.gov.ph/lisdata/76516892!.pdf",]
 title = "CARE FOR THE ELDERLY AND THE DISABLED ACT OF 2008"
 date_filed = "2008-06-10"
 long_title = "AN ACT DEFINING AND PENALIZING THE CRIME OF CRIMINAL NEGLECT OF A VULNERABLE ELDERLY PERSON OR A PERSON WITH DISABILITY"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens", "Differently Abled/Disabled/Handicapped/Disadvan
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76516892!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2389"
 
 [[history]]
 date = "2008-06-10"

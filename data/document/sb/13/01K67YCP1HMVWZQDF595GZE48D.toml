@@ -6,7 +6,6 @@ name = "SBN-01197"
 [meta]
 bill_number = 1197
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1197", "https://web.senate.gov.ph/lisdata/24101777!.pdf",]
 title = "ADDITIONAL PERSONAL EXEMPTIONS OF INDIVIDUAL TAXPAYERS"
 date_filed = "2004-07-01"
 long_title = "AN ACT INCREASING THE ALLOWABLE PERSONAL AND ADDITIONAL EXEMPTIONS OF INDIVIDUAL TAXPAYERS, AMENDING FOR THE PURPOSE SECTION 35 (A) AND (B) OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Personal Exemption (Individual Taxpayers", "National Internal Reve
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24101777!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1197"
 
 [[history]]
 date = "2004-07-01"

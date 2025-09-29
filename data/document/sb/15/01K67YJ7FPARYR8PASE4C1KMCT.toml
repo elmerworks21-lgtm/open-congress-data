@@ -6,7 +6,6 @@ name = "SBN-00407"
 [meta]
 bill_number = 407
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-407", "https://web.senate.gov.ph/lisdata/77866659!.pdf",]
 title = "NATIONAL ASTHMA PROGRAM ACT"
 date_filed = "2010-07-06"
 long_title = "AN ACT CREATING A NATIONAL ASTHMA EDUCATION AND PREVENTION PROGRAM AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Asthma",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/77866659!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-407"
 
 [[history]]
 date = "2010-07-06"

@@ -6,7 +6,6 @@ name = "SBN-00831"
 [meta]
 bill_number = 831
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-831", "https://web.senate.gov.ph/lisdata/1680914046!.pdf",]
 title = "PRIVATE LAND FORESTRY AND INCENTIVE ACT"
 date_filed = "2013-07-16"
 long_title = "AN ACT INSTITUTIONALIZING PRIVATE LAND FORESTRY TO ENHANCE REFORESTATION AND ENVIRONMENTAL PROTECTION AND PROVIDING INCENTIVES THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Private Land Forestry", "Environmental Protection",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1680914046!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-831"
 
 [[history]]
 date = "2013-07-16"

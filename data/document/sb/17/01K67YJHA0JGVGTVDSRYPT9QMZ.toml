@@ -6,7 +6,6 @@ name = "SBN-00236"
 [meta]
 bill_number = 236
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-236", "https://web.senate.gov.ph/lisdata/2367520315!.pdf",]
 title = "FIVE MILLION PESOS CONDONATION OF AGRICULTURAL LOANS"
 date_filed = "2016-07-04"
 long_title = "AN ACT TO INCREASE TO FIVE MILLION PESOS THE APPROVING AUTHORITY OF THE COMMISSION ON AUDIT TO RESTRUCTURE OR CONDONE THE UNPAID INTERESTS, PENALTIES AND/OR SURCHARGES ON AGRICULTURAL LOANS OF FARMERS AND FISHERFOLKS"
@@ -15,6 +14,8 @@ subjects = [ "Commission on Audit (COA)", "Farmers", "Condonation",]
 authors_raw = "Honasan II, Gregorio B."
 author_codes = ["HGREG"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2367520315!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-236"
 
 [[history]]
 date = "2016-07-04"

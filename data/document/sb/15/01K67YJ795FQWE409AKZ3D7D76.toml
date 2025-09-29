@@ -6,7 +6,6 @@ name = "SBN-00094"
 [meta]
 bill_number = 94
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-94", "https://web.senate.gov.ph/lisdata/75606101!.pdf",]
 title = "ANTI-COMMERCIALIZATION OF HUMAN ORGANS, TISSUES OR PARTS OF LIVING PERSONS ACT"
 date_filed = "2010-07-01"
 long_title = "AN ACT PROHIBITING THE COMMERCIALIZATION OF HUMAN ORGANS, TISSUES OR PARTS OF LIVING PERSONS, PROVIDING PENALTIES FOR ITS VIOLATIONS, AND ESTABLISHING A PHILIPPINE BOARD OF ORGAN DONATION AND TRANSPLANTATION AND A NATIONAL TRANSPLANT AND ETHICS COMMITTEE"
@@ -15,6 +14,8 @@ subjects = [ "Human Organs",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75606101!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-94"
 
 [[history]]
 date = "2010-07-01"

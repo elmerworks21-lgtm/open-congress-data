@@ -6,7 +6,6 @@ name = "SBN-00166"
 [meta]
 bill_number = 166
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-166", "https://web.senate.gov.ph/lisdata/4664342648!.pdf",]
 title = "LOW CARBON ECONOMY ACT"
 date_filed = "2025-07-07"
 long_title = "AN ACT PROMOTING A LOW CARBON ECONOMY, ESTABLISHING FOR THIS PURPOSE AN EMISSIONS TRADING SYSTEM AND IMPLEMENTATION MECHANISM TO ACHIEVE NATIONAL CLIMATE TARGETS"
@@ -15,6 +14,8 @@ subjects = [ "Low Carbon Economy", "Greenhouse Gas Emission",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4664342648!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-166"
 
 [[history]]
 date = "2025-07-07"

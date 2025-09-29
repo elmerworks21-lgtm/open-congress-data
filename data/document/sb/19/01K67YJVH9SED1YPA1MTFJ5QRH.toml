@@ -6,7 +6,6 @@ name = "SBN-00960"
 [meta]
 bill_number = 960
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-960", "https://web.senate.gov.ph/lisdata/3877035223!.pdf",]
 title = "ABOT ALAM ACT OF 2022"
 date_filed = "2022-08-01"
 long_title = "AN ACT INSTITUTIONALIZING THE 'ABOT ALAM' PROGRAM OF THE DEPARTMENT OF EDUCATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Abot Alam Program", "Out-Of-School Youth", "Adult Education Progra
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3877035223!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-960"
 
 [[history]]
 date = "2022-08-01"

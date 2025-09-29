@@ -6,7 +6,6 @@ name = "SBN-01746"
 [meta]
 bill_number = 1746
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1746", "https://web.senate.gov.ph/lisdata/29592530!.pdf",]
 title = "PENALIZING OBSTRUCTION OF APPREHENSION OF CRIMINAL OFFENDER"
 date_filed = "2004-09-01"
 long_title = "AN ACT AMENDING SECTION 1 OF PRESIDENTIAL DECREE NO. 1829 PENALIZING OBSTRUCTION OF APPREHENSION AND PROSECUTION OF CRIMINAL OFFENDERS"
@@ -15,6 +14,8 @@ subjects = [ "Criminal Offenders (Apprehension)", "P.D. 1829 (Section 1)",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/29592530!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1746"
 
 [[history]]
 date = "2004-09-01"

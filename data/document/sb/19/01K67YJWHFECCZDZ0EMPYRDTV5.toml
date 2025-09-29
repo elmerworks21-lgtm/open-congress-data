@@ -6,7 +6,6 @@ name = "SBN-02336"
 [meta]
 bill_number = 2336
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2336", "https://web.senate.gov.ph/lisdata/4219238378!.pdf",]
 title = "ALLERGEN DISCLOSURE IN FOOD PRODUCTS"
 date_filed = "2023-07-20"
 long_title = "AN ACT REQUIRING ALL FOOD SERVICE ESTABLISHMENTS TO DISCLOSE POTENTIAL ALLERGENS IN THEIR FOOD PRODUCTS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Food Establishments", "Food Allergy/Anaphylaxis",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4219238378!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2336"
 
 [[history]]
 date = "2023-07-20"

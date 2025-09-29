@@ -6,7 +6,6 @@ name = "SBN-01827"
 [meta]
 bill_number = 1827
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1827", "https://web.senate.gov.ph/lisdata/3351530342!.pdf",]
 title = "EHEALTH SYSTEM AND SERVICES ACT"
 date_filed = "2020-09-14"
 long_title = "AN ACT ESTABLISHING THE ELECTRONIC HEALTH OR EHEALTH SYSTEM AND SERVICES IN SUPPORT OF UNIVERSAL HEALTH CARE USING INFORMATION AND COMMUNICATIONS TECHNOLOGY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Health Care Delivery System", "Information Technology", "Universal
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3351530342!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1827"
 
 [[history]]
 date = "2020-09-14"

@@ -6,7 +6,6 @@ name = "SBN-00134"
 [meta]
 bill_number = 134
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-134", "https://web.senate.gov.ph/lisdata/75676380!.pdf",]
 title = "CYBERCRIME PREVENTION ACT OF 2010"
 date_filed = "2010-07-05"
 long_title = "AN ACT DEFINING CYBERCRIME, PROVIDING FOR THE PREVENTION, SUPPRESSION AND IMPOSITION OF PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Cybercrime",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75676380!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-134"
 
 [[history]]
 date = "2010-07-05"

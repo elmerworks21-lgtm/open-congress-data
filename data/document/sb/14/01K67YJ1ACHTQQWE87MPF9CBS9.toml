@@ -6,7 +6,6 @@ name = "SBN-00894"
 [meta]
 bill_number = 894
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-894", "https://web.senate.gov.ph/lisdata/51474520!.pdf",]
 title = "HEALTH WORKERS' DAY ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT DECLARING MAY 7 OF EVERY YEAR AS HEALTH WORKERS’ DAY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51474520!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-894"
 
 [[history]]
 date = "2007-07-03"

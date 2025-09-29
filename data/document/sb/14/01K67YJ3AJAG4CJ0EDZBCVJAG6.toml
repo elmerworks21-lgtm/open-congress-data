@@ -6,7 +6,6 @@ name = "SBN-03466"
 [meta]
 bill_number = 3466
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3466", "https://web.senate.gov.ph/lisdata/1262011308!.pdf",]
 title = "RECONSTRUCTION AND REBUILD PROGRAM"
 date_filed = "2009-09-30"
 long_title = "AN ACT PROVIDING FOR A THREE-YEAR 100 BILLION PESOS RECONSTRUCTION AND REBUILD PROGRAM FOR AFFECTED LOCAL GOVERNMENT UNITS AND COMMUNITIES DUE TO THE DAMAGES CAUSED BY TYPHOON ONDOY"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Units (LGUS)", "Calamity Assistance",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1262011308!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3466"
 
 [[history]]
 date = "2009-09-30"

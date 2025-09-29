@@ -6,7 +6,6 @@ name = "SBN-02493"
 [meta]
 bill_number = 2493
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2493", "https://web.senate.gov.ph/lisdata/79687200!.pdf",]
 title = "LIVING QUARTERS FOR MIGRANT DOMESTIC WORKERS"
 date_filed = "2008-07-29"
 long_title = "AN ACT DEFINING THE WORKING HOURS AND PROVIDING FOR THE ESTABLISHMENT OF LIVING QUARTERS FOR MIGRANT DOMESTIC WORKERS IN ALL MAJOR CITIES AND LOCALITIES OF THEIR COUNTRIES OF DESTINATION, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Migrant Workers", "Work Hours", "Househelpers",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79687200!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2493"
 
 [[history]]
 date = "2008-07-29"

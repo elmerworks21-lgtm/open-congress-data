@@ -6,7 +6,6 @@ name = "SBN-00493"
 [meta]
 bill_number = 493
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-493", "https://web.senate.gov.ph/lisdata/4702443026!.pdf",]
 title = "PUBLIC DENTIST SALARY MODIFICATION ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT UPGRADING THE SALARY GRADE OF DENTISTS EMPLOYED IN THE PUBLIC SECTOR, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Dentist", "Salary Grade Level",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4702443026!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-493"
 
 [[history]]
 date = "2025-07-14"

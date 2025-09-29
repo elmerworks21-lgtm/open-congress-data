@@ -6,7 +6,6 @@ name = "SBN-00842"
 [meta]
 bill_number = 842
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-842", "https://web.senate.gov.ph/lisdata/52674459!.pdf",]
 title = "MARITIME CODE OF THE PHILIPPINES"
 date_filed = "2007-07-03"
 long_title = "AN ACT TO ORDAIN AND INSTITUTE THE MARITIME CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Maritime Code",]
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52674459!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-842"
 
 [[history]]
 date = "2007-07-03"

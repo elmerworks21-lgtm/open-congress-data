@@ -6,7 +6,6 @@ name = "SBN-02378"
 [meta]
 bill_number = 2378
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2378", "https://web.senate.gov.ph/lisdata/99519846!.pdf",]
 title = "REPRODUCTIVE HEALTH ACT"
 date_filed = "2010-08-11"
 long_title = "AN ACT PROVIDING FOR A NATIONAL POLICY ON REPRODUCTIVE HEALTH AND POPULATION AND DEVELOPMENT"
@@ -15,6 +14,8 @@ subjects = [ "Reproductive Health",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99519846!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2378"
 
 [[history]]
 date = "2010-08-11"

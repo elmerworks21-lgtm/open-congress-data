@@ -6,7 +6,6 @@ name = "SBN-00752"
 [meta]
 bill_number = 752
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-752", "https://web.senate.gov.ph/lisdata/3844834905!.pdf",]
 title = "AUTISM COOPERATION, ACCOUNTABILITY, RESEARCH, EDUCATION AND SUPPORT (CARES) ACT OF 2022"
 date_filed = "2022-07-18"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE NATIONAL CARE PLAN TO ENCOURAGE COOPERATION, ACCOUNTABILITY AND RESEARCH FOR THE EDUCATION AND SUPPORT OF PERSONS WITH AUTISM AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Autism", "Autism Cooperation, Accountability, Research, Education 
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3844834905!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-752"
 
 [[history]]
 date = "2022-07-18"

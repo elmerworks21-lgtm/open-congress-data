@@ -6,7 +6,6 @@ name = "SBN-02324"
 [meta]
 bill_number = 2324
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2324", "https://web.senate.gov.ph/lisdata/74646691!.pdf",]
 title = "AUTOMATIC PREGNANCY TESTING FOR WOMEN BEFORE UNDERGOING COSMETIC PROCEDURES"
 date_filed = "2008-05-26"
 long_title = "AN ACT PROVIDING FOR THE MANDATORY PREGNANCY TESTING OF ALL WOMEN OF CHILDBEARING AGE WHO WILL UNDERGO COSMETIC PROCEDURES THAT ARE HARMFUL TO PREGNANT WOMEN AND UNBORN CHILDREN, AND DISCLOSURE OF THE POTENTIAL RISKS OF SUCH PROCEDURES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Women Protection",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74646691!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2324"
 
 [[history]]
 date = "2008-05-26"

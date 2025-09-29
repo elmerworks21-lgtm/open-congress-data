@@ -6,7 +6,6 @@ name = "SBN-02654"
 [meta]
 bill_number = 2654
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2654", "https://web.senate.gov.ph/lisdata/71745789!.pdf",]
 title = "UNATTENDED CHILDRENI N MOTOR VEHICLES SAFETY ACT OF 2007"
 date_filed = "2007-06-04"
 long_title = "AN ACT PENALIZING THE LEAVING OF CHILDREN UNATTENDED IN MOTOR VEHICLES UNDER CERTAIN CIRCUMSTANCES"
@@ -15,6 +14,8 @@ subjects = [ "Child Protection (Motor Vehicle)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71745789!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2654"
 
 [[history]]
 date = "2007-06-04"

@@ -6,7 +6,6 @@ name = "SBN-03570"
 [meta]
 bill_number = 3570
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3570", "https://web.senate.gov.ph/lisdata/1348911902!.pdf",]
 title = "EARLY VOTING ACT OF 2010"
 date_filed = "2010-01-27"
 long_title = "AN ACT ALLOWING EARLY VOTING IN NATIONAL AND LOCAL ELECTIONS"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Escudero, Francis \"Chiz\" G., Gordon, Richard \"Dick\" J., Villar, Manny"
 author_codes = ["EFRAN", "GRICH", "VMANU"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1348911902!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3570"
 
 [[history]]
 date = "2010-01-27"

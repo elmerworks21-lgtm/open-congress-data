@@ -6,7 +6,6 @@ name = "SBN-01392"
 [meta]
 bill_number = 1392
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1392", "https://web.senate.gov.ph/lisdata/1748614723!.pdf",]
 title = "APPOINTEE INELIGIBILITY ACT OF 2013"
 date_filed = "2013-08-29"
 long_title = "AN ACT LIMITING THE RE-APPOINTMENT OF PRESIDENTIAL NOMINEES BY-PASSED BY THE COMMISSION ON APPOINTMENTS (CA)"
@@ -15,6 +14,8 @@ subjects = [ "Presidential Appointments", "Commission on Appointments (CA)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1748614723!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1392"
 
 [[history]]
 date = "2013-08-29"

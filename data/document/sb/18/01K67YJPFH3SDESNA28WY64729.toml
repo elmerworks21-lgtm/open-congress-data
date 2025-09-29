@@ -6,7 +6,6 @@ name = "SBN-00146"
 [meta]
 bill_number = 146
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-146", "https://web.senate.gov.ph/lisdata/3041427245!.pdf",]
 title = "AMENDING R.A. NO. 10068 (ORGANIC AGRICULTURE ACT OF 2010)"
 date_filed = "2019-07-02"
 long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 10068 OR THE ORGANIC AGRICULTURE ACT 2010"
@@ -15,6 +14,8 @@ subjects = [ "Organic Agriculture", "Organic Farming",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3041427245!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-146"
 
 [[history]]
 date = "2019-07-02"

@@ -6,7 +6,6 @@ name = "SBN-01939"
 [meta]
 bill_number = 1939
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1939", "https://web.senate.gov.ph/lisdata/1828615467!.pdf",]
 title = "ELECTRONIC PUBLICATION COMPLIANCE ACT OF 2013"
 date_filed = "2013-11-20"
 long_title = "AN ACT PRESCRIBING ELECTRONIC OR ONLINE MODALITIES FOR THE PROMULGATION OF LAWS, RESOLUTIONS, RULES AND OTHER ISSUANCES, AMENDING FOR THE PURPOSE SECTIONS 18, 24 AND 25 CHAPTER 5, BOOK 1 OF EXECUTIVE ORDER NO. 292 OTHERWISE KNOWN AS THE ADMINISTRATIVE CODE OF 1987"
@@ -15,6 +14,8 @@ subjects = [ "Administrative Code of 1987 (E.O.No. 292)", "E-Services (Governmen
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1828615467!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1939"
 
 [[history]]
 date = "2013-11-20"

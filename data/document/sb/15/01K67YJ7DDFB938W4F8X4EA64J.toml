@@ -6,7 +6,6 @@ name = "SBN-00295"
 [meta]
 bill_number = 295
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-295", "https://web.senate.gov.ph/lisdata/78866318!.pdf",]
 title = "CHANGING THE MAXIMUM RETIREMENT AGE FROM 65 TO 70 YEARS"
 date_filed = "2010-07-06"
 long_title = "AN ACT CHANGING THE MAXIMUM RETIREMENT AGE FROM SIXTY-FIVE TO SEVENTY YEARS FOR BOTH GOVERNMENT AND PRIVATE EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Retirement Age",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78866318!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-295"
 
 [[history]]
 date = "2010-07-06"

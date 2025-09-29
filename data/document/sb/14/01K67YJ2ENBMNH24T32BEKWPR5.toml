@@ -6,7 +6,6 @@ name = "SBN-02268"
 [meta]
 bill_number = 2268
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2268", "https://web.senate.gov.ph/lisdata/73136535!.pdf",]
 title = "REWARDS FOR INFORMATION CONCERNING TERRORISM ACT OF 2008"
 date_filed = "2008-05-12"
 long_title = "AN ACT ESTABLISHING A REWARDS FOR INFORMATION CONCERNING TERRORISM PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Terrorism",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/73136535!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2268"
 
 [[history]]
 date = "2008-05-12"

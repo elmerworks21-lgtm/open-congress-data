@@ -6,7 +6,6 @@ name = "SBN-00892"
 [meta]
 bill_number = 892
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-892", "https://web.senate.gov.ph/lisdata/3873235185!.pdf",]
 title = "MEDICAL AND TECHNICAL RESERVE CORPS ACT OF 2022"
 date_filed = "2022-07-26"
 long_title = "AN ACT CREATING THE MEDICAL AND TECHNICAL RESERVE CORPS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Medical Reserve Corps",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3873235185!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-892"
 
 [[history]]
 date = "2022-07-26"

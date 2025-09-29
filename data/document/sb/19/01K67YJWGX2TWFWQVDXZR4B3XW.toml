@@ -6,7 +6,6 @@ name = "SBN-02309"
 [meta]
 bill_number = 2309
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2309", "https://web.senate.gov.ph/lisdata/4210338295!.pdf",]
 title = "FREE LEGAL ASSISTANCE TO ANY OFFICER OR UNIFORMED PERSONNEL OF THE AFP, BFP, BJMP, PCG AND THE PNP"
 date_filed = "2023-07-17"
 long_title = "AN ACT PROVIDING FREE LEGAL ASSISTANCE TO ANY OFFICER OR UNIFORMED PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES, THE BUREAU OF FIRE PROTECTION, THE BUREAU OF JAIL MANAGEMENT AND PENOLOGY, THE PHILIPPINE COAST GUARD, AND THE PHILIPPINE NATIONAL POLICE, FACING ANY CHARGE BEFORE THE PROSECUTOR'S OFFICE, COURT, OR OTHER SIMILAR OFFICE, ARISING FROM INCIDENTS RELATED TO THE PERFORMANCE OF OFFICIAL DUTIES, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Legal Assistance", "Armed Forces of the Philippines (AFP)", "Burea
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4210338295!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2309"
 
 [[history]]
 date = "2023-07-17"

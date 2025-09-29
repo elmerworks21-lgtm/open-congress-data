@@ -6,7 +6,6 @@ name = "SBN-02234"
 [meta]
 bill_number = 2234
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2234", "https://web.senate.gov.ph/lisdata/3008126837!.pdf",]
 title = "PARCELS OF LAND IN BARANGAY KRUS NA LIGAS (QUEZON CITY)"
 date_filed = "2019-05-27"
 long_title = "AN ACT AUTHORIZING THE SALE OF CERTAIN PARCELS OF LAND IN BARANGAY KRUS NA LIGAS, QUEZON CITY BY THE UNIVERSITY OF THE PHILIPPINES TO THE QUEZON CITY GOVERNMENT AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9500, OTHERWISE KNOWN AS THE UNIVERSITY OF THE PHILIPPINES CHARTER OF 2008 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "University of the Philippines Charter (R.A.No.9500)",]
 authors_raw = "Recto, Ralph G., Sotto III, Vicente C., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "RRALP", "SVICE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3008126837!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2234"
 
 [[history]]
 date = "2019-05-27"

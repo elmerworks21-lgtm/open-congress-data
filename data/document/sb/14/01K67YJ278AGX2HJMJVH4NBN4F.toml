@@ -6,7 +6,6 @@ name = "SBN-01961"
 [meta]
 bill_number = 1961
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1961", "https://web.senate.gov.ph/lisdata/66025837!.pdf",]
 title = "WOMEN IN THE FURTHER ERADICATION OF RAPE AND VIOLENCE THROUGH SELF-DEFENSE"
 date_filed = "2007-12-14"
 long_title = "AN ACT STRENGTHENING THE RIGHTS OF FILIPINO WOMEN BY INTEGRATING THE TEACHING OF SELF-DEFENSE AND PROVIDING ITS FREE ACCESS TO FEMALE CONSTITUENTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mother Act",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/66025837!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1961"
 
 [[history]]
 date = "2007-12-14"

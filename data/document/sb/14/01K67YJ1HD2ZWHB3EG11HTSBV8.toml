@@ -6,7 +6,6 @@ name = "SBN-01236"
 [meta]
 bill_number = 1236
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1236", "https://web.senate.gov.ph/lisdata/55334937!.pdf",]
 title = "UNIVERSITY OF THE PHILIPPINES CHARTER OF 2007"
 date_filed = "2007-07-17"
 long_title = "AN ACT TO FURTHER STRENGTHEN THE UNIVERSITY OF THE PHILIPPINES AS THE PRIMIER STATE UNIVERSITY"
@@ -15,6 +14,8 @@ subjects = [ "University of the Philippines Charter (U.P. Charter)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55334937!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1236"
 
 [[history]]
 date = "2007-07-17"

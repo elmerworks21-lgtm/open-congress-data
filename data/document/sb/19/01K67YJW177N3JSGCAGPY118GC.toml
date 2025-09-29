@@ -6,7 +6,6 @@ name = "SBN-01647"
 [meta]
 bill_number = 1647
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1647", "https://web.senate.gov.ph/lisdata/4032036735!.pdf",]
 title = "MEDICAL RESERVE CORPS ACT"
 date_filed = "2023-01-11"
 long_title = "AN ACT INSTITUTING THE MEDICAL RESERVE CORPS AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Medical Reserve Corps",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4032036735!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1647"
 
 [[history]]
 date = "2023-01-11"

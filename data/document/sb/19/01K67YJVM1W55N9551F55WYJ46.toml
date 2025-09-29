@@ -6,7 +6,6 @@ name = "SBN-01083"
 [meta]
 bill_number = 1083
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1083", "https://web.senate.gov.ph/lisdata/3905535495!.pdf",]
 title = "APPRENTICESHIP TRAINING ACT OF 2022"
 date_filed = "2022-08-08"
 long_title = "AN ACT REFORMING THE NATIONAL APPRENTICESHIP PROGRAM AND PROVIDING STANDARDS FOR THE TRAINING AND EMPLOYMENT OF APPRENTICES, AND REGULATORY STANDARDS FOR ACCREDITATION OF APPRENTICESHIP PROGRAMS"
@@ -15,6 +14,8 @@ subjects = [ "Apprentice", "Apprenticeship",]
 authors_raw = "Estrada, Jinggoy E., Padilla, Robinhood C., Villar, Cynthia A."
 author_codes = ["EJING", "PROBI", "VCYNT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3905535495!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1083"
 
 [[history]]
 date = "2022-08-08"

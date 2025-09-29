@@ -6,7 +6,6 @@ name = "SBN-00979"
 [meta]
 bill_number = 979
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-979", "https://web.senate.gov.ph/lisdata/2453721119!.pdf",]
 title = "IWAS DAGDAG SINGIL AT BILIS SERBISYO ACT"
 date_filed = "2016-08-03"
 long_title = "AN ACT IMPOSING A SIX-YEAR MORATORIUM ON THE INCREASE OF ALL GOVERNMENT FEES AND CHARGES"
@@ -15,6 +14,8 @@ subjects = [ "Fees and Charges", "Moratorium",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2453721119!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-979"
 
 [[history]]
 date = "2016-08-03"

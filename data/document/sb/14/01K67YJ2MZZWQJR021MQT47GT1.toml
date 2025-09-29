@@ -6,7 +6,6 @@ name = "SBN-02538"
 [meta]
 bill_number = 2538
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2538", "https://web.senate.gov.ph/lisdata/80907311!.pdf",]
 title = "BIKOL BOTANICAL GARDEN"
 date_filed = "2008-08-14"
 long_title = "AN ACT TO ESTABLISH THE BIKOL BOTANICAL GARDEN IN THE PROVINCE OF CAMARINES SUR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Bikol Botanical Garden",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80907311!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2538"
 
 [[history]]
 date = "2008-08-14"

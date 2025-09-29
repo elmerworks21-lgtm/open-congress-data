@@ -6,7 +6,6 @@ name = "SBN-01892"
 [meta]
 bill_number = 1892
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1892", "https://web.senate.gov.ph/lisdata/4078837170!.pdf",]
 title = "RESILIENT AGRICULTURE ACT OF 2023"
 date_filed = "2023-02-16"
 long_title = "AN ACT ENHANCING CLIMATE RESILIENCE IN AGRICULTURE TO ADVERSE CLIMATE EVENTS BY INSTITUTIONALIZING THE USE OF CROP CLIMATE CALENDARS, EQUIPPING FARMERS FOR CLIMATE SENSITIVE DECISIONMAKING, AND PROVIDING ACCESS TO LOCALIZED WEATHER AND CLIMATE INFORMATION"
@@ -15,6 +14,8 @@ subjects = [ "Climate-Resilient Agriculture",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4078837170!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1892"
 
 [[history]]
 date = "2023-02-16"

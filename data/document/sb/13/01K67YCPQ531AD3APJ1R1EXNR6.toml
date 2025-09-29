@@ -6,7 +6,6 @@ name = "SBN-02302"
 [meta]
 bill_number = 2302
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2302", "https://web.senate.gov.ph/lisdata/54074512!.pdf",]
 title = "HOSPITAL RECORDS ACT"
 date_filed = "2006-06-07"
 long_title = "AN ACT PROHIBITING CERTAIN HEALTH CARE PROFESSIONALS FROM CHARGING PATIENTS FOR THEIR RECORDS"
@@ -15,6 +14,8 @@ subjects = [ "Hospital Records Act",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54074512!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2302"
 
 [[history]]
 date = "2006-06-07"

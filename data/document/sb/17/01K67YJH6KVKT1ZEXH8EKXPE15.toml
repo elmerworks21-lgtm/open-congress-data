@@ -6,7 +6,6 @@ name = "SBN-00099"
 [meta]
 bill_number = 99
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-99", "https://web.senate.gov.ph/lisdata/2351220115!.pdf",]
 title = "COMPREHENSIVE NURSING LAW OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE NURSING LAW TOWARDS QUALITY HEALTH CARE SYSTEM, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Nurses", "Health Care Delivery System",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2351220115!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-99"
 
 [[history]]
 date = "2016-06-30"

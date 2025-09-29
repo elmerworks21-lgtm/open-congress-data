@@ -6,7 +6,6 @@ name = "SBN-00743"
 [meta]
 bill_number = 743
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-743", "https://web.senate.gov.ph/lisdata/3110228000!.pdf",]
 title = "PUBLIC SCHOOL DATABASE ACT OF 2019"
 date_filed = "2019-07-24"
 long_title = "AN ACT MANDATING THE AUTOMATION OF A NATIONAL PUBLIC SCHOOL DATABASE"
@@ -15,6 +14,8 @@ subjects = [ "Public School Database",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3110228000!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-743"
 
 [[history]]
 date = "2019-07-24"

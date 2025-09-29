@@ -6,7 +6,6 @@ name = "SBN-02020"
 [meta]
 bill_number = 2020
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2020", "https://web.senate.gov.ph/lisdata/4125137589!.pdf",]
 title = "MAHARLIKA INVESTMENT FUND ACT OF 2023"
 date_filed = "2023-03-20"
 long_title = "AN ACT ESTABLISHING THE MAHARLIKA INVESTMENT FUND, PROVIDING FOR THE MANAGEMENT, INVESTMENT, AND USE OF THE PROCEEDS OF THE FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Maharlika Investment Fund",]
 authors_raw = "Villar, Mark A., Tulfo, Raffy T., Padilla, Robinhood C."
 author_codes = ["PROBI", "TRAFF", "VMARK"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4125137589!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2020"
 
 [[history]]
 date = "2023-03-20"

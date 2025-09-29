@@ -6,7 +6,6 @@ name = "SBN-02351"
 [meta]
 bill_number = 2351
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2351", "https://web.senate.gov.ph/lisdata/4221638405!.pdf",]
 title = "THE PHILIPPINE NURSING PRACTICE ACT"
 date_filed = "2023-07-25"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE NURSING LAW TOWARDS A QUALITY HEALTH CARE SYSTEM, AND APPROPRIATING FUNDS THEREFOR, REPEALING REPUBLIC ACT NO. 9173, OR THE PHILIPPINE NURSING ACT OF 2002"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Nursing Act", "Nurses/Nursing", "Health Care",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4221638405!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2351"
 
 [[history]]
 date = "2023-07-25"

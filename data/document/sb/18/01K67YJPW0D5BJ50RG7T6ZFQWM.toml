@@ -6,7 +6,6 @@ name = "SBN-00721"
 [meta]
 bill_number = 721
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-721", "https://web.senate.gov.ph/lisdata/3107327970!.pdf",]
 title = "POLICE ON-BODY CAM ACT"
 date_filed = "2019-07-24"
 long_title = "AN ACT MANDATING THE USE OF ON-BODY CAMERAS BY LAW ENFORCEMENT OFFICERS DURING ANY ANTI-ILLEGAL DRUG AND CRIMINALITY OPERATIONS, AND PROVIDING FUNDS THREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Body and Dashboard Cameras", "Law Enforcement Officers/Law Enforcement Agency/Law Enforcement Operations", "Philippine National Police (PNP)",]
 authors_raw = "Gatchalian, Win, Villanueva, Joel"
 author_codes = ["GSHER", "VEMMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3107327970!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-721"
 
 [[history]]
 date = "2019-07-24"

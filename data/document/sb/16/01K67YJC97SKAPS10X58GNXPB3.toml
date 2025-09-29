@@ -6,7 +6,6 @@ name = "SBN-00009"
 [meta]
 bill_number = 9
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-9", "https://web.senate.gov.ph/lisdata/1581713053!.pdf",]
 title = "PHILIPPINE RIVER BASIN SYSTEM ADMINISTRATION ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT ADOPTING THE INTEGRATED RIVER BASIN MANAGEMENT APPROACH AS A COMPREHENSIVE FRAMEWORK IN DEVELOPING AND MANAGING THE COUNTRY'S RIVER BASIN SYSTEMS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rivers and Waterways",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1581713053!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-9"
 
 [[history]]
 date = "2013-07-01"

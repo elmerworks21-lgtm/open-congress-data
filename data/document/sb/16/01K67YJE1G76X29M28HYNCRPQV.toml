@@ -6,7 +6,6 @@ name = "SBN-02647"
 [meta]
 bill_number = 2647
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2647", "https://web.senate.gov.ph/lisdata/2060017704!.pdf",]
 title = "HOLIDAY: HERMOSA DAY (BATAAN)"
 date_filed = "2015-02-11"
 long_title = "AN ACT DECLARING MAY 8 OF EVERY YEAR AS HERMOSA DAY AND A SPECIAL NON-WORKING PUBLIC HOLIDAY IN THE MUNICIPALITY OF HERMOSA, PROVINCE OF BATAAN"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Non-Working)",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2060017704!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2647"
 
 [[history]]
 date = "2015-02-11"

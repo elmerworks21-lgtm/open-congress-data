@@ -6,7 +6,6 @@ name = "SBN-01853"
 [meta]
 bill_number = 1853
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1853", "https://web.senate.gov.ph/lisdata/1806715299!.pdf",]
 title = "BARANGAY PENSION FUND ACT OF 2013"
 date_filed = "2013-10-16"
 long_title = "AN ACT CREATING THE BARANGAY PENSION FUND TO PROVIDE PENSION BENEFITS TO ALL BARANGAY OFFICIALS"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Officials", "Pension",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1806715299!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1853"
 
 [[history]]
 date = "2013-10-16"

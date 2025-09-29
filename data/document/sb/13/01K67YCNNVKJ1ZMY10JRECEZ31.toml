@@ -6,7 +6,6 @@ name = "SBN-00555"
 [meta]
 bill_number = 555
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-555", "https://web.senate.gov.ph/lisdata/17121061!.pdf",]
 title = "FREEDOM OF SPEECH AND ASSOCIATION ON CAMPUS ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROTECT FREEDOM OF SPEECH AND OF ASSOCIATION RIGHTS OF STUDENTS ATTENDING INSTITUTIONS OF TECHNOLOGY"
@@ -15,6 +14,8 @@ subjects = [ "Freedom of Speech/Association on Campus", "Students (Higher Educat
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/17121061!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-555"
 
 [[history]]
 date = "2004-06-30"

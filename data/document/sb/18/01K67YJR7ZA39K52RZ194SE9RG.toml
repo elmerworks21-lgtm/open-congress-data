@@ -6,7 +6,6 @@ name = "SBN-02411"
 [meta]
 bill_number = 2411
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2411", "https://web.senate.gov.ph/lisdata/3631032742!.pdf",]
 title = "AMENDING SECTIONS 48,77,176,181,194 AND 238 OF P.D.NO. 612 (THE INSURANCE CODE)"
 date_filed = "2021-09-21"
 long_title = "AN ACT AMENDING SECTIONS 48,77,176,181,194 AND 238 OF PRESIDENTIAL DECREE NO. 612, OTHERWISE KNOWN AS 'THE INSURANCE CODE', AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Insurance Code",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3631032742!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2411"
 
 [[history]]
 date = "2021-09-21"

@@ -6,7 +6,6 @@ name = "SBN-01864"
 [meta]
 bill_number = 1864
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1864", "https://web.senate.gov.ph/lisdata/1807815310!.pdf",]
 title = "STRONG NATIONAL BUDGET PROCESS ACT OF 2013"
 date_filed = "2013-10-16"
 long_title = "AN ACT STRENGTHENING THE NATIONAL BUDGETING PROCESS, CREATING INTERNAL CONTROL SYSTEMS OR PROTECT MANAGEMENT AND MONITORING OFFICES IN ALL IMPLEMENTING AGENCIES AND OFFICES, STRENGTHENING THE RECOVERY AUDIT PROCESS OF THE GOVERNMENT, AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Budget",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
 author_codes = ["MFERD"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1807815310!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1864"
 
 [[history]]
 date = "2013-10-16"

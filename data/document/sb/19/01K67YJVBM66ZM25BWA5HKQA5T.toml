@@ -6,7 +6,6 @@ name = "SBN-00712"
 [meta]
 bill_number = 712
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-712", "https://web.senate.gov.ph/lisdata/3839934854!.pdf",]
 title = "ELDER VICTIM ASSISTANCE ACT OF 2022"
 date_filed = "2022-07-18"
 long_title = "AN ACT TO ESTABLISH PROGRAMS AND ACTIVITIES TO AID VICTIMS OF ELDER ABUSE, AND PROVIDE TRAINING TO HEALTH AND GOVERNMENT PROFESSIONALS IN THE ASSISTANCE OF SUCH VICTIMS"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizen/Elderly", "Elder Abuse",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3839934854!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-712"
 
 [[history]]
 date = "2022-07-18"

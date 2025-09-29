@@ -6,7 +6,6 @@ name = "SBN-00852"
 [meta]
 bill_number = 852
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-852", "https://web.senate.gov.ph/lisdata/3122328123!.pdf",]
 title = "NATIONAL SIGHT STRATEGY PLAN ACT"
 date_filed = "2019-08-01"
 long_title = "AN ACT TO ESTABLISH THE NATIONAL SIGHT STRATEGY PLAN"
@@ -15,6 +14,8 @@ subjects = [ "Sight Strategy Plan", "Vision Care",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3122328123!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-852"
 
 [[history]]
 date = "2019-08-01"

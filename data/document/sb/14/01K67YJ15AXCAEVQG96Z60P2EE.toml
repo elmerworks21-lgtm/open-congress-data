@@ -6,7 +6,6 @@ name = "SBN-00647"
 [meta]
 bill_number = 647
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-647", "https://web.senate.gov.ph/lisdata/48584236!.pdf",]
 title = "GENDER BALANCE IN POLITICAL PARTICIPATION AND REPRESENTATION ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT INCREASING WOMEN’S PARTICIPATION IN ELECTIVE AND APPOINTIVE POSITIONS IN GOVERNMENT"
@@ -15,6 +14,8 @@ subjects = [ "Womens Participation (Elective", "Appointive Positions in Govt)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48584236!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-647"
 
 [[history]]
 date = "2007-07-03"

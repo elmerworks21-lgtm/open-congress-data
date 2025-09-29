@@ -6,7 +6,6 @@ name = "SBN-00128"
 [meta]
 bill_number = 128
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-128", "https://web.senate.gov.ph/lisdata/75436374!.pdf",]
 title = "NATIONAL BUREAU OF INVESTIGATION (NBI) REORGANIZATION AND MODERNIZATION ACT OF 2010"
 date_filed = "2010-07-05"
 long_title = "AN ACT TO STRENGTHEN THE NATIONAL BUREAU OF INVESTIGATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Bureau of Investigation (NBI)",]
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75436374!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-128"
 
 [[history]]
 date = "2010-07-05"

@@ -6,7 +6,6 @@ name = "SBN-00873"
 [meta]
 bill_number = 873
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-873", "https://web.senate.gov.ph/lisdata/51264490!.pdf",]
 title = "GOVERNMENT HOSPITALS MOOE/CAPITAL OUTLAY UTILIZATION"
 date_filed = "2007-07-03"
 long_title = "AN ACT AUTHORIZING GOVERNMENT HOSPITALS TO UTILIZE ALL ITS INCOME FOR HOSPITAL OPERATIONS PARTICULARLY MAINTENANCE AND OTHER OPERATING EXPENSES (MOOE) AND CAPITAL OUTLAY"
@@ -15,6 +14,8 @@ subjects = [ "Government Hospitals (Capital Outlay Utilization)",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51264490!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-873"
 
 [[history]]
 date = "2007-07-03"

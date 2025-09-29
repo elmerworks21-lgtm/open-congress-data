@@ -6,7 +6,6 @@ name = "SBN-02992"
 [meta]
 bill_number = 2992
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2992", "https://web.senate.gov.ph/lisdata/1226510347!.pdf",]
 title = "ANTI NO PERMIT, NO EXAM ACT OF 2011"
 date_filed = "2011-10-11"
 long_title = "AN ACT PENALIZING THE IMPOSITION OF A 'NO PERMIT, NO EXAM' POLICY THAT PROHIBITS STUDENTS OF POST-SECONDARY AND HIGHER EDUCATION FROM TAKING THEIR MIDTERM OR FINAL EXAMINATIONS DUE TO UNPAID TUITION AND OTHER SCHOOL FEES"
@@ -15,6 +14,8 @@ subjects = [ "Tuition Fees", "Students",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1226510347!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2992"
 
 [[history]]
 date = "2011-10-11"

@@ -6,7 +6,6 @@ name = "SBN-01140"
 [meta]
 bill_number = 1140
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1140", "https://web.senate.gov.ph/lisdata/3912735565!.pdf",]
 title = "ANTI-MARITAL INFIDELITY ACT"
 date_filed = "2022-08-11"
 long_title = "AN ACT DEFINING AND PENALIZING MARITAL INFIDELITY, AMENDING FOR THE PURPOSE ACT NO. 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Marital Infidelity", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3912735565!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1140"
 
 [[history]]
 date = "2022-08-11"

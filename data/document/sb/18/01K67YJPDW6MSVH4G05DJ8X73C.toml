@@ -6,7 +6,6 @@ name = "SBN-00072"
 [meta]
 bill_number = 72
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-72", "https://web.senate.gov.ph/lisdata/3030227130!.pdf",]
 title = "LOWERING THE MANDATORY AND OPTIONAL RETIREMENT AGE OF GOVERNMENT EMPLOYEES TO 60 YEARS OLD"
 date_filed = "2019-07-01"
 long_title = "AN ACT LOWERING THE MANDATORY AND OPTIONAL RETIREMENT AGE OF GOVERNMENT EMPLOYEES, AMENDING FOR THIS PURPOSE SECTIONS 13 (B) AND 13-A OF REPUBLIC ACT NO. 8291, OTHERWISE KNOWN AS THE EXPANDED GOVERNMENT SERVICE INSURANCE ACT OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "Retirement Age", "Government Employees", "Government Service Insur
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3030227130!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-72"
 
 [[history]]
 date = "2019-07-01"

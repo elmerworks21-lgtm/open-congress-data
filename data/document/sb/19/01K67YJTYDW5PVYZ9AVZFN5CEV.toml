@@ -6,7 +6,6 @@ name = "SBN-00108"
 [meta]
 bill_number = 108
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-108", "https://web.senate.gov.ph/lisdata/3781634257!.pdf",]
 title = "COMPREHENSIVE ANTI-DISCRIMINATION ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF AGE, INDIGENOUS, RACIAL OR ETHNIC ORIGIN, RELIGIOUS BELIEF OR ACTIVITY, POLITICAL INCLINATION OR CONVICTION, SOCIAL CLASS, SEX, GENDER, SEXUAL ORIENTATION, SEX CHARACTERISTICS, GENDER IDENTITY, GENDER EXPRESSION, MARITAL OR RELATIONSHIP STATUS, DISABILITY, HIV STATUS, PROFESSION OR OCCUPATION, HEALTH STATUS OR MEDICAL HISTORY, LANGUAGE, PHYSICAL FEATURES, AND OTHER STATUS, AND PROVIDING PENALTIES THEREFORE"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3781634257!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-108"
 
 [[history]]
 date = "2022-07-07"

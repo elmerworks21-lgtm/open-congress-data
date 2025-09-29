@@ -6,7 +6,6 @@ name = "SBN-03088"
 [meta]
 bill_number = 3088
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3088", "https://web.senate.gov.ph/lisdata/1266310642!.pdf",]
 title = "MORTGAGE OF PRIVATE REAL PROPERTY"
 date_filed = "2011-12-15"
 long_title = "AN ACT AMENDING SECTION ONE OF REPUBLIC ACT NUMBERED ONE HUNDRED THIRTY THREE, ENTITLED 'AN ACT TO AUTHORIZE THE MORTGAGE OF PRIVATE REAL PROPERTY IN FAVOR OF ANY INDIVIDUAL, CORPORATION, OR ASSOCIATION SUBJECT TO CERTAIN CONDITIONS', AS AMENDED BY REPUBLIC ACTS NUMBERED FORTY-THREE HUNDRED EIGHTY-ONE AND FORTY-EIGHT HUNDRED EIGHTY-TWO"
@@ -15,6 +14,8 @@ subjects = [ "Real Property (Private)", "Mortgage",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1266310642!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3088"
 
 [[history]]
 date = "2011-12-15"

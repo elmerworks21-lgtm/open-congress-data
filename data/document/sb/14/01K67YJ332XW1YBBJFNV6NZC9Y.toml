@@ -6,7 +6,6 @@ name = "SBN-03169"
 [meta]
 bill_number = 3169
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3169", "https://web.senate.gov.ph/lisdata/108389612!.pdf",]
 title = "ILOILO SPECIAL ECONOMIC ZONE ACT OF 2009"
 date_filed = "2009-04-20"
 long_title = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE AND FREE PORT IN THE PROVINCE OF ILOILO"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Economic Zones",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/108389612!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3169"
 
 [[history]]
 date = "2009-04-20"

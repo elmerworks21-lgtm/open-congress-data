@@ -6,7 +6,6 @@ name = "SBN-01419"
 [meta]
 bill_number = 1419
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1419", "https://web.senate.gov.ph/lisdata/26341998!.pdf",]
 title = "ALLOWING FOREIGN MAJORITY OWNERSHIP IN THRIFT BANKS"
 date_filed = "2004-07-08"
 long_title = "AN ACT LIBERALIZING THE OPERATIONS OF THRIFT BANKS AMENDING FOR THE PURPOSE THE THRIFT BANKS ACT OF 1995 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Thrift Banks, Foreign Majority Ownership", "R.A.No. 7906, Amendmen
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26341998!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1419"
 
 [[history]]
 date = "2004-07-08"

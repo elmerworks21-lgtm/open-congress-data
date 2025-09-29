@@ -6,7 +6,6 @@ name = "SBN-02595"
 [meta]
 bill_number = 2595
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2595", "https://web.senate.gov.ph/lisdata/4367839707!.pdf",]
 title = "PEOPLES INITIATIVE AN REFERENDUM ACT OF 2024"
 date_filed = "2024-03-07"
 long_title = "AN ACT PROVIDING FOR A SYSTEM OF PEOPLE’S INITIATIVE AND REFERENDUM"
@@ -15,6 +14,8 @@ subjects = [ "Peoples Initiative", "Referendum",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
 author_codes = ["PAQUI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4367839707!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2595"
 
 [[history]]
 date = "2024-03-07"

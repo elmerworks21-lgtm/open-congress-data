@@ -6,7 +6,6 @@ name = "SBN-02375"
 [meta]
 bill_number = 2375
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2375", "https://web.senate.gov.ph/lisdata/99488541!.pdf",]
 title = "PRESIDENTIAL DECREE NO. 1818 (SECTION 1) RE TEMPORARY RESTRAINING ORDER/PRELIM INJUNCTION"
 date_filed = "2010-08-10"
 long_title = "AN ACT AMENDING SECTION 1 OF PRESIDENTIAL DECREE NO. 1818"
@@ -15,6 +14,8 @@ subjects = [ "Temporary Restraining Order (TRO)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99488541!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2375"
 
 [[history]]
 date = "2010-08-10"

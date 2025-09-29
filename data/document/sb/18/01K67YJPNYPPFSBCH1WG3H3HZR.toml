@@ -6,7 +6,6 @@ name = "SBN-00432"
 [meta]
 bill_number = 432
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-432", "https://web.senate.gov.ph/lisdata/3077827626!.pdf",]
 title = "FISCAL AND MONETARY REPORT ACT OF 2019"
 date_filed = "2019-07-15"
 long_title = "AN ACT MANDATING THE SECRETARIES OF THE DEPARTMENT OF FINANCE, NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY, AND DEPARTMENT OF BUDGET AND MANAGEMENT, AND THE GOVERNOR OF THE BANGKO SENTRAL NG PILIPINAS, TO APPEAR BIANNUALLY BEFORE A JOINT CONGRESSIONAL OVERSIGHT COMMITTEE REPORT ON THE STATUS AND DIRECTIONS OF THE FISCAL AND MONETARY POLICIES OF THE STATE"
@@ -15,6 +14,8 @@ subjects = [ "Fiscal and Monetary Report", "Department of Finance", "National Ec
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3077827626!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-432"
 
 [[history]]
 date = "2019-07-15"

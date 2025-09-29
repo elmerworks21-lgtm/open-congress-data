@@ -6,7 +6,6 @@ name = "SBN-01971"
 [meta]
 bill_number = 1971
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1971", "https://web.senate.gov.ph/lisdata/3424531045!.pdf",]
 title = "DEFERMENT OF PREMIUM CONTRIBUTIONS TO PHILHEALTH"
 date_filed = "2021-01-05"
 long_title = "AN ACT AUTHORIZING THE DEFERMENT OF THE SCHEDULE OF PREMIUM CONTRIBUTIONS UNDER SECTION 10 OF REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNIVERSAL HEALTH CARE ACT, IN TIMES OF NATIONAL EMERGENCY OR STATE OF CALAMITY"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Health Insurance Corporation (Philhealth/Phic)", "Unive
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3424531045!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1971"
 
 [[history]]
 date = "2021-01-05"

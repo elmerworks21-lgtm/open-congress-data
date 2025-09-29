@@ -6,7 +6,6 @@ name = "SBN-01503"
 [meta]
 bill_number = 1503
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1503", "https://web.senate.gov.ph/lisdata/90567601!.pdf",]
 title = "CRIME OF BETRAYAL OF DUTY IN THE CUSTODY OF PRISONERS"
 date_filed = "2010-07-15"
 long_title = "AN ACT DEFINING THE CRIME OF BETRAYAL OF DUTY IN THE CUSTODY OF PRISONERS PROVIDING FOR ADDITIONAL RULES ON THE IMPRISONMENT, DETENTION, CONFINEMENT AND CUSTODY OF PRISONERS AND DETAINEES, SPECIFYING ADDITIONAL WORK AND RESPONSIBILITIES OF GOVERNMENT PERSONNEL CHARGED WITH THE CUSTODY OF SUCH PRISONERS AND STATING THE PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners/Inmates", "Custodial Infidelity",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90567601!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1503"
 
 [[history]]
 date = "2010-07-15"

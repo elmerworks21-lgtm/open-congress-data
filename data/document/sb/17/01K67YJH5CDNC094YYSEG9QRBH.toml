@@ -6,7 +6,6 @@ name = "SBN-00047"
 [meta]
 bill_number = 47
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-47", "https://web.senate.gov.ph/lisdata/2346020044!.pdf",]
 title = "SECRECY OF BANK DEPOSITS LAW"
 date_filed = "2016-06-30"
 long_title = "AN ACT TO AMEND SECTION 2 OF REPUBLIC ACT NO. 1405 OTHERWISE KNOWN AS THE SECRECY OF BANK DEPOSITS LAW, EXEMPTING GOVERNMENT OFFICIALS AND EMPLOYEES FROM THE PROHIBITION AGAINST DISCLOSURE OF OR INQUIRY INTO DEPOSITS WITH ANY BANKING INSTITUTION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Employees", "Government Official/Public Official", "Sec
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2346020044!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-47"
 
 [[history]]
 date = "2016-06-30"

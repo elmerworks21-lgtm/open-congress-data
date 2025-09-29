@@ -6,7 +6,6 @@ name = "SBN-01915"
 [meta]
 bill_number = 1915
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1915", "https://web.senate.gov.ph/lisdata/2827924605!.pdf",]
 title = "GALING PINOY KOMIKS SUPPORT ACT OF 2018"
 date_filed = "2018-08-06"
 long_title = "AN ACT TO ENHANCE GENUINE FILIPINO CULTURE, PROMOTE NATIONALISM, AND RECOGNIZE WRITERS AND ARTISTS, BY SUPPORTING THE PHILIPPINE KOMIKS INDUSTRY THROUGH ITS MANDATED USE IN INSTRUCTIONAL MATERIALS IN PUBLIC SCHOOLS, PROVIDING FINANCIAL INCENTIVES, ESTABLISHING THE GALING PINOY KOMIKS SUPPORT FUND, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pinoy Komiks",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2827924605!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1915"
 
 [[history]]
 date = "2018-08-06"

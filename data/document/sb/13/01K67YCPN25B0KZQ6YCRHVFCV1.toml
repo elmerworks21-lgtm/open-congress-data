@@ -6,7 +6,6 @@ name = "SBN-02205"
 [meta]
 bill_number = 2205
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2205", "https://web.senate.gov.ph/lisdata/45763664!.pdf",]
 title = "PHILIPPINE MINING ACT (AMENDMENTS)"
 date_filed = "2006-02-07"
 long_title = "AN ACT REPEALING REPUBLIC ACT 7942, AN ACT INSTITUTING A NEW SYSTEM OF MINERAL RESOURCES EXPLORATION, DEVELOPMENT, UTILIZATION AND CONSERVATION, OTHERWISE KNOWN AS THE PHILIPPINE MINING ACT OF 1995"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Mining Act (RA 7942)",]
 authors_raw = "Madrigal, M. A."
 author_codes = ["MJAMB"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45763664!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2205"
 
 [[history]]
 date = "2006-02-07"

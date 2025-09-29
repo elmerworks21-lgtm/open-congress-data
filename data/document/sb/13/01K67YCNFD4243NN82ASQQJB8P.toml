@@ -6,7 +6,6 @@ name = "SBN-00204"
 [meta]
 bill_number = 204
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-204", "https://web.senate.gov.ph/lisdata/1297603!.pdf",]
 title = "SENIORS SAFETY ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO COMBAT ABUSE AND ENHANCE PENALTIES FOR CRIMES AGAINST SENIORS"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizens (Seniors Safety Act)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1297603!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-204"
 
 [[history]]
 date = "2004-06-30"

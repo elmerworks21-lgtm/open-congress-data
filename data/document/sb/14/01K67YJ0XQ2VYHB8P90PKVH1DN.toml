@@ -6,7 +6,6 @@ name = "SBN-00275"
 [meta]
 bill_number = 275
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-275", "https://web.senate.gov.ph/lisdata/43753778!.pdf",]
 title = "TOTAL LOG BAN"
 date_filed = "2007-06-30"
 long_title = "AN ACT TOTALLY BANNING LOGGING OPERATIONS FOR THE NEXT TWENTY-FIVE YEARS"
@@ -15,6 +14,8 @@ subjects = [ "Total Log Ban",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43753778!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-275"
 
 [[history]]
 date = "2007-06-30"

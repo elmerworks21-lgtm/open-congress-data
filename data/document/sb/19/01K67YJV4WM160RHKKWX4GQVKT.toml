@@ -6,7 +6,6 @@ name = "SBN-00402"
 [meta]
 bill_number = 402
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-402", "https://web.senate.gov.ph/lisdata/3816334603!.pdf",]
 title = "BASIC MILITARY AND POLICE TRAINING IN SENIOR HIGH SCHOOL ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING FOR A MANDATORY BASIC MILITARY AND POLICE TRAINING PROGRAM IN ALL SENIOR HIGH SCHOOL LEVELS IN PUBLIC AND PRIVATE EDUCATIONAL INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Basic Military and Police Training", "Senior High School", "School
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3816334603!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-402"
 
 [[history]]
 date = "2022-07-12"

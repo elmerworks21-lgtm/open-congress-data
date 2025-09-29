@@ -6,7 +6,6 @@ name = "SBN-00623"
 [meta]
 bill_number = 623
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-623", "https://web.senate.gov.ph/lisdata/1655913798!.pdf",]
 title = "PHILIPPINE MEDICAL ACADEMY AND SCHOLARSHIP ACT"
 date_filed = "2013-07-08"
 long_title = "AN ACT CREATING THE PHILIPPINE MEDICAL ACADEMY, ESTABLISHING THE PHILIPPINE MEDICAL SCHOLARSHIP PROGRAM AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Medical Academy", "Scholarship Grants",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1655913798!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-623"
 
 [[history]]
 date = "2013-07-08"

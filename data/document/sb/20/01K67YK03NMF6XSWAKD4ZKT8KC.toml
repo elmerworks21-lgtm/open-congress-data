@@ -6,7 +6,6 @@ name = "SBN-00520"
 [meta]
 bill_number = 520
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-520", "https://web.senate.gov.ph/lisdata/4707443074!.pdf",]
 title = "CALAMITY WORK COMPENSATION ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT MANDATING THE GRANT OF ADDITIONAL COMPENSATION TO PRIVATE SECTOR EMPLOYEES WHO ARE REQUIRED TO REPORT FOR WORK DURING DECLARED CALAMITIES AND EMERGENCY ALERTS, ESTABLISHING IMPLEMENTING MECHANISMS THEREFOR, AND IMPOSING PENALTIES FOR NON-COMPLIANCE"
@@ -15,6 +14,8 @@ subjects = [ "Calamity Work Compensation", "Calamity/Disaster",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4707443074!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-520"
 
 [[history]]
 date = "2025-07-14"

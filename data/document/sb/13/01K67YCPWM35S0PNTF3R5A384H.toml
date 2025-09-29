@@ -6,7 +6,6 @@ name = "SBN-02581"
 [meta]
 bill_number = 2581
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2581", "https://web.senate.gov.ph/lisdata/68145585!.pdf",]
 title = "PHILIPPINE DENTAL ACT OF 2007"
 date_filed = "2007-01-30"
 long_title = "AN ACT TO REGULATE THE PRACTICE OF DENTISTRY, DENTAL HYGIENE AND DENTAL TECHNOLOGY IN THE PHILIPPINES, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 4419, OTHERWISE KNOWN AS 'AN ACT TO REGULATE THE PRACTICE OF DENTISTRY IN THE PHILIPPINES, AND FOR OTHER PURPOSES', AND REPUBLIC ACT NO. 768, OTHERWISE KNOWN AS 'AN ACT TO REGULATE THE PRACTICE OF DENTAL HYGIENISTS IN THE PHILIPPINES AND FOR OTHER PURPOSES', AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Dental Act (Regulation)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P., Osmena III, Sergio R., Ejercito-Estrada, Jinggoy P., Recto, Ralph G., Enrile, Juan Ponce, Angara, Edgardo J."
 author_codes = ["AEDGA", "EJING", "EJUAN", "ELUIS", "OSERG", "RRALP"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/68145585!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2581"
 
 [[history]]
 date = "2007-01-31"

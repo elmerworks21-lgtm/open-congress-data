@@ -6,7 +6,6 @@ name = "SBN-02100"
 [meta]
 bill_number = 2100
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2100", "https://web.senate.gov.ph/lisdata/4145637748!.pdf",]
 title = "ANTI GAME-FIXING ACT"
 date_filed = "2023-04-26"
 long_title = "AN ACT PROHIBITING ANTI GAME-FIXING AND PROVIDING PENALTIES VIOLATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Game-Fixing",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4145637748!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2100"
 
 [[history]]
 date = "2023-04-26"

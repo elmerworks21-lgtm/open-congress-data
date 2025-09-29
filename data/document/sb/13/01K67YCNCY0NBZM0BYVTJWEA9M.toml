@@ -6,7 +6,6 @@ name = "SBN-00067"
 [meta]
 bill_number = 67
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-67", "https://web.senate.gov.ph/lisdata/1105707!.pdf",]
 title = "APPOINTMENT OF OFFICER DESIGNATED AS CHIEF OF STAFF (AFP)"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING SECTION NINE (9) OF REPUBLIC ACT TWO HUNDRED NINETY-ONE (291) SO AS TO PROVIDE THAT NO OFFICER SHALL BE APPOINTED CHIEF OF STAFF IF SAID OFFICER HAS LESS THAN A YEAR REMAINING IN THE ACTIVE SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Armed Forces of the Philippines (AFP)", "Chief of Staff (Appointme
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1105707!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-67"
 
 [[history]]
 date = "2004-06-30"

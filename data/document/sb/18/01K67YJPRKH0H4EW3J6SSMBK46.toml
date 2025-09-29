@@ -6,7 +6,6 @@ name = "SBN-00560"
 [meta]
 bill_number = 560
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-560", "https://web.senate.gov.ph/lisdata/3084227799!.pdf",]
 title = "ANTI 'NO PERMIT, NO EXAM' POLICY ACT OF 2019"
 date_filed = "2019-07-16"
 long_title = "AN ACT PENALIZING THE IMPOSITION OF A 'NO PERMIT, NO EXAM' POLICY OR ANY SUCH POLICY THAT PROHIBITS STUDENTS IN ALL EDUCATIONAL INSTITUTIONS FROM TAKING THEIR PERIODIC, PRELIMS, MIDTERM OR FINAL EXAMINATIONS DUE TO UNPAID TUITION AND OTHER SCHOOL FEES"
@@ -15,6 +14,8 @@ subjects = [ "No Permit, No Exam Policy", "Tuition Fees", "Students",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3084227799!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-560"
 
 [[history]]
 date = "2019-07-16"

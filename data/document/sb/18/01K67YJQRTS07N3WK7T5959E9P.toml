@@ -6,7 +6,6 @@ name = "SBN-01949"
 [meta]
 bill_number = 1949
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1949", "https://web.senate.gov.ph/lisdata/3413830947!.pdf",]
 title = "DEPARTMENT OF OVERSEAS FILIPINOS ACT OF 2020"
 date_filed = "2020-12-14"
 long_title = "AN ACT CREATING THE DEPARTMENT OF OVERSEAS FILIPINOS, DEFINING ITS POWERS AND FUNCTIONS, RATIONALIZING THE ORGANIZATION AND FUNCTIONS OF GOVERNMENT AGENCIES RELATED TO OVERSEAS EMPLOYMENT AND MIGRATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Overseas Filipino Workers (DOFW)",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3413830947!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1949"
 
 [[history]]
 date = "2020-12-14"

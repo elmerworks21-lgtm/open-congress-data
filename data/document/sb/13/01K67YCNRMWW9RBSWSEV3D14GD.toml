@@ -6,7 +6,6 @@ name = "SBN-00716"
 [meta]
 bill_number = 716
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-716", "https://web.senate.gov.ph/lisdata/19061289!.pdf",]
 title = "ADDITIONAL REQUIREMENT FOR VEHICLE'S REGISTRATION"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROTECT AND PROMOTE THE HEALTH OF THE PEOPLE THROUGH THE PREVENTION, CONTROL AND ABATEMENT OF AIR POLLUTION CAUSED BY SMOKE-BELCHING VEHICLES, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1181, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicles/Registration Requirement", "Smoke-Belching Vehicles
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19061289!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-716"
 
 [[history]]
 date = "2004-06-30"

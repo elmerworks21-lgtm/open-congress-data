@@ -6,7 +6,6 @@ name = "SBN-02875"
 [meta]
 bill_number = 2875
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2875", "https://web.senate.gov.ph/lisdata/2186818590!.pdf",]
 title = "STUDENTS' MEDICAL AND DENTAL RECORDS"
 date_filed = "2015-07-28"
 long_title = "AN ACT TO REQUIRE ELEMENTARY AND SECONDARY SCHOOLS TO HAVE MEDICAL AND DENTAL RECORDS OF THEIR STUDENTS"
@@ -15,6 +14,8 @@ subjects = [ "Students", "School Health",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2186818590!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2875"
 
 [[history]]
 date = "2015-07-28"

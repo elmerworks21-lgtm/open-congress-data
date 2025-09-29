@@ -6,7 +6,6 @@ name = "SBN-00967"
 [meta]
 bill_number = 967
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-967", "https://web.senate.gov.ph/lisdata/4748643490!.pdf",]
 title = "CENTER FOR AUTISM"
 date_filed = "2025-08-05"
 long_title = "AN ACT ESTABLISHING A CENTER FOR AUTISM AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Autism", "Autism Spectrum Disorder (ASD)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4748643490!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-967"
 
 [[history]]
 date = "2025-08-06"

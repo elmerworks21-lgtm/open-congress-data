@@ -6,7 +6,6 @@ name = "SBN-01320"
 [meta]
 bill_number = 1320
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1320", "https://web.senate.gov.ph/lisdata/25271899!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE (AMENDMENTS)"
 date_filed = "2004-07-06"
 long_title = "AN ACT AMENDING SECTION 34 PARAGRAPH D SUB-SECTION 3 OF REPUBLIC ACT 8424 OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Net Operating Loss Carry-
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/25271899!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1320"
 
 [[history]]
 date = "2004-07-06"

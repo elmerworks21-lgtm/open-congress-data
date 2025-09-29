@@ -6,7 +6,6 @@ name = "SBN-02126"
 [meta]
 bill_number = 2126
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2126", "https://web.senate.gov.ph/lisdata/97248255!.pdf",]
 title = "CHILDREN'S HEALTH INSURANCE PROGRAM"
 date_filed = "2010-07-27"
 long_title = "AN ACT INSTITUTING MECHANISMS FOR THE ESTABLISHMENT OF A CHILDREN'S HEALTH INSURANCE PROGRAM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7875, OTHERWISE KNOWN AS 'THE NATIONAL HEALTH INSURANCE ACT OF 1995,' AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Health Insurance", "Childrens Health Insurance Program",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/97248255!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2126"
 
 [[history]]
 date = "2010-07-27"

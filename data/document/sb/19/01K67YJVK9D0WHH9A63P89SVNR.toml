@@ -6,7 +6,6 @@ name = "SBN-01049"
 [meta]
 bill_number = 1049
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1049", "https://web.senate.gov.ph/lisdata/3900235453!.pdf",]
 title = "AMENDING R.A. NO. 9266 (ARCHITECTURE ACT OF 2004)"
 date_filed = "2022-08-08"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9266, OTHERWISE KNOWN AS THE ‘ARCHITECTURE ACT OF 2004’, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Architecture",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3900235453!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1049"
 
 [[history]]
 date = "2022-08-08"

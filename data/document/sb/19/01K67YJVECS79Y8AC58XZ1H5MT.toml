@@ -6,7 +6,6 @@ name = "SBN-00840"
 [meta]
 bill_number = 840
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-840", "https://web.senate.gov.ph/lisdata/3864835101!.pdf",]
 title = "YOUNG FARMERS AND FISHERFOLK CHALLENGE ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT ESTABLISHING THE YOUNG FARMERS AND FISHERFOLK CHALLENGE PROGRAM, CREATING FOR THE PURPOSE THE YOUNG FARMERS AND FISHERFOLK CHALLENGE COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Young Farmers Program", "Fisherfolk", "Farmers",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3864835101!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-840"
 
 [[history]]
 date = "2022-07-25"

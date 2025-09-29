@@ -6,7 +6,6 @@ name = "SBN-02204"
 [meta]
 bill_number = 2204
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2204", "https://web.senate.gov.ph/lisdata/1903216150!.pdf",]
 title = "PHILIPPINE IMMIGRATION ACT OF 2014"
 date_filed = "2014-05-06"
 long_title = "PHILIPPINE IMMIGRATION ACT OF 2014"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Immigration Act",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1903216150!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2204"
 
 [[history]]
 date = "2014-05-06"

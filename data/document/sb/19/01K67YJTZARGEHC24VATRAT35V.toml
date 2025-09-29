@@ -6,7 +6,6 @@ name = "SBN-00150"
 [meta]
 bill_number = 150
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-150", "https://web.senate.gov.ph/lisdata/3785834299!.pdf",]
 title = "ACADEMIC RECOVERY AND ACCESSIBLE LEARNING (ARAL) PROGRAM ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT ESTABLISHING AN ACADEMIC RECOVERY AND ACCESSIBLE LEARNING PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Academic Recovery and Accessible Learning Program",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3785834299!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-150"
 
 [[history]]
 date = "2022-07-07"

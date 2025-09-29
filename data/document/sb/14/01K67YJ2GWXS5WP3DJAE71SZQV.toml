@@ -6,7 +6,6 @@ name = "SBN-02367"
 [meta]
 bill_number = 2367
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2367", "https://web.senate.gov.ph/lisdata/75516786!.pdf",]
 title = "ILLEGAL GAMBLING"
 date_filed = "2008-06-03"
 long_title = "AN ACT PROVIDING STIFFER PENALTIES ON ILLEGAL GAMBLING, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED SIXTEEN HUNDRED AND TWO, AS AMENDED"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75516786!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2367"
 
 [[history]]
 date = "2008-06-03"

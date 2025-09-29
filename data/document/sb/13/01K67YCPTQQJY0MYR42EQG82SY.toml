@@ -6,7 +6,6 @@ name = "SBN-02499"
 [meta]
 bill_number = 2499
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2499", "https://web.senate.gov.ph/lisdata/63235221!.pdf",]
 title = "MOTHER SCREENING ACT OF 2006"
 date_filed = "2006-11-07"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE SCREENING PROGRAM FOR MOTHERS AFTER CHILDBIRTH AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mother Screening",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/63235221!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2499"
 
 [[history]]
 date = "2006-11-07"

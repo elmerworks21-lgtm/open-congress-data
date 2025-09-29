@@ -6,7 +6,6 @@ name = "SBN-01399"
 [meta]
 bill_number = 1399
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1399", "https://web.senate.gov.ph/lisdata/3249629366!.pdf",]
 title = "EASTERN PANGASINAN DISTRICT HOSPITAL"
 date_filed = "2020-03-04"
 long_title = "AN ACT INCREASING THE BED CAPACITY OF THE EASTERN PANGASINAN DISTRICT HOSPITAL FROM ONE HUNDRED FIFTY (150) BEDS TO TWO HUNDRED FIFTY (250) BEDS, UPGRADING ITS SERVICES AND FACILITIES, AUTHORIZING THE INCREASE OF ITS MEDICAL PERSONNEL AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Increase Bed Capacity",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3249629366!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1399"
 
 [[history]]
 date = "2020-03-04"

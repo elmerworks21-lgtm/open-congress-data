@@ -6,7 +6,6 @@ name = "SBN-00236"
 [meta]
 bill_number = 236
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-236", "https://web.senate.gov.ph/lisdata/4671342718!.pdf",]
 title = "ESTABLISHING A TRIPARTITE COUNCIL"
 date_filed = "2025-07-07"
 long_title = "AN ACT ESTABLISHING A TRIPARTITE COUNCIL TO ADDRESS THE PROBLEMS OF UNEMPLOYMENT, UNDEREMPLOYMENT, JOB-SKILLS MISMATCH AND TECHNOLOGY-INDUCED JOB DISPLACEMENT, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Unemployment", "Tripartite Council",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4671342718!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-236"
 
 [[history]]
 date = "2025-07-07"

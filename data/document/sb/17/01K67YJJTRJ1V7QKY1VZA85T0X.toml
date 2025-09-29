@@ -6,7 +6,6 @@ name = "SBN-02197"
 [meta]
 bill_number = 2197
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2197", "https://web.senate.gov.ph/lisdata/2951226181!.pdf",]
 title = "AMENDING SECTIONS 141, 142 AND 143 (SIN TAX, NIRC)"
 date_filed = "2019-01-30"
 long_title = "AN ACT AMENDING SECTIONS 141, 142 AND 143 OF REPUBLIC ACT NO. 8424, AS AMENDED, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Sin Tax)",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2951226181!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2197"
 
 [[history]]
 date = "2019-01-30"

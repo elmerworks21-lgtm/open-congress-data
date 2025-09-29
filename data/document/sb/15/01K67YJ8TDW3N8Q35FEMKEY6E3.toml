@@ -6,7 +6,6 @@ name = "SBN-02502"
 [meta]
 bill_number = 2502
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2502", "https://web.senate.gov.ph/lisdata/101608709!.pdf",]
 title = "CHILDREN IN MOTOR VEHICLES"
 date_filed = "2010-09-13"
 long_title = "AN ACT TO PROHIBIT UNATTENDED CHILDREN IN MOTOR VEHICLES"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicles", "Child Care Laws",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101608709!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2502"
 
 [[history]]
 date = "2010-09-13"

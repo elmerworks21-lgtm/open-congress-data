@@ -6,7 +6,6 @@ name = "SBN-00659"
 [meta]
 bill_number = 659
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-659", "https://web.senate.gov.ph/lisdata/48814248!.pdf",]
 title = "SPEECH PATHOLOGY ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT REGULATING THE PRACTICE OF SPEECH PATHOLOGY IN THE PHILIPPINES, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Speech Pathology",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48814248!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-659"
 
 [[history]]
 date = "2007-07-03"

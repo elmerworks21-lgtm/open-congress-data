@@ -6,7 +6,6 @@ name = "SBN-02409"
 [meta]
 bill_number = 2409
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2409", "https://web.senate.gov.ph/lisdata/1985816982!.pdf",]
 title = "AMENDING SEC. 5, RA 8485 (ANIMAL WELFARE ACT)"
 date_filed = "2014-09-15"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8485, OTHERWISE KNOWN AS THE ANIMAL WELFARE ACT OF 1998"
@@ -15,6 +14,8 @@ subjects = [ "Animal Welfare", "Department of Agriculture",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1985816982!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2409"
 
 [[history]]
 date = "2014-09-15"

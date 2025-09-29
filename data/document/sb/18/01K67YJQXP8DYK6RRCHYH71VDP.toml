@@ -6,7 +6,6 @@ name = "SBN-02146"
 [meta]
 bill_number = 2146
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2146", "https://web.senate.gov.ph/lisdata/3494631769!.pdf",]
 title = "HAPI JOCKEY CLUB, INC."
 date_filed = "2021-04-27"
 long_title = "AN ACT GRANTING THE HAPI JOCKEY CLUB, INC. A FRANCHISE TO CONSTRUCT, OPERATE, AND MAINTAIN RACE TRACKS FOR HORSE RACING IN THE PROVINCES OF BATANGAS, LAGUNA, AND CAVITE"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Franchise Sales", "Franchise Business",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3494631769!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2146"
 
 [[history]]
 date = "2021-04-27"

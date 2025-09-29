@@ -6,7 +6,6 @@ name = "SBN-01295"
 [meta]
 bill_number = 1295
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1295", "https://web.senate.gov.ph/lisdata/55954904!.pdf",]
 title = "MATERNAL AND INFANT CARE ACT"
 date_filed = "2007-07-18"
 long_title = "AN ACT ESTABLISHING MATERNAL AND INFANT HEALTH HOME VISITING PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Maternal and Infant Care",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55954904!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1295"
 
 [[history]]
 date = "2007-07-04"

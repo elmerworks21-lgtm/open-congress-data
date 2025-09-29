@@ -6,7 +6,6 @@ name = "SBN-02853"
 [meta]
 bill_number = 2853
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2853", "https://web.senate.gov.ph/lisdata/2181718536!.pdf",]
 title = "TASK FORCE AGAINST COUNTERFEIT DRUGS ACT"
 date_filed = "2015-07-06"
 long_title = "AN ACT TO ESTABLISH TASK FORCE AGAINST COUNTERFEIT DRUGS AND TO INCREASE AND STRENGTHEN GOVERNMENT EFFORTS AGAINST COUNTERFEIT DRUG CRIMES"
@@ -15,6 +14,8 @@ subjects = [ "Counterfeit Medicines",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2181718536!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2853"
 
 [[history]]
 date = "2015-07-06"

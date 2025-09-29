@@ -6,7 +6,6 @@ name = "SBN-01218"
 [meta]
 bill_number = 1218
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1218", "https://web.senate.gov.ph/lisdata/55144927!.pdf",]
 title = "CHILD SAFETY FIREARMS ACT"
 date_filed = "2007-07-05"
 long_title = "AN ACT REQUIRING THAT FIREARMS SOLD, MANUFACTURED OR IMPORTED BE MADE CHILD-PROOF"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55144927!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1218"
 
 [[history]]
 date = "2007-07-04"

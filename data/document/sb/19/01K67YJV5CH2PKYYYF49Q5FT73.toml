@@ -6,7 +6,6 @@ name = "SBN-00427"
 [meta]
 bill_number = 427
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-427", "https://web.senate.gov.ph/lisdata/3818834626!.pdf",]
 title = "BARANGAY HEALTH WORKERS ACT OF 2022"
 date_filed = "2022-07-12"
 long_title = "AN ACT MANDATING THE APPOINTMENT OF BARANGAY HEALTH WORKERS IN BARANGAYS, PROVIDING FOR THEIR DUTIES AND RESPONSIBILITIES, COMPENSATION AND BENEFITS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Worker", "Benefits and Incentives",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3818834626!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-427"
 
 [[history]]
 date = "2022-07-12"

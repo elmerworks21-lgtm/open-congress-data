@@ -6,7 +6,6 @@ name = "SBN-00002"
 [meta]
 bill_number = 2
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2", "https://web.senate.gov.ph/lisdata/1244555!.pdf",]
 title = "THE CONSTITUTIONAL CONVENTION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT CALLING FOR A CONSTITUTIONAL CONVENTION TO STUDY AND APPROVE PROPOSED AMENDMENTS TO, OR REVISIONS OF, THE 1987 CONSTITUTION, PROVIDING FOR PROPORTIONAL REPRESENTATION THEREIN AND OTHER DETAILS RELATING TO THE HOLDING OF THE CONVENTION, SETTING THE DATE OF ELECTION OF DELEGATES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Constitutional Convention", "Charter Change (1987 Constitution)",]
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1244555!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2"
 
 [[history]]
 date = "2004-06-30"

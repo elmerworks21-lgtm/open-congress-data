@@ -6,7 +6,6 @@ name = "SBN-02123"
 [meta]
 bill_number = 2123
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2123", "https://web.senate.gov.ph/lisdata/1872515852!.pdf",]
 title = "AMENDING SECS. 28 (A) (3), 109 (S) & 118 OF THE NATIONAL INTERNAL REVENUE CODE"
 date_filed = "2014-02-13"
 long_title = "AN ACT FURTHER AMENDING THE NATIONAL INTERNAL REVENUE CODE (NIRC) OF 1997, AS AMENDED, BY INCLUDING THE TRANSPORT OF CARGOES BY INTERNATIONAL CARRIERS UNDER THE LAST PARAGRAPH OF SECTION 28 (A) (3), PARAGRAPH (S) OF SECTION 109 AND DELETING SECTION 118 OF TITLE V THEREOF FOR THE PURPOSE OF EXPANDING TRADE AND ATTRACTING INVESTMENTS IN THE COUNTRY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1872515852!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2123"
 
 [[history]]
 date = "2014-02-13"

@@ -6,7 +6,6 @@ name = "SBN-02783"
 [meta]
 bill_number = 2783
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2783", "https://web.senate.gov.ph/lisdata/4464740594!.pdf",]
 title = "KAPAKANAN NG MAGSISIPAGTAPOS ACT"
 date_filed = "2024-08-14"
 long_title = "AN ACT PROHIBITING EDUCATIONAL INSTITUTIONS FROM PREVENTING THEIR DISADVANTAGED GRADUATING STUDENTS TO PARTICIPATE IN THEIR GRADUATION CEREMONY FOR REASONS OF OUTSTANDING FINANCIAL OBLIGATIONS, SUCH AS UNPAID TUITION FEES, MISCELLANEOUS FEES, AND OTHER SCHOOL FEES"
@@ -15,6 +14,8 @@ subjects = [ "Graduating Students", "Educational Institutions",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4464740594!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2783"
 
 [[history]]
 date = "2024-08-14"

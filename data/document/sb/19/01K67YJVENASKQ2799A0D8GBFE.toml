@@ -6,7 +6,6 @@ name = "SBN-00852"
 [meta]
 bill_number = 852
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-852", "https://web.senate.gov.ph/lisdata/3867135124!.pdf",]
 title = "PHILIPPINE MARITIME ZONES ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT DEFINING THE MARITIME ZONES UNDER THE JURISDICTION OF THE REPUBLIC OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Maritime Zone",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["SCPMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3867135124!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-852"
 
 [[history]]
 date = "2022-07-25"

@@ -6,7 +6,6 @@ name = "SBN-00592"
 [meta]
 bill_number = 592
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-592", "https://web.senate.gov.ph/lisdata/48034134!.pdf",]
 title = "IMPROVEMENT OF INFORMATION ACCESS ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO IMPROVE PUBLIC DISSEMINATION OF GOVERNMENT INFORMATION"
@@ -15,6 +14,8 @@ subjects = [ "Public Access to Official Information", "Government Information Pu
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48034134!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-592"
 
 [[history]]
 date = "2007-07-02"

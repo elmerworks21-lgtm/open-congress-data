@@ -6,7 +6,6 @@ name = "SBN-02110"
 [meta]
 bill_number = 2110
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2110", "https://web.senate.gov.ph/lisdata/96968234!.pdf",]
 title = "COMPLIANCE TO THE WRIT OF HABEAS CORPUS ACT OF 2010"
 date_filed = "2010-07-27"
 long_title = "AN ACT PENALIZING DISOBEDIENCE TO THE WRIT OF HABEAS CORPUS"
@@ -15,6 +14,8 @@ subjects = [ "Writ of Habeas Corpus",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/96968234!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2110"
 
 [[history]]
 date = "2010-07-27"

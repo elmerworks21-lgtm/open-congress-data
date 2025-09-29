@@ -6,7 +6,6 @@ name = "SBN-02926"
 [meta]
 bill_number = 2926
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2926", "https://web.senate.gov.ph/lisdata/94968603!.pdf",]
 title = "ANTI-VANDALISM ACT"
 date_filed = "2008-12-03"
 long_title = "AN ACT PROHIBITING VANDALISM AND IMPOSING PENALTIES THERETO"
@@ -15,6 +14,8 @@ subjects = [ "Vandalism",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94968603!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2926"
 
 [[history]]
 date = "2008-12-03"

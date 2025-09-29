@@ -6,7 +6,6 @@ name = "SBN-01473"
 [meta]
 bill_number = 1473
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1473", "https://web.senate.gov.ph/lisdata/3262329488!.pdf",]
 title = "THREE-GIVES LAW"
 date_filed = "2020-05-04"
 long_title = "AN ACT INSTITUTIONALIZING AN INSTALLMENT PAYMENT SCHEME ON BASIC UTILITY BILLS DURING CALAMITIES, AND FOR OTHER PURPOSES, TO BE KNOWN AS THE ‘THREE-GIVES LAW’"
@@ -15,6 +14,8 @@ subjects = [ "Payment System", "Utility Bills", "Calamity/Disaster", "Epidemic",
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3262329488!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1473"
 
 [[history]]
 date = "2020-05-04"

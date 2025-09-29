@@ -6,7 +6,6 @@ name = "SBN-00501"
 [meta]
 bill_number = 501
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-501", "https://web.senate.gov.ph/lisdata/1658960!.pdf",]
 title = "SAN ISIDRO-DAJA-VILLALON-CALUBIAN ROAD (NORTHWEST LEYTE)"
 date_filed = "2004-06-30"
 long_title = "AN ACT AUTHORIZING THE COMPLETION OF TWO ARTERIAL ROADS IN NORTWEST LEYTE, DECLARING AND CONVERTING THEM INTO NATIONAL ROADS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Roads, Conversion (Northern Leyte)", "San Isidro-Daja-Villalon-Cal
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1658960!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-501"
 
 [[history]]
 date = "2004-06-30"

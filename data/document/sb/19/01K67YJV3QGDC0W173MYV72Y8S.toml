@@ -6,7 +6,6 @@ name = "SBN-00350"
 [meta]
 bill_number = 350
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-350", "https://web.senate.gov.ph/lisdata/3810934550!.pdf",]
 title = "INTEGRATED URBAN AGRICULTURE ACT OF 2022"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROMOTING INTEGRATED URBAN AGRICULTURE IN URBAN AREAS NATIONWIDE TO ADDRESS FOOD SECURITY AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Food Security", "Integrated Urban Agriculture", "Urban Agricultura
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3810934550!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-350"
 
 [[history]]
 date = "2022-07-12"

@@ -6,7 +6,6 @@ name = "SBN-02053"
 [meta]
 bill_number = 2053
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2053", "https://web.senate.gov.ph/lisdata/67886017!.pdf",]
 title = "ANTI-SPYWARE ACT 2008"
 date_filed = "2008-02-05"
 long_title = "AN ACT TO REGULATE THE UNAUTHORIZED INSTALLATION OF COMPUTER SOFTWARE AND TO REQUIRE THE CLEAR DISCLOSURE TO COMPUTER USERS OF CERTAIN COMPUTER SOFTWARE FEATURES THAT MAY POSE A THREAT TO USER PRIVACY"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67886017!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2053"
 
 [[history]]
 date = "2008-02-05"

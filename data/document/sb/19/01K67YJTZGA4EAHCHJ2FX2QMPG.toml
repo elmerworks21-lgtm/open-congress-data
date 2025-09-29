@@ -6,7 +6,6 @@ name = "SBN-00157"
 [meta]
 bill_number = 157
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-157", "https://web.senate.gov.ph/lisdata/3786534306!.pdf",]
 title = "ENERGY TRANSITION ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING FOR A NATIONAL ENERGY POLICY AND FRAMEWORK FOR A CLEAN AND JUST ENERGY TRANSITION IN THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Energy Transition Plan",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3786534306!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-157"
 
 [[history]]
 date = "2022-07-07"

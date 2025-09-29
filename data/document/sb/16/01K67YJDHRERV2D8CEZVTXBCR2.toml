@@ -6,7 +6,6 @@ name = "SBN-01969"
 [meta]
 bill_number = 1969
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1969", "https://web.senate.gov.ph/lisdata/1834015515!.pdf",]
 title = "NATIONAL SECURITY ACT OF 2013"
 date_filed = "2013-11-27"
 long_title = "AN ACT PROVIDING FOR A NATIONAL SECURITY POLICY AND PLANNING FRAMEWORK AND CREATING AN INSTITUTIONAL MECHANISM FOR IMPLEMENTATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Security Policy",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1834015515!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1969"
 
 [[history]]
 date = "2013-11-27"

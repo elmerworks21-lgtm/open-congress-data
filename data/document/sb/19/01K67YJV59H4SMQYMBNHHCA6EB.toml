@@ -6,7 +6,6 @@ name = "SBN-00422"
 [meta]
 bill_number = 422
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-422", "https://web.senate.gov.ph/lisdata/3818334621!.pdf",]
 title = "FREE LEGAL ASSISTANCE TO ANY OFFICER OR ENLISTED PERSONNEL OF THE AFP AND PNP"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING FREE LEGAL ASSISTANCE TO ANY OFFICER OR ENLISTED PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES AND THE PHILIPPINE NATIONAL POLICE ON ANY CHARGE BEFORE THE PROSECUTOR'S OFFICE, COURT OR ANY COMPETENT BODY ARISING FROM AN INCIDENT OR INCIDENTS RELATED TO THE PERFORMANCE OF OFFICIAL DUTY"
@@ -15,6 +14,8 @@ subjects = [ "Free Legal Aid", "Philippine National Police (PNP)", "Armed Forces
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3818334621!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-422"
 
 [[history]]
 date = "2022-07-12"

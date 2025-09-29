@@ -6,7 +6,6 @@ name = "SBN-02258"
 [meta]
 bill_number = 2258
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2258", "https://web.senate.gov.ph/lisdata/4187338139!.pdf",]
 title = "THE TEACHER MENTAL HEALTH AND WELLNESS ACT OF 2023"
 date_filed = "2023-05-29"
 long_title = "AN ACT ESTABLISHING PROGRAMS AND SERVICES FOR THE SUPPORT OF THE MENTAL HEALTH AND WELLNESS OF TEACHERS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Mental Health",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4187338139!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2258"
 
 [[history]]
 date = "2023-05-29"

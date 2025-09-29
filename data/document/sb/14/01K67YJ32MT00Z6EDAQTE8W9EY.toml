@@ -6,7 +6,6 @@ name = "SBN-03150"
 [meta]
 bill_number = 3150
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3150", "https://web.senate.gov.ph/lisdata/107469500!.pdf",]
 title = "BANK DEPOSIT DISCLOSURE BAN"
 date_filed = "2009-04-13"
 long_title = "AN ACT AMENDING SECTION 2 OF R.A. 1405 ALSO KNOWN AS AN ACT PROHIBITING DISCLOSURE OF OR INQUIRY INTO, DEPOSITS WITH ANY BANKING INSTITUTIONS AND PROVIDING PENALTY THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Bank Secrecy",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107469500!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3150"
 
 [[history]]
 date = "2009-04-13"

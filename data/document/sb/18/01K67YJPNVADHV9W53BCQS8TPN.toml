@@ -6,7 +6,6 @@ name = "SBN-00427"
 [meta]
 bill_number = 427
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-427", "https://web.senate.gov.ph/lisdata/3077327622!.pdf",]
 title = "BODY CAMERA ACT"
 date_filed = "2019-07-15"
 long_title = "AN ACT MANDATING LAW ENFORCEMENT PERSONNEL TO WEAR A BODY CAMERA DURING LAW ENFORCEMENT AND SPECIAL POLICE OPERATIONS, PROVIDING GUIDELINES FOR THE USE OF BODY CAMERA AND VIDEO FOOTAGE RETENTION, AND PENALIZING NON-COMPLIANCE WITH RECORDING AND RETENTION REQUIREMENTS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Body and Dashboard Cameras", "Law Enforcement Officers/Law Enforcement Agency/Law Enforcement Operations",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3077327622!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-427"
 
 [[history]]
 date = "2019-07-15"

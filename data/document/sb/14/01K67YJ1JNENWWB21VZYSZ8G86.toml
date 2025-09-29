@@ -6,7 +6,6 @@ name = "SBN-01301"
 [meta]
 bill_number = 1301
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1301", "https://web.senate.gov.ph/lisdata/56014960!.pdf",]
 title = "CELL PHONE SUBSCRIBER PROTECTION"
 date_filed = "2007-07-18"
 long_title = "AN ACT TO ESTABLISH MINIMUM STANDARDS REGARDING THE QUALITY OF WIRELESS TELEPHONE SERVICE AND TO MONITOR COMPLAINTS REGARDING SUCH SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Cellphone Subscriber Protection", "Cellular Phones/Cellphones/Mobi
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56014960!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1301"
 
 [[history]]
 date = "2007-07-04"

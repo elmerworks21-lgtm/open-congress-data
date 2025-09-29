@@ -6,7 +6,6 @@ name = "SBN-00250"
 [meta]
 bill_number = 250
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-250", "https://web.senate.gov.ph/lisdata/43503746!.pdf",]
 title = "NUTRITION ACT"
 date_filed = "2007-06-30"
 long_title = "AN ACT STRENGTHENING THE NATIONAL NUTRITION PROGRAM, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43503746!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-250"
 
 [[history]]
 date = "2007-06-30"

@@ -6,7 +6,6 @@ name = "SBN-03289"
 [meta]
 bill_number = 3289
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3289", "https://web.senate.gov.ph/lisdata/1159010198!.pdf",]
 title = "TRICYCLE DRIVER SAFETY ACT"
 date_filed = "2009-05-28"
 long_title = "AN ACT ESTABLISHING TRICYCLE DRIVER TRAINING AND MOTORIST AWARENESS PROGRAMS"
@@ -15,6 +14,8 @@ subjects = [ "Tricycle",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1159010198!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3289"
 
 [[history]]
 date = "2009-05-28"

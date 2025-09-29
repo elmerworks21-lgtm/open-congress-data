@@ -6,7 +6,6 @@ name = "SBN-01781"
 [meta]
 bill_number = 1781
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1781", "https://web.senate.gov.ph/lisdata/4052836932!.pdf",]
 title = "BARANGAY NORTH POBLACION AND BARANGAY SOUTH POBLACION (ABRA)"
 date_filed = "2023-01-25"
 long_title = "AN ACT DIVIDING BARANGAY POBLACION IN THE MUNICIPALITY OF LA PAZ PROVINCE OF ABRA INTO DISTINCT AND INDEPENDENT BARANGAYS TO BE KNOWN AS BARANGAY NORTH POBLACION AND BARANGAY SOUTH POBLACION"
@@ -15,6 +14,8 @@ subjects = [ "Barangay, Creation",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4052836932!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1781"
 
 [[history]]
 date = "2023-01-25"

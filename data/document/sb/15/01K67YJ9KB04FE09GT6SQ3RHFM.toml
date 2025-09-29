@@ -6,7 +6,6 @@ name = "SBN-03256"
 [meta]
 bill_number = 3256
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3256", "https://web.senate.gov.ph/lisdata/1386111684!.pdf",]
 title = "FREE COLLEGE ENTRANCE EXAM ACT"
 date_filed = "2012-08-16"
 long_title = "AN ACT PROVIDING FOR FREE COLLEGE ENTRANCE EXAMINATIONS TO UNDERPRIVILEGED PUBLIC HIGH SCHOOL STUDENTS BELONGING TO THE TOP TEN PERCENT (10%) OF THE GRADUATING CLASS"
@@ -15,6 +14,8 @@ subjects = [ "College Entrance Examination",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1386111684!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3256"
 
 [[history]]
 date = "2012-08-16"

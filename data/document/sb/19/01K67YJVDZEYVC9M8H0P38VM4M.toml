@@ -6,7 +6,6 @@ name = "SBN-00823"
 [meta]
 bill_number = 823
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-823", "https://web.senate.gov.ph/lisdata/3859135042!.pdf",]
 title = "CONDONATION OF PENALTIES INCURRED BY EMPLOYERS FOR UNPAID SOCIAL BENEFITS CONTRIBUTIONS (KASAMBAHAY)"
 date_filed = "2022-07-25"
 long_title = "AN ACT PROVIDING FOR THE CONDONATION OF PENALTIES FOR UNPAID SOCIAL SECURITY SYSTEM, PHILIPPINE HEALTH INSURANCE CORPORATION, AND THE HOME DEVELOPMENT MUTUAL FUND CONTRIBUTIONS OF HOUSEHOLD EMPLOYERS RELATIVE TO REPUBLIC ACT NO. 10361, ALSO KNOWN AS THE DOMESTIC WORKERS ACT OR BATAS KASAMBAHAY"
@@ -15,6 +14,8 @@ subjects = [ "Condonation", "Household Helpers", "Social Security System (SSS)",
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3859135042!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-823"
 
 [[history]]
 date = "2022-07-25"

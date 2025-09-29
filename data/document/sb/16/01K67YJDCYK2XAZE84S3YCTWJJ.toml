@@ -6,7 +6,6 @@ name = "SBN-01728"
 [meta]
 bill_number = 1728
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1728", "https://web.senate.gov.ph/lisdata/1787015095!.pdf",]
 title = "EMERGENCY MEDICAL SERVICES AND TRAUMA CARE IMPROVEMENT ACT"
 date_filed = "2013-09-19"
 long_title = "AN ACT TO IMPROVE EMERGENCY MEDICAL SERVICES AND TRAUMA CARE"
@@ -15,6 +14,8 @@ subjects = [ "Emergency Medical Services and Trauma Care",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1787015095!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1728"
 
 [[history]]
 date = "2013-09-19"

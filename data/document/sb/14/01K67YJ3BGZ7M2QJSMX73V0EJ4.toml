@@ -6,7 +6,6 @@ name = "SBN-03498"
 [meta]
 bill_number = 3498
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3498", "https://web.senate.gov.ph/lisdata/1279211469!.pdf",]
 title = "PHILIPPINE PSYCHOLOGY ACT OF 2009"
 date_filed = "2009-10-14"
 long_title = "AN ACT TO REGULATE THE PRACTICE OF PSYCHOLOGY CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF PSYCHOLOGY, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Pimentel Jr., Aquilino Q., Trillanes IV, Antonio \"Sonny\" F., Legarda, Loren B., Lacson, Panfilo M."
 author_codes = ["LLORE", "LPANF", "PAQUI", "TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1279211469!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3498"
 
 [[history]]
 date = "2009-10-14"

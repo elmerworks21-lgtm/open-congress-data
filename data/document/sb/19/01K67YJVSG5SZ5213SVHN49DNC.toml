@@ -6,7 +6,6 @@ name = "SBN-01325"
 [meta]
 bill_number = 1325
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1325", "https://web.senate.gov.ph/lisdata/3943935837!.pdf",]
 title = "RAPID RE-HOUSING PROGRAM ACT"
 date_filed = "2022-09-19"
 long_title = "AN ACT INSTITUTIONALIZING A RAPID RE-HOUSING PROGRAM TO END HOMELESSNESS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Re-Housing Program",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3943935837!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1325"
 
 [[history]]
 date = "2022-09-19"

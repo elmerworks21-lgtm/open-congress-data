@@ -6,7 +6,6 @@ name = "SBN-00321"
 [meta]
 bill_number = 321
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-321", "https://web.senate.gov.ph/lisdata/2375920420!.pdf",]
 title = "COFFEE DEVELOPMENT ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT ESTABLISHING A NATIONAL PROGRAM FOR THE COFFEE INDUSTRY PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Coffee",]
 authors_raw = "Villar, Cynthia A., Legarda, Loren B."
 author_codes = ["LLORE", "VCYNT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2375920420!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-321"
 
 [[history]]
 date = "2016-07-04"

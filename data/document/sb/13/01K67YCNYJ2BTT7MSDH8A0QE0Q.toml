@@ -6,7 +6,6 @@ name = "SBN-01041"
 [meta]
 bill_number = 1041
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1041", "https://web.senate.gov.ph/lisdata/22451365!.pdf",]
 title = "MAGNA CARTA OF STUDENTS"
 date_filed = "2004-06-30"
 long_title = "AN ACT FOR THE ESTABLISHMENT OF THE MAGNA CARTA OF STUDENTS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Students",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/22451365!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1041"
 
 [[history]]
 date = "2004-06-30"

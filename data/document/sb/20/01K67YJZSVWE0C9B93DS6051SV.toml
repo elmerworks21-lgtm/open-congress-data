@@ -6,7 +6,6 @@ name = "SBN-00007"
 [meta]
 bill_number = 7
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-7", "https://web.senate.gov.ph/lisdata/4648142484!.pdf",]
 title = "SECURITY OF TENURE ACT"
 date_filed = "2025-07-02"
 long_title = "AN ACT STRENGTHENING THE SECURITY OF TENURE OF WORKERS IN THE PRIVATE SECTOR, AMENDING FOR THE PURPOSE ARTICLES 106, 107, 108, 109, AND 294 OF PRESIDENTIAL DECREE NO. 442 OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Security of Tenure", "Private Sector", "Labor Code of the Philippi
 authors_raw = "Ejercito, Jv"
 author_codes = ["JVEJE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4648142484!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-7"
 
 [[history]]
 date = "2025-07-02"

@@ -6,7 +6,6 @@ name = "SBN-02140"
 [meta]
 bill_number = 2140
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2140", "https://web.senate.gov.ph/lisdata/4153037817!.pdf",]
 title = "ESTABLISHING THE STANDARDS FOR A LIVING WAGE, AMENDING PD NO. 442 (LABOR CODE OF THE PHILIPPINES)"
 date_filed = "2023-05-08"
 long_title = "AN ACT ESTABLISHING THE STANDARDS FOR A LIVING WAGE, AMENDING FOR THE PURPOSE ARTICLE 124 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Wage", "Presidential Decree (P.D.No. 442)", "Labor Code of the Phi
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4153037817!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2140"
 
 [[history]]
 date = "2023-05-08"

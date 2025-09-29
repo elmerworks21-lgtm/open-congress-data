@@ -6,7 +6,6 @@ name = "SBN-00979"
 [meta]
 bill_number = 979
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-979", "https://web.senate.gov.ph/lisdata/4745543457!.pdf",]
 title = "NATIONAL POLICY AND PROGRAM GUIDELINES FOR THE OPERATION AND MAINTENANCE OF DORMITORIES"
 date_filed = "2025-08-06"
 long_title = "AN ACT ESTABLISHING A COMPREHENSIVE AND INTEGRATED NATIONAL POLICY AND PROGRAM GUIDELINES FOR THE OPERATION AND MAINTENANCE OF DORMITORIES AND BOARDING HOUSES, PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Dormitories", "Boarding Houses",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4745543457!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-979"
 
 [[history]]
 date = "2025-08-06"

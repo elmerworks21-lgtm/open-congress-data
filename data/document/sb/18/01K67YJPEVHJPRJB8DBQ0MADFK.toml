@@ -6,7 +6,6 @@ name = "SBN-00116"
 [meta]
 bill_number = 116
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-116", "https://web.senate.gov.ph/lisdata/3035627214!.pdf",]
 title = "REVERSION TO MAIDEN NAME ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT ALLOWING WOMEN TO REVERT TO THEIR MAIDEN SURNAME, ESTABLISHING A PROCEDURE FOR REVERSION AND APPROPRIATING FUNDS THEREFORE"
@@ -15,6 +14,8 @@ subjects = [ "Women (Maiden Surname)",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3035627214!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-116"
 
 [[history]]
 date = "2019-07-01"

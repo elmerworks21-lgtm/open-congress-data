@@ -6,7 +6,6 @@ name = "SBN-01063"
 [meta]
 bill_number = 1063
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1063", "https://web.senate.gov.ph/lisdata/2465521241!.pdf",]
 title = "AMENDING SECTION 2 AND 3 OF RA NO. 8187 (PATERNITY LEAVE ACT OF 1995)"
 date_filed = "2016-08-23"
 long_title = "AN ACT AMENDING SECTIONS 2 AND 3 OF REPUBLIC ACT NUMBER 8187, OTHERWISE KNOWN AS THE ‘PATERNITY LEAVE ACT OF 1995’ AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Paternity Leave", "Leave of Absence",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2465521241!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1063"
 
 [[history]]
 date = "2016-08-23"

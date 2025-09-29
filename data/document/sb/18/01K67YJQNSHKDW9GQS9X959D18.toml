@@ -6,7 +6,6 @@ name = "SBN-01838"
 [meta]
 bill_number = 1838
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1838", "https://web.senate.gov.ph/lisdata/3357830422!.pdf",]
 title = "BATAS SA PAGTATAGUYOD NG WIKANG FILIPINO SA MGA ASIGNATURA SA KOLEHIYO"
 date_filed = "2020-09-21"
 long_title = "ISANG BATAS NA NAGTATAKDA NG HINDI BABABA SA SIYAM (9) NA YUNIT NG ASIGNATURANG FILIPINO AT TATLONG (3) YUNIT NG ASIGNATURANG PANITIKAN SA KURIKULUM NG KOLEHIYO"
@@ -15,6 +14,8 @@ subjects = [ "Curriculum/Curricula", "Filipino Language",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3357830422!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1838"
 
 [[history]]
 date = "2020-09-21"

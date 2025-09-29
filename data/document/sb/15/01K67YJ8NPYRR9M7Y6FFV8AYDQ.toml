@@ -6,7 +6,6 @@ name = "SBN-02290"
 [meta]
 bill_number = 2290
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2290", "https://web.senate.gov.ph/lisdata/98868420!.pdf",]
 title = "DYSTONIA RESEARCH AND INFORMATION ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT PROMOTING RESEARCH ON DYSTONIA"
@@ -15,6 +14,8 @@ subjects = [ "Dystonia",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98868420!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2290"
 
 [[history]]
 date = "2010-08-02"

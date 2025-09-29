@@ -6,7 +6,6 @@ name = "SBN-02337"
 [meta]
 bill_number = 2337
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2337", "https://web.senate.gov.ph/lisdata/54724483!.pdf",]
 title = "SPECIAL EDUCATION PROGRAM FOR GIFTED/HANDICAPPED CHILDREN"
 date_filed = "2006-06-07"
 long_title = "AN ACT TO EXPAND AND REVITALIZE THE SPECIAL EDUCATION PROGRAM FOR GIFTED AND HANDICAPPED CHILDREN AND YOUTH IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Special Education Program (Gifted Child)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54724483!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2337"
 
 [[history]]
 date = "2006-06-07"

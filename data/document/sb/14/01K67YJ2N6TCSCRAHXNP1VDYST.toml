@@ -6,7 +6,6 @@ name = "SBN-02547"
 [meta]
 bill_number = 2547
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2547", "https://web.senate.gov.ph/lisdata/81067346!.pdf",]
 title = "VAT EXEMPTION ON SALE OF ELECTRICITY TO RESIDENTIAL CONSUMERS"
 date_filed = "2008-08-19"
 long_title = "AN ACT EXEMPTING THE SALE OF ELECTRICITY TO RESIDENTIAL CONSUMERS WITH CONSUMPTION NOT EXCEEDING 250 KILOWATT HOUR FROM THE VALUE-ADDED TAX, AMENDING FOR THE PURPOSE SECTION 109 (1) OF REPUBLIC ACT NO. 8424 OR THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Value-Added Tax (VAT Exemption)", "Electricity",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81067346!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2547"
 
 [[history]]
 date = "2008-08-19"

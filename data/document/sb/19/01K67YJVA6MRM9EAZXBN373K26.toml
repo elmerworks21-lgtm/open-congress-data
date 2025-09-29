@@ -6,7 +6,6 @@ name = "SBN-00647"
 [meta]
 bill_number = 647
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-647", "https://web.senate.gov.ph/lisdata/3850834963!.pdf",]
 title = "PROMOTING RENEWABLE ENERGY"
 date_filed = "2022-07-14"
 long_title = "AN ACT FURTHER PROMOTING RENEWABLE ENERGY, AMENDING THEREFOR REPUBLIC ACT NO. 9513 , OTHERWISE KNOWN AS THE 'RENEWABLE ENERGY ACT OF 2008' AND REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS 'THE LOCAL GOVERNMENT CODE OF 1991,' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Renewable Energy", "Local Government Units (LGUS)", "Local Governm
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3850834963!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-647"
 
 [[history]]
 date = "2022-07-14"

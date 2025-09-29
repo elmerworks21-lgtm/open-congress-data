@@ -6,7 +6,6 @@ name = "SBN-01846"
 [meta]
 bill_number = 1846
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1846", "https://web.senate.gov.ph/lisdata/30832280!.pdf",]
 title = "TRUTH AND RECONCILIATION COMMISSION ACT OF 2004"
 date_filed = "2004-11-05"
 long_title = "AN ACT CREATING A TRUTH AND RECONCILIATION COMMISSION TO INVESTIGATE CORRUPTION IN GOVERNMENT, GRANT IMMUNITY AND REWARDS TO SOURCES OF INFORMATION AND RECOMMEND ACTION TO CURB GRAFT AND CORRUPTION, OTHERWISE KNOWN AS THE TRUTH AND RECONCILIATION ACT OF 2004"
@@ -15,6 +14,8 @@ subjects = [ "Truth and Reconciliation Commission Act", "Graft and Corruption",]
 authors_raw = "Magsaysay Jr., Ramon B., Osmena III, Sergio R."
 author_codes = ["MRAMO", "OSERG"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/30832280!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1846"
 
 [[history]]
 date = "2004-11-05"

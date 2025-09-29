@@ -6,7 +6,6 @@ name = "SBN-03180"
 [meta]
 bill_number = 3180
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3180", "https://web.senate.gov.ph/lisdata/2310919848!.pdf",]
 title = "PROHIBITING THE DISPOSAL OF ELECTRONIC EQUIPMENT"
 date_filed = "2016-01-28"
 long_title = "AN ACT PROHIBITING THE DISPOSAL OF ELECTRONIC EQUIPMENT AT SOLID WASTE MANAGEMENT FACILITIES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Electronic Equipment", "Solid Waste", "Waste Management",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2310919848!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3180"
 
 [[history]]
 date = "2016-01-28"

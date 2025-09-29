@@ -6,7 +6,6 @@ name = "SBN-01806"
 [meta]
 bill_number = 1806
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1806", "https://web.senate.gov.ph/lisdata/3343530245!.pdf",]
 title = "CREMATORIES REGULATION ACT"
 date_filed = "2020-09-01"
 long_title = "AN ACT REGULATING CREMATORIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Crematory", "Crematories",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3343530245!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1806"
 
 [[history]]
 date = "2020-09-01"

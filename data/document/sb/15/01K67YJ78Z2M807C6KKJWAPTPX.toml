@@ -6,7 +6,6 @@ name = "SBN-00085"
 [meta]
 bill_number = 85
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-85", "https://web.senate.gov.ph/lisdata/75396084!.pdf",]
 title = "JOURNALIST WELFARE AND PROTECTION ACT OF 2010"
 date_filed = "2010-07-01"
 long_title = "AN ACT PROMOTING THE WELFARE OF AND PROVIDING PROTECTION TO JOURNALISTS, PROVIDING PENALTIES THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Journalist Welfare",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75396084!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-85"
 
 [[history]]
 date = "2010-07-01"

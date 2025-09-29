@@ -6,7 +6,6 @@ name = "SBN-01045"
 [meta]
 bill_number = 1045
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1045", "https://web.senate.gov.ph/lisdata/1708414299!.pdf",]
 title = "TURTLE ISLANDS WILDLIFE SANCTUARY ACT OF 2013"
 date_filed = "2013-07-23"
 long_title = "AN ACT ESTABLISHING TURTLE ISLANDS WILDLIFE SANCTUARY IN THE PROVINCE OF TAWI-TAWI AS PROTECTED AREA, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Wildlife", "Protected Area/Protected Landscape",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1708414299!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1045"
 
 [[history]]
 date = "2013-07-23"

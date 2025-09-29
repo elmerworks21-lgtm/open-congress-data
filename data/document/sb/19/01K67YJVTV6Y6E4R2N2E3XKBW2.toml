@@ -6,7 +6,6 @@ name = "SBN-01381"
 [meta]
 bill_number = 1381
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1381", "https://web.senate.gov.ph/lisdata/3964835964!.pdf",]
 title = "BETTER INTERNET ACT"
 date_filed = "2022-10-12"
 long_title = "AN ACT REQUIRING ALL PUBLIC TELECOMMUNICATIONS ENTITIES AND INTERNET SERVICE PROVIDERS TO INCREASE SERVICE COVERAGE AND DELIVER A MINIMUM STANDARD FOR INTERNET CONNECTION SPEED"
@@ -15,6 +14,8 @@ subjects = [ "Public Telecommunications Entities", "Internet Service Providers",
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3964835964!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1381"
 
 [[history]]
 date = "2022-10-12"

@@ -6,7 +6,6 @@ name = "SBN-03390"
 [meta]
 bill_number = 3390
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3390", "https://web.senate.gov.ph/lisdata/1505612520!.pdf",]
 title = "PHILIPPINE EAR, NOSE AND THROAT CENTER"
 date_filed = "2013-01-23"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE EAR, NOSE AND THROAT (ENT) CENTER AND APPROPRIATING FUNDS THEREFORE"
@@ -15,6 +14,8 @@ subjects = [ "Medical Rehabilitation", "Philippine Ear, Nose and Throat (ENT)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1505612520!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3390"
 
 [[history]]
 date = "2013-01-23"

@@ -6,7 +6,6 @@ name = "SBN-02950"
 [meta]
 bill_number = 2950
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2950", "https://web.senate.gov.ph/lisdata/1206410188!.pdf",]
 title = "LONG-TERM CARE FOR SENIOR CITIZENS ACT OF 2011"
 date_filed = "2011-08-23"
 long_title = "AN ACT ESTABLISHING AND INSTITUTIONALIZING LONG-TERM CARE FOR SENIOR CITIZENS, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizen", "Elderly",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1206410188!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2950"
 
 [[history]]
 date = "2011-08-23"

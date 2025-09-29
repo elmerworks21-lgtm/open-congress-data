@@ -6,7 +6,6 @@ name = "SBN-00008"
 [meta]
 bill_number = 8
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-8", "https://web.senate.gov.ph/lisdata/1581613052!.pdf",]
 title = "MAGNA CARTA FOR PUBLIC SCHOOL TEACHERS, AMENDMENT RE NON-TEACHING PERSONNEL"
 date_filed = "2013-07-01"
 long_title = "AN ACT PROVIDING FOR SECURITY OF TENURE AND ADDITIONAL BENEFITS TO TEACHERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 4670, OTHERWISE KNOWN AS THE MAGNA CARTA FOR PUBLIC SCHOOL TEACHERS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Public School Teachers",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1581613052!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-8"
 
 [[history]]
 date = "2013-07-01"

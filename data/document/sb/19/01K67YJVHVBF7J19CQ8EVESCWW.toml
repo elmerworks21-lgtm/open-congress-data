@@ -6,7 +6,6 @@ name = "SBN-00983"
 [meta]
 bill_number = 983
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-983", "https://web.senate.gov.ph/lisdata/3893135383!.pdf",]
 title = "FREE ANNUAL MEDICAL CHECK UP FOR FILIPINOS"
 date_filed = "2022-08-02"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNIVERSAL HEALTH CARE ACT, TO PROVIDE FOR FREE ANNUAL MEDICAL CHECK UP FOR FILIPINOS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Free Annual Medical Check-Up", "Universal Health Care",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3893135383!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-983"
 
 [[history]]
 date = "2022-08-02"

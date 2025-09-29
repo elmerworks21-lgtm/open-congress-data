@@ -6,7 +6,6 @@ name = "SBN-00863"
 [meta]
 bill_number = 863
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-863", "https://web.senate.gov.ph/lisdata/3124828146!.pdf",]
 title = "DOH HOSPITAL BED CAPACITY RATIONALIZATION ACT OF 2019"
 date_filed = "2019-08-05"
 long_title = "AN ACT AUTHORIZING THE DEPARTMENT OF HEALTH TO SET AND APPROVE THE BED CAPACITY OF ALL DOH RETAINED HOSPITALS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals (Doh Retained)", "Hospitals, Increase Bed Capacity",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3124828146!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-863"
 
 [[history]]
 date = "2019-08-05"

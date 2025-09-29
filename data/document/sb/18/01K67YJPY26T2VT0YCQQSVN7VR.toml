@@ -6,7 +6,6 @@ name = "SBN-00812"
 [meta]
 bill_number = 812
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-812", "https://web.senate.gov.ph/lisdata/3118828087!.pdf",]
 title = "GENDER-BASED ELECTRONIC VIOLENCE ACT OF 2019"
 date_filed = "2019-07-29"
 long_title = "AN ACT DEFINING GENDER-BASED ELECTRONIC VIOLENCE, PROVIDING PROTECTIVE MEASURES AND PRESCRIBING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Violence Against Women (E-Vaw)",]
 authors_raw = "Hontiveros, Risa, De Lima, Leila M."
 author_codes = ["DLEIL", "HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3118828087!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-812"
 
 [[history]]
 date = "2019-07-29"

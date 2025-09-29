@@ -6,7 +6,6 @@ name = "SBN-01300"
 [meta]
 bill_number = 1300
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1300", "https://web.senate.gov.ph/lisdata/3226029107!.pdf",]
 title = "MIXED FILIPINO HERITAGE ACT OF 2020"
 date_filed = "2020-01-29"
 long_title = "AN ACT PROTECTING INDIVIDUALS WITH MIXED FILIPINO HERITAGE FROM DISCRIMINATORY ACTS"
@@ -15,6 +14,8 @@ subjects = [ "Mixed Filipino Heritage", "Anti-Discrimination",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3226029107!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1300"
 
 [[history]]
 date = "2020-01-29"

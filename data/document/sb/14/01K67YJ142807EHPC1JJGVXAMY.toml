@@ -6,7 +6,6 @@ name = "SBN-00585"
 [meta]
 bill_number = 585
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-585", "https://web.senate.gov.ph/lisdata/47964127!.pdf",]
 title = "ABOLISHING TESDA AND TRANSFERRING ITS FUNCTION TO DTI"
 date_filed = "2007-07-02"
 long_title = "AN ACT ABOLISHING THE TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY OR TESDA"
@@ -15,6 +14,8 @@ subjects = [ "Technical Education and Skills Development Authority (Tesda)", "De
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47964127!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-585"
 
 [[history]]
 date = "2007-07-02"

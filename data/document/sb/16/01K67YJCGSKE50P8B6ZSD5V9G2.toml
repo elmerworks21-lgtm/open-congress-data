@@ -6,7 +6,6 @@ name = "SBN-00363"
 [meta]
 bill_number = 363
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-363", "https://web.senate.gov.ph/lisdata/1620813436!.pdf",]
 title = "ANTI-CORPORAL PUNISHMENT ACT OF 2013"
 date_filed = "2013-07-03"
 long_title = "AN ACT PROHIBITING ALL CORPORAL PUNISHMENT AND ALL OTHER FORMS OF HUMILIATING OR DEGRADING PUNISHMENT OF CHILDREN AND PROMOTING POSITIVE AND NON-VIOLENT DISCIPLINE OF CHILDREN, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Corporal Punishment", "Children/Child Care",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1620813436!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-363"
 
 [[history]]
 date = "2013-07-03"

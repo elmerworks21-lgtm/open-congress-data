@@ -6,7 +6,6 @@ name = "SBN-03076"
 [meta]
 bill_number = 3076
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3076", "https://web.senate.gov.ph/lisdata/2280719496!.pdf",]
 title = "THE PHILIPPINE SHIPPING INDUSTRY REFORMS ACT"
 date_filed = "2016-01-12"
 long_title = "AN ACT INSTITUTING SHIPPING INDUSTRY REFORMS, PROVIDING FOR THE PURPOSE A CLEAR SYSTEM OF SHIP REGISTRATION AND INCENTIVES THEREFOR, A COMPREHENSIVE MECHANISM FOR SHIP MORTGAGES, MARITIME CLAIMS AND MARITIME LIENS, AND FURTHER DEFINING THE PARAMETERS FOR SHIP ARREST AND MARITIME LIABILITY LIMITATION"
@@ -15,6 +14,8 @@ subjects = [ "Shipping Industry",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2280719496!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3076"
 
 [[history]]
 date = "2016-01-12"

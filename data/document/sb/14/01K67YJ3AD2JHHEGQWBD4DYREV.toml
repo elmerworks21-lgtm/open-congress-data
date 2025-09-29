@@ -6,7 +6,6 @@ name = "SBN-03459"
 [meta]
 bill_number = 3459
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3459", "https://web.senate.gov.ph/lisdata/1258411270!.pdf",]
 title = "CLARK DEVELOPMENT CORPORATION (CDC)"
 date_filed = "2009-09-23"
 long_title = "AN ACT PRESCRIBING FIXED TERMS FOR MEMBERS OF THE BOARD OF DIRECTORS OF THE CLARK DEVELOPMENT CORPORATION"
@@ -15,6 +14,8 @@ subjects = [ "Clark Development Corporation",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1258411270!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3459"
 
 [[history]]
 date = "2009-09-23"

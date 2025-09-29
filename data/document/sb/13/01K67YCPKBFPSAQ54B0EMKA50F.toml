@@ -6,7 +6,6 @@ name = "SBN-02123"
 [meta]
 bill_number = 2123
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2123", "https://web.senate.gov.ph/lisdata/40193387!.pdf",]
 title = "CULTURAL PROPERTY TRANSFER ACT OF 2005"
 date_filed = "2005-09-20"
 long_title = "AN ACT PROVIDING MECHANISMS TO REGULATE THE IMPORT, TRANSIT, EXPORT, AND REPATRIATION OF CULTURAL PROPERTY INTO AND FROM THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Cultural Property Transfer",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/40193387!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2123"
 
 [[history]]
 date = "2005-09-20"

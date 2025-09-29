@@ -6,7 +6,6 @@ name = "SBN-00078"
 [meta]
 bill_number = 78
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-78", "https://web.senate.gov.ph/lisdata/75126066!.pdf",]
 title = "HOUSEHELPERS ADDITIONAL BENEFITS AND PROTECTION"
 date_filed = "2010-07-01"
 long_title = "AN ACT PROVIDING FOR ADDITIONAL BENEFITS AND PROTECTION TO THE HOUSEHELPERS THEREBY AMENDING FOR THIS PURPOSE ARTICLES 141, 142, 143, 148, AND 151 OF CHAPTER III OF P.D. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442; Amendments)", "Househo
 authors_raw = "Ejercito-Estrada, Jinggoy P., Cayetano, Alan Peter Companero S., Revilla Jr., Ramon A., Honasan II, Gregorio B., Sotto III, Vicente C."
 author_codes = ["CALAN", "EJING", "HGREG", "RRAMO", "SVICE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75126066!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-78"
 
 [[history]]
 date = "2010-07-01"

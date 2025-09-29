@@ -6,7 +6,6 @@ name = "SBN-02477"
 [meta]
 bill_number = 2477
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2477", "https://web.senate.gov.ph/lisdata/4298039078!.pdf",]
 title = "HEALTH FACILITIES REGULATION ACT"
 date_filed = "2023-11-08"
 long_title = "AN ACT MODERNIZING THE REGULATION OF HEALTH FACILITIES AND SERVICES, AND APPROPRIATING FUNDS THEREFOR, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 4226, OTHERWISE KNOWN AS THE HOSPITAL LICENSURE ACT"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Health Facilities", "Hospital Licensure Act (R.A.No. 4226)",]
 authors_raw = "Ejercito, Joseph Victor G., Villanueva, Joel"
 author_codes = ["EJOSE", "VEMMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4298039078!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2477"
 
 [[history]]
 date = "2023-11-08"

@@ -6,7 +6,6 @@ name = "SBN-00165"
 [meta]
 bill_number = 165
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-165", "https://web.senate.gov.ph/lisdata/2358720216!.pdf",]
 title = "PHILIPPINE INDEPENDENT FILM INCENTIVES ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT SUPPORTING THE PRODUCTION OF PHILIPPINE INDEPENDENT FILMS BY PROVIDING INCENTIVES TO FILMMAKERS WHO ARE GIVEN HONORS IN NOTABLE INTERNATIONAL FILM COMPETITIONS"
@@ -15,6 +14,8 @@ subjects = [ "Film", "Movie Industry",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2358720216!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-165"
 
 [[history]]
 date = "2016-06-30"

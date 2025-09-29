@@ -6,7 +6,6 @@ name = "SBN-00350"
 [meta]
 bill_number = 350
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-350", "https://web.senate.gov.ph/lisdata/1623613464!.pdf",]
 title = "NATIONAL SEAFARERS COMMISSION ACT OF 2013"
 date_filed = "2013-07-03"
 long_title = "AN ACT CREATING A NATIONAL SEAFARERS COMMISSION, PRESCRIBING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Seafarers",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1623613464!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-350"
 
 [[history]]
 date = "2013-07-03"

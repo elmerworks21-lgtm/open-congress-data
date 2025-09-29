@@ -6,7 +6,6 @@ name = "SBN-01245"
 [meta]
 bill_number = 1245
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1245", "https://web.senate.gov.ph/lisdata/4787743890!.pdf",]
 title = "UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION ACT"
 date_filed = "2025-08-20"
 long_title = "AN ACT ENHANCING THE UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION ACT, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 10931"
@@ -15,6 +14,8 @@ subjects = [ "Universal Access to Quality Tertiary Education",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4787743890!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1245"
 
 [[history]]
 date = "2025-08-20"

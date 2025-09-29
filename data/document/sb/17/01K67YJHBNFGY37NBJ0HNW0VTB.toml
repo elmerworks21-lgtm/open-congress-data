@@ -6,7 +6,6 @@ name = "SBN-00313"
 [meta]
 bill_number = 313
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-313", "https://web.senate.gov.ph/lisdata/2375120413!.pdf",]
 title = "BILL OF RIGHTS FOR NEW GRADUATES"
 date_filed = "2016-07-04"
 long_title = "AN ACT PROVIDING INCENTIVES FOR NEW GRADUATES OF COLLEGES, UNIVERSITIES AND ACCREDITED INSTITUTIONS OFFERING TECHNICAL-VOCATIONAL COURSES, OTHERWISE KNOWN AS THE BILL OF RIGHTS FOR NEW GRADUATES"
@@ -15,6 +14,8 @@ subjects = [ "Bill of Rights", "Technical-Vocational (Tech-Voc)",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M., Villanueva, Joel"
 author_codes = ["ASONN", "VEMMA"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2375120413!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-313"
 
 [[history]]
 date = "2016-07-04"

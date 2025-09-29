@@ -6,7 +6,6 @@ name = "SBN-02494"
 [meta]
 bill_number = 2494
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2494", "https://web.senate.gov.ph/lisdata/79287226!.pdf",]
 title = "PROTECTION OF RESIDENTIAL PRIVACY FROM MASS ACTIONS"
 date_filed = "2008-07-30"
 long_title = "AN ACT AMENDING ARTICLE 131 OF ACT NO. 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE, AS AMENDED, TO UPHOLD THE RIGHT OF RESIDENTS TO PRIVACY FROM MASS OR CONCERTED ACTIONS NOT DIRECTED TO THE PUBLIC"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam, Escudero, Francis \"Chiz\" G., Gordon, Richard \"Dick\" J., Revilla Jr., Ramon A."
 author_codes = ["EFRAN", "GRICH", "RRAMO", "SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79287226!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2494"
 
 [[history]]
 date = "2008-07-30"

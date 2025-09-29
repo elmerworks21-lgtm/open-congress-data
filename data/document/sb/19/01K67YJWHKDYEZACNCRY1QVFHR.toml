@@ -6,7 +6,6 @@ name = "SBN-02342"
 [meta]
 bill_number = 2342
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2342", "https://web.senate.gov.ph/lisdata/4220138391!.pdf",]
 title = "NARS PARA SA BAYAN ACT"
 date_filed = "2023-07-24"
 long_title = "AN ACT ESTABLISHING A NURSING SCHOLARSHIP AND RETURN SERVICE PROGRAM FOR DESERVING STUDENTS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Nurses/Nursing", "Students", "Scholarship Grants",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4220138391!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2342"
 
 [[history]]
 date = "2023-07-24"

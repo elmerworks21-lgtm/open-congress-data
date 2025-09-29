@@ -6,7 +6,6 @@ name = "SBN-01696"
 [meta]
 bill_number = 1696
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1696", "https://web.senate.gov.ph/lisdata/2734623573!.pdf",]
 title = "WOMEN PARTICIPATION AND REPRESENTATION IN POLITICAL PARTIES ACT OF 2018"
 date_filed = "2018-02-15"
 long_title = "AN ACT PROMOTING WOMEN PARTICIPATION AND EQUITABLE REPRESENTATION IN AND BY POLITICAL PARTIES, GIVING INCENTIVES THEREFOR, CREATING THE WOMEN IN POLITICAL PARTIES EMPOWERMENT FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Women", "Political Party",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2734623573!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1696"
 
 [[history]]
 date = "2018-02-15"

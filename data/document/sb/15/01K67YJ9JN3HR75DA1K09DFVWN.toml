@@ -6,7 +6,6 @@ name = "SBN-03225"
 [meta]
 bill_number = 3225
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3225", "https://web.senate.gov.ph/lisdata/1371411493!.pdf",]
 title = "ISKOLAR NG BAYAN ACT OF 2012"
 date_filed = "2012-06-06"
 long_title = "AN ACT MANDATING ALL STATE COLLEGES AND UNIVERSITIES TO CONFER AUTOMATIC ADMISSION AND PROVIDE SCHOLARSHIP GRANTS TO THE TOP TEN (10) PUBLIC HIGH SCHOOL STUDENTS OF THEIR GRADUATING CLASS, ANNUALLY, AND ALLOCATE FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Scholarship Grants",]
 authors_raw = "Cayetano, Alan Peter Companero S."
 author_codes = ["CALAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1371411493!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3225"
 
 [[history]]
 date = "2012-06-06"

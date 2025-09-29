@@ -6,7 +6,6 @@ name = "SBN-00344"
 [meta]
 bill_number = 344
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-344", "https://web.senate.gov.ph/lisdata/1501796!.pdf",]
 title = "REALTY INSTALLMENT BUYERS PROTECTION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROVIDE ADDITIONAL PROTECTIONS TO BUYERS OF REAL ESTATE ON INSTALLMENT PAYMENTS BY REQUIRING SUBDIVISION OR REAL ESTATE OWNERS TO HAVE AN INDIVIDUAL TITLE ON EVERY LOT AVAILABLE FIRST BEFORE OFFERING THE SAME FOR SALE, PROHIBITING ANY MORTGAGE, LIEN OR ENCUMBRANCE ON THE SAME, MAKING THE ANNOTATION ON THE TITLE OF THE CONTRACT TO SELL OR OF SALE MANDATORY, MAKING IT COMPULSORY FOR THE EXECUTION OF A DEED OF ABSOLUTE SALE AND THE DELIVERY OF THE TITLE TO THE BUYER UPON COMPLETION OF INSTALLMENT PAYMENTS, AND PROVIDING OTHER PROTECTIVE MEASURES, INCLUDING THE IMPOSITION OF PENALTY FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Real Estate Buyers Protection (RA 6552)", "Realty Installment Buye
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1501796!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-344"
 
 [[history]]
 date = "2004-06-30"

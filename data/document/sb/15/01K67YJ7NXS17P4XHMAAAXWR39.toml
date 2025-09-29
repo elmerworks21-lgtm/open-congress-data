@@ -6,7 +6,6 @@ name = "SBN-00713"
 [meta]
 bill_number = 713
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-713", "https://web.senate.gov.ph/lisdata/80386510!.pdf",]
 title = "REVISED ADMINISTRATIVE CODE (AMENDING SEC. 271)"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO AMEND SECTION TWO HUNDRED AND SEVENTY ONE OF THE REVISED ADMINISTRATIVE CODE, AS LAST AMENDED BY REPUBLIC ACT NUMBERED FOUR THOUSAND THREE HUNDRED SEVEN, RELATIVE TO VACATION LEAVE OF JUDGES OF FIRST INSTANCE"
@@ -15,6 +14,8 @@ subjects = [ "Administrative Code of 1987 (E.O.No. 292)", "Judges",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80386510!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-713"
 
 [[history]]
 date = "2010-07-07"

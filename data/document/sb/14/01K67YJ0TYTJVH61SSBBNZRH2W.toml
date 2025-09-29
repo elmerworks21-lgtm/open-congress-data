@@ -6,7 +6,6 @@ name = "SBN-00159"
 [meta]
 bill_number = 159
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-159", "https://web.senate.gov.ph/lisdata/42583646!.pdf",]
 title = "NEW LABOR CODE OF THE PHILIPPINES"
 date_filed = "2007-06-30"
 long_title = "AN ACT ESTABLISHING THE NEW LABOR CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "New Labor Code",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42583646!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-159"
 
 [[history]]
 date = "2007-06-30"

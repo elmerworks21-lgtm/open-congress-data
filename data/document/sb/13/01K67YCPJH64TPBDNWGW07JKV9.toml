@@ -6,7 +6,6 @@ name = "SBN-02078"
 [meta]
 bill_number = 2078
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2078", "https://web.senate.gov.ph/lisdata/36973006!.pdf",]
 title = "DRUG PRICE AUDIT ACT OF 2005"
 date_filed = "2005-08-08"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO UNDERTAKE AUDIT OF DRUG RETAIL PRICES IN THE COUNTRY, PUBLISHING RESULTS IN A REGULAR ‘PHARMACEUTICAL MARKET RETAIL STORE AUDIT’ REPORT, AS PART OF THE DEPARTMENT’S STANDARD OPERATING PROCEDURE"
@@ -15,6 +14,8 @@ subjects = [ "Drugs/Pharmaceutical Products", "Drug Price Audit Act",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/36973006!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2078"
 
 [[history]]
 date = "2005-08-08"

@@ -6,7 +6,6 @@ name = "SBN-01133"
 [meta]
 bill_number = 1133
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1133", "https://web.senate.gov.ph/lisdata/54174793!.pdf",]
 title = "INCREASE PENALTY FOR VIOLATION OF THE ANTI-SEXUAL HARASSMENT ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT AMENDING REPUBLIC ACT 7877, ALSO KNOWN AS THE ANTI-SEXUAL HARASSMENT ACT, AS AMENDED, SECTION 7 ON THE PENALTIES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Sexual Harassment Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54174793!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1133"
 
 [[history]]
 date = "2007-07-04"

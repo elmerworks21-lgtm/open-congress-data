@@ -6,7 +6,6 @@ name = "SBN-01760"
 [meta]
 bill_number = 1760
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1760", "https://web.senate.gov.ph/lisdata/2765523919!.pdf",]
 title = "NATIONAL KASAMBAHAY DAY"
 date_filed = "2018-03-20"
 long_title = "AN ACT DECLARING JANUARY 18 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY FOR ALL KASAMBAHAY IN THE ENTIRE COUNTRY. THE ACT SHALL BE CALLED AS ‘NATIONAL KASAMBAHAY DAY’ OR ARAW NG KASAMBAHAY"
@@ -15,6 +14,8 @@ subjects = [ "Kasambahay", "Holidays (Special Non-Working)", "Household Helpers"
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2765523919!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1760"
 
 [[history]]
 date = "2018-03-20"

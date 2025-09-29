@@ -6,7 +6,6 @@ name = "SBN-01707"
 [meta]
 bill_number = 1707
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1707", "https://web.senate.gov.ph/lisdata/3322030061!.pdf",]
 title = "DEFENSE PROCUREMENT ACT"
 date_filed = "2020-07-20"
 long_title = "AN ACT ESTABLISHING A DEFENSE PROCUREMENT SYSTEM FOR THE DEPARTMENT OF NATIONAL DEFENSE AND ITS BUREAUS IN SUPPORT OF THE ARMED FORCES OF THE PHILIPPINES MODERNIZATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Defense Procurement System", "Department of National Defense (DND)
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3322030061!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1707"
 
 [[history]]
 date = "2020-07-20"

@@ -6,7 +6,6 @@ name = "SBN-01899"
 [meta]
 bill_number = 1899
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1899", "https://web.senate.gov.ph/lisdata/3388030682!.pdf",]
 title = "COMPULSORY AGE RETIREMENT FOR PHILIPPINE NATIONAL POLICE PERSONNEL (FROM 56 TO 60 YEARS OLD)"
 date_filed = "2020-11-09"
 long_title = "AN ACT INCREASING THE COMPULSORY AGE OF RETIREMENT FOR OFFICERS AND NON-OFFICERS OF THE PHILIPPINE NATIONAL POLICE FROM 56 YEARS OLD TO 60 YEARS OLD, AMENDING FOR THE PURPOSE SECTION 39 OF REPUBLIC ACT NO. 6975, OTHERWISE KNOWN AS THE ‘DEPARTMENT OF THE INTERIOR AND LOCAL GOVERNMENT ACT OF 1990’"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine National Police (PNP)", "Retirement Age", "Department of the Interior and Local Government (DILG)",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3388030682!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1899"
 
 [[history]]
 date = "2020-11-09"

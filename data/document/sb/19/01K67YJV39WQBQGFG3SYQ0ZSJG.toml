@@ -6,7 +6,6 @@ name = "SBN-00330"
 [meta]
 bill_number = 330
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-330", "https://web.senate.gov.ph/lisdata/3808734530!.pdf",]
 title = "SUSTAINABLE ELEVATED WALKWAYS ACT OF 2022"
 date_filed = "2022-07-12"
 long_title = "AN ACT TO ENSURE EASIER COMMUTING BY ESTABLISHING A NETWORK OF SUSTAINABLE ELEVATED WALKWAYS ALONG ALL MAJOR PUBLIC THOROUGHFARES IN HIGH DENSITY URBAN AREAS, ESTABLISHING APPROPRIATE INFRASTRUCTURE AND FACILITIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Elevated Walkways", "Sustainable Elevated Walkways",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3808734530!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-330"
 
 [[history]]
 date = "2022-07-12"

@@ -6,7 +6,6 @@ name = "SBN-02016"
 [meta]
 bill_number = 2016
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2016", "https://web.senate.gov.ph/lisdata/67365969!.pdf",]
 title = "VISIT PHILIPPINES ACT OF 2008"
 date_filed = "2008-01-29"
 long_title = "AN ACT TO ESTABLISH AN INTERGOVERNMENTAL TASK FORCE FOR INTERNATIONAL VISITOR ASSISTANCE TO MAKE PHILIPPINES THE PREMIERE TRAVEL AND TOURISM DESTINATION IN THE WORLD"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TOURI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67365969!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2016"
 
 [[history]]
 date = "2008-01-29"

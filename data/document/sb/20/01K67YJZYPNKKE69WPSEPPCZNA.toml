@@ -6,7 +6,6 @@ name = "SBN-00253"
 [meta]
 bill_number = 253
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-253", "https://web.senate.gov.ph/lisdata/4673042735!.pdf",]
 title = "POWER FRANCHISE REVIEW ACT"
 date_filed = "2025-07-08"
 long_title = "AN ACT INSTITUTING A PERIODIC REVIEW OF FRANCHISES GRANTED TO POWER DISTRIBUTION UTILITIES AND ELECTRIC COOPERATIVES, PROVIDING GROUNDS FOR THE SUSPENSION, AMENDMENT OR REVOCATION OF FRANCHISES OF NON-PERFORMING ENTITIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Power Franchise Review", "Franchise Sales/Franchise Business",]
 authors_raw = "Tulfo, Erwin T."
 author_codes = ["TERWI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4673042735!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-253"
 
 [[history]]
 date = "2025-07-08"

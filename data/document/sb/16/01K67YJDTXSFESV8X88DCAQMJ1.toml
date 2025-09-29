@@ -6,7 +6,6 @@ name = "SBN-02360"
 [meta]
 bill_number = 2360
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2360", "https://web.senate.gov.ph/lisdata/1965316778!.pdf",]
 title = "THE SUGAR INDUSTRY DEVELOPMENT ACT OF 2014"
 date_filed = "2014-08-18"
 long_title = "AN ACT PROMOTING THE DIVERSIFICATION AND SUSTAINABLE DEVELOPMENT OF THE SUGAR INDUSTRY, ESTABLISHING THE SUGAR INDUSTRY DEVELOPMENT FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sugar Industry",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1965316778!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2360"
 
 [[history]]
 date = "2014-08-18"

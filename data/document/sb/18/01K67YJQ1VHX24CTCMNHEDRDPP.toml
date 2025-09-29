@@ -6,7 +6,6 @@ name = "SBN-00993"
 [meta]
 bill_number = 993
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-993", "https://web.senate.gov.ph/lisdata/3140428299!.pdf",]
 title = "REPEALING R. A. NO. 10592 (AN ACT AMENDING ARTICLES 29,94,97,98 AND 99 OF ACT NO. 3815, AS AMENDED)"
 date_filed = "2019-09-02"
 long_title = "AN ACT REPEALING REPUBLIC ACT NO. 10592, OTHERWISE KNOWN AS AN ACT AMENDING ARTICLES 29, 94, 97, 98 AND 99 OF ACT NO. 3815, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Good Conduct Time Allowance (Gcta", "R.A.No. 10592)",]
 authors_raw = "Sotto III, Vicente C., Lacson, Panfilo \"Ping\" M., Gordon, Richard J."
 author_codes = ["GRICH", "LPANF", "SVICE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3140428299!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-993"
 
 [[history]]
 date = "2019-09-02"

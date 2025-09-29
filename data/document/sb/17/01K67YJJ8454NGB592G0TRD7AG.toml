@@ -6,7 +6,6 @@ name = "SBN-01500"
 [meta]
 bill_number = 1500
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1500", "https://web.senate.gov.ph/lisdata/2626422601!.pdf",]
 title = "FILIPINO IDENTIFICATION SYSTEM ACT"
 date_filed = "2017-07-18"
 long_title = "AN ACT ESTABLISHING THE FILIPINO IDENTIFICATION SYSTEM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Identification System",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2626422601!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1500"
 
 [[history]]
 date = "2017-07-18"

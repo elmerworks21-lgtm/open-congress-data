@@ -6,7 +6,6 @@ name = "SBN-00812"
 [meta]
 bill_number = 812
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-812", "https://web.senate.gov.ph/lisdata/20081463!.pdf",]
 title = "CULTURAL PROPERTIES PRESERVATION AND PROTECTION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING SECTION 5 OF REPUBLIC ACT NUMBER FORTY EIGHT HUNDRED AND FORTY-SIX (4846), AS AMENDED, OTHERWISE KNOWN AS THE CULTURAL PROPERTIES PRESERVATION AND PROTECTION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Cultural Properties Preservation",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20081463!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-812"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01280"
 [meta]
 bill_number = 1280
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1280", "https://web.senate.gov.ph/lisdata/4792343939!.pdf",]
 title = "AUTISM COOPERATION , ACCOUNTABILITY, RESEARCH, EDUCATION AND SUPPORT (CARES) ACT"
 date_filed = "2025-08-27"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE NATIONAL CARE PLAN TO ENCOURAGE COOPERATION, ACOUNTABILITY AND RESEARCH FOR THE EDUCATION AND SUPPORT OF PERSONS WITH AUTISM, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Autism", "Education", "Persons with Disabilities (PWDS)",]
 authors_raw = "Villar, Camille A."
 author_codes = ["VCAMI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4792343939!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1280"
 
 [[history]]
 date = "2025-08-27"

@@ -6,7 +6,6 @@ name = "SBN-00317"
 [meta]
 bill_number = 317
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-317", "https://web.senate.gov.ph/lisdata/3059927458!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS CREDIT ASSISTANCE ACT OF 2019"
 date_filed = "2019-07-10"
 long_title = "AN ACT ESTABLISHING A CREDIT ASSISTANCE PROGRAM FOR OVERSEAS FILIPINO WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Filipino Workers (OFWS)/ Migrant Workers", "Credit Assist
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3059927458!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-317"
 
 [[history]]
 date = "2019-07-10"

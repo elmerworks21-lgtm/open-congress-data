@@ -6,7 +6,6 @@ name = "SBN-02328"
 [meta]
 bill_number = 2328
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2328", "https://web.senate.gov.ph/lisdata/3566032257!.pdf",]
 title = "SCIENCE FOR CHANGE PROGRAM (S4CP) ACT OF 2021"
 date_filed = "2021-07-26"
 long_title = "AN ACT ESTABLISHING THE SCIENCE FOR CHANGE PROGRAM (S4CP)"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Science and Technology",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3566032257!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2328"
 
 [[history]]
 date = "2021-07-26"

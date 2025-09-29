@@ -6,7 +6,6 @@ name = "SBN-00388"
 [meta]
 bill_number = 388
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-388", "https://web.senate.gov.ph/lisdata/2382620490!.pdf",]
 title = "ADJUSTING THE RATES OF TAXABLE INCOME OF INDIVIDUALS"
 date_filed = "2016-07-18"
 long_title = "AN ACT AMENDING SECTION 24 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, ADJUSTING THE RATES OF TAXABLE INCOME OF INDIVIDUALS AND PROVIDING FOR AUTOMATIC ADJUSTMENT OF TAX RATES EVERY THREE (3) YEARS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Individual Income Tax)", "National Internal Revenue Code (N
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2382620490!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-388"
 
 [[history]]
 date = "2016-07-18"

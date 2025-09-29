@@ -6,7 +6,6 @@ name = "SBN-00014"
 [meta]
 bill_number = 14
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-14", "https://web.senate.gov.ph/lisdata/1582213059!.pdf",]
 title = "THE NATIONAL IRRIGATION PROGRAM OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT MANDATING THE NATIONAL IRRIGATION ADMINISTRATION (NIA) TO ACCELERATE NATIONAL IRRIGATION DEVELOPMENT PROGRAM, AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Irrigation Administration",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
 author_codes = ["MFERD"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1582213059!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-14"
 
 [[history]]
 date = "2013-07-01"

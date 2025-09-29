@@ -6,7 +6,6 @@ name = "SBN-01309"
 [meta]
 bill_number = 1309
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1309", "https://web.senate.gov.ph/lisdata/56094972!.pdf",]
 title = "EXEMPTING MEMBERS OF CONGRESS, SUPREME COURT AND COURT OF APPEALS FROM COVERAGE OF R.A. 3019"
 date_filed = "2007-07-24"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 3019, OTHERWISE KNOWN AS THE ANTI-GRAFT AND CORRUPT PRACTICES ACT, SECTION 13, ON ITS NON-APPLICATION TO IMPEACHABLE PUBLIC OFFICERS"
@@ -15,6 +14,8 @@ subjects = [ "Graft and Corruption", "R.A.No. 3019 (Anti-Graft and Corrupt Pract
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56094972!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1309"
 
 [[history]]
 date = "2007-07-04"

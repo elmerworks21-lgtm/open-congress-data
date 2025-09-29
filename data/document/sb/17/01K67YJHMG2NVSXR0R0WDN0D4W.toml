@@ -6,7 +6,6 @@ name = "SBN-00699"
 [meta]
 bill_number = 699
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-699", "https://web.senate.gov.ph/lisdata/2421920826!.pdf",]
 title = "PEOPLE'S FUND ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROVIDING PEOPLE'S DIRECT PARTICIPATION IN FUNDING CHARITABLE INSTITUTIONS AND OTHER DEVELOPMENT-ORIENTED INITIATIVES THROUGH A PERCENTAGE OF THEIR PERSONAL INCOME TAX"
@@ -15,6 +14,8 @@ subjects = [ "Peoples Fund",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2421920826!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-699"
 
 [[history]]
 date = "2016-07-20"

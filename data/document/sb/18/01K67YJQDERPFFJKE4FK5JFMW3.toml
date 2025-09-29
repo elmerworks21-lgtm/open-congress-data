@@ -6,7 +6,6 @@ name = "SBN-01472"
 [meta]
 bill_number = 1472
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1472", "https://web.senate.gov.ph/lisdata/3266829529!.pdf",]
 title = "EHEALTH SYSTEM AND SERVICES ACT"
 date_filed = "2020-05-04"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE EHEALTH SYSTEM AND SERVICES IN SUPPORT OF UNIVERSAL HEALTH CARE USING INFORMATION AND COMMUNICATIONS TECHNOLOGY IN THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "E-Health (Electronic Health)",]
 authors_raw = "Angara, Sonny, Villar, Cynthia A."
 author_codes = ["ASONN", "VCYNT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3266829529!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1472"
 
 [[history]]
 date = "2020-05-04"

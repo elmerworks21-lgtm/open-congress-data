@@ -6,7 +6,6 @@ name = "SBN-02647"
 [meta]
 bill_number = 2647
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2647", "https://web.senate.gov.ph/lisdata/106149089!.pdf",]
 title = "LAND RECLASSIFICATION DILIGENCE ACT OF 2011"
 date_filed = "2011-01-24"
 long_title = "AN ACT TO PROTECT ALL AGRICULTURAL LANDS FROM INDISCRIMINATE LAND CONVERSION, AMENDING SECTION 20 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS LOCAL GOVERNMENT CODE, FOR THIS PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Land Conversion", "Local Government Code, Amendments 
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106149089!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2647"
 
 [[history]]
 date = "2011-01-24"

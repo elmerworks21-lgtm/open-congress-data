@@ -6,7 +6,6 @@ name = "SBN-02672"
 [meta]
 bill_number = 2672
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2672", "https://web.senate.gov.ph/lisdata/4408740063!.pdf",]
 title = "QUANTITATIVE IMPORT RESTRICTION ON RICE (AMENDMENTS)"
 date_filed = "2024-05-15"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11203 OR 'AN ACT LIBERALIZING THE IMPORTATION, EXPORTATION AND TRADING OF RICE, LIFTING FOR THE PURPOSE THE QUANTITATIVE IMPORT RESTRICTION ON RICE"
@@ -15,6 +14,8 @@ subjects = [ "Rice Importation/Rice Import Duty", "National Food Authority (NFA)
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4408740063!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2672"
 
 [[history]]
 date = "2024-05-15"

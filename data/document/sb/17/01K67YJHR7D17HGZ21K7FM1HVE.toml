@@ -6,7 +6,6 @@ name = "SBN-00874"
 [meta]
 bill_number = 874
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-874", "https://web.senate.gov.ph/lisdata/2442921013!.pdf",]
 title = "ASSISTANCE TO INDIGENT CANCER PATIENTS"
 date_filed = "2016-07-26"
 long_title = "AN ACT TO ASSIST INDIGENT CANCER PATIENTS AND THEIR FAMILIES, ESTABLISHING FOR THE PURPOSE A CANCER ASSISTANCE FUND AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Patients", "Cancer", "Indigent Persons",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2442921013!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-874"
 
 [[history]]
 date = "2016-07-26"

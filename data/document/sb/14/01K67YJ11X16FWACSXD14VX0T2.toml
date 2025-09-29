@@ -6,7 +6,6 @@ name = "SBN-00477"
 [meta]
 bill_number = 477
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-477", "https://web.senate.gov.ph/lisdata/46834007!.pdf",]
 title = "GREENING ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO PROMOTE THE URBAN AND COUNTRYSIDE GREENING OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Greening Act", "Tree Planting",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46834007!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-477"
 
 [[history]]
 date = "2007-07-02"

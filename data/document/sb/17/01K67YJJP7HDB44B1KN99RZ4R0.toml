@@ -6,7 +6,6 @@ name = "SBN-02041"
 [meta]
 bill_number = 2041
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2041", "https://web.senate.gov.ph/lisdata/2871725163!.pdf",]
 title = "CHARTER OF THE CITY OF MANOLO FORTICH"
 date_filed = "2018-10-01"
 long_title = "AN ACT CONVERTING THE MUNICIPALITY OF MANOLO FORTICH IN THE PROVINCE OF BUKIDNON INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF MANOLO FORTICH"
@@ -15,6 +14,8 @@ subjects = [ "City Charter, Revision", "Amendments",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2871725163!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2041"
 
 [[history]]
 date = "2018-10-01"

@@ -6,7 +6,6 @@ name = "SBN-01692"
 [meta]
 bill_number = 1692
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1692", "https://web.senate.gov.ph/lisdata/1782715060!.pdf",]
 title = "VICTIMS OF DOMESTIC VIOLENCE EMPLOYMENT LEAVE ACT"
 date_filed = "2013-09-17"
 long_title = "AN ACT REQUIRING CERTAIN EMPLOYERS TO PROVIDE EMPLOYMENT LEAVE FOR VICTIMS OF DOMESTIC VIOLENCE, PROHIBITING CERTAIN ACTS, AND PRESCRIBING PENALTIES"
@@ -15,6 +14,8 @@ subjects = [ "Domestic Violence", "Leave of Absence",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1782715060!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1692"
 
 [[history]]
 date = "2013-09-17"

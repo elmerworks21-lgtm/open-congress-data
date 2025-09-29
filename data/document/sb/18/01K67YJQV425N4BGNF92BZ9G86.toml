@@ -6,7 +6,6 @@ name = "SBN-02046"
 [meta]
 bill_number = 2046
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2046", "https://web.senate.gov.ph/lisdata/3447231281!.pdf",]
 title = "EXEMPTING THE DONATION OF VACCINES FROM DONOR'S TAX"
 date_filed = "2021-02-10"
 long_title = "AN ACT EXEMPTING THE DONATION OF VACCINES, CRITICAL PRODUCTS, ESSENTIAL GOODS, EQUIPMENT OR SUPPLIES NEEDED TO CONTAIN AND MITIGATE COVID-19 FROM DONOR'S TAX AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tax Exemption", "Vaccines/Vaccination Program", "Covid-19", "Taxes
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3447231281!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2046"
 
 [[history]]
 date = "2021-02-10"

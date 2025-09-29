@@ -6,7 +6,6 @@ name = "SBN-03399"
 [meta]
 bill_number = 3399
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3399", "https://web.senate.gov.ph/lisdata/1508512720!.pdf",]
 title = "PHILIPPINE NATIONAL HEALTH RESEARCH SYSTEM ACT OF 2013"
 date_filed = "2013-01-29"
 long_title = "AN ACT INSTITUTIONALIZING THE PHILIPPINE NATIONAL HEALTH RESEARCH SYSTEM"
@@ -15,6 +14,8 @@ subjects = [ "Philippine National Health Research",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Villar, Manny B., Angara, Edgardo J., Cayetano, Pia S."
 author_codes = ["AEDGA", "CPIAS", "TANTO", "VMANN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1508512720!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3399"
 
 [[history]]
 date = "2013-01-29"

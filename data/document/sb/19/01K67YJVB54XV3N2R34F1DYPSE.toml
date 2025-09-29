@@ -6,7 +6,6 @@ name = "SBN-00690"
 [meta]
 bill_number = 690
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-690", "https://web.senate.gov.ph/lisdata/3864235096!.pdf",]
 title = "KAAKIBAT SA AGHAM PARA SA PAGBABAGO ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT ESTABLISHING THE SCIENCE FOR CHANGE PROGRAM (S4CP)"
@@ -15,6 +14,8 @@ subjects = [ "Science for Change Program",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3864235096!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-690"
 
 [[history]]
 date = "2022-07-18"

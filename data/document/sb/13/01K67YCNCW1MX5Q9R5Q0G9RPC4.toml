@@ -6,7 +6,6 @@ name = "SBN-00064"
 [meta]
 bill_number = 64
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-64", "https://web.senate.gov.ph/lisdata/1193700!.pdf",]
 title = "NON-COMBATANT COMPENSATION AND BENEFITS"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR REASONABLE COMPENSATION AND BENEFITS FOR THE LOSS OF LIVES, INJURIES AND DAMAGES TO PROPERTY SUFFERED BY NON-COMBATANT INDIVIDUALS IN THE COURSE OF OPERATIONS BY THE MILITARY, POLICE AND/OR OTHER LAW ENFORCEMENT AGENCIES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Non-Combatant Compensation/Benefits", "Commission on Human Rights"
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1193700!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-64"
 
 [[history]]
 date = "2004-06-30"

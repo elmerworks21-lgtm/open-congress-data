@@ -6,7 +6,6 @@ name = "SBN-03385"
 [meta]
 bill_number = 3385
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3385", "https://web.senate.gov.ph/lisdata/1504712513!.pdf",]
 title = "FIRECRACKER REGULATION ACT"
 date_filed = "2013-01-21"
 long_title = "AN ACT TO REGULATE THE USE OF FIRECRACKERS AND PYROTECHNIC DEVICES"
@@ -15,6 +14,8 @@ subjects = [ "Firecrackers", "Pyrotechnic Devices",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1504712513!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3385"
 
 [[history]]
 date = "2013-01-21"

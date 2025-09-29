@@ -6,7 +6,6 @@ name = "SBN-00192"
 [meta]
 bill_number = 192
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-192", "https://web.senate.gov.ph/lisdata/2361420274!.pdf",]
 title = "HANDBOOK FOR OFWS ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT MANDATING THE PHILIPPINE OVERSEAS EMPLOYMENT ADMINISTRATION (POEA) TO PUBLISH, DISSEMINATE AND UPDATE A HANDBOOK ON THE RIGHTS AND RESPONSIBILITIES OF MIGRANT WORKERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE MIGRANT WORKERS AND OVERSEAS FILIPINOS ACT OF 1995, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Overseas Employment Administration (POEA)", "Migrant Wo
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D., Gordon, Richard J., Pimentel, Aquilino Koko III L., Gatchalian, Sherwin T., Villar, Cynthia A."
 author_codes = ["GRICH", "GSHER", "PAQUI", "PEMMA", "VCYNT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2361420274!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-192"
 
 [[history]]
 date = "2016-06-30"

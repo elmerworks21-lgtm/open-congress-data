@@ -6,7 +6,6 @@ name = "SBN-01599"
 [meta]
 bill_number = 1599
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1599", "https://web.senate.gov.ph/lisdata/1770714942!.pdf",]
 title = "NATIONAL AGRICULTURAL MARKETING ACT OF 2013"
 date_filed = "2013-09-10"
 long_title = "AN ACT TO PROMOTE THE AGRICULTURE INDUSTRY, STABILIZE PRICES OF AGRICULTURAL PRODUCTS AND ENHANCE FOOD SECURITY THROUGH THE EFFECTIVE PRODUCTION, PROCESSING, MARKETING AND DISTRIBUTION OF AGRICULTURAL PRODUCTS, RATIONALIZING AND RESTRUCTURING FOR THE PURPOSE, ALL EXISTING GOVERNMENT ORGANIZATIONS IN AGRICULTURAL PRODUCTION, DISTRIBUTION, MARKETING AND OTHER SUPPORT PROGRAMS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Agricultural Trading Corporation (Natcor)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1770714942!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1599"
 
 [[history]]
 date = "2013-09-10"

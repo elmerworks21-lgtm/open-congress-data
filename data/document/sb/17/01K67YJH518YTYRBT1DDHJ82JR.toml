@@ -6,7 +6,6 @@ name = "SBN-00031"
 [meta]
 bill_number = 31
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-31", "https://web.senate.gov.ph/lisdata/2344420028!.pdf",]
 title = "DEPARTMENT OF CULTURE AND THE ARTS ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT ESTABLISHING THE DEPARTMENT OF CULTURE AND THE ARTS, STRENGTHENING THE NATIONAL ENDOWMENT FOR CULTURE AND ARTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Culture and the Arts",]
 authors_raw = "Legarda, Loren B., Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI", "LLORE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2344420028!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-31"
 
 [[history]]
 date = "2016-06-30"

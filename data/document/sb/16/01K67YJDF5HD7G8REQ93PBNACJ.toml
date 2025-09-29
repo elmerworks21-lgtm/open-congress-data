@@ -6,7 +6,6 @@ name = "SBN-01838"
 [meta]
 bill_number = 1838
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1838", "https://web.senate.gov.ph/lisdata/1803815273!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE (CAP ON THE AMOUNT OF THIRTEENTH MONTH PAY AND OTHER BENEFITS)"
 date_filed = "2013-10-14"
 long_title = "AN ACT REMOVING THE CAP ON THE AMOUNT OF THIRTEENTH MONTH PAY AND OTHER BENEFITS TO BE EXCLUDED FROM GROSS INCOME, AMENDING FOR SUCH PURPOSE SECTION 32(B)(7)(E), CHAPTER VI OF REPUBLIC ACT NO. 8424, AS AMENDED, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income 
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1803815273!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1838"
 
 [[history]]
 date = "2013-10-14"

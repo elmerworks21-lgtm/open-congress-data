@@ -6,7 +6,6 @@ name = "SBN-00785"
 [meta]
 bill_number = 785
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-785", "https://web.senate.gov.ph/lisdata/50094402!.pdf",]
 title = "GREENING OF PHILIPPINE HIGHWAYS ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT REQUIRING LOCAL GOVERNMENTS TO PLANT TREES ALONG NATIONAL AND LOCAL HIGHWAYS WITHIN ITS TERRITORIAL BOUNDARIES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Greening Act",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50094402!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-785"
 
 [[history]]
 date = "2007-07-03"

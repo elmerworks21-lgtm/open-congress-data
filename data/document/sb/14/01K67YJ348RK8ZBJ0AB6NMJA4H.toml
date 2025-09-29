@@ -6,7 +6,6 @@ name = "SBN-03222"
 [meta]
 bill_number = 3222
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3222", "https://web.senate.gov.ph/lisdata/111629856!.pdf",]
 title = "WITNESESS CONFIDENTIALITY ACT OF 2009"
 date_filed = "2009-05-07"
 long_title = "AN ACT PROTECTING THE CONFIDENTIALITY OF VICTIMS' AND WITNESSES' ADDRESS AND TELEPHONE NUMBERS DURING A TRIAL OR HEARING RELATED TO A CRIMINAL PROSECUTION"
@@ -15,6 +14,8 @@ subjects = [ "Witness", "Privacy Protection Act",]
 authors_raw = "Defensor Santiago, Miriam, Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/111629856!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3222"
 
 [[history]]
 date = "2009-05-07"

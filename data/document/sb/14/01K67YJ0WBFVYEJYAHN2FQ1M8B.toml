@@ -6,7 +6,6 @@ name = "SBN-00213"
 [meta]
 bill_number = 213
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-213", "https://web.senate.gov.ph/lisdata/43133709!.pdf",]
 title = "NATIONAL PROSECUTION SERVICE/CHIEF STATE COUNSEL (DOJ) BENEFITS/PRIVILEGES"
 date_filed = "2007-06-30"
 long_title = "AN ACT RATIONALIZING THE COMPENSATION BENEFITS AND OTHER PRIVILEGES AND INCENTIVES FOR THE MEMBERS OF THE NATIONAL PROSECUTION SERVICE AND THE OFFICE OF THE CHIEF STATE COUNSEL IN THE DEPARTMENT OF JUSTICE, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Prosecution Service/Office of the Chief State Counsel (DO
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43133709!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-213"
 
 [[history]]
 date = "2007-06-30"

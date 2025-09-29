@@ -6,7 +6,6 @@ name = "SBN-00945"
 [meta]
 bill_number = 945
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-945", "https://web.senate.gov.ph/lisdata/3875435207!.pdf",]
 title = "FREELANCERS PROTECTION ACT"
 date_filed = "2022-08-01"
 long_title = "AN ACT PROVIDING PROTECTION TO FREELANCERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Freelancers",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3875435207!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-945"
 
 [[history]]
 date = "2022-08-01"

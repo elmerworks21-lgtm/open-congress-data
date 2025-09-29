@@ -6,7 +6,6 @@ name = "SBN-00630"
 [meta]
 bill_number = 630
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-630", "https://web.senate.gov.ph/lisdata/3097727859!.pdf",]
 title = "THE ANTI-TERRORISM ACT OF 2019"
 date_filed = "2019-07-18"
 long_title = "AN ACT TO COMBAT TERRORISM AND SECURE THE NATION, AMENDING FOR THIS PURPOSE CERTAIN PROVISIONS OF REPUBLIC ACT NO. 9372, OTHERWISE KNOWN AS HUMAN SECURITY ACT OF 2007 AND OTHER LAWS"
@@ -15,6 +14,8 @@ subjects = [ "Human Security Act", "Anti-Terrorism/Anti-Terrorism Act (R.A.No. 9
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3097727859!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-630"
 
 [[history]]
 date = "2019-07-18"

@@ -6,7 +6,6 @@ name = "SBN-02107"
 [meta]
 bill_number = 2107
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2107", "https://web.senate.gov.ph/lisdata/2902625595!.pdf",]
 title = "REDUCING THE VALUE-ADDED TAX RATE TO 10% EFFECTIVE JANUARY 1, 2019"
 date_filed = "2018-11-21"
 long_title = "AN ACT AMENDING SECTIONS 106, 107, 108 OF THE NATIONAL INTERNAL REVENUE CODE (NIRC) OF 1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Value-Added Tax / 
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2902625595!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2107"
 
 [[history]]
 date = "2018-11-21"

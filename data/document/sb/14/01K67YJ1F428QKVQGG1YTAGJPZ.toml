@@ -6,7 +6,6 @@ name = "SBN-01126"
 [meta]
 bill_number = 1126
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1126", "https://web.senate.gov.ph/lisdata/54104786!.pdf",]
 title = "SHAKEN BABY SYNDROME PREVENTION ACT OF 2007"
 date_filed = "2007-07-04"
 long_title = "AN ACT TO ENHANCE THE EFFORTS FOCUSED ON PUBLIC AWARENESS AND EDUCATION ABOUT THE RISKS AND DANGERS ASSOCIATED WITH SHAKEN BABY SYNDROME"
@@ -15,6 +14,8 @@ subjects = [ "Shaken Baby Syndrome Prevention",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54104786!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1126"
 
 [[history]]
 date = "2007-07-04"

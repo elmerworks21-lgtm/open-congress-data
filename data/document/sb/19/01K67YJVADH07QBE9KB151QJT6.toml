@@ -6,7 +6,6 @@ name = "SBN-00656"
 [meta]
 bill_number = 656
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-656", "https://web.senate.gov.ph/lisdata/3852234977!.pdf",]
 title = "AMENDING R.A. NO. 8423 (TRADITIONAL AND ALTERNATIVE MEDICINE ACT (TAMA)"
 date_filed = "2022-07-14"
 long_title = "AN ACT STRENGTHENING TRADITIONAL AND COMPLEMENTARY MEDICINE IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8423, OTHERWISE KNOWN AS THE 'TRADITIONAL AND ALTERNATIVE MEDICINE ACT (TAMA) OF 1997'"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3852234977!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-656"
 
 [[history]]
 date = "2022-07-14"

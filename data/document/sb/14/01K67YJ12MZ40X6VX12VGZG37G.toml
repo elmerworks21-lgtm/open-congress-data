@@ -6,7 +6,6 @@ name = "SBN-00513"
 [meta]
 bill_number = 513
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-513", "https://web.senate.gov.ph/lisdata/47224043!.pdf",]
 title = "TULONG-DUNONG PROGRAM ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING A 'TULONG-DUNONG PROGRAM' FOR STUDENTS OF UNDERPRIVILEGED FAMILIES AND AUTHORIZING THE APPROPRIATION OF ONE HUNDRED MILLION PESOS (PHP 100,000,000.00) FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Tulong-Dunong Program", "Students",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47224043!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-513"
 
 [[history]]
 date = "2007-07-02"

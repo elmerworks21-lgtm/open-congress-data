@@ -6,7 +6,6 @@ name = "SBN-00910"
 [meta]
 bill_number = 910
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-910", "https://web.senate.gov.ph/lisdata/21131598!.pdf",]
 title = "OPEN AND DISTANCE LEARNING SYSTEM OF EDUCATION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT INSTITUTIONALIZING THE OPEN LEARNING AND DISTANCE EDUCATION SYSTEM IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Open", "Distance Learning System Education",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21131598!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-910"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00953"
 [meta]
 bill_number = 953
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-953", "https://web.senate.gov.ph/lisdata/3134928257!.pdf",]
 title = "PHILIPPINE MARINE CORPS ACT"
 date_filed = "2019-08-27"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE MARINE CORPS, DEFINING ITS POWER AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Marine Corps Act",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3134928257!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-953"
 
 [[history]]
 date = "2019-08-27"

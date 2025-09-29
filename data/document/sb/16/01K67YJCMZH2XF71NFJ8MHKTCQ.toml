@@ -6,7 +6,6 @@ name = "SBN-00566"
 [meta]
 bill_number = 566
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-566", "https://web.senate.gov.ph/lisdata/1650013740!.pdf",]
 title = "PHILIPPINE SOLAR INITIATIVE COMMISSION ACT"
 date_filed = "2013-07-08"
 long_title = "AN ACT CREATING THE PHILIPPINE SOLAR INITIATIVE COMMISSION"
@@ -15,6 +14,8 @@ subjects = [ "Solar Energy", "Philippine Solar Initiative Commission",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1650013740!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-566"
 
 [[history]]
 date = "2013-07-08"

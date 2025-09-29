@@ -6,7 +6,6 @@ name = "SBN-00798"
 [meta]
 bill_number = 798
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-798", "https://web.senate.gov.ph/lisdata/3115228052!.pdf",]
 title = "YOUNG ATHLETES ASSISTANCE ACT"
 date_filed = "2019-07-29"
 long_title = "AN ACT ASSISTING YOUNG ATHLETES BY PROGRAMS AND INCENTIVES FOR THEIR DEVELOPMENT"
@@ -15,6 +14,8 @@ subjects = [ "Athletes", "Youth",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3115228052!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-798"
 
 [[history]]
 date = "2019-07-29"

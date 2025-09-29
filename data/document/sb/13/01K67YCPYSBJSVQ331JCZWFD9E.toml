@@ -6,7 +6,6 @@ name = "SBN-02664"
 [meta]
 bill_number = 2664
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2664", "https://web.senate.gov.ph/lisdata/71845779!.pdf",]
 title = "MANDATORY INFLUENZA VACCINE PROGRAM OF 2007"
 date_filed = "2007-06-05"
 long_title = "AN ACT ESTABLISHING A PROGRAM REQUIRING GENERAL HOSPITALS WITH NEONATAL INTENSIVE CARE UNITS TO OFFER VACCINES AGAINST INFLUENZA VIRUS TO CERTAIN PERSONS"
@@ -15,6 +14,8 @@ subjects = [ "Vaccines (Influenza Virus; Neonatal Intensive Care Units)", "Influ
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71845779!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2664"
 
 [[history]]
 date = "2007-06-05"

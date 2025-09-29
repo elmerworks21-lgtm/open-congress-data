@@ -6,7 +6,6 @@ name = "SBN-01020"
 [meta]
 bill_number = 1020
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1020", "https://web.senate.gov.ph/lisdata/3897135422!.pdf",]
 title = "CASH BUDGETING SYSTEM ACT"
 date_filed = "2022-08-04"
 long_title = "AN ACT INSTITUTIONALIZING THE CASH BUDGETING SYSTEM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Cash Budgeting System",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3897135422!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1020"
 
 [[history]]
 date = "2022-08-04"

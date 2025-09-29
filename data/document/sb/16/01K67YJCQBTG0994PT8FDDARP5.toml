@@ -6,7 +6,6 @@ name = "SBN-00684"
 [meta]
 bill_number = 684
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-684", "https://web.senate.gov.ph/lisdata/1664813886!.pdf",]
 title = "ENVIRONMENTAL IMPACT ASSESSMENT ACT OF 2013"
 date_filed = "2013-07-09"
 long_title = "AN ACT TO ENHANCE THE PHILIPPINE ENVIRONMENTAL IMPACT ASSESSMENT (EIA) SYSTEM, TO STRENGTHEN PUBLIC PARTICIPATION THEREIN, AND FOR RELATED PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Impact Assessment System (EIAS)",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1664813886!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-684"
 
 [[history]]
 date = "2013-07-09"

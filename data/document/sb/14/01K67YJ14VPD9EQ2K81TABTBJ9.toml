@@ -6,7 +6,6 @@ name = "SBN-00623"
 [meta]
 bill_number = 623
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-623", "https://web.senate.gov.ph/lisdata/48344209!.pdf",]
 title = "EMERGENCY MEDICAL SERVICES AND TRAUMA CARE IMPROVEMENT ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT TO IMPROVE EMERGENCY MEDICAL SERVICES AND TRAUMA CARE"
@@ -15,6 +14,8 @@ subjects = [ "Trauma Center", "Emergency Care", "Healthcare Services/Health Care
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48344209!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-623"
 
 [[history]]
 date = "2007-07-03"

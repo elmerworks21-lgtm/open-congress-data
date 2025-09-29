@@ -6,7 +6,6 @@ name = "SBN-00807"
 [meta]
 bill_number = 807
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-807", "https://web.senate.gov.ph/lisdata/3853334986!.pdf",]
 title = "BREAST CARE CENTERS"
 date_filed = "2022-07-25"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BREAST CARE CENTERS IN EVERY REGION NATIONWIDE, APPROPRIATING FUNDS THEREFORE AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Breast Care",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3853334986!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-807"
 
 [[history]]
 date = "2022-07-25"

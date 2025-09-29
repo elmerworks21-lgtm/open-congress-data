@@ -6,7 +6,6 @@ name = "SBN-00495"
 [meta]
 bill_number = 495
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-495", "https://web.senate.gov.ph/lisdata/3071827819!.pdf",]
 title = "DEATH PENALTY ACT"
 date_filed = "2019-07-15"
 long_title = "AN ACT IMPOSING DEATH PENALTY IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Death Penalty",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3071827819!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-495"
 
 [[history]]
 date = "2019-07-15"

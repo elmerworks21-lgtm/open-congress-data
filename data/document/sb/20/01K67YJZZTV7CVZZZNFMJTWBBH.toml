@@ -6,7 +6,6 @@ name = "SBN-00314"
 [meta]
 bill_number = 314
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-314", "https://web.senate.gov.ph/lisdata/4680342810!.pdf",]
 title = "BAHAY-WIKA ACT OF 2025"
 date_filed = "2025-07-09"
 long_title = "AN ACT INSTITUTIONALIZING A NATIONWIDE LANGUAGE REVITALIZATION PROGRAM AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Bahay-Wika", "Language Revitalization",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4680342810!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-314"
 
 [[history]]
 date = "2025-07-09"

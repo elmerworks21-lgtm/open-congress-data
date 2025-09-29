@@ -6,7 +6,6 @@ name = "SBN-00030"
 [meta]
 bill_number = 30
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-30", "https://web.senate.gov.ph/lisdata/1163583!.pdf",]
 title = "DEVELOPING GLOBALLY COMPETITIVE SCIENCE/MATHEMATICS TEACHERS"
 date_filed = "2004-06-30"
 long_title = "AN ACT DEVELOPING GLOBALLY COMPETITIVE SCIENCE AND MATHEMATICS TEACHERS"
@@ -15,6 +14,8 @@ subjects = [ "Teachers (Science", "Mathematics)",]
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
 author_codes = ["AEDGA", "FJUAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1163583!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-30"
 
 [[history]]
 date = "2004-06-30"

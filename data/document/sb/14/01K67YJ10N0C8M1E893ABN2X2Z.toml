@@ -6,7 +6,6 @@ name = "SBN-00420"
 [meta]
 bill_number = 420
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-420", "https://web.senate.gov.ph/lisdata/45953942!.pdf",]
 title = "COMPENSATION AND BENEFITS FOR NON-COMBATANT VICTIMS"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROVIDING FOR REASONABLE COMPENSATION AND BENEFITS FOR THE LOSS OF LIVES, INJURIES AND DAMAGES TO PROPERTY SUFFERED BY NON-COMBATANT INDIVIDUALS IN THE COURSE OF OPERATIONS BY THE MILITARY, POLICE AND/OR OTHER LAW ENFORCEMENT AGENCIES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Non-Combatant Victims (Civilians Compensation)", "Armed Conflict (
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45953942!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-420"
 
 [[history]]
 date = "2007-07-02"

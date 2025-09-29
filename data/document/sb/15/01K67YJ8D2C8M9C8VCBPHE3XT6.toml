@@ -6,7 +6,6 @@ name = "SBN-01861"
 [meta]
 bill_number = 1861
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1861", "https://web.senate.gov.ph/lisdata/94327973!.pdf",]
 title = "OVER-THE-COUNTER WEIGHT LOSS SUPPLEMENTS"
 date_filed = "2010-07-22"
 long_title = "AN ACT PROHIBITING THE SALE OF OVER-THE-COUNTER WEIGHT LOSS SUPPLEMENTS TO MINORS"
@@ -15,6 +14,8 @@ subjects = [ "Weight Loss Supplements",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94327973!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1861"
 
 [[history]]
 date = "2010-07-22"

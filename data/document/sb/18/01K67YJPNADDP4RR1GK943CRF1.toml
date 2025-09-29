@@ -6,7 +6,6 @@ name = "SBN-00404"
 [meta]
 bill_number = 404
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-404", "https://web.senate.gov.ph/lisdata/3072827586!.pdf",]
 title = "RESEARCH AND DEVELOPMENT EFFICIENCY ACT"
 date_filed = "2019-07-11"
 long_title = "AN ACT TO IMPROVE THE EFFICIENCY OF NATIONAL RESEARCH AND DEVELOPMENT"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Research and Development Council",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3072827586!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-404"
 
 [[history]]
 date = "2019-07-11"

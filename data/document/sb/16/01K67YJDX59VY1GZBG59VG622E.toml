@@ -6,7 +6,6 @@ name = "SBN-02441"
 [meta]
 bill_number = 2441
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2441", "https://web.senate.gov.ph/lisdata/2008617196!.pdf",]
 title = "INSURANCE FOR RAILWAY PASSENGERS ACT"
 date_filed = "2014-10-30"
 long_title = "AN ACT REQUIRING ACCIDENT AND LIFE INSURANCE COVERAGE FOR RAILWAY TRANSIT PASSENGERS"
@@ -15,6 +14,8 @@ subjects = [ "Insurance", "Transportation", "Metro Rail Transit (MRT)",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2008617196!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2441"
 
 [[history]]
 date = "2014-10-30"

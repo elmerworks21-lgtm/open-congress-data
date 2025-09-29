@@ -6,7 +6,6 @@ name = "SBN-00793"
 [meta]
 bill_number = 793
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-793", "https://web.senate.gov.ph/lisdata/3114728047!.pdf",]
 title = "PHILIPPINE SPECTRUM MANAGEMENT ACT"
 date_filed = "2019-07-25"
 long_title = "AN ACT PROVIDING FOR THE ALLOCATION AND MANAGEMENT OF THE RADIO FREQUENCY SPECTRUM"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Radio Frequency Spectrum",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3114728047!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-793"
 
 [[history]]
 date = "2019-07-25"

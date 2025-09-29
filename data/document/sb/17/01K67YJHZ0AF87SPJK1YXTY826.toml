@@ -6,7 +6,6 @@ name = "SBN-01176"
 [meta]
 bill_number = 1176
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1176", "https://web.senate.gov.ph/lisdata/2495621460!.pdf",]
 title = "THE CAMPUS SAFETY AND SECURITY ACT"
 date_filed = "2016-09-29"
 long_title = "AN ACT MANDATING HIGHER EDUCATION INSTITUTIONS AND TECHNICAL-VOCATIONAL INSTITUTIONS TO ENSURE THE SAFETY AND SECURITY OF THE ACADEMIC COMMUNITY FROM INTERNAL AND EXTERNAL THREATS, THEREBY CREATING A CRIME PREVENTION COMMITTEE FOR THIS PURPOSE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Campus Safety",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Villanueva, Joel"
 author_codes = ["TANTO", "VEMMA"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2495621460!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1176"
 
 [[history]]
 date = "2016-09-29"

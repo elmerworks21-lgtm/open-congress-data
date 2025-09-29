@@ -6,7 +6,6 @@ name = "SBN-02340"
 [meta]
 bill_number = 2340
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2340", "https://web.senate.gov.ph/lisdata/54764486!.pdf",]
 title = "DELINQUENT PARENTS (PENALTY)"
 date_filed = "2006-06-07"
 long_title = "AN ACT STRENGTHENING THE PENAL PROVISIONS WITH RESPECT TO DELINQUENT PARENTS, AMENDING FOR THE PURPOSE ARTICLES 276, 277, AND 278 OF THE REVISED PENAL CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (RA 3815)", "Delinquent Parents (Penalty)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54764486!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2340"
 
 [[history]]
 date = "2006-06-07"

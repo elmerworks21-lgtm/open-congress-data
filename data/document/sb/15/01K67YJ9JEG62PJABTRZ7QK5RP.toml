@@ -6,7 +6,6 @@ name = "SBN-03214"
 [meta]
 bill_number = 3214
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3214", "https://web.senate.gov.ph/lisdata/1341311277!.pdf",]
 title = "POLITICAL PARTY SYSTEM"
 date_filed = "2012-06-04"
 long_title = "AN ACT STRENGTHENING THE POLITICAL PARTY SYSTEM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Political Party",]
 authors_raw = "Angara, Edgardo J., Ejercito-Estrada, Jinggoy P., Defensor Santiago, Miriam, Drilon, Franklin M."
 author_codes = ["AEDGA", "DFRAN", "EJING", "SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1341311277!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3214"
 
 [[history]]
 date = "2012-06-04"

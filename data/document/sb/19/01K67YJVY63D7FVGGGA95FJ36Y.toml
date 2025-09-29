@@ -6,7 +6,6 @@ name = "SBN-01515"
 [meta]
 bill_number = 1515
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1515", "https://web.senate.gov.ph/lisdata/3989836336!.pdf",]
 title = "BPA AND PFAS IN CHILD CARE ARTICLES PROHIBITION ACT"
 date_filed = "2022-11-16"
 long_title = "AN ACT PROHIBITING THE USE OF BPA AND PFAS IN BABY FOOD PACKAGING AND CONTAINERS, AND OTHER CHILD CARE ARTICLES"
@@ -15,6 +14,8 @@ subjects = [ "Children/Child Care", "Baby/Infant", "Bisphenol A",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3989836336!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1515"
 
 [[history]]
 date = "2022-11-16"

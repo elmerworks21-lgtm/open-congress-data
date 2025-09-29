@@ -6,7 +6,6 @@ name = "SBN-01364"
 [meta]
 bill_number = 1364
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1364", "https://web.senate.gov.ph/lisdata/88907431!.pdf",]
 title = "LOW CARBON ECONOMY ACT"
 date_filed = "2010-07-13"
 long_title = "AN ACT TO PROMOTE A LOW CARBON ECONOMY ESTABLISHING FOR THIS PURPOSE THE EMISSION CAP-AND-TRADE SYSTEM IN THE INDUSTRY SECTOR TO REDUCE GREENHOUSE GAS EMISSIONS AND PROTECT THE CLIMATE"
@@ -15,6 +14,8 @@ subjects = [ "Climate Change",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CLIMC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/88907431!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1364"
 
 [[history]]
 date = "2010-07-13"

@@ -6,7 +6,6 @@ name = "SBN-02153"
 [meta]
 bill_number = 2153
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2153", "https://web.senate.gov.ph/lisdata/41513463!.pdf",]
 title = "REGULATION OF OFFICE-BASED SURGICAL PROCEDURES ACT"
 date_filed = "2005-10-27"
 long_title = "AN ACT TO REGULATE OFFICE-BASED INVASIVE PROCEDURES"
@@ -15,6 +14,8 @@ subjects = [ "Office-Based Surgical Procedures (Regulation)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41513463!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2153"
 
 [[history]]
 date = "2005-10-27"

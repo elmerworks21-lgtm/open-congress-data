@@ -6,7 +6,6 @@ name = "SBN-02321"
 [meta]
 bill_number = 2321
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2321", "https://web.senate.gov.ph/lisdata/4214138337!.pdf",]
 title = "FREEDOM OF INFORMATION ACT"
 date_filed = "2023-07-18"
 long_title = "AN ACT IMPLEMENTING THE RIGHT OF THE PEOPLE TO INFORMATION ON MATTERS OF PUBLIC CONCERN GUARANTEED UNDER SECTION SEVEN, ARTICLE THREE OF THE 1987 CONSTITUTION AND THE STATE POLICY OF FULL PUBLIC DISCLOSURE OF ALL ITS TRANSACTIONS INVOLVING PUBLIC INTEREST UNDER SECTION TWENTY EIGHT, ARTICLE TWO OF THE 1987 CONSTITUTION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Freedom of Information",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4214138337!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2321"
 
 [[history]]
 date = "2023-07-18"

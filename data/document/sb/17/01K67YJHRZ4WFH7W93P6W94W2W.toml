@@ -6,7 +6,6 @@ name = "SBN-00910"
 [meta]
 bill_number = 910
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-910", "https://web.senate.gov.ph/lisdata/2446621051!.pdf",]
 title = "AMENDING P.D. NO. 1146, THE REVISED GOVERNMENT SERVICE INSURANCE SYSTEM ACT OF 1977"
 date_filed = "2016-07-28"
 long_title = "AN ACT MANDATING THE INCLUSION OF ELECTED AND APPOINTED BARANGAY OFFICIALS AS COMPULSORY MEMBERS OF THE GOVERNMENT SERVICE INSURANCE SYSTEM, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1146, AS AMENDED, OTHERWISE KNOWN AS THE REVISED GOVERNMENT SERVICE INSURANCE ACT OF 1977"
@@ -15,6 +14,8 @@ subjects = [ "Government Service Insurance System (GSIS)", "Barangay Officials",
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2446621051!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-910"
 
 [[history]]
 date = "2016-07-28"

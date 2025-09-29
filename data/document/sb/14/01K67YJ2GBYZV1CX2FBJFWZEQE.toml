@@ -6,7 +6,6 @@ name = "SBN-02346"
 [meta]
 bill_number = 2346
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2346", "https://web.senate.gov.ph/lisdata/75146728!.pdf",]
 title = "FOSTER CARE ACT OF 2008"
 date_filed = "2008-05-28"
 long_title = "AN ACT TO STRENGTHEN AND PROPAGATE FOSTER CARE FOR ABUSED, ABANDONED, NEGLECTED AND OTHER CHILDREN WITH SPECIAL NEEDS, PROVIDING APPROPRIATIONS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Foster Care Act",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75146728!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2346"
 
 [[history]]
 date = "2008-05-28"

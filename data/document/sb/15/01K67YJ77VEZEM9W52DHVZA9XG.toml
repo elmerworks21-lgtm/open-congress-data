@@ -6,7 +6,6 @@ name = "SBN-00038"
 [meta]
 bill_number = 38
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-38", "https://web.senate.gov.ph/lisdata/73525919!.pdf",]
 title = "CLARK INTERNATIONAL AIRPORT CORPORATION"
 date_filed = "2010-07-01"
 long_title = "AN ACT PRESCRIBING FIXED TERMS FOR THE CHAIRMAN, PRESIDENT AND MEMBERS OF THE BOARD OF DIRECTORS OF THE CLARK INTERNATIONAL AIRPORT CORPORATION (CIAC)"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/73525919!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-38"
 
 [[history]]
 date = "2010-07-27"

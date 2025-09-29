@@ -6,7 +6,6 @@ name = "SBN-00140"
 [meta]
 bill_number = 140
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-140", "https://web.senate.gov.ph/lisdata/1595113186!.pdf",]
 title = "OPEN LEARNING AND DISTANCE EDUCATION ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT TO IMPROVE ACCESS TO EDUCATION THROUGH OPEN LEARNING AND DISTANCE EDUCATION IN POST SECONDARY AND TERTIARY LEVELS IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Open Learning System", "Distance Education",]
 authors_raw = "Villar, Cynthia A., Recto, Ralph G."
 author_codes = ["RRALP", "VCYNT"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1595113186!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-140"
 
 [[history]]
 date = "2013-07-01"

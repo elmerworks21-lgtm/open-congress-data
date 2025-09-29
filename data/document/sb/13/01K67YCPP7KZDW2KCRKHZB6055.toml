@@ -6,7 +6,6 @@ name = "SBN-02254"
 [meta]
 bill_number = 2254
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2254", "https://web.senate.gov.ph/lisdata/52694300!.pdf",]
 title = "DEATH PENALTY (ABOLITION)"
 date_filed = "2006-05-29"
 long_title = "AN ACT PROHIBITING THE IMPOSITION OF DEATH PENALTY IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Death Penalty (Abolition)",]
 authors_raw = "Osmena III, Sergio R., Villar Jr., Manuel B., Pimentel Jr., Aquilino Q., Arroyo, Joker P., Gordon, Richard \"Dick\" J."
 author_codes = ["AJOKE", "GRICH", "OSERG", "PAQUI", "VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52694300!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2254"
 
 [[history]]
 date = "2006-05-29"

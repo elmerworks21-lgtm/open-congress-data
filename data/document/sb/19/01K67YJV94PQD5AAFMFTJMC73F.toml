@@ -6,7 +6,6 @@ name = "SBN-00600"
 [meta]
 bill_number = 600
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-600", "https://web.senate.gov.ph/lisdata/3838834842!.pdf",]
 title = "PHILIPPINE CENTER FOR DISEASE PREVENTION AND CONTROL (CDC) ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PUBLIC HEALTH EMERGENCY PREPAREDNESS AND RESPONSE CAPABILITIES, ESTABLISHING FOR THIS PURPOSE THE CENTER FOR DISEASE PREVENTION AND CONTROL, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Center for Disease Control and Prevention", "Emergency 
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3838834842!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-600"
 
 [[history]]
 date = "2022-07-14"

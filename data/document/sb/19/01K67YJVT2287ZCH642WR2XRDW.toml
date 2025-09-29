@@ -6,7 +6,6 @@ name = "SBN-01350"
 [meta]
 bill_number = 1350
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1350", "https://web.senate.gov.ph/lisdata/3953835923!.pdf",]
 title = "EMERGENCY MEDICAL SERVICES SYSTEM (EMSS) ACT"
 date_filed = "2022-09-28"
 long_title = "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), CREATING FOR THE PURPOSE THE NATIONAL EMSS COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Emergency Medical Services System (EMSS)", "National Emergency",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3953835923!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1350"
 
 [[history]]
 date = "2022-09-28"

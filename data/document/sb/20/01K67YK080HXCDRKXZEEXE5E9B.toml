@@ -6,7 +6,6 @@ name = "SBN-00752"
 [meta]
 bill_number = 752
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-752", "https://web.senate.gov.ph/lisdata/4729043289!.pdf",]
 title = "AMENDING P.D. NO. 194 (AUTHORIZING ALIENS TO OWNED OR ENGAGE IN RICE AND CORN INDUSTRY)"
 date_filed = "2025-07-29"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 194, OTHERWISE KNOWN AS THE 'AUTHORIZING ALIENS, AS WELL AS ASSOCIATIONS, CORPORATIONS OR PARTNERSHIPS OWNED IN WHOLE OR IN PART BY FOREIGNERS TO ENGAGE IN THE RICE AND CORN INDUSTRY, AND FOR OTHER PURPOSES', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rice and Corn Industry", "Foreign Investments",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4729043289!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-752"
 
 [[history]]
 date = "2025-07-29"

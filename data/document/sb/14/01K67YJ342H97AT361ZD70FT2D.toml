@@ -6,7 +6,6 @@ name = "SBN-03214"
 [meta]
 bill_number = 3214
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3214", "https://web.senate.gov.ph/lisdata/110869793!.pdf",]
 title = "NATIONAL WRITING PROGRAM ACT OF 2009"
 date_filed = "2009-05-06"
 long_title = "AN ACT TO CREATE A NATIONAL WRITING PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "National Writing Program",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/110869793!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3214"
 
 [[history]]
 date = "2009-05-06"

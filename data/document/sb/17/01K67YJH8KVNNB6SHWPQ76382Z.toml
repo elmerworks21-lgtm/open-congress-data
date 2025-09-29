@@ -6,7 +6,6 @@ name = "SBN-00179"
 [meta]
 bill_number = 179
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-179", "https://web.senate.gov.ph/lisdata/2360120232!.pdf",]
 title = "THE NATIONAL REVENUE CODE OF 1997, AMENDMENTS"
 date_filed = "2016-06-30"
 long_title = "AN ACT AMENDING SECTION 24 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Internal Revenue Code (NIRC)", "Taxes (Individual Income 
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2360120232!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-179"
 
 [[history]]
 date = "2016-06-30"

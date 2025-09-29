@@ -6,7 +6,6 @@ name = "SBN-00801"
 [meta]
 bill_number = 801
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-801", "https://web.senate.gov.ph/lisdata/3117028070!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS CREDIT ASSISTANCE ACT OF 2019"
 date_filed = "2019-07-29"
 long_title = "AN ACT ESTABLISHING A CREDIT ASSISTANCE PROGRAM FOR OVERSEAS FILIPINO WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Filipino Workers (OFWS)/ Migrant Workers", "Credit Assist
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3117028070!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-801"
 
 [[history]]
 date = "2019-07-29"

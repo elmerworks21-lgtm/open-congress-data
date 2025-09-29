@@ -6,7 +6,6 @@ name = "SBN-00958"
 [meta]
 bill_number = 958
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-958", "https://web.senate.gov.ph/lisdata/3876835221!.pdf",]
 title = "PHILIPPINE CROP INSURANCE CORPORATION"
 date_filed = "2022-08-01"
 long_title = "AN ACT INSTITUTIONALIZING THE PROVISION OF CROP INSURANCE FOR THE FISHERIES LIVESTOCK AND POULTRY SECTORS, AMENDING FOR THE PURPOSE SECTION 1 OF PRESIDENTIAL DECREE NO. 1467, AS AMENDED, OTHERWISE KNOWN AS THE 'REVISED CHARTER OF THE PHILIPPINE CROP INSURANCE CORPORATION ACT OF 1995'"
@@ -15,6 +14,8 @@ subjects = [ "Fishery Products", "Poultry", "Philippine Crop Insurance Corporati
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3876835221!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-958"
 
 [[history]]
 date = "2022-08-01"

@@ -6,7 +6,6 @@ name = "SBN-01531"
 [meta]
 bill_number = 1531
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1531", "https://web.senate.gov.ph/lisdata/3275829622!.pdf",]
 title = "INDISCRIMINATE FIRING OF FIREARMS"
 date_filed = "2020-05-14"
 long_title = "AN ACT DEFINING THE OFFENSES OF DISCHARGE OF FIREARMS AND INDISCRIMINATE FIRING OF FIREARMS AND PROVIDING STIFFER PENALTIES THEREFOR, AMENDING FOR THE PURPOSES ARTICLE 254 OF ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE, AND REPUBLIC ACT NO. 10591, OTHERWISE KNOWN AS THE COMPREHENSIVE FIREARMS AND AMMUNITION REGULATION ACT”"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Firearms", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3275829622!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1531"
 
 [[history]]
 date = "2020-05-14"

@@ -6,7 +6,6 @@ name = "SBN-02659"
 [meta]
 bill_number = 2659
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2659", "https://web.senate.gov.ph/lisdata/106519113!.pdf",]
 title = "GOVERNMENT INDEBTEDNESS CAP ACT OF 2011"
 date_filed = "2011-01-31"
 long_title = "AN ACT SETTING A CEILING TO THE INDEBTEDNESS OF THE REPUBLIC OF THE PHILIPPINES TO ENSURE MACRO-ECONOMIC STABILITY AND SUSTAINABLE GROWTH AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Foreign Loans", "Debt Cap",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106519113!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2659"
 
 [[history]]
 date = "2011-01-31"

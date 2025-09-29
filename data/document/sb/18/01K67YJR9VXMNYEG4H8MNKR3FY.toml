@@ -6,7 +6,6 @@ name = "SBN-02470"
 [meta]
 bill_number = 2470
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2470", "https://web.senate.gov.ph/lisdata/3688533244!.pdf",]
 title = "AMENDING REPUBLIC ACT NO. 11332 (PROCEDURES ON SURVEILLANCE AND RESPONSE TO NOTIFIABLE DISEASES)"
 date_filed = "2022-01-04"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11332 OTHERWISE KNOWN AS ‘AN ACT PROVIDING POLICIES AND PRESCRIBING PROCEDURES ON SURVEILLANCE AND RESPONSE TO NOTIFIABLE DISEASES, EPIDEMICS, AND HEALTH EVENTS OF PUBLIC HEALTH CONCERN, AND APPROPRIATING FUNDS THEREFOR, REPEALING FOR THE PURPOSE ACT NO. 3573, OTHERWISE KNOWN AS THE ‘LAW ON REPORTING OF COMMUNICABLE DISEASES’ AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Communicable Diseases", "Epidemic",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3688533244!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2470"
 
 [[history]]
 date = "2022-01-04"

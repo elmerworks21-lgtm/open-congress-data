@@ -6,7 +6,6 @@ name = "SBN-02259"
 [meta]
 bill_number = 2259
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2259", "https://web.senate.gov.ph/lisdata/4188138148!.pdf",]
 title = "PROMOTING AWARENESS FOR THE INTELLECTUAL PROPERTY RIGHTS OF INDEPENDENT ARTIST"
 date_filed = "2023-05-29"
 long_title = "AN ACT PROMOTING AWARENESS FOR THE INTELLECTUAL PROPERTY RIGHTS OF INDEPENDENT ARTISTS, ESTABLISHING PROGRAMS PURSUANT THERETO, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Intellectual Property Rights", "Artists",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4188138148!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2259"
 
 [[history]]
 date = "2023-05-29"

@@ -6,7 +6,6 @@ name = "SBN-00753"
 [meta]
 bill_number = 753
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-753", "https://web.senate.gov.ph/lisdata/3844934906!.pdf",]
 title = "EXTENDED PATERNITY LEAVE"
 date_filed = "2022-07-18"
 long_title = "AN ACT EXPANDING THE SCOPE OF AND PROVIDING FOR EXTENDED PATERNITY LEAVE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8187, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Paternity Leave",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3844934906!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-753"
 
 [[history]]
 date = "2022-07-18"

@@ -6,7 +6,6 @@ name = "SBN-00955"
 [meta]
 bill_number = 955
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-955", "https://web.senate.gov.ph/lisdata/3876535218!.pdf",]
 title = "PHILIPPINE GERIATRIC CENTER ACT OF 2022"
 date_filed = "2022-08-01"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE GERIATRIC CENTER - RESEARCH AND TRAINING INSTITUTE, DEFINING ITS OBJECTIVES, POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREOF, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Geriatric Health Center",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3876535218!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-955"
 
 [[history]]
 date = "2022-08-01"

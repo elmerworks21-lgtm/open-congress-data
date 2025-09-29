@@ -6,7 +6,6 @@ name = "SBN-00265"
 [meta]
 bill_number = 265
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-265", "https://web.senate.gov.ph/lisdata/3800034443!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS CREDIT ASSISTANCE ACT OF 2022"
 date_filed = "2022-07-11"
 long_title = "AN ACT ESTABLISHING A CREDIT ASSISTANCE PROGRAM FOR OVERSEAS FILIPINO WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Filipino Workers (OFWS)/ Migrant Workers", "Credit Assist
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["MIGRW"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3800034443!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-265"
 
 [[history]]
 date = "2022-07-11"

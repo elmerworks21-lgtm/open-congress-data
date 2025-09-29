@@ -6,7 +6,6 @@ name = "SBN-00302"
 [meta]
 bill_number = 302
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-302", "https://web.senate.gov.ph/lisdata/2373920402!.pdf",]
 title = "SECURITY OF TENURE ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT STRENGTHENING THE CONSTITUTION RIGHT TO SECURITY OF TENURE, AMENDING FOR THE PURPOSE THE LABOR CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Security of Tenure", "Labor Code of the Philippines (P.D.No. 442)"
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2373920402!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-302"
 
 [[history]]
 date = "2016-07-04"

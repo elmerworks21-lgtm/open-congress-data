@@ -6,7 +6,6 @@ name = "SBN-01003"
 [meta]
 bill_number = 1003
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1003", "https://web.senate.gov.ph/lisdata/2457721160!.pdf",]
 title = "PARKING FEES REGULATION ACT"
 date_filed = "2016-08-08"
 long_title = "AN ACT REGULATING THE IMPOSITION OF FEES FOR THE USE OF PARKING SPACES AND FACILITIES IN SHOPPING MALLS, HOSPITALS, SCHOOLS AND SIMILAR ESTABLISHMENTS, INCLUDING VACANT LOTS USED EXCLUSIVELY FOR PARKING AND PRESCRIBING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Fees and Charges",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2457721160!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1003"
 
 [[history]]
 date = "2016-08-08"

@@ -6,7 +6,6 @@ name = "SBN-00677"
 [meta]
 bill_number = 677
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-677", "https://web.senate.gov.ph/lisdata/2416820805!.pdf",]
 title = "AUTOMATED TELLER MACHINE (ATM) FEE REGULATORY ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT REQUIRING FINANCIAL INSTITUTIONS TO POST TRANSACTION FEES FOR EACH AUTOMATED TELLER MACHINE TRANSACTION AND RESTRICTING TRANSACTION FEES FOR AUTOMATED TELLER MACHINES"
@@ -15,6 +14,8 @@ subjects = [ "Automated Teller Machines (ATM)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2416820805!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-677"
 
 [[history]]
 date = "2016-07-20"

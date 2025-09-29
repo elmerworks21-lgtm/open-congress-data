@@ -6,7 +6,6 @@ name = "SBN-02671"
 [meta]
 bill_number = 2671
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2671", "https://web.senate.gov.ph/lisdata/71915772!.pdf",]
 title = "PARENTAL CONSENT DRUG TESTING AND COUNSELING ACT OF 2007"
 date_filed = "2007-06-06"
 long_title = "AN ACT TO REQUIRE LOCAL EDUCATIONAL AGENCIES TO DEVELOP AND IMPLEMENT A RANDOM DRUG TESTING AND COUNSELING PROGRAM FOR STUDENTS IN HIGH SCHOOL"
@@ -15,6 +14,8 @@ subjects = [ "Student Drug Testing and Counseling Program", "Drug Testing/Counse
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71915772!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2671"
 
 [[history]]
 date = "2007-06-06"

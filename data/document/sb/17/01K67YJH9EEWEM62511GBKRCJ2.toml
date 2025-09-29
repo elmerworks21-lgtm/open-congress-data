@@ -6,7 +6,6 @@ name = "SBN-00212"
 [meta]
 bill_number = 212
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-212", "https://web.senate.gov.ph/lisdata/2363320277!.pdf",]
 title = "TRAINING INSIDE PRISONS ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT INSTITUTIONALIZING SKILLS DEVELOPMENT AND PROVIDING JOB OPPORTUNITIES TO INMATES IN DETENTION FACILITIES, APPROPRIATING FUNDS THEREFOR AND OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners/Inmates", "Skills Training/Retraining",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2363320277!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-212"
 
 [[history]]
 date = "2016-06-30"

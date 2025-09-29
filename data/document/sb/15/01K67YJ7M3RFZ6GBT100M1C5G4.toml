@@ -6,7 +6,6 @@ name = "SBN-00624"
 [meta]
 bill_number = 624
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-624", "https://web.senate.gov.ph/lisdata/80756547!.pdf",]
 title = "EXEMPTING PUBLISHER, EDITOR, REPORTER FROM REVEALING THE SOURCE OF PUBLISHED NEWS"
 date_filed = "2010-07-07"
 long_title = "AN ACT FURTHER AMENDING SECTION 1 OF REPUBLIC ACT NO. 53, OTHERWISE KNOWN AS AN ACT TO EXEMPT THE PUBLISHER, EDITOR, COLUMNIST OR REPORTER OF ANY PUBLICATION FROM REVEALING THE SOURCE OF PUBLISHED NEWS OR INFORMATION OBTAINED IN CONFIDENCE"
@@ -15,6 +14,8 @@ subjects = [ "Source of Published News", "Journalist Welfare",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80756547!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-624"
 
 [[history]]
 date = "2010-07-07"

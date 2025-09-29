@@ -6,7 +6,6 @@ name = "SBN-00251"
 [meta]
 bill_number = 251
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-251", "https://web.senate.gov.ph/lisdata/2369020332!.pdf",]
 title = "LOW CARBON ECONOMY ACT"
 date_filed = "2016-07-04"
 long_title = "AN ACT TO PROMOTE A LOW CARBON ECONOMY ESTABLISHING FOR THIS PURPOSE THE EMISSION CAP-AND-TRADE SYSTEM IN THE INDUSTRY SECTOR TO REDUCE GREENHOUSE GAS EMISSIONS AND PROTECT THE CLIMATE"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Greenhouse Gas Emission", "Climate Change",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2369020332!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-251"
 
 [[history]]
 date = "2016-07-04"

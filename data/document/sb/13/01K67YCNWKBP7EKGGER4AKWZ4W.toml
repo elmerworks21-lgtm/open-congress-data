@@ -6,7 +6,6 @@ name = "SBN-00941"
 [meta]
 bill_number = 941
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-941", "https://web.senate.gov.ph/lisdata/21431670!.pdf",]
 title = "NON-CONVENTIONAL ENERGY PROGRAM ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A NATIONAL NON-CONVENTIONAL ENERGY PROGRAM, PROVIDING INCENTIVES FOR DEVELOPERS, MANUFACTURERS AND USERS OF NON-CONVENTIONAL ENERGY SYSTEM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Non-Conventional Energy Program Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21431670!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-941"
 
 [[history]]
 date = "2004-06-30"

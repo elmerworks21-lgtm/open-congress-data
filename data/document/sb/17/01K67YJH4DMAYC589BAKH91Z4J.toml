@@ -6,7 +6,6 @@ name = "SBN-00008"
 [meta]
 bill_number = 8
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-8", "https://web.senate.gov.ph/lisdata/2342120006!.pdf",]
 title = "DRUG REHABILITATION TREATMENT FOR PHILHEALTH BENEFICIARIES"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FOR AFFORDABLE DRUG REHABILITATION TREATMENT FOR PHILIPPINE HEALTH INSURANCE CORPORATION (PHIC) BENEFICIARIES, FURTHER AMENDING REPUBLIC ACT 7875, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Dangerous Drugs Act of 2002, R.A.No. 9165", "Illegal Drugs", "Drug
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2342120006!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-8"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-03544"
 [meta]
 bill_number = 3544
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3544", "https://web.senate.gov.ph/lisdata/1311611723!.pdf",]
 title = "RFID USERS PROTECTION ACT OF 2009"
 date_filed = "2009-11-25"
 long_title = "AN ACT PROTECTING THE USERS OF RADIO FREQUENCY IDENTIFICATION DEVICES"
@@ -15,6 +14,8 @@ subjects = [ "Radio Frequency Identification Devices",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1311611723!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3544"
 
 [[history]]
 date = "2009-11-25"

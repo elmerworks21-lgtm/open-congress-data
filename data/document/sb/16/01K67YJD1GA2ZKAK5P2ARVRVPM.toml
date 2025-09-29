@@ -6,7 +6,6 @@ name = "SBN-01176"
 [meta]
 bill_number = 1176
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1176", "https://web.senate.gov.ph/lisdata/1722814466!.pdf",]
 title = "AGRARIAN AND AGRICULTURAL CREDIT CONDONATION ACT OF 2013"
 date_filed = "2013-07-30"
 long_title = "AN ACT PROVIDING FOR THE CONDONATION OF UNPAID INTERESTS, PENALTIES AND SURCHARGES ON LOANS SECURED BY FARMERS, FISHERFOLKS AND AGRARIAN REFORM BENEFICIARIES FROM THE DEPARTMENT OF AGRARIAN REFORM (DAR), THE DEPARTMENT OF AGRICULTURE (DA), THE PEOPLE'S CREDIT AND FINANCE CORPORATION (PCFC), THE COOPERATIVE DEVELOPMENT AUTHORITY (CDA), THE NATIONAL FOOD AUTHORITY (NFA) AND THE QUEDAN AND RURAL CREDIT GUARANTEE CORPORATION (QUEDANCOR)"
@@ -15,6 +14,8 @@ subjects = [ "Department of Agriculture", "Department of Agrarian Reform (DAR)",
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["AGRAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1722814466!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1176"
 
 [[history]]
 date = "2013-07-30"

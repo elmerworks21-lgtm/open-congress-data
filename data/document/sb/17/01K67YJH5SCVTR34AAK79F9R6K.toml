@@ -6,7 +6,6 @@ name = "SBN-00062"
 [meta]
 bill_number = 62
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-62", "https://web.senate.gov.ph/lisdata/2347520083!.pdf",]
 title = "FREE IRRIGATION SERVICE ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT PROVIDING FULL IRRIGATION SERVICE SUBSIDY FOR QUALIFIED FARMERS AND APPROPRIATING FUNDS FOR THE CONTINUED OPERATIONS OF THE NATIONAL IRRIGATION ADMINISTRATION"
@@ -15,6 +14,8 @@ subjects = [ "Irrigation", "Farmers", "National Irrigation Administration",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2347520083!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-62"
 
 [[history]]
 date = "2016-06-30"

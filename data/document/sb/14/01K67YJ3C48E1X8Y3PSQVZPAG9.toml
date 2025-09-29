@@ -6,7 +6,6 @@ name = "SBN-03527"
 [meta]
 bill_number = 3527
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3527", "https://web.senate.gov.ph/lisdata/1296711653!.pdf",]
 title = "VETERANS TRANSITIONAL ASSISTANCE ACT"
 date_filed = "2009-11-11"
 long_title = "AN ACT TO IMPROVE THE COORDINATION BETWEEN THE DEPARTMENT OF NATIONAL DEFENSE AND THE PHILIPPINE VETERANS AFFAIRS OFFICE TO BETTER PROVIDE CARE TO THE MEMBERS OF THE ARMED FORCES AND VETERANS"
@@ -15,6 +14,8 @@ subjects = [ "Veterans (Philippine Veterans Affairs Office", "Pvao)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1296711653!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3527"
 
 [[history]]
 date = "2009-11-11"

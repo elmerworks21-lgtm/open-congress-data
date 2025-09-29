@@ -6,7 +6,6 @@ name = "SBN-00099"
 [meta]
 bill_number = 99
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-99", "https://web.senate.gov.ph/lisdata/1596513200!.pdf",]
 title = "LAND ADMINISTRATION REFORM ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT INSTITUTING REFORMS IN LAND ADMINISTRATION SYSTEM, CREATING THE LAND ADMINISTRATION AUTHORITY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Land Administration",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1596513200!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-99"
 
 [[history]]
 date = "2013-07-01"

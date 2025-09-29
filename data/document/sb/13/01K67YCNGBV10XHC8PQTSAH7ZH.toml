@@ -6,7 +6,6 @@ name = "SBN-00251"
 [meta]
 bill_number = 251
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-251", "https://web.senate.gov.ph/lisdata/1410670!.pdf",]
 title = "SOCIAL AMELIORATION PROGRAM IN THE SUGAR INDUSTRY"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING SECTION 7 (C) OF REPUBLIC ACT NO. 6982, ENTITLED AN ACT STRENGTHENING THE SOCIAL AMELIORATION PROGRAM IN THE SUGAR INDUSTRY, PROVIDING THE MECHANICS FOR ITS IMPLEMENTATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "RA 6982, Section 7 (C)", "Sugar Industry (Social Amelioration Prg)
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1410670!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-251"
 
 [[history]]
 date = "2004-06-30"

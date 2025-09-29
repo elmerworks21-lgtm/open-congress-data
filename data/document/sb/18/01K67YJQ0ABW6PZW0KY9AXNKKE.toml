@@ -6,7 +6,6 @@ name = "SBN-00918"
 [meta]
 bill_number = 918
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-918", "https://web.senate.gov.ph/lisdata/3130728205!.pdf",]
 title = "OFFICIAL DEVELOPMENT ASSISTANCE (ODA)"
 date_filed = "2019-08-19"
 long_title = "AN ACT FURTHER AMENDING REPUBLIC ACT NO. 8182, AS AMENDED BY REPUBLIC ACT NO. 8555, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Official Development Assistance (ODA)",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3130728205!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-918"
 
 [[history]]
 date = "2019-08-19"

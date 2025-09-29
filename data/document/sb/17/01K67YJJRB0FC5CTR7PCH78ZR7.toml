@@ -6,7 +6,6 @@ name = "SBN-02101"
 [meta]
 bill_number = 2101
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2101", "https://web.senate.gov.ph/lisdata/2899125539!.pdf",]
 title = "BUSINESS INCENTIVES FOR OFWS ACT"
 date_filed = "2018-11-15"
 long_title = "AN ACT GRANTING BENEFITS AND INCENTIVES TO OVERSEAS FILIPINO WORKERS INVESTING IN BUSINESS IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Filipino Workers (OFW)", "Investments",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2899125539!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2101"
 
 [[history]]
 date = "2018-11-15"

@@ -6,7 +6,6 @@ name = "SBN-00691"
 [meta]
 bill_number = 691
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-691", "https://web.senate.gov.ph/lisdata/82106728!.pdf",]
 title = "LOCAL HOUSING BOARDS ACT"
 date_filed = "2010-07-07"
 long_title = "AN ACT CREATING A LOCAL HOUSING BOARD IN ALL CITIES AND FIRST TO THIRD CLASS MUNICIPALITIES, PROVIDING FOR ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Housing Board",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/82106728!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-691"
 
 [[history]]
 date = "2010-07-07"

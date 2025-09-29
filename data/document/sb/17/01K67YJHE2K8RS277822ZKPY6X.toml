@@ -6,7 +6,6 @@ name = "SBN-00394"
 [meta]
 bill_number = 394
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-394", "https://web.senate.gov.ph/lisdata/2383220496!.pdf",]
 title = "MAGNA CARTA FOR SCIENTISTS, ENGINEERS, RESEARCHERS AND OTHER SCIENCE AND TECHNOLOGY PERSONNEL"
 date_filed = "2016-07-18"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8439, OTHERWISE KNOWN AS AN ACT PROVIDING MAGNA CARTA FOR SCIENTISTS, ENGINEERS, RESEARCHERS AND OTHER SCIENCE AND TECHNOLOGY PERSONNEL IN THE GOVERNMENT"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Scientists, Engineers, Researchers and Other Scien
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2383220496!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-394"
 
 [[history]]
 date = "2016-07-18"

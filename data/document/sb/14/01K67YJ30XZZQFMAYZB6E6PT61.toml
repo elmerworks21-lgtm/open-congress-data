@@ -6,7 +6,6 @@ name = "SBN-03074"
 [meta]
 bill_number = 3074
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3074", "https://web.senate.gov.ph/lisdata/103519226!.pdf",]
 title = "ABSENTEE VOTING"
 date_filed = "2009-02-17"
 long_title = "AN ACT PROVIDING FOR ABSENTEE VOTING BY THE MEMBERS OF MEDIA WHO ARE AWAY FROM THE PLACES OF THEIR REGISTRATION BY REASON OF OFFICIAL FUNCTIONS ON ELECTION DAY"
@@ -15,6 +14,8 @@ subjects = [ "Absentee Voting",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/103519226!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3074"
 
 [[history]]
 date = "2009-02-17"

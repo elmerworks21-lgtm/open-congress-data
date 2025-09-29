@@ -6,7 +6,6 @@ name = "SBN-00017"
 [meta]
 bill_number = 17
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-17", "https://web.senate.gov.ph/lisdata/2343020015!.pdf",]
 title = "IMMIGRATION ACT OF THE PHILIPPINES"
 date_filed = "2016-06-30"
 long_title = "IMMIGRATION ACT OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Immigration Act",]
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2343020015!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-17"
 
 [[history]]
 date = "2016-06-30"

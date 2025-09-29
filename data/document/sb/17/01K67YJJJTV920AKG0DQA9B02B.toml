@@ -6,7 +6,6 @@ name = "SBN-01912"
 [meta]
 bill_number = 1912
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1912", "https://web.senate.gov.ph/lisdata/2827524601!.pdf",]
 title = "LOCAL GOVERNMENT AGRICULTURE DEVELOPMENT ACT OF 2016"
 date_filed = "2018-08-06"
 long_title = "AN ACT STRENGTHENING LOCAL GOVERNMENT PARTICIPATION IN AGRICULTURE DEVELOPMENT BY INSTITUTIONALIZING A TEN PERCENT (10%) BUDGETARY ALLOCATION FROM THEIR INTERNAL REVENUE ALLOTMENT FOR THE IMPLEMENTATION OF PROGRAMS, ACTIVITIES AND SERVICES FOR AGRICULTURE AND FISHERIES AND AMENDING FOR THE PURPOSE SECTIONS 17, 106, 107, 110, 287, 443, 454, AND 482(A), 511 (A), OF REPUBLIC ACT 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Development", "Local Government Code (R.A.No. 7160)",
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2827524601!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1912"
 
 [[history]]
 date = "2018-08-06"

@@ -6,7 +6,6 @@ name = "SBN-00986"
 [meta]
 bill_number = 986
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-986", "https://web.senate.gov.ph/lisdata/52524634!.pdf",]
 title = "NATIONAL ENVIRONMENTAL EDUCATION ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT CREATING THE OFFICE OF ENVIRONMENTAL EDUCATION, DEFINING ITS FUNCTIONS AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Environmental Education",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52524634!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-986"
 
 [[history]]
 date = "2007-07-04"

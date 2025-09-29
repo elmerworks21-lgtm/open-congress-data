@@ -6,7 +6,6 @@ name = "SBN-00355"
 [meta]
 bill_number = 355
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-355", "https://web.senate.gov.ph/lisdata/45173865!.pdf",]
 title = "PROFESSIONALIZATION OF PRISON MANAGEMENT ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO PROFESSIONALIZE THE PRACTICE OF PRISON MANAGEMENT AND SET FOR THAT PURPOSE THE QUALIFICATIONS FOR SUPERINTENDENTS OF THE NATIONAL PRISON SYSTEM AND WARDENS OF PROVINCIAL, CITY, OR MUNICIPAL JAILS"
@@ -15,6 +14,8 @@ subjects = [ "Professionalization of Prison Management",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45173865!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-355"
 
 [[history]]
 date = "2007-07-02"

@@ -6,7 +6,6 @@ name = "SBN-02363"
 [meta]
 bill_number = 2363
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2363", "https://web.senate.gov.ph/lisdata/55074559!.pdf",]
 title = "HOME INDUSTRIES NATIONAL DEVELOPMENT CENTER FOR WOMEN ACT OF 2006"
 date_filed = "2006-06-07"
 long_title = "AN ACT ESTABLISHING THE HOME INDUSTRIES NATIONAL DEVELOPMENT CENTER FOR WOMEN AND ITS NETWORK"
@@ -15,6 +14,8 @@ subjects = [ "Home Industries for Women",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55074559!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2363"
 
 [[history]]
 date = "2006-06-07"

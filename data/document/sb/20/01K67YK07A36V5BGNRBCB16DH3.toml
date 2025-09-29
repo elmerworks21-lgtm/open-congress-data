@@ -6,7 +6,6 @@ name = "SBN-00715"
 [meta]
 bill_number = 715
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-715", "https://web.senate.gov.ph/lisdata/4724943249!.pdf",]
 title = "MINDANAO FOOD BASKET ACT"
 date_filed = "2025-07-21"
 long_title = "AN ACT DECLARING MINDANAO AS THE FOOD BASKET OF THE PHILIPPINES, PROVIDING FOR ITS SUSTAINABLE AGRICULTURAL DEVELOPMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mindanao Food Basket",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4724943249!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-715"
 
 [[history]]
 date = "2025-07-21"

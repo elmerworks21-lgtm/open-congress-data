@@ -6,7 +6,6 @@ name = "SBN-01909"
 [meta]
 bill_number = 1909
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1909", "https://web.senate.gov.ph/lisdata/1822915419!.pdf",]
 title = "BARANGAY PUBLIC LIBRARY ACT"
 date_filed = "2013-11-11"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A PUBLIC LIBRARY FOR EVERY BARANGAY"
@@ -15,6 +14,8 @@ subjects = [ "Library", "Barangay Reading Centers",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1822915419!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1909"
 
 [[history]]
 date = "2013-11-11"

@@ -6,7 +6,6 @@ name = "SBN-00724"
 [meta]
 bill_number = 724
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-724", "https://web.senate.gov.ph/lisdata/4726043260!.pdf",]
 title = "MANDATORY AUTOPSY LAW"
 date_filed = "2025-07-21"
 long_title = "AN ACT REQUIRING MANDATORY AUTOPSY ON BODIES OF CRIME VICTIMS, DEATHS UNDER MYSTERIOUS AND SUSPICIOUS CIRCUMSTANCES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Autopsy",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4726043260!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-724"
 
 [[history]]
 date = "2025-07-21"

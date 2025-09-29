@@ -6,7 +6,6 @@ name = "SBN-01430"
 [meta]
 bill_number = 1430
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1430", "https://web.senate.gov.ph/lisdata/2582722185!.pdf",]
 title = "FEAST OF THE IMMACULATE CONCEPTION OF MARY"
 date_filed = "2017-05-02"
 long_title = "AN ACT DECLARING DECEMBER 8 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE ENTIRE COUNTRY TO COMMEMORATE THE FEAST OF THE IMMACULATE CONCEPTION OF MARY, THE PRINCIPAL PATRONESS OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Feast of the Immaculate Conception", "Holidays (Special Non-Workin
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2582722185!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1430"
 
 [[history]]
 date = "2017-05-02"

@@ -6,7 +6,6 @@ name = "SBN-02707"
 [meta]
 bill_number = 2707
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2707", "https://web.senate.gov.ph/lisdata/91928306!.pdf",]
 title = "RETIREMENT SECURITY EDUCATION ACT OF 2008"
 date_filed = "2008-11-10"
 long_title = "AN ACT ESTABLISHING A GRANT PROGRAM TO ENHANCE FINANCIAL AND RETIREMENT LITERACY FOR MID-LIFE AND OLDER FILIPINOS"
@@ -15,6 +14,8 @@ subjects = [ "Literacy Programs", "Retirement Benefits",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/91928306!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2707"
 
 [[history]]
 date = "2008-11-10"

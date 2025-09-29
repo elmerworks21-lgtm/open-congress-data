@@ -6,7 +6,6 @@ name = "SBN-01463"
 [meta]
 bill_number = 1463
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1463", "https://web.senate.gov.ph/lisdata/1756014795!.pdf",]
 title = "NATIONAL ECOTOURISM POLICY ACT OF 2013"
 date_filed = "2013-09-03"
 long_title = "AN ACT PROVIDING FOR A NATIONAL ECOTOURISM POLICY, ESTABLISHING A FRAMEWORK FOR ITS INSTITUTIONALIZATION, PROVIDING THE MECHANISMS FOR ITS APPROPRIATE IMPLEMENTATIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Ecotourism Policy",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1756014795!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1463"
 
 [[history]]
 date = "2013-09-03"

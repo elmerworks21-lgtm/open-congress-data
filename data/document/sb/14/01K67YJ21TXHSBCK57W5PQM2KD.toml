@@ -6,7 +6,6 @@ name = "SBN-01710"
 [meta]
 bill_number = 1710
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1710", "https://web.senate.gov.ph/lisdata/61335470!.pdf",]
 title = "JUDICIARY INDEPENDENCE ENHANCING ACT OF 2007"
 date_filed = "2007-10-08"
 long_title = "AN ACT BANNING THE RE-APPOINTMENT OF A REGULAR MEMBER OF THE JUDICIAL AND BAR COUNCIL (JBC) WHO HAS ALREADY SERVED THE FULL TERM"
@@ -15,6 +14,8 @@ subjects = [ "Judiciary",]
 authors_raw = "Aquino III, Benigno S."
 author_codes = ["ABENI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/61335470!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1710"
 
 [[history]]
 date = "2007-10-08"

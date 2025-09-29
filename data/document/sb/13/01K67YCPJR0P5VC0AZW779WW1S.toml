@@ -6,7 +6,6 @@ name = "SBN-02091"
 [meta]
 bill_number = 2091
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2091", "https://web.senate.gov.ph/lisdata/38703235!.pdf",]
 title = "NATIONAL COMPUTER RECYCLING ACT"
 date_filed = "2005-08-23"
 long_title = "AN ACT TO ESTABLISH A GRANT AND FEE PROGRAM TO ENCOURAGE AND PROMOTE THE RECYCLING OF USED COMPUTERS AND TO PROMOTE THE DEVELOPMENT OF A NATIONAL INFRASTRUCTURE FOR THE RECYCLING OF USED COMPUTERS"
@@ -15,6 +14,8 @@ subjects = [ "National Computer Recycling Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/38703235!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2091"
 
 [[history]]
 date = "2005-08-23"

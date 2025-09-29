@@ -6,7 +6,6 @@ name = "SBN-01715"
 [meta]
 bill_number = 1715
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1715", "https://web.senate.gov.ph/lisdata/2745823704!.pdf",]
 title = "PREVENTION OF TERRORISM ACT OF 2017"
 date_filed = "2018-02-28"
 long_title = "AN ACT AMENDING R.A. 9372 OTHERWISE KNOWN AS THE ACT TO SECURE THE STATE AND PROTECT OUR PEOPLE FROM TERRORISM OR THE HUMAN SECURITY ACT (HSA) OF 2007, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Terrorism", "Human Security Act",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2745823704!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1715"
 
 [[history]]
 date = "2018-02-28"

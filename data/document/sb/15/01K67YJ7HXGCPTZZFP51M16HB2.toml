@@ -6,7 +6,6 @@ name = "SBN-00514"
 [meta]
 bill_number = 514
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-514", "https://web.senate.gov.ph/lisdata/78316281!.pdf",]
 title = "NATIONAL COUNCIL FOR INFORMATION TECHNOLOGY AND DEVELOPMENT ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT CREATING THE NATIONAL COUNCIL FOR INFORMATION TECHNOLOGY AND DEVELOPMENT (NCITD), DEFINING ITS OBJECTIVES, POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Council for Information Technology and Development (Ncitd
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78316281!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-514"
 
 [[history]]
 date = "2010-07-07"

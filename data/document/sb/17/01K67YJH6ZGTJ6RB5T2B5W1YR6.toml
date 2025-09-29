@@ -6,7 +6,6 @@ name = "SBN-00113"
 [meta]
 bill_number = 113
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-113", "https://web.senate.gov.ph/lisdata/2352821194!.pdf",]
 title = "NATIONAL COMMITEE OF PREVENTION OF TORTURE (NCPT) AND OPCAT IMPLEMENTATION ACT OF 2015"
 date_filed = "2016-06-30"
 long_title = "AN ACT ESTABLISHING THE NATIONAL COMMITEE FOR THE PREVENTION OF TORTURE (NCPT), THE NATIONAL PREVENTIVE MECHANISM AGAINST TORTURE AND OTHER CRUEL, INHUMAN, OR DEGRADING TREATMENT OR PUNISHMENT IN THE PHILIPPINES, PROVIDING A FRAMEWORK FOR IMPLEMENTING OBLIGATIONS UNDER THE OPTIONAL PROTOCOL TO THE UNITED NATIONS CONVENTION AGAINST TORTURE AND OTHER CRUEL, INHUMAN, OR DEGRADING TREATMENT OR PUNISHMENT (OPCAT), AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Torture",]
 authors_raw = "Pimentel, Aquilino Koko III L., Legarda, Loren B."
 author_codes = ["LLORE", "PAQUI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2352821194!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-113"
 
 [[history]]
 date = "2016-06-30"

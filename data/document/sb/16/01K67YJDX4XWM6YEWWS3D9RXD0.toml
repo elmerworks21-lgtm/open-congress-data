@@ -6,7 +6,6 @@ name = "SBN-02440"
 [meta]
 bill_number = 2440
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2440", "https://web.senate.gov.ph/lisdata/2002317137!.pdf",]
 title = "NATIONAL WRITING SYSTEM ACT OF 2014"
 date_filed = "2014-10-28"
 long_title = "AN ACT DECLARING 'BAYBAYIN' AS THE NATIONAL WRITING SYSTEM OF THE PHILIPPINES, PROVIDING FOR ITS PROMOTION, PROTECTION, PRESERVATION AND CONSERVATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Writing Program", "Baybayin Act",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2002317137!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2440"
 
 [[history]]
 date = "2014-10-28"

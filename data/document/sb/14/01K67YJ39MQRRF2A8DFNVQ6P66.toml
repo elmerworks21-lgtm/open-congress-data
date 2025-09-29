@@ -6,7 +6,6 @@ name = "SBN-03434"
 [meta]
 bill_number = 3434
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3434", "https://web.senate.gov.ph/lisdata/1243911097!.pdf",]
 title = "UNLAWFUL EMPLOYMENT PRACTICE ACT OF 2010"
 date_filed = "2009-09-10"
 long_title = "AN ACT PROHIBITING UNLAWFUL EMPLOYMENT PRACTICES RESULTING TO DISCRIMINATION IN EMPLOYMENT"
@@ -15,6 +14,8 @@ subjects = [ "Employment Unlawful Practices",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1243911097!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3434"
 
 [[history]]
 date = "2009-09-10"

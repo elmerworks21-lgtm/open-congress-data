@@ -6,7 +6,6 @@ name = "SBN-02922"
 [meta]
 bill_number = 2922
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2922", "https://web.senate.gov.ph/lisdata/118389988!.pdf",]
 title = "BUS DRIVERS AND CONDUCTORS COMPENSATION ACT"
 date_filed = "2011-07-26"
 long_title = "AN ACT REGULATING THE COMPENSATION OF PUBLIC UTILITY BUS DRIVERS AND CONDUCTORS BY REQUIRING BUS OPERATORS TO PAY THEM FIXED MONTHLY SALARIES AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Bus Drivers",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/118389988!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2922"
 
 [[history]]
 date = "2011-07-26"

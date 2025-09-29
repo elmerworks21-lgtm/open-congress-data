@@ -6,7 +6,6 @@ name = "SBN-03178"
 [meta]
 bill_number = 3178
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3178", "https://web.senate.gov.ph/lisdata/108669640!.pdf",]
 title = "HUMAN ORGAN TRANSPLANT ACT"
 date_filed = "2009-04-21"
 long_title = "AN ACT TO REGULATE ORGAN TRANSPLANTATION AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Human Organ and Tissue Procurement and Transplant",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/108669640!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3178"
 
 [[history]]
 date = "2009-04-21"

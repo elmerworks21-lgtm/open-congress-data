@@ -6,7 +6,6 @@ name = "SBN-00812"
 [meta]
 bill_number = 812
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-812", "https://web.senate.gov.ph/lisdata/50404429!.pdf",]
 title = "MAGNA CARTA OF PATIENT'S RIGHTS AND OBLIGATIONS"
 date_filed = "2007-07-03"
 long_title = "AN ACT DECLARING THE RIGHTS AND OBLIGATIONS OF PATIENTS AND ESTABLISHING A GRIEVANCE MECHANISM FOR VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Patients Rights and Obligations",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50404429!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-812"
 
 [[history]]
 date = "2007-07-03"

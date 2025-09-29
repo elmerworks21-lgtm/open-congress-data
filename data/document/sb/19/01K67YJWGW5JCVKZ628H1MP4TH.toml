@@ -6,7 +6,6 @@ name = "SBN-02308"
 [meta]
 bill_number = 2308
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2308", "https://web.senate.gov.ph/lisdata/4210238294!.pdf",]
 title = "KIDDIE SAVERS ACT"
 date_filed = "2023-07-17"
 long_title = "AN ACT CREATING A TAX-FREE MINORS' DEPOSIT ACCOUNT, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1158, AS AMENDED, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE"
@@ -15,6 +14,8 @@ subjects = [ "Children Savings Account", "Bank Deposits/Bank Accounts", "Tax Exe
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4210238294!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2308"
 
 [[history]]
 date = "2023-07-17"

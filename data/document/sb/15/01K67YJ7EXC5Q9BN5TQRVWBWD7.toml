@@ -6,7 +6,6 @@ name = "SBN-00369"
 [meta]
 bill_number = 369
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-369", "https://web.senate.gov.ph/lisdata/73575924!.pdf",]
 title = "AMENDING R.A.NO. 1405, SECRECY OF BANK DEPOSITS LAW"
 date_filed = "2010-07-06"
 long_title = "AN ACT INCLUDING GOVERNMENT OFFICIALS AND EMPLOYEES IN THE EXCEPTIONS FROM THE PROHIBITION AGAINST DISCLOSURE OF OR INQUIRY INTO DEPOSITS WITH ANY BANKING INSTITUTION AMENDING FOR THIS PURPOSE CERTAIN PROVISION OF REPUBLIC ACT NO. 1405 OTHERWISE KNOWN AS THE SECRECY OF BANK DEPOSITS LAW."
@@ -15,6 +14,8 @@ subjects = [ "Bank Deposits", "Bank Accounts",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/73575924!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-369"
 
 [[history]]
 date = "2010-07-06"

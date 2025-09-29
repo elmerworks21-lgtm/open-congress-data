@@ -6,7 +6,6 @@ name = "SBN-02646"
 [meta]
 bill_number = 2646
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2646", "https://web.senate.gov.ph/lisdata/71665797!.pdf",]
 title = "ACUPUNCTURE ACT OF 2007"
 date_filed = "2007-06-04"
 long_title = "AN ACT TO REGULATE THE PRACTICE OF ACUPUNCTURE, CREATING FOR THIS PURPOSE AND ACUPUNCTURE BOARD"
@@ -15,6 +14,8 @@ subjects = [ "Acupuncture Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71665797!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2646"
 
 [[history]]
 date = "2007-06-04"

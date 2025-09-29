@@ -6,7 +6,6 @@ name = "SBN-00011"
 [meta]
 bill_number = 11
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-11", "https://web.senate.gov.ph/lisdata/1140564!.pdf",]
 title = "REVISED PUBLIC LAND ACT OF THE PHILIPPINES"
 date_filed = "2004-06-30"
 long_title = "REVISED PUBLIC LAND ACT OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Public Land Act, Revised",]
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1140564!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-11"
 
 [[history]]
 date = "2004-06-30"

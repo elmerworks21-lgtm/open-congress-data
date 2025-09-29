@@ -6,7 +6,6 @@ name = "SBN-00306"
 [meta]
 bill_number = 306
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-306", "https://web.senate.gov.ph/lisdata/4679542802!.pdf",]
 title = "PHILIPPINE CIRCULAR ECONOMY PROMOTION ACT"
 date_filed = "2025-07-09"
 long_title = "AN ACT ESTABLISHING A COMPREHENSIVE FRAMEWORK FOR CIRCULAR ECONOMY IN THE PHILIPPINES, PROVIDING MECHANISMS FOR WASTE MINIMIZATION, EXTENDED PRODUCER RESPONSIBILITY, CIRCULAR PROCUREMENT, AND COMMUNITY PARTICIPATION IN SUSTAINABLE RESOURCE USE"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Circular Economy Promotion",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["SDGIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4679542802!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-306"
 
 [[history]]
 date = "2025-07-09"

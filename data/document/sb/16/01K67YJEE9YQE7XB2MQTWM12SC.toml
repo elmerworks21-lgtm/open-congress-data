@@ -6,7 +6,6 @@ name = "SBN-02977"
 [meta]
 bill_number = 2977
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2977", "https://web.senate.gov.ph/lisdata/2234219061!.pdf",]
 title = "EMPLOYEE WELFARE SERVICES"
 date_filed = "2015-10-01"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 442, OR THE LABOR CODE OF THE PHILIPPINES, BOOK IV, TO INCLUDE AN ADDITIONAL TITLE ON FAMILY WELFARE"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2234219061!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2977"
 
 [[history]]
 date = "2015-10-01"

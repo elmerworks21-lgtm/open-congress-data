@@ -6,7 +6,6 @@ name = "SBN-00327"
 [meta]
 bill_number = 327
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-327", "https://web.senate.gov.ph/lisdata/2376620428!.pdf",]
 title = "COASTAL ENVIRONMENT PROGRAM (CEP) ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT ESTABLISHING THE COASTAL ENVIRONMENT PROGRAM, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Coastal Environment Program", "Coastal Resources Protection",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2376620428!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-327"
 
 [[history]]
 date = "2016-07-04"

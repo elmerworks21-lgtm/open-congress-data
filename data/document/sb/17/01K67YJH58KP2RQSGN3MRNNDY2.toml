@@ -6,7 +6,6 @@ name = "SBN-00041"
 [meta]
 bill_number = 41
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-41", "https://web.senate.gov.ph/lisdata/2345420038!.pdf",]
 title = "NATIONAL REFERENCE SYSTEM ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT INSTITUTING A NATIONAL REFERENCE SYSTEM"
@@ -15,6 +14,8 @@ subjects = [ "Identification System",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2345420038!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-41"
 
 [[history]]
 date = "2016-06-30"

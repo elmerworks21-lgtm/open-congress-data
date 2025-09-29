@@ -6,7 +6,6 @@ name = "SBN-01325"
 [meta]
 bill_number = 1325
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1325", "https://web.senate.gov.ph/lisdata/4798044002!.pdf",]
 title = "VETERANS HOSPITAL ACT"
 date_filed = "2025-09-02"
 long_title = "AN ACT INSTITUTIONALIZING THE ESTABLISHMENT OF VETERANS HOSPITAL IN VISAYAS AND MINDANAO"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Veterans Hospital",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4798044002!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1325"
 
 [[history]]
 date = "2025-09-02"

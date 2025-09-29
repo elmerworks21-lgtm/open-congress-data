@@ -6,7 +6,6 @@ name = "SBN-00112"
 [meta]
 bill_number = 112
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-112", "https://web.senate.gov.ph/lisdata/3782034261!.pdf",]
 title = "INSTRUCTIONAL GARDENS AND URBAN AGRICULTURE ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT ADDRESSING FOOD SECURITY CONCERNS THROUGH INTEGRATING INSTRUCTIONAL GARDENS IN PRIMARY AND SECONDARY SCHOOL CURRICULA AND PROMOTING THE USE OF URBAN AGRICULTURE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Instructional Gardens", "Urban Agricultural Development", "Food Se
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3782034261!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-112"
 
 [[history]]
 date = "2022-07-07"

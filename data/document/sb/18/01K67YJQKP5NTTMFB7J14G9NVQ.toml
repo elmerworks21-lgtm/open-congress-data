@@ -6,7 +6,6 @@ name = "SBN-01751"
 [meta]
 bill_number = 1751
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1751", "https://web.senate.gov.ph/lisdata/3331630151!.pdf",]
 title = "NATIONAL LEGAL KNOWLEDGE AND ASSISTANCE SYSTEM ACT"
 date_filed = "2020-07-29"
 long_title = "AN ACT MANDATING THE ESTABLISHMENT OF AN ONLINE LEGAL KNOWLEDGE AND ASSISTANCE SYSTEM THAT WILL BE ACCESSIBLE NATIONWIDE"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Legal Assistance", "Information and Communications Technology (ICT)", "Department of Justice (DOJ)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3331630151!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1751"
 
 [[history]]
 date = "2020-07-29"

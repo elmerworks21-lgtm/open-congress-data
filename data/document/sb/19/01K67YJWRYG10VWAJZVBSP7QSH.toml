@@ -6,7 +6,6 @@ name = "SBN-02611"
 [meta]
 bill_number = 2611
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2611", "https://web.senate.gov.ph/lisdata/4375139760!.pdf",]
 title = "SALARY STANDARDIZATION LAW VI"
 date_filed = "2024-03-18"
 long_title = "AN ACT MODIFYING THE SALARY SCHEDULE FOR CIVILIAN GOVERNMENT PERSONNEL, AUTHORIZING THE GRANT OF ADDITIONAL BENEFITS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Salary Standardization", "Benefits and Incentives",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4375139760!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2611"
 
 [[history]]
 date = "2024-03-18"

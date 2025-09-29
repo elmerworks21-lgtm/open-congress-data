@@ -6,7 +6,6 @@ name = "SBN-00391"
 [meta]
 bill_number = 391
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-391", "https://web.senate.gov.ph/lisdata/1548849!.pdf",]
 title = "PENSION AND BENEFITS ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT INCREASING THE PENSION AND SOCIO-ECONOMIC BENEFITS OF GOVERNMENT RETIREES AND VETERANS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pension and Benefits Act of 2004", "Government Retirees/Veterans (
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1548849!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-391"
 
 [[history]]
 date = "2004-06-30"

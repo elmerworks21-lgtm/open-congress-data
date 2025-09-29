@@ -6,7 +6,6 @@ name = "SBN-02034"
 [meta]
 bill_number = 2034
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2034", "https://web.senate.gov.ph/lisdata/34602860!.pdf",]
 title = "CIVIL SERVICE CODE OF THE PHILIPPINES"
 date_filed = "2005-06-02"
 long_title = "AN ACT ESTABLISHING THE CIVIL SERVICE CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Service Code of the Philippines",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34602860!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2034"
 
 [[history]]
 date = "2005-06-02"

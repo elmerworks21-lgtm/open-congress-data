@@ -6,7 +6,6 @@ name = "SBN-01760"
 [meta]
 bill_number = 1760
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1760", "https://web.senate.gov.ph/lisdata/1792615152!.pdf",]
 title = "SALE OF OVER-THE-COUNTER WEIGHT LOSS SUPPLEMENTS TO MINORS BAN"
 date_filed = "2013-10-02"
 long_title = "AN ACT PROHIBITING THE SALE OF OVER-THE-COUNTER WEIGHT LOSS SUPPLEMENTS TO MINORS"
@@ -15,6 +14,8 @@ subjects = [ "Weight Loss Supplements",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1792615152!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1760"
 
 [[history]]
 date = "2013-10-02"

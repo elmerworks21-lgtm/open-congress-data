@@ -6,7 +6,6 @@ name = "SBN-02704"
 [meta]
 bill_number = 2704
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2704", "https://web.senate.gov.ph/lisdata/91898303!.pdf",]
 title = "PHYSICAL EDUCATION STANDARD ACT OF 2008"
 date_filed = "2008-11-10"
 long_title = "AN ACT TO ESTABLISH PHYSICAL EDUCATION STANDARDS FOR SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Physical Education",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/91898303!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2704"
 
 [[history]]
 date = "2008-11-10"

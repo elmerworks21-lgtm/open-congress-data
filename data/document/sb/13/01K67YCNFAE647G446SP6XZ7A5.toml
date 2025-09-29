@@ -6,7 +6,6 @@ name = "SBN-00198"
 [meta]
 bill_number = 198
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-198", "https://web.senate.gov.ph/lisdata/13461163!.pdf",]
 title = "ANTI-GENDER DISCRIMINATION IN EMPLOYMENT ADVERTISING ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROHIBIT GENDER DISCRIMINATION IN EMPLOYMENT ADVERTISING"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Gender Discrimination Act", "Advertising (Equal Employment)",
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/13461163!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-198"
 
 [[history]]
 date = "2004-06-30"

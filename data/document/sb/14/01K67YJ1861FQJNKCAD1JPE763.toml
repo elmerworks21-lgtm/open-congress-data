@@ -6,7 +6,6 @@ name = "SBN-00791"
 [meta]
 bill_number = 791
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-791", "https://web.senate.gov.ph/lisdata/50154408!.pdf",]
 title = "REVISED AGRI-AGRA ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 717, OTHERWISE KNOWN AS THE AGRI-AGRA LAW, TO MAXIMIZE THE USAGE OF THE AGRI-AGRA FUND, WITH STRICT EMPHASIS ON RURAL CREDIT FOCUSING ON SMALL FARMERS, FISHERMEN AND ENTERPRISES WITH CAPITALIZATIONS NOT EXCEEDING 500,000 PESOS"
@@ -15,6 +14,8 @@ subjects = [ "Agri-Agra Law (Pd 717", "Amendments)",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50154408!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-791"
 
 [[history]]
 date = "2007-07-03"

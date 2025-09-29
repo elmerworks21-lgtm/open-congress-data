@@ -6,7 +6,6 @@ name = "SBN-01112"
 [meta]
 bill_number = 1112
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1112", "https://web.senate.gov.ph/lisdata/3908935530!.pdf",]
 title = "NEW EMANCIPATION ACT"
 date_filed = "2022-08-09"
 long_title = "AN ACT FULFILLING THE EMANCIPATION OF AGRARIAN REFORM BENEFICIARIES FROM THE DEBT BURDEN THROUGH THE FREE AWARD OF AGRICULTURAL LANDS UNDER THE COMPREHENSIVE AGRARIAN REFORM PROGRAM, TO APPROPRIATE FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Agrarian Reform", "Comprehensive Agrarian Reform Program",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3908935530!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1112"
 
 [[history]]
 date = "2022-08-09"

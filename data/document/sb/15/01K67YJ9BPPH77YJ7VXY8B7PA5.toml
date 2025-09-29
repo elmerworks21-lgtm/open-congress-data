@@ -6,7 +6,6 @@ name = "SBN-02994"
 [meta]
 bill_number = 2994
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2994", "https://web.senate.gov.ph/lisdata/1234310354!.pdf",]
 title = "FINAL FOREST LIMITS ACT OF 2011"
 date_filed = "2011-10-12"
 long_title = "AN ACT PROVIDING FOR THE DELINEATION OF THE SPECIFIC FOREST LIMITS OF THE PUBLIC DOMAIN AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forest Land", "Forest Limits",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1234310354!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2994"
 
 [[history]]
 date = "2011-10-12"

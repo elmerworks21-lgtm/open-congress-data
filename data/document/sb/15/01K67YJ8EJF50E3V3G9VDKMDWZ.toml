@@ -6,7 +6,6 @@ name = "SBN-01937"
 [meta]
 bill_number = 1937
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1937", "https://web.senate.gov.ph/lisdata/95088051!.pdf",]
 title = "WOMEN'S BUSINESS ENTERPRISE ACT"
 date_filed = "2010-07-22"
 long_title = "AN ACT CREATING A NATIONAL WOMEN’S BUSINESS ENTERPRISES POLICY AND PRESCRIBING ARRANGEMENTS FOR DEVELOPING, COORDINATING AND IMPLEMENTING A NATIONAL PROGRAM FOR WOMEN’S ENTERPRISE"
@@ -15,6 +14,8 @@ subjects = [ "Women",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/95088051!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1937"
 
 [[history]]
 date = "2010-07-22"

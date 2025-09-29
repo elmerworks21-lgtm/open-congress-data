@@ -6,7 +6,6 @@ name = "SBN-02515"
 [meta]
 bill_number = 2515
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2515", "https://web.senate.gov.ph/lisdata/4319839303!.pdf",]
 title = "ELECTRICAL ENGINEERING ACT OF 2023"
 date_filed = "2023-12-13"
 long_title = "AN ACT STRENGTHENING THE PRACTICE OF ELECTRICAL ENGINEERING IN THE PHILIPPINES AND INSTITUTING HIGHER STANDARDS OF REGULATION IN THE LICENSING AND REGISTRATION OF ELECTRICAL ENGINEERING PRACTITIONERS"
@@ -15,6 +14,8 @@ subjects = [ "Electrical Engineering",]
 authors_raw = "Go, Christopher Lawrence T., Villanueva, Joel, Revilla Jr., Ramon Bong, Poe, Grace"
 author_codes = ["GCHRI", "PGRAC", "RRAMO", "VEMMA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4319839303!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2515"
 
 [[history]]
 date = "2023-12-13"

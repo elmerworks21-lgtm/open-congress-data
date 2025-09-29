@@ -6,7 +6,6 @@ name = "SBN-00091"
 [meta]
 bill_number = 91
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-91", "https://web.senate.gov.ph/lisdata/1219753!.pdf",]
 title = "OFFICIAL NON-WORKING HOLIDAYS - EITHER ON MONDAY OR FRIDAY"
 date_filed = "2004-06-30"
 long_title = "AN ACT DECLARING ALL OFFICIAL NON-WORKING DAYS TO FALL EITHER ON A MONDAY OR A FRIDAY"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1219753!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-91"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-02396"
 [meta]
 bill_number = 2396
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2396", "https://web.senate.gov.ph/lisdata/3620632616!.pdf",]
 title = "VINTAGE VEHICLE REGULATION ACT"
 date_filed = "2021-09-13"
 long_title = "AN ACT REGULATING THE USE AND OTHER ACTIVITIES RELATED TO VINTAGE AUTOMOBILES AND OTHER HISTORICAL, CLASSIC, OR COLLECTOR MOTOR VEHICLES, AND PROVIDING FOR THEIR EXEMPTION FROM THE STANDARDS AND RESTRICTIONS SET BY LAWS ENACTED AND REGULATIONS ADOPTED AFTER THE DATE OF THEIR MANUFACTURE"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Vintage Automobiles",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3620632616!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2396"
 
 [[history]]
 date = "2021-09-13"

@@ -6,7 +6,6 @@ name = "SBN-02681"
 [meta]
 bill_number = 2681
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2681", "https://web.senate.gov.ph/lisdata/107299175!.pdf",]
 title = "CHARTER OF THE PROVINCE OF DAVAO OCCIDENTAL"
 date_filed = "2011-02-08"
 long_title = "AN ACT CREATING THE PROVINCE OF DAVAO OCCIDENTAL FROM THE PROVINCE OF DAVAO DEL SUR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Davao Occidental, Creation",]
 authors_raw = "Recto, Ralph G., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "RRALP"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107299175!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2681"
 
 [[history]]
 date = "2011-02-08"

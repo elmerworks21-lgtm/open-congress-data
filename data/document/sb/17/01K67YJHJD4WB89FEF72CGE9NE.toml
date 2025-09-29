@@ -6,7 +6,6 @@ name = "SBN-00603"
 [meta]
 bill_number = 603
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-603", "https://web.senate.gov.ph/lisdata/2408820727!.pdf",]
 title = "ARMED FORCES OF THE PHILIPPINES PEACEKEEPING/EXPEDITIONARY CONTINGENT/FORCE LAW OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT PRESCRIBING RATES OF PAY AND ALLOWANCES FOR OFFICERS AND ENLISTED PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES (AFP) WHILE ON OVERSEAS DUTY WITH A PHILIPPINE EXPEDITIONARY OR PEACEKEEPING CONTINGENT PURSUANT TO A PHILIPPINE COOPERATIVE COMMITMENT TO A UNITED NATIONS SANCTION OR POLICY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Armed Forces of the Philippines (AFP)", "Peacekeeping Mission",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2408820727!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-603"
 
 [[history]]
 date = "2016-07-19"

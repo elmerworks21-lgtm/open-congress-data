@@ -6,7 +6,6 @@ name = "SBN-01797"
 [meta]
 bill_number = 1797
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1797", "https://web.senate.gov.ph/lisdata/4055636965!.pdf",]
 title = "ARAW NG VALENZUELA"
 date_filed = "2023-01-30"
 long_title = "AN ACT DECLARING NOVEMBER 12 OF EVERY YEAR A REGULAR NON-WORKING HOLIDAY IN THE CITY OF VALENZUELA, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Regular)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4055636965!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1797"
 
 [[history]]
 date = "2023-01-30"

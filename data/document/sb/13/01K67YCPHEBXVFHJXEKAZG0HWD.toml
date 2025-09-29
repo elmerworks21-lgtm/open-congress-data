@@ -6,7 +6,6 @@ name = "SBN-02023"
 [meta]
 bill_number = 2023
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2023", "https://web.senate.gov.ph/lisdata/34492829!.pdf",]
 title = "PHILIPPINE ENERGY PLAN"
 date_filed = "2005-05-23"
 long_title = "AN ACT STRENGHTENING THE PHILIPPINE ENERGY PLAN FOR THE EXPLORATION, DEVELOPMENT, AND UTILIZATION OF NEW AND RENEWABLE ENERGY SYSTEMS USING INDIGENOUS RESOURCES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Energy Plan",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34492829!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2023"
 
 [[history]]
 date = "2005-05-23"

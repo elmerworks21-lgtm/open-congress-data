@@ -6,7 +6,6 @@ name = "SBN-02329"
 [meta]
 bill_number = 2329
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2329", "https://web.senate.gov.ph/lisdata/74736698!.pdf",]
 title = "PHILIPPINE STATISTICAL SYSTEM REORGANIZATION ACT OF 2008"
 date_filed = "2008-05-27"
 long_title = "AN ACT REORGANIZING THE PHILIPPINE STATISTICAL SYSTEM, REPEALING FOR THE PURPOSE EXECUTIVE ORDER NUMBERED ONE HUNDRED TWENTY-ONE ENTITLED REORGANIZING AND STRENGTHENING THE PHILIPPINE STATISTICAL SYSTEM AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine Statistical System Reorganization",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74736698!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2329"
 
 [[history]]
 date = "2008-05-27"

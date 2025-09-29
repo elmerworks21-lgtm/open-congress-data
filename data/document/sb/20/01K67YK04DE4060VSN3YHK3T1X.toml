@@ -6,7 +6,6 @@ name = "SBN-00560"
 [meta]
 bill_number = 560
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-560", "https://web.senate.gov.ph/lisdata/4711943119!.pdf",]
 title = "NATIONAL COASTAL GREENBELT ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT ESTABLISHING THE NATIONAL COASTAL GREENBELT PROGRAM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Coastal Greenbelt",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4711943119!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-560"
 
 [[history]]
 date = "2025-07-14"

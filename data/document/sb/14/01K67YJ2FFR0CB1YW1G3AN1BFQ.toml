@@ -6,7 +6,6 @@ name = "SBN-02308"
 [meta]
 bill_number = 2308
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2308", "https://web.senate.gov.ph/lisdata/74416657!.pdf",]
 title = "WOMEN, GIRLS AND GENDER EDUCATION ACT OF 2008"
 date_filed = "2008-05-21"
 long_title = "AN ACT INTEGRATING EDUCATION ON WOMEN, GIRLS AND GENDER RIGHTS, EQUALITY AND WELFARE IN ALL LEVELS OF PUBLIC AND PRIVATE SCHOOLS"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74416657!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2308"
 
 [[history]]
 date = "2008-05-21"

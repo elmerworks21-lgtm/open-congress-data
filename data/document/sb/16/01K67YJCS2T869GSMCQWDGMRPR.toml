@@ -6,7 +6,6 @@ name = "SBN-00769"
 [meta]
 bill_number = 769
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-769", "https://web.senate.gov.ph/lisdata/1671813954!.pdf",]
 title = "THE MANGROVE FOREST PROTECTION AND PRESERVATION ACT"
 date_filed = "2013-07-15"
 long_title = "AN ACT PROVIDING FOR THE PRESERVATION, REFORESTATION AND SUSTAINABLE DEVELOPMENT OF ALL PHILIPPINE MANGROVE RESOURCES, DEFINING FOR THAT PURPOSE THE ACTS PROHIBITED WITHIN MANGROVE FORESTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mangrove Forests",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1671813954!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-769"
 
 [[history]]
 date = "2013-07-15"

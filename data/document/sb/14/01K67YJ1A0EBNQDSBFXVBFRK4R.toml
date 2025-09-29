@@ -6,7 +6,6 @@ name = "SBN-00877"
 [meta]
 bill_number = 877
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-877", "https://web.senate.gov.ph/lisdata/51304498!.pdf",]
 title = "NATIONAL MULTI-PURPOSE ID CARD ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT ESTABLISHING A NATIONAL IDENTIFICATION SYSTEM IN THE PHILIPPINES, CONSTITUTING FOR THE PURPOSE THE NATIONAL REGISTRATION COORDINATING COUNCIL, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Multi-Purpose Id Card", "Identification System",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51304498!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-877"
 
 [[history]]
 date = "2007-07-03"

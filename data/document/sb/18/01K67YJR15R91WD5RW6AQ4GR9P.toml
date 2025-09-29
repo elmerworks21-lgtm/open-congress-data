@@ -6,7 +6,6 @@ name = "SBN-02285"
 [meta]
 bill_number = 2285
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2285", "https://web.senate.gov.ph/lisdata/3526632134!.pdf",]
 title = "EXTENDED PRODUCERS RESPONSIBILITY ACT OF 2020"
 date_filed = "2021-06-03"
 long_title = "AN ACT INSTITUTIONALIZING THE PRACTICE OF EXTENDED PRODUCERS RESPONSIBILITY IN WASTE MANAGEMENT, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9003, OTHERWISE KNOWN AS THE 'ÉCOLOGICAL SOLID WASTE MANAGEMENT ACT OF 2000'"
@@ -15,6 +14,8 @@ subjects = [ "Extended Producers Responsibility (EPR)", "Waste Management",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3526632134!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2285"
 
 [[history]]
 date = "2021-06-03"

@@ -6,7 +6,6 @@ name = "SBN-00318"
 [meta]
 bill_number = 318
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-318", "https://web.senate.gov.ph/lisdata/4680742814!.pdf",]
 title = "FREELANCE WORKERS PROTECTION ACT"
 date_filed = "2025-07-09"
 long_title = "AN ACT PROVIDING PROTECTION AND INCENTIVES TO FREELANCE WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Freelance Workers Protection",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4680742814!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-318"
 
 [[history]]
 date = "2025-07-09"

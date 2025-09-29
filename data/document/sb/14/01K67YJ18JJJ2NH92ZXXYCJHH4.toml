@@ -6,7 +6,6 @@ name = "SBN-00808"
 [meta]
 bill_number = 808
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-808", "https://web.senate.gov.ph/lisdata/50324425!.pdf",]
 title = "PHILIPPINE NAVAL ACADEMY"
 date_filed = "2007-07-03"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE NAVAL ACADEMY AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Naval Academy",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50324425!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-808"
 
 [[history]]
 date = "2007-07-03"

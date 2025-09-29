@@ -6,7 +6,6 @@ name = "SBN-01719"
 [meta]
 bill_number = 1719
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1719", "https://web.senate.gov.ph/lisdata/1786115086!.pdf",]
 title = "COMPREHENSIVE COMELEC REPORT ACT"
 date_filed = "2013-09-18"
 long_title = "AN ACT PROVIDING FOR THE MINIMUM CONTENTS OF A COMPREHENSIVE REPORT OF ELECTIONS TO THE PRESIDENT AND TO CONGRESS BY THE COMMISSION ON ELECTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Commission on Election (Comelec)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1786115086!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1719"
 
 [[history]]
 date = "2013-09-18"

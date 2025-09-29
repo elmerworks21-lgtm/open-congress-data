@@ -6,7 +6,6 @@ name = "SBN-00678"
 [meta]
 bill_number = 678
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-678", "https://web.senate.gov.ph/lisdata/2416920806!.pdf",]
 title = "ELECTRIC, HYBRID AND OTHER ALTERNATIVE FUEL VEHICLES PROMOTION ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROVIDING INCENTIVES FOR THE MAINSTREAM USE, MANUFACTURE, ASSEMBLY AND CONVERSION OF ELECTRIC, HYBRID AND OTHER ALTERNATIVE FUEL VEHICLES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicles", "Hybrid Cars",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2416920806!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-678"
 
 [[history]]
 date = "2016-07-20"

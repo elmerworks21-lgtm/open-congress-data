@@ -6,7 +6,6 @@ name = "SBN-00142"
 [meta]
 bill_number = 142
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-142", "https://web.senate.gov.ph/lisdata/42403628!.pdf",]
 title = "FILIPINO WORLD WAR II VETERANS PENSIONS AND BENEFITS OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT ALLOWING FILIPINO WORLD WAR II VETERANS TO CONTINUE RECEIVING PHILIPPINE GOVERNMENT PENSIONS AND BENEFITS EVEN WHEN SIMILAR PENSIONS AND BENEFITS ARE PROVIDED BY THE UNITED STATES GOVERNMENT, AMENDING SECTION 10 OF REPUBLIC ACT NO. 6948, AS AMENDED, FOR THIS PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Veterans", "Military Retirees Pensions", "Benefits",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42403628!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-142"
 
 [[history]]
 date = "2007-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00117"
 [meta]
 bill_number = 117
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-117", "https://web.senate.gov.ph/lisdata/2353220151!.pdf",]
 title = "PROHIBITING LABOR-ONLY CONTRACTING"
 date_filed = "2016-06-30"
 long_title = "AN ACT STRENGTHENING THE PROHIBITION AGAINST LABOR-ONLY CONTRACTING, AMENDING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Contractual Workers
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2353220151!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-117"
 
 [[history]]
 date = "2016-06-30"

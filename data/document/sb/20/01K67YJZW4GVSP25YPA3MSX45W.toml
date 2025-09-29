@@ -6,7 +6,6 @@ name = "SBN-00125"
 [meta]
 bill_number = 125
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-125", "https://web.senate.gov.ph/lisdata/4660242606!.pdf",]
 title = "SCHOOL-TO-EMPLOYMENT PROGRAM (STEP) ACT"
 date_filed = "2025-07-03"
 long_title = "AN ACT ESTABLISHING JOB PLACEMENT OFFICES IN ALL PUBUC SENIOR HIGH SCHOOLS, STATE UNIVERSITIES AND COLLEGES, AND LOCAL UNIVERSITIES AND COLLEGES, AND CREATING A NATIONAL INDUSTRY-ACADEME COUNCIL AND LOCAL INDUSTRY-ACADEME COUNCILS TO ADDRESS JOB-SKILLS MISMATCH AND PROMOTE DECENT EMPLOYMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "School-To-Employment Program (STEP)",]
 authors_raw = "Aquino, Bam"
 author_codes = ["BAQUI"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4660242606!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-125"
 
 [[history]]
 date = "2025-07-03"

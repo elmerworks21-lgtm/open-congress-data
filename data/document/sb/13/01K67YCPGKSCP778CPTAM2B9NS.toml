@@ -6,7 +6,6 @@ name = "SBN-01981"
 [meta]
 bill_number = 1981
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1981", "https://web.senate.gov.ph/lisdata/33282461!.pdf",]
 title = "PHILIPPINE COAST GUARD ACT OF 2005"
 date_filed = "2005-04-26"
 long_title = "AN ACT TO PROMOTE MARITIME SAFETY, ENHANCE MARITIME SECURITY, AND SAFEGUARD AND PROTECT THE MARINE ENVIRONMENT BY STRENGTHENING THE PHILIPPINE COAST GUARD."
@@ -15,6 +14,8 @@ subjects = [ "Maritime Safety", "Marine Environment",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/33282461!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1981"
 
 [[history]]
 date = "2005-04-26"

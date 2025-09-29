@@ -6,7 +6,6 @@ name = "SBN-00128"
 [meta]
 bill_number = 128
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-128", "https://web.senate.gov.ph/lisdata/2354720162!.pdf",]
 title = "CONSTITUTIONAL CONVENTION ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT CONSTITUTING A CONSTITUTIONAL CONVENTION TO AMEND THE 1987 PHILIPPINE CONSTITUTION, DEFINING QUALIFICATIONS FOR ITS DELEGATES WHO SHALL BE ELECTED SIMULTANEOUSLY WITH THE OCTOBER 2016 BARANGAY ELECTIONS, APPROPRIATING FUNDS FOR ITS OPERATIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Constitutional Amendments", "Constitutional Convention",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2354720162!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-128"
 
 [[history]]
 date = "2016-06-30"

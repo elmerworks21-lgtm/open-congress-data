@@ -6,7 +6,6 @@ name = "SBN-01569"
 [meta]
 bill_number = 1569
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1569", "https://web.senate.gov.ph/lisdata/91257669!.pdf",]
 title = "WEAPON ACCIDENT PREVENTION ACT"
 date_filed = "2010-07-19"
 long_title = "AN ACT PENALIZING THE UNSAFE STORAGE OF WEAPONS"
@@ -15,6 +14,8 @@ subjects = [ "Weapons", "Firearms",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/91257669!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1569"
 
 [[history]]
 date = "2010-07-19"

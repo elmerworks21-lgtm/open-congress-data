@@ -6,7 +6,6 @@ name = "SBN-03225"
 [meta]
 bill_number = 3225
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3225", "https://web.senate.gov.ph/lisdata/2322419903!.pdf",]
 title = "BANNING SUPERMARKETS, FOOD ESTABLISHMENTS FROM THROWING AWAY AND SPOILING UNSOLD FOODS"
 date_filed = "2016-02-11"
 long_title = "AN ACT BANNING SUPERMARKETS, FOOD ESTABLISHMENTS AND OTHER SIMILAR BUSINESSES FROM THROWING AWAY AND SPOILING UNSOLD FOOD"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Food Establishments", "Food Waste",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2322419903!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3225"
 
 [[history]]
 date = "2016-02-11"

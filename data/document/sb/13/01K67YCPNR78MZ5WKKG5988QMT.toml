@@ -6,7 +6,6 @@ name = "SBN-02234"
 [meta]
 bill_number = 2234
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2234", "https://web.senate.gov.ph/lisdata/48343950!.pdf",]
 title = "REVISED PENAL CODE (AMENDMENTS)"
 date_filed = "2006-03-23"
 long_title = "AN ACT AMENDING ARTICLES ONE HUNDRED SEVENTY-SEVEN AND ONE HUNDRED SEVENTY-NINE OF THE REVISED PENAL CODE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (Art. 179/Act 3815)", "Insignias/Uniforms Misre
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48343950!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2234"
 
 [[history]]
 date = "2006-03-23"

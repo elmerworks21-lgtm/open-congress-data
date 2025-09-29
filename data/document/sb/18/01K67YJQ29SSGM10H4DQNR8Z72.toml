@@ -6,7 +6,6 @@ name = "SBN-01011"
 [meta]
 bill_number = 1011
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1011", "https://web.senate.gov.ph/lisdata/3143428331!.pdf",]
 title = "LGU WASTE MANAGEMENT ACT OF 2019"
 date_filed = "2019-09-04"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, FOR THE PURPOSE OF ENHANCING THE POWER OF LOCAL GOVERNMENT UNITS IN WASTE MANAGEMENT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Waste Management", "Local Government Units (LGUS)", "Local Governm
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3143428331!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1011"
 
 [[history]]
 date = "2019-09-04"

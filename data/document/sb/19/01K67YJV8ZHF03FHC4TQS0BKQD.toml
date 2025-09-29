@@ -6,7 +6,6 @@ name = "SBN-00592"
 [meta]
 bill_number = 592
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-592", "https://web.senate.gov.ph/lisdata/3837434823!.pdf",]
 title = "DISABILITY SUPPORT ALLOWANCE FOR PERSONS WITH DISABILITIES ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT PROVIDING FOR THE UNIVERSAL DISABILITY SUPPORT ALLOWANCE FOR PERSONS WITH DISABILITIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Persons with Disabilities (PWDS)", "Disability Support Fund",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3837434823!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-592"
 
 [[history]]
 date = "2022-07-14"

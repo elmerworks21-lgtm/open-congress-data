@@ -6,7 +6,6 @@ name = "SBN-00651"
 [meta]
 bill_number = 651
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-651", "https://web.senate.gov.ph/lisdata/2413920776!.pdf",]
 title = "NATIONAL COASTAL GREENBELT ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT ESTABLISHING THE NATIONAL COASTAL GREENBELT PROGRAM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Coastal Greenbelt", "Mangrove Forests", "Climate Change",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2413920776!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-651"
 
 [[history]]
 date = "2016-07-20"

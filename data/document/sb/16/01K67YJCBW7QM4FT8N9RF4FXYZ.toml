@@ -6,7 +6,6 @@ name = "SBN-00127"
 [meta]
 bill_number = 127
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-127", "https://web.senate.gov.ph/lisdata/1593213164!.pdf",]
 title = "DECRIMINALIZING LIBEL"
 date_filed = "2013-07-01"
 long_title = "AN ACT DECRIMINALIZING LIBEL BY MEANS OF WRITING OR SIMILAR REPEALING ARTICLE 355 OF THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Libel",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1593213164!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-127"
 
 [[history]]
 date = "2013-07-01"

@@ -6,7 +6,6 @@ name = "SBN-02537"
 [meta]
 bill_number = 2537
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2537", "https://web.senate.gov.ph/lisdata/80897310!.pdf",]
 title = "BLOOD TYPE IDENTIFICATION ACT OF 2008"
 date_filed = "2008-08-14"
 long_title = "AN ACT REQUIRING ALL GOVERNMENT-ISSUED IDENTIFICATION CARDS, CERTIFICATES AND LICENSES TO INCLUDE A PORTION INDICATING THE BLOOD TYPE OF THE HOLDER THEREOF AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Blood Type Identification",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80897310!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2537"
 
 [[history]]
 date = "2008-08-14"

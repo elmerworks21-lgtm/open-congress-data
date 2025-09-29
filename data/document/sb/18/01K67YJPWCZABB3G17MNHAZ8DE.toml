@@ -6,7 +6,6 @@ name = "SBN-00733"
 [meta]
 bill_number = 733
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-733", "https://web.senate.gov.ph/lisdata/3108527983!.pdf",]
 title = "ESTABLISHING THE INFORMATION TECHNOLOGY OFFICE IN EVERY MUNICIPALITY, CITY AND PROVINCE"
 date_filed = "2019-07-24"
 long_title = "AN ACT ESTABLISHING THE INFORMATION TECHNOLOGY OFFICE IN EVERY MUNICIPALITY, CITY AND PROVINCE AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Information Technology",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3108527983!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-733"
 
 [[history]]
 date = "2019-07-24"

@@ -6,7 +6,6 @@ name = "SBN-01027"
 [meta]
 bill_number = 1027
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1027", "https://web.senate.gov.ph/lisdata/4763543651!.pdf",]
 title = "INDIGENT CHILDREN FREE MEDICAL AND DENTAL SERVICE ACT"
 date_filed = "2025-08-06"
 long_title = "AN ACT TO REQUIRE THE GIVING OF FREE MEDICAL AND DENTAL SERVICE TO INDIGENT CHILDREN, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Free Medical and Dental Service", "Indigent Children",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4763543651!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1027"
 
 [[history]]
 date = "2025-08-06"

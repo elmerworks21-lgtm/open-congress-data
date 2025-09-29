@@ -6,7 +6,6 @@ name = "SBN-00929"
 [meta]
 bill_number = 929
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-929", "https://web.senate.gov.ph/lisdata/51884555!.pdf",]
 title = "PROFESSIONALIZATION OF PRISON MANAGEMENT ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT TO PROFESSIONALIZE THE PRACTICE OF PRISON MANAGEMENT AND SET FOR THAT PURPOSE THE QUALIFICATION FOR SUPERINTENDENTS OF THE NATIONAL PRISON SYSTEM AND OF WARDENS OF PROVINCIAL, CITY OR MUNICIPAL JAILS"
@@ -15,6 +14,8 @@ subjects = [ "Prison Reforms",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51884555!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-929"
 
 [[history]]
 date = "2007-07-04"

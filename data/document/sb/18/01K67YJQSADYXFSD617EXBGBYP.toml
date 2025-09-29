@@ -6,7 +6,6 @@ name = "SBN-01968"
 [meta]
 bill_number = 1968
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1968", "https://web.senate.gov.ph/lisdata/3424131042!.pdf",]
 title = "SUSPENSION OF PHILHEALTH PREMIUM CONTRIBUTION INCREASE"
 date_filed = "2021-01-05"
 long_title = "AN ACT MANDATING THE SUSPENSION OF THE SCHEDULED INCREASE IN PHILHEALTH PREMIUM CONTRIBUTIONS, AMENDING FOR THE PURPOSE SECTION 10 OF REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE ‘UNIVERSAL HEALTH CARE ACT’ AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Health Insurance Corporation (Philhealth/Phic)", "Unive
 authors_raw = "Poe, Grace, Zubiri, Juan Miguel \"Migz\" F., Villanueva, Joel, Angara, Sonny, Binay, Maria Lourdes Nancy S., Gatchalian, Win"
 author_codes = ["ASONN", "BMARI", "GSHER", "PGRAC", "VEMMA", "ZJMIG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3424131042!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1968"
 
 [[history]]
 date = "2021-01-05"

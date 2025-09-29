@@ -6,7 +6,6 @@ name = "SBN-00083"
 [meta]
 bill_number = 83
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-83", "https://web.senate.gov.ph/lisdata/1211741!.pdf",]
 title = "PESTICIDE FOOD SAFETY ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO REGULATE PESTICIDE CHEMICAL RESIDUES IN FOOD"
@@ -15,6 +14,8 @@ subjects = [ "Pesticide Food Safety Act", "Food (Pesticide Chemical Residues)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1211741!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-83"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-03315"
 [meta]
 bill_number = 3315
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3315", "https://web.senate.gov.ph/lisdata/1175610341!.pdf",]
 title = "SURCHARGING IN THE USE OF CREDIT CARD"
 date_filed = "2009-06-10"
 long_title = "AN ACT PROHIBITING THE IMPOSITION OF A SURCHARGE, EXTRA CHARGE OR ADDITIONAL CHARGE IN THE USE OF CREDIT/AUTOMATED TELLER MACHINE (ATM)/DEBIT CARDS FOR PAYMENT OF PURCHASES OF CONSUMER PRODUCTS OR SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card Holder Protection", "Automated Teller Machine (ATM)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1175610341!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3315"
 
 [[history]]
 date = "2009-06-10"

@@ -6,7 +6,6 @@ name = "SBN-00514"
 [meta]
 bill_number = 514
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-514", "https://web.senate.gov.ph/lisdata/3089727743!.pdf",]
 title = "PNP MODERNIZATION ACT"
 date_filed = "2019-07-16"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE NATIONAL POLICE AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine National Police (PNP)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3089727743!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-514"
 
 [[history]]
 date = "2019-07-16"

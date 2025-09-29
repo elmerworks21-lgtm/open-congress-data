@@ -6,7 +6,6 @@ name = "SBN-00465"
 [meta]
 bill_number = 465
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-465", "https://web.senate.gov.ph/lisdata/3822634663!.pdf",]
 title = "MULTIPURPOSE GYM IN ALL MUNICIPALITIES AND CITIES ACT OF 2022"
 date_filed = "2022-07-13"
 long_title = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A MULTIPURPOSE GYM IN ALL MUNICIPALITIES AND CITIES TO SERVE AS EVACUATION CENTER DURING TIMES OF CALAMITY OR DISASTER AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Multipurpose Gym", "Evacuation Center", "Calamity/Disaster",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3822634663!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-465"
 
 [[history]]
 date = "2022-07-13"

@@ -6,7 +6,6 @@ name = "SBN-01437"
 [meta]
 bill_number = 1437
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1437", "https://web.senate.gov.ph/lisdata/90077551!.pdf",]
 title = "NATIONAL STRATEGIC MISSING CHILDREN RECOVERY PROGRAM ACT OF 2010"
 date_filed = "2010-07-13"
 long_title = "AN ACT ESTABLISHING A NATIONAL STRATEGIC CHILDREN RECOVERY PROGRAM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Missing Persons",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90077551!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1437"
 
 [[history]]
 date = "2010-07-13"

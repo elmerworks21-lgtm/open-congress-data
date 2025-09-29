@@ -6,7 +6,6 @@ name = "SBN-00125"
 [meta]
 bill_number = 125
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-125", "https://web.senate.gov.ph/lisdata/12601011!.pdf",]
 title = "ANTI-INCEST ACT"
 date_filed = "2004-06-30"
 long_title = "ANTI-INCEST ACT"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Incest Act", "Family Code (Art. 37/38; E.O.No. 209)",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/12601011!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-125"
 
 [[history]]
 date = "2004-06-30"

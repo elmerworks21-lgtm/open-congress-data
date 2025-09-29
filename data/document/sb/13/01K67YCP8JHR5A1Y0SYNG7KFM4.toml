@@ -6,7 +6,6 @@ name = "SBN-01587"
 [meta]
 bill_number = 1587
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1587", "https://web.senate.gov.ph/lisdata/28072179!.pdf",]
 title = "BIOFUELS ENERGY INDEPENDENCE ACT"
 date_filed = "2004-08-03"
 long_title = "AN ACT TO PROVIDE FOR A BIOFUEL FEEDSTOCKS ENERGY RESERVE, AND TO AUTHORIZE THE SECRETARY OF AGRICULTURE TO MAKE AND GUARANTEE LOANS FOR THE PRODUCTION, DISTRIBUTION, DEVELOPMENT, AND STORAGE OF BIOFUELS"
@@ -15,6 +14,8 @@ subjects = [ "Biofuels Energy Independence Act", "Energy Reserve (Biofuel Feedst
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28072179!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1587"
 
 [[history]]
 date = "2004-08-03"

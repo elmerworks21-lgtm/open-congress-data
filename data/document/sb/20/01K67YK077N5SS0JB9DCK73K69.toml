@@ -6,7 +6,6 @@ name = "SBN-00711"
 [meta]
 bill_number = 711
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-711", "https://web.senate.gov.ph/lisdata/4724243242!.pdf",]
 title = "STRICTER DELAYED BIRTH REGISTRATION ACT"
 date_filed = "2025-07-17"
 long_title = "AN ACT STRENGTHENING THE SYSTEM OF FILING OF DELAYED REGISTRATION OF BIRTHS, PROVIDING FOR STRICTER GUIDELINES AND PENALTIES THEREOF, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 3753"
@@ -15,6 +14,8 @@ subjects = [ "Delayed Registration of Birth", "Birth Registration",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4724243242!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-711"
 
 [[history]]
 date = "2025-07-17"

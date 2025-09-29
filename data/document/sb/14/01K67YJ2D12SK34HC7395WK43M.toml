@@ -6,7 +6,6 @@ name = "SBN-02197"
 [meta]
 bill_number = 2197
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2197", "https://web.senate.gov.ph/lisdata/71716401!.pdf",]
 title = "CRIME OF MULCTING OR KOTONG"
 date_filed = "2008-04-28"
 long_title = "AN ACT DEFINING THE CRIME OF MULCTING OR KOTONG, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Kotong",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71716401!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2197"
 
 [[history]]
 date = "2008-04-28"

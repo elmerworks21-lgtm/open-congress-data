@@ -6,7 +6,6 @@ name = "SBN-01559"
 [meta]
 bill_number = 1559
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1559", "https://web.senate.gov.ph/lisdata/58755233!.pdf",]
 title = "LOCAL HOLIDAYS ACT OF 2007"
 date_filed = "2007-09-11"
 long_title = "AN ACT AUTHORIZING THE SANGGUNIANG PANLALAWIGAN, SANGGUNIANG PANLUNGSOD OR SANGGUNIANG BAYAN, TO DECLARE WORKING OR NON-WORKING SPECIAL HOLIDAYS IN THEIR RESPECTIVE LOCALITIES TO COMMEMORATE SIGNIFICANT HISTORIC EVENTS PROVIDING GUIDELINES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Holiday Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58755233!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1559"
 
 [[history]]
 date = "2007-09-11"

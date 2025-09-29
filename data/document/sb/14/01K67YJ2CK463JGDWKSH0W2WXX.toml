@@ -6,7 +6,6 @@ name = "SBN-02178"
 [meta]
 bill_number = 2178
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2178", "https://web.senate.gov.ph/lisdata/71346368!.pdf",]
 title = "ECOLOGICAL POLICY ACT OF 2008"
 date_filed = "2008-04-21"
 long_title = "AN ACT PROVIDING FOR THE FRAMEWORK IN THE CONSERVATION, DEVELOPMENT, MANAGEMENT AND UTILIZATION OF ENVIRONMENT AND NATURAL RESOURCES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Ecological Policy",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71346368!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2178"
 
 [[history]]
 date = "2008-04-21"

@@ -6,7 +6,6 @@ name = "SBN-00768"
 [meta]
 bill_number = 768
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-768", "https://web.senate.gov.ph/lisdata/1671713952!.pdf",]
 title = "PATIENTS' GRIEVANCE MACHINERY ACT OF 2013"
 date_filed = "2013-07-15"
 long_title = "AN ACT UPHOLDING THE RIGHT OF PATIENTS TO THE REDRESS OF THEIR TREATMENT- RELATED GRIEVANCES BY MANDATING THE CREATION OF GRIEVANCE BOARDS IN ALL PUBLIC AND PRIVATE HOSPITALS TO BE SUPERVISED BY DEPARTMENT OF HEALTH, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Patients", "Department of Health (DOH)", "Hospitals",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1671713952!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-768"
 
 [[history]]
 date = "2013-07-15"

@@ -6,7 +6,6 @@ name = "SBN-01754"
 [meta]
 bill_number = 1754
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1754", "https://web.senate.gov.ph/lisdata/29682538!.pdf",]
 title = "NATIONAL PROGRAM ON COMMUNITY DISASTER PREPAREDNESS"
 date_filed = "2004-09-06"
 long_title = "AN ACT AMENDING SEC. 3 OF PRESIDENTIAL DECREE NO. 1566, ALSO KNOWN AS AN ACT STRENGTHENING THE PHILIPPINE DISASTER CONTROL, CAPABILITY AND ESTABLISHING THE NATIONAL PROGRAM ON COMMUNITY DISASTER PREPAREDNESS"
@@ -15,6 +14,8 @@ subjects = [ "National Program on Community Disaster", "P.D. 1566 (Sec. 3)", "Re
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/29682538!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1754"
 
 [[history]]
 date = "2004-09-06"

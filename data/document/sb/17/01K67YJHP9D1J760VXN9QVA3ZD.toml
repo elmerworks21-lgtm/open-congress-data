@@ -6,7 +6,6 @@ name = "SBN-00786"
 [meta]
 bill_number = 786
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-786", "https://web.senate.gov.ph/lisdata/2431820921!.pdf",]
 title = "CYBERCRIME PREVENTION"
 date_filed = "2016-07-21"
 long_title = "AN ACT REPEALING SECTION 4 (C) (4), CHAPTER II OF REPUBLIC ACT NO. 10175"
@@ -15,6 +14,8 @@ subjects = [ "Cybercrime",]
 authors_raw = "Escudero, Francis \"Chiz\" G., Villanueva, Joel"
 author_codes = ["EFRAN", "VEMMA"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2431820921!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-786"
 
 [[history]]
 date = "2016-07-21"

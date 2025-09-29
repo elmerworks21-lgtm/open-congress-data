@@ -6,7 +6,6 @@ name = "SBN-00401"
 [meta]
 bill_number = 401
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-401", "https://web.senate.gov.ph/lisdata/1588859!.pdf",]
 title = "BARANGAY HEALTH WORKERS INSURANCE ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING INSURANCE TO BARANGAY HEALTH WORKERS."
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Workers Act", "Insurance Benefits (Health Workers)
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1588859!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-401"
 
 [[history]]
 date = "2004-06-30"

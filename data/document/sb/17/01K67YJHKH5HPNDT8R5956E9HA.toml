@@ -6,7 +6,6 @@ name = "SBN-00657"
 [meta]
 bill_number = 657
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-657", "https://web.senate.gov.ph/lisdata/2414520782!.pdf",]
 title = "ADOLESCENTS AND YOUTH MENTAL HEALTH PROGRAM ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT MANDATING THE CREATION OF A MENTAL HEALTH PROGRAM FOR THE ADOLESCENTS AND YOUTH IN LOCAL GOVERNMENT UNITS AND ACADEMIC INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Mental Health", "Local Government Units (LGUS)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2414520782!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-657"
 
 [[history]]
 date = "2016-07-20"

@@ -6,7 +6,6 @@ name = "SBN-01456"
 [meta]
 bill_number = 1456
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1456", "https://web.senate.gov.ph/lisdata/89527495!.pdf",]
 title = "REGIONAL COURT OF LABOR RELATIONS (RCLR)"
 date_filed = "2010-07-15"
 long_title = "AN ACT ESTABLISHING THE REGIONAL COURT OF LABOR RELATIONS (RCLR) UNDER THE SUPERVISION OF THE SUPREME COURT, THEREBY ABOLISHING THE NATIONAL LABOR RELATIONS COMMISSION (NLRC)"
@@ -15,6 +14,8 @@ subjects = [ "National Labor Relations Commission (NLRC)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/89527495!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1456"
 
 [[history]]
 date = "2010-07-15"

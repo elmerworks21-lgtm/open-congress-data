@@ -6,7 +6,6 @@ name = "SBN-02674"
 [meta]
 bill_number = 2674
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2674", "https://web.senate.gov.ph/lisdata/90588238!.pdf",]
 title = "PROFESSIONAL ENGINEER'S DISCLOSURE ACT"
 date_filed = "2008-10-15"
 long_title = "AN ACT AUTHORIZING ENGINEERS TO DISCLOSE TO ANY GOVERNMENTAL OFFICIAL INFORMATION REGARDING A BUILDING OR STRUCTURE THAT HE BELIEVES IN GOOD FAITH MAY POSE A DANGER TO THE PUBLIC HEALTH OR SAFETY"
@@ -15,6 +14,8 @@ subjects = [ "Building",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90588238!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2674"
 
 [[history]]
 date = "2008-10-15"

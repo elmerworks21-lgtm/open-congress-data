@@ -6,7 +6,6 @@ name = "SBN-00211"
 [meta]
 bill_number = 211
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-211", "https://web.senate.gov.ph/lisdata/1308613!.pdf",]
 title = "REVISED INVESTMENT COMPANY ACT"
 date_filed = "2004-06-30"
 long_title = "REVISED INVESTMENT COMPANY ACT"
@@ -15,6 +14,8 @@ subjects = [ "Revised Investment Company Act", "Investment Companies/Mutual Fund
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1308613!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-211"
 
 [[history]]
 date = "2004-06-30"

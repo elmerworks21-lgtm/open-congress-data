@@ -6,7 +6,6 @@ name = "SBN-00698"
 [meta]
 bill_number = 698
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-698", "https://web.senate.gov.ph/lisdata/3100127820!.pdf",]
 title = "AUTHORIZING THE DOH TO SET AND APPROVE THE BED CAPACITY/SERVICE CAPABILITY OF ALL DOH HOSPITALS"
 date_filed = "2019-07-23"
 long_title = "AN ACT AUTHORIZING THE DEPARTMENT OF HEALTH TO SET AND APPROVE THE BED CAPACITY AND THE SERVICE CAPABILITY OF ALL DOH HOSPITALS"
@@ -15,6 +14,8 @@ subjects = [ "Department of Health (DOH)", "Hospitals, Increase Bed Capacity",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3100127820!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-698"
 
 [[history]]
 date = "2019-07-23"

@@ -6,7 +6,6 @@ name = "SBN-00468"
 [meta]
 bill_number = 468
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-468", "https://web.senate.gov.ph/lisdata/2390520532!.pdf",]
 title = "SPECIAL EDUCATION ACT"
 date_filed = "2016-07-19"
 long_title = "AN ACT INSTITUTING INCLUSIVE EDUCATION THROUGH SPECIAL EDUCATION IN ALL PUBLIC AND PRIVATE ELEMENTARY AND SECONDARY SCHOOLS NATIONWIDE FOR CHILDREN AND YOUTH WITH SPECIAL NEEDS AND EXTABLISHMENT OF THE BUREAU OF SPECIAL EDUCATION CREATING THE IMPLEMENTING MACHINERY THEREOF, PROVIDING GUIDELINES FOR GOVERNMENT FINANCIAL ASSISTANCE AND OTHER INCENTIVES AND SUPPORT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Special Education", "Schools (Public and Private)", "Children with
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2390520532!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-468"
 
 [[history]]
 date = "2016-07-19"

@@ -6,7 +6,6 @@ name = "SBN-00626"
 [meta]
 bill_number = 626
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-626", "https://web.senate.gov.ph/lisdata/80796551!.pdf",]
 title = "CONTINUOUS SERVICE OF PUBLIC HEALTH CENTERS"
 date_filed = "2010-07-07"
 long_title = "AN ACT REQUIRING ALL PUBLIC HEALTH CENTERS TO BE OPEN AT ALL TIMES TO PROVIDE CONTINUOUS HEALTH AND MEDICAL SERVICES TO THE PUBLIC"
@@ -15,6 +14,8 @@ subjects = [ "Public Health Centers",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80796551!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-626"
 
 [[history]]
 date = "2010-07-07"

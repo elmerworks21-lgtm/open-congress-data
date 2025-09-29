@@ -6,11 +6,12 @@ name = "HBN-04000"
 [meta]
 bill_number = 4000
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4000", "https://web.senate.gov.ph/lisdata/43803761!.pdf",]
 title = "LEGISLATIVE DISTRICTS REAPPORTIONMENT (NEGROS ORIENTAL)"
 long_title = "AN PROVIDING FOR THE REAPPORTIONMENT OF LEGISLATIVE DISTRICTS AND SANGGUNIANG PANLALAWIGAN SEATS IN THE PROVINCE OF NEGROS ORIENTAL"
 scope = "Local"
 subjects = [ "Negros Oriental Legislative Districts Reapportionment",]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=HBN-4000"
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43803761!.pdf"]
 
 [[history]]
 date = "2005-12-27"

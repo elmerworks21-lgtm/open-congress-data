@@ -6,7 +6,6 @@ name = "SBN-00821"
 [meta]
 bill_number = 821
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-821", "https://web.senate.gov.ph/lisdata/50494438!.pdf",]
 title = "GOVERNMENT AUDITING CODE OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT TO ADOPT A REVISED GOVERNMENT AUDITING CODE OF THE PHILIPPINES REVISING PRESIDENTIAL DECREE NO. 1445, AS AMENDED BY EXECUTIVE ORDER NO. 292, OTHERWISE KNOWN AS THE GOVERNMENT AUDITING CODE OF THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Auditing Code",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50494438!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-821"
 
 [[history]]
 date = "2007-07-03"

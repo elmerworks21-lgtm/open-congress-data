@@ -6,7 +6,6 @@ name = "SBN-00519"
 [meta]
 bill_number = 519
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-519", "https://web.senate.gov.ph/lisdata/47284049!.pdf",]
 title = "PROHIBITING CABINET MEMBERS FROM EMPLOYMENT BY FOREIGN CORPORATIONS"
 date_filed = "2007-07-02"
 long_title = "AN ACT AMENDING SECTION 7 (B) OF REPUBLIC ACT NO. 6713, OTHERWISE KNOWN AS THE CODE OF CONDUCT AND ETHICAL STANDARDS FOR PUBLIC OFFICIALS AND EMPLOYEES, SO AS TO LENGTHEN THE PERIOD OF PROHIBITED EMPLOYMENT IN THE CASE OF MEMBERS OF THE CABINET"
@@ -15,6 +14,8 @@ subjects = [ "Code of Conduct and Ethical Standards (R.A.No. 6713)", "Cabinet Me
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47284049!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-519"
 
 [[history]]
 date = "2007-07-02"

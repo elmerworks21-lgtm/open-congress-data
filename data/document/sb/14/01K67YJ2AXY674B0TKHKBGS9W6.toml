@@ -6,7 +6,6 @@ name = "SBN-02104"
 [meta]
 bill_number = 2104
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2104", "https://web.senate.gov.ph/lisdata/69606200!.pdf",]
 title = "SCHOOL HEALTH AND NUTRITION MODERNIZATION ACT OF 2008"
 date_filed = "2008-03-04"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE SCHOOL HEALTH AND NUTRITION PROGRAM (SHNP) OF THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/69606200!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2104"
 
 [[history]]
 date = "2008-03-04"

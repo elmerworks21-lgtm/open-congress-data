@@ -6,7 +6,6 @@ name = "SBN-00903"
 [meta]
 bill_number = 903
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-903", "https://web.senate.gov.ph/lisdata/82666829!.pdf",]
 title = "BARANGAY NUTRITION WORKER IN EVERY BARANGAY"
 date_filed = "2010-07-08"
 long_title = "AN ACT CREATING THE POSITION OF BARANGAY NUTRITION WORKER IN EVERY BARANGAY PROVIDING INCENTIVES THERETO, APPROPRIATING FUNDS THEREFOR AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1569"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Nutrition Worker",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/82666829!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-903"
 
 [[history]]
 date = "2010-07-08"

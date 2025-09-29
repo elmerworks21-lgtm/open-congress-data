@@ -6,7 +6,6 @@ name = "SBN-01610"
 [meta]
 bill_number = 1610
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1610", "https://web.senate.gov.ph/lisdata/1771814971!.pdf",]
 title = "FAILURE OR REFUSAL TO TESTIFY AS WITNESS IN ANY CRIMINAL PROCEEDINGS"
 date_filed = "2013-09-10"
 long_title = "AN ACT PENALIZING ANY MEMBER OF LAW ENFORCEMENT AGENCIES, OR ANY OTHER GOVERNMENT OFFICIAL OR EMPLOYEE WHO FAILS OR REFUSES TO TESTIFY AS A WITNESS IN ANY CRIMINAL PROCEEDINGS"
@@ -15,6 +14,8 @@ subjects = [ "Witness (Failure to Testify)", "Law Enforcement Agency",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1771814971!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1610"
 
 [[history]]
 date = "2013-09-10"

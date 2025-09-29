@@ -6,7 +6,6 @@ name = "SBN-02231"
 [meta]
 bill_number = 2231
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2231", "https://web.senate.gov.ph/lisdata/1912616250!.pdf",]
 title = "PREPAID LOAD PROTECTION ACT OF 2014"
 date_filed = "2014-05-19"
 long_title = "AN ACT PROHIBITING TELECOMMUNICATION COMPANIES FROM IMPOSING AN EXPIRATION PERIOD ON THE VALIDITY OF PREPAID CALL AND TEXT CARDS AND THE FORFEITURE OF LOAD CREDITS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Prepaid Calling Cards", "Prepaid Sim Cards", "Pre-Paid Phone Card 
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1912616250!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2231"
 
 [[history]]
 date = "2014-05-19"

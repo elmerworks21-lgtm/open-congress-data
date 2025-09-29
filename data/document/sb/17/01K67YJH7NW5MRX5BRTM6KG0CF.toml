@@ -6,7 +6,6 @@ name = "SBN-00141"
 [meta]
 bill_number = 141
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-141", "https://web.senate.gov.ph/lisdata/2356120178!.pdf",]
 title = "INTEGRATED URBAN AGRICULTURE ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF AGRICULTURE TO PROMOTE URBAN AGRICULTURAL DEVELOPMENT IN THE COUNTRY'S METROPOLITAN AREAS, TO ADDRESS FOOD SECURITY, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Department of Agriculture", "Food Security", "Tax Credit", "Agricu
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2356120178!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-141"
 
 [[history]]
 date = "2016-06-30"

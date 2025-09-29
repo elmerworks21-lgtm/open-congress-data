@@ -6,7 +6,6 @@ name = "SBN-02768"
 [meta]
 bill_number = 2768
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2768", "https://web.senate.gov.ph/lisdata/4449540445!.pdf",]
 title = "ANTI-BOMB JOKE ACT OF 2024"
 date_filed = "2024-08-06"
 long_title = "AN ACT PROHIBITING THE DISSEMINATION OF FALSE INFORMATION ON BOMB THREATS, EXPLOSIVES, OR ANY OTHER LIFE-THREATENING OR DESTRUCTIVE MATERIALS AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Bomb Joke", "False Bomb Threat",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4449540445!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2768"
 
 [[history]]
 date = "2024-08-06"

@@ -6,7 +6,6 @@ name = "SBN-01187"
 [meta]
 bill_number = 1187
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1187", "https://web.senate.gov.ph/lisdata/3190628759!.pdf",]
 title = "ONE PARTY CONSENT ACT"
 date_filed = "2019-11-25"
 long_title = "AN ACT INSTITUTING ONE PARTY CONSENT, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 4200, OTHERWISE KNOWN AS ‘AN ACT TO PROHIBIT AND PENALIZE WIRE TAPPING AND OTHER RELATED VIOLATIONS OF THE PRIVACY OF COMMUNICATION, AND FOR OTHER PURPOSES’ AND REPUBLIC ACT NO. 9372, OTHERWISE KNOWN AS THE ‘HUMAN SECURITY ACT 0F 2007’"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Wiretapping", "Human Security Act",]
 authors_raw = "Lacson, Panfilo \"Ping\" M."
 author_codes = ["LPANF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3190628759!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1187"
 
 [[history]]
 date = "2019-11-25"

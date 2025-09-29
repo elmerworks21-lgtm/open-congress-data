@@ -6,7 +6,6 @@ name = "SBN-03148"
 [meta]
 bill_number = 3148
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3148", "https://web.senate.gov.ph/lisdata/107449498!.pdf",]
 title = "ELECTRICITY RATE REDUCTION ACT OF 2009"
 date_filed = "2009-04-01"
 long_title = "AN ACT DIRECTING THE REDUCTION OF ELECTRICITY RATES THROUGH THE UTILIZATION OF THE GOVERNMENT SHARE IN THE DISCOVERY, EXPLORATION, DEVELOPMENT AND/OR PRODUCTION OF INDIGENOUS SOURCES OF ENERGY FOR THE PURPOSE OF LOWERING THE COST OF ELECTRICITY"
@@ -15,6 +14,8 @@ subjects = [ "Electricity", "Power Rate Consumption Discount",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107449498!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3148"
 
 [[history]]
 date = "2009-04-01"

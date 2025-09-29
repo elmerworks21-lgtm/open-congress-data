@@ -6,7 +6,6 @@ name = "SBN-00328"
 [meta]
 bill_number = 328
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-328", "https://web.senate.gov.ph/lisdata/4681742824!.pdf",]
 title = "COMPREHENSIVE MENTAL HEALTH BENEFIT ACT"
 date_filed = "2025-07-09"
 long_title = "AN ACT EXPANDING PHILHEALTH COVERAGE TO INCLUDE BENEFIT PACKAGE TO ALL MENTAL HEALTH DISORDERS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Comprehensive Mental Health Benefit", "Mental Health Services", "P
 authors_raw = "Villar, Camille A."
 author_codes = ["VCAMI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4681742824!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-328"
 
 [[history]]
 date = "2025-07-09"

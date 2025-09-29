@@ -6,7 +6,6 @@ name = "SBN-00042"
 [meta]
 bill_number = 42
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-42", "https://web.senate.gov.ph/lisdata/3025827091!.pdf",]
 title = "TEACHING SUPPLIES ALLOWANCE ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT INSTITUTIONALIZING THE GRANT OF A TEACHING SUPPLIES ALLOWANCE FOR PUBLIC SCHOOL TEACHERS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Teaching Supplies Allowance",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3025827091!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-42"
 
 [[history]]
 date = "2019-07-01"

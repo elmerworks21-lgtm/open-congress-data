@@ -6,7 +6,6 @@ name = "SBN-01388"
 [meta]
 bill_number = 1388
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1388", "https://web.senate.gov.ph/lisdata/3243929295!.pdf",]
 title = "CYBERSECURITY ACT"
 date_filed = "2020-03-02"
 long_title = "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY INTER-AGENCY COMMITTEE CREATED UNDER EXECUTIVE ORDER NO. 95 (S. 2019), RENAMING IT TO NATIONAL CYBERSECURITY COUNCIL, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Cybersecurity",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3243929295!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1388"
 
 [[history]]
 date = "2020-03-02"

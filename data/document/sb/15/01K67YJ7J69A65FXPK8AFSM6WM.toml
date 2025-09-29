@@ -6,7 +6,6 @@ name = "SBN-00529"
 [meta]
 bill_number = 529
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-529", "https://web.senate.gov.ph/lisdata/78756308!.pdf",]
 title = "INDUSTRIAL AND LABOR DISPUTE SETTLEMENT ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO ENHANCE THE PHILIPPINE INDUSTRIAL AND LABOR DISPUTE SETTLEMENT SYSTEM AND FOR THAT PURPOSE, AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 442 OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES."
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442", "Amendments)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78756308!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-529"
 
 [[history]]
 date = "2010-07-07"

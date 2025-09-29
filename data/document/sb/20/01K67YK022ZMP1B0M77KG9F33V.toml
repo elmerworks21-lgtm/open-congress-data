@@ -6,7 +6,6 @@ name = "SBN-00433"
 [meta]
 bill_number = 433
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-433", "https://web.senate.gov.ph/lisdata/4694642949!.pdf",]
 title = "DIGITAL ASSETS ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT RECOGNIZING DIGITAL ASSETS, REQUIRING THE REGISTRATION OF DIGITAL ASSET ENTERPRISES, THEIR OPERATORS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Digital Asset",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4694642949!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-433"
 
 [[history]]
 date = "2025-07-10"

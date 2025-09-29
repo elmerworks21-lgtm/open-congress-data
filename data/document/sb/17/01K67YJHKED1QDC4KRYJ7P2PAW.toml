@@ -6,7 +6,6 @@ name = "SBN-00652"
 [meta]
 bill_number = 652
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-652", "https://web.senate.gov.ph/lisdata/2414020777!.pdf",]
 title = "PHILIPPINE BAMBOO INDUSTRY DEVELOPMENT PROGRAM ACT"
 date_filed = "2016-07-20"
 long_title = "AN ACT INSTITUTIONALIZING A PHILIPPINE BAMBOO INDUSTRY DEVELOPMENT PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Bamboo Industry",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\", Legarda, Loren B."
 author_codes = ["APAOL", "LLORE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2414020777!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-652"
 
 [[history]]
 date = "2016-07-20"

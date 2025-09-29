@@ -6,7 +6,6 @@ name = "SBN-00816"
 [meta]
 bill_number = 816
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-816", "https://web.senate.gov.ph/lisdata/50444433!.pdf",]
 title = "NATIONAL RAILWAYS ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT ACCELERATING THE DEVELOPMENT OF A NATIONAL RAILWAY SYSTEM, CREATING FOR THE PURPOSE THE NATIONAL RAILWAY AUTHORITY, PRESCRIBING ITS POWERS, FUNCTIONS AND DUTIES"
@@ -15,6 +14,8 @@ subjects = [ "National Railways",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50444433!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-816"
 
 [[history]]
 date = "2007-07-03"

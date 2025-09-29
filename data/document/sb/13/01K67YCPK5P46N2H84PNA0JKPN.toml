@@ -6,7 +6,6 @@ name = "SBN-02113"
 [meta]
 bill_number = 2113
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2113", "https://web.senate.gov.ph/lisdata/39453366!.pdf",]
 title = "AUTOMATIC APPROPRIATION FOR DEBT SERVICE"
 date_filed = "2005-09-06"
 long_title = "AN ACT REPEALING THE AUTOMATIC APPROPRIATION FOR DEBT SERVICE, AMENDING FOR THE PURPOSE SECTION 26, CHAPTER 4, BOOK VI OF EXECUTIVE ORDER NO. 292 OTHERWISE KNOWN AS THE REVISED ADMINISTRATIVE CODE OF 1987"
@@ -15,6 +14,8 @@ subjects = [ "Automatic Appropriation (Debt Service)", "Revised Administrative C
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/39453366!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2113"
 
 [[history]]
 date = "2005-09-06"

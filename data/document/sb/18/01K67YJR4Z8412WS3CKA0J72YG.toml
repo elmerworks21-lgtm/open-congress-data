@@ -6,7 +6,6 @@ name = "SBN-02353"
 [meta]
 bill_number = 2353
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2353", "https://web.senate.gov.ph/lisdata/3597332422!.pdf",]
 title = "BARANGAY HEALTH AND WELLNESS REFORM ACT OF 2021"
 date_filed = "2021-08-23"
 long_title = "AN ACT STRENGTHENING AND INSTITUTIONALIZING THE BARANGAY PRIMARY HEALTH CARE PROGRAM, PROVIDING SECURITY OF TENURE, BENEFITS AND INCENTIVES TO BARANGAY HEALTH WORKERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7883 ALSO KNOWN AS THE BARANGAY HEALTH WORKERS’ BENEFITS AND INCENTIVES ACT OF 1995 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Worker", "Security of Tenure",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3597332422!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2353"
 
 [[history]]
 date = "2021-08-23"

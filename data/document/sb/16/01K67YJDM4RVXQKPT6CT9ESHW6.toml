@@ -6,7 +6,6 @@ name = "SBN-02081"
 [meta]
 bill_number = 2081
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2081", "https://web.senate.gov.ph/lisdata/1856515715!.pdf",]
 title = "FIRECRACKER BAN ACT OF 2014"
 date_filed = "2014-01-22"
 long_title = "AN ACT BANNING THE USE OF FIRECRACKERS EXCEPT IN DESIGNATED AREAS DONE BY PROFESSIONALS"
@@ -15,6 +14,8 @@ subjects = [ "Firecrackers", "Pyrotechnic Devices",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1856515715!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2081"
 
 [[history]]
 date = "2014-01-22"

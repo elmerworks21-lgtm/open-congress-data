@@ -6,7 +6,6 @@ name = "SBN-02311"
 [meta]
 bill_number = 2311
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2311", "https://web.senate.gov.ph/lisdata/99628491!.pdf",]
 title = "ANTI DIAL-A-PORN ACT"
 date_filed = "2010-08-03"
 long_title = "AN ACT DECLARING UNLAWFUL THE COMMERCIAL USE OF TELEPHONES FOR MAKING INDECENT OR OBSCENE COMMUNICATIONS AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti Dial-A-Porn", "Phone-Sex Services",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99628491!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2311"
 
 [[history]]
 date = "2010-08-03"

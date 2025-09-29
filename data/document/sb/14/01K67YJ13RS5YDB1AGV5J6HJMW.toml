@@ -6,7 +6,6 @@ name = "SBN-00570"
 [meta]
 bill_number = 570
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-570", "https://web.senate.gov.ph/lisdata/47814112!.pdf",]
 title = "ABOLISHING OWWA AND TRANSFERRING ITS FUNCTIONS TO POEA"
 date_filed = "2007-07-02"
 long_title = "AN ACT ABOLISHING THE OVERSEAS WORKERS WELFARE ADMINISTRATION OR OWWA"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Workers Welfare Administration (OWWA)", "Philippine Overs
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47814112!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-570"
 
 [[history]]
 date = "2007-07-02"

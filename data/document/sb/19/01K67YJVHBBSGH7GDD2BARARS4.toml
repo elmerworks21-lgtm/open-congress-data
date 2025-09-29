@@ -6,7 +6,6 @@ name = "SBN-00963"
 [meta]
 bill_number = 963
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-963", "https://web.senate.gov.ph/lisdata/3877335226!.pdf",]
 title = "HUSTISYA PARA SA LAHAT ACT"
 date_filed = "2022-08-01"
 long_title = "AN ACT TO PROVIDE FREE LEGAL ASSISTANCE TO ALL INDIGENT FILIPINOS, AMENDING FOR THE PURPOSE CHAPTER 5, TITLE III, BOOK IV OF EXECUTIVE ORDER NO. 292, OTHERWISE KNOWN AS THE 'ADMINISTRATIVE CODE OF 1987' APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Free Legal Aid", "Indigent Persons", "Administrative Code of 1987 
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3877335226!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-963"
 
 [[history]]
 date = "2022-08-01"

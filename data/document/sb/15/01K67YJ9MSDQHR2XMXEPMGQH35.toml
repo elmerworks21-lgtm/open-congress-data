@@ -6,7 +6,6 @@ name = "SBN-03311"
 [meta]
 bill_number = 3311
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3311", "https://web.senate.gov.ph/lisdata/1427012027!.pdf",]
 title = "FOOD SAFETY ACT OF 2012"
 date_filed = "2012-10-16"
 long_title = "AN ACT TO STRENGTHEN THE FOOD SAFETY REGULATORY SYSTEM IN THE COUNTRY TO PROTECT CONSUMER HEALTH AND FACILITATE MARKET ACCESS OF LOCAL FOODS AND FOOD PRODUCTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Consumers Protection", "Food Safety",]
 authors_raw = "Ejercito-Estrada, Jinggoy P., Villar, Manny B., Defensor Santiago, Miriam, Angara, Edgardo J."
 author_codes = ["AEDGA", "EJING", "SMIRI", "VMANN"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1427012027!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3311"
 
 [[history]]
 date = "2012-10-16"

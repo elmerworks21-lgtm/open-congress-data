@@ -6,7 +6,6 @@ name = "SBN-00099"
 [meta]
 bill_number = 99
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-99", "https://web.senate.gov.ph/lisdata/1227961!.pdf",]
 title = "STUDENTS' GUIDANCE COUNSELING ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO RECRUIT, HIRE, AND TRAIN ADDITIONAL SCHOOL-BASED GUIDANCE COUNSELORS, PSYCHOLOGISTS, SCHOOL SOCIAL WORKERS AND MENTAL HEALTH PERSONNEL"
@@ -15,6 +14,8 @@ subjects = [ "Guidance Counselors/Psychologists", "Social Workers (School-Based 
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P., Angara, Edgardo J."
 author_codes = ["AEDGA", "ELUIS"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1227961!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-99"
 
 [[history]]
 date = "2004-06-30"

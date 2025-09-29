@@ -6,7 +6,6 @@ name = "SBN-02653"
 [meta]
 bill_number = 2653
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2653", "https://web.senate.gov.ph/lisdata/106299095!.pdf",]
 title = "PUBLIC HEALTHCARE INFRASTRUCTURE FUND ACT OF 2011"
 date_filed = "2011-01-25"
 long_title = "AN ACT EARMARKING FIFTY PERCENT (50%) OF PHILHEALTH'S EXCESS RESERVE FUNDS TO FUND PUBLIC HEALTHCARE INFRASTRUCTURE DEFICIT, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7875, OTHERWISE KNOWN AS 'AN ACT INSTITUTING A NATIONAL HEALTH INSURANCE PROGRAM FOR ALL FILIPINOS AND ESTABLISHING THE PHILIPPINE HEALTH INSURANCE CORPORATION"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Health Insurance Corporation (PHIC)",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106299095!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2653"
 
 [[history]]
 date = "2011-01-25"

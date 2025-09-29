@@ -6,7 +6,6 @@ name = "SBN-02294"
 [meta]
 bill_number = 2294
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2294", "https://web.senate.gov.ph/lisdata/74136592!.pdf",]
 title = "OMNIBUS EDUCATION REFORM ACT OF 2008"
 date_filed = "2008-05-19"
 long_title = "AN ACT MANDATING ATTAINMENT OF GLOBALLY COMPETITIVE EDUCATION OUTCOMES, ADOPTING AN OMNIBUS EDUCATION REFORM PROGRAM, IDENTIFYING FOR THAT PURPOSE THE STRATEGIC COMPONENTS OF SUCH PROGRAM, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74136592!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2294"
 
 [[history]]
 date = "2008-05-19"

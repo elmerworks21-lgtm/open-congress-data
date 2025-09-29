@@ -6,7 +6,6 @@ name = "SBN-01271"
 [meta]
 bill_number = 1271
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1271", "https://web.senate.gov.ph/lisdata/1734614584!.pdf",]
 title = "LUDONG PROTECTION AND CONSERVATION ACT OF 2013"
 date_filed = "2013-08-13"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION AND CONSERVATION OF CESTRAEUS PLICATILIS, COMMONLY KNOWN AS 'LUDONG', IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Ludong",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1734614584!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1271"
 
 [[history]]
 date = "2013-08-13"

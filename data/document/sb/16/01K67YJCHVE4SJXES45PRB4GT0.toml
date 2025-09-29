@@ -6,7 +6,6 @@ name = "SBN-00419"
 [meta]
 bill_number = 419
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-419", "https://web.senate.gov.ph/lisdata/1630913547!.pdf",]
 title = "REGULATING THE USE OF PLASTIC BAGS"
 date_filed = "2013-07-03"
 long_title = "AN ACT REGULATING THE USE OF PLASTIC BAGS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Plastic/Plastic Bags", "Shopping Bags",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
 author_codes = ["MFERD"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1630913547!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-419"
 
 [[history]]
 date = "2013-07-03"

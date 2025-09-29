@@ -6,7 +6,6 @@ name = "SBN-00685"
 [meta]
 bill_number = 685
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-685", "https://web.senate.gov.ph/lisdata/49074282!.pdf",]
 title = "ADJUSTING THE AMOUNT OF SUBSIDIARY IMPRISONMENT PENALTY"
 date_filed = "2007-07-03"
 long_title = "AN ACT AMENDING ACT NO. 3815, ALSO KNOWN AS THE REVISED PENAL CODE, AS AMENDED, ARTICLE 39, 1ST PARAGRAPH, ON SUBSIDIARY PENALTY"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (RA 3815", "Amendments)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49074282!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-685"
 
 [[history]]
 date = "2007-07-03"

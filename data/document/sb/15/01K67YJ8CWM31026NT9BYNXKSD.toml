@@ -6,7 +6,6 @@ name = "SBN-01850"
 [meta]
 bill_number = 1850
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1850", "https://web.senate.gov.ph/lisdata/94217962!.pdf",]
 title = "FUND-RAISING ACTIVITIES FOR POLITICAL PURPOSES"
 date_filed = "2010-07-21"
 long_title = "AN ACT AMENDING BATAS PAMBANSA BLG. 881, AS AMENDED, OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE OF THE PHILIPPINES, SECTION 97, ON CONDUCTING FUND-RAISING ACTIVITIES FOR POLITICAL PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)", "Public Solicita
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94217962!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1850"
 
 [[history]]
 date = "2010-07-21"

@@ -6,7 +6,6 @@ name = "SBN-00100"
 [meta]
 bill_number = 100
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-100", "https://web.senate.gov.ph/lisdata/3780334244!.pdf",]
 title = "PEOPLE'S FREEDOM OF INFORMATION ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT IMPLEMENTING THE PEOPLE'S RIGHT TO INFORMATION AND THE CONSTITUTIONAL POLICIES OF FULL PUBLIC DISCLOSURE AND HONESTY IN THE PUBLIC SERVICE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Freedom of Information", "Government Agencies",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3780334244!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-100"
 
 [[history]]
 date = "2022-07-07"

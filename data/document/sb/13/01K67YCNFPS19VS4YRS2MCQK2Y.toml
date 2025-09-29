@@ -6,7 +6,6 @@ name = "SBN-00217"
 [meta]
 bill_number = 217
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-217", "https://web.senate.gov.ph/lisdata/1352620!.pdf",]
 title = "NATIONAL LAND USE CODE"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE NATIONAL LAND USE POLICY AND PLANNING FRAMEWORKS AND THE IMPLEMENTING MECHANISM THEREFOR, OTHERWISE KNOWN AS THE NATIONAL LAND USE ACT OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "National Land Use Code", "Land Use Policy", "Reorganization/Recons
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1352620!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-217"
 
 [[history]]
 date = "2004-06-30"

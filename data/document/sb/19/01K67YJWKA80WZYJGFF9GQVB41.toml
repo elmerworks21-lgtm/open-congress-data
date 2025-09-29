@@ -6,7 +6,6 @@ name = "SBN-02415"
 [meta]
 bill_number = 2415
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2415", "https://web.senate.gov.ph/lisdata/4254038707!.pdf",]
 title = "VAT REFUND MECHANISM FOR NON-RESIDENT TOURISTS"
 date_filed = "2023-08-17"
 long_title = "AN ACT CREATING A VAT REFUND MECHANISM FOR NON-RESIDENT TOURISTS, ADDING A NEW SECTION 112-A TO THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "VAT Refund", "National Internal Revenue Code (NIRC)", "Tourists",]
 authors_raw = "Gatchalian, Win, Estrada, Jinggoy E., Villanueva, Joel, Tulfo, Raffy T."
 author_codes = ["EJING", "GSHER", "TRAFF", "VEMMA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4254038707!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2415"
 
 [[history]]
 date = "2023-08-17"

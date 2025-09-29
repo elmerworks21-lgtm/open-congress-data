@@ -6,7 +6,6 @@ name = "SBN-00016"
 [meta]
 bill_number = 16
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-16", "https://web.senate.gov.ph/lisdata/2342920014!.pdf",]
 title = "THE NEW CENTRAL BANK ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7653, OTHERWISE KNOWN AS THE NEW CENTRAL BANK ACT"
@@ -15,6 +14,8 @@ subjects = [ "New Central Bank Act", "Bangko Sentral Ng Pilipinas (BSP)",]
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2342920014!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-16"
 
 [[history]]
 date = "2016-06-30"

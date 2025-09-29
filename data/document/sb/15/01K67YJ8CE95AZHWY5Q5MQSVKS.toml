@@ -6,7 +6,6 @@ name = "SBN-01831"
 [meta]
 bill_number = 1831
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1831", "https://web.senate.gov.ph/lisdata/94027943!.pdf",]
 title = "GOVERNMENT SERVICE RETIREMENT RATIONALIZATION ACT"
 date_filed = "2010-07-21"
 long_title = "AN ACT GRANTING OLD-AGE PENSION FOR LIFE TO SENIOR CITIZENS-RA 1616 RETIREES AS WELL AS SURVIVORSHIP BENEFITS TO THEIR SURVIVORS, AMENDING FOR THE PURPOSE PERTINENT PROVISIONS OF THE SECOND PARAGRAPH OF SECTION 12 (C) OF COMMONWEALTH ACT 186, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Government Service Insurance System (GSIS)", "Pension", "Senior Ci
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94027943!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1831"
 
 [[history]]
 date = "2010-07-21"

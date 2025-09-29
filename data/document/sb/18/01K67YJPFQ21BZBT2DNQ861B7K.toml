@@ -6,7 +6,6 @@ name = "SBN-00155"
 [meta]
 bill_number = 155
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-155", "https://web.senate.gov.ph/lisdata/3043127271!.pdf",]
 title = "FREELANCE WORKERS PROTECTION ACT"
 date_filed = "2019-07-02"
 long_title = "AN ACT PROVIDING PROTECTION TO FREELANCERS, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Freelancers",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3043127271!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-155"
 
 [[history]]
 date = "2019-07-02"

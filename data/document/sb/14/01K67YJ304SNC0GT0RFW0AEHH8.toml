@@ -6,7 +6,6 @@ name = "SBN-03036"
 [meta]
 bill_number = 3036
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3036", "https://web.senate.gov.ph/lisdata/102289107!.pdf",]
 title = "INTERNATIONAL FUNDING AGENCIES"
 date_filed = "2009-02-03"
 long_title = "AN ACT PROHIBITING CORPORATIONS, CONSTRUCTION COMPANIES, FIRMS, PARTNERSHIPS, LEGAL ENTITIES OR INDIVIDUALS WHICH OR WHO ARE BANNED BY INTERNATIONAL FUNDING AGENCIES LIKE THE WORLD BANK, FROM PARTICIPATING IN ANY PUBLIC BIDDING OR CONSTRUCTION CONTRACT OR AGREEMENT OF ANY KIND WITH THE GOVERNMENT, AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Government Contract", "World Bank",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/102289107!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3036"
 
 [[history]]
 date = "2009-02-03"

@@ -6,7 +6,6 @@ name = "SBN-01429"
 [meta]
 bill_number = 1429
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1429", "https://web.senate.gov.ph/lisdata/1752614761!.pdf",]
 title = "DISABILITY PENSION FOR SENIOR VETERANS OF WARS AND MILITARY CAMPAIGNS"
 date_filed = "2013-08-29"
 long_title = "AN ACT PROVIDING FOR THE PAYMENT OF THE TOTAL ADMINISTRATIVE DISABILITY PENSION TO SENIOR VETERANS OF WARS AND MILITARY CAMPAIGNS"
@@ -15,6 +14,8 @@ subjects = [ "Veterans",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1752614761!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1429"
 
 [[history]]
 date = "2013-08-29"

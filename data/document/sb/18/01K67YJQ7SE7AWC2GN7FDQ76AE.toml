@@ -6,7 +6,6 @@ name = "SBN-01238"
 [meta]
 bill_number = 1238
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1238", "https://web.senate.gov.ph/lisdata/3205528907!.pdf",]
 title = "GRANTING CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES"
 date_filed = "2019-12-16"
 long_title = "AN ACT GRANTING CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES WHOSE STATUS OF APPOINTMENT IS EITHER CASUAL OR CONTRACTUAL, AND WHO HAVE CONTINUOUSLY RENDERED AT LEAST SEVEN (7) YEARS OF EEFICIENT SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Civil Service Eligibility", "Casual/Contractual Employees", "Gover
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3205528907!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1238"
 
 [[history]]
 date = "2019-12-16"

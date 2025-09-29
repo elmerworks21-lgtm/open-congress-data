@@ -6,7 +6,6 @@ name = "SBN-02982"
 [meta]
 bill_number = 2982
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2982", "https://web.senate.gov.ph/lisdata/98118854!.pdf",]
 title = "GOVERNMENT EMPLOYEES OFFICAL TRAVEL ACCOUNTABILITY ACT OF 2009"
 date_filed = "2009-01-13"
 long_title = "AN ACT REGULATING OFFICIAL LOCAL AND FOREIGN TRAVELS OF GOVERNMENT OFFICIALS AND EMPLOYEES TO ENSURE TRANSPARENCY AND ACCOUNTABILITY IN THE USE OF FUNDS REQUESTED FOR THE PURPOSE, DEFINING PENALTIES FOR NON-COMPLIANCE WITH DISCLOSURE, ACCOUNTING, LIQUIDATION AND REPORTING REQUIREMENTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Employees",]
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98118854!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2982"
 
 [[history]]
 date = "2009-01-13"

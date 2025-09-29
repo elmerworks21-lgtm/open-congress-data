@@ -6,7 +6,6 @@ name = "SBN-00486"
 [meta]
 bill_number = 486
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-486", "https://web.senate.gov.ph/lisdata/1644945!.pdf",]
 title = "ASSET AND LIABILITY MANAGEMENT GUIDELINES"
 date_filed = "2004-06-30"
 long_title = "AN ACT DIRECTING ALL GOVERNMENT CORPORATIONS TO PREPARE THEIR RESPECTIVE ASSET AND LIABILITY MANAGEMENT GUIDELINES THAT WILL DEFINE THE PARAMETERS AND/OR LIMITS OF THEIR FINANCIAL AND OPERATIONAL CAPABILITIES FOR CENTRAL CONTROL AND MONITORING BY THE DEPARTMENT OF FINANCE"
@@ -15,6 +14,8 @@ subjects = [ "Asset/Liability Management Guidelines", "Government Corporations (
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1644945!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-486"
 
 [[history]]
 date = "2004-06-30"

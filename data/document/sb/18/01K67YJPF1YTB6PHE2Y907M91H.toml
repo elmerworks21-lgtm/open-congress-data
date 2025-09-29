@@ -6,7 +6,6 @@ name = "SBN-00125"
 [meta]
 bill_number = 125
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-125", "https://web.senate.gov.ph/lisdata/3037327224!.pdf",]
 title = "NATIONAL TRANSPORTATION SAFETY BOARD ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT TO ESTABLISH THE NATIONAL TRANSPORTATION SAFETY BOARD, PRESCRIBING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "National Transportation Safety Board",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3037327224!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-125"
 
 [[history]]
 date = "2019-07-02"

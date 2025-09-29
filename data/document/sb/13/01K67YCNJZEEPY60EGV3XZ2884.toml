@@ -6,7 +6,6 @@ name = "SBN-00395"
 [meta]
 bill_number = 395
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-395", "https://web.senate.gov.ph/lisdata/1552853!.pdf",]
 title = "LIGA MEMBERSHIP DUES ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR AN AUTOMATIC DEDUCTION FROM THE INTERNAL REVENUE ALLOTMENT OF EACH BARANGAY TO SERVE AS PAYMENT OF MEMBERSHIP DUES TO THE LIGA NG MGA BARANGAY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Liga Ng Mga Barangay (Membership Dues)", "Internal Revenue Allotme
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1552853!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-395"
 
 [[history]]
 date = "2004-06-30"

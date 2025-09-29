@@ -6,7 +6,6 @@ name = "SBN-00810"
 [meta]
 bill_number = 810
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-810", "https://web.senate.gov.ph/lisdata/2434220949!.pdf",]
 title = "LOCAL GOVERNMENT CODE OF 1991"
 date_filed = "2016-07-21"
 long_title = "AN ACT STRENGTHENING LOCAL GOVERNMENT PARTICIPATION IN NATIONAL DEVELOPMENT IN INCREASING THE SHARE OF LOCAL GOVERNMENT UNITS IN THE NATIONAL INTERNAL REVENUE TAXES, AMENDING FOR THE PURPOSE SECTION 284 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code (R.A.No. 7160)", "Internal Revenue Allotment
 authors_raw = "Recto, Ralph G., Villanueva, Joel"
 author_codes = ["RRALP", "VEMMA"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2434220949!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-810"
 
 [[history]]
 date = "2016-07-21"

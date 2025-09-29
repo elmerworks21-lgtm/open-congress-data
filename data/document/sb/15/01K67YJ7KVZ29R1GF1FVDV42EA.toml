@@ -6,7 +6,6 @@ name = "SBN-00611"
 [meta]
 bill_number = 611
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-611", "https://web.senate.gov.ph/lisdata/80456517!.pdf",]
 title = "WATER REGULATORY COMMISSION ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT RATIONALIZING THE FINANCIAL REGULATION OF WATER UTILITIES, CREATING THE WATER REGULATORY COMMISSION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Water Regulation",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80456517!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-611"
 
 [[history]]
 date = "2010-07-07"

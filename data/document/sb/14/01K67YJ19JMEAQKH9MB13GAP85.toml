@@ -6,7 +6,6 @@ name = "SBN-00857"
 [meta]
 bill_number = 857
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-857", "https://web.senate.gov.ph/lisdata/51014474!.pdf",]
 title = "MOTHER SCREENING ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE SCREENING PROGRAM FOR MOTHERS AFTER CHILDBIRTH AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mother Screening",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51014474!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-857"
 
 [[history]]
 date = "2007-07-03"

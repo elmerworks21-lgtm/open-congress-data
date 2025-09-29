@@ -6,7 +6,6 @@ name = "SBN-01342"
 [meta]
 bill_number = 1342
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1342", "https://web.senate.gov.ph/lisdata/56425039!.pdf",]
 title = "FAMILY BUILDING ACT OF 2007"
 date_filed = "2007-07-24"
 long_title = "AN ACT REQUIRING COVERAGE FOR THE TREATMENT OF INFERTILITY IN ANY GROUP HEALTH PLAN OR HEALTH INSURANCE"
@@ -15,6 +14,8 @@ subjects = [ "Family Building Act of 2007",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56425039!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1342"
 
 [[history]]
 date = "2007-07-24"

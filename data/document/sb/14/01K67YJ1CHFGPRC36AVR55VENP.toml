@@ -6,7 +6,6 @@ name = "SBN-00998"
 [meta]
 bill_number = 998
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-998", "https://web.senate.gov.ph/lisdata/52644646!.pdf",]
 title = "NATIONAL DEVELOPMENT (NGOS PARTICIPATION)"
 date_filed = "2007-07-04"
 long_title = "AN ACT TO ENCOURAGE THE PARTICIPATION OF NON-GOVERNMENTAL ORGANIZATIONS (NGOS) AND STRENGTHEN THEIR ROLE IN NATIONAL DEVELOPMENT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Development (Ngos Participation)",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52644646!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-998"
 
 [[history]]
 date = "2007-07-03"

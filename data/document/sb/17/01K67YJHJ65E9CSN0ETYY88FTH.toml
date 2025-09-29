@@ -6,7 +6,6 @@ name = "SBN-00592"
 [meta]
 bill_number = 592
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-592", "https://web.senate.gov.ph/lisdata/2406620715!.pdf",]
 title = "PHILIPPINE PLUMBING ENGINEERING ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT REGULATING THE PRACTICE OF PLUMBING ENGINEERING IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBERED 1378, OTHERWISE KNOWN AS"
@@ -15,6 +14,8 @@ subjects = [ "Plumbing Engineering",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2406620715!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-592"
 
 [[history]]
 date = "2016-07-19"

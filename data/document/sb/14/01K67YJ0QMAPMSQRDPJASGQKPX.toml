@@ -6,7 +6,6 @@ name = "SBN-00016"
 [meta]
 bill_number = 16
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-16", "https://web.senate.gov.ph/lisdata/41863456!.pdf",]
 title = "OFFICIAL INFORMATION ACCESS ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO ENSURE PUBLIC ACCESS TO OFFICIAL INFORMATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Official Information Access", "Public Access to Official Informati
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41863456!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-16"
 
 [[history]]
 date = "2007-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00555"
 [meta]
 bill_number = 555
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-555", "https://web.senate.gov.ph/lisdata/79386377!.pdf",]
 title = "CELLPHONE NETWORK COMPANIES"
 date_filed = "2010-07-07"
 long_title = "AN ACT PROHIBITING CELLPHONE NETWORK COMPANIES FROM SENDING UNSOLICITED MATERIAL TO THEIR SUBSCRIBERS VIA TEXT OR SHORT MESSAGE SERVICE (SMS)"
@@ -15,6 +14,8 @@ subjects = [ "Cellular Phones",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79386377!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-555"
 
 [[history]]
 date = "2010-07-07"

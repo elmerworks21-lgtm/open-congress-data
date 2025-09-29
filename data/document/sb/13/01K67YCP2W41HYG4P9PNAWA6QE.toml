@@ -6,7 +6,6 @@ name = "SBN-01273"
 [meta]
 bill_number = 1273
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1273", "https://web.senate.gov.ph/lisdata/24841852!.pdf",]
 title = "DRUG DEMAND REDUCTION ACT"
 date_filed = "2004-07-01"
 long_title = "AN ACT PROVIDING FOR PROGRAMS TO FACILITATE A SIGNIFICANT REDUCTION IN THE INCIDENCE AND PREVALENCE OF SUBSTANCE ABUSE THROUGH REDUCING THE DEMAND FOR ILLEGAL DRUGS AND THE INAPPROPRIATE USE OF LEGAL DRUGS"
@@ -15,6 +14,8 @@ subjects = [ "Drug Demand Reduction Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24841852!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1273"
 
 [[history]]
 date = "2004-07-01"

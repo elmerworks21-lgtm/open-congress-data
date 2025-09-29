@@ -6,7 +6,6 @@ name = "SBN-00722"
 [meta]
 bill_number = 722
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-722", "https://web.senate.gov.ph/lisdata/3840934864!.pdf",]
 title = "GALING PINOY KOMIKS SUPPORT ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT TO ENHANCE GENUINE FILIPINO CULTURE, PROMOTE NATIONALISM, AND RECOGNIZE WRITERS AND ARTISTS, BY SUPPORTING THE PHILIPPINE KOMIKS INDUSTRY THROUGH ITS MANDATED USE IN INSTRUCTIONAL MATERIALS IN PUBLIC SCHOOLS, PROVIDING FINANCIAL INCENTIVES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Komiks",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["CULTA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3840934864!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-722"
 
 [[history]]
 date = "2022-07-18"

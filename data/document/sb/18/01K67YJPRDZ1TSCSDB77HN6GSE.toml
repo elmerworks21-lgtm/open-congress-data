@@ -6,7 +6,6 @@ name = "SBN-00550"
 [meta]
 bill_number = 550
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-550", "https://web.senate.gov.ph/lisdata/3093327795!.pdf",]
 title = "SEC SOCCSKSARGEN OFFICE LAW"
 date_filed = "2019-07-16"
 long_title = "AN ACT ESTABLISHING A SECURITIES AND EXCHANGE COMMISSION (SEC) OFFICE IN KORONADAL CITY AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Securities and Exchange Commission (SEC)",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3093327795!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-550"
 
 [[history]]
 date = "2019-07-16"

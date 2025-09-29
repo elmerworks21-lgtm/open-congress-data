@@ -6,7 +6,6 @@ name = "SBN-00863"
 [meta]
 bill_number = 863
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-863", "https://web.senate.gov.ph/lisdata/2440620967!.pdf",]
 title = "AIR PASSENGER BILL OF RIGHTS ACT"
 date_filed = "2016-07-21"
 long_title = "AN ACT PROVIDING FOR A BILL OF RIGHTS FOR AIR PASSENGERS, PENALIZING VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Airline Passengers Bill of Rights", "Bill of Rights",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2440620967!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-863"
 
 [[history]]
 date = "2016-07-21"

@@ -6,7 +6,6 @@ name = "SBN-02642"
 [meta]
 bill_number = 2642
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2642", "https://web.senate.gov.ph/lisdata/71625801!.pdf",]
 title = "CYBER SAFETY FOR KIDS ACT OF 2007"
 date_filed = "2007-06-04"
 long_title = "AN ACT TO PROVIDE STRONGER PROTECTIONS TO PARENTS REGARDING THEIR CHILDREN’S ACCESS TO SEXUALLY EXPLICIT MATERIAL OVER THE INTERNET"
@@ -15,6 +14,8 @@ subjects = [ "Computer Pornography (Internet Websites)", "Children and Youth (Cy
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71625801!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2642"
 
 [[history]]
 date = "2007-06-04"

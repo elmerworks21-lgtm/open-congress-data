@@ -6,7 +6,6 @@ name = "SBN-01861"
 [meta]
 bill_number = 1861
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1861", "https://web.senate.gov.ph/lisdata/4071237107!.pdf",]
 title = "DIALYSIS CENTER ACT"
 date_filed = "2023-02-09"
 long_title = "AN ACT REQUIRING ALL NATIONAL, REGIONAL, AND PROVINCIAL GOVERNMENT HOSPITALS TO ESTABLISH, OPERATE AND MAINTAIN A DIALYSIS WARD OR UNIT IN THEIR RESPECTIVE HOSPITAL AND PROVIDING FREE DIALYSIS TREATMENT TO INDIGENT PATIENTS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Dialysis Center", "Hospitals (Government Hospitals)", "Indigent Persons",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4071237107!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1861"
 
 [[history]]
 date = "2023-02-09"

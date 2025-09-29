@@ -6,7 +6,6 @@ name = "SBN-01866"
 [meta]
 bill_number = 1866
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1866", "https://web.senate.gov.ph/lisdata/2809824401!.pdf",]
 title = "PLASTIC STRAW AND STIRRER BAN OF 2018"
 date_filed = "2018-07-05"
 long_title = "AN ACT PROHIBITING THE USE OF PLASTIC STRAWS AND STIRRERS IN RESTAURANTS AND OTHER ESTABLISHMENTS, AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Plastic Straws", "Stirrers",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2809824401!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1866"
 
 [[history]]
 date = "2018-07-05"

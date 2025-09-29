@@ -6,7 +6,6 @@ name = "SBN-02118"
 [meta]
 bill_number = 2118
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2118", "https://web.senate.gov.ph/lisdata/4149737784!.pdf",]
 title = "AMENDING P.D. NO. 1467, (CREATING THE PHILIPPINE CROP INSURANCE CORPORATION), AS AMENDED"
 date_filed = "2023-05-03"
 long_title = "AN ACT EXPANDING THE SERVICES OF THE PHILIPPINE CROP INSURANCE CORPORATION AND ENCOURAGING PRIVATE SECTOR PARTICIPATION IN AGRICULTURAL INSURANCE. FURTHER AMENDING SECTION 1 AND SECTION 3.11 OF PRESIDENTIAL DECREE NO. 1467. CREATING THE PHILIPPINE CROP INSURANCE CORPORATION, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Crop Insurance Corporation",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4149737784!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2118"
 
 [[history]]
 date = "2023-05-03"

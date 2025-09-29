@@ -6,7 +6,6 @@ name = "SBN-00351"
 [meta]
 bill_number = 351
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-351", "https://web.senate.gov.ph/lisdata/45133861!.pdf",]
 title = "FIFTEEN-KILOMETER RADIUS MUNICIPAL SEA WATER"
 date_filed = "2007-07-02"
 long_title = "AN ACT MAKING MUNICIPAL SEA WATER WITHIN THE FIFTEEN-KILOMETER RADIUS JURISDICTION PART OF THE INTERNAL REVENUE ALLOTMENT COMPUTATION FOR MUNICIPALITIES"
@@ -15,6 +14,8 @@ subjects = [ "Municipal Sea Water",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45133861!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-351"
 
 [[history]]
 date = "2007-07-02"

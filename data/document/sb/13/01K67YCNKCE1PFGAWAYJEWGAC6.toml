@@ -6,7 +6,6 @@ name = "SBN-00417"
 [meta]
 bill_number = 417
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-417", "https://web.senate.gov.ph/lisdata/1574875!.pdf",]
 title = "ANTI-ELECTRICITY AND ELECTRIC TRANSMISSION LINES PILFERAGE"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED SEVENTY-EIGHT THIRTY-TWO, AS AMENDED, OTHERWISE KNOWN AS THE ANTI-ELECTRICITY AND ELECTRIC TRANSMISSION LINES/ MATERIALS PILFERAGE ACT OF 1994"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Electricity/Electric Transmission", "Electric Power Transmiss
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1574875!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-417"
 
 [[history]]
 date = "2004-06-30"

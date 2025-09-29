@@ -6,7 +6,6 @@ name = "SBN-01803"
 [meta]
 bill_number = 1803
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1803", "https://web.senate.gov.ph/lisdata/30262198!.pdf",]
 title = "PROVINCIAL GOVERNOR' POWER TO SOLEMNIZE MARRIAGE"
 date_filed = "2004-09-23"
 long_title = "AN ACT AMENDING EXECUTIVE ORDER NO. 209, OTHERWISE KNOWN AS THE FAMILY CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Family Code (Eo 209, Amendments)", "Marriage (Provincial Governor,
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/30262198!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1803"
 
 [[history]]
 date = "2004-09-23"

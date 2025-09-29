@@ -6,7 +6,6 @@ name = "SBN-00688"
 [meta]
 bill_number = 688
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-688", "https://web.senate.gov.ph/lisdata/49104285!.pdf",]
 title = "ADMINISTRATIVE TOTAL DISABILITY PENSION (VETERANS)"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING FOR THE PAYMENT OF THE ADMINISTRATIVE TOTAL DISABILITY PENSION TO SENIOR VETERANS OF WARS AND MILITARY CAMPAIGNS"
@@ -15,6 +14,8 @@ subjects = [ "Veterans Disability Pension Benefits",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49104285!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-688"
 
 [[history]]
 date = "2007-07-03"

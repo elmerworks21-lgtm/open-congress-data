@@ -6,7 +6,6 @@ name = "SBN-03384"
 [meta]
 bill_number = 3384
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3384", "https://web.senate.gov.ph/lisdata/1205410609!.pdf",]
 title = "ELECTIVE OFFICIAL IPSO FACTO"
 date_filed = "2009-08-11"
 long_title = "AN ACT DECLARING AN ELECTIVE OFFICIAL IPSO FACTO RESIGNED FROM HIS ELECTIVE OFFICE UPON THE FILING OF A CERTIFICATE OF CANDIDACY"
@@ -15,6 +14,8 @@ subjects = [ "Elective Official", "Resignation",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1205410609!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3384"
 
 [[history]]
 date = "2009-08-11"

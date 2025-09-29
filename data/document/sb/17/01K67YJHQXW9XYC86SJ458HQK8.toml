@@ -6,7 +6,6 @@ name = "SBN-00861"
 [meta]
 bill_number = 861
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-861", "https://web.senate.gov.ph/lisdata/2440420965!.pdf",]
 title = "FOREST LANDS LIMITS ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT PROVIDING FOR THE DELINEATION OF THE SPECIFIC FOREST LIMITS OF THE PUBLIC DOMAIN AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forest Land", "Forest Limits",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2440420965!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-861"
 
 [[history]]
 date = "2016-07-21"

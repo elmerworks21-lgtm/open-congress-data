@@ -6,7 +6,6 @@ name = "SBN-00416"
 [meta]
 bill_number = 416
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-416", "https://web.senate.gov.ph/lisdata/1573874!.pdf",]
 title = "PROHIBITING OPERATION OF NUCLEAR POWER PLANT FACILITIES"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROHIBITING THE ESTABLISHMENT AND OPERATION OF NUCLEAR POWER PLANT FACILITIES IN THE COUNTRY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nuclear Power Plant Facilities",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1573874!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-416"
 
 [[history]]
 date = "2004-06-30"

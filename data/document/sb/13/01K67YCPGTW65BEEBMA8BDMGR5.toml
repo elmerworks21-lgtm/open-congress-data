@@ -6,7 +6,6 @@ name = "SBN-01994"
 [meta]
 bill_number = 1994
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1994", "https://web.senate.gov.ph/lisdata/34202651!.pdf",]
 title = "SOCIAL SECURITY SYSTEM (SSS)"
 date_filed = "2005-05-04"
 long_title = "AN ACT TO STRENGTHEN THE SOCIAL SECURITY SYSTEM THEREBY AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 1161, AS AMENDED, OTHERWISE KNOWN AS THE SOCIAL SECURITY LAW"
@@ -15,6 +14,8 @@ subjects = [ "Social Security System (SSS)",]
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34202651!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1994"
 
 [[history]]
 date = "2005-05-04"

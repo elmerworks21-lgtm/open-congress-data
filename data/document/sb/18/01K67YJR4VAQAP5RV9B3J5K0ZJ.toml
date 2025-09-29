@@ -6,7 +6,6 @@ name = "SBN-02351"
 [meta]
 bill_number = 2351
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2351", "https://web.senate.gov.ph/lisdata/3596132400!.pdf",]
 title = "HEALTHCARE FRONTLINERS PROTECTION ACT"
 date_filed = "2021-08-23"
 long_title = "AN ACT INSTITUTIONALIZING THE GRANT OF BENEFITS AND COMPENSATION TO PUBLIC AND PRIVATE HEALTH WORKERS IN THE EVENT OF A PUBLIC HEALTH EMERGENCY, AS DECLARED BY THE PRESIDENT OF THE PHILIPPINES, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Healthcare Workers", "Medical Frontliners",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3596132400!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2351"
 
 [[history]]
 date = "2021-08-23"

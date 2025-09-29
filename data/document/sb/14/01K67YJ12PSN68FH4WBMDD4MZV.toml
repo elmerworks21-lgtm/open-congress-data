@@ -6,7 +6,6 @@ name = "SBN-00516"
 [meta]
 bill_number = 516
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-516", "https://web.senate.gov.ph/lisdata/47254046!.pdf",]
 title = "MAGNA CARTA OF AGRICULTURAL DEVELOPMENT WORKERS"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF AGRICULTURAL DEVELOPMENT WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Agricultural Development Workers",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47254046!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-516"
 
 [[history]]
 date = "2007-07-02"

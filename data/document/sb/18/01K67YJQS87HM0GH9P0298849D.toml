@@ -6,7 +6,6 @@ name = "SBN-01966"
 [meta]
 bill_number = 1966
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1966", "https://web.senate.gov.ph/lisdata/3423931040!.pdf",]
 title = "SUSPENSION OF THE INCREASE IN THE PHILHEALTH RATE CONTRIBUTION ACT"
 date_filed = "2021-01-04"
 long_title = "AN ACT TO SUSPEND THE INCREASE IN PREMIUM RATE CONTRIBUTIONS OF THE PHILIPPINE HEALTH INSURANCE CORPORATION (PHILHEALTH) FOR THE YEAR 2021, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Health Insurance Corporation (Philhealth", "Phic)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3423931040!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1966"
 
 [[history]]
 date = "2021-01-04"

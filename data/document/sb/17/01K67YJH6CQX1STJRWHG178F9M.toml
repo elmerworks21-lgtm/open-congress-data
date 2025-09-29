@@ -6,7 +6,6 @@ name = "SBN-00090"
 [meta]
 bill_number = 90
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-90", "https://web.senate.gov.ph/lisdata/2350320106!.pdf",]
 title = "SALARY STANDARDIZATION LAW IV"
 date_filed = "2016-06-30"
 long_title = "AN ACT ADOPTING AN OMNIBUS COMPENSATION AND POSITION CLASSIFICATION OF CIVILIAN PERSONNEL AND THE BASE PAY SCHEDULE OF MILITARY AND UNIFORMED PERSONNEL IN THE GOVERNMENT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Salary Standardization", "Government Employees", "Compensation and
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2350320106!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-90"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00280"
 [meta]
 bill_number = 280
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-280", "https://web.senate.gov.ph/lisdata/43803783!.pdf",]
 title = "PHILIPPINE NORMAL UNIVERSITY (PNU) MODERNIZATION ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT ELEVATING THE PHILIPPINE NORMAL UNIVERSITY TO BECOME THE COUNTRY’S NATIONAL UNIVERSITY FOR TEACHER EDUCATION; ESTABLISHING A SYSTEM OF NATIONAL TEACHER TRAINING AND DEVELOPMENT; APPROPRIATING FUNDS THEREFOR; AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Normal University (PNU) Modernization", "Teacher Profes
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43803783!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-280"
 
 [[history]]
 date = "2007-06-30"

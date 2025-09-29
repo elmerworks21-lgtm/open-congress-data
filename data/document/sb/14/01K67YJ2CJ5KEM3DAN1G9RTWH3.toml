@@ -6,7 +6,6 @@ name = "SBN-02176"
 [meta]
 bill_number = 2176
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2176", "https://web.senate.gov.ph/lisdata/71326366!.pdf",]
 title = "CONSUMER PROTECTION AGAINST COMPUTER GRAYWARE ACT OF 2008"
 date_filed = "2008-04-17"
 long_title = "AN ACT PROTECTING CONSUMERS FROM COMPUTER GRAYWARE"
@@ -15,6 +14,8 @@ subjects = [ "Computer Grayware", "Consumers Rights Protection",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71326366!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2176"
 
 [[history]]
 date = "2008-04-17"

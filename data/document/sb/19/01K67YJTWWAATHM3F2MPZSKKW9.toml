@@ -6,7 +6,6 @@ name = "SBN-00040"
 [meta]
 bill_number = 40
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-40", "https://web.senate.gov.ph/lisdata/3774134183!.pdf",]
 title = "ANTI-GAME FIXING ACT OF 2022"
 date_filed = "2022-07-06"
 long_title = "AN ACT REDEFINING THE CRIME OF GAME-FIXING AND PRESCRIBING HIGHER PENALTIES THEREFOR, AMENDING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 483"
@@ -15,6 +14,8 @@ subjects = [ "Game-Fixing",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3774134183!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-40"
 
 [[history]]
 date = "2022-07-06"

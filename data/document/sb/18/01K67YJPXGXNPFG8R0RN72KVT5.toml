@@ -6,7 +6,6 @@ name = "SBN-00785"
 [meta]
 bill_number = 785
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-785", "https://web.senate.gov.ph/lisdata/3113928038!.pdf",]
 title = "THE ANTI-PROSTITUTION ACT OF 2019"
 date_filed = "2019-07-25"
 long_title = "AN ACT ADDRESSING THE SYSTEM OF PROSTITUTION, IMPOSING PENALTIES ON ITS PERPETRATORS, PROVIDING PROTECTIVE MEASURES AND SUPPORT SERVICES FOR ITS VICTIMS, AND DECRIMINALIZING VAGRANCY, REPEALING FOR THE PURPOSE ARTICLES 202 AND 341 OF THE REVISED PENAL CODE AND AMENDING R.A. 9208, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Prostitution", "Vagrancy", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3113928038!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-785"
 
 [[history]]
 date = "2019-07-25"

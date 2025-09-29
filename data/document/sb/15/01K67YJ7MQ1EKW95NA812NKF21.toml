@@ -6,7 +6,6 @@ name = "SBN-00655"
 [meta]
 bill_number = 655
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-655", "https://web.senate.gov.ph/lisdata/81586628!.pdf",]
 title = "DECLARING UNIVERSITY BELT AREA AS DRUG-FREE ZONE"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO DECLARE THE UNIVERSITY BELT AREA IN MANILA AND ALL OTHER SCHOOL SITES OR CAMPUSES IN THE COUNTRY WHETHER PUBLIC OR PRIVATE AS DRUG-FREE AND CHILD PROTECTION ZONES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "School Sites", "School Campus",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81586628!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-655"
 
 [[history]]
 date = "2010-07-07"

@@ -6,7 +6,6 @@ name = "SBN-01073"
 [meta]
 bill_number = 1073
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1073", "https://web.senate.gov.ph/lisdata/22811440!.pdf",]
 title = "MILITARY DEPENDENT'S BENEFITS ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR BENEFITS TO MILITARY DEPENDENTS, CREATING THE MILITARY DEPENDENTS WELFARE OFFICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Military Dependent`S Benefits Act", "AFP Military Personnel",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/22811440!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1073"
 
 [[history]]
 date = "2004-06-30"

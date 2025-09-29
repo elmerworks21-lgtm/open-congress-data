@@ -6,7 +6,6 @@ name = "SBN-00927"
 [meta]
 bill_number = 927
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-927", "https://web.senate.gov.ph/lisdata/21291636!.pdf",]
 title = "GREENING ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE URBAN AND COUNTRYSIDE GREENING IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Tree Planting (Greening Act of 2004)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21291636!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-927"
 
 [[history]]
 date = "2004-06-30"

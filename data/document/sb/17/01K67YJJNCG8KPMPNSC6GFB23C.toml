@@ -6,7 +6,6 @@ name = "SBN-02010"
 [meta]
 bill_number = 2010
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2010", "https://web.senate.gov.ph/lisdata/2865025101!.pdf",]
 title = "MAGNA CARTA OF THE POOR"
 date_filed = "2018-09-18"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA OF THE POOR"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of the Poor", "Poverty Alleviation",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2865025101!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2010"
 
 [[history]]
 date = "2018-09-18"

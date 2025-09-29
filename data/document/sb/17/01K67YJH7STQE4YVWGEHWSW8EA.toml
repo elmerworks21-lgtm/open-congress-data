@@ -6,7 +6,6 @@ name = "SBN-00147"
 [meta]
 bill_number = 147
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-147", "https://web.senate.gov.ph/lisdata/2404020189!.pdf",]
 title = "AMENDING NIRC, ADJUSTING THE INCOME BRACKETS ON INDIVIDUAL INCOME TAX"
 date_filed = "2016-06-30"
 long_title = "AN ACT ADJUSTING THE INCOME BRACKETS AND RATES OF TAX IMPOSED ON TAXABLE INCOME OF INDIVIDUALS, AMENDING FOR THIS PURPOSE SECTION 24 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Individual Income Tax)", "National Internal Revenue Code (N
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2404020189!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-147"
 
 [[history]]
 date = "2016-06-30"

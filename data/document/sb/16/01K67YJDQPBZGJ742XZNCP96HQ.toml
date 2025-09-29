@@ -6,7 +6,6 @@ name = "SBN-02232"
 [meta]
 bill_number = 2232
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2232", "https://web.senate.gov.ph/lisdata/1912716251!.pdf",]
 title = "FREE METRO MANILA WIFI ACT OF 2014"
 date_filed = "2014-05-19"
 long_title = "AN ACT PROVIDING FREE PUBLIC WIRELESS INTERNET ACCESS IN PUBLIC BUILDINGS, PARKS AND NATIONAL ROADS IN THE NATIONAL CAPITAL REGION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internet Service Providers",]
 authors_raw = "Recto, Ralph G., Villar, Cynthia A."
 author_codes = ["RRALP", "VCYNT"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1912716251!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2232"
 
 [[history]]
 date = "2014-05-19"

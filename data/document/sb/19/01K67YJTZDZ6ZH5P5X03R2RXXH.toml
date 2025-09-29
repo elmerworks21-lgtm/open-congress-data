@@ -6,7 +6,6 @@ name = "SBN-00153"
 [meta]
 bill_number = 153
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-153", "https://web.senate.gov.ph/lisdata/3786134302!.pdf",]
 title = "SIM CARD REGISTRATION ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT TO ERADICATE SIM CARD-AIDED TERRORISM AND CRIMINAL ACTIVITES, MANDATING FOR THIS PURPOSE OWNERSHIP REGISTRATION OF ALL SIM CARDS FOR ELECTRONIC COMMUNICATION DEVICES"
@@ -15,6 +14,8 @@ subjects = [ "Sim Card Registration",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3786134302!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-153"
 
 [[history]]
 date = "2022-07-07"

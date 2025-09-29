@@ -6,7 +6,6 @@ name = "SBN-00399"
 [meta]
 bill_number = 399
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-399", "https://web.senate.gov.ph/lisdata/4689142897!.pdf",]
 title = "THE PHILIPPINE NURSING PRACTICE ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE NURSING LAW TOWARDS A QUALITY HEALTH CARE SYSTEM, AND APPROPRIATING FUNDS THEREFOR, REPEALING REPUBLIC ACT NO. 9173 OTHERWISE KNOWN AS THE PHILIPPINE NURSING ACT OF 2002"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Nursing Act", "Health Care Delivery System",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4689142897!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-399"
 
 [[history]]
 date = "2025-07-10"

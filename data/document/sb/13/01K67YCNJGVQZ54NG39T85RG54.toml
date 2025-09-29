@@ -6,7 +6,6 @@ name = "SBN-00369"
 [meta]
 bill_number = 369
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-369", "https://web.senate.gov.ph/lisdata/1526824!.pdf",]
 title = "ISSUANCE OF CHECKS WITHOUT SUFFICIENT FUNDS - MAXIMUM FINE"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING SECTION 1 OF BATAS PAMBANSA BILANG TWENTY-TWO (22), OTHERWISE KNOWN AS THE ANTI-BOUNCING CHECK LAW, REMOVING THE MAXIMUM FINE IMPOSABLE AGAINST THE ISSUANCE OF CHECKS WITHOUT SUFFICIENT FUNDS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Bouncing Check Law (Pd 22)", "Bouncing Checks (Insufficient F
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1526824!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-369"
 
 [[history]]
 date = "2004-06-30"

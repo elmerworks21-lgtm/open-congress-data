@@ -6,7 +6,6 @@ name = "SBN-00679"
 [meta]
 bill_number = 679
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-679", "https://web.senate.gov.ph/lisdata/2417020807!.pdf",]
 title = "MAGNA CARTA FOR SCIENTISTS, ENGINEERS, RESEARCHERS AND OTHER S & T PERSONNEL IN THE PHILIPPINES"
 date_filed = "2016-07-20"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8439, OTHERWISE KNOWN AS THE 'MAGNA CARTA FOR SCIENTISTS, ENGINEERS, RESEARCHERS AND OTHER S & T PERSONNEL IN THE GOVERNMENT'"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Scientists, Engineers, Researchers and Other Scien
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2417020807!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-679"
 
 [[history]]
 date = "2016-07-20"

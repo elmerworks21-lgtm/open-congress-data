@@ -6,7 +6,6 @@ name = "SBN-02672"
 [meta]
 bill_number = 2672
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2672", "https://web.senate.gov.ph/lisdata/71925771!.pdf",]
 title = "ANTI-STUDENT EXTORTION ACT OF 2007"
 date_filed = "2007-06-06"
 long_title = "AN ACT PENALIZING REFUSAL TO ENROLL STUDENTS, RELEASE CARDS AND OTHER DOCUMENTS FOR CLEARANCE PURPOSES, IN PUBLIC SCHOOLS FOR FAILURE TO PAY MISCELLANEOUS AND OTHER FEES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Student Extortion",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71925771!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2672"
 
 [[history]]
 date = "2007-06-06"

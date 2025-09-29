@@ -6,7 +6,6 @@ name = "SBN-00338"
 [meta]
 bill_number = 338
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-338", "https://web.senate.gov.ph/lisdata/1621513443!.pdf",]
 title = "CHILD SUPPORT"
 date_filed = "2013-07-03"
 long_title = "AN ACT PUNISHING THE WILLFUL FAILURE TO PAY CHILD SUPPORT"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Child Support", "Child Abuse, Exploitation and Discrimination Act (R.A.No. 7610)",]
 authors_raw = "Legarda, Loren B., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "LLORE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1621513443!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-338"
 
 [[history]]
 date = "2013-07-03"

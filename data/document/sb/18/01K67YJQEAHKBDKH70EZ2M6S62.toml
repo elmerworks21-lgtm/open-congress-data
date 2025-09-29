@@ -6,7 +6,6 @@ name = "SBN-01512"
 [meta]
 bill_number = 1512
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1512", "https://web.senate.gov.ph/lisdata/3270929572!.pdf",]
 title = "PHILIPPINE E-HEALTH SYSTEMS AND SERVICES ACT OF 2020"
 date_filed = "2020-05-04"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE E-HEALTH SYSTEM IN THE DELIVERY OF HEALTH SERVICES WITH THE USE OF INFORMATION AND COMMUNICATIONS TECHNOLOGY IN THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "E-Health (Electronic Health)", "Health Care Delivery System",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3270929572!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1512"
 
 [[history]]
 date = "2020-05-04"

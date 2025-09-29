@@ -6,7 +6,6 @@ name = "SBN-02216"
 [meta]
 bill_number = 2216
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2216", "https://web.senate.gov.ph/lisdata/2981126537!.pdf",]
 title = "DEPARTMENT OF WATER, IRRIGATION, SEWAGE, AND SANITATION RESOURCE MANAGEMENT ACT"
 date_filed = "2019-03-18"
 long_title = "AN ACT CREATING THE DEPARTMENT OF WATER, IRRIGATION, SEWAGE AND SANITATION RESOURCE MANAGEMENT, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Water Resources Management", "Irrigation", "Sanitation",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2981126537!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2216"
 
 [[history]]
 date = "2019-03-18"

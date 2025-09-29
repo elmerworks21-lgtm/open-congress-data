@@ -6,7 +6,6 @@ name = "SBN-02099"
 [meta]
 bill_number = 2099
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2099", "https://web.senate.gov.ph/lisdata/96498222!.pdf",]
 title = "FOSTER CARE ACT"
 date_filed = "2010-07-27"
 long_title = "AN ACT INSTITUTIONALIZING AND STRENGTHENING FOSTER CARE FOR QUALIFIED CHILDREN, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Foster Care",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/96498222!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2099"
 
 [[history]]
 date = "2010-07-27"

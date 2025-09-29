@@ -6,7 +6,6 @@ name = "SBN-01067"
 [meta]
 bill_number = 1067
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1067", "https://web.senate.gov.ph/lisdata/1710514320!.pdf",]
 title = "GOVERNMENT EMPLOYEES OFFICIAL TRAVEL ACCOUNTABILITY ACT OF 2013"
 date_filed = "2013-07-23"
 long_title = "AN ACT REGULATING OFFICIAL LOCAL AND FOREIGN TRAVELS OF GOVERNMENT OFFICIALS AND EMPLOYEES TO ENSURE TRANSPARENCY AND ACCOUNTABILITY IN THE USE OF FUNDS REQUESTED FOR THE PURPOSE, DEFINING PENALTIES FOR NONCOMPLIANCE WITH DISCLOSURE, ACCOUNTING, LIQUIDATION AND REPORTING REQUIREMENTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Foreign Travel", "Government Employees",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1710514320!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1067"
 
 [[history]]
 date = "2013-07-23"

@@ -6,7 +6,6 @@ name = "SBN-00463"
 [meta]
 bill_number = 463
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-463", "https://web.senate.gov.ph/lisdata/2390020527!.pdf",]
 title = "FEASIBILITY STUDY OF RELOCATING THE NATIONAL CAPITAL AND SEAT OF GOVERNMENT"
 date_filed = "2016-07-19"
 long_title = "AN ACT CONSTITUTING A COMMISSION FOR THE PURPOSE OF STUDYING THE FEASIBILITY AND DESIRABILITY OF RELOCATING THE NATIONAL CAPITAL AND SEAT OF GOVERNMENT OF THE PHILIPPINES AND FOR OTHER RELEVANT PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Seat of Government", "National Capital Commission for Capital Relo
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2390020527!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-463"
 
 [[history]]
 date = "2016-07-19"

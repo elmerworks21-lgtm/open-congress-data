@@ -6,7 +6,6 @@ name = "SBN-01929"
 [meta]
 bill_number = 1929
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1929", "https://web.senate.gov.ph/lisdata/4090437267!.pdf",]
 title = "CANCER MEDICINE AND TREATMENT FUND FOR FILIPINOS"
 date_filed = "2023-02-27"
 long_title = "AN ACT ESTABLISHING A CANCER MEDICINE AND TREATMENT ASSISTANCE FUND FOR INDIGENT AND UNDERPRIVLEGED FILIPINOS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Cancer/Cancer Care Centers", "Indigent Persons", "Underprivileged Persons",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4090437267!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1929"
 
 [[history]]
 date = "2023-02-27"

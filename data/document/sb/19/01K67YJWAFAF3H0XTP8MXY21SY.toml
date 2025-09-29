@@ -6,7 +6,6 @@ name = "SBN-02039"
 [meta]
 bill_number = 2039
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2039", "https://web.senate.gov.ph/lisdata/4133537665!.pdf",]
 title = "ANTI-MONEY MULE AND FINANCIAL FRAUD ACT OF 2023"
 date_filed = "2023-03-22"
 long_title = "AN ACT PROHIBITING MONEY MULES AND OTHER FRAUDULENT ACTS INVOLVING BANK ACCOUNTS, E-WALLETS, AND OTHER FINANCIAL ACCOUNTS, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Money Mules", "Fraudulent Activities",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO", "ZJMIG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4133537665!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2039"
 
 [[history]]
 date = "2023-03-22"

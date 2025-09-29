@@ -6,7 +6,6 @@ name = "SBN-00825"
 [meta]
 bill_number = 825
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-825", "https://web.senate.gov.ph/lisdata/3120228101!.pdf",]
 title = "STRENGTHENING THE OFFICE OF THE SOLICITOR GENERAL"
 date_filed = "2019-07-30"
 long_title = "AN ACT TO FURTHER STRENGTHEN THE OFFICE OF THE SOLICITOR GENERAL, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9417 AND EXECUTIVE ORDER NO. 292, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Office of the Solicitor General",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3120228101!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-825"
 
 [[history]]
 date = "2019-07-30"

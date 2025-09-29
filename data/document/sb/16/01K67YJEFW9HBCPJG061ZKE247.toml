@@ -6,7 +6,6 @@ name = "SBN-03041"
 [meta]
 bill_number = 3041
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3041", "https://web.senate.gov.ph/lisdata/2274819438!.pdf",]
 title = "E-VEHICLE TAX INCENTIVE ACT"
 date_filed = "2015-12-16"
 long_title = "AN ACT ESTABLISHING A SYSTEM OF TAX INCENTIVES FOR INDIVIDUALS AND CORPORATIONS THAT ENGAGE IN THE RESEARCH, DEVELOPMENT AND PRODUCTION OF ELECTRONIC PUBLIC TRANSPORT VEHICLES"
@@ -15,6 +14,8 @@ subjects = [ "E-Vehicle (Electronic Vehicles)", "Tax Incentives",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2274819438!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3041"
 
 [[history]]
 date = "2015-12-16"

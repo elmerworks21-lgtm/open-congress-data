@@ -6,7 +6,6 @@ name = "SBN-00759"
 [meta]
 bill_number = 759
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-759", "https://web.senate.gov.ph/lisdata/4729743296!.pdf",]
 title = "ENHANCED GO NEGOSYO ACT OF 2025"
 date_filed = "2025-07-29"
 long_title = "AN ACT TO MODERNIZE THE NATIONAL BUSINESS DEVELOPMENT SERVICES ECOSYSTEM BY AMENDING REPUBLIC ACT. NO. 10644, OTHERWISE KNOWN AS THE GO NEGOSYO ACT"
@@ -15,6 +14,8 @@ subjects = [ "Go Negosyo",]
 authors_raw = "Aquino, Bam"
 author_codes = ["BAQUI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4729743296!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-759"
 
 [[history]]
 date = "2025-07-29"

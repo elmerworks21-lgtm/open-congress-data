@@ -6,7 +6,6 @@ name = "SBN-02164"
 [meta]
 bill_number = 2164
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2164", "https://web.senate.gov.ph/lisdata/42173503!.pdf",]
 title = "PUBLIC ASSEMBLY CODE OF 2005"
 date_filed = "2005-11-16"
 long_title = "AN ACT ENSURING THE FREE EXERCISE BY THE PEOPLE OF THEIR RIGHT PEACEABLY TO ASSEMBLE AND PETITION THE GOVERNMENT"
@@ -15,6 +14,8 @@ subjects = [ "Public Assembly Code",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42173503!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2164"
 
 [[history]]
 date = "2005-11-16"

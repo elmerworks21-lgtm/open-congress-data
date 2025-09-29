@@ -6,7 +6,6 @@ name = "SBN-01030"
 [meta]
 bill_number = 1030
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1030", "https://web.senate.gov.ph/lisdata/53014681!.pdf",]
 title = "MANDATORY PERIODS FOR THE RESOLUTION OF LABOR CASES"
 date_filed = "2007-07-04"
 long_title = "AN ACT STRENGTHENING THE PROVISION ON THE MANDATORY PERIODS FOR THE RESOLUTION OF LABOR CASES BY IMPOSING CERTAIN PENALTIES AGAINST LABOR OFFICIALS FOR THEIR NON-COMPLIANCE THEREWITH, AMENDING FOR THIS PURPOSE ARTICLE 277 OF THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Cases",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53014681!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1030"
 
 [[history]]
 date = "2007-07-04"

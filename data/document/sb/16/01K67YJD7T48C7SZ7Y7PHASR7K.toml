@@ -6,7 +6,6 @@ name = "SBN-01485"
 [meta]
 bill_number = 1485
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1485", "https://web.senate.gov.ph/lisdata/1758314817!.pdf",]
 title = "FILIPINO PROFESSIONAL ATHLETES RETIREMENT INCENTIVE AND HEALTH CARE BENEFITS ACT OF 2013"
 date_filed = "2013-09-03"
 long_title = "AN ACT GRANTING RETIREMENT INCENTIVE AND HEALTH CARE BENEFITS TO PROFESSIONAL FILIPINO ATHLETES WHO HAVE WON TITLES OR WORLD CHAMPIONSHIPS AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Athletes", "Retirement Benefits",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1758314817!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1485"
 
 [[history]]
 date = "2013-09-03"

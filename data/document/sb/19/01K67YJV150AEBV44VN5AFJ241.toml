@@ -6,7 +6,6 @@ name = "SBN-00231"
 [meta]
 bill_number = 231
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-231", "https://web.senate.gov.ph/lisdata/3794335342!.pdf",]
 title = "AMENDING SECS. 9 & 13 OF R.A. NO. 8178, AS AMENDED (REPLACING QUANTITATIVE IMPORT RESTRICTIONS)"
 date_filed = "2022-07-07"
 long_title = "AN ACT AMENDING SECTIONS 9 AND 13 OF REPUBLIC ACT NO. 8178, AS AMENDED BY REPUBLIC ACT NO. 9496, ENTITLED ‘AN ACT REPLACING QUANTITATIVE IMPORT RESTRICTIONS ON AGRICULTURAL PRODUCTS, EXCEPT RICE, WITH TARIFFS, CREATING THE AGRICULTURAL COMPETITIVENESS ENHANCEMENT FUND, AND FOR OTHER PURPOSES,’ REPUBLIC ACT NO. 11203, ENTITLED ‘AN ACT LIBERALIZING THE IMPORTATION, EXPORTATION AND TRADING OF RICE, LIFTING FOR THE PURPOSE THE QUANTITATIVE IMPORT RESTRICTION ON RICE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Quantitative Import Restrictions", "Agricultural Products", "Agric
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3794335342!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-231"
 
 [[history]]
 date = "2022-07-07"

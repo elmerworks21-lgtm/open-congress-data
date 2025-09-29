@@ -6,7 +6,6 @@ name = "SBN-01042"
 [meta]
 bill_number = 1042
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1042", "https://web.senate.gov.ph/lisdata/2462421205!.pdf",]
 title = "KASAMBAHAY EMPOWERMENT ACT"
 date_filed = "2016-08-18"
 long_title = "AN ACT STRENGTHENING THE RIGHTS OF DOMESTIC WORKERS TO ACCESS TO EDUCATION AND TRAINING, AND OTHER FORMS OF ADVANCEMENT, BY GRANTING EMPLOYERS TAX INCENTIVES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tax Incentives", "Domestic Worker", "Household Helpers",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2462421205!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1042"
 
 [[history]]
 date = "2016-08-18"

@@ -6,7 +6,6 @@ name = "SBN-00921"
 [meta]
 bill_number = 921
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-921", "https://web.senate.gov.ph/lisdata/51804547!.pdf",]
 title = "WOMEN EMPOWERMENT IN ENTERPRISE ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT EMPOWERING WOMEN BY PROVIDING THEM FINANCIAL, EDUCATIONAL AND INFORMATION ASSISTANCE IN ORDER FOR THEM TO EXCEL IN COMMERCE AND TRADE"
@@ -15,6 +14,8 @@ subjects = [ "Women Empowerment in Enterprises",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51804547!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-921"
 
 [[history]]
 date = "2007-07-04"

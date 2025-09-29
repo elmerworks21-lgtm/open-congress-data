@@ -6,7 +6,6 @@ name = "SBN-01677"
 [meta]
 bill_number = 1677
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1677", "https://web.senate.gov.ph/lisdata/4035736771!.pdf",]
 title = "BAYANING ATLETANG FILIPINO ACT"
 date_filed = "2023-01-12"
 long_title = "AN ACT GRANTING DISTINCTIVE HONORS AND PRIVILEGES TO NATIONAL ATHLETES, CREATING A NATIONAL ENDOWMENT FUND FOR SPORTS HEROES, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Athletes", "Endowment Fund", "Bayaning Atletang Filipino",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4035736771!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1677"
 
 [[history]]
 date = "2023-01-12"

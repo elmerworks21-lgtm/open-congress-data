@@ -6,7 +6,6 @@ name = "SBN-00021"
 [meta]
 bill_number = 21
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-21", "https://web.senate.gov.ph/lisdata/2343420019!.pdf",]
 title = "COMPREHENSIVE DANGEROUS DRUGS ACT OF 2002"
 date_filed = "2016-06-30"
 long_title = "AN ACT AUTHORIZING THE WIRETAPPING, INTERCEPTION, SURVEILLANCE AND RECORDING OF COMMUNICATIONS OF PUSHERS, MANUFACTURERS, CULTIVATORS, IMPORTERS AND FINANCIERS OF DANGEROUS DRUGS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9165 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Dangerous Drugs Act of 2002, R.A.No. 9165", "Illegal Drugs", "Wire
 authors_raw = "Honasan II, Gregorio B."
 author_codes = ["HGREG"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2343420019!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-21"
 
 [[history]]
 date = "2016-06-30"

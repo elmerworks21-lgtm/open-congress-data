@@ -6,7 +6,6 @@ name = "SBN-00997"
 [meta]
 bill_number = 997
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-997", "https://web.senate.gov.ph/lisdata/3894435397!.pdf",]
 title = "STRENGTHENING THE WITNESS PROTECTION, SECURITY AND BENEFIT PROGRAM"
 date_filed = "2022-08-03"
 long_title = "AN ACT STRENGTHENING THE WITNESS PROTECTION, SECURITY AND BENEFIT PROGRAM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6981, OTHERWISE KNOWN AS THE ‘WITNESS PROTECTION, SECURITY AND BENEFIT ACT’"
@@ -15,6 +14,8 @@ subjects = [ "Witness Protection",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3894435397!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-997"
 
 [[history]]
 date = "2022-08-03"

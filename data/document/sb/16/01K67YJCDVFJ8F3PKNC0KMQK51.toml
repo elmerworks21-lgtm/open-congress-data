@@ -6,7 +6,6 @@ name = "SBN-00220"
 [meta]
 bill_number = 220
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-220", "https://web.senate.gov.ph/lisdata/1606113297!.pdf",]
 title = "INCREASING PENSIONS UNDER THE SSS"
 date_filed = "2013-07-01"
 long_title = "AN ACT INCREASING PENSIONS UNDER THE SOCIAL SECURITY SYSTEM AMENDING FOR THE PURPOSE SECTION 12 OF REPUBLIC ACT NO. 1161, OTHERWISE KNOWN AS THE SOCIAL SECURITY ACT OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "Pension", "Social Security System (SSS)",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1606113297!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-220"
 
 [[history]]
 date = "2013-07-01"

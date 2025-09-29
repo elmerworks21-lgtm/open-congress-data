@@ -6,7 +6,6 @@ name = "SBN-00298"
 [meta]
 bill_number = 298
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-298", "https://web.senate.gov.ph/lisdata/3805234494!.pdf",]
 title = "SMART PHILIPPINES ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT ESTABLISHING A FRAMEWORK FOR A SMART PHILIPPINES, ENSURING ACCESSIBLE AND AFFORDABLE INTERNET FOR ALL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internet Access", "Smart Philippines Council", "Digital Technology
 authors_raw = "Cayetano, Alan Peter S."
 author_codes = ["CALAN"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3805234494!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-298"
 
 [[history]]
 date = "2022-07-12"

@@ -6,7 +6,6 @@ name = "SBN-00287"
 [meta]
 bill_number = 287
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-287", "https://web.senate.gov.ph/lisdata/2372420369!.pdf",]
 title = "EMERGENCY MANAGEMENT AGENCY ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT ESTABLISHING THE EMERGENCY MANAGEMENT AGENCY (EMA), AMENDING FOR THIS PURPOSE REPUBLIC ACT NUMBERED 10121, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Emergency Management Agency (EMA)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2372420369!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-287"
 
 [[history]]
 date = "2016-07-04"

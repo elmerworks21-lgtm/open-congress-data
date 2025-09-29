@@ -6,7 +6,6 @@ name = "SBN-01600"
 [meta]
 bill_number = 1600
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1600", "https://web.senate.gov.ph/lisdata/1770814943!.pdf",]
 title = "AMENDING SEC. 42, BP 129 (JUDICIARY CONTINUOUS SERVICE REQUIREMENT)"
 date_filed = "2013-09-10"
 long_title = "AN ACT AMENDING SECTION 42 OF BATAS PAMBANSA BILANG 129, AS AMENDED, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1981, EXEMPTING AFFECTED MEMBERS OF THE JUDICIARY AS MAY HEREIN BE QUALIFIED FROM THE CONTINUOUS SERVICE REQUIREMENT"
@@ -15,6 +14,8 @@ subjects = [ "Judiciary Reorganization Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1770814943!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1600"
 
 [[history]]
 date = "2013-09-10"

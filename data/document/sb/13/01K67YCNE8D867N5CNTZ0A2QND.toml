@@ -6,7 +6,6 @@ name = "SBN-00139"
 [meta]
 bill_number = 139
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-139", "https://web.senate.gov.ph/lisdata/12741046!.pdf",]
 title = "CONG'L APPROVAL IN DISPOSITION OF REAL PROPERTIES ABROAD"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING CONGRESSIONAL APPROVAL IN THE DISPOSITION OF REAL PROPERTIES SITUATED ABROAD"
@@ -15,6 +14,8 @@ subjects = [ "Real Properties Abroad (Disposition)", "Congressional Approval (Re
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/12741046!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-139"
 
 [[history]]
 date = "2004-06-30"

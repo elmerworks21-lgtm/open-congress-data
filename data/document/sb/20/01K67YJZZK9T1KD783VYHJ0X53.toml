@@ -6,7 +6,6 @@ name = "SBN-00302"
 [meta]
 bill_number = 302
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-302", "https://web.senate.gov.ph/lisdata/4679142798!.pdf",]
 title = "NATIONAL STUDENT ALLOWANCE PROGRAM ACT OF 2025"
 date_filed = "2025-07-09"
 long_title = "AN ACT ESTABLISHING A NATIONAL STUDENT ALLOWANCE PROGRAM AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "National Student Allowance Program",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4679142798!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-302"
 
 [[history]]
 date = "2025-07-09"

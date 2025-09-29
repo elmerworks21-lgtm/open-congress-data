@@ -6,7 +6,6 @@ name = "SBN-02202"
 [meta]
 bill_number = 2202
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2202", "https://web.senate.gov.ph/lisdata/2955726230!.pdf",]
 title = "BICOL MEDICAL CENTER"
 date_filed = "2019-02-04"
 long_title = "AN ACT INCREASING THE BED CAPACITY OF BICOL MEDICAL CENTER FROM FIVE HUNDRED (500) TO ONE THOUSAND (1000) BEDS, UPGRADING THE SERVICE FACILITIES AND PROFESSIONAL HEALTH CARE THEREIN, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Increase Bed Capacity",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2955726230!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2202"
 
 [[history]]
 date = "2019-02-04"

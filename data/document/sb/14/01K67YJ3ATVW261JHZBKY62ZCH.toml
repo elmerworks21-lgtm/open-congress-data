@@ -6,7 +6,6 @@ name = "SBN-03475"
 [meta]
 bill_number = 3475
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3475", "https://web.senate.gov.ph/lisdata/1269911381!.pdf",]
 title = "DEPENDENT ADULT ABUSE PREVENTION ACT OF 2009"
 date_filed = "2009-10-07"
 long_title = "AN ACT PENALIZING DEPENDENT ADULT ABUSE AND INSTITUTING PROGRAMS AND MECHANISMS FOR ITS PREVENTION"
@@ -15,6 +14,8 @@ subjects = [ "Elders", "Senior Citizens",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1269911381!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3475"
 
 [[history]]
 date = "2009-10-07"

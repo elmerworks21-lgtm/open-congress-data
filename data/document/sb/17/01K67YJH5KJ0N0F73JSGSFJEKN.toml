@@ -6,7 +6,6 @@ name = "SBN-00055"
 [meta]
 bill_number = 55
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-55", "https://web.senate.gov.ph/lisdata/2346820076!.pdf",]
 title = "GRASSROOTS PARTICIPATORY BUDGETING ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT INSTITUTIONALIZING GRASSROOTS PARTICIPATORY BUDGETING IN THE PLANNING AND IDENTIFICATION OF PROGRAMS AND PROJECTS TO BE FUNDED BY THE ANNUAL GENERAL APPROPRIATIONS ACT"
@@ -15,6 +14,8 @@ subjects = [ "Budget", "General Appropriations Act (GAA)", "Civil Society Organi
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2346820076!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-55"
 
 [[history]]
 date = "2016-06-30"

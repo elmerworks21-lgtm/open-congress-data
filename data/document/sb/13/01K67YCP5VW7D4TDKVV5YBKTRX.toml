@@ -6,7 +6,6 @@ name = "SBN-01430"
 [meta]
 bill_number = 1430
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1430", "https://web.senate.gov.ph/lisdata/26452009!.pdf",]
 title = "IMMEDIATE RETURN OF CARNAPPED VEHICLES TO LAWFUL OWNERS"
 date_filed = "2004-07-14"
 long_title = "AN ACT REQUIRING THE IMMEDIATE RETURN OF CARNAPPED VEHICLES TO THE LAWFUL OWNERS THEREOF, AMENDING FOR THE PURPOSE R.A. NO. 6539, OTHERWISE KNOWN AS THE 'ANTI-CARNAPPING ACT OF 1972' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Carnapped Motor Vehicles", "R.A.No. 6539, Amendments",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26452009!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1430"
 
 [[history]]
 date = "2004-07-14"

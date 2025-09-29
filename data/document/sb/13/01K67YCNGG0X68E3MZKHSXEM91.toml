@@ -6,7 +6,6 @@ name = "SBN-00258"
 [meta]
 bill_number = 258
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-258", "https://web.senate.gov.ph/lisdata/1416677!.pdf",]
 title = "BAHAGNAN NG KAUNLARAN SA MGA PAMAYANAN"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROMOTE AGRICULTURAL TECHNOLOGY SHARING AMONG PROVINCES, CITIES AND MUNICIPALITIES THROUGHOUT THE COUNTRY TO ATTAIN THEIR FULLEST DEVELOPMENT AS SELF-RELIANT COMMUNITIES APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Bahagnan Ng Kaunlaran Sa Mga Pamayanan", "Agricultural Technology 
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1416677!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-258"
 
 [[history]]
 date = "2004-06-30"

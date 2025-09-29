@@ -6,7 +6,6 @@ name = "SBN-00357"
 [meta]
 bill_number = 357
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-357", "https://web.senate.gov.ph/lisdata/3064727499!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2019-07-11"
 long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Filipino Seafarers", "Seafarers",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3064727499!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-357"
 
 [[history]]
 date = "2019-07-11"

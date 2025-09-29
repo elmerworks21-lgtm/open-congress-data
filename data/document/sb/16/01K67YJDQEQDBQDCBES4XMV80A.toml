@@ -6,7 +6,6 @@ name = "SBN-02222"
 [meta]
 bill_number = 2222
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2222", "https://web.senate.gov.ph/lisdata/1908416208!.pdf",]
 title = "MAGNA CARTA FOR WORKERS IN THE ENERGY SECTOR OF THE PHILIPPINES"
 date_filed = "2014-05-12"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR WORKERS IN THE ENERGY SECTOR OF THE PHILIPPINES, AUTHORIZING THE COLLECTION AND APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Workers in the Energy Sector",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1908416208!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2222"
 
 [[history]]
 date = "2014-05-12"

@@ -6,7 +6,6 @@ name = "SBN-00388"
 [meta]
 bill_number = 388
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-388", "https://web.senate.gov.ph/lisdata/4688042886!.pdf",]
 title = "PREVENTION OF ADOLESCENT PREGNANCY ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT PROVIDING FOR A NATIONAL POLICY IN PREVENTING ADOLESCENT PREGNANCIES, INSTITUTIONALIZING SOCIAL PROTECTION FOR ADOLESCENT PARENTS, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Adolescent Pregnancies", "Teenage Pregnancy",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4688042886!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-388"
 
 [[history]]
 date = "2025-07-10"

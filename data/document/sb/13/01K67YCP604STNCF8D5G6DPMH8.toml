@@ -6,7 +6,6 @@ name = "SBN-01440"
 [meta]
 bill_number = 1440
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1440", "https://web.senate.gov.ph/lisdata/26552019!.pdf",]
 title = "SCHOOL HEALTH NUTRITION MODERNIZATION ACT"
 date_filed = "2004-07-15"
 long_title = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE SCHOOL HEALTH AND NUTRITION PROGRAM (SHNP) OF THE DEPARTMENT OF EDUCATION, AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "School Health Nutrition Modernization", "Nutrition",]
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26552019!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1440"
 
 [[history]]
 date = "2004-07-15"

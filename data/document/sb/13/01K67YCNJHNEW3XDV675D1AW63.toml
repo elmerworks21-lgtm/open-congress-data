@@ -6,7 +6,6 @@ name = "SBN-00370"
 [meta]
 bill_number = 370
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-370", "https://web.senate.gov.ph/lisdata/1527826!.pdf",]
 title = "RESTORING ORIGINAL PENALTY FOR ESTAFA (BOUNCING CHECKS)"
 date_filed = "2004-06-30"
 long_title = "AN ACT RESTORING THE ORIGINAL PENALTIES IMPOSED FOR ESTAFA COMMITTED THROUGH BOUNCING CHECKS UNDER ARTICLE 315 OF THE REVISED PENAL CODE AND REPEALING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 818"
@@ -15,6 +14,8 @@ subjects = [ "Estafa Thru Bouncing Checks", "Revised Penal Code (Art. 315)/Pd 81
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1527826!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-370"
 
 [[history]]
 date = "2004-06-30"

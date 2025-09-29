@@ -6,7 +6,6 @@ name = "SBN-00812"
 [meta]
 bill_number = 812
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-812", "https://web.senate.gov.ph/lisdata/4737543377!.pdf",]
 title = "NOISE POLLUTION CONTROL AND ABATEMENT ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT REGULATING NOISE POLLUTION BY CREATING THE NOISE POLLUTION CONTROL BOARD (NPCB), PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Noise Pollution Control and Abatement",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4737543377!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-812"
 
 [[history]]
 date = "2025-08-04"

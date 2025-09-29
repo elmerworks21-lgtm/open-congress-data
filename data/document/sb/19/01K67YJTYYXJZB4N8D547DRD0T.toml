@@ -6,7 +6,6 @@ name = "SBN-00132"
 [meta]
 bill_number = 132
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-132", "https://web.senate.gov.ph/lisdata/3784034281!.pdf",]
 title = "TUPAD ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING FOR A WAGE EMPLOYMENT ASSISTANCE PROGRAM FOR DISCPLACED, MARGINALIZED, AND/OR VULNERABLE WORKERS, INSTITUTIONALIZING FOR THIS PURPOSE THE TULONG PANGHANAPBUHAY SA ATING DISADVANTAGED/DISPLACED WORKERS (TUPAD) PROGRAM OF THE DEPARTMENT OF LABOR AND EMPLOYMENT, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tulong Panghanapbuhay Sa Ating Disadvantaged/Displaced Workers (Tu
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3784034281!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-132"
 
 [[history]]
 date = "2022-07-07"

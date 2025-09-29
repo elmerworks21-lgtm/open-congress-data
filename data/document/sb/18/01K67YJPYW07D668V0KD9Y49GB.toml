@@ -6,7 +6,6 @@ name = "SBN-00850"
 [meta]
 bill_number = 850
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-850", "https://web.senate.gov.ph/lisdata/3117828077!.pdf",]
 title = "PHILIPPINE ROAD SAFETY INSTITUTE ACT OF 2019"
 date_filed = "2019-08-01"
 long_title = "AN ACT PROVIDING FOR THE CREATION OF THE PHILIPPINE ROAD SAFETY INSTITUTE UNDER THE UNIVERSITY OF THE PHILIPPINES NATIONAL CENTER FOR TRANSPORT STUDIES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine Road Safety Institute", "University of the Philippines (U.P.)",]
 authors_raw = "De Lima, Leila M., Hontiveros, Risa"
 author_codes = ["DLEIL", "HANAT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3117828077!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-850"
 
 [[history]]
 date = "2019-08-01"

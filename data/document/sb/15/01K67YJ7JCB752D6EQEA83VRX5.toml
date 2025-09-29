@@ -6,7 +6,6 @@ name = "SBN-00537"
 [meta]
 bill_number = 537
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-537", "https://web.senate.gov.ph/lisdata/78936323!.pdf",]
 title = "INDUSTRIAL INCENTIVES ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO PROVIDE FURTHER INCENTIVES TO LABOR AND INDUSTRIAL ENTERPRISES TO THE END THAT BOTH PRODUCTIVITY AND INCOME WILL BE INCREASED"
@@ -15,6 +14,8 @@ subjects = [ "Industrial Incentives",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78936323!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-537"
 
 [[history]]
 date = "2010-07-07"

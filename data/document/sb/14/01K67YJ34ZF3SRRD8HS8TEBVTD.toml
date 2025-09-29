@@ -6,7 +6,6 @@ name = "SBN-03256"
 [meta]
 bill_number = 3256
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3256", "https://web.senate.gov.ph/lisdata/113089975!.pdf",]
 title = "GIRL SCOUTS OF THE PHILIPPINES CHARTER OF 2009"
 date_filed = "2009-05-18"
 long_title = "AN ACT INSTITUTING THE GIRL SCOUTS OF THE PHILIPPINES CHARTER"
@@ -15,6 +14,8 @@ subjects = [ "Girl Scout of the Philippines",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/113089975!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3256"
 
 [[history]]
 date = "2009-05-18"

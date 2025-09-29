@@ -6,7 +6,6 @@ name = "SBN-00425"
 [meta]
 bill_number = 425
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-425", "https://web.senate.gov.ph/lisdata/1581883!.pdf",]
 title = "NATIONAL PUBLIC MARKET CODE OF THE PHILIPPINES"
 date_filed = "2004-06-30"
 long_title = "AN ACT INSTITUTING THE NATIONAL PUBLIC MARKET CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "National Public Market Code",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1581883!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-425"
 
 [[history]]
 date = "2004-06-30"

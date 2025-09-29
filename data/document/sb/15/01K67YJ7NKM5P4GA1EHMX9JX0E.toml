@@ -6,7 +6,6 @@ name = "SBN-00699"
 [meta]
 bill_number = 699
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-699", "https://web.senate.gov.ph/lisdata/82236742!.pdf",]
 title = "SPECIAL AND INDEPENDENT PROSECUTOR ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO STRENGTHEN PUBLIC TRUST AND ACCOUNTABILITY BY ENSURING IMPARTIALITY IN THE INVESTIGATION AND PROSECUTION OF CERTAIN CASES INVOLVING IMPEACHABLE PUBLIC OFFICIALS AND THEIR RELATIVES WITHIN THE 6TH CIVIL DEGREE OF CONSANGUINITY OR AFFINITY, MANDATING FOR THE PURPOSE THE APPOINTMENT OF THE SPECIAL AND INDEPENDENT PROSECUTOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Official", "Public Official",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/82236742!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-699"
 
 [[history]]
 date = "2010-07-07"

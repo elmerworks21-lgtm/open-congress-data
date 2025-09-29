@@ -6,7 +6,6 @@ name = "SBN-02939"
 [meta]
 bill_number = 2939
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2939", "https://web.senate.gov.ph/lisdata/2220118919!.pdf",]
 title = "HONORARIA AND ALLOWANCES FOR PERSONS RENDERING ELECTION SERVICE"
 date_filed = "2015-09-07"
 long_title = "AN ACT PROVIDING HONORARIA AND ALLOWANCES, SERVICE CREDITS, LEGAL ASSISTANCE AND INDEMNIFICATION PACKAGE, AND OTHER BENEFITS FOR PERSONS RENDERING ELECTION SERVICE"
@@ -15,6 +14,8 @@ subjects = [ "Elections", "Electoral Reforms",]
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2220118919!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2939"
 
 [[history]]
 date = "2015-09-07"

@@ -6,7 +6,6 @@ name = "SBN-00445"
 [meta]
 bill_number = 445
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-445", "https://web.senate.gov.ph/lisdata/1602903!.pdf",]
 title = "TAX EXEMPTION FOR EDUCATIONAL EXPENSES/TUITION FEES"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR TAX EXEMPTION FOR EDUCATIONAL EXPENSES OF DEPENDENTS FOR INCOME TAX PURPOSES, AMENDING SECTION 32 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Tax Exemptions: Tuition Fees)", "Tuition Fees/Educational E
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1602903!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-445"
 
 [[history]]
 date = "2004-06-30"

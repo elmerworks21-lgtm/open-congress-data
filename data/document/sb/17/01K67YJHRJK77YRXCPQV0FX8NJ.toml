@@ -6,7 +6,6 @@ name = "SBN-00890"
 [meta]
 bill_number = 890
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-890", "https://web.senate.gov.ph/lisdata/2444621029!.pdf",]
 title = "SINGLE TRAFFIC TICKETING ACT OF 2016"
 date_filed = "2016-07-26"
 long_title = "AN ACT ESTABLISHING A SINGLE TRAFFIC TICKETING SYSTEM"
@@ -15,6 +14,8 @@ subjects = [ "Traffic",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2444621029!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-890"
 
 [[history]]
 date = "2016-07-26"

@@ -6,7 +6,6 @@ name = "SBN-01802"
 [meta]
 bill_number = 1802
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1802", "https://web.senate.gov.ph/lisdata/3343330242!.pdf",]
 title = "SECRECY OF BANK DEPOSITS LAW (AMENDMENTS)"
 date_filed = "2020-09-01"
 long_title = "AN ACT AMENDING REPUBLIC ACT NOS. 1405, OTHERWISE KNOWN AS THE SECRECY OF BANK DEPOSITS LAW"
@@ -15,6 +14,8 @@ subjects = [ "Secrecy of Bank Deposits Law (R.A.No. 1405)", "Bank Deposits/Bank 
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3343330242!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1802"
 
 [[history]]
 date = "2020-09-01"

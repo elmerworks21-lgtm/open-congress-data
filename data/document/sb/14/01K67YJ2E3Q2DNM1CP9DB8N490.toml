@@ -6,7 +6,6 @@ name = "SBN-02242"
 [meta]
 bill_number = 2242
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2242", "https://web.senate.gov.ph/lisdata/72346468!.pdf",]
 title = "PREFERENTIAL EMPLOYMENT TO LOCAL RESIDENTS"
 date_filed = "2008-05-05"
 long_title = "AN ACT REQUIRING INDUSTRIES ENGAGED IN THE EXPLOITATION OF NATURAL RESOURCES TO GIVE PREFERENTIAL EMPLOYMENT TO LOCAL RESIDENTS, AMENDING FOR THE PURPOSE THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code (Pd 442)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72346468!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2242"
 
 [[history]]
 date = "2008-05-05"

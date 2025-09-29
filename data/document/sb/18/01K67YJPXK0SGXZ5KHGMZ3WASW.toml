@@ -6,7 +6,6 @@ name = "SBN-00789"
 [meta]
 bill_number = 789
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-789", "https://web.senate.gov.ph/lisdata/3114328043!.pdf",]
 title = "ARAW NG KASAMBAHAY"
 date_filed = "2019-07-25"
 long_title = "AN ACT DECLARING JANUARY 18 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY FOR ALL KASAMBAHAY IN THE ENTIRE COUNTRY. THE ACT SHALL BE CALLED AS ‘NATIONAL KASAMBAHAY DAY’ OR ‘ARAW NG KASAMBAHAY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3114328043!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-789"
 
 [[history]]
 date = "2019-07-25"

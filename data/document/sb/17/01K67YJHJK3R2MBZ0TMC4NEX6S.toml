@@ -6,7 +6,6 @@ name = "SBN-00611"
 [meta]
 bill_number = 611
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-611", "https://web.senate.gov.ph/lisdata/2409620735!.pdf",]
 title = "BLOOD TYPE IDENTIFICATION ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT REQUIRING ALL GOVERNMENT AGENCIES ISSUING IDENTIFICATION CARDS, CERTIFICATES AND LICENSES TO INDICATE THEREIN THE BLOOD TYPE OF THE HOLDER AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Blood Type", "Identification System",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2409620735!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-611"
 
 [[history]]
 date = "2016-07-19"

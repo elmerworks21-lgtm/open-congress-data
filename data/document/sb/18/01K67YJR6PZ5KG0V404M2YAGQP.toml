@@ -6,7 +6,6 @@ name = "SBN-02371"
 [meta]
 bill_number = 2371
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2371", "https://web.senate.gov.ph/lisdata/3603232470!.pdf",]
 title = "COVID-19 BENEFITS FOR HEALTH WORKERS ACT OF 2021"
 date_filed = "2021-08-31"
 long_title = "AN ACT GRANTING CONTINUING COVID-19 BENEFITS TO PUBLIC AND PRIVATE HEALTH WORKERS DURING THE PERIOD OF THE COVID-19 PANDEMIC, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Healthcare Workers", "Covid-19",]
 authors_raw = "Gordon, Richard J., Angara, Sonny, Marcos, Imee R., Binay, Maria Lourdes Nancy S., Hontiveros, Risa, Villanueva, Joel, Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ASONN", "BMARI", "GRICH", "HANAT", "MIMEE", "VEMMA", "ZJMIG"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3603232470!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2371"
 
 [[history]]
 date = "2021-08-31"

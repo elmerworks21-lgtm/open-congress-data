@@ -6,7 +6,6 @@ name = "SBN-01837"
 [meta]
 bill_number = 1837
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1837", "https://web.senate.gov.ph/lisdata/3355830417!.pdf",]
 title = "MINIMUM WAGE FOR NURSES IN PRIVATE HOSPITAL"
 date_filed = "2020-09-21"
 long_title = "AN ACT DIRECTING THE NATIONAL WAGES PRODUCTIVITY COMMISSION OF THE DEPARTMENT OF LABOR AND EMPLOYMENT TO ESTABLISH A MINIMUM WAGE FOR NURSES IN PRIVATE HOSPITAL"
@@ -15,6 +14,8 @@ subjects = [ "Nurses/Nursing", "Salary", "Hospitals (Private Hospitals)", "Depar
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3355830417!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1837"
 
 [[history]]
 date = "2020-09-21"

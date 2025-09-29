@@ -6,7 +6,6 @@ name = "SBN-01280"
 [meta]
 bill_number = 1280
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1280", "https://web.senate.gov.ph/lisdata/55774883!.pdf",]
 title = "ANTI-DISCRIMINATION IN COLLEGE ADMISSION ACT"
 date_filed = "2007-07-18"
 long_title = "AN ACT TO PROHIBIT DISCRIMINATION AND PREFERENTIAL TREATMENT ON THE BASIS OF SEX, ETHNICITY, PHYSICAL CONDITION, RELIGIOUS BELIEF OR POLITICAL AFFILIATION IN CONNECTION WITH ADMISSION TO AN INSTITUTION OF HIGHER EDUCATION PARTICIPATING IN ANY PROGRAM AUTHORIZED UNDER THE COMMISSION ON HIGHER EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination in College Admission", "Commission on Higher E
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55774883!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1280"
 
 [[history]]
 date = "2007-07-04"

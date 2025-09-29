@@ -6,7 +6,6 @@ name = "SBN-02248"
 [meta]
 bill_number = 2248
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2248", "https://web.senate.gov.ph/lisdata/3515532000!.pdf",]
 title = "NATIONAL HOUSING AUTHORITY ACT OF OF 2021"
 date_filed = "2021-05-31"
 long_title = "AN ACT STRENGTHENING THE NATIONAL HOUSING AUTHORITY, EXTENDING ITS CORPORATE TERM, AND AMENDING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 757, ENTITLED ‘CREATING THE NATIONAL HOUSING AUTHORITY AND DISSOLVING THE EXISTING HOUSING AGENCIES, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Housing Authority (NHA)",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3515532000!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2248"
 
 [[history]]
 date = "2021-05-31"

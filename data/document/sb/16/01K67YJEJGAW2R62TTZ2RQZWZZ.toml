@@ -6,7 +6,6 @@ name = "SBN-03174"
 [meta]
 bill_number = 3174
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3174", "https://web.senate.gov.ph/lisdata/2310319842!.pdf",]
 title = "AMENDING TITLE 1, BOOK 2 OF R.A. NO. 7160, LOCAL GOVERNMENT CODE OF 1991"
 date_filed = "2016-01-28"
 long_title = "AN ACT BROADENING THE SCOPE OF TAXING POWERS OF LOCAL GOVERNMENT UNITS (LGUS), AMENDING TITLE 1, BOOK 2 OF REPUBLIC ACT NO . 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -14,6 +13,8 @@ scope = "Local"
 subjects = [ "Local Government Units (LGUS)", "Local Government Code (R.A.No. 7160)", "Franchise Tax", "Taxes/Taxation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2310319842!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3174"
 
 [[history]]
 date = "2016-01-28"

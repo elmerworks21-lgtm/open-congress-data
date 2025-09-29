@@ -6,7 +6,6 @@ name = "SBN-00120"
 [meta]
 bill_number = 120
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-120", "https://web.senate.gov.ph/lisdata/3782834269!.pdf",]
 title = "YELLOW CORN INDUSTRY DEVELOPMENT ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT TO DEVELOP AND PROMOTE THE YELLOW CORN INDUSTRY, TO ENHANCE THE AVAILABILITY OF AFFORDABLE AND QUALITY FEEDS, TO PROVIDE FOR A CORN COMPETITIVENES ENHANCEMENT FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Yellow Corn Industry",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3782834269!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-120"
 
 [[history]]
 date = "2022-07-07"

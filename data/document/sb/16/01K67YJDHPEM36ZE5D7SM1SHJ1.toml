@@ -6,7 +6,6 @@ name = "SBN-01966"
 [meta]
 bill_number = 1966
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1966", "https://web.senate.gov.ph/lisdata/1833615512!.pdf",]
 title = "MIGRANT WORKERS HOSPITAL ACT OF 2013"
 date_filed = "2013-11-27"
 long_title = "AN ACT ESTABLISHING A SPECIAL HOSPITAL FOR OVERSEAS FILIPINO WORKERS (OFWS) AND THEIR DEPENDENTS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Migrant Workers Hospital", "Overseas Filipino Workers (OFW)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1833615512!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1966"
 
 [[history]]
 date = "2013-11-27"

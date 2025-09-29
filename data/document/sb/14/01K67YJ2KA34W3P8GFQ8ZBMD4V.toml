@@ -6,7 +6,6 @@ name = "SBN-02456"
 [meta]
 bill_number = 2456
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2456", "https://web.senate.gov.ph/lisdata/79097122!.pdf",]
 title = "PHYSICIANS ACT OF 2008"
 date_filed = "2008-07-22"
 long_title = "AN ACT REGULATING THE EDUCATION AND LICENSURE OF PHYSICIANS AND THE PRACTICE OF MEDICINE IN THE PHILIPPINES, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 2382, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Physicians Act",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZMIGU"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79097122!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2456"
 
 [[history]]
 date = "2008-07-22"

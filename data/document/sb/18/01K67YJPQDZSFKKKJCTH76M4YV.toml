@@ -6,7 +6,6 @@ name = "SBN-00503"
 [meta]
 bill_number = 503
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-503", "https://web.senate.gov.ph/lisdata/3088627726!.pdf",]
 title = "SURVEILLANCE CAMERA FOR GOVERNMENT ESTABLISHMENT ACT"
 date_filed = "2019-07-16"
 long_title = "AN ACT MANDATING THE USE OF SURVEILLANCE CAMERAS FOR SECURITY, SAFETY, AND ACCOUNTABILITY IN GOVERNMENT OFFICES"
@@ -15,6 +14,8 @@ subjects = [ "Surveillance Camera", "Government Agencies", "Security Camera",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3088627726!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-503"
 
 [[history]]
 date = "2019-07-16"

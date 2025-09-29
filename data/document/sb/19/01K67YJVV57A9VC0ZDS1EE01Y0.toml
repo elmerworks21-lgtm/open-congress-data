@@ -6,7 +6,6 @@ name = "SBN-01395"
 [meta]
 bill_number = 1395
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1395", "https://web.senate.gov.ph/lisdata/3968135994!.pdf",]
 title = "DEPARTMENT OF WATER RESOURCES MANAGEMENT ACT OF 2022"
 date_filed = "2022-10-18"
 long_title = "AN ACT CREATING THE DEPARTMENT OF WATER RESOURCES MANAGEMENT, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Water Resources Management",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3968135994!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1395"
 
 [[history]]
 date = "2022-10-18"

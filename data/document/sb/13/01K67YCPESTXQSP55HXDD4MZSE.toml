@@ -6,7 +6,6 @@ name = "SBN-01899"
 [meta]
 bill_number = 1899
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1899", "https://web.senate.gov.ph/lisdata/31812367!.pdf",]
 title = "ANTI-RABIES ACT OF 2005"
 date_filed = "2005-02-01"
 long_title = "AN ACT PROVIDING FOR THE CONTROL AND ERADICATION OF RABIES, PRESCRIBING PENALTIES FOR VIOLATION THEREOF AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Rabies Act", "Rabies Eradication and Control",]
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31812367!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1899"
 
 [[history]]
 date = "2005-02-01"

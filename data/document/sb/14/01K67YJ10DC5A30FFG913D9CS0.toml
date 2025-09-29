@@ -6,7 +6,6 @@ name = "SBN-00407"
 [meta]
 bill_number = 407
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-407", "https://web.senate.gov.ph/lisdata/45823929!.pdf",]
 title = "INFIDELITY IN THE CUSTODY OF PRISONERS"
 date_filed = "2007-07-02"
 long_title = "AN ACT PRESCRIBING STRICTER PENALTIES ON THE CRIME OF DELIVERING PRISONERS FROM JAIL AND INFIDELITY IN THE CUSTODY OF PRISONERS, AMENDING FOR THE PURPOSE ARTICLES 156, 223 AND 224 OF REPUBLIC ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners", "Revised Penal Code (RA 3815; Amendments)", "Custodial
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45823929!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-407"
 
 [[history]]
 date = "2007-07-02"

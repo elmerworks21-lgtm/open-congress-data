@@ -6,7 +6,6 @@ name = "SBN-01209"
 [meta]
 bill_number = 1209
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1209", "https://web.senate.gov.ph/lisdata/4781443840!.pdf",]
 title = "E-BOOKS FOR THE BARANGAY PROGRAM ACT"
 date_filed = "2025-08-19"
 long_title = "AN ACT ESTABLISHING THE E-BOOKS FOR THE BARANGAY PROGRAM AND PROVIDING FUNDS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "E-Books", "Barangay Program",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4781443840!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1209"
 
 [[history]]
 date = "2025-08-19"

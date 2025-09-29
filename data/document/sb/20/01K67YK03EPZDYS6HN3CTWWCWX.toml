@@ -6,7 +6,6 @@ name = "SBN-00508"
 [meta]
 bill_number = 508
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-508", "https://web.senate.gov.ph/lisdata/4705843060!.pdf",]
 title = "ONLINE GAMBLING BAN AND DIGITAL PROTECTION ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT PROHIBITING ONLINE GAMBLING AND THE PROMOTION OF GAMBLING-RELATED CONTENT, STRENGTHENING DIGITAL ENFORCEMENT, PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Online Gambling", "Anti-Online Gambling",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4705843060!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-508"
 
 [[history]]
 date = "2025-07-14"

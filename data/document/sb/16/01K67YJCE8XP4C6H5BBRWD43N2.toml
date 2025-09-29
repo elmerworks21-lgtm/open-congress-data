@@ -6,7 +6,6 @@ name = "SBN-00240"
 [meta]
 bill_number = 240
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-240", "https://web.senate.gov.ph/lisdata/1608813326!.pdf",]
 title = "COMPREHENSIVE AGE-RELATED MACULAR DEGENERATION PREVENTION AND MITIGATION ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE NATIONAL PROGRAM TO MITIGATE AND COMBAT AGE-RELATED MACULAR DEGENERATION, IMPLEMENTING A NATIONWIDE INFORMATION, EDUCATION, COMMUNICATION CAMPAIGN, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Age-Related Macular Degeneration (AMD)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1608813326!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-240"
 
 [[history]]
 date = "2013-07-01"

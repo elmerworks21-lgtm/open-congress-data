@@ -6,7 +6,6 @@ name = "SBN-02529"
 [meta]
 bill_number = 2529
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2529", "https://web.senate.gov.ph/lisdata/101708735!.pdf",]
 title = "E-VEHICLE ROAD USER'S TAX EXEMPTION ACT OF 2010"
 date_filed = "2010-09-20"
 long_title = "AN ACT EXEMPTING THE USERS OF ELECTRONIC VEHICLES FROM THE PAYMENT OF THE ROAD USER'S TAX"
@@ -15,6 +14,8 @@ subjects = [ "E-Vehicle (Electronic Vehicles)", "Motor Vehicles Users Charge (MV
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101708735!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2529"
 
 [[history]]
 date = "2010-09-20"

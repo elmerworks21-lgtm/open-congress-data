@@ -6,7 +6,6 @@ name = "SBN-01444"
 [meta]
 bill_number = 1444
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1444", "https://web.senate.gov.ph/lisdata/90297574!.pdf",]
 title = "MEDICAL TOURISM BUREAU"
 date_filed = "2010-07-13"
 long_title = "AN ACT CREATING A MEDICAL TOURISM BUREAU WITHIN THE DEPARTMENT OF TOURISM, DEFINING ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Tourism",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/90297574!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1444"
 
 [[history]]
 date = "2010-07-13"

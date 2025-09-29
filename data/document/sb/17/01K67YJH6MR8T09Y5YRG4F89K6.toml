@@ -6,7 +6,6 @@ name = "SBN-00101"
 [meta]
 bill_number = 101
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-101", "https://web.senate.gov.ph/lisdata/2351520135!.pdf",]
 title = "AGRICULTURAL FREE PATENT REFORM ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT REMOVING THE RESTRICTIONS UNDER SECTIONS 118, 119, 121, 122 AND 123 OF COMMONWEALTH ACT NO. 141, AS AMENDED ON FREE PATENTS ISSUED UNDER SECTION 44 THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Commonwealth Act", "Public Land Act (Commonwealth Act No. 141)", "
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2351520135!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-101"
 
 [[history]]
 date = "2016-06-30"

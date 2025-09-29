@@ -6,7 +6,6 @@ name = "SBN-00509"
 [meta]
 bill_number = 509
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-509", "https://web.senate.gov.ph/lisdata/4705943061!.pdf",]
 title = "ZERO FOOD WASTE ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT ESTABLISHING A NATIONAL FRAMEWORK FOR FOOD WASTE PREVENTION, RECOVERY, AND REDISTRIBUTION, MANDATING THE SAFE DONATION AND UTILIZATION OF SURPLUS FOOD, STRENGTHENING MULTI-SECTORAL ACTION AGAINST HUNGER, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Zero Food Waste", "Waste Management",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4705943061!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-509"
 
 [[history]]
 date = "2025-07-14"

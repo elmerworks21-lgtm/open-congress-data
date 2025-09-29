@@ -6,7 +6,6 @@ name = "SBN-00002"
 [meta]
 bill_number = 2
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2", "https://web.senate.gov.ph/lisdata/3770334145!.pdf",]
 title = "THE MAGNA CARTA OF PUBLIC SCHOOL TEACHERS"
 date_filed = "2022-07-04"
 long_title = "THE MAGNA CARTA OF PUBLIC SCHOOL TEACHERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Public School Teachers",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3770334145!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2"
 
 [[history]]
 date = "2022-07-04"

@@ -6,7 +6,6 @@ name = "SBN-01390"
 [meta]
 bill_number = 1390
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1390", "https://web.senate.gov.ph/lisdata/56915053!.pdf",]
 title = "INVENTORS AND INVENTION INCENTIVES ACT OF 2007"
 date_filed = "2007-07-26"
 long_title = "AN ACT CREATING A PHILIPPINE INVENTORS COMMISSION, DEFINING ITS POWERS, FUNCTIONS AND DUTIES, AND FOR OTHER PURPOSES THAT WILL ENCOURAGE THE GENERATION, DEVELOPMENT, MANUFACTURE, PROMOTION AND MARKET OF THE PHILIPPINE INVENTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Inventors and Invention Incentives",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56915053!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1390"
 
 [[history]]
 date = "2007-07-26"

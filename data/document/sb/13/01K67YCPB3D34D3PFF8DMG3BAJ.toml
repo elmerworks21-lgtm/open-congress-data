@@ -6,7 +6,6 @@ name = "SBN-01730"
 [meta]
 bill_number = 1730
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1730", "https://web.senate.gov.ph/lisdata/29322514!.pdf",]
 title = "PRISON RAPE ELIMINATION ACT"
 date_filed = "2004-08-17"
 long_title = "AN ACT TO PROVIDE FOR THE ANALYSIS OF THE INCIDENCE AND EFFECTS OF PRISON RAPE AND TO PROVIDE INFORMATION, RESOURCES, RECOMMENDATIONS, FUNDING AND PUNISHMENT TO PROTECT INDIVIDUALS FROM PRISON RAPE"
@@ -15,6 +14,8 @@ subjects = [ "Prison Rape Elimination Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/29322514!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1730"
 
 [[history]]
 date = "2004-08-17"

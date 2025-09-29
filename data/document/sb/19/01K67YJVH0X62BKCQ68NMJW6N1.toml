@@ -6,7 +6,6 @@ name = "SBN-00947"
 [meta]
 bill_number = 947
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-947", "https://web.senate.gov.ph/lisdata/3875635209!.pdf",]
 title = "RENAMING THE BENHAM RISE AS 'PHILIPPINE RISE' OR 'TALAMPAS NG PILIPINAS'"
 date_filed = "2022-08-01"
 long_title = "AN ACT RENAMING THE BENHAM RISE AS 'PHILIPPINE RISE' OR 'TALAMPAS NG PILIPINAS,' NAMING THE UNDERSEA FEATURES THEREIN, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Benham Rise", "Philippine Rise",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3875635209!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-947"
 
 [[history]]
 date = "2022-08-01"

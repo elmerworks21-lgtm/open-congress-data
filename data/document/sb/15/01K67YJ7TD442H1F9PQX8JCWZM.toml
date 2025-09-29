@@ -6,7 +6,6 @@ name = "SBN-00938"
 [meta]
 bill_number = 938
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-938", "https://web.senate.gov.ph/lisdata/84396992!.pdf",]
 title = "PHILIPPINE MEDICAL CENTER SYSTEM"
 date_filed = "2010-07-08"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE MEDICAL CENTER SYSTEM, PROVIDING FOR ITS ADMINISTRATION AND SUPPORT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Medical Center System",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84396992!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-938"
 
 [[history]]
 date = "2010-07-08"

@@ -6,7 +6,6 @@ name = "SBN-00476"
 [meta]
 bill_number = 476
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-476", "https://web.senate.gov.ph/lisdata/3075127600!.pdf",]
 title = "FISCAL AND MONETARY REPORT ACT"
 date_filed = "2019-07-15"
 long_title = "AN ACT MANDATING THE SECRETARIES OF THE DEPARTMENT OF FINANCE, NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY, AND DEPARTMENT OF BUDGET AND MANAGEMENT, AND THE GOVERNOR OF THE BANGKO SENTRAL NG PILIPINAS, TO APPEAR SEMI-ANNUALLY BEFORE CONGRESS TO REPORT ON THE STATUS AND DIRECTIONS OF THE FISCAL AND MONETARY POLICIES OF THE STATE"
@@ -15,6 +14,8 @@ subjects = [ "Fiscal and Monetary Report", "Bangko Sentral Ng Pilipinas (BSP)", 
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3075127600!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-476"
 
 [[history]]
 date = "2019-07-15"

@@ -6,7 +6,6 @@ name = "SBN-00485"
 [meta]
 bill_number = 485
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-485", "https://web.senate.gov.ph/lisdata/2392520562!.pdf",]
 title = "PENALTIES IMPOSED AGAINST CONTRACTORS AND SUBCONTRACTORS"
 date_filed = "2016-07-19"
 long_title = "AN ACT INCREASING THE PENALTIES IMPOSED AGAINST CONTRACTORS AND SUBCONTRACTORS WHO VIOLATE ANY MATERIAL PROVISION OF CONTRACTS INVOLVING PUBLIC WORKS PROJECTS OF THE GOVERNMENT, AND PUBLIC OFFICIALS WHO ALLOW SUCH VIOLATIONS, AMENDING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 1759"
@@ -15,6 +14,8 @@ subjects = [ "Public Works Projects", "Contractor Accountability",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2392520562!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-485"
 
 [[history]]
 date = "2016-07-19"

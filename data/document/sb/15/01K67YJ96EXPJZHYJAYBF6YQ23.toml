@@ -6,7 +6,6 @@ name = "SBN-02807"
 [meta]
 bill_number = 2807
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2807", "https://web.senate.gov.ph/lisdata/112039516!.pdf",]
 title = "UNIFORM SYSTEM OF PRELIMINARY INVESTIGATION"
 date_filed = "2011-05-09"
 long_title = "AN ACT REPEALING REPUBLIC ACT NO. 5180, AS AMENDED, 'AN ACT PRESCRIBING A UNIFORM SYSTEM OF PRELIMINARY INVESTIGATION BY PROVINCIAL AND CITY FISCALS AND THEIR ASSISTANTS, AND BY STATE ATTORNEYS OR THEIR ASSISTANTS"
@@ -15,6 +14,8 @@ subjects = [ "Preliminary Investigation",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/112039516!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2807"
 
 [[history]]
 date = "2011-05-09"

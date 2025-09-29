@@ -6,7 +6,6 @@ name = "SBN-01998"
 [meta]
 bill_number = 1998
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1998", "https://web.senate.gov.ph/lisdata/3427431070!.pdf",]
 title = "COMPREHENSIVE ATOMIC REGULATION ACT"
 date_filed = "2021-01-19"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE ATOMIC REGULATORY FRAMEWORK CREATING FOR THE PURPOSE, THE PHILIPPINE ATOMIC REGULATORY COMMISSION, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Atomic Regulatory Commission",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3427431070!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1998"
 
 [[history]]
 date = "2021-01-19"

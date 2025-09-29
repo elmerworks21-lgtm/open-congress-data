@@ -6,7 +6,6 @@ name = "SBN-01999"
 [meta]
 bill_number = 1999
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1999", "https://web.senate.gov.ph/lisdata/3428731088!.pdf",]
 title = "VACCINE PASSPORT PROGRAM ACT"
 date_filed = "2021-01-20"
 long_title = "AN ACT CREATING A VACCINE PASSPORT PROGRAM, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Vaccine Passport Program",]
 authors_raw = "Cayetano, Pia S., Revilla Jr., Ramon Bong"
 author_codes = ["CPIAS", "RRAMO"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3428731088!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1999"
 
 [[history]]
 date = "2021-01-20"

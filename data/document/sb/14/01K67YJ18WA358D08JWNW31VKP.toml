@@ -6,7 +6,6 @@ name = "SBN-00825"
 [meta]
 bill_number = 825
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-825", "https://web.senate.gov.ph/lisdata/50534441!.pdf",]
 title = "DEBT MANAGEMENT BOARD CHARTER"
 date_filed = "2007-07-03"
 long_title = "AN ACT CREATING THE DEBT MANAGEMENT BOARD, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Debt Management Board Charter",]
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50534441!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-825"
 
 [[history]]
 date = "2007-07-03"

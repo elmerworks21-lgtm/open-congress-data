@@ -6,7 +6,6 @@ name = "SBN-00587"
 [meta]
 bill_number = 587
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-587", "https://web.senate.gov.ph/lisdata/3836834817!.pdf",]
 title = "PUBLIC SECTOR LABOR RELATIONS ACT OF 2020"
 date_filed = "2022-07-14"
 long_title = "AN ACT STRENGTHENING THE CONSTITUTIONAL RIGHTS OF GOVERNMENT EMPLOYEES TO SELF-ORGANIZATION, COLLECTIVE NEGOTIATION, PEACEFUL CONCERTED ACTIVITIES, AND THE USE OF VOLUNTARY MODES OF DISPUTE RESOLUTION"
@@ -15,6 +14,8 @@ subjects = [ "Collective Bargaining Agreement",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3836834817!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-587"
 
 [[history]]
 date = "2022-07-14"

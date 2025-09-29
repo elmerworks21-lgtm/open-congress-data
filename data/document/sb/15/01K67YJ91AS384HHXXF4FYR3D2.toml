@@ -6,7 +6,6 @@ name = "SBN-02600"
 [meta]
 bill_number = 2600
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2600", "https://web.senate.gov.ph/lisdata/104278922!.pdf",]
 title = "DELEGATING THE AUTHORITY TO DECLARE SPECIAL PUBLIC HOLIDAYS"
 date_filed = "2010-11-18"
 long_title = "AN ACT AMENDING SECTION 13 OF REPUBLIC ACT 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code, Amendments (R.A.No. 7160)", "Holidays (Loca
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/104278922!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2600"
 
 [[history]]
 date = "2010-11-18"

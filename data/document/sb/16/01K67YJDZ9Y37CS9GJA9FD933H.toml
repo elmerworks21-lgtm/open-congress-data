@@ -6,7 +6,6 @@ name = "SBN-02540"
 [meta]
 bill_number = 2540
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2540", "https://web.senate.gov.ph/lisdata/2034617453!.pdf",]
 title = "HEALTHY MEDIA FOR YOUTH ACT"
 date_filed = "2014-12-22"
 long_title = "AN ACT AUTHORIZING GRANTS TO PROMOTE MEDIA LITERACY AND YOUTH EMPOWERMENT PROGRAMS, TO AUTHORIZE RESEARCH ON THE ROLE AND IMPACT OF DEPICTIONS OF GIRLS AND WOMEN IN THE MEDIA, TO PROVIDE FOR THE ESTABLISHMENT OF A NATIONAL TASK FORCE ON GIRLS AND WOMEN IN THE MEDIA"
@@ -15,6 +14,8 @@ subjects = [ "Youth Development", "Women", "Media Practitioners",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2034617453!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2540"
 
 [[history]]
 date = "2014-12-22"

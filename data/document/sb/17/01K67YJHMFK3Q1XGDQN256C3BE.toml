@@ -6,7 +6,6 @@ name = "SBN-00698"
 [meta]
 bill_number = 698
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-698", "https://web.senate.gov.ph/lisdata/2421820825!.pdf",]
 title = "REDUCING THE CORPORATE INCOME TAX RATE"
 date_filed = "2016-07-20"
 long_title = "AN ACT REDUCING THE CORPORATE INCOME TAX RATE, AMENDING SECTION 27 AND 28 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Corporate Income Tax Rate)",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2421820825!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-698"
 
 [[history]]
 date = "2016-07-20"

@@ -6,7 +6,6 @@ name = "SBN-01893"
 [meta]
 bill_number = 1893
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1893", "https://web.senate.gov.ph/lisdata/2819224456!.pdf",]
 title = "ANTI-PREMATURE CAMPAIGNING ACT OF 2018"
 date_filed = "2018-07-30"
 long_title = "AN ACT REDEFINING THE PROHIBITED ACT OF PREMATURE CAMPAIGNING, ACCORDINGLY AMENDING SECTIONS 79, 80, AND 81 OF BATAS PAMBANSA BILANG 881, OTHERWISE KNOWN AS THE 'OMNIBUS ELECTION CODE OF THE PHILIPPINES'"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Premature Campaigning", "Omnibus Election Code (Batas Pambans
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2819224456!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1893"
 
 [[history]]
 date = "2018-07-30"

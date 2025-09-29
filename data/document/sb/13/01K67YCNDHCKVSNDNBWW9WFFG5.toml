@@ -6,7 +6,6 @@ name = "SBN-00098"
 [meta]
 bill_number = 98
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-98", "https://web.senate.gov.ph/lisdata/1226830!.pdf",]
 title = "INTERNATIONAL MONEY TRANSFER DISCLOSURE ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO REQUIRE CERTAIN DISCLOSURES IN CONNECTION WITH ANY INTERNATIONAL MONEY TRANSFER AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "International Money Transfer Disclosure", "Money Transfer",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1226830!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-98"
 
 [[history]]
 date = "2004-06-30"

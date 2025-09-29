@@ -6,7 +6,6 @@ name = "SBN-02171"
 [meta]
 bill_number = 2171
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2171", "https://web.senate.gov.ph/lisdata/71276361!.pdf",]
 title = "LOCAL GOVERNMENT ACADEMY ACT OF 2008"
 date_filed = "2008-04-17"
 long_title = "AN ACT CREATING THE CHARTER OF THE LOCAL GOVERNMENT ACADEMY (LGA), AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6975, OTHERWISE KNOWN AS 'THE DEPARTMENT OF INTERIOR AND LOCAL GOVERNMENT ACT OF 1990', AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Academy",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71276361!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2171"
 
 [[history]]
 date = "2008-04-17"

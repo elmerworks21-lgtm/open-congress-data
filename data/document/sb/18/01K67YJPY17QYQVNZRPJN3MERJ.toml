@@ -6,7 +6,6 @@ name = "SBN-00811"
 [meta]
 bill_number = 811
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-811", "https://web.senate.gov.ph/lisdata/3118728086!.pdf",]
 title = "PLASTIC STRAW AND STIRRER BAN OF 2019"
 date_filed = "2019-07-29"
 long_title = "AN ACT PROHIBITING THE USE OF PLASTIC STRAWS AND STIRRERS IN RESTAURANTS AND OTHER ESTABLISHMENTS, AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3118728086!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-811"
 
 [[history]]
 date = "2019-07-29"

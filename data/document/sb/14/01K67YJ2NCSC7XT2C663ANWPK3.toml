@@ -6,7 +6,6 @@ name = "SBN-02554"
 [meta]
 bill_number = 2554
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2554", "https://web.senate.gov.ph/lisdata/81347360!.pdf",]
 title = "DISABLED PERSONS' PARKING PLACES BILL"
 date_filed = "2008-08-21"
 long_title = "AN ACT TO PREVENT DISABLED PERSONS' PARKING PLACES FROM BEING OCCUPIED BY PERSONS NOT ENTITLED TO USE THEM"
@@ -15,6 +14,8 @@ subjects = [ "Differently Abled", "Disabled", "Handicapped", "Disadvantaged",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81347360!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2554"
 
 [[history]]
 date = "2008-08-21"

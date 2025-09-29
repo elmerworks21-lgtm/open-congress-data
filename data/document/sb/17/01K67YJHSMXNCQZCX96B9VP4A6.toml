@@ -6,7 +6,6 @@ name = "SBN-00940"
 [meta]
 bill_number = 940
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-940", "https://web.senate.gov.ph/lisdata/2449821081!.pdf",]
 title = "SAN JUAN CITY NATIONAL SCIENCE HIGH SCHOOL ACT"
 date_filed = "2016-08-01"
 long_title = "AN ACT ESTABLISHING A NATIONAL SCIENCE HIGH SCHOOL IN THE CITY OF SAN JUAN TO BE KNOWN AS THE SAN JUAN CITY NATIONAL SCIENCE HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Schools, Establishment", "Science High School",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2449821081!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-940"
 
 [[history]]
 date = "2016-08-01"

@@ -6,7 +6,6 @@ name = "SBN-00605"
 [meta]
 bill_number = 605
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-605", "https://web.senate.gov.ph/lisdata/3094727881!.pdf",]
 title = "PHILIPPINE DAY OF REMEMBRANCE FOR ROAD CRASH VICTIMS, SURVIVORS, AND THEIR FAMILIES"
 date_filed = "2019-07-17"
 long_title = "AN ACT DESIGNATING THE THIRD SUNDAY OF NOVEMBER AS THE PHILIPPINE DAY OF REMEMBRANCE FOR ROAD CRASH VICTIMS, SURVIVORS AND FAMILIES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Road Crash Victims", "Road Traffic Victims",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3094727881!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-605"
 
 [[history]]
 date = "2019-07-17"

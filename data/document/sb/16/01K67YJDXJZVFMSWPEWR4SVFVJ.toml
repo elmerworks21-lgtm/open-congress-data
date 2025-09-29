@@ -6,7 +6,6 @@ name = "SBN-02460"
 [meta]
 bill_number = 2460
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2460", "https://web.senate.gov.ph/lisdata/2012717239!.pdf",]
 title = "WOMEN'S BUSINESS ENTERPRISE ACT OF 2014"
 date_filed = "2014-11-18"
 long_title = "AN ACT CREATING A NATIONAL WOMEN'S BUSINESS ENTERPRISE POLICY AND PRESCRIBING ARRANGEMENTS FOR DEVELOPING, COORDINATING AND IMPLEMENTING A NATIONAL PROGRAM FOR WOMEN'S ENTERPRISE"
@@ -15,6 +14,8 @@ subjects = [ "National Womens Business Enterprise",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2012717239!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2460"
 
 [[history]]
 date = "2014-11-18"

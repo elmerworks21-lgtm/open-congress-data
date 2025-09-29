@@ -6,7 +6,6 @@ name = "SBN-02141"
 [meta]
 bill_number = 2141
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2141", "https://web.senate.gov.ph/lisdata/70596301!.pdf",]
 title = "LOCAL HOLIDAYS ACT5 OF 2008"
 date_filed = "2008-03-26"
 long_title = "AN ACT AUTHORIZING THE LOCAL SANGGUNIANS TO DECLARE SPECIAL HOLIDAYS IN THEIR RESPECTIVE LOCALITIES TO COMMEMORATE SIGNIFICANT HISTORIC EVENTS AND, TO HONOR LOCAL HEROES, PROVIDING GUIDELINES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Holiday Act",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/70596301!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2141"
 
 [[history]]
 date = "2008-03-26"

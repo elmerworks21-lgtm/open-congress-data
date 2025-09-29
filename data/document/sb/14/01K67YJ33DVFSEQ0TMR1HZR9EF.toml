@@ -6,7 +6,6 @@ name = "SBN-03185"
 [meta]
 bill_number = 3185
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3185", "https://web.senate.gov.ph/lisdata/108899660!.pdf",]
 title = "MEAT INSPECTION LAW"
 date_filed = "2009-04-27"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9296 OTHERWISE KNOWN AS THE MEAT INSPECTION LAW, INCREASING THE PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Meat Products",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/108899660!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3185"
 
 [[history]]
 date = "2009-04-27"

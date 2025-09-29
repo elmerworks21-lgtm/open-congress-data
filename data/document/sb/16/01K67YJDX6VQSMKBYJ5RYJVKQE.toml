@@ -6,7 +6,6 @@ name = "SBN-02443"
 [meta]
 bill_number = 2443
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2443", "https://web.senate.gov.ph/lisdata/2008817199!.pdf",]
 title = "ELECTION SERVICE REFORM ACT OF 2014"
 date_filed = "2014-11-04"
 long_title = "AN ACT MAKING ELECTION SERVICE NON-COMPULSARY FOR PUBLIC SCHOOL TEACHERS, AUTHORIZING THE APPOINTMENT OF OTHER QUALIFIED CITIZENS, PROVIDING FOR COMPENSATION AND OTHER BENEFITS, AMENDING FOR THE PURPOSE THE OMNIBUS ELECTION CODE, REPUBLIC ACT NO. 6646, AND OTHER ELECTION LAWS"
@@ -15,6 +14,8 @@ subjects = [ "Elections/Electoral Reforms", "Teachers",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2008817199!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2443"
 
 [[history]]
 date = "2014-11-04"

@@ -6,7 +6,6 @@ name = "SBN-00052"
 [meta]
 bill_number = 52
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-52", "https://web.senate.gov.ph/lisdata/3028327111!.pdf",]
 title = "WATER RESOURCES MANAGEMENT ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT ADDRESSING THE NATIONAL WATER CRISIS, PROVIDING FOR A COMPREHENSIVE WATER RESOURCES MANAGEMENT, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Water Resources Management", "Water Crisis",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3028327111!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-52"
 
 [[history]]
 date = "2019-07-01"

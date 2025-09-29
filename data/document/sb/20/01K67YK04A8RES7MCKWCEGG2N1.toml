@@ -6,7 +6,6 @@ name = "SBN-00555"
 [meta]
 bill_number = 555
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-555", "https://web.senate.gov.ph/lisdata/4711443114!.pdf",]
 title = "LABOR EDUCATION IN SENIOR HIGH SCHOOL ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT INTEGRATING LABOR EDUCATION IN THE SENIOR HIGH SCHOOL CURRICULUM"
@@ -15,6 +14,8 @@ subjects = [ "Labor Education", "Curriculum/Curricula", "Senior High School",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4711443114!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-555"
 
 [[history]]
 date = "2025-07-14"

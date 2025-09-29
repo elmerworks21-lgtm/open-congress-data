@@ -6,7 +6,6 @@ name = "SBN-00780"
 [meta]
 bill_number = 780
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-780", "https://web.senate.gov.ph/lisdata/3113428033!.pdf",]
 title = "CRIME COMMITTED AGAINST LAWYERS AND JUSTICE SECTOR OFFICIALS AS AGGRAVATING CIRCUMSTANCE"
 date_filed = "2019-07-25"
 long_title = "AN ACT AMENDING ARTICLE 14 OF THE REVISED PENAL CODE TO ADD, AS AN AGGRAVATING CIRCUMSTANCE, THE CRIME HAVING BEEN COMMITTED AGAINST LAWYERS AND JUSTICE SECTOR OFFICIALS"
@@ -15,6 +14,8 @@ subjects = [ "Lawyers", "Judiciary", "Revised Penal Code (R.A.No. 3815)", "Judge
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3113428033!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-780"
 
 [[history]]
 date = "2019-07-25"

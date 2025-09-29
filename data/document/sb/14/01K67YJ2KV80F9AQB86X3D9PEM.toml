@@ -6,7 +6,6 @@ name = "SBN-02482"
 [meta]
 bill_number = 2482
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2482", "https://web.senate.gov.ph/lisdata/79587190!.pdf",]
 title = "ENVIRONMENTAL PLANNING ACT OF 2008"
 date_filed = "2008-07-28"
 long_title = "AN ACT REGULATING THE PRACTICE OF ENVIRONMENTAL PLANNING, REPEALING FOR THE PURPOSE, PRESIDENTIAL DECREE NUMBERED ONE THOUSAND THREE HUNDRED AND EIGHT, ENTITLED 'LAW REGULATING THE ENVIRONMENTAL PLANNING PROFESSION IN THE PHILIPPINES', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Presidential Decrees (P.D.No. 1308, Environmental Planning)",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79587190!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2482"
 
 [[history]]
 date = "2008-07-28"

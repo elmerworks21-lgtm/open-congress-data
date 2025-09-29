@@ -6,7 +6,6 @@ name = "SBN-00534"
 [meta]
 bill_number = 534
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-534", "https://web.senate.gov.ph/lisdata/3091727777!.pdf",]
 title = "FINANCIAL CONSUMER PROTECTION ACT"
 date_filed = "2019-07-16"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION OF FINANCIAL CONSUMERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Financial Consumer Protection",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3091727777!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-534"
 
 [[history]]
 date = "2019-07-16"

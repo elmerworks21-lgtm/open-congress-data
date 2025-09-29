@@ -6,7 +6,6 @@ name = "SBN-01065"
 [meta]
 bill_number = 1065
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1065", "https://web.senate.gov.ph/lisdata/3901935470!.pdf",]
 title = "ICT HUB ACT"
 date_filed = "2022-08-08"
 long_title = "AN ACT ESTABLISHING INFORMATION AND COMMUNICATIONS TECHNOLOGY (ICT) HUBS NATIONWIDE"
@@ -15,6 +14,8 @@ subjects = [ "Information and Communications Technology (ICT)",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3901935470!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1065"
 
 [[history]]
 date = "2022-08-08"

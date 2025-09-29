@@ -6,7 +6,6 @@ name = "SBN-01902"
 [meta]
 bill_number = 1902
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1902", "https://web.senate.gov.ph/lisdata/64785756!.pdf",]
 title = "PHILIPPINE TRANSPORTATION SECURITY ACT OF 2007"
 date_filed = "2007-11-26"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE TRANSPORTATION SECURITY PROGRAM, CREATING FOR THE PURPOSE THE PHILIPPINE TRANSPORTATION SECURITY ADMINISTRATION (PTSA), DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Transportation Security Administration (PTSA)",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64785756!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1902"
 
 [[history]]
 date = "2007-11-26"

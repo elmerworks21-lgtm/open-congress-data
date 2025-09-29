@@ -6,7 +6,6 @@ name = "SBN-00361"
 [meta]
 bill_number = 361
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-361", "https://web.senate.gov.ph/lisdata/45253871!.pdf",]
 title = "REGULATING THE POWER OF PAGCOR"
 date_filed = "2007-07-02"
 long_title = "AN ACT REGULATING THE POWER OF THE PHILIPPINE AMUSEMENT AND GAMING CORPORATION (PAGCOR) TO ESTABLISH, OPERATE AND MAINTAIN CASINOS IN THE COUNTRY, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1869, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Amusement and Gaming Corporation (Pagcor)", "Presidenti
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45253871!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-361"
 
 [[history]]
 date = "2007-07-02"

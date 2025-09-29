@@ -6,7 +6,6 @@ name = "SBN-02433"
 [meta]
 bill_number = 2433
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2433", "https://web.senate.gov.ph/lisdata/77246965!.pdf",]
 title = "MINORS TO WORK AS VOLUNTEERS"
 date_filed = "2008-07-10"
 long_title = "AN ACT PERMITTING CERTAIN MINORS TO WORK AS VOLUNTEERS FOR NONPROFIT ORGANIZATIONS CONSTRUCTING AFFORDABLE HOUSING"
@@ -15,6 +14,8 @@ subjects = [ "Housing Program (Socialized", "Low-Cost)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/77246965!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2433"
 
 [[history]]
 date = "2008-07-10"

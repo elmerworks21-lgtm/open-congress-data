@@ -6,7 +6,6 @@ name = "SBN-02661"
 [meta]
 bill_number = 2661
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2661", "https://web.senate.gov.ph/lisdata/106539115!.pdf",]
 title = "FISCAL AND MONETARY REPORT ACT OF 2011"
 date_filed = "2011-01-31"
 long_title = "AN ACT MANDATING THE SECRETARY OF THE DEPARTMENT OF FINANCE AND THE GOVERNOR OF THE BANGKO SENTRAL NG PILIPINAS TO APPEAR BEFORE CONGRESS SEMI-ANNUALLY TO REPORT ON THE STATUS AND DIRECTIONS OF THE FISCAL AND MONETARY POLICIES OF THE STATE"
@@ -15,6 +14,8 @@ subjects = [ "Department of Finance", "Bangko Sentral Ng Pilipinas (BSP)",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106539115!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2661"
 
 [[history]]
 date = "2011-01-31"

@@ -6,7 +6,6 @@ name = "SBN-01322"
 [meta]
 bill_number = 1322
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1322", "https://web.senate.gov.ph/lisdata/1741714651!.pdf",]
 title = "NURSE FACULTY HIGHER EDUCATION ACT"
 date_filed = "2013-08-15"
 long_title = "AN ACT CREATING A PILOT PROGRAM TO INCREASE THE NUMBER OF NURSE FACULTY TO MEET THE FUTURE NEED FOR QUALIFIED NURSES"
@@ -15,6 +14,8 @@ subjects = [ "Nurses",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1741714651!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1322"
 
 [[history]]
 date = "2013-08-15"

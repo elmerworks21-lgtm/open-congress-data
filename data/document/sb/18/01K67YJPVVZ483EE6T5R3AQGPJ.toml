@@ -6,7 +6,6 @@ name = "SBN-00714"
 [meta]
 bill_number = 714
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-714", "https://web.senate.gov.ph/lisdata/3105427952!.pdf",]
 title = "AMENDING P.D.NO. 442, LABOR CODE OF THE PHILIPPINES"
 date_filed = "2019-07-24"
 long_title = "AN ACT FURTHER STRENGTHENING WORKERS’ RIGHT TO SELF-ORGANIZATION, AMENDING FOR THE PURPOSE ARTICLES 240[234](C), 242[235], 243[236], 244[237] AND 285 [270] OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Unionism/Right to S
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3105427952!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-714"
 
 [[history]]
 date = "2019-07-24"

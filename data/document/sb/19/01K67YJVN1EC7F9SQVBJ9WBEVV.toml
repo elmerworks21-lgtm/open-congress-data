@@ -6,7 +6,6 @@ name = "SBN-01127"
 [meta]
 bill_number = 1127
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1127", "https://web.senate.gov.ph/lisdata/3910735550!.pdf",]
 title = "PHILIPPINE ACCREDITATION ACT OF 2022"
 date_filed = "2022-08-11"
 long_title = "AN ACT ESTABLISHING A NATIONAL ACCREDITATION POLICY TO ENHANCE THE COMPETITIVENESS OF PHILIPPINE PRODUCTS AND SERVICES, FACILITATE TRADE, AND PROTECT THE HEALTH, SAFETY AND WELFARE OF CONSUMERS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Accreditation Policy", "Local Products", "Consumer Protec
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3910735550!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1127"
 
 [[history]]
 date = "2022-08-11"

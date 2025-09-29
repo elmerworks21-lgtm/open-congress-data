@@ -6,7 +6,6 @@ name = "SBN-01121"
 [meta]
 bill_number = 1121
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1121", "https://web.senate.gov.ph/lisdata/3910135544!.pdf",]
 title = "PHILIPPINE TRANSPORTATION SAFETY BOARD ACT"
 date_filed = "2022-08-10"
 long_title = "AN ACT CREATING A PHILIPPINE TRANSPORTATION SAFETY BOARD, PRESCRIBING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Transportation Safety Board (PTSB)",]
 authors_raw = "Poe, Grace, Villanueva, Joel, Revilla Jr., Ramon Bong"
 author_codes = ["PGRAC", "RRAMO", "VEMMA"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3910135544!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1121"
 
 [[history]]
 date = "2022-08-10"

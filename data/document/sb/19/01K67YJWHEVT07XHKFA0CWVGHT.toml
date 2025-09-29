@@ -6,7 +6,6 @@ name = "SBN-02335"
 [meta]
 bill_number = 2335
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2335", "https://web.senate.gov.ph/lisdata/4219038376!.pdf",]
 title = "JOURNALIST PROTECTION ACT"
 date_filed = "2023-07-20"
 long_title = "AN ACT PROVIDING FOR MANDATORY INSURANCE COVERAGE AND BENEFITS FOR JOURNALISTS, EMPLOYEES OF MEDIA ENTITIES ON FIELD ASSIGNMENTS AND FREELANCE JOURNALISTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Journalist", "Media Workers", "Benefits and Incentives", "Insuranc
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4219038376!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2335"
 
 [[history]]
 date = "2023-07-20"

@@ -6,7 +6,6 @@ name = "SBN-00241"
 [meta]
 bill_number = 241
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-241", "https://web.senate.gov.ph/lisdata/43413737!.pdf",]
 title = "CHILD SAFETY FIREARMS ACT"
 date_filed = "2007-06-30"
 long_title = "CHILD SAFETY FIREARMS ACT"
@@ -15,6 +14,8 @@ subjects = [ "Child Safety",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43413737!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-241"
 
 [[history]]
 date = "2007-06-30"

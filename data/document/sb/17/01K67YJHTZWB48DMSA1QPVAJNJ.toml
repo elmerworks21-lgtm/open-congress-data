@@ -6,7 +6,6 @@ name = "SBN-01002"
 [meta]
 bill_number = 1002
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1002", "https://web.senate.gov.ph/lisdata/2457621159!.pdf",]
 title = "INFORMATION TECHNOLOGY OFFICE"
 date_filed = "2016-08-08"
 long_title = "AN ACT ESTABLISHING THE INFORMATION TECHNOLOGY OFFICE IN EVERY MUNICIPALITY, CITY AND PROVINCE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Information Technology",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2457621159!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1002"
 
 [[history]]
 date = "2016-08-08"

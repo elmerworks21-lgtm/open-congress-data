@@ -6,7 +6,6 @@ name = "SBN-00641"
 [meta]
 bill_number = 641
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-641", "https://web.senate.gov.ph/lisdata/18271202!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS' DAY"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO DECLARE MARCH SEVENTEEN OF EVERY YEAR AS A WORKING SPECIAL HOLIDAY TO BE KNOWN AS OVERSEAS FILIPINO WORKERS' DAY"
@@ -15,6 +14,8 @@ subjects = [ "Overseas Filipino Workers Day", "Holiday: OFWs Day (March 17)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18271202!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-641"
 
 [[history]]
 date = "2004-06-30"

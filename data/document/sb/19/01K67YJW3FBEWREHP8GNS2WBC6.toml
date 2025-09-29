@@ -6,7 +6,6 @@ name = "SBN-01748"
 [meta]
 bill_number = 1748
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1748", "https://web.senate.gov.ph/lisdata/4048436891!.pdf",]
 title = "UNIVERSITY OF THE PHILIPPINES TACLOBAN ACT OF 2023"
 date_filed = "2023-01-23"
 long_title = "AN ACT CONVERTING THE UNIVERSITY OF THE PHILIPPINES VISAYAS TACLOBAN COLLEGE INTO AN AUTONOMOUS CONSTITUENT UNIVERSITY OF THE PHILIPPINES SYSTEM TO BE KNOWN AS THE UNIVERSITY OF THE PHILIPPINES TACLOBAN, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "University of the Philippines (U.P.)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4048436891!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1748"
 
 [[history]]
 date = "2023-01-23"

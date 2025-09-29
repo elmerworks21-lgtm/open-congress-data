@@ -6,7 +6,6 @@ name = "SBN-02457"
 [meta]
 bill_number = 2457
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2457", "https://web.senate.gov.ph/lisdata/79117125!.pdf",]
 title = "PAGLAUM FUND OF 2008"
 date_filed = "2008-07-22"
 long_title = "AN ACT APPROPRIATING THE AMOUNT OF SIX BILLION PESOS FOR THE REHABILITATION OF THE PROVINCES OF AKLAN, ANTIQUE, CAPIZ AND ILOILO ALL IN PANAY ISLAND AND IN NORTHERN NEGROS OCCIDENTIAL DUE TO THE DAMAGES CAUSED BY TYPHOON FRANK"
@@ -15,6 +14,8 @@ subjects = [ "Calamity Assistance", "Paglaum Fund",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZMIGU"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79117125!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2457"
 
 [[history]]
 date = "2008-07-22"

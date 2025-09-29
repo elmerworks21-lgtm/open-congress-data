@@ -6,7 +6,6 @@ name = "SBN-00331"
 [meta]
 bill_number = 331
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-331", "https://web.senate.gov.ph/lisdata/1488783!.pdf",]
 title = "PHILIPPINE COCONUT AUTHORITY"
 date_filed = "2004-06-30"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE COCONUT AUTHORITY, INCREASING THE SMALL COCONUT FARMERS' PARTICIPATION IN, AND THEIR BENEFITS FROM, THE COCONUT INDUSTRY, AND BOLSTERING THE INDUSTRY'S DEVELOPMENT, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED FOURTEEN HUNDRED AND SIXTY-EIGHT, AS AMENDED, OTHERWISE KNOWN AS THE REVISED COCONUT INDUSTRY CODE"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Coconut Authority (PCA)", "Coconut Industry Code (Pd 14
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1488783!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-331"
 
 [[history]]
 date = "2004-06-30"

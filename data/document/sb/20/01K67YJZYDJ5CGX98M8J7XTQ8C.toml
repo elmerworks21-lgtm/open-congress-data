@@ -6,7 +6,6 @@ name = "SBN-00237"
 [meta]
 bill_number = 237
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-237", "https://web.senate.gov.ph/lisdata/4671442719!.pdf",]
 title = "NEW DEPARTMENT OF EDUCATION (DEPED) RETIREMENT AGE ACT"
 date_filed = "2025-07-07"
 long_title = "AN ACT LOWERING THE COMPULSORY RETIREMENT AGE OF TEACHERS AND NON-TEACHING SCHOOL PERSONNEL OF THE DEPARTMENT OF EDUCATION FROM SIXTY-FIVE (65) TO SIXTY (60) YEARS OLD"
@@ -15,6 +14,8 @@ subjects = [ "Retirement Age", "Teachers",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4671442719!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-237"
 
 [[history]]
 date = "2025-07-07"

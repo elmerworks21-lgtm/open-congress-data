@@ -6,7 +6,6 @@ name = "SBN-00201"
 [meta]
 bill_number = 201
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-201", "https://web.senate.gov.ph/lisdata/43013697!.pdf",]
 title = "HOUSEHOLD HELPER (KASAMBAHAY) BENEFITS AND PROTECTION"
 date_filed = "2007-06-30"
 long_title = "AN ACT AMENDING FOR THIS PURPOSE BOOK III, ARTICLES 141, 142, 143, 148 AND 151 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE ‘LABOR CODE OF THE PHILIPPINES’ BY PROVIDING FOR ADDITIONAL BENEFITS AND PROTECTION TO THE DOMESTIC HOUSEHELPERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code (Articles 141, 142, 143, 148 and 151, Pd 442)", "Batas 
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43013697!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-201"
 
 [[history]]
 date = "2007-06-30"

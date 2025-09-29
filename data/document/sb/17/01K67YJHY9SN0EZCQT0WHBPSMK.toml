@@ -6,7 +6,6 @@ name = "SBN-01143"
 [meta]
 bill_number = 1143
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1143", "https://web.senate.gov.ph/lisdata/2481921373!.pdf",]
 title = "DOH HOSPITAL BED CAPACITY RATIONALIZATION ACT OF 2016"
 date_filed = "2016-09-14"
 long_title = "AN ACT AUTHORIZING THE DEPARTMENT OF HEALTH TO SET AND APPROVE THE BED CAPACITY OF ITS RETAINED HOSPITALS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Health (DOH)", "Hospitals",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2481921373!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1143"
 
 [[history]]
 date = "2016-09-14"

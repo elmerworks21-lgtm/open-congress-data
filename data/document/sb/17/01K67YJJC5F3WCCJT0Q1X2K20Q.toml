@@ -6,7 +6,6 @@ name = "SBN-01640"
 [meta]
 bill_number = 1640
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1640", "https://web.senate.gov.ph/lisdata/2710823338!.pdf",]
 title = "SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF MARINDUQUE"
 date_filed = "2018-01-08"
 long_title = "AN ACT DECLARING MAY 3 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF MARINDUQUE, IN COMMEMORATION OF ITS FOUNDING ANNIVERSARY, TO BE KNOWN AS STA. CRUZ DAY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Special Non-Working)",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2710823338!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1640"
 
 [[history]]
 date = "2018-01-08"

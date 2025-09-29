@@ -6,7 +6,6 @@ name = "SBN-00570"
 [meta]
 bill_number = 570
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-570", "https://web.senate.gov.ph/lisdata/17251085!.pdf",]
 title = "SPECIAL PROGRAM FOR EMPLOYMENT OF STUDENTS (SPES)"
 date_filed = "2004-06-30"
 long_title = "AN ACT STRENGTHENING FURTHER AND BROADENING THE COVERAGE OF THE SPECIAL PROGRAM FOR EMPLOYMENT OF STUDENTS, AMENDING FOR THE PURPOSE CERTAIN PROVISIONS OF REPUBLIC ACT NO. 7323, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "R.A.No. 7323, Spes)", "Student Employment Special Program",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/17251085!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-570"
 
 [[history]]
 date = "2004-06-30"

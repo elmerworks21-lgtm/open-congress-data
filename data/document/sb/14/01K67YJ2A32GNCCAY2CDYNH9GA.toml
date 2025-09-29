@@ -6,7 +6,6 @@ name = "SBN-02070"
 [meta]
 bill_number = 2070
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2070", "https://web.senate.gov.ph/lisdata/68686085!.pdf",]
 title = "PAINT HAZARD REDUCTION ACT OF 2008"
 date_filed = "2008-02-12"
 long_title = "AN ACT TO REDUCE LEAD-BASED PAINT HAZARDS IN RESIDENTIAL ENVIRONMENTS"
@@ -15,6 +14,8 @@ subjects = [ "Lead Content", "Paint",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/68686085!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2070"
 
 [[history]]
 date = "2008-02-12"

@@ -6,7 +6,6 @@ name = "SBN-01579"
 [meta]
 bill_number = 1579
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1579", "https://web.senate.gov.ph/lisdata/1768314890!.pdf",]
 title = "THE MEDICAL CHECKLISTS ACT"
 date_filed = "2013-09-05"
 long_title = "AN ACT TO ENCOURAGE THE USE OF MEDICAL CHECKLISTS"
@@ -15,6 +14,8 @@ subjects = [ "Health Care Delivery System", "Department of Health (DOH)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1768314890!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1579"
 
 [[history]]
 date = "2013-09-05"

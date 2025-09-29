@@ -6,7 +6,6 @@ name = "SBN-00660"
 [meta]
 bill_number = 660
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-660", "https://web.senate.gov.ph/lisdata/4715843158!.pdf",]
 title = "MORINGA DEVELOPMENT ACT"
 date_filed = "2025-07-15"
 long_title = "AN ACT URGING THE COMPREHENSIVE PLANNING, DEVELOPMENT, AND EXPORT PROMOTION OF THE MORINGA (MORINGA OLEIFERA), LOCALLY KNOWN AS MALUNGGAY, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Moringa Development", "Malunggay",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4715843158!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-660"
 
 [[history]]
 date = "2025-07-15"

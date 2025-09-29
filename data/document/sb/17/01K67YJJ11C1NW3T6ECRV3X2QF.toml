@@ -6,7 +6,6 @@ name = "SBN-01262"
 [meta]
 bill_number = 1262
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1262", "https://web.senate.gov.ph/lisdata/2515521669!.pdf",]
 title = "EXPANDED MATERNITY LEAVE LAW"
 date_filed = "2016-12-01"
 long_title = "AN ACT INCREASING THE MATERNITY LEAVE OF FEMALE EMPLOYEES PERIOD TO ONE HUNDRED (100) DAYS AND GRANTING AN OPTION TO EXTEND FOR AN ADDITIONAL THIRTY (30) DAYS WITHOUT PAY, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 1161, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Maternity Leave", "Leave of Absence", "Women",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2515521669!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1262"
 
 [[history]]
 date = "2016-12-01"

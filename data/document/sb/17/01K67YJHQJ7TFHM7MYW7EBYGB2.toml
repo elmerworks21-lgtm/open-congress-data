@@ -6,7 +6,6 @@ name = "SBN-00843"
 [meta]
 bill_number = 843
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-843", "https://web.senate.gov.ph/lisdata/2438420994!.pdf",]
 title = "EQUAL INCOME SHARING ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT STRENGTHENING LOCAL GOVERNMENT UNITS BY INCREASING TO FIFTY PERCENT (50%) THE ANNUAL INTERNAL REVENUE ALLOTMENT SHARE OF LOCAL GOVERNMENT UNITS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Units (LGUS)", "Internal Revenue Allotment (Local
 authors_raw = "Recto, Ralph G., Villanueva, Joel"
 author_codes = ["RRALP", "VEMMA"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2438420994!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-843"
 
 [[history]]
 date = "2016-07-21"

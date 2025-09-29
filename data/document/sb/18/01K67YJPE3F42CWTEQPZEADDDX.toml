@@ -6,7 +6,6 @@ name = "SBN-00082"
 [meta]
 bill_number = 82
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-82", "https://web.senate.gov.ph/lisdata/3032027149!.pdf",]
 title = "RIGHT OF CHILDREN FOR THE ESTABLISHMENT OF THEIR FILIATION"
 date_filed = "2019-07-01"
 long_title = "AN ACT ESTABLISHING THE RIGHT OF CHILDREN FOR THE ESTABLISHMENT OF THEIR FILIATION, REQUIRING THEREFOR MANDATORY PATERNITY TEST FOR THE DETERMINATION OF THEIR FILIATION"
@@ -15,6 +14,8 @@ subjects = [ "Children/Child Care", "Filiation",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3032027149!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-82"
 
 [[history]]
 date = "2019-07-01"

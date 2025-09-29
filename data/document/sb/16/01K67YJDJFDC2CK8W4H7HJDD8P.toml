@@ -6,7 +6,6 @@ name = "SBN-02007"
 [meta]
 bill_number = 2007
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2007", "https://web.senate.gov.ph/lisdata/1840715571!.pdf",]
 title = "VICTIM CONFIDENTIALITY ACT OF 2013"
 date_filed = "2013-12-09"
 long_title = "AN ACT STRENGTHENING THE RIGHTS TO PRIVACY OF VICTIMS OF ABUSE, VIOLENCE, EXPLOITATION, AND OTHER OFFENSES, AND THEIR FAMILIES BY MANDATING THE CONFIDENTIALITY OF RECORDS OF ACTIONS, SUITS OR PROCEEDINGS, AND THE IDENTITY OF VICTIMS AND THEIR FAMILIES, PROVIDING PENALTIES THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Privacy",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1840715571!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2007"
 
 [[history]]
 date = "2013-12-09"

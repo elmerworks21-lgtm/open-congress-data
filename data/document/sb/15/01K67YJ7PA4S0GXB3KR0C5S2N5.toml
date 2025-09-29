@@ -6,7 +6,6 @@ name = "SBN-00735"
 [meta]
 bill_number = 735
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-735", "https://web.senate.gov.ph/lisdata/80726544!.pdf",]
 title = "WOMEN IN STATE CUSTODY ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT PROTECTING WOMEN IN STATE CUSTODY, PRESCRIBING THE MINIMUM STANDARD RULES FOR THEIR TREATMENT, PENALIZING ACTS IN VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Women in State Custody",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80726544!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-735"
 
 [[history]]
 date = "2010-07-07"

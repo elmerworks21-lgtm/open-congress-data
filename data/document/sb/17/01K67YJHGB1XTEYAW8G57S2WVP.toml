@@ -6,7 +6,6 @@ name = "SBN-00500"
 [meta]
 bill_number = 500
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-500", "https://web.senate.gov.ph/lisdata/2394020585!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSION DEVELOPMENT FUND"
 date_filed = "2016-07-19"
 long_title = "AN ACT ESTABLISHING THE NATIONAL LABOR RELATIONS COMMISSION DEVELOPMENT FUND AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Labor Relations Commission Development Fund",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2394020585!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-500"
 
 [[history]]
 date = "2016-07-19"

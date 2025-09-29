@@ -6,7 +6,6 @@ name = "SBN-01315"
 [meta]
 bill_number = 1315
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1315", "https://web.senate.gov.ph/lisdata/3940335809!.pdf",]
 title = "PANDEMIC READINESS AND PROTECTION ACT"
 date_filed = "2022-09-14"
 long_title = "AN ACT PROVIDING FOR THE DEVELOPMENT OF HEALTHCARE AND MANUFACTURING INDUSTRIES IN THE PHILIPPINES TO STRENGTHEN THE COUNTRY'S READINESS AND PROTECTION AGAINST PANDEMICS AND PROVIDING FUNDS THEREFORE"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Pandemic Protection", "Healthcare Manufacturing Industries",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3940335809!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1315"
 
 [[history]]
 date = "2022-09-14"

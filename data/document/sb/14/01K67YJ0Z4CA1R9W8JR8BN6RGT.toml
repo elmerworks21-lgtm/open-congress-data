@@ -6,7 +6,6 @@ name = "SBN-00345"
 [meta]
 bill_number = 345
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-345", "https://web.senate.gov.ph/lisdata/44453848!.pdf",]
 title = "NATIONAL LABOR COMMISSION FRANKING PRIVILEGE"
 date_filed = "2007-07-02"
 long_title = "AN ACT GRANTING FRANKING PRIVILEGE TO THE NATIONAL LABOR RELATIONS COMMISSION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Labor Relations Commission (NLRC)", "Franking Privilege",
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44453848!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-345"
 
 [[history]]
 date = "2007-07-02"

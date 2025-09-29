@@ -6,7 +6,6 @@ name = "SBN-01855"
 [meta]
 bill_number = 1855
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1855", "https://web.senate.gov.ph/lisdata/4070637100!.pdf",]
 title = "ANTI GAME-FIXING ACT"
 date_filed = "2023-02-09"
 long_title = "AN ACT PROHIBITING GAME-FIXING AND PROVIDING PENALTIES FOR VIOLATIONS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Game-Fixing",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4070637100!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1855"
 
 [[history]]
 date = "2023-02-09"

@@ -6,7 +6,6 @@ name = "SBN-01136"
 [meta]
 bill_number = 1136
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1136", "https://web.senate.gov.ph/lisdata/2480221364!.pdf",]
 title = "POSITIVE DISCIPLINE ACT OF 2016"
 date_filed = "2016-09-13"
 long_title = "AN ACT PROHIBITING ALL FORMS OF CORPORAL AND HUMILIATING OR DEGRADING PUNISHMENT OF CHILDREN, AND PROMOTING POSITIVE DISCIPLINE OF CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Corporal Punishment",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2480221364!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1136"
 
 [[history]]
 date = "2016-09-13"

@@ -6,7 +6,6 @@ name = "SBN-02029"
 [meta]
 bill_number = 2029
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2029", "https://web.senate.gov.ph/lisdata/34552838!.pdf",]
 title = "NATIONAL LABOR RELATIONS COMMISSION"
 date_filed = "2005-05-30"
 long_title = "AN ACT DEFINING THE JURISDICTION OF LABOR CASES BETWEEN THE NATIONAL LABOR RELATIONS COMMISSION AND THE REGIONAL OFFICES OF THE DEPARTMENT OF LABOR AND EMPLOYMENT, AMENDING FOR THIS PURPOSE ARTICLES 129 AND 217 OF PRESIDENTIAL DECREE FOUR HUNDRED FORTY-TWO (P.D. 442), AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "National Labor Relations Commission", "Nlrc",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34552838!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2029"
 
 [[history]]
 date = "2005-05-30"

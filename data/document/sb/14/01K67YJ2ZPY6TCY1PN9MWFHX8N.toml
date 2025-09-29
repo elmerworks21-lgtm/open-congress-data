@@ -6,7 +6,6 @@ name = "SBN-03016"
 [meta]
 bill_number = 3016
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3016", "https://web.senate.gov.ph/lisdata/100779041!.pdf",]
 title = "HEALTH FACILITIES REGULATION ACT OF 2009"
 date_filed = "2009-01-26"
 long_title = "AN ACT ENHANCING THE REGULATION OF HEALTH FACILITIES AND APPROPRIATING FUNDS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Health Service Facilities", "Hospitals",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/100779041!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3016"
 
 [[history]]
 date = "2009-01-26"

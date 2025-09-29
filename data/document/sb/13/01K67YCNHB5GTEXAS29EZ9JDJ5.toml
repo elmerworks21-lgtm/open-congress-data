@@ -6,7 +6,6 @@ name = "SBN-00304"
 [meta]
 bill_number = 304
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-304", "https://web.senate.gov.ph/lisdata/1461754!.pdf",]
 title = "SPORTS COMPETITION REVERTED BACK TO DEPT. OF EDUCATION"
 date_filed = "2004-06-30"
 long_title = "AN ACT REPEALING SECTION 9, CHAPTER 3 OF REPUBLIC ACT NO. 9155, OTHERWISE KNOWN AS THE 'GOVERNANCE OF BASIC EDUCATION ACT OF 2001' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Governance of Basic Education (RA 9155)", "Sports Competition (Bac
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1461754!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-304"
 
 [[history]]
 date = "2004-06-30"

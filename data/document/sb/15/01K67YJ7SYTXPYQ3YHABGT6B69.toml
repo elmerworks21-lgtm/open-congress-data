@@ -6,7 +6,6 @@ name = "SBN-00916"
 [meta]
 bill_number = 916
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-916", "https://web.senate.gov.ph/lisdata/83076862!.pdf",]
 title = "PROTECTION FROM INVOLUNTARY COLLECTION ACT"
 date_filed = "2010-07-08"
 long_title = "AN ACT TO PROTECT INDIVIDUALS FROM HAVING THEIR MONEY INVOLUNTARY COLLECTED AND USED FOR POLITICAL ACTIVITIES BY A CORPORATION, ORGANIZATION OR GROUP"
@@ -15,6 +14,8 @@ subjects = [ "Involuntary Collection",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/83076862!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-916"
 
 [[history]]
 date = "2010-07-08"

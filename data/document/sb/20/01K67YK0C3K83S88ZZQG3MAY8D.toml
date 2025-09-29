@@ -6,7 +6,6 @@ name = "SBN-00971"
 [meta]
 bill_number = 971
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-971", "https://web.senate.gov.ph/lisdata/4747143473!.pdf",]
 title = "GOVERNMENT EMPLOYEES FREE MA TUITION IN SUCS ACT"
 date_filed = "2025-08-05"
 long_title = "AN ACT GRANTING FREE TUITION FOR GOVERNMENT EMPLOYEES ENROLLED IN GRADUATE EDUCATION MASTERS PROGRAM IN STATE UNIVERSITIES AND COLLEGES"
@@ -15,6 +14,8 @@ subjects = [ "Tuition Fees", "Government Employees", "State Universities and Col
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4747143473!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-971"
 
 [[history]]
 date = "2025-08-06"

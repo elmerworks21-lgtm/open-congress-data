@@ -6,7 +6,6 @@ name = "SBN-00323"
 [meta]
 bill_number = 323
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-323", "https://web.senate.gov.ph/lisdata/1480775!.pdf",]
 title = "MAINTENANCE OF PARENTS ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE MAINTENANCE AND SUPPORT OF ELDERLY MEMBERS OF THE FAMILY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Maintenance of Parents Act", "Elderly/Senior Citizens (Support)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1480775!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-323"
 
 [[history]]
 date = "2004-06-30"

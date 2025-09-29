@@ -6,7 +6,6 @@ name = "SBN-00162"
 [meta]
 bill_number = 162
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-162", "https://web.senate.gov.ph/lisdata/2358421316!.pdf",]
 title = "NATIONAL TRANSPORTATION SAFETY BOARD ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT TO PROMOTE COST-EFFECTIVE MEASURES FOR THE TRANSPORT SECTOR AND COMMUTING PUBLIC, PROVIDING FOR THE CREATION OF A NATIONAL TRANSPORTATION SAFETY BOARD, PRESCRIBING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "National Transportation Safety Board", "Transportation",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2358421316!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-162"
 
 [[history]]
 date = "2016-06-30"

@@ -6,7 +6,6 @@ name = "SBN-02302"
 [meta]
 bill_number = 2302
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2302", "https://web.senate.gov.ph/lisdata/4209038281!.pdf",]
 title = "NATIONAL LINE WORKERS APPRECIATION DAY ACT"
 date_filed = "2023-07-12"
 long_title = "AN ACT PROCLAIMING THE FIRST MONDAY OF AUGUST EVERY YEAR AS THE NATIONAL LINE WORKERS APPRECIATION DAY"
@@ -15,6 +14,8 @@ subjects = [ "Electrical Line Workers", "Linemen",]
 authors_raw = "Escudero, Francis G."
 author_codes = ["EFRAN"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4209038281!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2302"
 
 [[history]]
 date = "2023-07-12"

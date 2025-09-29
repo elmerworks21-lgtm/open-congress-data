@@ -6,7 +6,6 @@ name = "SBN-00444"
 [meta]
 bill_number = 444
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-444", "https://web.senate.gov.ph/lisdata/78996704!.pdf",]
 title = "USE OF RECYCLABLE OR BIODEGRADABLE MATERIALS FOR PACKAGING OF CONSUMER PRODUCTS"
 date_filed = "2010-07-06"
 long_title = "AN ACT MANDATING THE USE OF RECYCLABLE OR BIODEGRADABLE MATERIALS FOR THE PACKAGING OF CONSUMER PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Recycling",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/78996704!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-444"
 
 [[history]]
 date = "2010-07-06"

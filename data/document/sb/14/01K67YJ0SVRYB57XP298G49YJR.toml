@@ -6,7 +6,6 @@ name = "SBN-00111"
 [meta]
 bill_number = 111
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-111", "https://web.senate.gov.ph/lisdata/41803593!.pdf",]
 title = "FOSTER CARE ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO STRENGTHEN AND PROPAGATE FOSTER CARE FOR ABANDONED, NEGLECTED AND OTHER CHILDREN WITH SPECIAL NEEDS, PROVIDING APPROPRIATIONS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Foster Care Act", "Children and Youth",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41803593!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-111"
 
 [[history]]
 date = "2007-06-30"

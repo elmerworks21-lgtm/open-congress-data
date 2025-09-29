@@ -6,7 +6,6 @@ name = "SBN-01412"
 [meta]
 bill_number = 1412
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1412", "https://web.senate.gov.ph/lisdata/2579422156!.pdf",]
 title = "FREE IRRIGATION SERVICES ACT"
 date_filed = "2017-03-27"
 long_title = "AN ACT ABOLISHING THE IMPOSITION OF IRRIGATION SERVICE FEES (ISF) AND SUCH OTHER SIMILAR OR RELATED FEES FROM BENEFICIARIES OF IRRIGATION SYSTEMS FUNDED AND CONSTRUCTED BY, OR UNDER THE ADMINISTRATION OF THE NATIONAL IRRIGATION ADMINISTRATION, AMENDING FOR THE PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NO. 3601, PRESIDENTIAL DECREE NO. 552 AND PRESIDENTIAL DECREE NO. 1702"
@@ -15,6 +14,8 @@ subjects = [ "Irrigation", "National Irrigation Administration",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2579422156!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1412"
 
 [[history]]
 date = "2017-03-27"

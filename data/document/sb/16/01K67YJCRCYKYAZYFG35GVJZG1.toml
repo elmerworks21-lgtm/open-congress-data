@@ -6,7 +6,6 @@ name = "SBN-00733"
 [meta]
 bill_number = 733
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-733", "https://web.senate.gov.ph/lisdata/1665213893!.pdf",]
 title = "PERSONAL PRIVATE SECURITY GUARDS"
 date_filed = "2013-07-15"
 long_title = "AN ACT PROHIBITING PUBLIC OFFICERS AND THEIR FAMILIES FROM CHARGING TO THE GOVERNMENT THE SALARIES OF THEIR PERSONAL PRIVATE SECURITY GUARDS"
@@ -15,6 +14,8 @@ subjects = [ "Security Guards", "Government Official/Public Official",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1665213893!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-733"
 
 [[history]]
 date = "2013-07-15"

@@ -6,7 +6,6 @@ name = "SBN-01109"
 [meta]
 bill_number = 1109
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1109", "https://web.senate.gov.ph/lisdata/1714714385!.pdf",]
 title = "ANTI-MUFFLER MODIFICATION ACT"
 date_filed = "2013-07-25"
 long_title = "AN ACT PROHIBITING MODIFICATION OF MUFFLERS TO INCREASE NOISE EMITTED FROM EXHAUST SYSTEM"
@@ -15,6 +14,8 @@ subjects = [ "Noise Pollution", "Motor Vehicles",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1714714385!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1109"
 
 [[history]]
 date = "2013-07-25"

@@ -6,7 +6,6 @@ name = "SBN-01086"
 [meta]
 bill_number = 1086
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1086", "https://web.senate.gov.ph/lisdata/53664735!.pdf",]
 title = "PHILIPPINE SUNSET ACT OF 2007"
 date_filed = "2007-07-04"
 long_title = "AN ACT PROVIDING FOR A SYSTEMATIC AND PERIODIC REVIEW OF THE ECONOMY, EFFICIENCY AND VIABILITY OF GOVERNMENT-OWNED OR CONTROLLED CORPORATIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Sunset Act", "Government-Owned and Controlled Corporati
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53664735!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1086"
 
 [[history]]
 date = "2007-07-04"

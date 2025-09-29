@@ -6,7 +6,6 @@ name = "SBN-02518"
 [meta]
 bill_number = 2518
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2518", "https://web.senate.gov.ph/lisdata/63635284!.pdf",]
 title = "URBAN DEVELOPMENT AND HOUSING ACT"
 date_filed = "2006-11-21"
 long_title = "AN ACT AMENDING SECTION 12 OF REPUBLIC ACT NO. 7279, OTHERWISE KNOWN AS THE URBAN DEVELOPMENT AND HOUSING ACT OF 1992, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Urban Development & Housing Act (RA 7279", "Government Properties 
 authors_raw = "Biazon, Rodolfo G., Roxas, Mar"
 author_codes = ["BRODO", "RMARA"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/63635284!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2518"
 
 [[history]]
 date = "2006-11-21"

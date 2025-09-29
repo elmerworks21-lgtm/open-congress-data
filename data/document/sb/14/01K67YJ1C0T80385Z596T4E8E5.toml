@@ -6,7 +6,6 @@ name = "SBN-00969"
 [meta]
 bill_number = 969
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-969", "https://web.senate.gov.ph/lisdata/52354601!.pdf",]
 title = "CIGARETTES TOXICITY LEVEL DISCLOSURE"
 date_filed = "2007-07-04"
 long_title = "AN ACT REQUIRING ALL CIGARETTE AND CIGAR MANUFACTURERS AND DISTRIBUTORS TO SCIENTIFICALLY DETERMINE AND TRUTHFULLY PRINT, ON EACH BOX OR PACK OF CIGARS OR CIGARETTES THAT THEY MANUFACTURE, DISTRIBUTE OR SELL WITHIN THE COUNTRY, THE LEVELS OF NICOTINE, TAR AND CARBON MONOXIDE THAT COULD BE INHALED IN SMOKING A STICK OF CIGAR OR CIGARETTE, AND PROVIDE PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Cigars", "Cigarettes",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52354601!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-969"
 
 [[history]]
 date = "2007-07-04"

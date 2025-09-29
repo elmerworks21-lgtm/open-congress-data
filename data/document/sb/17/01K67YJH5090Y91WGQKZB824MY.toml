@@ -6,7 +6,6 @@ name = "SBN-00030"
 [meta]
 bill_number = 30
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-30", "https://web.senate.gov.ph/lisdata/2344320027!.pdf",]
 title = "ENERGY EFFICIENCY AND CONSERVATION ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT INSTITUTIONALIZING ENERGY EFFICIENCY AND CONSERVATON, ENHANCING THE EFFICIENT USE OF ENERGY, GRANTING INCENTIVES TO ENERGY EFFICIENCY AND CONSERVATION PROJECTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Energy Conservation", "Tax Credit",]
 authors_raw = "Legarda, Loren B., Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI", "LLORE"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2344320027!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-30"
 
 [[history]]
 date = "2016-06-30"

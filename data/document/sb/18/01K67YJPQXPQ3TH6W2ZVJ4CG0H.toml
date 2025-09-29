@@ -6,7 +6,6 @@ name = "SBN-00527"
 [meta]
 bill_number = 527
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-527", "https://web.senate.gov.ph/lisdata/3091027764!.pdf",]
 title = "NATIONAL HAZARD MAPPING ACT OF 2019"
 date_filed = "2019-07-16"
 long_title = "AN ACT PROVIDING FOR THE ISSUANCE OF A LIST OF LOW-LYING AREAS OF THE PHILIPPINE TERRITORY VULNERABLE TO RISING SEA LEVELS AS A RESULT OF CLIMATE CHANGE, AND AREAS AT HIGH RISK FOR NATURAL DISASTERS, MANDATING THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES, DEPARTMENT OF SCIENCE AND TECHNOLOGY, CLIMATE CHANGE COMMISSION AND OTHER CONCERNED GOVERNMENT AGENCIES FOR ITS REGULAR UPDATING AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Map (National Geohazard Map)", "National Mapping and Resource Info
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3091027764!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-527"
 
 [[history]]
 date = "2019-07-16"

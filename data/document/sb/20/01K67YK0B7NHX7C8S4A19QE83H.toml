@@ -6,7 +6,6 @@ name = "SBN-00924"
 [meta]
 bill_number = 924
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-924", "https://web.senate.gov.ph/lisdata/4753843545!.pdf",]
 title = "NATIONAL HAZARD MAPPING ACT"
 date_filed = "2025-08-05"
 long_title = "AN ACT PROVIDING FOR THE ISSUANCE OF A LIST OF LOW-LYING AREAS OF THE PHILIPPINE TERRITORY VULNERABLE TO RISING SEA LEVELS AS A RESULT OF CLIMATE CHANGE, AND AREAS AT HIGH RISK FOR NATURAL DISASTERS, MANDATING THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES, DEPARTMENT OF SCIENCE AND TECHNOLOGY, PHILIPPINE SPACE AGENCY, CLIMATE CHANGE COMMISSION AND OTHER CONCERNED GOVERNMENT AGENCIES FOR ITS REGULAR UPDATING AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Hazard Mapping", "Maps (Multi-Hazard Maps/Flood Hazard Ma
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4753843545!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-924"
 
 [[history]]
 date = "2025-08-05"

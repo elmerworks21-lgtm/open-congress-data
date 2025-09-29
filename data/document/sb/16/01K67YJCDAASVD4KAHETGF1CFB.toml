@@ -6,7 +6,6 @@ name = "SBN-00192"
 [meta]
 bill_number = 192
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-192", "https://web.senate.gov.ph/lisdata/1601813255!.pdf",]
 title = "COMPULSORY TEACHING OF ETHICS ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT MAKING A SEPARATE COURSE ON ETHICS COMPULSORY AT ALL LEVELS OF ELEMENTARY AND SECONDARY EDUCATION, AND IN EVERY DEGREE COURSE IN ALL COLLEGES AND UNIVERSITIES"
@@ -15,6 +14,8 @@ subjects = [ "Ethics",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1601813255!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-192"
 
 [[history]]
 date = "2013-07-01"

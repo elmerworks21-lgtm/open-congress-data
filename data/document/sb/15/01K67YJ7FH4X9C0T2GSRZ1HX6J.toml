@@ -6,7 +6,6 @@ name = "SBN-00399"
 [meta]
 bill_number = 399
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-399", "https://web.senate.gov.ph/lisdata/77746246!.pdf",]
 title = "SMALL CONDOMINIUM UNIT BUYERS PROTECTION ACT OF 2010"
 date_filed = "2010-07-06"
 long_title = "AN ACT EXTENDING PROTECTION TO SMALL CONDOMINIUM UNIT BUYERS AND FOR OTHER RELATED PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Condominium", "Subdivision Buyers Protection",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/77746246!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-399"
 
 [[history]]
 date = "2010-07-06"

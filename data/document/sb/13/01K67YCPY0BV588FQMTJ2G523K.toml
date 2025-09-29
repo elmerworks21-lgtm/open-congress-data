@@ -6,7 +6,6 @@ name = "SBN-02619"
 [meta]
 bill_number = 2619
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2619", "https://web.senate.gov.ph/lisdata/69755728!.pdf",]
 title = "GOCCS ACCOUNTABILITY ACT OF 2007"
 date_filed = "2007-02-20"
 long_title = "AN ACT TO ENSURE THE ACCOUNTABILITY OF GOVERNMENT-OWNED OR CONTROLLED CORPORATIONS, GOVERNMENT FINANCIAL INSTITUTIONS, STATE-OWNED UNIVERSITIES, AND OTHER SIMILAR AGENCIES IN THE PUBLIC SECTOR BY REQUIRING THESE ENTITIES TO BE EVALUATED AND SUBJECTED TO THE TEST OF ECONOMIC AND FINANCIAL VIABILITY, CREATING A CONGRESSIONAL OVERSIGHT COMMITTEE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Owned/Controlled Corp. (GOCC)", "GOCCs Accountability",
 authors_raw = "Gordon, Richard \"Dick\" J., Osmena III, Sergio R., Flavier, Juan M., Drilon, Franklin M."
 author_codes = ["DFRAN", "FJUAN", "GRICH", "OSERG"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/69755728!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2619"
 
 [[history]]
 date = "2007-02-20"

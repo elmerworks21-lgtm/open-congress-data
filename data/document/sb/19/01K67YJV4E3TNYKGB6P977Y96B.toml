@@ -6,7 +6,6 @@ name = "SBN-00381"
 [meta]
 bill_number = 381
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-381", "https://web.senate.gov.ph/lisdata/3814234582!.pdf",]
 title = "AMENDING P.D. NO. 87 (OIL EXPLORATION AND DEVELOPMENT ACT)"
 date_filed = "2022-07-12"
 long_title = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 87, OTHERWISE KNOWN AS THE OIL EXPLORATION AND DEVELOPMENT ACT OF 1972, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Oil and Gas Exploration",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3814234582!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-381"
 
 [[history]]
 date = "2022-07-12"

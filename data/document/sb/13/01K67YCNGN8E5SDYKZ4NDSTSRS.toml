@@ -6,7 +6,6 @@ name = "SBN-00268"
 [meta]
 bill_number = 268
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-268", "https://web.senate.gov.ph/lisdata/1426687!.pdf",]
 title = "LPG CYLINDER ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT RATIONALIZING THE MANUFACTURE, REPAIR, REQUALIFICATION, SALE AND DISTRIBUTION OF LIQUEFIED PETROLEUM GAS (LPG) CYLINDERS, PROVIDING PENALTIES FOR VIOLATION THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Lpg Cylinder Act of 2004", "Liquefied Petroleum Gas Industry",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1426687!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-268"
 
 [[history]]
 date = "2004-06-30"

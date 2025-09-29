@@ -6,7 +6,6 @@ name = "SBN-00727"
 [meta]
 bill_number = 727
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-727", "https://web.senate.gov.ph/lisdata/3107927976!.pdf",]
 title = "TEACHER EDUCATION SCHOLARSHIP PROGRAM OF 2019"
 date_filed = "2019-07-24"
 long_title = "AN ACT PROVIDING SCHOLARSHIP GRANTS TO STUDENTS ENROLLING IN TEACHER EDUCATION AND PROVIDING INCENTIVES FOR TEACHING IN PUBLIC SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Scholarship Grants", "Students",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3107927976!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-727"
 
 [[history]]
 date = "2019-07-24"

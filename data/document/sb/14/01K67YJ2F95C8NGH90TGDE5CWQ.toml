@@ -6,7 +6,6 @@ name = "SBN-02299"
 [meta]
 bill_number = 2299
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2299", "https://web.senate.gov.ph/lisdata/74176586!.pdf",]
 title = "FREE INFORMATION AND COMMUNICATIONS TECHNOLOGY COLLEGE EDUCATION ACT OF 2008"
 date_filed = "2008-05-20"
 long_title = "AN ACT ESTABLISHING AND PROVIDING FOR FREE COLLEGE EDUCATION IN INFORMATION AND COMMUNICATIONS TECHNOLOGY"
@@ -15,6 +14,8 @@ subjects = [ "Information Technology Education",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74176586!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2299"
 
 [[history]]
 date = "2008-05-20"

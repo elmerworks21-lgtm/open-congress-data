@@ -6,7 +6,6 @@ name = "SBN-00464"
 [meta]
 bill_number = 464
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-464", "https://web.senate.gov.ph/lisdata/46693993!.pdf",]
 title = "SYSTEM OF REGISTRATION AND AUTHENTICATION OF CULTURAL PROPERTIES BY THE NATIONAL MUSEUM"
 date_filed = "2007-07-02"
 long_title = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED FORTY EIGHT HUNDRED AND FORTY SIX (R.A. NO. 4846), AS AMENDED OTHERWISE KNOWN AS THE CULTURAL PROPERTIES PRESERVATION AND PROTECTION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Cultural Properties Preservation and Protection (RA 4846)", "Natio
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46693993!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-464"
 
 [[history]]
 date = "2007-07-02"

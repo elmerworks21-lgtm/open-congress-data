@@ -6,7 +6,6 @@ name = "SBN-01617"
 [meta]
 bill_number = 1617
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1617", "https://web.senate.gov.ph/lisdata/28552239!.pdf",]
 title = "MOBILE HEALTH CARE ACT"
 date_filed = "2004-08-03"
 long_title = "AN ACT TO PROVIDE FOR THE USE OF MOBILE UNITS SERVING MEDICAL, DIAGNOSTIC, AND TREATMENT SERVICES, IN ORDER TO ENSURE THE AVAILABILITY OF QUALITY HEALTH CARE SERVICES FOR THE PATIENTS WHO RECEIVE CARE IN REMOTE OR RURAL AREAS AND FOR PATIENTS WHO NEED SPECIALIZED TYPES OF MEDICAL CARE PROVIDED IN A COST-EFFECTIVE WAY"
@@ -15,6 +14,8 @@ subjects = [ "Mobile Health Care Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28552239!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1617"
 
 [[history]]
 date = "2004-08-03"

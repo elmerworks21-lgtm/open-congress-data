@@ -6,7 +6,6 @@ name = "SBN-00829"
 [meta]
 bill_number = 829
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-829", "https://web.senate.gov.ph/lisdata/2437021009!.pdf",]
 title = "LIFETIME VALIDITY OF BIRTH CERTIFICATE ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT PROHIBITING NATIONAL GOVERNMENT AGENCIES FROM REQUIRING THE SUBMISSION OF A PHILIPPINE STATISTIC AUTHORITY CERTIFIED BIRTH CERTIFICATE ISSUED WITHIN THE PAST SIX (6) MONTHS"
@@ -15,6 +14,8 @@ subjects = [ "Birth Certificate", "Philippine Statistics Authority",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2437021009!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-829"
 
 [[history]]
 date = "2016-07-21"

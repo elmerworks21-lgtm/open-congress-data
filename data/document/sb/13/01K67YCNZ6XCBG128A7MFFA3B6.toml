@@ -6,7 +6,6 @@ name = "SBN-01071"
 [meta]
 bill_number = 1071
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1071", "https://web.senate.gov.ph/lisdata/22791436!.pdf",]
 title = "COCONUT EMERGENCY MEASURES ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING AN EMERGENCY MEASURE TO ALLEVIATE THE PLIGHT OF COCONUT FARMERS ADVERSELY AFFECTED BY LOW PRICES OF COPRA AND OTHER COCONUT PRODUCTS, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Coconut Emergency Measures Act",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/22791436!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1071"
 
 [[history]]
 date = "2004-06-30"

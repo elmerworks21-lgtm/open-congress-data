@@ -6,7 +6,6 @@ name = "SBN-00890"
 [meta]
 bill_number = 890
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-890", "https://web.senate.gov.ph/lisdata/1690414140!.pdf",]
 title = "TELECOMMUNICATIONS ACCESSIBILITY ENHANCEMENT ACT"
 date_filed = "2013-07-17"
 long_title = "AN ACT PROVIDING TELECOMMUNICATIONS SYSTEMS ACCESSIBILITY TO THE HEARING-IMPAIRED AND SPEECH-IMPAIRED"
@@ -15,6 +14,8 @@ subjects = [ "Telecommunications Systems Accessibility", "Deaf-Mute",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1690414140!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-890"
 
 [[history]]
 date = "2013-07-17"

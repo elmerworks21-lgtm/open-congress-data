@@ -6,7 +6,6 @@ name = "SBN-02556"
 [meta]
 bill_number = 2556
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2556", "https://web.senate.gov.ph/lisdata/2038017487!.pdf",]
 title = "CHILD FIREARM ACCESS PREVENTION ACT"
 date_filed = "2015-01-05"
 long_title = "AN ACT PENALIZING PARENTS OR GUARDIANS WHO FAIL TO SECURE THEIR FIREARMS FROM BEING ACCESSED BY CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Firearms", "Children/Child Care",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2038017487!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2556"
 
 [[history]]
 date = "2015-01-05"

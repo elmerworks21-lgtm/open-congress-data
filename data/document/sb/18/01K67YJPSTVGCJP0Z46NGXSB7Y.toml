@@ -6,7 +6,6 @@ name = "SBN-00620"
 [meta]
 bill_number = 620
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-620", "https://web.senate.gov.ph/lisdata/3096427896!.pdf",]
 title = "THE POLITICAL PARTY SYSTEM REFORM ACT"
 date_filed = "2019-07-18"
 long_title = "AN ACT STRENGTHENING THE POLITICAL PARTY SYSTEM OF THE PHILIPPINES, CREATING A STATE SUBSIDY FUND FOR POLITICAL PARTIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Political Party",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3096427896!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-620"
 
 [[history]]
 date = "2019-07-18"

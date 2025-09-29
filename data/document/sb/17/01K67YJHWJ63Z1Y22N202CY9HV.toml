@@ -6,7 +6,6 @@ name = "SBN-01067"
 [meta]
 bill_number = 1067
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1067", "https://web.senate.gov.ph/lisdata/2465021233!.pdf",]
 title = "AIR TRAFFIC ACT"
 date_filed = "2016-08-24"
 long_title = "AN ACT GRANTING PRESIDENT RODRIGO ROA DUTERTE EMERGENCY POWERS, TO ADDRESS THE AIR TRAFFIC PROBLEM IN THE COUNTRY AND PRESCRIBING THE MEASURES NECESSARY TO CARRY OUT THE OBJECTIVES OF THE NATIONAL POLICY"
@@ -15,6 +14,8 @@ subjects = [ "Emergency Powers", "President of the Philippines", "Traffic",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2465021233!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1067"
 
 [[history]]
 date = "2016-08-24"

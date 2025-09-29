@@ -6,7 +6,6 @@ name = "SBN-00189"
 [meta]
 bill_number = 189
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-189", "https://web.senate.gov.ph/lisdata/75596100!.pdf",]
 title = "BREAST AND CERVICAL CANCER PROTECTION ACT"
 date_filed = "2010-07-06"
 long_title = "AN ACT REQUIRING THE PHILIPPINE HEALTH INSURANCE CORPORATION TO PROVIDE COVERAGE FOR THE DIAGNOSTIC SERVICES FOR BREAST AND CERVICAL CANCER, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Health Insurance Corporation (PHIC)",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75596100!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-189"
 
 [[history]]
 date = "2010-07-06"

@@ -6,7 +6,6 @@ name = "SBN-01116"
 [meta]
 bill_number = 1116
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1116", "https://web.senate.gov.ph/lisdata/1716714404!.pdf",]
 title = "AUTISM PREVENTION, EARLY DETECTION, DIAGNOSIS AND TREATMENT ACT"
 date_filed = "2013-07-25"
 long_title = "AN ACT REQUIRING HEALTH INSURERS TO PROVIDE FULL COVERAGE FOR THE PREVENTION, EARLY DETECTION, DIAGNOSIS, AND TREATMENT OF AUTISM SPECTRUM DISORDERS"
@@ -15,6 +14,8 @@ subjects = [ "Autism",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1716714404!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1116"
 
 [[history]]
 date = "2013-07-25"

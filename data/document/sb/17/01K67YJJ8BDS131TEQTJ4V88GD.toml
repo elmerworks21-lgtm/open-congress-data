@@ -6,7 +6,6 @@ name = "SBN-01511"
 [meta]
 bill_number = 1511
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1511", "https://web.senate.gov.ph/lisdata/2631922640!.pdf",]
 title = "CITIZENSHIP RETENTION AND RE-ACQUISITION ACT"
 date_filed = "2017-07-25"
 long_title = "AN ACT AMENDING SECTION 5, PARAGRAPH 3 OF REPUBLIC ACT NO. 9225, OTHERWISE KNOWN AS THE CITIZENSHIP RETENTION AND RE-ACQUISITION ACT OF 2003"
@@ -15,6 +14,8 @@ subjects = [ "Citizenship Retention (Natural Born Citizen)",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2631922640!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1511"
 
 [[history]]
 date = "2017-07-25"

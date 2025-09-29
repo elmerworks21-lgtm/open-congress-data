@@ -6,7 +6,6 @@ name = "SBN-00392"
 [meta]
 bill_number = 392
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-392", "https://web.senate.gov.ph/lisdata/2383020494!.pdf",]
 title = "LEGACY FUND ACT OF 2016"
 date_filed = "2016-07-18"
 long_title = "AN ACT ESTABLISHING A LEGACY FUND TO SUPPORT, IMPROVE AND SUSTAIN HIGHER EDUCATION INSTITUTIONS DURING THE TRANSITION PERIOD OF THE ENHANCED BASIC EDUCATION ACT OF 2013, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Non-Teaching Personnel", "Enhanced Basic Education Act
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2383020494!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-392"
 
 [[history]]
 date = "2016-07-18"

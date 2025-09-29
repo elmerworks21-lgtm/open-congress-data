@@ -6,7 +6,6 @@ name = "SBN-00756"
 [meta]
 bill_number = 756
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-756", "https://web.senate.gov.ph/lisdata/3111028006!.pdf",]
 title = "THE ENHANCED CONSUMER ACT"
 date_filed = "2019-07-24"
 long_title = "AN ACT GRANTING BROADER PROTECTION TO CONSUMERS AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7394, OTHERWISE KNOWN AS THE ‘CONSUMER ACT OF THE PHILIPPINES’"
@@ -15,6 +14,8 @@ subjects = [ "Consumer Act (R.A.No. 7394)", "Consumer Protection", "Consumer Bil
 authors_raw = "Recto, Ralph G., Gatchalian, Win"
 author_codes = ["GSHER", "RRALP"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3111028006!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-756"
 
 [[history]]
 date = "2019-07-24"

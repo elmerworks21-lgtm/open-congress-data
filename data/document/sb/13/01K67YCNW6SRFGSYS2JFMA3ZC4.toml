@@ -6,7 +6,6 @@ name = "SBN-00916"
 [meta]
 bill_number = 916
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-916", "https://web.senate.gov.ph/lisdata/21181609!.pdf",]
 title = "CHOCOLATE HILLS PROTECTION ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROCLAIMING THE CHOCOLATE HILLS AS NATIONAL PATRIMONY AND GEOLOGICAL MONUMENTS, PROVIDING PENALTIES FOR THEIR PILLAGE, DEFACEMENT AND DESPOIL, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Chocolate Hills Protection Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21181609!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-916"
 
 [[history]]
 date = "2004-06-30"

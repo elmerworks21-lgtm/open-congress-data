@@ -6,7 +6,6 @@ name = "SBN-00493"
 [meta]
 bill_number = 493
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-493", "https://web.senate.gov.ph/lisdata/3825434691!.pdf",]
 title = "FARM-TO-MARKET ROAD DEVELOPMENT AND ACCELERATION ACT OF 2022"
 date_filed = "2022-07-13"
 long_title = "AN ACT STRENGTHENING THE FARM-TO-MARKET ROAD DEVELOPMENT PROGRAM AND PROVIDING FOR A SUSTAINED REGULAR FUNDING SUPPORT TO ACCELERATE ITS IMPLEMENTATION"
@@ -15,6 +14,8 @@ subjects = [ "Farm-To-Market Roads",]
 authors_raw = "Legarda, Loren B., Villanueva, Joel"
 author_codes = ["LLORE", "VEMMA"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3825434691!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-493"
 
 [[history]]
 date = "2022-07-13"

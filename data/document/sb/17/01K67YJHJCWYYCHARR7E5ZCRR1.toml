@@ -6,7 +6,6 @@ name = "SBN-00601"
 [meta]
 bill_number = 601
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-601", "https://web.senate.gov.ph/lisdata/2408520725!.pdf",]
 title = "LOCAL MUSIC INDUSTRY INCENTIVE ACT"
 date_filed = "2016-07-19"
 long_title = "AN ACT PROVIDING FOR TAX EXEMPTIONS AND SUBSIDES FOR THE LOCAL MUSIC INDUSTRY, AMENDING FOR THIS PURPOSE CERTAIN SECTIONS OF THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Music Industry", "Tax Exemption", "Local Government Code (R.A.No. 
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2408520725!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-601"
 
 [[history]]
 date = "2016-07-19"

@@ -6,7 +6,6 @@ name = "SBN-01504"
 [meta]
 bill_number = 1504
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1504", "https://web.senate.gov.ph/lisdata/3270129564!.pdf",]
 title = "CREDIT PROTECTION TO BORROWERS DURING CALAMITIES"
 date_filed = "2020-05-04"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9510, OTHERWISE KNOWN AS THE 'CREDIT INFORMATION SYSTEM ACT' BY PROVIDING CREDIT PROTECTION TO BORROWERS DURING CALAMITIES AND OTHER EMERGENCIES"
@@ -15,6 +14,8 @@ subjects = [ "Credit Information System", "Calamity/Disaster",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3270129564!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1504"
 
 [[history]]
 date = "2020-05-04"

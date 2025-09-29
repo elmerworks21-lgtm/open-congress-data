@@ -6,7 +6,6 @@ name = "SBN-01059"
 [meta]
 bill_number = 1059
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1059", "https://web.senate.gov.ph/lisdata/1709314307!.pdf",]
 title = "RIVER SYSTEMS AND WATERWAYS ECOLOGICAL ZONES ACT OF 2013"
 date_filed = "2013-07-23"
 long_title = "AN ACT DECLARING AND ESTABLISHING RIVERS, RIVER SYSTEMS, BEACHES, SHORES AND WATERWAYS AS ECOLOGICAL ZONES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rivers and Waterways",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1709314307!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1059"
 
 [[history]]
 date = "2013-07-23"

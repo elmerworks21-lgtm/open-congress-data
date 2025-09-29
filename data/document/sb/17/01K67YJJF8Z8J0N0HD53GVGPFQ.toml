@@ -6,7 +6,6 @@ name = "SBN-01758"
 [meta]
 bill_number = 1758
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1758", "https://web.senate.gov.ph/lisdata/2765323916!.pdf",]
 title = "LIVESTOCK INDUSTRY DEVELOPMENT ACT OF 2018"
 date_filed = "2018-03-20"
 long_title = "AN ACT TO RESTRUCTURE AND RATIONALIZE THE LIVESTOCK INDUSTRY IN ORDER TO STRENGTHEN ITS DEVELOPMENT, PROTECTION AND REGULATORY FUNCTIONS, INCLUDING THE PROMOTION OF DAIRY AND NATIVE ANIMALS AND TO PROVIDE FOR A LIVESTOCK DEVELOPMENT FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Livestock", "Dairy Industry",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2765323916!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1758"
 
 [[history]]
 date = "2018-03-20"

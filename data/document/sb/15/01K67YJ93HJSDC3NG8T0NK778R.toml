@@ -6,7 +6,6 @@ name = "SBN-02678"
 [meta]
 bill_number = 2678
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2678", "https://web.senate.gov.ph/lisdata/107259171!.pdf",]
 title = "THE ARAW NG PAGBASA ACT OF 2011"
 date_filed = "2011-02-08"
 long_title = "AN ACT DECLARING EVERY 27TH DAY OF NOVEMBER AS 'ARAW NG PAGBASA', A SPECIAL WORKING HOLIDAY"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Special Working)",]
 authors_raw = "Guingona III, Teofisto \"Tg\", Sotto III, Vicente C."
 author_codes = ["GTEOF", "SVICE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107259171!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2678"
 
 [[history]]
 date = "2011-02-08"

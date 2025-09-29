@@ -6,7 +6,6 @@ name = "SBN-00370"
 [meta]
 bill_number = 370
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-370", "https://web.senate.gov.ph/lisdata/4686142868!.pdf",]
 title = "FAIR DEBT COLLECTION PRACTICES ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT REGULATING DEBT COLLECTION PRACTICES TO PROTECT DEBTORS FROM ABUSES, HARASSMENT, UNFAIR TREATMENT, AND MISREPRESENTATION"
@@ -15,6 +14,8 @@ subjects = [ "Fair Debt",]
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4686142868!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-370"
 
 [[history]]
 date = "2025-07-10"

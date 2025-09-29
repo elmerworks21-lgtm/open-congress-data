@@ -6,7 +6,6 @@ name = "SBN-02486"
 [meta]
 bill_number = 2486
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2486", "https://web.senate.gov.ph/lisdata/2019217302!.pdf",]
 title = "CARRIAGE OF FOREIGN CONTAINER VANS"
 date_filed = "2014-12-03"
 long_title = "AN ACT EXEMPTING THE CARRIAGE OF CONTAINER VANS FROM THE PROVISIONS OF SECTION 1009 OF PRESIDENTIAL DECREE NO. 1464, OTHERWISE KNOWN AS THE TARIFF AND CUSTOMS CODE OF 1978, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Cabotage", "Tariff and Customs Code (P.D.No. 1464)", "Shipping Ves
 authors_raw = "Trillanes, Antonio \"Sonny\" F., Ejercito-Estrada, Jinggoy P., Poe, Grace L., Aquino IV, Paolo Benigno \"Bam\", Villar, Cynthia A."
 author_codes = ["APAOL", "EJING", "PGRAC", "TANTO", "VCYNT"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2019217302!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2486"
 
 [[history]]
 date = "2014-12-03"

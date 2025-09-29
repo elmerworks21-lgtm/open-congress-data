@@ -6,7 +6,6 @@ name = "SBN-00715"
 [meta]
 bill_number = 715
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-715", "https://web.senate.gov.ph/lisdata/3840234857!.pdf",]
 title = "RESILIENT HOUSING AND HUMAN SETTLEMENTS ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT INSTITUTING A NATIONAL COMPREHENSIVE FRAMEWORK ON RESILIENT HOUSING AND HUMAN SETTLEMENTS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Resilient Housing and Human Settlements",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3840234857!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-715"
 
 [[history]]
 date = "2022-07-18"

@@ -6,7 +6,6 @@ name = "SBN-00340"
 [meta]
 bill_number = 340
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-340", "https://web.senate.gov.ph/lisdata/44403843!.pdf",]
 title = "14-HOUR PUBLIC HEALTH CENTERS"
 date_filed = "2007-07-02"
 long_title = "AN ACT REQUIRING ALL PUBLIC HEALTH CENTERS TO BE OPEN AT ALL TIMES TO PROVIDE CONTINUOUS HEALTH AND MEDICAL SERVICES TO THE PUBLIC"
@@ -15,6 +14,8 @@ subjects = [ "Public Health Centers",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44403843!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-340"
 
 [[history]]
 date = "2007-07-02"

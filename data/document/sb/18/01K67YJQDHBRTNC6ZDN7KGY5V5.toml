@@ -6,7 +6,6 @@ name = "SBN-01475"
 [meta]
 bill_number = 1475
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1475", "https://web.senate.gov.ph/lisdata/3269529534!.pdf",]
 title = "ABOGADO PARA SA BAYAN ACT"
 date_filed = "2020-05-04"
 long_title = "AN ACT TO ENCOURAGE MORE FILIPINO LAWYERS TO SERVE THE PEOPLE AND JOIN THE PUBLIC ATTORNEY'S OFFICE, ESTABLISHING FOR THE PURPOSE THE ABOGADO PARA SA BAYAN RETURN SERVICE PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Public Attorneys Office (PAO)",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3269529534!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1475"
 
 [[history]]
 date = "2020-05-05"

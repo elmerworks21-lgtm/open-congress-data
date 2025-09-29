@@ -6,7 +6,6 @@ name = "SBN-00710"
 [meta]
 bill_number = 710
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-710", "https://web.senate.gov.ph/lisdata/4724143241!.pdf",]
 title = "BARANGAY CCTV SURVEILLANCE ACT OF 2025"
 date_filed = "2025-07-17"
 long_title = "AN ACT MANDATING THE INSTALLATION OF CLOSED-CIRCUIT TELEVISION (CCTV) SYSTEMS IN BARANGAY POSTS AND OTHER SPECIFIC LOCATIONS UNDER THE JURISDICTION OF LOCAL GOVERNMENT UNITS (LGUS) TO ENHANCE PUBLIC SAFETY AND SECURITY"
@@ -15,6 +14,8 @@ subjects = [ "Surveillance Camera", "Barangay Cctv Surveillance",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4724143241!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-710"
 
 [[history]]
 date = "2025-07-17"

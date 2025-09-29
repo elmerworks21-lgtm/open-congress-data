@@ -6,7 +6,6 @@ name = "SBN-01830"
 [meta]
 bill_number = 1830
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1830", "https://web.senate.gov.ph/lisdata/3351930346!.pdf",]
 title = "GOVERNMENT PROCUREMENT REFORM (AMENDMENTS)"
 date_filed = "2020-09-14"
 long_title = "AN ACT TO PURSUE THE ARMED FORCES OF THE PHILIPPINES MODERNIZATION PROGRAM, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9184, OTHERWISE KNOWN AS THE GOVERNMENT PROCUREMENT REFORM ACT"
@@ -15,6 +14,8 @@ subjects = [ "Armed Forces of the Philippines (AFP)", "Government Procurement", 
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3351930346!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1830"
 
 [[history]]
 date = "2020-09-14"

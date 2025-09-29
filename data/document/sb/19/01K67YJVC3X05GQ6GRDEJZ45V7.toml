@@ -6,7 +6,6 @@ name = "SBN-00735"
 [meta]
 bill_number = 735
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-735", "https://web.senate.gov.ph/lisdata/3842834883!.pdf",]
 title = "INFANT- FRIENDLY FACILITIES ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT REQUIRING THE PROVISION OF INFANT-FRIENDLY FACILITIES IN GOVERNMENT AGENCIES AND OTHER ESTABLISHMENTS"
@@ -15,6 +14,8 @@ subjects = [ "Baby/Infant", "Infant- Friendly Facilities", "Government Agencies"
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3842834883!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-735"
 
 [[history]]
 date = "2022-07-18"

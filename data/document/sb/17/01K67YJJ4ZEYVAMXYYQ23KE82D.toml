@@ -6,7 +6,6 @@ name = "SBN-01392"
 [meta]
 bill_number = 1392
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1392", "https://web.senate.gov.ph/lisdata/2560922082!.pdf",]
 title = "APPRENTICESHIP TRAINING SYSTEM ACT OF 2017"
 date_filed = "2017-03-14"
 long_title = "AN ACT PROVIDING FOR A REVISED NATIONAL APPRENTICESHIP PROGRAM, CLARIFYING THE STANDARDS FOR TRAINING AND ENGAGEMENT OF APPRENTICES AND ACCREDITATION OF APPRENTICESHIP PROGRAMS, REPEALING FOR THE PURPOSE CHAPTERS I AND II OF TITLE II, BOOK II OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Apprentice/Apprenticeship", "Labor Code of the Philippines (P.D.No
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2560922082!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1392"
 
 [[history]]
 date = "2017-03-14"

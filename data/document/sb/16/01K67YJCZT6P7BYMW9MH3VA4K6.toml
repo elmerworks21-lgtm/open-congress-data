@@ -6,7 +6,6 @@ name = "SBN-01092"
 [meta]
 bill_number = 1092
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1092", "https://web.senate.gov.ph/lisdata/1712714358!.pdf",]
 title = "PLAIN WRITING FOR PUBLIC SERVICE ACT OF 2013"
 date_filed = "2013-07-24"
 long_title = "AN ACT TO ENHANCE CITIZENS’ ACCESS TO GOVERNMENT INFORMATION AND SERVICES BY ESTABLISHING A SYSTEM IN WHICH GOVERNMENT DOCUMENTS ISSUED TO THE PUBLIC MUST BE WRITTEN CLEARLY, ORDAINING FOR THE PURPOSE A PLAIN WRITING FOR PHILIPPINE PUBLIC SERVICE ACT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Service Commission (CSC)", "Plain Language", "Plain Writing 
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1712714358!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1092"
 
 [[history]]
 date = "2013-07-24"

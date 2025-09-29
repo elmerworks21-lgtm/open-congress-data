@@ -6,7 +6,6 @@ name = "SBN-02508"
 [meta]
 bill_number = 2508
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2508", "https://web.senate.gov.ph/lisdata/2026017368!.pdf",]
 title = "BARBERING AND COSMETOLOGY ACT"
 date_filed = "2014-12-11"
 long_title = "AN ACT REGULATING BARBERING AND COSMETOLOGY"
@@ -15,6 +14,8 @@ subjects = [ "Cosmetology",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2026017368!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2508"
 
 [[history]]
 date = "2014-12-11"

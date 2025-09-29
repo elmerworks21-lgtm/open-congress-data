@@ -6,7 +6,6 @@ name = "SBN-00332"
 [meta]
 bill_number = 332
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-332", "https://web.senate.gov.ph/lisdata/1489784!.pdf",]
 title = "ABOLISHING PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ABOLISHING THE PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT AND TRANSFERRING ITS POWERS AND FUNCTIONS TO THE DEPARTMENT OF JUSTICE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Presidential Commission on Good Gov`T", "PCGG (Abolition; Dept. of
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1489784!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-332"
 
 [[history]]
 date = "2004-06-30"

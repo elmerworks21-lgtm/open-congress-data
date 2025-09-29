@@ -6,7 +6,6 @@ name = "SBN-01850"
 [meta]
 bill_number = 1850
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1850", "https://web.senate.gov.ph/lisdata/3361930475!.pdf",]
 title = "HEALTHCARE FACILITY AUGMENTATION ACT"
 date_filed = "2020-09-28"
 long_title = "AN ACT ESTABLISHING A HOSPITAL IN STATE COLLEGES AND UNIVERSITIES OFFERING MEDICAL DEGREES NATIONWIDE, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Health Facilities", "Hospitals, Establishment", "State Colleges an
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3361930475!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1850"
 
 [[history]]
 date = "2020-09-28"

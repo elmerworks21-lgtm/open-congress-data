@@ -6,7 +6,6 @@ name = "SBN-02677"
 [meta]
 bill_number = 2677
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2677", "https://web.senate.gov.ph/lisdata/72385831!.pdf",]
 title = "LOCAL EMERGENCY CENTERS ACT"
 date_filed = "2007-06-06"
 long_title = "AN ACT ESTABLISHING ONE LOCAL EMERGENCY CENTER IN EVERY MUNICIPALITY THROUGHOUT THE COUNTRY"
@@ -15,6 +14,8 @@ subjects = [ "Local Emergency Centers",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72385831!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2677"
 
 [[history]]
 date = "2007-06-06"

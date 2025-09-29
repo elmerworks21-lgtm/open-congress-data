@@ -6,7 +6,6 @@ name = "SBN-00938"
 [meta]
 bill_number = 938
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-938", "https://web.senate.gov.ph/lisdata/21401667!.pdf",]
 title = "BARANGAY NUTRITION PROGRAM"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING THE POSITION OF BARANGAY NUTRITION WORKER IN EVERY BARANGAY PROVIDING INCENTIVES THERETO, APPROPRIATING FUNDS THEREFOR AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1569"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Nutrition Program", "Pd No. 1569",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21401667!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-938"
 
 [[history]]
 date = "2004-06-30"

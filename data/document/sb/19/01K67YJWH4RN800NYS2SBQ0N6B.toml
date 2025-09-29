@@ -6,7 +6,6 @@ name = "SBN-02320"
 [meta]
 bill_number = 2320
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2320", "https://web.senate.gov.ph/lisdata/4214038336!.pdf",]
 title = "SUSTAINABLE FOREST MANAGEMENT ACT"
 date_filed = "2023-07-18"
 long_title = "AN ACT PROVIDING FOR THE SUSTAINABLE MANAGEMENT OF FOREST AND FOREST LANDS"
@@ -15,6 +14,8 @@ subjects = [ "Forest Land/Forest Limits", "Sustainable Forest Management", "Sust
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4214038336!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2320"
 
 [[history]]
 date = "2023-07-18"

@@ -6,7 +6,6 @@ name = "SBN-00449"
 [meta]
 bill_number = 449
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-449", "https://web.senate.gov.ph/lisdata/1606908!.pdf",]
 title = "IMPOSING PROGRESSIVE TAX ON ALL PRIVATE AGRICULTURAL LANDS"
 date_filed = "2004-06-30"
 long_title = "AN ACT IMPOSING A PROGRESSIVE TAX ON ALL PRIVATE AGRICULTURAL LANDS"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Lands, Private", "Taxes (Progressive Tax)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1606908!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-449"
 
 [[history]]
 date = "2004-06-30"

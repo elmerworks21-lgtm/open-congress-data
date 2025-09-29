@@ -6,7 +6,6 @@ name = "SBN-03372"
 [meta]
 bill_number = 3372
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3372", "https://web.senate.gov.ph/lisdata/1204210597!.pdf",]
 title = "PHILIPPINE RESPIRATORY THERAPY ACT OF 2009"
 date_filed = "2009-08-10"
 long_title = "AN ACT REGULATING THE PRACTICE OF RESPIRATORY THERAPY AND CREATING THE BOARD OF EXAMINERS FOR RESPIRATORY THERAPISTS, PROVIDING FOR ITS STRUCTURE AND ORGANIZATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Respiratory Therapy",]
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1204210597!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3372"
 
 [[history]]
 date = "2009-08-10"

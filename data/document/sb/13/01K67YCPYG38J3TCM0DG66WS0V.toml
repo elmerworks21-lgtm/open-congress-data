@@ -6,7 +6,6 @@ name = "SBN-02648"
 [meta]
 bill_number = 2648
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2648", "https://web.senate.gov.ph/lisdata/71685795!.pdf",]
 title = "MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE"
 date_filed = "2007-06-04"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 3815, ALSO KNOWN AS THE REVISED PENAL CODE, AS AMENDED, ARTICLE 186 ON MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE"
@@ -15,6 +14,8 @@ subjects = [ "Trade Competition", "Monopolies",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71685795!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2648"
 
 [[history]]
 date = "2007-06-04"

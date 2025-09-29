@@ -6,7 +6,6 @@ name = "SBN-01869"
 [meta]
 bill_number = 1869
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1869", "https://web.senate.gov.ph/lisdata/63465670!.pdf",]
 title = "PROHIBITING SMOKING IN A MOTOR VEHICLE IN THE PRESENCE OF A MINOR"
 date_filed = "2007-11-14"
 long_title = "AN ACT PROHIBITING SMOKING TOBACCO PRODUCTS IN A MOTOR VEHICLE WHEN A MINOR IS PRESENT AND PROVIDING GRADUATED PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Smoking Ban",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/63465670!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1869"
 
 [[history]]
 date = "2007-11-14"

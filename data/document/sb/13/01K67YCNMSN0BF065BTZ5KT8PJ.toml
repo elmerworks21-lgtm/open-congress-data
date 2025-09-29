@@ -6,7 +6,6 @@ name = "SBN-00494"
 [meta]
 bill_number = 494
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-494", "https://web.senate.gov.ph/lisdata/1651953!.pdf",]
 title = "CODE OF PROFESSIONAL STANDARDS- POLITICAL PUBLIC RELATIONS"
 date_filed = "2004-06-30"
 long_title = "THE CODE OF PROFESSIONAL STANDARDS FOR THE PRACTICE OF POLITICAL PUBLIC RELATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Political Public Relations (Practice)", "Code of Professional Stan
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1651953!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-494"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01272"
 [meta]
 bill_number = 1272
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1272", "https://web.senate.gov.ph/lisdata/24821851!.pdf",]
 title = "REVISING FORMAT OF C.E.FORM NO. 13 (CERTIFICATES OF VOTES)"
 date_filed = "2004-07-01"
 long_title = "AN ACT REQUIRING THE PREPARATION AND ISSUANCE OF THE CERTIFICATE OF VOTES AS REPLICA OF THE ELECTION RETURNS AND PRESCRIBING A REVISED C.E. FORM NO. 13, AMENDING FOR THAT PURPOSE SECTION 215 OF THE OMNIBUS ELECTION CODE, AS AMENDED BY R. A. NO. 6646, SECTION 16"
@@ -15,6 +14,8 @@ subjects = [ "Certificates of Votes (C.E.Form No. 13)", "Omnibus Election Code (
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24821851!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1272"
 
 [[history]]
 date = "2004-07-01"

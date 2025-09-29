@@ -6,7 +6,6 @@ name = "SBN-02004"
 [meta]
 bill_number = 2004
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2004", "https://web.senate.gov.ph/lisdata/3429931099!.pdf",]
 title = "PHILIPPINE NATIONAL POLICE REVITALIZATION AND CAPABILITY ENHANCEMENT ACT"
 date_filed = "2021-01-20"
 long_title = "AN ACT PROVIDING FOR THE REVITALIZATION AND CAPABILITY ENHANCEMENT OF THE PHILIPPINE NATIONAL POLICE (PNP), APPROPRIATING FUNDS THEREFORE AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine National Police (PNP)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3429931099!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2004"
 
 [[history]]
 date = "2021-01-20"

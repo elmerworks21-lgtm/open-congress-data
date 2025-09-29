@@ -6,7 +6,6 @@ name = "SBN-00497"
 [meta]
 bill_number = 497
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-497", "https://web.senate.gov.ph/lisdata/3071627560!.pdf",]
 title = "PHILIPPINE ONLINE INFRINGEMENT ACT"
 date_filed = "2019-07-15"
 long_title = "AN ACT ENABLING THE INTELLECTUAL PROPERTY OFFICE THROUGH THE NATIONAL TELECOMMUNICATIONS COMMISSION TO CANCEL LICENSES OF INTERNET SERVICE PROVIDERS THAT ALLOW WEBSITES TO INFRINGE OR TO FACILITATE INFRINGEMENT OF COPYRIGHT"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Internet Service Providers", "Online Infringement",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3071627560!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-497"
 
 [[history]]
 date = "2019-07-15"

@@ -6,7 +6,6 @@ name = "SBN-02062"
 [meta]
 bill_number = 2062
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2062", "https://web.senate.gov.ph/lisdata/96038182!.pdf",]
 title = "MAGNA CARTA OF FILIPINO SEAFARERS"
 date_filed = "2010-07-26"
 long_title = "AN ACT INSTITUTING THE MAGNA CARTA OF FILIPINO SEAFARERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Filipino Seafarers",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/96038182!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2062"
 
 [[history]]
 date = "2010-07-26"

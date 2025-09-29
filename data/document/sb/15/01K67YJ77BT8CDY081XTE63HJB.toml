@@ -6,7 +6,6 @@ name = "SBN-00016"
 [meta]
 bill_number = 16
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-16", "https://web.senate.gov.ph/lisdata/73848799!.pdf",]
 title = "MANDATORY COMPUTER EDUCATION ACT OF 2010"
 date_filed = "2010-07-01"
 long_title = "AN ACT REQUIRING MANDATORY COMPUTER EDUCATION IN ALL PUBLIC AND PRIVATE HIGH SCHOOLS AND FOR OTHER RELATED PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Computer Education",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/73848799!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-16"
 
 [[history]]
 date = "2010-07-01"

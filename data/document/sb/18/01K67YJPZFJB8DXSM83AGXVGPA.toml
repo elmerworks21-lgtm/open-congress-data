@@ -6,7 +6,6 @@ name = "SBN-00878"
 [meta]
 bill_number = 878
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-878", "https://web.senate.gov.ph/lisdata/3127628175!.pdf",]
 title = "TOURIST PROTECTION AND ASSISTANCE ACT"
 date_filed = "2019-08-07"
 long_title = "AN ACT ESTABLISHING AN INTER-GOVERNMENTAL TASK FORCE FOR THE PROTECTION AND ASSISTANCE OF TOURISTS"
@@ -15,6 +14,8 @@ subjects = [ "Tourism", "Tourist Protection",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["TOURI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3127628175!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-878"
 
 [[history]]
 date = "2019-08-07"

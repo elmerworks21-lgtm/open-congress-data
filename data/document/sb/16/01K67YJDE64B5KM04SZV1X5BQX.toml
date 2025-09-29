@@ -6,7 +6,6 @@ name = "SBN-01790"
 [meta]
 bill_number = 1790
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1790", "https://web.senate.gov.ph/lisdata/1799015221!.pdf",]
 title = "RESTRICTIONS ON GARNISHMENT OF COMPENSATION ACT"
 date_filed = "2013-10-03"
 long_title = "AN ACT PROVIDING FOR RESTRICTIONS ON GARNISHMENT OF COMPENSATION DUE FOR PERSONAL SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Garnishment of Compensation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1799015221!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1790"
 
 [[history]]
 date = "2013-10-03"

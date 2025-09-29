@@ -6,7 +6,6 @@ name = "SBN-00750"
 [meta]
 bill_number = 750
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-750", "https://web.senate.gov.ph/lisdata/4728843287!.pdf",]
 title = "MEDICAL RESERVE CORPS ACT"
 date_filed = "2025-07-29"
 long_title = "AN ACT STRENGTHENING THE NATIONAL PREPAREDNESS AND RESPONSE TO PANDEMIC, EPIDEMIC, AND OTHER PUBLIC HEALTH EMERGENCIES, CREATING A MEDICAL RESERVE CORPS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Medical Reserve Corps", "Emergency Response/Emergency Preparedness",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4728843287!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-750"
 
 [[history]]
 date = "2025-07-29"

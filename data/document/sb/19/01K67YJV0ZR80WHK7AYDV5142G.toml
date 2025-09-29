@@ -6,7 +6,6 @@ name = "SBN-00222"
 [meta]
 bill_number = 222
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-222", "https://web.senate.gov.ph/lisdata/3793034373!.pdf",]
 title = "FORENSIC DNA DATABANK ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A FORENSIC DNA DATABANK"
@@ -15,6 +14,8 @@ subjects = [ "Forensic Dna Databank",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3793034373!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-222"
 
 [[history]]
 date = "2022-07-07"

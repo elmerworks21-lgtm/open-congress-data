@@ -6,7 +6,6 @@ name = "SBN-03038"
 [meta]
 bill_number = 3038
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3038", "https://web.senate.gov.ph/lisdata/2274519435!.pdf",]
 title = "AMENDING RA 8485, ANIMAL WELFARE ACT (USE OF ANIMALS FOR MARKETING MEDICAL DEVICES BAN)"
 date_filed = "2015-12-16"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8485, ALSO KNOWN AS ANIMAL WELFARE ACT OF 1998, TO PROHIBIT THE USE OF ANIMALS FOR MARKETING MEDICAL DEVICES"
@@ -15,6 +14,8 @@ subjects = [ "Animal Welfare",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2274519435!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3038"
 
 [[history]]
 date = "2015-12-16"

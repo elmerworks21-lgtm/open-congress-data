@@ -6,7 +6,6 @@ name = "SBN-01379"
 [meta]
 bill_number = 1379
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1379", "https://web.senate.gov.ph/lisdata/3964435962!.pdf",]
 title = "DEAF-BLIND AWARENESS WEEK"
 date_filed = "2022-10-12"
 long_title = "AN ACT TO PROCLAIM THE 3RD WEEK OF JUNE AS DEAF-BLIND AWARENESS WEEK"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Deaf-Blind",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3964435962!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1379"
 
 [[history]]
 date = "2022-10-12"

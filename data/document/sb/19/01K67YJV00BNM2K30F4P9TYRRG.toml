@@ -6,7 +6,6 @@ name = "SBN-00179"
 [meta]
 bill_number = 179
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-179", "https://web.senate.gov.ph/lisdata/3788734328!.pdf",]
 title = "NEW OMNIBUS ELECTION CODE OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING FOR THE NEW OMNIBUS ELECTION CODE OF 2022"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3788734328!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-179"
 
 [[history]]
 date = "2022-07-07"

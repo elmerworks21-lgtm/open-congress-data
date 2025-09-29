@@ -6,7 +6,6 @@ name = "SBN-00304"
 [meta]
 bill_number = 304
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-304", "https://web.senate.gov.ph/lisdata/4679342800!.pdf",]
 title = "OPEN GOVERNMENT DATA ACT"
 date_filed = "2025-07-09"
 long_title = "AN ACT INSTITUTIONALIZING THE OPEN GOVERNMENT DATA SYSTEM, MANDATING THE PROACTIVE AND REGULAR PUBLICATION OF POLICY AND OPERATION RELEVANT DATA BY ALL GOVERNMENT AGENCIES AND LOCAL GOVERNMENT UNITS, CREATING THE OPEN GOVERNMENT DATA AUTHORITY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Open Government Data",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4679342800!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-304"
 
 [[history]]
 date = "2025-07-09"

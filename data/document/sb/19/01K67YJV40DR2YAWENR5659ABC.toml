@@ -6,7 +6,6 @@ name = "SBN-00362"
 [meta]
 bill_number = 362
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-362", "https://web.senate.gov.ph/lisdata/3812334562!.pdf",]
 title = "REGULATION ON EMPLOYMENT OF FOREIGN NATIONALS AND TRANSFER OF TECHNOLOGY"
 date_filed = "2022-07-12"
 long_title = "AN ACT ENHANCING THE REGULATION ON EMPLOYMENT OF FOREIGN NATIONALS AND TRANSFER OF TECHNOLOGY, AMENDING FOR THE PURPOSE ARTICLES 40, 41, AND 42 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Foreigners/Alien", 
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3812334562!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-362"
 
 [[history]]
 date = "2022-07-12"

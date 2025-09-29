@@ -6,7 +6,6 @@ name = "SBN-00848"
 [meta]
 bill_number = 848
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-848", "https://web.senate.gov.ph/lisdata/20461530!.pdf",]
 title = "CONTRACTUAL WORKERS MONTHLY SALARY INCREASE"
 date_filed = "2004-06-30"
 long_title = "AN ACT INCREASING THE MONTHLY SALARY OF CONTRACTUAL WORKERS BY FIFTY PERCENT (50%) OF THEIR MONTHLY AND/OR DAILY COMPENSATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Contractual Workers Salary Increase",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20461530!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-848"
 
 [[history]]
 date = "2004-06-30"

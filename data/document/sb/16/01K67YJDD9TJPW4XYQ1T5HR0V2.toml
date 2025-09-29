@@ -6,7 +6,6 @@ name = "SBN-01742"
 [meta]
 bill_number = 1742
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1742", "https://web.senate.gov.ph/lisdata/1790815134!.pdf",]
 title = "AMENDING ART. 310, PENAL CODE (QUALIFIED THEFT)"
 date_filed = "2013-09-26"
 long_title = "AN ACT AMENDING ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE PENAL CODE, ARTICLE 310, TO INCREASE THE PENALTIES IN CERTAIN INSTANCES OF QUALIFIED THEFT"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (R.A.No. 3815)", "Theft and Robbery", "Calamity
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1790815134!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1742"
 
 [[history]]
 date = "2013-09-26"

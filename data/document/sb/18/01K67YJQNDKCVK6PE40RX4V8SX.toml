@@ -6,7 +6,6 @@ name = "SBN-01826"
 [meta]
 bill_number = 1826
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1826", "https://web.senate.gov.ph/lisdata/3351430341!.pdf",]
 title = "SECOND LEGISLATIVE DISTRICT OF THE PROVINCE OF RIZAL"
 date_filed = "2020-09-14"
 long_title = "AN ACT REAPPORTIONING THE SECOND LEGISLATIVE DISTRICT OF THE PROVINCE OF RIZAL INTO THREE (3) LEGISLATIVE DISTRICTS"
@@ -15,6 +14,8 @@ subjects = [ "Legislative Districts",]
 authors_raw = "Tolentino, Francis \"Tol\" N., Marcos, Imee R."
 author_codes = ["MIMEE", "TFRAN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3351430341!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1826"
 
 [[history]]
 date = "2020-09-14"

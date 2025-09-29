@@ -6,7 +6,6 @@ name = "SBN-00959"
 [meta]
 bill_number = 959
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-959", "https://web.senate.gov.ph/lisdata/3876935222!.pdf",]
 title = "FALSE BOMB THREAT PROHIBITION ACT OF 2022"
 date_filed = "2022-08-01"
 long_title = "AN ACT PENALIZING THE DISSEMINATION OF FALSE INFORMATION AS TO THE PRESENCE OF BOMBS, EXPLOSIVES AND OTHER INCENDIARY DEVICES IN HIGH DENSITY OR SENSITIVE PLACES AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Bombs, Explosives and Other Incendiary Devices", "False Bomb Threa
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3876935222!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-959"
 
 [[history]]
 date = "2022-08-01"

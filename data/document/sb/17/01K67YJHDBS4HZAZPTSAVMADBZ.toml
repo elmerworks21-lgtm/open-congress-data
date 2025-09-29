@@ -6,7 +6,6 @@ name = "SBN-00378"
 [meta]
 bill_number = 378
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-378", "https://web.senate.gov.ph/lisdata/2381620480!.pdf",]
 title = "HEALTH PROMOTION ACT OF 2016"
 date_filed = "2016-07-04"
 long_title = "AN ACT ESTABLISHING A NATIONAL HEALTH PROMOTION INSTITUTE TO MAINSTREAM HEALTH PROMOTION IN THE PHILIPPINE HEALTH CARE SYSTEM, PROVIDING FOR A HEALTH PROMOTION FUND AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Care Delivery System",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2381620480!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-378"
 
 [[history]]
 date = "2016-07-04"

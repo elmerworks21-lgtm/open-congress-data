@@ -6,7 +6,6 @@ name = "SBN-00409"
 [meta]
 bill_number = 409
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-409", "https://web.senate.gov.ph/lisdata/45843931!.pdf",]
 title = "MILK NUTRITION AND LABELLING ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING STANDARDS FOR THE LABELING OF MILK"
@@ -15,6 +14,8 @@ subjects = [ "Milk Nutrition and Labelling",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45843931!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-409"
 
 [[history]]
 date = "2007-07-02"

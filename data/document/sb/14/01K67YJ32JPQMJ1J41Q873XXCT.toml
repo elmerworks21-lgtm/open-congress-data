@@ -6,7 +6,6 @@ name = "SBN-03147"
 [meta]
 bill_number = 3147
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3147", "https://web.senate.gov.ph/lisdata/107419496!.pdf",]
 title = "UNIFORM FRANCHISE TAX"
 date_filed = "2009-04-01"
 long_title = "AN ACT IMPOSING A UNIFORM FRANCHISE TAX ON DISTRIBUTION UTILITIES ENJOYING LEGISLATIVE FRANCHISE IN LIEU OF ANY AND ALL TAXES COLLECTED BY THE GOVERNMENT WITH THE END IN VIEW OF REDUCING THE COST OF ELECTRICITY BORNED BY CONSUMERS"
@@ -15,6 +14,8 @@ subjects = [ "Franchise Tax", "Electricity",]
 authors_raw = "Enrile, Juan Ponce, Lacson, Panfilo M."
 author_codes = ["EJUAN", "LPANF"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107419496!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3147"
 
 [[history]]
 date = "2009-04-01"

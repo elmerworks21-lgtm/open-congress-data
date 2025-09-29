@@ -6,7 +6,6 @@ name = "SBN-01040"
 [meta]
 bill_number = 1040
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1040", "https://web.senate.gov.ph/lisdata/2462221203!.pdf",]
 title = "FREE TERTIARY AGRICULTURAL EDUCATION ACT"
 date_filed = "2016-08-17"
 long_title = "AN ACT GRANTING FREE TERTIARY AGRICULTURAL EDUCATION ACT, AND OTHER RELATED COURSES TO ALL DEPENDENT CHILDREN OF REGISTERED INDIGENT FARMERS IN THE COUNTRY, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Free Tertiary Education", "Agricultural Education", "Farmers",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2462221203!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1040"
 
 [[history]]
 date = "2016-08-17"

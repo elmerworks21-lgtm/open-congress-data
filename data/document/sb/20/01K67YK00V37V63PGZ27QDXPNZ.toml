@@ -6,7 +6,6 @@ name = "SBN-00369"
 [meta]
 bill_number = 369
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-369", "https://web.senate.gov.ph/lisdata/4686042867!.pdf",]
 title = "PHILIPPINE CIVIL REGISTRATION AND VITAL STATISTICS ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT PROVIDING FOR A COMPREHENSIVE AND RESPONSIVE CIVIL REGISTRATION AND VITAL STATISTICS SYSTEM, REPEALING FOR THIS PURPOSE ACT NO. 3753 OR THE PHILIPPINE LAW ON REGISTRY OF CIVIL STATUS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Registration System",]
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4686042867!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-369"
 
 [[history]]
 date = "2025-07-10"

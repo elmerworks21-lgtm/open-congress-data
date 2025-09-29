@@ -6,7 +6,6 @@ name = "SBN-00463"
 [meta]
 bill_number = 463
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-463", "https://web.senate.gov.ph/lisdata/79526755!.pdf",]
 title = "EMERGENCY RESPONSE EMPLOYEES DISEASE PROTECTON ACT, HEPATITIS C"
 date_filed = "2010-07-06"
 long_title = "AN ACT TO PROVIDE FOR A STUDY AND FOR DEMONSTRATION PROJECTS REGARDING CASES OF HEPATITIS C AMONG FIREFIGHTERS, PARAMEDICS, EMERGENCY MEDICAL TECHNICIANS AND FOR OTHER EMERGENCY RESPONSE EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Emergency Response/Emergency Preparedness", "Hepatitis-C",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79526755!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-463"
 
 [[history]]
 date = "2010-07-06"

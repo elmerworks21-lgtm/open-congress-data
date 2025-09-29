@@ -6,7 +6,6 @@ name = "SBN-00712"
 [meta]
 bill_number = 712
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-712", "https://web.senate.gov.ph/lisdata/49344318!.pdf",]
 title = "NISMED ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT CREATING THE NATIONAL INSTITUTE FOR SCIENCE AND MATHEMATICS EDUCATION DEVELOPMENT, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Institute for Science", "Mathematics Education Developmen
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49344318!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-712"
 
 [[history]]
 date = "2007-07-03"

@@ -6,7 +6,6 @@ name = "SBN-01371"
 [meta]
 bill_number = 1371
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1371", "https://web.senate.gov.ph/lisdata/2552722034!.pdf",]
 title = "PHILIPPINE PIPELINE ACT OF 2017"
 date_filed = "2017-03-07"
 long_title = "AN ACT TO STRENGTHEN THE JURISDICTION AND POWER OF THE DEPARTMENT OF ENERGY OVER PETROLEUM PIPELINE OPERATIONS AND FOR THIS PURPOSE PROVIDE A PETROLEUM PIPELINE CODE TO PRESCRIBE STANDARDS FOR THE DESIGN, CONSTRUCTION, OPERATION AND MAINTENANCE AND ABANDONMENT OF LIQUID PETROLEUM PIPELINES AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES."
@@ -15,6 +14,8 @@ subjects = [ "Department of Energy (DOE)", "Petroleum Pipeline Code",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2552722034!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1371"
 
 [[history]]
 date = "2017-03-07"

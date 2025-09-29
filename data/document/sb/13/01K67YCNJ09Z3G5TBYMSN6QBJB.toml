@@ -6,7 +6,6 @@ name = "SBN-00341"
 [meta]
 bill_number = 341
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-341", "https://web.senate.gov.ph/lisdata/1498793!.pdf",]
 title = "RURAL DENTIST IN EVERY RURAL HEALTH UNIT"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING A POSITION OF RURAL DENTIST IN EVERY RURAL HEALTH UNIT UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Rural Dentist (Rural Health Unit)", "Dept of Health (DOH)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1498793!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-341"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01280"
 [meta]
 bill_number = 1280
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1280", "https://web.senate.gov.ph/lisdata/2519721712!.pdf",]
 title = "CORPORATION CODE OF THE PHILIPPINES"
 date_filed = "2016-12-13"
 long_title = "AN ACT AMENDING BATAS PAMBANSA BLG. 68 OR THE CORPORATION CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Corporation Code",]
 authors_raw = "Escudero, Francis \"Chiz\" G., Drilon, Franklin M., Aquino IV, Paolo Benigno \"Bam\", Angara, Juan Edgardo \"Sonny\" M., Zubiri, Juan Miguel F., Binay, Maria Lourdes Nancy S., Ejercito, Joseph Victor G., Gatchalian, Sherwin T., Gordon, Richard J., Honasan II, Gregorio B., Hontiveros, Risa, Lacson, Panfilo M., Pacquiao, Emmanuel \"Manny\" D., Pangilinan, Francis N., Pimentel, Aquilino Koko III L., Poe, Grace L., Sotto III, Vicente C., Trillanes, Antonio \"Sonny\" F., Villanueva, Joel, Villar, Cynthia A., De Lima, Leila M."
 author_codes = ["APAOL", "ASONN", "BMARI", "DFRAN", "DLEIL", "EFRAN", "EVICT", "GRICH", "GSHER", "HANAT", "HGREG", "LPANF", "PAQUI", "PEMMA", "PFRAN", "PGRAC", "SVICE", "TANTO", "VCYNT", "VEMMA", "ZJMIG"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2519721712!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1280"
 
 [[history]]
 date = "2016-12-13"

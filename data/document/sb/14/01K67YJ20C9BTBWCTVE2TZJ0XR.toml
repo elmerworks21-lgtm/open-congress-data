@@ -6,7 +6,6 @@ name = "SBN-01651"
 [meta]
 bill_number = 1651
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1651", "https://web.senate.gov.ph/lisdata/60325367!.pdf",]
 title = "PHILIPPINE RUBBER RESEARCH INSTITUTE ACT OF 2007"
 date_filed = "2007-09-26"
 long_title = "AN ACT CREATING THE PHILIPPINE RUBBER RESEARCH INSTITUTE TO DEVELOP THE PHILIPPINE RUBBER INDUSTRY AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60325367!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1651"
 
 [[history]]
 date = "2007-09-26"

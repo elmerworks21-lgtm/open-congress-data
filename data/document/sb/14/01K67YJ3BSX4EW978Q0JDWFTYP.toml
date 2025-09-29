@@ -6,7 +6,6 @@ name = "SBN-03509"
 [meta]
 bill_number = 3509
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3509", "https://web.senate.gov.ph/lisdata/1288811552!.pdf",]
 title = "NATIONAL MENTAL HEALTH ACT OF 2009"
 date_filed = "2009-11-03"
 long_title = "AN ACT PROVIDING FOR A NATIONAL MENTAL HEALTH CARE DELIVERY SYSTEM, ESTABLISHING FOR THE PURPOSE THE PHILIPPINE COUNCIL FOR MENTAL HEALTH AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Mental Health",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1288811552!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3509"
 
 [[history]]
 date = "2009-11-03"

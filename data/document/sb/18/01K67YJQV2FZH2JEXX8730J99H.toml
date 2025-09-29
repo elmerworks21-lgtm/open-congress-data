@@ -6,7 +6,6 @@ name = "SBN-02044"
 [meta]
 bill_number = 2044
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2044", "https://web.senate.gov.ph/lisdata/3446531278!.pdf",]
 title = "EGG BASKET ACT"
 date_filed = "2021-02-09"
 long_title = "AN ACT DECLARING THE MUNICIPALITY OF SAN JOSE IN THE PROVINCE OF BATANGAS, AS THE EGG BASKET OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Egg Basket Act",]
 authors_raw = "Villar, Cynthia A., Binay, Maria Lourdes Nancy S., Poe, Grace, Villanueva, Joel"
 author_codes = ["BMARI", "PGRAC", "VCYNT", "VEMMA"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3446531278!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2044"
 
 [[history]]
 date = "2021-02-09"

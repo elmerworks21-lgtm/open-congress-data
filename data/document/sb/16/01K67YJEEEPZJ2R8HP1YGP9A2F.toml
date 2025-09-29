@@ -6,7 +6,6 @@ name = "SBN-02983"
 [meta]
 bill_number = 2983
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2983", "https://web.senate.gov.ph/lisdata/2237019089!.pdf",]
 title = "FOREST LANDS LIMITS ACT OF 2015"
 date_filed = "2015-10-06"
 long_title = "AN ACT PROVIDING FOR THE DELINEATION OF THE SPECIFIC FOREST LANDS LIMITS OF THE PUBLIC DOMAIN AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forest Land", "Forest Limits",]
 authors_raw = "Escudero, Francis \"Chiz\" G., Recto, Ralph G., Ejercito, Joseph Victor G., Legarda, Loren B., Marcos, Ferdinand \"Bongbong\" R."
 author_codes = ["EFRAN", "EVICT", "LLORE", "MFERD", "RRALP"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2237019089!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2983"
 
 [[history]]
 date = "2015-10-06"

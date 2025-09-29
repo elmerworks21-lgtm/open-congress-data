@@ -6,7 +6,6 @@ name = "SBN-03144"
 [meta]
 bill_number = 3144
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3144", "https://web.senate.gov.ph/lisdata/106939451!.pdf",]
 title = "PROMOTING GREEN COLLAR JOBS IN THE PHILIPPINES ACT OF 2009"
 date_filed = "2009-03-31"
 long_title = "AN ACT PROMOTING THE CREATION OF GREEN COLLAR JOBS, PROVIDING A STRATEGIC INITIATIVE FOR ITS IMPLEMENTATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Employment Programs", "Green Collar Jobs",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/106939451!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3144"
 
 [[history]]
 date = "2009-03-31"

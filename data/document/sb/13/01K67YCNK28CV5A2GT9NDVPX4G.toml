@@ -6,7 +6,6 @@ name = "SBN-00399"
 [meta]
 bill_number = 399
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-399", "https://web.senate.gov.ph/lisdata/1556857!.pdf",]
 title = "BARANGAY OFFICIALS/EMPLOYEES RETIREMENT/LEAVE BENEFITS"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR DEATH, INJURY, RETIREMENT AND LEAVE BENEFITS OF BARANGAY OFFICIALS AND EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Officials/Employees", "Death/Injury/Retirement/Leave Bene
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1556857!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-399"
 
 [[history]]
 date = "2004-06-30"

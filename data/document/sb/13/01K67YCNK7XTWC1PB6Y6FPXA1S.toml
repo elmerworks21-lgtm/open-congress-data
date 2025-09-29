@@ -6,7 +6,6 @@ name = "SBN-00410"
 [meta]
 bill_number = 410
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-410", "https://web.senate.gov.ph/lisdata/1567868!.pdf",]
 title = "THE PEOPLE'S ORGANIZATION ACT 0F 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO GUARANTEE THE RIGHTS OF PEOPLE'S ORGANIZATIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "People`S Organizations (Rights)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1567868!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-410"
 
 [[history]]
 date = "2004-06-30"

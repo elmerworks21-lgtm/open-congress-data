@@ -6,7 +6,6 @@ name = "SBN-00562"
 [meta]
 bill_number = 562
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-562", "https://web.senate.gov.ph/lisdata/3833934790!.pdf",]
 title = "PAGKAIN PARA SA LAHAT ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT ESTABLISHING THE PAGKAIN PARA SA LAHAT PROGRAM, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pagkain Para Sa Lahat Program", "Food Banks and Soup Kitchens",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3833934790!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-562"
 
 [[history]]
 date = "2022-07-14"

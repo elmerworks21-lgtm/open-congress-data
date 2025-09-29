@@ -6,7 +6,6 @@ name = "SBN-00633"
 [meta]
 bill_number = 633
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-633", "https://web.senate.gov.ph/lisdata/4710743107!.pdf",]
 title = "USE OF DIGITAL PAYMENT ACT"
 date_filed = "2025-07-15"
 long_title = "AN ACT PROMOTING THE ADOPTION OF DIGITAL PAYMENTS FOR FINANCIAL TRANSACTIONS OF THE GOVERNMENT AND ALL MERCHANTS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Digital Payments", "Financial Transaction",]
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4710743107!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-633"
 
 [[history]]
 date = "2025-07-15"

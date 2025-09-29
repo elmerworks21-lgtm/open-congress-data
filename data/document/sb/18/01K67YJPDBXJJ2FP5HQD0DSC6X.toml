@@ -6,7 +6,6 @@ name = "SBN-00050"
 [meta]
 bill_number = 50
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-50", "https://web.senate.gov.ph/lisdata/3026627298!.pdf",]
 title = "ALLOWING THE USE OF MOTORCYCLES AS PUBLIC UTILITY VEHICLES"
 date_filed = "2019-07-01"
 long_title = "AN ACT ALLOWING THE USE OF MOTORCYCLES AS PUBLIC UTILITY VEHICLES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 4136, OTHERWISE KNOWN AS THE ‘LAND TRANSPORTATION AND TRAFFIC CODE’"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Motorcycle", "Habal-Habal", "Public Utility Vehicles",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3026627298!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-50"
 
 [[history]]
 date = "2019-07-01"

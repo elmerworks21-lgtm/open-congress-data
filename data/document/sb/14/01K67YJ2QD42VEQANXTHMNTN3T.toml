@@ -6,7 +6,6 @@ name = "SBN-02651"
 [meta]
 bill_number = 2651
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2651", "https://web.senate.gov.ph/lisdata/88428042!.pdf",]
 title = "GOVERNMENT FUNDING, ACCOUNTABILITY AND TRANSPARENCY ACT"
 date_filed = "2008-10-06"
 long_title = "AN ACT REQUIRING FULL DISCLOSURE OF ALL ENTITIES AND ORGANIZATIONS RECEIVING GOVERNMENT FUNDS"
@@ -15,6 +14,8 @@ subjects = [ "Government Transparency",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/88428042!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2651"
 
 [[history]]
 date = "2008-10-06"

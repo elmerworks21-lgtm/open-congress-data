@@ -6,7 +6,6 @@ name = "SBN-01308"
 [meta]
 bill_number = 1308
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1308", "https://web.senate.gov.ph/lisdata/2532221832!.pdf",]
 title = "ENERGY PROCUREMENT ACT OF 2016"
 date_filed = "2017-01-31"
 long_title = "AN ACT INSTITUTIONALIZING REFORMS IN THE PROCUREMENT BY DISTRIBUTION UTILITIES OF SUPPLY FOR THE CAPTIVE MARKET"
@@ -15,6 +14,8 @@ subjects = [ "Energy Procurement",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2532221832!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1308"
 
 [[history]]
 date = "2017-01-31"

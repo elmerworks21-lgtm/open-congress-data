@@ -6,7 +6,6 @@ name = "SBN-00521"
 [meta]
 bill_number = 521
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-521", "https://web.senate.gov.ph/lisdata/3828234720!.pdf",]
 title = "EHEALTH SYSTEM AND SERVICES ACT OF 2022"
 date_filed = "2022-07-13"
 long_title = "AN ACT ESTABLISHING PHILIPPINE EHEALTH SYSTEM AND SERVICES IN SUPPORT OF UNIVERSAL HEALTH CARE, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine E-Health System and Services", "E-Health (Electronic He
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3828234720!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-521"
 
 [[history]]
 date = "2022-07-13"

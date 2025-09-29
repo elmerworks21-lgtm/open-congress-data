@@ -6,7 +6,6 @@ name = "SBN-01033"
 [meta]
 bill_number = 1033
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1033", "https://web.senate.gov.ph/lisdata/22371340!.pdf",]
 title = "FIXING THE DATES FOR ELECTION OF SECTORAL REPRESENTATIVES"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE ELECTIONS OF THE SECTORAL REPRESENTATIVES TO THE SANGGUNIANG BAYAN, SANGGUNIANG PANLUNGSOD, AND SANGGUNIANG PANLALAWIGAN, FIXING THE DATES THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sectoral Reprepsentatives/Sanggunians", "Elections/Electoral Refor
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/22371340!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1033"
 
 [[history]]
 date = "2004-06-30"

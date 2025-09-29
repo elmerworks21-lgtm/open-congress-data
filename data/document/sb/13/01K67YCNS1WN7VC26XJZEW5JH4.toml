@@ -6,7 +6,6 @@ name = "SBN-00739"
 [meta]
 bill_number = 739
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-739", "https://web.senate.gov.ph/lisdata/19291336!.pdf",]
 title = "COMMUNITY ENVIRONMENTAL INFORMATION PROGRAM ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO REQUIRE INDUSTRIES, FACTORIES, COMPANIES, OR ANY INSTITUTION, FIRM OR ESTABLISHMENT USING CHEMICALS AND THEIR BY-PRODUCTS FOR PRODUCTION, TO DEVELOP AND PROMOTE A COMMUNITY ENVIRONMENT INFORMATION PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Community Environmental Information", "Industries/Factories/Compan
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19291336!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-739"
 
 [[history]]
 date = "2004-06-30"

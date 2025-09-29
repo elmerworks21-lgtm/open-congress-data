@@ -6,7 +6,6 @@ name = "SBN-01452"
 [meta]
 bill_number = 1452
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1452", "https://web.senate.gov.ph/lisdata/3260729473!.pdf",]
 title = "AMENDING R.A. NO. 7977 (AN ACT TO LENGTHEN THE SCHOOL CALENDAR)"
 date_filed = "2020-04-27"
 long_title = "AN ACT AUTHORIZING THE SECRETARY OF EDUCATION TO POSTPONE THE START OF SCHOOL YEAR IN CASE OF A DECLARATION OF A STATE OF EMERGENCY, STATE OF CALAMITY OR SIMILAR OCCURRENCE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7977, OTHERWISE KNOWN AS ‘AN ACT TO LENGTHEN THE SCHOOL CALENDAR FROM TWO HUNDRED (200) DAYS TO NOT MORE THAN TWO HUNDRED TWENTY (220) CLASS DAYS’"
@@ -15,6 +14,8 @@ subjects = [ "School Calendar", "Covid-19",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3260729473!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1452"
 
 [[history]]
 date = "2020-04-27"

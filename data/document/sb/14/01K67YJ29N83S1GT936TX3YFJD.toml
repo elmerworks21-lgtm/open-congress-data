@@ -6,7 +6,6 @@ name = "SBN-02048"
 [meta]
 bill_number = 2048
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2048", "https://web.senate.gov.ph/lisdata/67946013!.pdf",]
 title = "MAGNA CARTA OF WOMEN"
 date_filed = "2008-02-04"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF WOMEN IN THE PHILIPPINES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67946013!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2048"
 
 [[history]]
 date = "2008-02-04"

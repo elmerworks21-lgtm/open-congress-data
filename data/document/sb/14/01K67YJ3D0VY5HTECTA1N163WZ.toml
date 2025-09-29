@@ -6,7 +6,6 @@ name = "SBN-03557"
 [meta]
 bill_number = 3557
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3557", "https://web.senate.gov.ph/lisdata/1327311839!.pdf",]
 title = "BARBERING AND COSMETOLOGY ACT"
 date_filed = "2009-12-15"
 long_title = "AN ACT REGULATING BARBERING AND COSMETOLOGY."
@@ -15,6 +14,8 @@ subjects = [ "Barbering", "Cosmetology",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1327311839!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3557"
 
 [[history]]
 date = "2009-12-15"

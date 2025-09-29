@@ -6,7 +6,6 @@ name = "SBN-00685"
 [meta]
 bill_number = 685
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-685", "https://web.senate.gov.ph/lisdata/3862535080!.pdf",]
 title = "FULL DIGITAL TRANSFORMATION ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT MANDATING THE FULL DIGITAL TRANSFORMATION OF ALL GOVERNMENT AGENCIES, OFFICES AND CORPORATIONS, INCLUDING LOCAL GOVERNMENT UNITS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Digital Transformation", "Government Agencies", "Digital Services"
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3862535080!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-685"
 
 [[history]]
 date = "2022-07-18"

@@ -6,7 +6,6 @@ name = "SBN-00288"
 [meta]
 bill_number = 288
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-288", "https://web.senate.gov.ph/lisdata/43883791!.pdf",]
 title = "ANTI-CELLPHONE SNATCHING ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT PUNISHING THE SNATCHING OF MOBILE PHONES AND OTHER RELATED GADGETS"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Cellphone Snatching", "Cellular Phones/Cellphones/Mobile Phon
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43883791!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-288"
 
 [[history]]
 date = "2007-06-30"

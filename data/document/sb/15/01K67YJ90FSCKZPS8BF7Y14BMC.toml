@@ -6,7 +6,6 @@ name = "SBN-02569"
 [meta]
 bill_number = 2569
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2569", "https://web.senate.gov.ph/lisdata/103218839!.pdf",]
 title = "VALUE-ADDED TAX EXEMPTION ON FOREIGN DONATIONS"
 date_filed = "2010-10-26"
 long_title = "AN ACT AMENDING SECTION 107 (A) OF THE NATIONAL INTERNAL REVENUE CODE SEEKING TO EXEMPT FROM THE IMPOSITION OF THE VALUE ADDED TAX ON DONATED IMPORTATIONS OF ITEMS OR GOODS, WHICH ARE FOR NON-PROFIT, CHARITABLE, HUMANITARIAN, RELIEF PURPOSES."
@@ -15,6 +14,8 @@ subjects = [ "Value-Added Tax (VAT)", "Foreign Donations",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/103218839!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2569"
 
 [[history]]
 date = "2010-10-26"

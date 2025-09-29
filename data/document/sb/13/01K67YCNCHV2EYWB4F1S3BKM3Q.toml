@@ -6,7 +6,6 @@ name = "SBN-00047"
 [meta]
 bill_number = 47
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-47", "https://web.senate.gov.ph/lisdata/1161624!.pdf",]
 title = "OIL POLLUTION COMPENSATION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE IMPLEMENTATION OF THE PROVISIONS OF THE 1992 INTERNATIONAL CONVENTION ON CIVIL LIABILITY FOR OIL POLLUTION DAMAGE AND THE 1992 INTERNATIONAL CONVENTION ON THE ESTABLISHMENT OF AN INTERNATIONAL FUND FOR COMPENSATION FOR OIL POLLUTION DAMAGE, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Oil Pollution Compensation Act", "International Fund (Oil Pollutio
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1161624!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-47"
 
 [[history]]
 date = "2004-06-30"

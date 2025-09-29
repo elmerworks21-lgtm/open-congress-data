@@ -6,7 +6,6 @@ name = "SBN-00210"
 [meta]
 bill_number = 210
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-210", "https://web.senate.gov.ph/lisdata/43103706!.pdf",]
 title = "COMPREHENSIVE HANDEDNESS ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT INSTITUTING A COMPREHENSIVE AND HOLISTIC FRAMEWORK AND PROGRAMS FOR LEFT-HANDERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Comprehensive Handedness Act (Program for Left-Handers)", "Philipp
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43103706!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-210"
 
 [[history]]
 date = "2007-06-30"

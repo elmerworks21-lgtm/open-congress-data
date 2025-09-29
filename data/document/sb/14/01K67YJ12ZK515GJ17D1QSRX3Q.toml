@@ -6,7 +6,6 @@ name = "SBN-00531"
 [meta]
 bill_number = 531
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-531", "https://web.senate.gov.ph/lisdata/47424061!.pdf",]
 title = "ELECTORAL FRAUD"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO AMEND ARTICLE XXII, SECTION 261 (DD) OF BATAS PAMBANSA BLG. 881, OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE OF THE PHILIPPINES, AS AMENDED, TO INCLUDE OTHER FORMS OF ELECTORAL FRAUD, PRESCRIBING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electoral Fraud",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47424061!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-531"
 
 [[history]]
 date = "2007-07-02"

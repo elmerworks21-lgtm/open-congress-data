@@ -6,7 +6,6 @@ name = "SBN-00802"
 [meta]
 bill_number = 802
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-802", "https://web.senate.gov.ph/lisdata/50264419!.pdf",]
 title = "ANTI-DISCRIMINATION AGAINST WOMEN"
 date_filed = "2007-07-03"
 long_title = "AN ACT EXPANDING THE PROHIBITED ACTS OF DISCRIMINATION AGAINST WOMEN ON ACCOUNT OF SEX, AMENDING FOR THE PURPOSE ARTICLES 135 AND 137 OF P.D. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination Against Women",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50264419!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-802"
 
 [[history]]
 date = "2007-07-03"

@@ -6,7 +6,6 @@ name = "SBN-01820"
 [meta]
 bill_number = 1820
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1820", "https://web.senate.gov.ph/lisdata/93857932!.pdf",]
 title = "WAGES AND TIPS PROTECTION ACT"
 date_filed = "2010-07-21"
 long_title = "AN ACT PROVIDING FOR THE PROTECTON OF WAGES AND TIPS RECEIVED BY CERTAIN EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Bartenders, Wait Staff Employees and Service Staff Employees",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/93857932!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1820"
 
 [[history]]
 date = "2010-07-21"

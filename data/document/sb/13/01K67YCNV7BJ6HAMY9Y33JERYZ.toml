@@ -6,7 +6,6 @@ name = "SBN-00865"
 [meta]
 bill_number = 865
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-865", "https://web.senate.gov.ph/lisdata/20631553!.pdf",]
 title = "NATIONAL SECURITY ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR A NATIONAL SECURITY POLICY AND PLANNING FRAMEWORK AND CREATING AN INSTITUTIONAL MECHANISM FOR IMPLEMENTATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Security Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20631553!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-865"
 
 [[history]]
 date = "2004-06-30"

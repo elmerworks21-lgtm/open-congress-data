@@ -6,7 +6,6 @@ name = "SBN-00910"
 [meta]
 bill_number = 910
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-910", "https://web.senate.gov.ph/lisdata/1693614173!.pdf",]
 title = "DRIVER EDUCATION ACT"
 date_filed = "2013-07-18"
 long_title = "AN ACT INSTITUTING A DRIVER EDUCATION PROGRAM PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Driver Education Act",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1693614173!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-910"
 
 [[history]]
 date = "2013-07-18"

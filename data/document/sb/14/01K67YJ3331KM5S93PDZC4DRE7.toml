@@ -6,7 +6,6 @@ name = "SBN-03170"
 [meta]
 bill_number = 3170
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3170", "https://web.senate.gov.ph/lisdata/108399613!.pdf",]
 title = "ANTI-COMMERCIALIZATION OF HUMAN ORGANS,TISSUES OR PARTS OF LIVING PERSONS ACT OF 2009"
 date_filed = "2009-04-20"
 long_title = "AN ACT PROHIBITING THE COMMERCIALIZATION OF HUMAN ORGANS, TISSUES OR PARTS OF LIVING PERSONS"
@@ -15,6 +14,8 @@ subjects = [ "Human Organ",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/108399613!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3170"
 
 [[history]]
 date = "2009-04-20"

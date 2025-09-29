@@ -6,7 +6,6 @@ name = "SBN-01749"
 [meta]
 bill_number = 1749
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1749", "https://web.senate.gov.ph/lisdata/93087869!.pdf",]
 title = "REWARDS FOR INFORMATION CONCERNING TERRORISM ACT"
 date_filed = "2010-07-21"
 long_title = "AN ACT ESTABLISHING A REWARDS FOR INFORMATION CONCERNING TERRORISM PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Terrorism",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/93087869!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1749"
 
 [[history]]
 date = "2010-07-21"

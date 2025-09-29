@@ -6,7 +6,6 @@ name = "SBN-02858"
 [meta]
 bill_number = 2858
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2858", "https://web.senate.gov.ph/lisdata/114639726!.pdf",]
 title = "ETHNIC ORIGIN ACT OF 2011"
 date_filed = "2011-06-01"
 long_title = "AN ACT TO INCLUDE ETHNIC ORIGIN IN THE NATIONAL SURVEY CONDUCTED BY THE NATIONAL STATISTICS OFFICE"
@@ -15,6 +14,8 @@ subjects = [ "National Statistics Office (NSO)", "Indigenous Cultural Communitie
 authors_raw = "Legarda, Loren B., Honasan II, Gregorio B."
 author_codes = ["HGREG", "LLORE"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/114639726!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2858"
 
 [[history]]
 date = "2011-06-01"

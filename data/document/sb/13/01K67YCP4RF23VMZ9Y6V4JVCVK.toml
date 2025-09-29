@@ -6,7 +6,6 @@ name = "SBN-01371"
 [meta]
 bill_number = 1371
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1371", "https://web.senate.gov.ph/lisdata/25771950!.pdf",]
 title = "AUTOMATED SYSTEM FOR VOTING, COUNTING, CANVASSING OF VOTES"
 date_filed = "2004-07-06"
 long_title = "AN ACT TO AMEND CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8436, ENTITLED AN ACT AUTHORIZING THE COMMISSION ON ELECTIONS TO USE AN AUTOMATED ELECTION SYSTEM IN THE MAY 11, 1998 NATIONAL OR LOCAL ELECTIONS AND IN SUBSEQUENT NATIONAL AND LOCAL ELECTORAL EXERCISES, PROVIDING FUNDS THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Automated Election System (R.A.No. 9369)", "Elections/Electoral Re
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/25771950!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1371"
 
 [[history]]
 date = "2004-07-06"

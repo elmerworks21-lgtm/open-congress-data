@@ -6,7 +6,6 @@ name = "SBN-00090"
 [meta]
 bill_number = 90
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-90", "https://web.senate.gov.ph/lisdata/3779334234!.pdf",]
 title = "EXPORTS AND INVESTMENTS DEVELOPMENT ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT TO DEVELOP EXPORTS AS A KEY TO ACCELERATING ECONOMIC GROWTH AND ENHANCING THE GLOBAL COMPETITIVENESS OF PHILIPPINE PRODUCTS AND SERVICES, THEREBY AMENDING REPUBLIC ACT NO. 7844 OTHERWISE KNOWN AS THE EXPORT DEVELOPMENT ACT OF 1994, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Export Development Act of 1994", "Export Industry", "Investments",
 authors_raw = "Angara, Sonny, Villanueva, Joel"
 author_codes = ["ASONN", "VEMMA"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3779334234!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-90"
 
 [[history]]
 date = "2022-07-07"

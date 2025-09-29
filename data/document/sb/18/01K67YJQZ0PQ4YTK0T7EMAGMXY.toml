@@ -6,7 +6,6 @@ name = "SBN-02204"
 [meta]
 bill_number = 2204
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2204", "https://web.senate.gov.ph/lisdata/3500031827!.pdf",]
 title = "AMENDING RA 10644 (GO NEGOSYO ACT)"
 date_filed = "2021-05-18"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 10644, OTHERWISE KNOWN AS THE ‘GO NEGOSYO ACT’, BY EMPOWERING NEGOSYO CENTERS TO ACT AS RURAL EXPORT CENTERS AND PROVIDING EXPORT-RELATED INFORMATION AND SERVICES TO RURAL MICRO, SMALL AND MEDIUM ENTERPRISES"
@@ -15,6 +14,8 @@ subjects = [ "Micro, Small and Medium Enterprises (Msmes)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3500031827!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2204"
 
 [[history]]
 date = "2021-05-18"

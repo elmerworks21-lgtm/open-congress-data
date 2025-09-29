@@ -6,7 +6,6 @@ name = "SBN-02246"
 [meta]
 bill_number = 2246
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2246", "https://web.senate.gov.ph/lisdata/3515431999!.pdf",]
 title = "ROLL-OVER INTERNET ACT"
 date_filed = "2021-05-31"
 long_title = "AN ACT MANDATING AND INSTITUTIONALIZING ROLL-OVER DATA ALLOCATION SCHEME AND PROVIDING FOR PENALTIES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Roll-Over Data Allocation", "Internet Data",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3515431999!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2246"
 
 [[history]]
 date = "2021-05-31"

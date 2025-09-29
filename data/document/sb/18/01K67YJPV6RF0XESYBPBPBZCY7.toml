@@ -6,7 +6,6 @@ name = "SBN-00681"
 [meta]
 bill_number = 681
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-681", "https://web.senate.gov.ph/lisdata/3105227950!.pdf",]
 title = "ANTI-FALSE BOMB THREAT ACT"
 date_filed = "2019-07-22"
 long_title = "AN ACT PROHIBITING THE DISSEMINATION OF FALSE INFORMATION ON BOMB THREATS, EXPLOSIVES, OR ANY OTHER LIFE-THREATENING OR DESTRUCTIVE MATERIALS AND PROVIDING PENALTIES THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Bombs, Explosives and Other Incendiary Devices",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3105227950!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-681"
 
 [[history]]
 date = "2019-07-22"

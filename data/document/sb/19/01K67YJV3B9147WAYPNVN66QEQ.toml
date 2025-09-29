@@ -6,7 +6,6 @@ name = "SBN-00333"
 [meta]
 bill_number = 333
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-333", "https://web.senate.gov.ph/lisdata/3809034533!.pdf",]
 title = "MAGNA CARTA FOR TRICYCLE DRIVERS AND OPERATORS ACT OF 2022"
 date_filed = "2022-07-12"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR TRICYCLE DRIVERS AND OPERATORS, INSTITUTIONALIZING MECHANISMS FOR ITS IMPLEMENTATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Tricycle Drivers and Operators", "Tricycles/Pedica
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3809034533!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-333"
 
 [[history]]
 date = "2022-07-12"

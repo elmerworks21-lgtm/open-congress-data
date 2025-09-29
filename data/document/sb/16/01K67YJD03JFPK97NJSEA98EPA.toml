@@ -6,7 +6,6 @@ name = "SBN-01105"
 [meta]
 bill_number = 1105
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1105", "https://web.senate.gov.ph/lisdata/1714314381!.pdf",]
 title = "FOREIGN LANGUAGE EDUCATION ACT OF 2013"
 date_filed = "2013-07-25"
 long_title = "AN ACT INTEGRATING FOREIGN LANGUAGE EDUCATION IN THE PRIMARY AND SECONDARY SCHOOL CURRICULA"
@@ -15,6 +14,8 @@ subjects = [ "Foreign Language", "Curriculum",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1714314381!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1105"
 
 [[history]]
 date = "2013-07-25"

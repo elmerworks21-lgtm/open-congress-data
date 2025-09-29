@@ -6,7 +6,6 @@ name = "SBN-00583"
 [meta]
 bill_number = 583
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-583", "https://web.senate.gov.ph/lisdata/2405220706!.pdf",]
 title = "PRE-HOSPITAL EMERGENCY CARE ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT INSTITUTIONALIZING A PRE-HOSPITAL EMERGENCY MEDICAL CARE SYSTEM, PROVIDING FOR THE ESTABLISHMENT, SUPERVISION AND REGULATION OF THE PRE-HOSPITAL EMERGENCY, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Pre-Hospital Emergency Care System",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2405220706!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-583"
 
 [[history]]
 date = "2016-07-19"

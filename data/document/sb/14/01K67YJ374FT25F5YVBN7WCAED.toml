@@ -6,7 +6,6 @@ name = "SBN-03336"
 [meta]
 bill_number = 3336
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3336", "https://web.senate.gov.ph/lisdata/1193110483!.pdf",]
 title = "EYEWITNESS IDENTIFICATION REFORM ACT OF 2009"
 date_filed = "2009-07-23"
 long_title = "AN ACT TO IMPROVE THE ACCURACY OF EYEWITNESS IDENTIFICATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Eyewitness",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1193110483!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3336"
 
 [[history]]
 date = "2009-07-23"

@@ -6,7 +6,6 @@ name = "SBN-02054"
 [meta]
 bill_number = 2054
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2054", "https://web.senate.gov.ph/lisdata/4136737684!.pdf",]
 title = "THE REVISED ANIMAL WELFARE ACT OF 2023"
 date_filed = "2023-03-30"
 long_title = "AN ACT REPEALING REPUBLIC ACT NO. 8485, AS AMENDED BY REPUBLIC ACT NO. 10631, PROVIDING FOR THIS PURPOSE THE REVISED ANIMAL WELFARE ACT OF THE PHILIPPINES, AND CREATING FOR THE PURPOSE THE ANIMAL WELFARE BUREAU UNDER THE DEPARTMENT OF AGRICULTURE TO INSTITUTIONALIZE AND STRENGTHEN THE IMPLEMENTATION OF THE ANIMAL WELFARE AND GOVERN ITS OPERATION AND ENFORCEMENT"
@@ -15,6 +14,8 @@ subjects = [ "Animal Welfare",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4136737684!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2054"
 
 [[history]]
 date = "2023-03-30"

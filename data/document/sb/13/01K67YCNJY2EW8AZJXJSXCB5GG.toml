@@ -6,7 +6,6 @@ name = "SBN-00394"
 [meta]
 bill_number = 394
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-394", "https://web.senate.gov.ph/lisdata/1551852!.pdf",]
 title = "LIGA NG MGA BARANGAY BOARD OF DIRECTORS FRANKING PRIVILEGES"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO GRANT THE FRANKING PRIVILEGE TO THE MEMBERS OF THE NATIONAL BOARD OF DIRECTORS OF THE LIGA NG MGA BARANGAY"
@@ -15,6 +14,8 @@ subjects = [ "Franking Privileges", "Liga Ng Mga Barangay",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1551852!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-394"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-03160"
 [meta]
 bill_number = 3160
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3160", "https://web.senate.gov.ph/lisdata/107689584!.pdf",]
 title = "ARAW NG BACOOR"
 date_filed = "2009-04-14"
 long_title = "AN ACT DECLARING THE TWENTY-NINTH OF SEPTEMBER OF EVERY YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF BACOOR, PROVINCE OF CAVITE IN CELEBRATION OF THE ARAW NG BACOOR"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107689584!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3160"
 
 [[history]]
 date = "2009-04-14"

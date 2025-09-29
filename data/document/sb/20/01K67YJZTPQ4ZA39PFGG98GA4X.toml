@@ -6,7 +6,6 @@ name = "SBN-00049"
 [meta]
 bill_number = 49
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-49", "https://web.senate.gov.ph/lisdata/4652342527!.pdf",]
 title = "PEOPIE'S FREEDOM OF INFORMATION ACT"
 date_filed = "2025-07-02"
 long_title = "AN ACT IMPLEMENTING THE PEOPLE'S RIGHT TO INFORMATION AND THE CONSTITUTIONAL POLICIES OF FULL PUBLIC DISCLOSURE AND HONESTY IN PUBLIC SERVICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4652342527!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-49"
 
 [[history]]
 date = "2025-07-02"

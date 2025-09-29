@@ -6,7 +6,6 @@ name = "SBN-02326"
 [meta]
 bill_number = 2326
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2326", "https://web.senate.gov.ph/lisdata/4214638342!.pdf",]
 title = "AMENDING R.A. NO. 8293 (THE INTELLECTUAL PROPERTY CODE OF THE PHILIPPINES)"
 date_filed = "2023-07-18"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT 8293, OTHERWISE KNOWN AS THE INTELLECTUAL PROPERTY CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Intellectual Property Code",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4214638342!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2326"
 
 [[history]]
 date = "2023-07-18"

@@ -6,7 +6,6 @@ name = "SBN-00640"
 [meta]
 bill_number = 640
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-640", "https://web.senate.gov.ph/lisdata/48514226!.pdf",]
 title = "PENALIZING PUBLIC OFFICERS FOR RELEASING PRISONERS"
 date_filed = "2007-07-03"
 long_title = "AN ACT PENALIZING PUBLIC OFFICERS FOR RELEASING PRISONERS IN ORDER TO COMMIT A CRIME AND ALLOWING THEM TO RETURN TO PRISON, AND FOR THIS PURPOSES AMENDING ARTICLE 223 OF THE REVISED PENAL CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48514226!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-640"
 
 [[history]]
 date = "2007-07-03"

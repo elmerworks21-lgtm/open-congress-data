@@ -6,7 +6,6 @@ name = "SBN-03004"
 [meta]
 bill_number = 3004
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3004", "https://web.senate.gov.ph/lisdata/99088956!.pdf",]
 title = "PUBLIC SECTOR TRAINING PROGRAM FOR EMERGENCY AND DISASTER PREPAREDNESS ACT"
 date_filed = "2009-01-20"
 long_title = "AN ACT TO PROVIDE FOR THE DEVELOPMENT OF A CURRICULUM FOR TRAINING PROGRAMS FOR PUBLIC SECTOR EMPLOYEES ON EMERGENCY AND DISASTER PREPAREDNESS"
@@ -15,6 +14,8 @@ subjects = [ "Curriculum", "Disaster Awareness/Mitigation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99088956!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3004"
 
 [[history]]
 date = "2009-01-20"

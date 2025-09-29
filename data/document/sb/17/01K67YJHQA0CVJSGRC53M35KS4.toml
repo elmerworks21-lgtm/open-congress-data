@@ -6,7 +6,6 @@ name = "SBN-00831"
 [meta]
 bill_number = 831
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-831", "https://web.senate.gov.ph/lisdata/2437221007!.pdf",]
 title = "CHILDREN'S HEALTH AND NUTRITION PROGRAM ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT TO GUARANTEE THE HEALTH AND NUTRITION OF CHILDREN, PROTECTING THEM FROM MALNUTRITION BY ESTABLISHING A COMPREHENSIVE CHILDRENS HEALTH AND NUTRITION PROGRAM, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Children/Child Care", "Nutrition",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2437221007!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-831"
 
 [[history]]
 date = "2016-07-21"

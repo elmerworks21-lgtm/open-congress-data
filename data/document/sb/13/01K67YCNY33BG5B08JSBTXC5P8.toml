@@ -6,7 +6,6 @@ name = "SBN-01015"
 [meta]
 bill_number = 1015
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1015", "https://web.senate.gov.ph/lisdata/22221297!.pdf",]
 title = "LEGISLATIVE EXECUTIVE TASK FORCE ON COMMUNICATION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING A TASK FORCE ON COMMUNICATION TO REVIEW AND ASSESS THE STATE OF THE PHILIPPINE COMMUNICATIONS SYSTEM AND RECOMMEND POLICY, INSTITUTIONAL AND INFRASTRUCTURAL MEASURES TO ENSURE THE DEVELOPMENT OF THIS SECTOR AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Communication System Task Force", "Legislative Executive Task Forc
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/22221297!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1015"
 
 [[history]]
 date = "2004-06-30"

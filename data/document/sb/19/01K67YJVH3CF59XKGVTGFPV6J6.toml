@@ -6,7 +6,6 @@ name = "SBN-00952"
 [meta]
 bill_number = 952
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-952", "https://web.senate.gov.ph/lisdata/3876235215!.pdf",]
 title = "THE NATIONAL FRONTLINERS MONTH ACT"
 date_filed = "2022-08-01"
 long_title = "AN ACT DECLARING THE MONTH OF JUNE OF EVERY YEAR AS THE 'NATIONAL FRONTLINERS MONTH' IN THE ENTIRE COUNTRY AND APPROPRIATING FUNDS THEREFORE"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Frontliners",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3876235215!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-952"
 
 [[history]]
 date = "2022-08-01"

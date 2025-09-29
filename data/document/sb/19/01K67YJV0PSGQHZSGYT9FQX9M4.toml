@@ -6,7 +6,6 @@ name = "SBN-00209"
 [meta]
 bill_number = 209
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-209", "https://web.senate.gov.ph/lisdata/3791734360!.pdf",]
 title = "MODIFYING THE PRESCRIPTIVE PERIOD OF MONEY CLAIMS"
 date_filed = "2022-07-07"
 long_title = "AN ACT MODIFYING THE PRESCRIPTIVE PERIOD OF MONEY CLAIMS ARISING OUT OF EMPLOYER-EMPLOYEE RELATIONS AMENDING FOR THIS PURPOSE ARTICLE 306 OF PRESIDENTIAL DECREE NUMBER 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Money Claims", "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3791734360!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-209"
 
 [[history]]
 date = "2022-07-07"

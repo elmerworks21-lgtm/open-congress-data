@@ -6,7 +6,6 @@ name = "SBN-00242"
 [meta]
 bill_number = 242
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-242", "https://web.senate.gov.ph/lisdata/1399661!.pdf",]
 title = "HIGH-VALUE CROPS DEVELOPMENT ACT (AMENDMENTS)"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO AMEND R.A. NO. 7900 OTHERWISE KNOWN AS THE HIGH-VALUE CROPS DEVELOPMENT ACT OF 1995 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "High-Value Crops Dev`T Act (RA 7900)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1399661!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-242"
 
 [[history]]
 date = "2004-06-30"

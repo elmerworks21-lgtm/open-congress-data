@@ -6,7 +6,6 @@ name = "SBN-02021"
 [meta]
 bill_number = 2021
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2021", "https://web.senate.gov.ph/lisdata/34472820!.pdf",]
 title = "HEALTH AND ENVIRONMENTAL ASSESSMENT (MINING)"
 date_filed = "2005-05-19"
 long_title = "AN ACT INSTITUTING INDEPENDENT HEALTH AND ENVIRONMENTAL ASSESSMENT FOR ALL MINING PROJECTS, AMENDING FOR THE PURPOSE THE PHILIPPINE MINING ACT OF 1995"
@@ -15,6 +14,8 @@ subjects = [ "Mining (Health Assessment)",]
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34472820!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2021"
 
 [[history]]
 date = "2005-05-19"

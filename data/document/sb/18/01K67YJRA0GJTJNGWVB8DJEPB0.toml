@@ -6,7 +6,6 @@ name = "SBN-02478"
 [meta]
 bill_number = 2478
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2478", "https://web.senate.gov.ph/lisdata/3696733325!.pdf",]
 title = "THE PAGLAUM FUND OF 2022"
 date_filed = "2022-01-17"
 long_title = "AN ACT APPROPRIATING THE AMOUNT OF TWENTY BILLION PESOS FOR THE REHABILITATION OF THE AFFECTED PROVINCES DUE TO THE DAMAGES CAUSED BY TYPHOON ODETTE"
@@ -15,6 +14,8 @@ subjects = [ "Appropriations/Supplemental Appropriations", "Rehabilitation/Rehab
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3696733325!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2478"
 
 [[history]]
 date = "2022-01-17"

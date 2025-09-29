@@ -6,7 +6,6 @@ name = "SBN-00896"
 [meta]
 bill_number = 896
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-896", "https://web.senate.gov.ph/lisdata/3873835190!.pdf",]
 title = "FREE LEGAL ASSISTANCE TO OFFICERS AND ENLISTED PERSONNEL OF THE AFP AND THE PNP"
 date_filed = "2022-07-26"
 long_title = "AN ACT PROVIDING FREE LEGAL ASSISTANCE TO OFFICERS AND ENLISTED PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES AND THE PHILIPPINE NATIONAL POLICE"
@@ -15,6 +14,8 @@ subjects = [ "Legal Assistance", "Armed Forces of the Philippines (AFP)", "Phili
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3873835190!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-896"
 
 [[history]]
 date = "2022-07-26"

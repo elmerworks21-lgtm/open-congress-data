@@ -6,7 +6,6 @@ name = "SBN-02218"
 [meta]
 bill_number = 2218
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2218", "https://web.senate.gov.ph/lisdata/47233885!.pdf",]
 title = "LOCAL GOVERNMENT CODE (LGUS SHARE AMOUNT)"
 date_filed = "2006-03-01"
 long_title = "AN ACT AMENDING SECTION 290 AND 291 OF REPUBLIC ACT 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code (R.A. 7160)", "Local Government Units (LGUs;
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47233885!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2218"
 
 [[history]]
 date = "2006-03-01"

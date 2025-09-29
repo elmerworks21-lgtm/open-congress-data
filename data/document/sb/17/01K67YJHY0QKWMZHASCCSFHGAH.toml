@@ -6,7 +6,6 @@ name = "SBN-01130"
 [meta]
 bill_number = 1130
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1130", "https://web.senate.gov.ph/lisdata/2477521349!.pdf",]
 title = "LEAP ACT OF 2016"
 date_filed = "2016-09-07"
 long_title = "AN ACT ESTABLISHING A LABOR EMPOWERMENT ASSISTANCE PROGRAM, AMENDING PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Labor Empowerment (
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2477521349!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1130"
 
 [[history]]
 date = "2016-09-07"

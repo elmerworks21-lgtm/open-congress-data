@@ -6,7 +6,6 @@ name = "SBN-01514"
 [meta]
 bill_number = 1514
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1514", "https://web.senate.gov.ph/lisdata/1761414849!.pdf",]
 title = "BUREAU OF CORRECTIONS TECHNICAL INSTITUTE ACT OF 2013"
 date_filed = "2013-09-04"
 long_title = "AN ACT CREATING A BUREAU OF CORRECTIONS TECHNICAL INSTITUTE WITHIN THE NATIONAL BILIBID PRISONS (NBP) RESERVATION AND THE CORRECTIONAL INSTITUTION FOR WOMEN (CIW), AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Bureau of Corrections Technical Institute", "New Bilibid Prison",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1761414849!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1514"
 
 [[history]]
 date = "2013-09-04"

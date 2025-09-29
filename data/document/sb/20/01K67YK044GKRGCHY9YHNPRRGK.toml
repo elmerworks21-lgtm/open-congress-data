@@ -6,7 +6,6 @@ name = "SBN-00545"
 [meta]
 bill_number = 545
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-545", "https://web.senate.gov.ph/lisdata/4710143101!.pdf",]
 title = "ANTI-WANG WANG ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT PROHIBITING THE INDISCRIMINATE USE OF BEACONS, SIRENS, AND OTHER EMERGENCY VEHICLE LIGHTS AND AUDIO ACCESSORIES FOR MOVING MOTOR VEHICLES, EXCEPT AS PRESCRIBED BY LAW, PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Wang Wang", "Beacons, Sirens, Emergency Vehicle Lights and Au
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4710143101!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-545"
 
 [[history]]
 date = "2025-07-14"

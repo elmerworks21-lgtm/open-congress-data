@@ -6,7 +6,6 @@ name = "SBN-00386"
 [meta]
 bill_number = 386
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-386", "https://web.senate.gov.ph/lisdata/45553907!.pdf",]
 title = "BARANGAY JUSTICE"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROMOTING BARANGAY JUSTICE BY AMENDING ARTICLE ELEVEN HUNDRED FIFTY-FIVE OF REPUBLIC ACT NUMBERED THREE HUNDRED AND EIGHTY-SIX, OTHERWISE KNOWN AS THE CIVIL CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Justice", "Civil Code (R.A.No. 386, Amendments)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45553907!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-386"
 
 [[history]]
 date = "2007-07-02"

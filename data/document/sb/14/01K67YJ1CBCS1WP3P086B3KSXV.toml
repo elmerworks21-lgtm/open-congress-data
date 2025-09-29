@@ -6,7 +6,6 @@ name = "SBN-00989"
 [meta]
 bill_number = 989
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-989", "https://web.senate.gov.ph/lisdata/52554637!.pdf",]
 title = "NATIONAL PROTECTION AND PRESERVATION OF MANGROVE FOREST ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT PROVIDING FOR THE PRESERVATION, REFORESTATION, AFFORESTATION AND SUSTAINABLE DEVELOPMENT OF MANGROVE FORESTS IN THE PHILIPPINES, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mangrove Forest Protection",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52554637!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-989"
 
 [[history]]
 date = "2007-07-04"

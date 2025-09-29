@@ -6,7 +6,6 @@ name = "SBN-02424"
 [meta]
 bill_number = 2424
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2424", "https://web.senate.gov.ph/lisdata/1990317021!.pdf",]
 title = "PROTECTION OF WATERSHEDS SUPPORTING THE NATIONAL IRRIGATION SYSTEMS"
 date_filed = "2014-09-23"
 long_title = "AN ACT FOR THE PROTECTION, CONSERVATION AND REHABILITATION OF WATERSHEDS SUPPORTING THE NATIONAL IRRIGATION SYSTEMS (NIS) TO ENSURE CONTINUOUS SUPPLY OF WATER FOR AGRICULTURAL PRODUCTION AND SELF-SUFFICIENCY IN FOOD AND PROVIDING FUNDS FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Watersheds", "Irrigation",]
 authors_raw = "Poe, Grace L., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "PGRAC"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1990317021!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2424"
 
 [[history]]
 date = "2014-09-23"

@@ -6,7 +6,6 @@ name = "SBN-00081"
 [meta]
 bill_number = 81
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-81", "https://web.senate.gov.ph/lisdata/75216072!.pdf",]
 title = "BARANGAY HEALTH WORKER IN EVERY BARANGAY"
 date_filed = "2010-07-01"
 long_title = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO PROVIDE AT LEAST ONE (1) HEALTH WORKER IN EVERY BARANGAY, INCREASING THEIR SALARIES AND BENEFITS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Worker",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75216072!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-81"
 
 [[history]]
 date = "2010-07-01"

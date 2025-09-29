@@ -6,7 +6,6 @@ name = "SBN-00189"
 [meta]
 bill_number = 189
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-189", "https://web.senate.gov.ph/lisdata/1601513252!.pdf",]
 title = "WHISTLEBLOWERS' PROTECTION ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION OF WHISTLEBLOWERS"
@@ -15,6 +14,8 @@ subjects = [ "Whistleblowers",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1601513252!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-189"
 
 [[history]]
 date = "2013-07-01"

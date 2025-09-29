@@ -6,7 +6,6 @@ name = "SBN-02227"
 [meta]
 bill_number = 2227
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2227", "https://web.senate.gov.ph/lisdata/47783925!.pdf",]
 title = "MARINE DEBRIS RESEARCH, PREVENTION AND REDUCTION ACT"
 date_filed = "2006-03-14"
 long_title = "AN ACT ESTABLISHING A MARINE DEBRIS RESEARCH, PREVENTION, AND REDUCTION PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Marine Debris Research, Prevention and Reduction", "Environmental 
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47783925!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2227"
 
 [[history]]
 date = "2006-03-14"

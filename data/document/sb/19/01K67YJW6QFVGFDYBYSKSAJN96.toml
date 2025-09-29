@@ -6,7 +6,6 @@ name = "SBN-01883"
 [meta]
 bill_number = 1883
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1883", "https://web.senate.gov.ph/lisdata/4076537154!.pdf",]
 title = "TELEMEDICINE ACT"
 date_filed = "2023-02-14"
 long_title = "AN ACT INSTITUTIONALIZING A NATIONAL MEDICINE SYSTEM IN THE PHILIPPINES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Telemedicine",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4076537154!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1883"
 
 [[history]]
 date = "2023-02-14"

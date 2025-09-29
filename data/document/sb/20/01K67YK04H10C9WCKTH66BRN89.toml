@@ -6,7 +6,6 @@ name = "SBN-00567"
 [meta]
 bill_number = 567
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-567", "https://web.senate.gov.ph/lisdata/4712743127!.pdf",]
 title = "RIGHTS OF INTERNALLY DISPLACED PERSONS ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT PROTECTING THE RIGHTS OF INTERNALLY DISPLACED PERSONS AND PENALIZING THE ACTS OF ARBITRARY INTERNAL DISPLACEMENT"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4712743127!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-567"
 
 [[history]]
 date = "2025-07-14"

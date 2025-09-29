@@ -6,7 +6,6 @@ name = "SBN-00796"
 [meta]
 bill_number = 796
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-796", "https://web.senate.gov.ph/lisdata/81686638!.pdf",]
 title = "PATIENT SAFETY AND ERRORS REDUCTION ACT"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO REDUCE MEDICAL MISTAKES AND MEDICATION-RELATED ERRORS"
@@ -15,6 +14,8 @@ subjects = [ "Patients",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81686638!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-796"
 
 [[history]]
 date = "2010-07-07"

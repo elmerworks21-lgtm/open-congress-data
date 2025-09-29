@@ -6,7 +6,6 @@ name = "SBN-00129"
 [meta]
 bill_number = 129
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-129", "https://web.senate.gov.ph/lisdata/42273615!.pdf",]
 title = "PROTECTION FROM PRICE GOUGING AGAINST DISASTER VICTIMS ACT"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO PROHIBIT PRICE GOUGING RELATING TO CERTAIN GOODS AND SERVICES IN AREAS AFFECTED BY MAJOR DISASTERS"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Gouging (Disaster Victims)", "Protection From Price Gouging A
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42273615!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-129"
 
 [[history]]
 date = "2007-06-30"

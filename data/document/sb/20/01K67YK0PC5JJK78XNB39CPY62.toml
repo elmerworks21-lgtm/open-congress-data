@@ -6,7 +6,6 @@ name = "SBN-01275"
 [meta]
 bill_number = 1275
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1275", "https://web.senate.gov.ph/lisdata/4791743933!.pdf",]
 title = "NATIONAL DNA DATABASE ACT"
 date_filed = "2025-08-27"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A FORENSIC DNA DATABANK"
@@ -15,6 +14,8 @@ subjects = [ "Forensic Dna Databank", "Forensic Dna Database",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4791743933!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1275"
 
 [[history]]
 date = "2025-08-27"

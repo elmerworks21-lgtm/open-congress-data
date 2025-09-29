@@ -6,7 +6,6 @@ name = "SBN-02507"
 [meta]
 bill_number = 2507
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2507", "https://web.senate.gov.ph/lisdata/2025917367!.pdf",]
 title = "DEPENDENT ADULT ABUSE PREVENTION ACT"
 date_filed = "2014-12-11"
 long_title = "AN ACT PENALIZING DEPENDENT ADULT ABUSE AND INSTITUTING PROGRAMS AND MECHANISMS FOR ITS PREVENTION"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizen", "Elderly",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2025917367!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2507"
 
 [[history]]
 date = "2014-12-11"

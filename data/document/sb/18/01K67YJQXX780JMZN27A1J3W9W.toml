@@ -6,7 +6,6 @@ name = "SBN-02154"
 [meta]
 bill_number = 2154
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2154", "https://web.senate.gov.ph/lisdata/3496031783!.pdf",]
 title = "JCEC EXTENSION ACT"
 date_filed = "2021-05-04"
 long_title = "AN ACT REMOVING THE EXPIRATION PERIOD OF THE JOINT CONGRESSIONAL ENERGY COMMISSION, FURTHER AMENDING FOR THE PURPOSE SECTION 62 OF REPUBLIC ACT NO. 9136, OTHERWISE KNOWN AS THE ‘ELECTRIC POWER INDUSTRY REFORM ACT OF 2001’, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Electric Power Industry Reform Act", "Epira (R.A.No. 9136)",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3496031783!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2154"
 
 [[history]]
 date = "2021-05-04"

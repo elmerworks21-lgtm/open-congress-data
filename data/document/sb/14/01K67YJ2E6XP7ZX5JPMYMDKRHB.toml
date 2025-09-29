@@ -6,7 +6,6 @@ name = "SBN-02248"
 [meta]
 bill_number = 2248
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2248", "https://web.senate.gov.ph/lisdata/72716485!.pdf",]
 title = "HOSPITAL CCTV ACT OF 2008"
 date_filed = "2008-05-06"
 long_title = "AN ACT TO REQUIRE HOSPITALS TO INSTALL CLOSED CIRCUIT TELEVISION (CCTV) CAMERAS IN SELECTED PORTIONS OF THE HOSPITAL AND PENALIZING THE PUBLICATION OF THE VIDEO TAKEN BY THESE CAMERAS WITHOUT A COURT ORDER"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72716485!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2248"
 
 [[history]]
 date = "2008-05-06"

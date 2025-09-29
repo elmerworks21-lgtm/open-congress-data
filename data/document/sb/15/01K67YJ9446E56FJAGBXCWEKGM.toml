@@ -6,7 +6,6 @@ name = "SBN-02705"
 [meta]
 bill_number = 2705
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2705", "https://web.senate.gov.ph/lisdata/107939229!.pdf",]
 title = "AFP MODERNIZATION EXTENSION ACT OF 2011"
 date_filed = "2011-02-16"
 long_title = "AN ACT EXTENDING THE MODERNIZATION PROGRAM OF THE ARMED FORCES OF THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7898, OTHERWISE KNOWN AS THE AFP MODERNIZATION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/107939229!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2705"
 
 [[history]]
 date = "2011-02-16"

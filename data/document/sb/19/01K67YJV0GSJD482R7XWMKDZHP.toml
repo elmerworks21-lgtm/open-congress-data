@@ -6,7 +6,6 @@ name = "SBN-00200"
 [meta]
 bill_number = 200
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-200", "https://web.senate.gov.ph/lisdata/3790834351!.pdf",]
 title = "ELCAC ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT INSTITUTIONALIZING THE WHOLE-OF-NATION APPROACH IN ATTAINING INCLUSIVE AND SUSTAINABLE PEACE, CREATING THE NATIONAL COUNCIL TO END LOCAL COMMUNIST ARMED CONFLICT, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "End Local Communist Armed Conflict (Elcac)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3790834351!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-200"
 
 [[history]]
 date = "2022-07-07"

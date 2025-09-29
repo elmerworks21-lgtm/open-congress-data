@@ -6,7 +6,6 @@ name = "SBN-00902"
 [meta]
 bill_number = 902
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-902", "https://web.senate.gov.ph/lisdata/51604528!.pdf",]
 title = "CORDILLERA TERRACES AUTHORITY OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT CREATING THE CORDILLERA TERRACES AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Cordillera Terraces Authority",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51604528!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-902"
 
 [[history]]
 date = "2007-07-03"

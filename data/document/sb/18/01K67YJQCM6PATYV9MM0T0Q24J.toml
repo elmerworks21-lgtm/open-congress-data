@@ -6,7 +6,6 @@ name = "SBN-01436"
 [meta]
 bill_number = 1436
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1436", "https://web.senate.gov.ph/lisdata/3258429450!.pdf",]
 title = "MANDATORY PROTECTION OF HEALTH WORKERS, FRONTLINERS AND PATIENTS ACT"
 date_filed = "2020-04-16"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11332, OTHERWISE KNOWN AS THE MANDATORY REPORTING OF NOTIFIABLE DISEASES AND HEALTH EVENTS OF PUBLIC HEALTH CONCERN ACT"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination", "Healthcare Workers", "Frontliners", "Patien
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3258429450!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1436"
 
 [[history]]
 date = "2020-04-16"

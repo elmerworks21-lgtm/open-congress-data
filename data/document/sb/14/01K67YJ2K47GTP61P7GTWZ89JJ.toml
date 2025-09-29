@@ -6,7 +6,6 @@ name = "SBN-02451"
 [meta]
 bill_number = 2451
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2451", "https://web.senate.gov.ph/lisdata/79017108!.pdf",]
 title = "NATIONAL EMERGENCY ALERT SYSTEM ACT OF 2008"
 date_filed = "2008-07-21"
 long_title = "AN ACT ESTABLISHING A NATIONAL EMERGENCY ALERT SYSTEM FOR DISASTER AND HAZARDS MANAGEMENT IN THE PHILIPPINES, PROVIDING FUNDS THREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Disaster Awareness/Mitigation", "Emergency Care",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79017108!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2451"
 
 [[history]]
 date = "2008-07-21"

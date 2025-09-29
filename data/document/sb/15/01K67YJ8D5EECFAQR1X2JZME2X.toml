@@ -6,7 +6,6 @@ name = "SBN-01865"
 [meta]
 bill_number = 1865
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1865", "https://web.senate.gov.ph/lisdata/94367977!.pdf",]
 title = "STATEMENTS OF CONTRIBUTION AND EXPENDITURES OF TEASURERS OF POLITICAL PARTIES"
 date_filed = "2010-07-22"
 long_title = "AN ACT AMENDING SECTION 14 OF REPUBLIC ACT NO. 7166, OTHERWISE KNOWN AS THE ‘SYNCHRONIZED ELECTION LAW OF 1991’, ON THE PARTICULAR OFFICE WHERE CANDIDATES SHALL FILE THEIR STATEMENTS OF ELECTION CONTRIBUTIONS AND EXPENDITURES AND PROVIDING ADMINISTRATIVE SANCTIONS FOR VIOLATIONS OF SAID SECTION"
@@ -15,6 +14,8 @@ subjects = [ "Elections", "Electoral Reforms",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/94367977!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1865"
 
 [[history]]
 date = "2010-07-22"

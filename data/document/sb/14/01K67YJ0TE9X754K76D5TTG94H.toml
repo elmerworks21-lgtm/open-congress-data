@@ -6,7 +6,6 @@ name = "SBN-00138"
 [meta]
 bill_number = 138
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-138", "https://web.senate.gov.ph/lisdata/42363624!.pdf",]
 title = "MAGNA CARTA FOR STUDENTS"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR STUDENTS”"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Students",]
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42363624!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-138"
 
 [[history]]
 date = "2007-06-30"

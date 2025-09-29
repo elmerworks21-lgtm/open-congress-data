@@ -6,7 +6,6 @@ name = "SBN-01889"
 [meta]
 bill_number = 1889
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1889", "https://web.senate.gov.ph/lisdata/31662351!.pdf",]
 title = "CAREER EXECUTIVE SYSTEM ACT OF 2005"
 date_filed = "2005-01-25"
 long_title = "AN ACT ESTABLISHING THE CAREER EXECUTIVE SYSTEM"
@@ -15,6 +14,8 @@ subjects = [ "Career Executive System Act",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31662351!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1889"
 
 [[history]]
 date = "2005-01-25"

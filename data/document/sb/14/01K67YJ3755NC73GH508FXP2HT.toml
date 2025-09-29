@@ -6,7 +6,6 @@ name = "SBN-03337"
 [meta]
 bill_number = 3337
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3337", "https://web.senate.gov.ph/lisdata/1193210485!.pdf",]
 title = "COMPREHENSIVE PROBLEM GAMBLING ACT OF 2009"
 date_filed = "2009-07-23"
 long_title = "AN ACT PROVIDING A NATIONAL PROGRAM TO ADDRESS THE NEEDS OF PEOPLE AFFLICTED WITH COMPULSIVE GAMBLING DISORDER"
@@ -15,6 +14,8 @@ subjects = [ "Gambling And", "Or Betting",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1193210485!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3337"
 
 [[history]]
 date = "2009-07-23"

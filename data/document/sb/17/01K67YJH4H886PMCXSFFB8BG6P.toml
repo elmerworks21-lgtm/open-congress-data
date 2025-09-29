@@ -6,7 +6,6 @@ name = "SBN-00012"
 [meta]
 bill_number = 12
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-12", "https://web.senate.gov.ph/lisdata/2342520010!.pdf",]
 title = "PHILIPPINE CONDITIONAL CASH TRANSFER (CCT) ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT INSTITUTIONALIZING THE PANTAWID PAMILYANG PILIPINO PROGRAM TO ADDRESS POVERTY AND PROMOTE HUMAN CAPITAL DEVELOPMENT"
@@ -15,6 +14,8 @@ subjects = [ "Pantawid Pamilyang Pilipino Program (4PS)", "Poverty Alleviation",
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2342520010!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-12"
 
 [[history]]
 date = "2016-06-30"

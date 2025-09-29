@@ -6,7 +6,6 @@ name = "SBN-00874"
 [meta]
 bill_number = 874
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-874", "https://web.senate.gov.ph/lisdata/3870635159!.pdf",]
 title = "ADOPT-A-LIBRARY ACT OF 2022"
 date_filed = "2022-07-25"
 long_title = "AN ACT ESTABLISHING AN ADOPT-A -LIBRARY PROGRAM, PROVIDING INCENTIVES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Library", "District Library", "Barangay Reading Centers",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3870635159!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-874"
 
 [[history]]
 date = "2022-07-25"

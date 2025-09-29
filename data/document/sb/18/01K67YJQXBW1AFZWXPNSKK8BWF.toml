@@ -6,7 +6,6 @@ name = "SBN-02130"
 [meta]
 bill_number = 2130
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2130", "https://web.senate.gov.ph/lisdata/3491131732!.pdf",]
 title = "CATV-DTH INDUSTRY DEVELOPMENT ACT"
 date_filed = "2021-04-12"
 long_title = "AN ACT PROMOTING THE GROWTH AND DEVELOPMENT OF THE CABLE TELEVISION (CATV) AND DIRECT-TO-HOME TELEVISION (DTH) INDUSTRY AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Cable Television", "National Telecommunications Commission (NTC)",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3491131732!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2130"
 
 [[history]]
 date = "2021-04-12"

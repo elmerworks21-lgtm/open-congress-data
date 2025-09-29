@@ -6,7 +6,6 @@ name = "SBN-00339"
 [meta]
 bill_number = 339
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-339", "https://web.senate.gov.ph/lisdata/1621813446!.pdf",]
 title = "MEDICAL RESIDENCY ACT OF 2013"
 date_filed = "2013-07-03"
 long_title = "AN ACT TO MANAGE MEDICAL RESIDENCY TRAINING PROGRAMS IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Residency Training",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1621813446!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-339"
 
 [[history]]
 date = "2013-07-03"

@@ -6,7 +6,6 @@ name = "SBN-00768"
 [meta]
 bill_number = 768
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-768", "https://web.senate.gov.ph/lisdata/3112228021!.pdf",]
 title = "AMENDING SECTIONS 5 AND 8 OF R. A. NO. 9505 (PERSONAL EQUITY AND RETIREMENT ACCOUNT (PERA)"
 date_filed = "2019-07-24"
 long_title = "AN ACT AMENDING SECTIONS 5 AND 8 OF REPUBLIC ACT NO. 9505, OTHERWISE KNOWN AS THE PERSONAL EQUITY AND RETIREMENT ACCOUNT (PERA) LAW AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Personal Equity and Retirement Account (R.A.No. 9505)",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3112228021!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-768"
 
 [[history]]
 date = "2019-07-24"

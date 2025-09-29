@@ -6,7 +6,6 @@ name = "SBN-00691"
 [meta]
 bill_number = 691
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-691", "https://web.senate.gov.ph/lisdata/3864535098!.pdf",]
 title = "NEW PHILIPPINE PASSPORT ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT PROVIDING FOR A NEW PASSPORT LAW, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 8239, OTHERWISE KNOWN AS THE 'PHILIPPINE PASSPORT ACT OF 1996'"
@@ -15,6 +14,8 @@ subjects = [ "Passport (R.A.No. 8239)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["FOREI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3864535098!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-691"
 
 [[history]]
 date = "2022-07-18"

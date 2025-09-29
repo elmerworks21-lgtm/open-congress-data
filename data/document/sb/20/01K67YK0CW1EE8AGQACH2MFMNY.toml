@@ -6,7 +6,6 @@ name = "SBN-01010"
 [meta]
 bill_number = 1010
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1010", "https://web.senate.gov.ph/lisdata/4757743589!.pdf",]
 title = "HAZARD PAY OF ALL PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES"
 date_filed = "2025-08-06"
 long_title = "AN ACT INCREASING THE HAZARD PAY OF ALL PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES TO TWENTY-FIVE PERCENT (25%) OF THEIR BASE PAY AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Hazard Pay", "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4757743589!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1010"
 
 [[history]]
 date = "2025-08-06"

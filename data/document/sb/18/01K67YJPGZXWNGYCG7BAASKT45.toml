@@ -6,7 +6,6 @@ name = "SBN-00207"
 [meta]
 bill_number = 207
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-207", "https://web.senate.gov.ph/lisdata/3046527343!.pdf",]
 title = "REINSTATING THE DEATH PENALTY FOR CERTAIN HEINOUS CRIMES"
 date_filed = "2019-07-02"
 long_title = "AN ACT REINSTATING THE DEATH PENALTY FOR CERTAIN HEINOUS CRIMES INVOLVING DANGEROUS DRUGS AND PLUNDER, AMENDING FOR THAT PURPOSE OTHER SPECIAL PENAL LAWS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Death Penalty", "Heinous Crimes",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3046527343!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-207"
 
 [[history]]
 date = "2019-07-02"

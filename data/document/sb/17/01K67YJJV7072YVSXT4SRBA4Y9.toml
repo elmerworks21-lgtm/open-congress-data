@@ -6,7 +6,6 @@ name = "SBN-02220"
 [meta]
 bill_number = 2220
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2220", "https://web.senate.gov.ph/lisdata/2987026556!.pdf",]
 title = "EXEMPTING ALL VEHICLES FROM PAYING TOLL FEES"
 date_filed = "2019-04-29"
 long_title = "AN ACT EXEMPTING ALL VEHICLES FROM PAYING TOLL FEES ON CERTAIN HOLIDAYS, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1112, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Toll Fees", "Motor Vehicles",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2987026556!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2220"
 
 [[history]]
 date = "2019-04-29"

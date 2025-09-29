@@ -6,7 +6,6 @@ name = "SBN-00206"
 [meta]
 bill_number = 206
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-206", "https://web.senate.gov.ph/lisdata/2362720257!.pdf",]
 title = "THE CONTINUING EDUCATION FOR TEACHERS ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT INSTITUTING A PROGRAM FOR THE MANDATORY CONTINUING EDUCATION OF TEACHERS IN THE PRIMARY AND SECONDARY LEVELS IN BOTH PUBLIC AND PRIVATE SCHOOLS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Teachers",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2362720257!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-206"
 
 [[history]]
 date = "2016-06-30"

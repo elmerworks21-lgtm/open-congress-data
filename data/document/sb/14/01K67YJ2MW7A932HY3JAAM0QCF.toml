@@ -6,7 +6,6 @@ name = "SBN-02532"
 [meta]
 bill_number = 2532
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2532", "https://web.senate.gov.ph/lisdata/80657275!.pdf",]
 title = "GOVERNMENT REORGANIZATION ACT OF 2008"
 date_filed = "2008-08-13"
 long_title = "AN ACT REORGANIZING THE GOVERNMENT BUREAUCRACY, CREATING A GOVERNMENT REORGANIZATION COMMISSION, DEFINING ITS POWERS AND FUNCTIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Reorganization",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80657275!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2532"
 
 [[history]]
 date = "2008-08-13"

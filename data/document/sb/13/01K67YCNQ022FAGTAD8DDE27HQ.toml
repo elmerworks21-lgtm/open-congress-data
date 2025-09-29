@@ -6,7 +6,6 @@ name = "SBN-00622"
 [meta]
 bill_number = 622
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-622", "https://web.senate.gov.ph/lisdata/18081183!.pdf",]
 title = "RESEARCH ON WOMEN'S HEALTH ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING THE OFFICE OF RESEARCH ON WOMEN'S HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Women (Research on Women`S Health Act)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18081183!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-622"
 
 [[history]]
 date = "2004-06-30"

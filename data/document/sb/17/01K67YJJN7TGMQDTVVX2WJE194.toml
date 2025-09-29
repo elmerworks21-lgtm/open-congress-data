@@ -6,7 +6,6 @@ name = "SBN-02003"
 [meta]
 bill_number = 2003
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2003", "https://web.senate.gov.ph/lisdata/2859624994!.pdf",]
 title = "DIRECT RECORDING ELECTRONIC ELECTION SYSTEM"
 date_filed = "2018-09-12"
 long_title = "AN ACT FURTHER AMENDING REPUBLIC ACT NO. 8436, AS AMENDED BY REPUBLIC ACT NO. 9369, AND OTHER RELATED ELECTIONS LAWS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Automated Election System (R.A.No. 9369)", "Elections/Electoral Re
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2859624994!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2003"
 
 [[history]]
 date = "2018-09-12"

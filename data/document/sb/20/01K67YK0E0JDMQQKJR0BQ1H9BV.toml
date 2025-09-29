@@ -6,7 +6,6 @@ name = "SBN-01070"
 [meta]
 bill_number = 1070
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1070", "https://web.senate.gov.ph/lisdata/4775843779!.pdf",]
 title = "AMENDING REPUBLIC ACT NO. 8282 (SOCIAL SECURITY ACT OF 1997)"
 date_filed = "2025-08-06"
 long_title = "AN ACT EXPANDING THE BENEFITS OF THE SOCIAL SECURITY SYSTEM TO PROVIDE FOR UNEMPLOYMENT BENEFITS, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 8282, OTHERWISE KNOWN AS THE SOCIAL SECURITY ACT OF 1997"
@@ -15,6 +14,8 @@ subjects = [ "Social Security Act of 1997 (R.A.No. 8282)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4775843779!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1070"
 
 [[history]]
 date = "2025-08-06"

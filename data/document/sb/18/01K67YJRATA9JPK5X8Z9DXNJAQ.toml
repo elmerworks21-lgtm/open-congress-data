@@ -6,7 +6,6 @@ name = "SBN-02504"
 [meta]
 bill_number = 2504
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2504", "https://web.senate.gov.ph/lisdata/3723133575!.pdf",]
 title = "NATIONAL MUSIC COMPETITIONS FOR YOUNG ARTISTS ACT"
 date_filed = "2022-01-31"
 long_title = "AN ACT DESIGNATING THE NATIONAL MUSIC COMPETITIONS FOR YOUNG ARTISTS (NAMCYA) AS THE NATIONAL YOUTH DEVELOPMENT PROGRAM FOR MUSIC, DEFINING ITS ROLE AND FUNCTIONS AS SUCH, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Revilla Jr., Ramon Bong, Angara, Sonny"
 author_codes = ["ASONN", "RRAMO"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3723133575!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2504"
 
 [[history]]
 date = "2022-01-31"

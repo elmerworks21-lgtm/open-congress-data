@@ -6,7 +6,6 @@ name = "SBN-00230"
 [meta]
 bill_number = 230
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-230", "https://web.senate.gov.ph/lisdata/43303726!.pdf",]
 title = "STREET CHILDREN CRISIS CENTER ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT ESTABLISHING A CRISIS CENTER FOR STREET CHILDREN IN ALL CITIES AND MUNICIPALITIES IN THE NATIONAL CAPITAL REGION AND IN EVERY HIGHLY URBANIZED CITY IN THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Street Children",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43303726!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-230"
 
 [[history]]
 date = "2007-06-30"

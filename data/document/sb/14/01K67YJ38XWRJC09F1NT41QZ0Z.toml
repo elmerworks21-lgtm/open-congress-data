@@ -6,7 +6,6 @@ name = "SBN-03405"
 [meta]
 bill_number = 3405
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3405", "https://web.senate.gov.ph/lisdata/1227310795!.pdf",]
 title = "PHILIPPINE RESPIRATORY THERAPY ACT OF 2009"
 date_filed = "2009-08-25"
 long_title = "AN ACT REGULATING THE PRACTICE OF RESPIRATORY THERAPY, CREATING A PROFESSIONAL REGULATORY BOARD OF RESPIRATORY THERAPY, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Respiratory Therapy",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1227310795!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3405"
 
 [[history]]
 date = "2009-08-25"

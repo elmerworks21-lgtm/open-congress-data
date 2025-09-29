@@ -6,7 +6,6 @@ name = "SBN-02333"
 [meta]
 bill_number = 2333
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2333", "https://web.senate.gov.ph/lisdata/54594479!.pdf",]
 title = "PHILIPPINE FEMINISM DAY (JUNE 30)"
 date_filed = "2006-06-07"
 long_title = "AN ACT DECLARING JUNE 30 OF EVERY YEAR AS A DAY OF CELEBRATION TO COMMEMORATE PHILIPPINE FEMINISM"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Feminism Day (June 30)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54594479!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2333"
 
 [[history]]
 date = "2006-06-07"

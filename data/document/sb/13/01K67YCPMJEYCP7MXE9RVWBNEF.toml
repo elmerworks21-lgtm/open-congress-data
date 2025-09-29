@@ -6,7 +6,6 @@ name = "SBN-02179"
 [meta]
 bill_number = 2179
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2179", "https://web.senate.gov.ph/lisdata/43643587!.pdf",]
 title = "BIOFUELS ACT OF 2005"
 date_filed = "2005-12-13"
 long_title = "AN ACT TO PROMOTE THE USE OF BIOFUELS BY ESTABLISHING THE NATIONAL BIOFUELS PROGRAM AND PROVIDING INCENTIVES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Biofuels Act", "National Biofuels Program (Establishment)",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43643587!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2179"
 
 [[history]]
 date = "2005-12-13"

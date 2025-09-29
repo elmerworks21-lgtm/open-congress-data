@@ -6,7 +6,6 @@ name = "SBN-00686"
 [meta]
 bill_number = 686
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-686", "https://web.senate.gov.ph/lisdata/18721247!.pdf",]
 title = "PHILIPPINE TRANSFER OF SENTENCED PERSONS ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING THE PROCEDURE FOR THE IMPLEMENTATION OF TRANSFER OF SENTENCED PERSONS TREATIES ENTERED INTO BY THE PHILIPPINE GOVERNMENT WITH A FOREIGN COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Transfer of Sentenced Persons",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18721247!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-686"
 
 [[history]]
 date = "2004-06-30"

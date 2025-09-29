@@ -6,7 +6,6 @@ name = "SBN-00189"
 [meta]
 bill_number = 189
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-189", "https://web.senate.gov.ph/lisdata/3040427189!.pdf",]
 title = "IMPOSING DEATH PENALTY ON CERTAIN HEINOUS CRIMES"
 date_filed = "2019-07-02"
 long_title = "AN ACT IMPOSING DEATH PENALTY AND INCREASED PENALTIES ON CERTAIN HEINOUS CRIMES WHICH INVOLVES MANUFACTURING AND TRAFFICKING OF DANGEROUS DRUGS, AMENDING FOR THE PURPOSE OTHER SPECIAL PENAL LAWS, AND FOR OTHER PURPOSES."
@@ -15,6 +14,8 @@ subjects = [ "Death Penalty", "Heinous Crimes",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3040427189!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-189"
 
 [[history]]
 date = "2019-07-02"

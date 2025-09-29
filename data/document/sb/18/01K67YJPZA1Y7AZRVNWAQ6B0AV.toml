@@ -6,7 +6,6 @@ name = "SBN-00871"
 [meta]
 bill_number = 871
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-871", "https://web.senate.gov.ph/lisdata/3126028158!.pdf",]
 title = "PNP, BFP, BJMP AND BUCOR HEIGHT EQUALITY ACT"
 date_filed = "2019-08-06"
 long_title = "AN ACT REMOVING HEIGHT AS QUALIFICATION FOR PERSONNEL, OFFICERS OR MEMBERS OF THE PHILIPPINE NATIONAL POLICE, BUREAU OF FIRE PROTECTION, BUREAU OF JAIL MANAGEMENT AND PENOLOGY, AND BUREAU OF CORRECTION, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6975, AS AMENDED, REPUBLIC ACT NO. 8551, REPUBLIC ACT NO. 9263 AND REPUBLIC ACT NO. 10575"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Height Qualification", "Philippine National Police (PNP)", "Bureau of Corrections (Bucor)", "Bureau of Jail Management and Penology", "Bureau of Fire Protection",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3126028158!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-871"
 
 [[history]]
 date = "2019-08-06"

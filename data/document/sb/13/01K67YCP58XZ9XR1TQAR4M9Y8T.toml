@@ -6,7 +6,6 @@ name = "SBN-01399"
 [meta]
 bill_number = 1399
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1399", "https://web.senate.gov.ph/lisdata/11241978!.pdf",]
 title = "UNIVERSITY OF THE PHILIPPINES CHARTER"
 date_filed = "2004-07-07"
 long_title = "AN ACT TO STRENGTHEN THE UNIVERSITY OF THE PHILIPPINES AS THE NATIONAL UNIVERSITY"
@@ -15,6 +14,8 @@ subjects = [ "University of the Phil. (U.P. Charter)",]
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/11241978!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1399"
 
 [[history]]
 date = "2004-07-07"

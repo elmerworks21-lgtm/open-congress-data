@@ -6,7 +6,6 @@ name = "SBN-01214"
 [meta]
 bill_number = 1214
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1214", "https://web.senate.gov.ph/lisdata/3197228820!.pdf",]
 title = "COMPREHENSIVE ANTI-DISCRIMINATION ACT"
 date_filed = "2019-12-09"
 long_title = "AN ACT PROHIBITING DISCRIMINATION ON THE BASIS OF AGE, SEX, CIVIL STATUS, COLOR, ECONOMIC STATUS, ETHNICITY, MEDICAL CONDITION, PHYSICAL DISABILITY, POLITICAL OPINION OR AFFILIATION, RACE, OR RELIGIOUS BELIEF, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Discrimination",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3197228820!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1214"
 
 [[history]]
 date = "2019-12-09"

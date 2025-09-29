@@ -6,7 +6,6 @@ name = "SBN-02601"
 [meta]
 bill_number = 2601
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2601", "https://web.senate.gov.ph/lisdata/4369939717!.pdf",]
 title = "LIBERALIZING THE IMPORTATION, EXPORTATION AND TRADING OF RICE (AMENDING RA NO. 11230)"
 date_filed = "2024-03-11"
 long_title = "AN ACT AMENDING SECTION 13 OF REPUBLIC ACT NO. 11203, OR 'AN ACT LIBERALIZING THE IMPORTATION, EXPORTATION AND TRADING OF RICE, LIFTING FOR THE PURPOSE THE QUANTITATIVE IMPORT RESTRICTION ON RICE, AND FOR OTHER PURPOSES'"
@@ -15,6 +14,8 @@ subjects = [ "Rice Tariffication", "Rice Importation/Rice Import Duty",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4369939717!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2601"
 
 [[history]]
 date = "2024-03-11"

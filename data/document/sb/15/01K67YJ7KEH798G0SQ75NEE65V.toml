@@ -6,7 +6,6 @@ name = "SBN-00591"
 [meta]
 bill_number = 591
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-591", "https://web.senate.gov.ph/lisdata/80076481!.pdf",]
 title = "LOCAL GOVERNMENT CODE (SEC. 193 AND 234 (D) OF R.A. NO. 7160)"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO RESTORE THE TAX EXEMPTION PRIVILEGES OF ELECTRIC COOPERATIVES CREATED UNDER P.D. 269, OTHERWISE KNOWN AS THE ‘NATIONAL ELECTRIFICATION ADMINISTRATION DECREE’, AMENDING FOR THIS PURPOSE SECTION 193 AND 234 (D) OF R.A. NO. 7160 OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Electric Cooperatives",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["COOPE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80076481!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-591"
 
 [[history]]
 date = "2010-07-07"

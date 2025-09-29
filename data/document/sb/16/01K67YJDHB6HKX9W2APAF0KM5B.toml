@@ -6,7 +6,6 @@ name = "SBN-01948"
 [meta]
 bill_number = 1948
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1948", "https://web.senate.gov.ph/lisdata/1831815494!.pdf",]
 title = "ROAD TRAFFIC SAFETY FOR CHILDREN ACT"
 date_filed = "2013-11-26"
 long_title = "AN ACT MAKING ROAD TRAFFIC SAFETY A SEPARATE SUBJECT AND COMPULSORY AT GRADE SIX AND GRADE TWELVE OF THE ENHANCED K TO 12 BASIC EDUCATION PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "K12 Education Program", "Road Safety",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1831815494!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1948"
 
 [[history]]
 date = "2013-11-26"

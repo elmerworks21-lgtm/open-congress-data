@@ -6,7 +6,6 @@ name = "SBN-02900"
 [meta]
 bill_number = 2900
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2900", "https://web.senate.gov.ph/lisdata/4550841361!.pdf",]
 title = "SPECIAL DEFENSE ECONOMIC ZONE (SPEDEZ) ACT"
 date_filed = "2024-12-10"
 long_title = "AN ACT ESTABLISHING A SPECIAL DEFENSE ECONOMIC ZONE (SPEDEZ) INSIDE THE GOVERNMENT ARSENAL DEFENSE INDUSTRIAL ESTATE LOCATED IN CAMP GEN. ANTONIO LUNA, LAMAO, MUNICIPALITY OF LIMAY, PROVINCE OF BATAAN, CREATING FOR THIS PURPOSE THE SPECIAL DEFENSE ECONOMIC ZONE AUTHORITY (SPEDEZA) AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Special Defense Economic Zone (Spedez)",]
 authors_raw = "Dela Rosa, Ronald \"Bato\", Angara, Sonny, Estrada, Jinggoy E., Revilla Jr., Ramon Bong, Zubiri, Juan Miguel \"Migz\" F., Villanueva, Joel"
 author_codes = ["ASONN", "DRONA", "EJING", "RRAMO", "VEMMA", "ZJMIG"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4550841361!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2900"
 
 [[history]]
 date = "2024-12-11"

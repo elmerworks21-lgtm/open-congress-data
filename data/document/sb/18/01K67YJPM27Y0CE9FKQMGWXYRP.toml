@@ -6,7 +6,6 @@ name = "SBN-00345"
 [meta]
 bill_number = 345
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-345", "https://web.senate.gov.ph/lisdata/3063427486!.pdf",]
 title = "INCLUSIVE EDUCATION FOR CHILDREN AND YOUTH WITH SPECIAL NEEDS ACT"
 date_filed = "2019-07-11"
 long_title = "AN ACT INSTITUTING INCLUSIVE EDUCATION AND ESTABLISHING INCLUSIVE EDUCATION HUBS FOR CHILDREN AND YOUTH WITH SPECIAL NEEDS IN ALL PUBLIC SCHOOLS DIVISIONS, PROVIDING FOR STANDARDS AND GUIDELINES, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Inclusive Education", "Children and Youth with Special Needs (CYSN
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3063427486!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-345"
 
 [[history]]
 date = "2019-07-11"

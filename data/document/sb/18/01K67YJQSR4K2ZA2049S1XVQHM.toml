@@ -6,7 +6,6 @@ name = "SBN-01987"
 [meta]
 bill_number = 1987
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1987", "https://web.senate.gov.ph/lisdata/3426231062!.pdf",]
 title = "EXPANDING THE POOL OF VACCINATORS"
 date_filed = "2021-01-18"
 long_title = "AN ACT EXPANDING THE POOL OF VACCINATORS TO INCLUDE ALLIED HEALTH PROFESSIONALS AND NON-MEDICAL PROFESSIONALS AND STUDENTS OF SUCH PROFESSIONS TRAINED AS VACCINATORS BY THE DEPARTMENT OF HEALTH IN ORDER TO IMPLEMENT THE NATIONAL PROGRAM FOR VACCINATION IN TIMES OF EPIDEMICS, PANDEMICS, NATIONAL HEALTH EMERGENCIES AND OTHER CIRCUMSTANCES AUTHORIZED BY THE SECRETARY OF HEALTH, AMENDING FOR THIS PURPOSE SECTIONS 11 AND 12 OF REPUBLIC ACT NO. 2382 ALSO KNOWN AS ‘THE MEDICAL ACT OF 1959’, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Vaccinators", "Medical Practitioners", "Epidemic", "Pandemic", "De
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3426231062!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1987"
 
 [[history]]
 date = "2021-01-18"

@@ -6,7 +6,6 @@ name = "SBN-02303"
 [meta]
 bill_number = 2303
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2303", "https://web.senate.gov.ph/lisdata/3548032207!.pdf",]
 title = "QUEZON CITY GENERAL HOSPITAL AND MEDICAL CENTER"
 date_filed = "2021-06-28"
 long_title = "AN ACT RENAMING THE QUEZON CITY GENERAL HOSPITAL TO QUEZON CITY GENERAL HOSPITAL AND MEDICAL CENTER, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 537, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals, Change of Name",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3548032207!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2303"
 
 [[history]]
 date = "2021-06-28"

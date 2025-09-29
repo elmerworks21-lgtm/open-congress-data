@@ -6,7 +6,6 @@ name = "SBN-00711"
 [meta]
 bill_number = 711
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-711", "https://web.senate.gov.ph/lisdata/1660413842!.pdf",]
 title = "ALIS TB ACT OF 2013"
 date_filed = "2013-07-10"
 long_title = "AN ACT PROMOTING THE TREATMENT AND ERADICATION OF TUBERCULOSIS, AMENDING FOR THE PURPOSE SECTION 12 OF REPUBLIC ACT NO. 7875, AS AMENDED BY REPUBLIC ACT NO. 10606, OTHERWISE KNOWN AS AN ACT INSTITUTING A NATIONAL HEALTH INSURANCE PROGRAM FOR ALL FILIPINOS AND ESTABLISHING THE PHILIPPINE HEALTH INSURANCE CORPORATION FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Tuberculosis", "National Health Insurance", "Philippine Health Ins
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1660413842!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-711"
 
 [[history]]
 date = "2013-07-10"

@@ -6,7 +6,6 @@ name = "SBN-00007"
 [meta]
 bill_number = 7
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-7", "https://web.senate.gov.ph/lisdata/1581513051!.pdf",]
 title = "NATIONAL LAND USE ACT (NALUPA) OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Land Use Act",]
 authors_raw = "Legarda, Loren B., Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN", "LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1581513051!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-7"
 
 [[history]]
 date = "2013-07-01"

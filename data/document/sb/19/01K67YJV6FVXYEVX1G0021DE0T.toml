@@ -6,7 +6,6 @@ name = "SBN-00476"
 [meta]
 bill_number = 476
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-476", "https://web.senate.gov.ph/lisdata/3823734674!.pdf",]
 title = "EQUITABLE ACCESS TO MATH AND SCIENCE EDUCATION ACT"
 date_filed = "2022-07-13"
 long_title = "AN ACT PROMOTING THE ESTABLISHMENT OF PUBLIC MATH AND SCIENCE HIGH SCHOOLS IN PREVIOUSLY UNDERSERVED AREAS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Math and Science High School", "High School",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BASIE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3823734674!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-476"
 
 [[history]]
 date = "2022-07-13"

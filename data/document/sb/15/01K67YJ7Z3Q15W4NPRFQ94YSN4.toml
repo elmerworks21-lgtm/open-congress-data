@@ -6,7 +6,6 @@ name = "SBN-01161"
 [meta]
 bill_number = 1161
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1161", "https://web.senate.gov.ph/lisdata/86207174!.pdf",]
 title = "SPECIAL EDUCATION CENTERS FOR DEAF-MUTE AND BLIND CHILDREN"
 date_filed = "2010-07-12"
 long_title = "AN ACT PROVIDING FOR THE CREATION OF MUNICIPAL SPECIAL EDUCATION CENTERS FOR DEAF-MUTE AND BLIND CHILDREN APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Special Education", "Blind Persons", "Deaf-Mute",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/86207174!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1161"
 
 [[history]]
 date = "2010-07-12"

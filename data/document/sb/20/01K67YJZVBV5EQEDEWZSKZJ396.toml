@@ -6,7 +6,6 @@ name = "SBN-00085"
 [meta]
 bill_number = 85
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-85", "https://web.senate.gov.ph/lisdata/4655942563!.pdf",]
 title = "MAGNA CARTA FOR PUBLIC HEALTH WORKERS"
 date_filed = "2025-07-03"
 long_title = "AN ACT MANDATING MONETARY COMPENSATION FOR OVERTIME WORK AND WORK RENDERED DURING REST DAYS AND SPECIAL HOLIDAYS OF PUBLIC HEALTH WORKERS BY AMENDING SECTIONS 16 AND 17 OF REPUBLIC ACT NO. 7305, OTHERWISE KNOWN AS THE 'MAGNA CARTA OF PUBLIC HEALTH WORKERS,' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Public Health Workers",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4655942563!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-85"
 
 [[history]]
 date = "2025-07-03"

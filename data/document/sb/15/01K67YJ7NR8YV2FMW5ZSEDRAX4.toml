@@ -6,7 +6,6 @@ name = "SBN-00707"
 [meta]
 bill_number = 707
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-707", "https://web.senate.gov.ph/lisdata/80326504!.pdf",]
 title = "COPYRIGHTED BOOKS AND PRINTED MATERIALS"
 date_filed = "2010-07-07"
 long_title = "AN ACT DECLARING AS UNLAWFUL THE REPRODUCTION OF COPYRIGHTED BOOKS AND PRINTED MATERIALS THROUGH PHOTOCOPYING, DUPLICATING, PRINTING MACHINES OR SIMILAR MEANS WITHOUT THE WRITTEN CONSENT OF THE COPYRIGHT OWNER, WHETHER THE PUBLISHER OR THE AUTHOR OR BOTH"
@@ -15,6 +14,8 @@ subjects = [ "Books (Book Trade, Copyrighted Books, Printed Materials, Etc.)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80326504!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-707"
 
 [[history]]
 date = "2010-07-07"

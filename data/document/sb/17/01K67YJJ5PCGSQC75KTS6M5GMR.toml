@@ -6,7 +6,6 @@ name = "SBN-01417"
 [meta]
 bill_number = 1417
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1417", "https://web.senate.gov.ph/lisdata/2580522168!.pdf",]
 title = "CITIZEN SERVICE ACT OF 2017"
 date_filed = "2017-05-02"
 long_title = "AN ACT REQUIRING BASIC CITIZEN SERVICE TRAINING, ESTABLISHING THE CITIZEN SERVICE CORPS, CREATING THE CITIZEN SERVICE COMMISSION FOR THIS PURPOSE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Citizen Service Training Course", "Reserve Officers Training Corps
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2580522168!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1417"
 
 [[history]]
 date = "2017-05-02"

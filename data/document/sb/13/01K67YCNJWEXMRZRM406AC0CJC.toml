@@ -6,7 +6,6 @@ name = "SBN-00389"
 [meta]
 bill_number = 389
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-389", "https://web.senate.gov.ph/lisdata/1547847!.pdf",]
 title = "PROHIBITING GOVT. OFFICIALS/EMPLOYEES FROM PLAYING IN CASINO"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROHIBITING GOVERNMENT OFFICIALS AND EMPLOYEES FROM PLAYING IN CASINOS AND OTHER SIMILAR ESTABLISHMENTS OPERATED BY THE PHILIPPINE AMUSEMENT AND GAMING CORPORATION, OR BY OTHER SIMILAR GOVERNMENT-OWNED OR CONTROLLED CORPORATIONS, AND THEIR FRANCHISE HOLDERS, AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Government Officials/Employees (Casinos)", "Pagcor/GOCC",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1547847!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-389"
 
 [[history]]
 date = "2004-06-30"

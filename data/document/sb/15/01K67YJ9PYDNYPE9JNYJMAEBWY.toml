@@ -6,7 +6,6 @@ name = "SBN-03392"
 [meta]
 bill_number = 3392
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3392", "https://web.senate.gov.ph/lisdata/1506612605!.pdf",]
 title = "EARLY VOTING FOR ELECTORAL STAFF ACT OF 2013"
 date_filed = "2013-01-23"
 long_title = "AN ACT PROVIDING FOR EARLY VOTING FOR QUALIFIED MEMBERS OF THE STAFF OF ELECTORAL CANDIDATES AND REGISTERED NATIONAL POLITICAL PARTIES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1506612605!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3392"
 
 [[history]]
 date = "2013-01-23"

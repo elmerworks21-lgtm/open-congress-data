@@ -6,7 +6,6 @@ name = "SBN-00094"
 [meta]
 bill_number = 94
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-94", "https://web.senate.gov.ph/lisdata/1222821!.pdf",]
 title = "WOMEN'S OFFICE ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING AN OFFICE ON WOMEN'S HEALTH WITHIN THE DEPARTMENT OF HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Women`S Office Act", "Office on Women`S Health (Creation)", "Dept.
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1222821!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-94"
 
 [[history]]
 date = "2004-06-30"

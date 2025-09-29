@@ -6,7 +6,6 @@ name = "SBN-02711"
 [meta]
 bill_number = 2711
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2711", "https://web.senate.gov.ph/lisdata/108059241!.pdf",]
 title = "MANGROVE RESOURCES ACT OF 2011"
 date_filed = "2011-02-22"
 long_title = "AN ACT PROMOTING A NATIONAL STRATEGY FOR THE SUSTAINABLE DEVELOPMENT, MANAGEMENT, AND PROTECTION OF MANGROVE RESOURCES IN THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mangrove Forests",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/108059241!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2711"
 
 [[history]]
 date = "2011-02-22"

@@ -6,7 +6,6 @@ name = "SBN-03031"
 [meta]
 bill_number = 3031
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3031", "https://web.senate.gov.ph/lisdata/102159091!.pdf",]
 title = "REVISED PENAL CODE (ARTICLE 39, ACT NO. 3815)"
 date_filed = "2009-02-02"
 long_title = "AN ACT AMENDING THE 1ST PARAGRAPH OF ARTICLE 39 OF ACT NO. 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE, AS AMENDED, ON THE DAILY RATE OF THE SUBSIDIARY PENALTY"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (RA 3815; Amendments)", "Subsidiary Imprisonmen
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/102159091!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3031"
 
 [[history]]
 date = "2009-02-02"

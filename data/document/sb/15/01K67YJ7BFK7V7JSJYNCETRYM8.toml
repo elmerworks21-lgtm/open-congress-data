@@ -6,7 +6,6 @@ name = "SBN-00198"
 [meta]
 bill_number = 198
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-198", "https://web.senate.gov.ph/lisdata/75966126!.pdf",]
 title = "DIVISION OF PUBLIC SCHOOL ACADEMIC ACCOUNTABILITY ACT OF 2010"
 date_filed = "2010-07-06"
 long_title = "AN ACT ESTABLISHING THE DIVISION OF PUBLIC SCHOOL ACCOUNTABILITY TO ADMINISTER ALL MONITORING AND COMPLIANCE ACTIVITIES DEALING WITH ACADEMIC ACCOUNTABILITY FOR EACH SCHOOL OR SCHOOL DISTRICT, AND TO REPORT ACADEMIC PROGRESS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Division of Public School Accountability",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75966126!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-198"
 
 [[history]]
 date = "2010-07-06"

@@ -6,7 +6,6 @@ name = "SBN-00830"
 [meta]
 bill_number = 830
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-830", "https://web.senate.gov.ph/lisdata/50584447!.pdf",]
 title = "BIO-ORGANIC FARMING"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING FOR THE PROMOTION OF BIO-ORGANIC FARMING IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Bio-Organic Farming",]
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50584447!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-830"
 
 [[history]]
 date = "2007-07-03"

@@ -6,7 +6,6 @@ name = "SBN-00642"
 [meta]
 bill_number = 642
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-642", "https://web.senate.gov.ph/lisdata/48534228!.pdf",]
 title = "AVIATION NOISE LIMIT ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT PROVIDING FOR AVIATION NOISE MANAGEMENT AND REDUCTION IN RESIDENTIAL AREAS"
@@ -15,6 +14,8 @@ subjects = [ "Aviation Noise Limit",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/48534228!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-642"
 
 [[history]]
 date = "2007-07-03"

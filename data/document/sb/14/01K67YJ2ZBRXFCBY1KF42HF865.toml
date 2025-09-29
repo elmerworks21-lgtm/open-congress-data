@@ -6,7 +6,6 @@ name = "SBN-03002"
 [meta]
 bill_number = 3002
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3002", "https://web.senate.gov.ph/lisdata/99068946!.pdf",]
 title = "NATIONAL INFORMATION PROGRAM ON MENOPAUSE"
 date_filed = "2009-01-20"
 long_title = "AN ACT ESTABLISHING A NATIONAL INFORMATION PROGRAM ON MENOPAUSE AND HOW WOMEN CAN COPE WITH THE PHYSICAL, MENTAL AND EMOTIONAL CHANGES AS A CONSEQUENCE THEREOF AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Women",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99068946!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3002"
 
 [[history]]
 date = "2009-01-20"

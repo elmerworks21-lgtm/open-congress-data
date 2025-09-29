@@ -6,7 +6,6 @@ name = "SBN-02415"
 [meta]
 bill_number = 2415
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2415", "https://web.senate.gov.ph/lisdata/1987717001!.pdf",]
 title = "PLASTIC BAGS REGULATION ACT OF 2014"
 date_filed = "2014-09-18"
 long_title = "AN ACT TO REGULATE THE PRODUCTION, IMPORTATION, SALE, USE, RECYCLING, AND DISPOSITION OF PLASTIC BAGS, PROMOTING THE USE OF NATIVE REUSABLE BAGS, PROVIDING A MECHANISM FOR THE RECOVERY AND COLLECTION OF PLASTIC BAGS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Plastic/Plastic Bags", "Recycling",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1987717001!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2415"
 
 [[history]]
 date = "2014-09-18"

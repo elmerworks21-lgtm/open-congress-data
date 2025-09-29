@@ -6,7 +6,6 @@ name = "SBN-00634"
 [meta]
 bill_number = 634
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-634", "https://web.senate.gov.ph/lisdata/18201195!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS MEDICAL CENTER"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING THE OVERSEAS FILIPINO WORKERS (OFW) MEDICAL CENTER DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREOF AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Center for OFWs", "Overseas Filipino Workers (OFWS)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18201195!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-634"
 
 [[history]]
 date = "2004-06-30"

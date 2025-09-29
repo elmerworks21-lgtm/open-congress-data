@@ -6,7 +6,6 @@ name = "SBN-00880"
 [meta]
 bill_number = 880
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-880", "https://web.senate.gov.ph/lisdata/3871335166!.pdf",]
 title = "TUBIG PARA SA MGA EMPLEYADO ACT OF 2022"
 date_filed = "2022-07-25"
 long_title = "AN ACT MANDATING ALL EMPLOYERS IN THE PRIVATE AND PUBLIC SECTORS, INCLUDING ALL GOVERNMENT OFFICES, AGENCIES AND INSTRUMENTALITIES, TO PROVIDE, FREE OF CHARGE, CLEAN, HEALTHY, SUFFICIENT AND ACCESSIBLE DRINKING-WATER TO ALL ITS EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Drinking Water", "Government Agencies", "Private Sector",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3871335166!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-880"
 
 [[history]]
 date = "2022-07-25"

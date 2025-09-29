@@ -6,7 +6,6 @@ name = "SBN-02397"
 [meta]
 bill_number = 2397
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2397", "https://web.senate.gov.ph/lisdata/99858566!.pdf",]
 title = "BARANGAY NUTRITION PROGRAM"
 date_filed = "2010-08-12"
 long_title = "AN ACT CREATING THE POSITION OF BARANGAY NUTRITION WORKER IN EVERY BARANGAY PROVIDING INCENTIVES THERETO, APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1569"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Nutrition Worker",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/99858566!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2397"
 
 [[history]]
 date = "2010-08-12"

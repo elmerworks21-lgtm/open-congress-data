@@ -6,7 +6,6 @@ name = "SBN-00119"
 [meta]
 bill_number = 119
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-119", "https://web.senate.gov.ph/lisdata/3036027217!.pdf",]
 title = "THE INDIGENT CHILDREN FREE MEDICAL AND DENTAL SERVICE ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT REQUIRING ALL GOVERNMENT AND PRIVATE HOSPITALS, MEDICAL CENTERS, CLINICS, INFIRMARIES AND PUERICULTURE CENTERS TO GIVE FREE MEDICAL AND DENTAL ASSISTANCE TO INDIGENT CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Indigent Children", "Medical Assistance/Dental Assistance",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3036027217!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-119"
 
 [[history]]
 date = "2019-07-01"

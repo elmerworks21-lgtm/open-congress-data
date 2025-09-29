@@ -6,7 +6,6 @@ name = "SBN-00213"
 [meta]
 bill_number = 213
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-213", "https://web.senate.gov.ph/lisdata/3792134364!.pdf",]
 title = "AMENDING THE FAMILY CODE (DEFINING AND INTRODUCING DIVORCE)"
 date_filed = "2022-07-07"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF EXECUTIVE ORDER 209 AS AMENDED, IN ORDER TO DEFINE AND INTRODUCE DIVORCE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Divorce", "Family Code(E.O.No. 209)",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3792134364!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-213"
 
 [[history]]
 date = "2022-07-07"

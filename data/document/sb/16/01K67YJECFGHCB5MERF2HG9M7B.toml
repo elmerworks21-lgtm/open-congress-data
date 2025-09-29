@@ -6,7 +6,6 @@ name = "SBN-02907"
 [meta]
 bill_number = 2907
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2907", "https://web.senate.gov.ph/lisdata/2198718715!.pdf",]
 title = "SLOW-MOVING VEHICLES ACT"
 date_filed = "2015-08-19"
 long_title = "AN ACT REQUIRING A VEHICLE PROCEEDING UPON A HIGHWAY AT A SPEED LESS THAN THE NORMAL SPEED OF TRAFFIC TO DRIVE IN THE RIGHT-HAND LANE FOR TRAFFIC OR AS CLOSE AS PRACTICABLE TO THE RIGHT-HAND EDGE OR CURB"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicles",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2198718715!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2907"
 
 [[history]]
 date = "2015-08-19"

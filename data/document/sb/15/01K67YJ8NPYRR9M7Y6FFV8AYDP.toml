@@ -6,7 +6,6 @@ name = "SBN-02289"
 [meta]
 bill_number = 2289
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2289", "https://web.senate.gov.ph/lisdata/98848419!.pdf",]
 title = "COMPONENT IN ENVIRONMENTAL EDUCATION"
 date_filed = "2010-08-02"
 long_title = "AN ACT REQUIRING THAT THE COURSE OF INSTRUCTION FOR STUDENTS FROM KINDERGARTEN TO ELEMENTARY INCLUDE A COMPONENT IN ENVIRONMENTAL EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "Environmental Education",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98848419!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2289"
 
 [[history]]
 date = "2010-08-02"

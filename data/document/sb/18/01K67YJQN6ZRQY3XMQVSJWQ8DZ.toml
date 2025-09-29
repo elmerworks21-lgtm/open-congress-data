@@ -6,7 +6,6 @@ name = "SBN-01818"
 [meta]
 bill_number = 1818
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1818", "https://web.senate.gov.ph/lisdata/3348330299!.pdf",]
 title = "FIT-TO-WORK ACT"
 date_filed = "2020-09-08"
 long_title = "AN ACT MANDATING PUBLIC OFFICIALS AND EMPLOYEES TO ANNUALLY SUBMIT A MEDICAL CERTIFICATE SHOWING FITNESS TO WORK AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Official/Public Official", "Government Employees",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3348330299!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1818"
 
 [[history]]
 date = "2020-09-08"

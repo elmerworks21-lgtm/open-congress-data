@@ -6,7 +6,6 @@ name = "SBN-01184"
 [meta]
 bill_number = 1184
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1184", "https://web.senate.gov.ph/lisdata/3922635663!.pdf",]
 title = "FOOD, GROCERY AND PHARMACY DELIVERY SERVICES PROTECTION ACT OF 2022"
 date_filed = "2022-08-16"
 long_title = "AN ACT PROVIDING MEASURES TO PROTECT INDIVIDUALS ENGAGED IN FOOD, GROCERY AND PHARMACY DELIVERY SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Food and Grocery Delivery Services",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3922635663!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1184"
 
 [[history]]
 date = "2022-08-16"

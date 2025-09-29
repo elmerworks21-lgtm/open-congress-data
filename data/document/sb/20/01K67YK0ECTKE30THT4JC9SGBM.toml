@@ -6,7 +6,6 @@ name = "SBN-01090"
 [meta]
 bill_number = 1090
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1090", "https://web.senate.gov.ph/lisdata/4760743623!.pdf",]
 title = "AMENDING R.A. NO. 7638 (DEPARTMENT OF ENERGY ACT OF 1992)"
 date_filed = "2025-08-07"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7638 OTHERWISE KNOWN AS THE DEPARTMENT OF ENERGY ACT OF 1992"
@@ -15,6 +14,8 @@ subjects = [ "Department of Energy (DOE)",]
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4760743623!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1090"
 
 [[history]]
 date = "2025-08-07"

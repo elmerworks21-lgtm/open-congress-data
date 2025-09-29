@@ -6,7 +6,6 @@ name = "SBN-01610"
 [meta]
 bill_number = 1610
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1610", "https://web.senate.gov.ph/lisdata/2687623089!.pdf",]
 title = "CONSTITUTIONAL EDUCATION ACT"
 date_filed = "2017-11-08"
 long_title = "AN ACT INTEGRATING EDUCATION ON THE 1987 CONSTITUTION OF THE REPUBLIC OF THE PHILIPPINES IN THE GRADE 12 SENIOR HIGH SCHOOL CURRICULA OF ALL PUBLIC AND PRIVATE EDUCATIONAL INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Constitutional Education", "Curriculum/Curricula", "Secondary Educ
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2687623089!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1610"
 
 [[history]]
 date = "2017-11-08"

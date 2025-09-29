@@ -6,7 +6,6 @@ name = "SBN-00718"
 [meta]
 bill_number = 718
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-718", "https://web.senate.gov.ph/lisdata/3840534860!.pdf",]
 title = "PNP EDUCATIONAL BENEFITS"
 date_filed = "2022-07-18"
 long_title = "AN ACT PROVIDING EDUCATIONAL BENEFITS TO THE SURVIVING CHILDREN OF MEMBERS OF THE PHILIPPINE NATIONAL POLICE WHO WERE SLAIN OR WERE PERMANENTLY INCAPACITATED IN THE LINE OF DUTY, CREATING THE PNP EDUCATIONAL BENEFITS FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine National Police (PNP)", "Educational Benefits",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3840534860!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-718"
 
 [[history]]
 date = "2022-07-18"

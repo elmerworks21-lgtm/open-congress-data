@@ -6,7 +6,6 @@ name = "SBN-00316"
 [meta]
 bill_number = 316
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-316", "https://web.senate.gov.ph/lisdata/3059827457!.pdf",]
 title = "BARANGAY HEALTH WORKERS AND SERVICES REFORM ACT OF 2019"
 date_filed = "2019-07-10"
 long_title = "AN ACT IMPROVING AND PROMOTING QUALITY DELIVERY OF HEALTH SERVICES BY BARANGAY HEALTH WORKERS IN THE BARANGAY LEVEL, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Worker", "Health Services",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3059827457!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-316"
 
 [[history]]
 date = "2019-07-10"

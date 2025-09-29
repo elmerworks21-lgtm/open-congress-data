@@ -6,7 +6,6 @@ name = "SBN-00110"
 [meta]
 bill_number = 110
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-110", "https://web.senate.gov.ph/lisdata/1589013129!.pdf",]
 title = "THE CIVIL SERVICE HOUSING PROGRAM ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT ESTABLISHING A NATIONAL HOUSING PROGRAM FOR GOVERNMENT EMPLOYEES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Housing Projects", "Government Employees",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
 author_codes = ["MFERD"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1589013129!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-110"
 
 [[history]]
 date = "2013-07-01"

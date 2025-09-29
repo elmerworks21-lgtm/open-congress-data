@@ -6,7 +6,6 @@ name = "SBN-01919"
 [meta]
 bill_number = 1919
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1919", "https://web.senate.gov.ph/lisdata/64955759!.pdf",]
 title = "ANTI-TELECOMMUNICATION FRAUD ACT OF 2007"
 date_filed = "2007-11-26"
 long_title = "AN ACT PROHIBITING TELECOMMUNICATIONS FRAUD AND DESTRUCTION OF TELECOMMUNICATIONS FACILITIES, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Telecommunications",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64955759!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1919"
 
 [[history]]
 date = "2007-11-26"

@@ -6,7 +6,6 @@ name = "SBN-01908"
 [meta]
 bill_number = 1908
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1908", "https://web.senate.gov.ph/lisdata/1822815418!.pdf",]
 title = "HOLIDAY: CHINESE NEW YEAR"
 date_filed = "2013-11-07"
 long_title = "AN ACT DECLARING THE CHINESE NEW YEAR A SPECIAL NON-WORKING PUBLIC HOLIDAY IN THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Non-Working)", "Chinese New Year",]
 authors_raw = "Angara, Juan Edgardo \"Sonny\" M."
 author_codes = ["ASONN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1822815418!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1908"
 
 [[history]]
 date = "2013-11-07"

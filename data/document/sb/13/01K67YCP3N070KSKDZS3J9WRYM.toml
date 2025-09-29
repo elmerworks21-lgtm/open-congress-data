@@ -6,7 +6,6 @@ name = "SBN-01314"
 [meta]
 bill_number = 1314
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1314", "https://web.senate.gov.ph/lisdata/25211893!.pdf",]
 title = "FINANCIAL STATEMENTS AS BASIS FOR CREDIT ACCOMMODATIONS"
 date_filed = "2004-07-02"
 long_title = "AN ACT REQUIRING THE OFFICERS AND DIRECTORS OF BANKS AND OTHER FINANCIAL INSTITUTIONS TO UTILIZE AS THE BASIS FOR THE APPROVAL OF CREDIT ACCOMMODATIONS THE FINANCIAL STATEMENTS USED FOR PAYMENT OF TAX OBLIGATIONS BY THE PROSPECTIVE BORROWERS, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AMENDING REPUBLIC ACT NO. 337, OTHERWISE KNOWN AS THE GENERAL BANKING ACT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Banks/Financial Institutions", "Taxes (Tax Obligations)", "Credit 
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/25211893!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1314"
 
 [[history]]
 date = "2004-07-02"

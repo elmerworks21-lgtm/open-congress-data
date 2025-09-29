@@ -6,7 +6,6 @@ name = "SBN-03098"
 [meta]
 bill_number = 3098
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3098", "https://web.senate.gov.ph/lisdata/1269110710!.pdf",]
 title = "COMPETITION ACT"
 date_filed = "2012-01-17"
 long_title = "AN ACT PENALIZING ANTI-COMPETITIVE CONDUCT, ABUSE OF DOMINANCE, AND ANTI-COMPETITIVE MERGERS, ESTABLISHING FOR THE PURPOSE AN OFFICE FOR COMPETITION UNDER THE DEPARTMENT OF JUSTICE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Competition Act", "Anti-Trust",]
 authors_raw = "Enrile, Juan Ponce, Trillanes, Antonio \"Sonny\" F., Recto, Ralph G., Osmena III, Sergio R., Defensor Santiago, Miriam, Villar, Manny B."
 author_codes = ["EJUAN", "OSERG", "RRALP", "SMIRI", "TANTO", "VMANN"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1269110710!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3098"
 
 [[history]]
 date = "2012-01-17"

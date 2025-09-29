@@ -6,7 +6,6 @@ name = "SBN-03105"
 [meta]
 bill_number = 3105
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3105", "https://web.senate.gov.ph/lisdata/2292319614!.pdf",]
 title = "GREEN ENERGY FOR HOMES AND BUILDINGS ACT"
 date_filed = "2016-01-25"
 long_title = "AN ACT ESTABLISHING A GREEN ENERGY FOR HOMES AND BUILDINGS PROGRAM IN THE DEPARTMENT OF ENERGY TO PROVIDE FINANCIAL ASSISTANCE TO PROMOTE RESIDENTIAL, COMMERCIAL, AND INDUSTRIAL SCALE ENERGY EFFICIENCY AND ON-SITE RENEWABLE TECHNOLOGIES"
@@ -15,6 +14,8 @@ subjects = [ "Renewable Energy", "Department of Energy (DOE)", "Greenhouse Gas",
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2292319614!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3105"
 
 [[history]]
 date = "2016-01-25"

@@ -6,7 +6,6 @@ name = "SBN-01102"
 [meta]
 bill_number = 1102
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1102", "https://web.senate.gov.ph/lisdata/3907835518!.pdf",]
 title = "HEALTH PASSPORT SYSTEM ACT"
 date_filed = "2022-08-08"
 long_title = "AN ACT ESTABLISHING THE NATIONAL HEALTH PASSPORT SYSTEM THEREBY STRENGTHENING THE PRIMARY HEALTHCARE SYSTEM, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Health Passport System", "Health Care",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3907835518!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1102"
 
 [[history]]
 date = "2022-08-08"

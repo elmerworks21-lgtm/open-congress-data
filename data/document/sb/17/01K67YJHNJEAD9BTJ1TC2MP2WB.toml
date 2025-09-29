@@ -6,7 +6,6 @@ name = "SBN-00751"
 [meta]
 bill_number = 751
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-751", "https://web.senate.gov.ph/lisdata/2428320884!.pdf",]
 title = "PHILIPPINE ACCOUNTANCY ACT"
 date_filed = "2016-07-21"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 9298, OTHERWISE KNOWN AS THE PHILIPPINE ACCOUNTANCY ACT OF 2004"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Accountancy Act (R.A.No. 9298)",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2428320884!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-751"
 
 [[history]]
 date = "2016-07-21"

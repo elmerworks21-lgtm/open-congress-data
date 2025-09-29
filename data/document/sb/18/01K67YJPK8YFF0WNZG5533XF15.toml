@@ -6,7 +6,6 @@ name = "SBN-00310"
 [meta]
 bill_number = 310
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-310", "https://web.senate.gov.ph/lisdata/3059227451!.pdf",]
 title = "GMRC ACT"
 date_filed = "2019-07-10"
 long_title = "AN ACT INSTITUTIONALIZING GOOD MANNERS AND RIGHT CONDUCT AND CHARACTER EDUCATION IN THE CURRICULUM OF ELEMENTARY AND SECONDARY LEVEL"
@@ -15,6 +14,8 @@ subjects = [ "Good Manners and Right Conduct", "Primary Education", "Secondary E
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Villar, Cynthia A."
 author_codes = ["VCYNT", "ZJMIG"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3059227451!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-310"
 
 [[history]]
 date = "2019-07-10"

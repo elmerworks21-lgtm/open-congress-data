@@ -6,7 +6,6 @@ name = "SBN-00929"
 [meta]
 bill_number = 929
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-929", "https://web.senate.gov.ph/lisdata/3872835182!.pdf",]
 title = "ENHANCED WITNESS PROTECTION ACT"
 date_filed = "2022-07-28"
 long_title = "AN ACT STRENGTHENING THE WITNESS PROTECTION, SECURITY AND BENEFIT PROGRAM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6981, OTHERWISE KNOWN AS THE 'WITNESS PROTECTION, SECURITY AND BENEFIT ACT,' APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Witness Protection",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3872835182!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-929"
 
 [[history]]
 date = "2022-07-28"

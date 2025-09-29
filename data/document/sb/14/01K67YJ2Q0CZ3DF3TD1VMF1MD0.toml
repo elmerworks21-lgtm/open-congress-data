@@ -6,7 +6,6 @@ name = "SBN-02635"
 [meta]
 bill_number = 2635
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2635", "https://web.senate.gov.ph/lisdata/86167818!.pdf",]
 title = "CONSUMER'S BILL OF RIGHTS"
 date_filed = "2008-09-22"
 long_title = "AN CT ORDAINING A BILL OF RIGHTS FOR THE FILIPINO CONSUMERS"
@@ -15,6 +14,8 @@ subjects = [ "Consumers Bill of Rights",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/86167818!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2635"
 
 [[history]]
 date = "2008-09-22"

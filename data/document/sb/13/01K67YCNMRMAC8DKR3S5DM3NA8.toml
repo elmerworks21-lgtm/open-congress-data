@@ -6,7 +6,6 @@ name = "SBN-00492"
 [meta]
 bill_number = 492
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-492", "https://web.senate.gov.ph/lisdata/1649951!.pdf",]
 title = "LABOR REPRESENTATIVE IN THE GOVERNING BOARD OF NEDA"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING LABOR REPRESENTATIVE IN THE GOVERNING BOARD OF THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY (NEDA) AND AMENDING FOR THE PURPOSE SECTION 1 OF PRESIDENTIAL DECREE NO. 107"
@@ -15,6 +14,8 @@ subjects = [ "Nat. Economic & Dev`T. Authority (NEDA)", "Labor Representative (N
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1649951!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-492"
 
 [[history]]
 date = "2004-06-30"

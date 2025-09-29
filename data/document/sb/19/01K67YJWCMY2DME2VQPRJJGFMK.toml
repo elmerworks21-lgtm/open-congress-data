@@ -6,7 +6,6 @@ name = "SBN-02136"
 [meta]
 bill_number = 2136
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2136", "https://web.senate.gov.ph/lisdata/4151937865!.pdf",]
 title = "NATIONAL FARMER'S DAY"
 date_filed = "2023-05-04"
 long_title = "AN ACT DECLARING JANUARY TWENTY-TWO OF EVERY YEAR AS A SPECIAL WORKING HOLIDAY TO BE KNOWN AS NATIONAL FARMER'S DAY"
@@ -15,6 +14,8 @@ subjects = [ "Farmers", "Holidays (Special Working)",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4151937865!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2136"
 
 [[history]]
 date = "2023-05-04"

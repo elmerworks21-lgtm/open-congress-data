@@ -6,7 +6,6 @@ name = "SBN-02586"
 [meta]
 bill_number = 2586
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2586", "https://web.senate.gov.ph/lisdata/103608884!.pdf",]
 title = "LOCAL HEALTH BOARD"
 date_filed = "2010-11-10"
 long_title = "AN ACT AMENDING TITLES V AND VI, SECTIONS 102 AND 107 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code, Amendments (R.A.No. 7160)", "Local Health B
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/103608884!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2586"
 
 [[history]]
 date = "2010-11-10"

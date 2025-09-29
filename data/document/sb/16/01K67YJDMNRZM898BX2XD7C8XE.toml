@@ -6,7 +6,6 @@ name = "SBN-02104"
 [meta]
 bill_number = 2104
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2104", "https://web.senate.gov.ph/lisdata/1867115792!.pdf",]
 title = "ONE-PERSON CORPORATIONS ACT OF 2014"
 date_filed = "2014-02-05"
 long_title = "AN ACT ALLOWING ONE PERSON CORPORATIONS, AMENDING FOR THE PURPOSE PERTINENT PROVISIONS OF BATAS PAMBANSA BLG. 68 OR THE CORPORATION CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Corporation Code", "Investments",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1867115792!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2104"
 
 [[history]]
 date = "2014-02-05"

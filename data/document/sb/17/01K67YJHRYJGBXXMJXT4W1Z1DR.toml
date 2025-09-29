@@ -6,7 +6,6 @@ name = "SBN-00909"
 [meta]
 bill_number = 909
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-909", "https://web.senate.gov.ph/lisdata/2446522324!.pdf",]
 title = "INCREASING THE PENALTIES FOR ILLEGAL NUMBERS GAMES"
 date_filed = "2016-07-28"
 long_title = "AN ACT INCREASING THE PENALTIES FOR OTHER ILLEGAL GAMBLING ACTIVITIES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9287, ENTITLED AN ACT INCREASING THE PENALTIES FOR ILLEGAL NUMBERS GAMES, AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 1602, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Illegal Gambling", "Presidential Decree (P.D.No. 1602)",]
 authors_raw = "Gatchalian, Sherwin T., Villanueva, Joel"
 author_codes = ["GSHER", "VEMMA"]
 committee_codes = ["GAMES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2446522324!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-909"
 
 [[history]]
 date = "2016-07-28"

@@ -6,7 +6,6 @@ name = "SBN-00023"
 [meta]
 bill_number = 23
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-23", "https://web.senate.gov.ph/lisdata/3772434166!.pdf",]
 title = "PANTAWID MAGSASAKANG PILIPINO ACT"
 date_filed = "2022-07-05"
 long_title = "AN ACT PROVIDING DIRECT FINANCIAL ASSISTANCE TO FILIPINO RICE FARMERS, ESTABLISHING FOR THE PURPOSE THE PANTAWID MAGSASAKANG PILIPINO PROGRAM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Pantawid Magsasakang Pilipino Program", "Farmers",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3772434166!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-23"
 
 [[history]]
 date = "2022-07-05"

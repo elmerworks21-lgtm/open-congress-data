@@ -6,7 +6,6 @@ name = "SBN-00347"
 [meta]
 bill_number = 347
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-347", "https://web.senate.gov.ph/lisdata/4683842845!.pdf",]
 title = "TAX-FREE IMPORTATION OF MEDICAL DEVICES AND EQUIPMENT ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT EXEMPTING THE IMPORTATION OF MEDICAL DEVICES AND EQUIPMENT FROM CUSTOMS DUTY AND VALUE-ADDED TAX FOR A PERIOD OF FIVE (5) YEARS"
@@ -15,6 +14,8 @@ subjects = [ "Medical Devices and Equipment", "Taxes (Value-Added Tax / Vat)",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4683842845!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-347"
 
 [[history]]
 date = "2025-07-10"

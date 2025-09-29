@@ -6,7 +6,6 @@ name = "SBN-00756"
 [meta]
 bill_number = 756
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-756", "https://web.senate.gov.ph/lisdata/2428820889!.pdf",]
 title = "NATIONAL STUDENT LEADER'S DAY ACT"
 date_filed = "2016-07-21"
 long_title = "AN ACT DECLARING THE SEVENTEENTH OF NOVEMBER OF EVERY YEAR AS NATIONAL STUDENT LEADER'S DAY"
@@ -15,6 +14,8 @@ subjects = [ "Students",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2428820889!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-756"
 
 [[history]]
 date = "2016-07-21"

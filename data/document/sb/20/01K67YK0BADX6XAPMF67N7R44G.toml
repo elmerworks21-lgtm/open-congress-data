@@ -6,7 +6,6 @@ name = "SBN-00929"
 [meta]
 bill_number = 929
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-929", "https://web.senate.gov.ph/lisdata/4754743554!.pdf",]
 title = "FOREST LAND LIMITS ACT"
 date_filed = "2025-08-05"
 long_title = "AN ACT PROVIDING FOR THE DELINEATION OF THE SPECIFIC FOREST LIMITS OF THE PUBLIC DOMAIN AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forest Land", "Forest Limits",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4754743554!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-929"
 
 [[history]]
 date = "2025-08-05"

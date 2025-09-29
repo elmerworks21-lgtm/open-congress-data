@@ -6,7 +6,6 @@ name = "SBN-00542"
 [meta]
 bill_number = 542
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-542", "https://web.senate.gov.ph/lisdata/47534072!.pdf",]
 title = "HIGH SCHOOL REFORM ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT INTRODUCING EDUCATIONAL REFORMS AND SUPPORTING THE PLANNING AND IMPLEMENTATION OF EDUCATIONAL REFORMS IN SECONDARY INSTITUTIONS"
@@ -15,6 +14,8 @@ subjects = [ "High-School Reform", "Educational Reforms",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47534072!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-542"
 
 [[history]]
 date = "2007-07-02"

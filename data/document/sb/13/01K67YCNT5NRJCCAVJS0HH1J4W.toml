@@ -6,7 +6,6 @@ name = "SBN-00803"
 [meta]
 bill_number = 803
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-803", "https://web.senate.gov.ph/lisdata/19991445!.pdf",]
 title = "DISQUALIFYING DANGEROUS DRUGS ACT VIOLATORS FROM PROBATION"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 968 OTHERWISE KNOWN AS THE PROBATION LAW, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Probation Law, as Amended (Pd 968)", "Convicts (Dangerous Drugs Ac
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19991445!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-803"
 
 [[history]]
 date = "2004-06-30"

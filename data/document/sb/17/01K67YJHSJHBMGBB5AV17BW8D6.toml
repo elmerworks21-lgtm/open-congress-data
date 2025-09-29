@@ -6,7 +6,6 @@ name = "SBN-00938"
 [meta]
 bill_number = 938
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-938", "https://web.senate.gov.ph/lisdata/2449621079!.pdf",]
 title = "WHISTLEBLOWER PROTECTION, SECURITY AND BENEFIT ACT OF 2016"
 date_filed = "2016-08-01"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION, SECURITY AND BENEFITS OF WHISTLEBLOWERS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Whistleblowers",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2449621079!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-938"
 
 [[history]]
 date = "2016-08-01"

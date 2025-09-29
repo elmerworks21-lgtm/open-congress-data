@@ -6,7 +6,6 @@ name = "SBN-00650"
 [meta]
 bill_number = 650
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-650", "https://web.senate.gov.ph/lisdata/3851134966!.pdf",]
 title = "CLIMATE CHANGE EMERGENCY DECLARATION ACT"
 date_filed = "2022-07-14"
 long_title = "AN ACT DECLARING CLIMATE CHANGE EMERGENCY AND ENHANCING RESILIENCY AND ADAPTABILITY TO THE EFFECTS OF CLIMATE CHANGE"
@@ -15,6 +14,8 @@ subjects = [ "Climate Change",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3851134966!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-650"
 
 [[history]]
 date = "2022-07-14"

@@ -6,7 +6,6 @@ name = "SBN-00918"
 [meta]
 bill_number = 918
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-918", "https://web.senate.gov.ph/lisdata/1694414181!.pdf",]
 title = "ORGAN DONOR LEAVE ACT OF 2013"
 date_filed = "2013-07-18"
 long_title = "AN ACT TO PROVIDE TIME OFF WITH PAY FOR EMPLOYEES WHO DONATE ORGAN, BONE MARROW, BLOOD, OR BLOOD PLATELETS"
@@ -15,6 +14,8 @@ subjects = [ "Organ Donor Leave Act", "Leave of Absence", "Human Organs",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1694414181!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-918"
 
 [[history]]
 date = "2013-07-18"

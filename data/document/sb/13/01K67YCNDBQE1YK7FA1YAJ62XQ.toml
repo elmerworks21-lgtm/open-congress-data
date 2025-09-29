@@ -6,7 +6,6 @@ name = "SBN-00089"
 [meta]
 bill_number = 89
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-89", "https://web.senate.gov.ph/lisdata/1217748!.pdf",]
 title = "NATIONAL TEACHERS ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A TEACHER CORPS PROGRAM IN ORDER TO STRENGTHEN THE TEACHING PROFESSION"
@@ -15,6 +14,8 @@ subjects = [ "National Teachers Act", "Teacher Corps Program",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1217748!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-89"
 
 [[history]]
 date = "2004-06-30"

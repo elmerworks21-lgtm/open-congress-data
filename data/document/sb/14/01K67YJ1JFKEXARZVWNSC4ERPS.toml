@@ -6,7 +6,6 @@ name = "SBN-01292"
 [meta]
 bill_number = 1292
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1292", "https://web.senate.gov.ph/lisdata/55924901!.pdf",]
 title = "MILK NUTRITION AND LABELING"
 date_filed = "2007-07-18"
 long_title = "AN ACT ESTABLISHING STANDARDS FOR THE IDENTITY OF MILK AND REQUIRING THE LABELING THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Milk Nutrition and Labelling",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55924901!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1292"
 
 [[history]]
 date = "2007-07-04"

@@ -6,7 +6,6 @@ name = "SBN-00017"
 [meta]
 bill_number = 17
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-17", "https://web.senate.gov.ph/lisdata/4649142494!.pdf",]
 title = "MUSLIM PRAYER ROOM ACT OF THE PHILIPPINES"
 date_filed = "2025-07-02"
 long_title = "AN ACT MANDATING THE ESTABLISHMENT OF MUSLIM PRAYER ROOMS IN ALL PUBLIC OFFICES AND ESTABLISHMENTS"
@@ -15,6 +14,8 @@ subjects = [ "Muslim Prayer Rooms",]
 authors_raw = "Padilla, Robinhood"
 author_codes = ["PROBI"]
 committee_codes = ["CULMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4649142494!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-17"
 
 [[history]]
 date = "2025-07-02"

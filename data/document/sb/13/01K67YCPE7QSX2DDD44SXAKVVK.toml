@@ -6,7 +6,6 @@ name = "SBN-01871"
 [meta]
 bill_number = 1871
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1871", "https://web.senate.gov.ph/lisdata/11042322!.pdf",]
 title = "ATTRITION ACT OF 2005"
 date_filed = "2004-12-07"
 long_title = "AN ACT TO IMPROVE THE REVENUE COLLECTION PERFORMANCE OF THE BUREAU OF INTERNAL REVENUE (BIR) AND THE BUREAU OF CUSTOMS (BOC) THROUGH THE CREATION OF A REWARDS AND INCENTIVES FUND AND OF A REVENUE PERFORMANCE EVALUATION BOARD AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Lateral Attrition", "Revenue-Generating Agencies", "Rewards and In
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/11042322!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1871"
 
 [[history]]
 date = "2004-12-07"

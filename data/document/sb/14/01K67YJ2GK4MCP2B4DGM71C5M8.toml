@@ -6,7 +6,6 @@ name = "SBN-02357"
 [meta]
 bill_number = 2357
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2357", "https://web.senate.gov.ph/lisdata/75346776!.pdf",]
 title = "ANTI-IMAGE VOYEURISM ACT OF 2008"
 date_filed = "2008-06-02"
 long_title = "AN ACT PENALIZING PHOTO AND VIDEO VOYEURISM"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Video Voyeurism",]
 authors_raw = "Defensor Santiago, Miriam, Escudero, Francis \"Chiz\" G., Lapid, Manuel \"Lito\" M."
 author_codes = ["EFRAN", "LMANU", "SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75346776!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2357"
 
 [[history]]
 date = "2008-06-02"

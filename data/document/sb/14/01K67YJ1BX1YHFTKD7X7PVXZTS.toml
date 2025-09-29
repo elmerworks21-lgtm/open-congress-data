@@ -6,7 +6,6 @@ name = "SBN-00965"
 [meta]
 bill_number = 965
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-965", "https://web.senate.gov.ph/lisdata/52304597!.pdf",]
 title = "PROSTATE CANCER PUBLIC AWARENESS ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT ESTABLISHING A PROGRAM FOR PUBLIC EDUCATION ON PROSTATE CANCER"
@@ -15,6 +14,8 @@ subjects = [ "Prostate Cancer Public Awareness",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52304597!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-965"
 
 [[history]]
 date = "2007-07-04"

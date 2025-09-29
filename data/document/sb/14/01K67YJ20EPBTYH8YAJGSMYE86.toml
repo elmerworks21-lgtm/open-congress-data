@@ -6,7 +6,6 @@ name = "SBN-01654"
 [meta]
 bill_number = 1654
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1654", "https://web.senate.gov.ph/lisdata/60395376!.pdf",]
 title = "MANDATORY HEPATITIS-B IMMUNIZATION FOR INFANTS"
 date_filed = "2007-09-27"
 long_title = "AN ACT REQUIRING MANDATORY BASIC IMMUNIZATION SERVICES AGAINST HEPATITIS-B FOR INFANTS, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 996 AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Babies/Infants", "Presidential Decrees (P.D.No. 996), Amendments",
 authors_raw = "Cayetano, \"Companera\" Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60395376!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1654"
 
 [[history]]
 date = "2007-09-27"

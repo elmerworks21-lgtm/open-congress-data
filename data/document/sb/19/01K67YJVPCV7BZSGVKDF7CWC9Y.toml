@@ -6,7 +6,6 @@ name = "SBN-01189"
 [meta]
 bill_number = 1189
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1189", "https://web.senate.gov.ph/lisdata/3924635681!.pdf",]
 title = "MANDATORY ENVIRONMENTAL INSURANCE COVERAGE ACT OF 2022"
 date_filed = "2022-08-16"
 long_title = "AN ACT ESTABLISHING A NATIONAL FRAMEWORK FOR THE MANDATORY ENVIRONMENTAL INSURANCE COVERAGE OF ENVIRONMENTALLY CRITICAL PROJECTS"
@@ -15,6 +14,8 @@ subjects = [ "Mandatory Environmental Insurance Coverage (MEIC)",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3924635681!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1189"
 
 [[history]]
 date = "2022-08-16"

@@ -6,7 +6,6 @@ name = "SBN-01826"
 [meta]
 bill_number = 1826
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1826", "https://web.senate.gov.ph/lisdata/30592246!.pdf",]
 title = "CRIME OF PREMATURE MARRIAGES"
 date_filed = "2004-10-25"
 long_title = "AN ACT REPEALING THE CRIME OF PREMATURE MARRIAGES IN ARTICLE 351 OF THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (Art. 351)", "Marriage (Crime of Premature Marr
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/30592246!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1826"
 
 [[history]]
 date = "2004-10-25"

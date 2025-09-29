@@ -6,7 +6,6 @@ name = "SBN-02501"
 [meta]
 bill_number = 2501
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2501", "https://web.senate.gov.ph/lisdata/4307439883!.pdf",]
 title = "NEW SEPARATION, RETIREMENT AND PENSION SYSTEM FOR THE MILITARY AND THE UNIFORMED PERSONNEL"
 date_filed = "2023-11-29"
 long_title = "AN ACT PROVIDING A NEW SEPARATION, RETIREMENT AND PENSION SYSTEM FOR THE MILITARY AND THE UNIFORMED PERSONNEL, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Military and Uniformed Personnel", "Pension", "Retirement Benefits
 authors_raw = "Estrada, Jinggoy E., Revilla Jr., Ramon Bong, Marcos, Imee R., Gatchalian, Win"
 author_codes = ["EJING", "GSHER", "MIMEE", "RRAMO"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4307439883!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2501"
 
 [[history]]
 date = "2023-11-29"

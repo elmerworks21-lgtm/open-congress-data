@@ -6,7 +6,6 @@ name = "SBN-01075"
 [meta]
 bill_number = 1075
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1075", "https://web.senate.gov.ph/lisdata/2466521258!.pdf",]
 title = "THE VACCINATION AND IMMUNIZATION ACT OF 2016"
 date_filed = "2016-08-25"
 long_title = "AN ACT ESTABLISHING A COMPREHENSIVE VACCINATION AND IMMUNIZATION PROGRAM FOR FILIPINO INFANTS AND CHILDREN, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Vaccine",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2466521258!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1075"
 
 [[history]]
 date = "2016-08-25"

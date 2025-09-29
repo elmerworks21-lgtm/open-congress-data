@@ -6,7 +6,6 @@ name = "SBN-00004"
 [meta]
 bill_number = 4
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-4", "https://web.senate.gov.ph/lisdata/1246557!.pdf",]
 title = "HEALTH PROMOTION ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING A NATIONAL HEALTH PROMOTION INSTITUTE TO MAINSTREAM HEALTH PROMOTION IN THE PHILIPPINE HEALTH CARE SYSTEM, PROVIDING FOR A HEALTH PROMOTION FUND AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Health Promotion Institute", "Philippine Health Care Syst
 authors_raw = "Flavier, Juan M., Angara, Edgardo J."
 author_codes = ["AEDGA", "FJUAN"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1246557!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-4"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01515"
 [meta]
 bill_number = 1515
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1515", "https://web.senate.gov.ph/lisdata/3271629580!.pdf",]
 title = "EMPLOYER'S LIABILITY PROTECTION FROM COVID-19 ACT"
 date_filed = "2020-05-06"
 long_title = "AN ACT PROVIDING LIABILITY PROTECTION FOR PRIVATE ESTABLISHMENTS AND THEIR OWNERS FROM CORONAVIRUS-RELATED CLAIMS OF THEIR EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Covid-19", "Employees",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3271629580!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1515"
 
 [[history]]
 date = "2020-05-06"

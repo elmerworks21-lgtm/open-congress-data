@@ -6,7 +6,6 @@ name = "SBN-03132"
 [meta]
 bill_number = 3132
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3132", "https://web.senate.gov.ph/lisdata/105989407!.pdf",]
 title = "PHILIPPINE PARALYSIS ACT"
 date_filed = "2009-03-17"
 long_title = "AN ACT TO ENHANCE AND FURTHER RESEARCH INTO PARALYSIS AND TO IMPROVE REHABILITATION AND THE QUALITY OF LIFE FOR PERSONS LIVING WITH PARALYSIS AND OTHER PHYSICAL DISABILITIES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Paralysis", "Differently Abled/Disabled/Handicapped/Disadvantaged"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/105989407!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3132"
 
 [[history]]
 date = "2009-03-17"

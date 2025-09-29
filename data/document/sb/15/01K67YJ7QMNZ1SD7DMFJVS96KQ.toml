@@ -6,7 +6,6 @@ name = "SBN-00802"
 [meta]
 bill_number = 802
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-802", "https://web.senate.gov.ph/lisdata/82266790!.pdf",]
 title = "STUDENT FREEDOM OF RELIGIOUS EXPRESSION ACT"
 date_filed = "2010-07-07"
 long_title = "AN ACT TO ENFORCE THE CONSTITUTIONAL RIGHT TO THE FREE EXERCISE OF RELIGION BY STUDENTS OF PUBLIC SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Racial", "Religious Discrimination",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/82266790!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-802"
 
 [[history]]
 date = "2010-07-07"

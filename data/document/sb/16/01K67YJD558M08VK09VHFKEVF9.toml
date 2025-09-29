@@ -6,7 +6,6 @@ name = "SBN-01356"
 [meta]
 bill_number = 1356
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1356", "https://web.senate.gov.ph/lisdata/1745014685!.pdf",]
 title = "PEOPLE'S FUND ACT OF 2013"
 date_filed = "2013-08-27"
 long_title = "AN ACT PROVIDING FOR PEOPLE'S DIRECT PARTICIPATION IN FUNDING CHARITABLE INSTITUTIONS AND OTHER DEVELOPMENT-ORIENTED INITIATIVES THROUGH A PERCENTAGE OF THEIR PERSONAL INCOME TAX"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Individual Income Tax)", "Peoples Fund",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1745014685!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1356"
 
 [[history]]
 date = "2013-08-27"

@@ -6,7 +6,6 @@ name = "SBN-02210"
 [meta]
 bill_number = 2210
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2210", "https://web.senate.gov.ph/lisdata/47003857!.pdf",]
 title = "SIMPLIFIED NET INCOME TAX REFORM ACT OF 2006"
 date_filed = "2006-02-20"
 long_title = "AN ACT ADOPTING THE SIMPLIFIED NET INCOME TAXATION SCHEME FOR AN INDIVIDUAL ENGAGED IN TRADE/BUSINESS AND/OR PRACTICE OF PROFESSION, CREATING A NEW SECTION SEC. 34-A, REPEALING SUBSECTION (L) OF SECTION 34, AND AMENDING SECTIONS 22 AND 24, ALL UNDER THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Simplified Net Income Tax Reform Act", "Taxes (Tax Reform Act, Ame
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47003857!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2210"
 
 [[history]]
 date = "2006-02-20"

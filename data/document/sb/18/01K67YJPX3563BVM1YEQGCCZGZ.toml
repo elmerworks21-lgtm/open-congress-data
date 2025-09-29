@@ -6,7 +6,6 @@ name = "SBN-00765"
 [meta]
 bill_number = 765
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-765", "https://web.senate.gov.ph/lisdata/3111928018!.pdf",]
 title = "NATIONAL AID CARE PROGRAM"
 date_filed = "2019-07-24"
 long_title = "AN ACT CREATING A NATIONAL ANTI-ILLEGAL DRUG CAMPAIGN AND RESEARCH PROGRAM, APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Anti-Illegal Drug Campaign and Research (Aidcare)",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3111928018!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-765"
 
 [[history]]
 date = "2019-07-24"

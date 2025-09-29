@@ -6,7 +6,6 @@ name = "SBN-00742"
 [meta]
 bill_number = 742
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-742", "https://web.senate.gov.ph/lisdata/4728043280!.pdf",]
 title = "DELIVERY RIDERS PROTECTION ACT"
 date_filed = "2025-07-21"
 long_title = "AN ACT PROVIDING MEASURES TO PROTECT INDIVIDUALS ENGAGED IN FOOD GROCERY AND PHARMACY DELIVERY SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Delivery Riders Protection",]
 authors_raw = "Ejercito, Jv"
 author_codes = ["JVEJE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4728043280!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-742"
 
 [[history]]
 date = "2025-07-21"

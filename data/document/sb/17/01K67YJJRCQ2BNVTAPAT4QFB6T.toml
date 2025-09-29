@@ -6,7 +6,6 @@ name = "SBN-02102"
 [meta]
 bill_number = 2102
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2102", "https://web.senate.gov.ph/lisdata/2899225540!.pdf",]
 title = "AMENDING RA NO.7042 (FOREIGN INVESTMENTS ACT OF 1991)"
 date_filed = "2018-11-15"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7042, OTHERWISE KNOWN AS THE FOREIGN INVESTMENTS ACT OF 1991, AS AMENDED BY REPUBLIC ACT NO. 8179, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Foreign Investments",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2899225540!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2102"
 
 [[history]]
 date = "2018-11-15"

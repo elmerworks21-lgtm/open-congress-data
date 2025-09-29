@@ -6,7 +6,6 @@ name = "SBN-02404"
 [meta]
 bill_number = 2404
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2404", "https://web.senate.gov.ph/lisdata/76726905!.pdf",]
 title = "FILM TOURISM ACT OF 2008"
 date_filed = "2008-06-11"
 long_title = "AN ACT TO DEVELOP AND PROMOTE FILM TOURISM IN THE PHILIPPINES, PROVIDING FUNDS AND INCENTIVES THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76726905!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2404"
 
 [[history]]
 date = "2008-06-11"

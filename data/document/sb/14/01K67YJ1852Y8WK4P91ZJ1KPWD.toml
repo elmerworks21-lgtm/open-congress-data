@@ -6,7 +6,6 @@ name = "SBN-00790"
 [meta]
 bill_number = 790
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-790", "https://web.senate.gov.ph/lisdata/50144407!.pdf",]
 title = "SCHOOL CALENDAR, REVISION FROM JUNE TO SEPTEMBER"
 date_filed = "2007-07-03"
 long_title = "AN ACT REVISING THE SCHOOL CALENDAR, AMENDING FOR THE PURPOSE SECTION 24, CHAPTER 9, TITLE VI, BOOK IV OF EXECUTIVE ORDER NO. 22, OTHERWISE KNOWN AS THE ADMINISTRATIVE CODE OF 1987"
@@ -15,6 +14,8 @@ subjects = [ "School Calendar", "Administrative Code of 1987",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/50144407!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-790"
 
 [[history]]
 date = "2007-07-03"

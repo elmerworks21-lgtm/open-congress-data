@@ -6,7 +6,6 @@ name = "SBN-00392"
 [meta]
 bill_number = 392
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-392", "https://web.senate.gov.ph/lisdata/3068927538!.pdf",]
 title = "BARANGAY HEALTH WORKERS ACT OF 2019"
 date_filed = "2019-07-11"
 long_title = "AN ACT MANDATING THE APPOINTMENT OF BARANGAY HEALTH WORKERS IN BARANGAYS, PROVIDING FOR THEIR DUTIES AND RESPONSIBILITIES, COMPENSATION AND BENEFITS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Worker",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3068927538!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-392"
 
 [[history]]
 date = "2019-07-11"

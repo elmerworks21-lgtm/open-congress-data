@@ -6,7 +6,6 @@ name = "SBN-00511"
 [meta]
 bill_number = 511
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-511", "https://web.senate.gov.ph/lisdata/1668979!.pdf",]
 title = "PHILIPPINE ANTI-TRUST ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR A MORE EFFECTIVE IMPLEMENTATION OF THE CONSTITUTIONAL MANDATE AGAINST MONOPOLIES, COMBINATIONS IN RESTRAINT OF TRADE AND UNFAIR COMPETITION BY RE-DEFINING AND STRENGTHENING EXISTING LAWS, PROCESSES AND STRUCTURES REGULATING THE SAME AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Anti-Trust Act", "Anti-Trust Commission (Creation)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1668979!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-511"
 
 [[history]]
 date = "2004-06-30"

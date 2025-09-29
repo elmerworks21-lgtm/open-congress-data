@@ -6,7 +6,6 @@ name = "SBN-00843"
 [meta]
 bill_number = 843
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-843", "https://web.senate.gov.ph/lisdata/1682214058!.pdf",]
 title = "PUBLIC SCHOOL TEACHERS' INCENTIVE ACT OF 2013"
 date_filed = "2013-07-17"
 long_title = "AN ACT EXEMPTING FROM TAX ALL ALLOWANCES AND BENEFITS GRANTED TO PUBLIC SCHOOL TEACHERS, INCLUDING THOSE IN THE STATE COLLEGES AND UNIVERSITIES"
@@ -15,6 +14,8 @@ subjects = [ "Teachers", "Tax Incentives",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1682214058!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-843"
 
 [[history]]
 date = "2013-07-17"

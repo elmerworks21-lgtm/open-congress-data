@@ -6,7 +6,6 @@ name = "SBN-02631"
 [meta]
 bill_number = 2631
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2631", "https://web.senate.gov.ph/lisdata/105599051!.pdf",]
 title = "GREENING FOOD DESERTS ACT"
 date_filed = "2011-01-12"
 long_title = "AN ACT ESTABLISHING A NEW OFFICE UNDER THE DEPARTMENT OF AGRICULTURE TO INCREASE THE EMPHASIS ON URBAN AGRICULTURAL ISSUES, EFFECTIVELY ENCOURAGE LOCAL AGRICULTURAL PRODUCTION, AND INCREASE THE AVAILABILITY OF FRESH FOOD IN URBAN AREAS, PARTICULARLY UNDESERVED COMMUNITIES EXPERIENCING HUNGER, POOR NUTRITION, OBESITY, AND FOOD INSECURITY"
@@ -15,6 +14,8 @@ subjects = [ "Department of Agriculture",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/105599051!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2631"
 
 [[history]]
 date = "2011-01-12"

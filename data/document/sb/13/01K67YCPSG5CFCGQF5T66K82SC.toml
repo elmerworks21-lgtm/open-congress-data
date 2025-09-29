@@ -6,7 +6,6 @@ name = "SBN-02440"
 [meta]
 bill_number = 2440
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2440", "https://web.senate.gov.ph/lisdata/58184797!.pdf",]
 title = "BARANGAY PUBLIC LIBRARY ACT OF 2006"
 date_filed = "2006-08-15"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF ONE (1) PUBLIC LIBRARY FOR EVERY BARANGAY"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Public Library", "Public Libraries (Establishment)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58184797!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2440"
 
 [[history]]
 date = "2006-08-15"

@@ -6,7 +6,6 @@ name = "SBN-00924"
 [meta]
 bill_number = 924
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-924", "https://web.senate.gov.ph/lisdata/83706923!.pdf",]
 title = "WHITE SLAVE TRADE"
 date_filed = "2010-07-08"
 long_title = "AN ACT DETERRING PROSTITUTION BY AMENDING ARTICLE 341 (WHITE SLAVE TRADE) OF THE REVISED PENAL CODE, INCREASING THE PENALTY OF IMPRISONMENT AND FINE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "White Slavery", "Revised Penal Code (R.A.No. 3815; Amendments)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/83706923!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-924"
 
 [[history]]
 date = "2010-07-08"

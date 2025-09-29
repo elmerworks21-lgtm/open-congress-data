@@ -6,7 +6,6 @@ name = "SBN-00732"
 [meta]
 bill_number = 732
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-732", "https://web.senate.gov.ph/lisdata/80706542!.pdf",]
 title = "EMERGENCY HEALTH POWERS ACT"
 date_filed = "2010-07-07"
 long_title = "AN ACT ESTABLISHING THE PUBLIC HEALTH EMERGENCY COUNCIL, PROVIDING POWERS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Emergency (Public Health Emergency Council)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80706542!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-732"
 
 [[history]]
 date = "2010-07-07"

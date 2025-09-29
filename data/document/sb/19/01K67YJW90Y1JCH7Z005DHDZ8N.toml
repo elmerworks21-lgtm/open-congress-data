@@ -6,7 +6,6 @@ name = "SBN-01988"
 [meta]
 bill_number = 1988
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1988", "https://web.senate.gov.ph/lisdata/4114137458!.pdf",]
 title = "BARANGAY HEALTH AND NUTRITION WORKERS' DAY ACT"
 date_filed = "2023-03-13"
 long_title = "AN ACT TO DESIGNATE THE SEVENTH (7TH) DAY OF APRIL OF EVERY YEAR AS BARANGAY HEALTH AND NUTRITION WORKERS DAY, MANDATING CONCERNED AGENCIES TO CONDUCT EVENTS DURING ITS OBSERVANCE, TO APPROPRIATE FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Health Worker", "Barangay Nutrition Worker",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4114137458!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1988"
 
 [[history]]
 date = "2023-03-13"

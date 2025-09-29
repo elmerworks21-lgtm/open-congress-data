@@ -6,7 +6,6 @@ name = "SBN-01506"
 [meta]
 bill_number = 1506
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1506", "https://web.senate.gov.ph/lisdata/58175179!.pdf",]
 title = "BEACHES ENVIRONMENTAL ASSESSMENT, CLOSURE AND HEALTH ACT"
 date_filed = "2007-09-03"
 long_title = "AN ACT TO IMPROVE THE QUALITY OF BEACHES AND COASTAL RECREATION WATER"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58175179!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1506"
 
 [[history]]
 date = "2007-09-03"

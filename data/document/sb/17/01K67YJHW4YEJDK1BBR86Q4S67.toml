@@ -6,7 +6,6 @@ name = "SBN-01055"
 [meta]
 bill_number = 1055
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1055", "https://web.senate.gov.ph/lisdata/2464321224!.pdf",]
 title = "RESETTING THE BARANGAY/SK ELECTIONS"
 date_filed = "2016-08-22"
 long_title = "AN ACT RESETTING THE BARANGAY AND SANGGUNIANG KABATAAN ELECTIONS AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9164, AS AMENDED BY REPUBLIC ACT NO. 9340 AND REPUBLIC ACT NO. 10656, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Elections/Sk Elections", "Elections/Electoral Reforms",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2464321224!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1055"
 
 [[history]]
 date = "2016-08-22"

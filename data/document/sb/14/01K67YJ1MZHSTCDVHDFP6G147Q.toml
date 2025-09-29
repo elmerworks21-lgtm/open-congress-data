@@ -6,7 +6,6 @@ name = "SBN-01412"
 [meta]
 bill_number = 1412
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1412", "https://web.senate.gov.ph/lisdata/57155076!.pdf",]
 title = "PHILIPPINE COAST GUARD ACT OF 2007"
 date_filed = "2007-07-31"
 long_title = "AN ACT TO PROMOTE MARITIME SAFETY, ENHANCE MARITIME SECURITY, AND SAFEGUARD AND PROTECT THE MARINE ENVIRONMENT BY STRENGTHENING THE PHILIPPINE COAST GUARD"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/57155076!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1412"
 
 [[history]]
 date = "2007-07-31"

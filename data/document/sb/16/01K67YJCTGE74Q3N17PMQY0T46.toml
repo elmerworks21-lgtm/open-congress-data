@@ -6,7 +6,6 @@ name = "SBN-00841"
 [meta]
 bill_number = 841
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-841", "https://web.senate.gov.ph/lisdata/1682014056!.pdf",]
 title = "NATIONAL HAZARD MAPPING ACT OF 2013"
 date_filed = "2013-07-17"
 long_title = "AN ACT TO DIRECT THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES, THROUGH THE NATIONAL MAPPING AND RESOURCE INFORMATION AUTHORITY, TOGETHER WITH THE NATIONAL DISASTER COORDINATING COUNCIL, TO IDENTIFY LOW-LYING AREAS OF THE PHILIPPINE TERRITORY VULNERABLE TO RISING SEA LEVELS AS A RESULT OF GLOBAL WARMING, AND AREAS AT HIGH RISK FOR NATURAL DISASTERS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Hazard Mapping Act", "Disaster Awareness/Mitigation",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1682014056!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-841"
 
 [[history]]
 date = "2013-07-17"

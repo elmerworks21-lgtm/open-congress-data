@@ -6,7 +6,6 @@ name = "SBN-00201"
 [meta]
 bill_number = 201
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-201", "https://web.senate.gov.ph/lisdata/1294600!.pdf",]
 title = "INSTITUTIONALIZED PERSONS PROTECTION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT DEFINING WHO ARE INSTITUTIONALIZED PERSONS AND PENALIZING THEIR MALTREATMENT"
@@ -15,6 +14,8 @@ subjects = [ "Institutionalized Persons Protection Act", "Mentally Ill/Handicapp
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1294600!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-201"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00211"
 [meta]
 bill_number = 211
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-211", "https://web.senate.gov.ph/lisdata/2363220275!.pdf",]
 title = "PHILIPPINE QUALIFICATIONS FRAMEWORK (PQF) ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT INSTITUTIONALIZING THE PHILIPPINE QUALIFICATIONS FRAMEWORK (PQF) AND ESTABLISHING THE NATIONAL COORDINATING COUNCIL FOR EDUCATION"
@@ -15,6 +14,8 @@ subjects = [ "National Coordinating Council for Education", "Philippine Qualific
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2363220275!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-211"
 
 [[history]]
 date = "2016-06-30"

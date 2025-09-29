@@ -6,7 +6,6 @@ name = "SBN-00568"
 [meta]
 bill_number = 568
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-568", "https://web.senate.gov.ph/lisdata/17231081!.pdf",]
 title = "PUBLIC SCHOOL TEACHERS' SCHOLARSHIP ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT INSTITUTING A PUBLIC SCHOOL TEACHERS SCHOLARSHIP PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Teachers Scholarship Program (Public)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/17231081!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-568"
 
 [[history]]
 date = "2004-06-30"

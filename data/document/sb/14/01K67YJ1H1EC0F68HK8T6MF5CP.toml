@@ -6,7 +6,6 @@ name = "SBN-01219"
 [meta]
 bill_number = 1219
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1219", "https://web.senate.gov.ph/lisdata/55154928!.pdf",]
 title = "INSTITUTIONALIZED PERSONS PROTECTION ACT"
 date_filed = "2007-07-05"
 long_title = "AN ACT DEFINING WHO ARE INSTITUTIONALIZED PERSONS AND PENALIZING THEIR MALTREATMENT"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55154928!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1219"
 
 [[history]]
 date = "2007-07-04"

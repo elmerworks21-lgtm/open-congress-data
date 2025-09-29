@@ -6,7 +6,6 @@ name = "SBN-00718"
 [meta]
 bill_number = 718
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-718", "https://web.senate.gov.ph/lisdata/80436515!.pdf",]
 title = "HEALTH MAINTENANCE ORGANIZATIONS (HMOS) ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT PROVIDING AFFORDABLE HEALTH CARE SERVICES, THROUGH THE HEALTH MAINTENANCE ORGANIZATIONS, REGULATING THEIR OPERATIONS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Health Maintenance Organizations (HMO)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/80436515!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-718"
 
 [[history]]
 date = "2010-07-07"

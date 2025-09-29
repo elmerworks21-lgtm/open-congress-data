@@ -6,7 +6,6 @@ name = "SBN-01974"
 [meta]
 bill_number = 1974
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1974", "https://web.senate.gov.ph/lisdata/33032454!.pdf",]
 title = "CIVIL SERVICE CODE OF THE PHILIPPINES"
 date_filed = "2005-04-05"
 long_title = "AN ACT ESTABLISHING A CIVIL SERVICE CODE OF THE PHILIPPINES AND FOR OTHER PURPOSES."
@@ -15,6 +14,8 @@ subjects = [ "Civil Service Code of the Philippines",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/33032454!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1974"
 
 [[history]]
 date = "2005-04-05"

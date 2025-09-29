@@ -6,7 +6,6 @@ name = "SBN-01705"
 [meta]
 bill_number = 1705
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1705", "https://web.senate.gov.ph/lisdata/4040536812!.pdf",]
 title = "AMENDING LABOR CODE OF THE PHILIPPINES, INCREASING THE SERVICE INCENTIVES LEAVE OF EMPLOYEES"
 date_filed = "2023-01-19"
 long_title = "AN ACT INCREASING THE SERVICE INCENTIVE LEAVE OF EMPLOYEES, AMENDING FOR THE PURPOSE ARTICLE 95 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Service Incentive L
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4040536812!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1705"
 
 [[history]]
 date = "2023-01-19"

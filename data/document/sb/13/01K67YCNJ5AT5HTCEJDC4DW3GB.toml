@@ -6,7 +6,6 @@ name = "SBN-00349"
 [meta]
 bill_number = 349
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-349", "https://web.senate.gov.ph/lisdata/1506801!.pdf",]
 title = "OMNIBUS CODE ON THE RIGHTS OF THE ACCUSED PERSON"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THE RIGHTS OF THE ACCUSED AND PERSONS UNDER INVESTIGATION FOR THE COMMISSION OF A CRIME, PROVIDING FOR CIVIL AND CRIMINAL PENALTIES IN CASE OF VIOLATION THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Code (Rights of Accused Persons)", "Bill of Rights (Accuse
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1506801!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-349"
 
 [[history]]
 date = "2004-06-30"

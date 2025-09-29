@@ -6,7 +6,6 @@ name = "SBN-01912"
 [meta]
 bill_number = 1912
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1912", "https://web.senate.gov.ph/lisdata/4086237230!.pdf",]
 title = "REVISED NATIONAL APPRENTICESHIP PROGRAM ACT"
 date_filed = "2023-02-21"
 long_title = "AN ACT PROVIDING FOR A REVISED NATIONAL APPRENTICESHIP PROGRAM REPEALING FOR THE PURPOSE CHAPTERS I AND II OF TITLE II, BOOK II OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "Apprentice/Apprenti
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4086237230!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1912"
 
 [[history]]
 date = "2023-02-21"

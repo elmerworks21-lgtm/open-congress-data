@@ -6,7 +6,6 @@ name = "SBN-00918"
 [meta]
 bill_number = 918
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-918", "https://web.senate.gov.ph/lisdata/51774544!.pdf",]
 title = "PENALTY OF IMPRISONMENT IN LIBEL CASES (ABOLITION)"
 date_filed = "2007-07-03"
 long_title = "AN ACT TO ABOLISH THE PENALTY OF IMPRISONMENT IN LIBEL CASES, AMENDING FOR THE PURPOSE ARTICLES 355, 356, 357 AND 360 OF ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Libel Cases", "Revised Penal Code (RA 3815; Amendments)",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51774544!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-918"
 
 [[history]]
 date = "2007-07-03"

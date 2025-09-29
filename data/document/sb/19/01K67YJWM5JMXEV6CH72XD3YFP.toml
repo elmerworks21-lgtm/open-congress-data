@@ -6,7 +6,6 @@ name = "SBN-02443"
 [meta]
 bill_number = 2443
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2443", "https://web.senate.gov.ph/lisdata/4270738835!.pdf",]
 title = "DISSOLUTION OF MARRIAGE ACT"
 date_filed = "2023-09-18"
 long_title = "AN ACT EXPANDING THE GROUNDS FOR DISSOLUTION OF MARRIAGE, INSTITUTING DIVORCE AND SETTING THE PROCEDURES THEREOF, PROVIDING PROTECTIONS TO THE PARTIES TO THE MARRIAGE AND ITS COMMON CHILDREN, AMENDING FOR THIS PURPOSE EXECUTIVE ORDER NO. 209, OR THE FAMILY CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Dissolution of Marriage", "Divorce",]
 authors_raw = "Hontiveros, Risa, Tulfo, Raffy T., Padilla, Robinhood C., Cayetano, Pia S., Marcos, Imee R."
 author_codes = ["CPIAS", "HANAT", "MIMEE", "PROBI", "TRAFF"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4270738835!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2443"
 
 [[history]]
 date = "2023-09-18"

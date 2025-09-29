@@ -6,7 +6,6 @@ name = "SBN-00759"
 [meta]
 bill_number = 759
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-759", "https://web.senate.gov.ph/lisdata/3111328011!.pdf",]
 title = "PHILIPPINE CARPOOL SERVICE ACT"
 date_filed = "2019-07-24"
 long_title = "AN ACT ESTABLISHING CARPOOL SERVICE IN THE COUNTRY, REGULATING ITS USE AND OPERATION, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Carpool",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3111328011!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-759"
 
 [[history]]
 date = "2019-07-24"

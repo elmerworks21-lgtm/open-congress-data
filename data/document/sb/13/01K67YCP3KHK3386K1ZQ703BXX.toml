@@ -6,7 +6,6 @@ name = "SBN-01310"
 [meta]
 bill_number = 1310
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1310", "https://web.senate.gov.ph/lisdata/25171889!.pdf",]
 title = "COLLEGE EDUCATION TRUST FUND ACT"
 date_filed = "2004-07-02"
 long_title = "AN ACT ESTABLISHING A COLLEGE EDUCATION TRUST FUND FOR CHILDREN OF GSIS AND SSS MEMBERS"
@@ -15,6 +14,8 @@ subjects = [ "College Education Trust Fund", "Gsis/Sss Members` Children",]
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/25171889!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1310"
 
 [[history]]
 date = "2004-07-02"

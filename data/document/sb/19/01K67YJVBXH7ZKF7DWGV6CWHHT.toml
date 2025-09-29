@@ -6,7 +6,6 @@ name = "SBN-00726"
 [meta]
 bill_number = 726
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-726", "https://web.senate.gov.ph/lisdata/3841534870!.pdf",]
 title = "FORENSIC DNA DATABASE ACT"
 date_filed = "2022-07-18"
 long_title = "AN ACT ESTABLISHING A FORENSIC DNA DATABASE IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Forensic Dna Database",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3841534870!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-726"
 
 [[history]]
 date = "2022-07-18"

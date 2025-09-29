@@ -6,7 +6,6 @@ name = "SBN-01243"
 [meta]
 bill_number = 1243
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1243", "https://web.senate.gov.ph/lisdata/4787443887!.pdf",]
 title = "URBAN AGRICULTURE ACT OF 2025"
 date_filed = "2025-08-20"
 long_title = "AN ACT INSTITUTIONALIZING THE PROMOTION OF INTEGRATED URBAN AGRICULTURE AND OTHER EMERGING INNOVATIVE SUSTAINABLE AGRICULTURAL PRODUCTION PRACTICES AND TECHNOLOGIES IN CITIES AND OTHER STRATEGIC AREAS THROUGHOUT THE COUNTRY TO ADDRESS FOOD SECURITY CONCERNS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Urban Agriculture",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4787443887!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1243"
 
 [[history]]
 date = "2025-08-20"

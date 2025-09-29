@@ -6,7 +6,6 @@ name = "SBN-00056"
 [meta]
 bill_number = 56
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-56", "https://web.senate.gov.ph/lisdata/41033526!.pdf",]
 title = "INTERNET PROTECTION ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT REQUIRING INTERNET CAFES AND EDUCATIONAL INSTITUTIONS WITH INTERNET ACCESS TO INSTALL A SOFTWARE TECHNOLOGY FOR BLOCKING INTERNET WEBSITES DISPLAYING OBSCENE AND VIOLENT MATERIALS PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internet Protection", "Computer/Internet/Cyberspace Pornography", 
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41033526!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-56"
 
 [[history]]
 date = "2007-06-30"

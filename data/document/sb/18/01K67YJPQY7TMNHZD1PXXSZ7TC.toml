@@ -6,7 +6,6 @@ name = "SBN-00529"
 [meta]
 bill_number = 529
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-529", "https://web.senate.gov.ph/lisdata/3091227766!.pdf",]
 title = "AMENDING COMMONWEALTH ACT NO. 473 (REVISED NATURALIZATION LAW)"
 date_filed = "2019-07-16"
 long_title = "AN ACT AMENDING COMMONWEALTH ACT NO. 473, OTHERWISE KNOWN AS THE ‘REVISED NATURALIZATION LAW’ AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Revised Naturalization Law (C.A.No. 473)", "Citizenship",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3091227766!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-529"
 
 [[history]]
 date = "2019-07-16"

@@ -6,7 +6,6 @@ name = "SBN-02523"
 [meta]
 bill_number = 2523
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2523", "https://web.senate.gov.ph/lisdata/102178730!.pdf",]
 title = "RETIREMENT AND SEPARATION FOR MILITARY PERSONNEL OF THE AFP"
 date_filed = "2010-09-14"
 long_title = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 1638 AS AMENDED, OTHERWISE KNOWN AS 'ESTABLISHING A NEW SYSTEM OF RETIREMENT AND SEPARATION FOR MILITARY PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES AND FOR OTHER PURPOSES BY GRANTING THE RIGHT TO RECEIVE RETIREMENT BENEFITS TO RETIREES WHO HAVE REACQUIRED PHILIPPINE CITIZENSHIP"
@@ -15,6 +14,8 @@ subjects = [ "Armed Forces of the Philippines (AFP)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/102178730!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2523"
 
 [[history]]
 date = "2010-09-14"

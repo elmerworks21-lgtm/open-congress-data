@@ -6,7 +6,6 @@ name = "SBN-00616"
 [meta]
 bill_number = 616
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-616", "https://web.senate.gov.ph/lisdata/18021177!.pdf",]
 title = "GOVERNMENT AMBULANCES REGULATION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT REGULATING THE USE OF GOVERNMENT AMBULANCES, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Government Ambulances Regulation",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18021177!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-616"
 
 [[history]]
 date = "2004-06-30"

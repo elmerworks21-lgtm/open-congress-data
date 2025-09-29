@@ -6,7 +6,6 @@ name = "SBN-02551"
 [meta]
 bill_number = 2551
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2551", "https://web.senate.gov.ph/lisdata/64985384!.pdf",]
 title = "HUMAN RIGHTS AND SECURITY PROTECTION ACT OF 2006"
 date_filed = "2006-12-04"
 long_title = "AN ACT PROTECTING THE HUMAN RIGHTS AND HUMAN SECURITY OF THE FILIPINO PEOPLE, STRENGTHENING THE ORGANIZATION AND EXPANDING THE FUNCTIONS OF THE COMMISSION ON HUMAN RIGHTS AND CRIMINALIZING HUMAN RIGHTS AND HUMAN SECURITY VIOLATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Human Rights and Security Protection",]
 authors_raw = "Madrigal, M. A."
 author_codes = ["MJAMB"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64985384!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2551"
 
 [[history]]
 date = "2006-12-04"

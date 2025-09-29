@@ -6,7 +6,6 @@ name = "SBN-02144"
 [meta]
 bill_number = 2144
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2144", "https://web.senate.gov.ph/lisdata/2930625906!.pdf",]
 title = "SOLID WASTE IMPORTATION BAN"
 date_filed = "2019-01-14"
 long_title = "AN ACT BANNING THE IMPORTATION OF SOLID WASTE"
@@ -15,6 +14,8 @@ subjects = [ "Solid Waste", "Dumping",]
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2930625906!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2144"
 
 [[history]]
 date = "2019-01-14"

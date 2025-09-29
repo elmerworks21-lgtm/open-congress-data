@@ -6,7 +6,6 @@ name = "SBN-00099"
 [meta]
 bill_number = 99
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-99", "https://web.senate.gov.ph/lisdata/3780234243!.pdf",]
 title = "SUBSCRIBER IDENTITY MODULE (SIM) CARD REGISTRATION ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT ERADICATING MOBILE PHONE, INTERNET OR ELECTRONIC COMMUNICATION-AIDED CRIMINAL ACTIVITIES, MANDATING FOR THIS PURPOSE OWNERSHIP REGISTRATION OF ALL SUBSCRIBER IDENTITY MODULE (SIM) CARDS FOR ELECTRONIC DEVICES AND SOCIAL MEDIA ACCOUNTS"
@@ -15,6 +14,8 @@ subjects = [ "Sim Card Registration",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3780234243!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-99"
 
 [[history]]
 date = "2022-07-07"

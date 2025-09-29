@@ -6,7 +6,6 @@ name = "SBN-00762"
 [meta]
 bill_number = 762
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-762", "https://web.senate.gov.ph/lisdata/49864375!.pdf",]
 title = "THE PHILIPPINE SPECIAL CHILDREN CENTER ACT OF 2007"
 date_filed = "2007-07-03"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE SPECIAL CHILDREN CENTER, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Children Center", "Child Care Center",]
 authors_raw = "Cayetano, \"Companera\" Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49864375!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-762"
 
 [[history]]
 date = "2007-07-03"

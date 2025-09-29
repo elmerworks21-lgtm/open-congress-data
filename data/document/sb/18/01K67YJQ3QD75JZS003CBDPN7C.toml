@@ -6,7 +6,6 @@ name = "SBN-01072"
 [meta]
 bill_number = 1072
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1072", "https://web.senate.gov.ph/lisdata/3159528441!.pdf",]
 title = "DRONE REGULATION ACT"
 date_filed = "2019-09-24"
 long_title = "AN ACT REGULATING THE SALE, LEASE, OWNERSHIP AND OPERATION OF DRONES, MANDATING THE REGISTRATION OF DRONE DEALERS AND DRONE OWNERS/OPERATORS, AND PRESCRIBING PENALTIES FOR THE VIOLATION THEREOF"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Drones",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3159528441!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1072"
 
 [[history]]
 date = "2019-09-24"

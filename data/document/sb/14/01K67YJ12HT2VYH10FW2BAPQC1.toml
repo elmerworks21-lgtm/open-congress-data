@@ -6,7 +6,6 @@ name = "SBN-00508"
 [meta]
 bill_number = 508
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-508", "https://web.senate.gov.ph/lisdata/47174038!.pdf",]
 title = "RESTORING THE TAX EXEMPTION PRIVILEGES OF ELECTRIC COOPERATIVES"
 date_filed = "2007-07-02"
 long_title = "AN ACT TO RESTORE THE TAX EXEMPTION PRIVILEGES OF ELECTRIC COOPERATIVES CREATED UNDER P. D. 269, OTHERWISE KNOWN AS THE 'NATIONAL ELECTRIFICATION ADMINISTRATION DECREE', AMENDING FOR THIS PURPOSE SECTIONS 193 AND 234 (D) OF R. A. NO. 7160 OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "National Electrification Administration Decree (Pd 269)", "Electri
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["COOPE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47174038!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-508"
 
 [[history]]
 date = "2007-07-02"

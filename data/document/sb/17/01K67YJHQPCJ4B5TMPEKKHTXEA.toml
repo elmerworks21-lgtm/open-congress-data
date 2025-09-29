@@ -6,7 +6,6 @@ name = "SBN-00850"
 [meta]
 bill_number = 850
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-850", "https://web.senate.gov.ph/lisdata/2439220984!.pdf",]
 title = "PHILIPPINE NURSING PRACTICE REFORM ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT INSTITUTING REFORMS TO FURTHER PROTECT AND DEVELOP THE NURSING PROFESSION, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBER 9173, OTHERWISE KNOWN AS THE"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Nursing Act", "Nurses",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2439220984!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-850"
 
 [[history]]
 date = "2016-07-21"

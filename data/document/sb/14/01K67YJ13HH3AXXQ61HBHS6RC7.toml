@@ -6,7 +6,6 @@ name = "SBN-00559"
 [meta]
 bill_number = 559
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-559", "https://web.senate.gov.ph/lisdata/47704101!.pdf",]
 title = "DRIVER'S PRIVACY PROTECTION ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROVIDING PRIVACY PROTECTION FOR MOTOR VEHICLE OWNERS"
@@ -15,6 +14,8 @@ subjects = [ "Drivers Privacy Protection", "Motor Vehicle",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47704101!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-559"
 
 [[history]]
 date = "2007-07-02"

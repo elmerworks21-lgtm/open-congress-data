@@ -6,7 +6,6 @@ name = "SBN-03122"
 [meta]
 bill_number = 3122
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3122", "https://web.senate.gov.ph/lisdata/2294619638!.pdf",]
 title = "PROBABLE CARCINOGEN INFORMATION ACT"
 date_filed = "2016-01-25"
 long_title = "AN ACT CREATING A DATABASE OF PRODUCTS CONTAINING PROBABLE CARCINOGENS"
@@ -15,6 +14,8 @@ subjects = [ "Carcinogens",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2294619638!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3122"
 
 [[history]]
 date = "2016-01-25"

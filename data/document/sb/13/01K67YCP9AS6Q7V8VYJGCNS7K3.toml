@@ -6,7 +6,6 @@ name = "SBN-01628"
 [meta]
 bill_number = 1628
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1628", "https://web.senate.gov.ph/lisdata/28672267!.pdf",]
 title = "NATIONAL CRIME DATABASE ACT"
 date_filed = "2004-08-03"
 long_title = "AN ACT ESTABLISHING A NATIONAL CRIME DATABASE"
@@ -15,6 +14,8 @@ subjects = [ "National Crime Database Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28672267!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1628"
 
 [[history]]
 date = "2004-08-03"

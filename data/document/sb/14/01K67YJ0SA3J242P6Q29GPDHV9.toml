@@ -6,7 +6,6 @@ name = "SBN-00088"
 [meta]
 bill_number = 88
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-88", "https://web.senate.gov.ph/lisdata/41503558!.pdf",]
 title = "TOURISM ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT DECLARING A NATIONAL POLICY FOR TOURISM AS AN ENGINE OF INVESTMENT, EMPLOYMENT, GROWTH AND NATIONAL DEVELOPMENT, REORGANIZING THE DEPARTMENT OF TOURISM AND ITS ATTACHED AGENCIES TO EFFECTIVELY AND EFFICIENTLY IMPLEMENT THAT POLICY, PROVIDING NECESSARY INCENTIVES FOR INVESTMENT AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Tourism Development Advisory Council, Creation",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["TOURI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41503558!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-88"
 
 [[history]]
 date = "2007-06-30"

@@ -6,7 +6,6 @@ name = "SBN-02501"
 [meta]
 bill_number = 2501
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2501", "https://web.senate.gov.ph/lisdata/79747204!.pdf",]
 title = "REAPPORTIONING THE PROVINCE OF CAVITE"
 date_filed = "2008-07-31"
 long_title = "AN ACT REAPPORTIONING THE PROVINCE OF CAVITE INTO SEVEN (7) LEGISLATIVE DISTRICTS"
@@ -15,6 +14,8 @@ subjects = [ "Legislative District",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79747204!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2501"
 
 [[history]]
 date = "2008-07-31"

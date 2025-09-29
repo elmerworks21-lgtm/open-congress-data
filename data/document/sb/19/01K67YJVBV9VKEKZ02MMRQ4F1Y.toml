@@ -6,7 +6,6 @@ name = "SBN-00723"
 [meta]
 bill_number = 723
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-723", "https://web.senate.gov.ph/lisdata/3841034865!.pdf",]
 title = "AMENDING UNIVERSAL HEALTH CARE ACT (PREMIUM CONTRIBUTION)"
 date_filed = "2022-07-18"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11223 OTHERWISE KNOWN AS AN THE 'UNIVERSAL HEALTH CARE ACT'"
@@ -15,6 +14,8 @@ subjects = [ "Universal Health Care", "Philippine Health Insurance Corporation (
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3841034865!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-723"
 
 [[history]]
 date = "2022-07-18"

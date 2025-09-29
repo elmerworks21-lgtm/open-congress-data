@@ -6,7 +6,6 @@ name = "SBN-00218"
 [meta]
 bill_number = 218
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-218", "https://web.senate.gov.ph/lisdata/1353621!.pdf",]
 title = "PRIVATE LAND FORESTRY AND INCENTIVE ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT INSTITUTIONALIZING PRIVATE LAND FORESTRY TO ENHANCE REFORESTATION AND ENVIRONMENTAL PROTECTION AND PROVIDING INCENTIVES THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Private Land Forestry & Incentive Act", "Agricultural Lands/Agro-F
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1353621!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-218"
 
 [[history]]
 date = "2004-06-30"

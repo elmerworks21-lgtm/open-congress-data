@@ -6,7 +6,6 @@ name = "SBN-00305"
 [meta]
 bill_number = 305
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-305", "https://web.senate.gov.ph/lisdata/2374320405!.pdf",]
 title = "COOPERATIVE DEVELOPMENT AUTHORITY CHARTER ACT"
 date_filed = "2016-07-04"
 long_title = "AN ACT REORGANIZING THE COOPERATIVE DEVELOPMENT AUTHORITY, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 6939, CREATING THE COOPERATIVE DEVELOPMENT AUTHORITY"
@@ -15,6 +14,8 @@ subjects = [ "Cooperative Development Authority", "Reorganization",]
 authors_raw = "Zubiri, Juan Miguel F."
 author_codes = ["ZJMIG"]
 committee_codes = ["COOPE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2374320405!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-305"
 
 [[history]]
 date = "2016-07-04"

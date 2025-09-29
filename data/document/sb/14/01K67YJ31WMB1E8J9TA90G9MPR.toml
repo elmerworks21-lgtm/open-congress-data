@@ -6,7 +6,6 @@ name = "SBN-03113"
 [meta]
 bill_number = 3113
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3113", "https://web.senate.gov.ph/lisdata/104619311!.pdf",]
 title = "SCHOOLS FOR TRAFFIC VIOLATIONS ACT OF 2009"
 date_filed = "2009-03-03"
 long_title = "AN ACT CREATING STREET-SIDE REFORM SCHOOLS FOR TRAFFIC VIOLATORS IN EVERY CITY AND MUNICIPALITY IN THE COUNTRY, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Street-Side Reform Schools", "Traffic Violations",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/104619311!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3113"
 
 [[history]]
 date = "2009-03-03"

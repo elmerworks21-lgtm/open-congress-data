@@ -6,7 +6,6 @@ name = "SBN-01757"
 [meta]
 bill_number = 1757
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1757", "https://web.senate.gov.ph/lisdata/2765223915!.pdf",]
 title = "ADOPT-A-LIBRARY ACT OF 2018"
 date_filed = "2018-03-20"
 long_title = "AN ACT ESTABLISHING AN ‘ADOPT-A-LIBRARY’ PROGRAM, PROVIDING INCENTIVES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Library", "Barangay Reading Centers",]
 authors_raw = "Poe, Grace L., Gatchalian, Sherwin T."
 author_codes = ["GSHER", "PGRAC"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2765223915!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1757"
 
 [[history]]
 date = "2018-03-20"

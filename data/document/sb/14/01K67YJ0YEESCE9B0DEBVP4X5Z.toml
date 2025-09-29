@@ -6,7 +6,6 @@ name = "SBN-00310"
 [meta]
 bill_number = 310
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-310", "https://web.senate.gov.ph/lisdata/44103813!.pdf",]
 title = "TRAUMA CENTER ACT"
 date_filed = "2007-07-02"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 8505, OTHERWISE KNOWN AS THE RAPE VICTIM ASSISTANCE AND PROTECTION ACT OF 1998"
@@ -15,6 +14,8 @@ subjects = [ "Trauma Center", "Rape Victim Assistance and Protection (RA 8505)",
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/44103813!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-310"
 
 [[history]]
 date = "2007-07-02"

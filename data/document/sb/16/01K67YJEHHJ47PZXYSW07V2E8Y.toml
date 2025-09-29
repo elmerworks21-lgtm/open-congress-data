@@ -6,7 +6,6 @@ name = "SBN-03123"
 [meta]
 bill_number = 3123
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3123", "https://web.senate.gov.ph/lisdata/2294719639!.pdf",]
 title = "PREVENTING FALSE CONFESSIONS ACT"
 date_filed = "2016-01-25"
 long_title = "AN ACT DIRECTING THE ELECTRONIC RECORDING OF CUSTODIAL INTERROGATIONS TO PREVENT THE USE OF FALSE CONFESSIONS"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Custodial Investigation/Interrogation", "False Confessi
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2294719639!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3123"
 
 [[history]]
 date = "2016-01-25"

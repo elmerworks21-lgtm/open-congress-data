@@ -6,7 +6,6 @@ name = "SBN-01733"
 [meta]
 bill_number = 1733
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1733", "https://web.senate.gov.ph/lisdata/4051036954!.pdf",]
 title = "FREE ANNUAL MEDICAL CHECK-UP ACT OF 2023"
 date_filed = "2023-01-23"
 long_title = "AN ACT PROVIDING FOR A FREE ANNUAL MEDICAL CHECK-UP AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Free Annual Medical Check-Up",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4051036954!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1733"
 
 [[history]]
 date = "2023-01-23"

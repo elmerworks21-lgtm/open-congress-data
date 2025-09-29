@@ -6,7 +6,6 @@ name = "SBN-00305"
 [meta]
 bill_number = 305
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-305", "https://web.senate.gov.ph/lisdata/3805934502!.pdf",]
 title = "FLOATING HOSPITALS ACT"
 date_filed = "2022-07-12"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE NAVY, THE PHILIPPINE COAST GUARD, AND THE PHILIPPINE NATIONAL POLICE MARITIME GROUP, BY THE PURCHASE AND ESTABLISHMENT OF FLOATING HOSPITALS UNDER THEIR JURISDICTION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Floating Hospitals", "Philippine Navy", "Philippine Coast Guard", 
 authors_raw = "Cayetano, Alan Peter S."
 author_codes = ["CALAN"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3805934502!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-305"
 
 [[history]]
 date = "2022-07-12"

@@ -6,7 +6,6 @@ name = "SBN-00120"
 [meta]
 bill_number = 120
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-120", "https://web.senate.gov.ph/lisdata/3036127218!.pdf",]
 title = "MAGNA CARTA FOR CHILD DEVELOPMENT WORKERS"
 date_filed = "2019-07-01"
 long_title = "AN ACT INSTITUTING THE MAGNA CARTA FOR CHILD DEVELOPMENT WORKERS AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Child Development Workers",]
 authors_raw = "Binay, Maria Lourdes Nancy S., Villanueva, Joel"
 author_codes = ["BMARI", "VEMMA"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3036127218!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-120"
 
 [[history]]
 date = "2019-07-01"

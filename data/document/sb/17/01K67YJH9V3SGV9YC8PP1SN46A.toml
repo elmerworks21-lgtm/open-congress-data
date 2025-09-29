@@ -6,7 +6,6 @@ name = "SBN-00230"
 [meta]
 bill_number = 230
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-230", "https://web.senate.gov.ph/lisdata/2365120309!.pdf",]
 title = "THE ANTI-POLITICAL DYNASTY ACT"
 date_filed = "2016-07-04"
 long_title = "AN ACT PROHIBITING THE ESTABLISHMENT OF POLITICAL DYNASTIES"
@@ -15,6 +14,8 @@ subjects = [ "Political Dynasty", "Political Dynasties",]
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2365120309!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-230"
 
 [[history]]
 date = "2016-07-04"

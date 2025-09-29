@@ -6,7 +6,6 @@ name = "SBN-00741"
 [meta]
 bill_number = 741
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-741", "https://web.senate.gov.ph/lisdata/1667313913!.pdf",]
 title = "ANTI-SMUGGLING ACT 0F 2013"
 date_filed = "2013-07-15"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF PRESIDENTIAL DECREE NO. 1464, OTHERWISE KNOWN AS THE TARIFF AND CUSTOMS CODE OF THE PHILIPPINES, AS AMENDED, AND FOR OTHER PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Tariff and Customs Code (P.D.No. 1464)", "Anti-Smuggling", "Bureau
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1667313913!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-741"
 
 [[history]]
 date = "2013-07-15"

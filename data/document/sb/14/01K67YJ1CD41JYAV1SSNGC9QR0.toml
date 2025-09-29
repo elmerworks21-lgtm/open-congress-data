@@ -6,7 +6,6 @@ name = "SBN-00991"
 [meta]
 bill_number = 991
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-991", "https://web.senate.gov.ph/lisdata/52574639!.pdf",]
 title = "NATIONAL ECOTOURISM POLICY ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT PROVIDING FOR A NATIONAL ECOTOURISM POLICY, ESTABLISHING A FRAMEWORK FOR ITS INSTITUTIONALIZATION, CREATING MECHANISM FOR ITS IMPLEMENTATION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Ecotourism Policy",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52574639!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-991"
 
 [[history]]
 date = "2007-07-04"

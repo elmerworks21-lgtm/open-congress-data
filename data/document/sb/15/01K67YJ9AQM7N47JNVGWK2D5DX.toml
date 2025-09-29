@@ -6,7 +6,6 @@ name = "SBN-02954"
 [meta]
 bill_number = 2954
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2954", "https://web.senate.gov.ph/lisdata/1215910245!.pdf",]
 title = "HOMES FOR THE ELDERLY ACT"
 date_filed = "2011-09-01"
 long_title = "AN ACT REGULATING HOMES FOR THE ELDERLY"
@@ -15,6 +14,8 @@ subjects = [ "Senior Citizen", "Elderly",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1215910245!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2954"
 
 [[history]]
 date = "2011-09-01"

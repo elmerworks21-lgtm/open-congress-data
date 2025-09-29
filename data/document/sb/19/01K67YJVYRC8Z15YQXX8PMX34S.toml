@@ -6,7 +6,6 @@ name = "SBN-01539"
 [meta]
 bill_number = 1539
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1539", "https://web.senate.gov.ph/lisdata/4000636431!.pdf",]
 title = "PUBLIC TELECOMMUNICATIONS POLICY ACT OF THE PHILIPPINES"
 date_filed = "2022-11-23"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 7925, OTHERWISE KNOWN AS THE PUBLIC TELECOMMUNICATIONS POLICY ACT OF THE PHILIPPINES, BY REQUIRING PUBLIC TELECOMMUNICATIONS ENTITIES AND INTERNET SERVICE PROVIDERS TO INSTITUTE A REFUND MECHANISM FOR SERVICE OUTAGES AND DISRUPTIONS"
@@ -15,6 +14,8 @@ subjects = [ "Public Telecommunications Entities", "Internet Service Providers",
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4000636431!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1539"
 
 [[history]]
 date = "2022-11-23"

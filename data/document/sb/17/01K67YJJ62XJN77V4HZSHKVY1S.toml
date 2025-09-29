@@ -6,7 +6,6 @@ name = "SBN-01433"
 [meta]
 bill_number = 1433
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1433", "https://web.senate.gov.ph/lisdata/2583722214!.pdf",]
 title = "AUTISM CARE ACT OF 2017"
 date_filed = "2017-05-03"
 long_title = "AN ACT INSTITUTING A NATIONAL COMPREHENSIVE PROGRAM FOR THE PREVENTION, EARLY DETECTION, DIAGNOSIS, AND TREATMENT OF PERSONS WITH AUTISM SPECTRUM DISORDERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Autism Spectrum Disorder (ASD)", "Autism",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2583722214!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1433"
 
 [[history]]
 date = "2017-05-03"

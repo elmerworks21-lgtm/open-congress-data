@@ -6,7 +6,6 @@ name = "SBN-00004"
 [meta]
 bill_number = 4
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-4", "https://web.senate.gov.ph/lisdata/3770534147!.pdf",]
 title = "UPGRADING THE MINIMUM SALARIES OF PUBLIC SCHOOL TEACHERS"
 date_filed = "2022-07-04"
 long_title = "AN ACT UPGRADING THE MINIMUM SALARIES OF PUBLIC SCHOOL TEACHERS TO SALARY GRADE 15, TEACHING PERSONNEL IN HIGHER EDUCATION TO SALARY GRADE 16, AND OF NON-TEACHING PERSONNEL TO SIXTEEN THOUSAND PESOS (PHP 16,000.00)"
@@ -15,6 +14,8 @@ subjects = [ "Public School Teachers", "Higher Education Teaching Personnel", "S
 authors_raw = "Legarda, Loren B., Escudero, Francis G."
 author_codes = ["EFRAN", "LLORE"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3770534147!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-4"
 
 [[history]]
 date = "2022-07-04"

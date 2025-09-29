@@ -6,7 +6,6 @@ name = "SBN-00830"
 [meta]
 bill_number = 830
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-830", "https://web.senate.gov.ph/lisdata/2437121008!.pdf",]
 title = "PHILIPPINE CANCER CENTER ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT CREATING THE PHILIPPINE CANCER CENTER, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Cancer Care Centers",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2437121008!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-830"
 
 [[history]]
 date = "2016-07-21"

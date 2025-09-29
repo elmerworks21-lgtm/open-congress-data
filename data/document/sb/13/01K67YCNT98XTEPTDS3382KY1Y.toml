@@ -6,7 +6,6 @@ name = "SBN-00809"
 [meta]
 bill_number = 809
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-809", "https://web.senate.gov.ph/lisdata/20051459!.pdf",]
 title = "INTERNAL AUDITING ACT (AMENDMENTS)"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO AMEND REPUBLIC ACT NUMBERED THREE THOUSAND FOUR HUNDRED FIFTY-SIX, AS AMENDED BY REPUBLIC ACT NUMBERED FOUR THOUSAND ONE HUNDRED SEVENTY-SEVEN, OTHERWISE KNOWN AS INTERNAL AUDITING ACT OF 1962"
@@ -15,6 +14,8 @@ subjects = [ "Internal Auditing Act (RA 3456)", "Commission on Audit (COA)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/20051459!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-809"
 
 [[history]]
 date = "2004-06-30"

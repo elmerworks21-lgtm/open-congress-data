@@ -6,7 +6,6 @@ name = "SBN-00526"
 [meta]
 bill_number = 526
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-526", "https://web.senate.gov.ph/lisdata/47374056!.pdf",]
 title = "MAGNA CARTA OF STUDENTS"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF THE MAGNA CARTA OF STUDENTS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Students",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47374056!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-526"
 
 [[history]]
 date = "2007-07-02"

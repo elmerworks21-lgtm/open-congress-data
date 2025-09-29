@@ -6,7 +6,6 @@ name = "SBN-00946"
 [meta]
 bill_number = 946
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-946", "https://web.senate.gov.ph/lisdata/21481676!.pdf",]
 title = "CHILDREN'S ENVIRONMENTAL PROTECTION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROTECT CHILDREN AND OTHER VULNERABLE SUBPOPULATIONS FROM EXPOSURE TO CERTAIN ENVIRONMENTAL POLLUTANTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Children`S Environmental Protection Act",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/21481676!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-946"
 
 [[history]]
 date = "2004-06-30"

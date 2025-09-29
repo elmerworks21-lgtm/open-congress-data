@@ -6,7 +6,6 @@ name = "SBN-00074"
 [meta]
 bill_number = 74
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-74", "https://web.senate.gov.ph/lisdata/74956051!.pdf",]
 title = "CONSERVATION, PROTECTION AND RENEWAL OF THE NATION'S PATRIMONY ACT"
 date_filed = "2010-07-01"
 long_title = "AN ACT TO CONSERVE AND PROTECT THE PUBLIC FORESTS, MANGROVES AND WILDLIFE THEREIN THROUGH A PROGRAM OF RENEWAL, REFORESTATION AND REPLANTING, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nations Patrimony", "Forest Land Rehabilitation",]
 authors_raw = "Villar, Manny B., Recto, Ralph G."
 author_codes = ["RRALP", "VMANN"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74956051!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-74"
 
 [[history]]
 date = "2010-07-01"

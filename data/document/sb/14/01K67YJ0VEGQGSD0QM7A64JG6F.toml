@@ -6,7 +6,6 @@ name = "SBN-00180"
 [meta]
 bill_number = 180
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-180", "https://web.senate.gov.ph/lisdata/42813667!.pdf",]
 title = "IMMEDIATE RELEASE OF RETIREMENT PAY OF EMPLOYEES"
 date_filed = "2007-06-30"
 long_title = "AN ACT AMENDING ARTICLE 287 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, BY REQUIRING EMPLOYERS TO RELEASE THE RETIREMENT PAY OF EMPLOYEES WITHIN FIFTEEN DAYS FROM SUBMISSION OF COMPLETE DOCUMENTARY REQUIREMENTS"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code (Article 287, Pd 442)", "Retirement Benefits Payment (I
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42813667!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-180"
 
 [[history]]
 date = "2007-06-30"

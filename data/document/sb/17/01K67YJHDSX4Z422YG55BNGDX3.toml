@@ -6,7 +6,6 @@ name = "SBN-00382"
 [meta]
 bill_number = 382
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-382", "https://web.senate.gov.ph/lisdata/2382020484!.pdf",]
 title = "TOTAL LOGGING BAN"
 date_filed = "2016-07-18"
 long_title = "AN ACT TOTALLY BANNING LOGGING OPERATIONS FOR THE NEXT TWENTY-FIVE YEARS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Logging Ban",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2382020484!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-382"
 
 [[history]]
 date = "2016-07-18"

@@ -6,7 +6,6 @@ name = "SBN-02220"
 [meta]
 bill_number = 2220
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2220", "https://web.senate.gov.ph/lisdata/47573911!.pdf",]
 title = "ATM FEE REGULATORY ACT OF 2006"
 date_filed = "2006-03-06"
 long_title = "AN ACT REQUIRING CERTAIN FINANCIAL INSTITUTIONS TO POST TRANSACTION FEES FOR EACH AUTOMATED TELLER MACHINE TRANSACTION, AND RESTRICTING TRANSACTION FEES FOR AUTOMATED TELLER MACHINES"
@@ -15,6 +14,8 @@ subjects = [ "Atm Fee Regulatory Act", "Automated Teller Machine (ATM)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47573911!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2220"
 
 [[history]]
 date = "2006-03-06"

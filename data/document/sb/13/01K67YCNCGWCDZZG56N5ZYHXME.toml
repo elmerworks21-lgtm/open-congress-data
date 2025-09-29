@@ -6,7 +6,6 @@ name = "SBN-00044"
 [meta]
 bill_number = 44
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-44", "https://web.senate.gov.ph/lisdata/1178597!.pdf",]
 title = "REPEALING LAW AUTHORIZING AUTOMATIC APPROPRIATIONS"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING SECTION 31 OF P.D. NO. 1177, SECTION 26 BOOK VI OF E.O. NO. 292 AND REPEALING PROVISIONS OF LAW AUTHORIZING AUTOMATIC APPROPRIATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Automatic Appropriations Repeal", "Pd 1177 (Sec. 31)", "E.O.No. 29
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1178597!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-44"
 
 [[history]]
 date = "2004-06-30"

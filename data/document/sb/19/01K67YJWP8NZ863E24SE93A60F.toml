@@ -6,7 +6,6 @@ name = "SBN-02519"
 [meta]
 bill_number = 2519
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2519", "https://web.senate.gov.ph/lisdata/4328339377!.pdf",]
 title = "PHILIIPINE MEDICAL ACT OF 2024"
 date_filed = "2024-01-17"
 long_title = "AN ACT PROVIDING FOR AN EXPANDED COVERAGE AND MORE COMPREHENSIVE REGULATION OF THE PRACTICE OF MEDICINE, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 2382, AS AMENDED, OTHERWISE KNOWN AS THE MEDICAL ACT OF 1959 AND OTHER LAWS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Medical Act",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4328339377!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2519"
 
 [[history]]
 date = "2024-01-17"

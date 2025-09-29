@@ -6,7 +6,6 @@ name = "SBN-00654"
 [meta]
 bill_number = 654
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-654", "https://web.senate.gov.ph/lisdata/81576627!.pdf",]
 title = "PHILIPPINE AIR FORCE ACADEMY ACT OF 2010"
 date_filed = "2010-07-07"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE AIR FORCE ACADEMY (PAFA) AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Air Force (PAF)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81576627!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-654"
 
 [[history]]
 date = "2010-07-07"

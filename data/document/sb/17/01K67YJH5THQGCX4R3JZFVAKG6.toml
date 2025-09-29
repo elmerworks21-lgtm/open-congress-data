@@ -6,7 +6,6 @@ name = "SBN-00063"
 [meta]
 bill_number = 63
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-63", "https://web.senate.gov.ph/lisdata/2347620084!.pdf",]
 title = "SOCIAL SECURITY LAW"
 date_filed = "2016-06-30"
 long_title = "INCREASING PENSIONS UNDER THE SOCIAL SECURITY SYSTEM AND RATIONALIZING THE POWERS, DUTIES AND ACCOUNTABILITIES OF THE SOCIAL SECURITY COMMISSION, FURTHER AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 1161, AS AMENDED, OTHERWISE KNOWN AS THE SOCIAL SECURITY LAW"
@@ -15,6 +14,8 @@ subjects = [ "Social Security Law (RA 1161)", "Social Security System (SSS)", "P
 authors_raw = "Recto, Ralph G., Villanueva, Joel"
 author_codes = ["RRALP", "VEMMA"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2347620084!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-63"
 
 [[history]]
 date = "2016-06-30"

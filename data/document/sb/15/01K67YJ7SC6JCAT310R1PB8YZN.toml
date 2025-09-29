@@ -6,7 +6,6 @@ name = "SBN-00889"
 [meta]
 bill_number = 889
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-889", "https://web.senate.gov.ph/lisdata/83546907!.pdf",]
 title = "AMBULANT VENDOR'S PROTECTION ACT"
 date_filed = "2010-07-08"
 long_title = "AN ACT GRANTING PROTECTION AND CERTAIN INCENTIVES TO AMBULANT VENDORS OR PEDDLERS AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Ambulant Vendors",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/83546907!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-889"
 
 [[history]]
 date = "2010-07-08"

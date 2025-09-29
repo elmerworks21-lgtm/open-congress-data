@@ -6,7 +6,6 @@ name = "SBN-00007"
 [meta]
 bill_number = 7
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-7", "https://web.senate.gov.ph/lisdata/3022327083!.pdf",]
 title = "THE HYBRID ELECTION ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT PROVIDING FOR THE CONDUCT OF HYBRID NATIONAL, LOCAL AND ARMM ELECTIONS, THROUGH MANUAL VOTING AND COUNTING AT THE PRECINCT LEVEL, AND AUTOMATED TRANSMISSION AND CANVASSING, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Hybrid Election", "Elections/Electoral Reforms",]
 authors_raw = "Sotto III, Vicente C., Villar, Cynthia A."
 author_codes = ["SVICE", "VCYNT"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3022327083!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-7"
 
 [[history]]
 date = "2019-07-01"

@@ -6,7 +6,6 @@ name = "SBN-00877"
 [meta]
 bill_number = 877
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-877", "https://web.senate.gov.ph/lisdata/3870935162!.pdf",]
 title = "PHYSICIAN PRO BONO CARE ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT GIVING TAX INCENTIVES TO PHYSICIANS RENDERING PRO BONO SERVICES TO INDIGENT PATIENTS"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Doctors/Physicians/Dentists", "Indigent Persons", "Tax Incentives", "Health Care",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3870935162!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-877"
 
 [[history]]
 date = "2022-07-25"

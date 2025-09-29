@@ -6,7 +6,6 @@ name = "SBN-01888"
 [meta]
 bill_number = 1888
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1888", "https://web.senate.gov.ph/lisdata/31652350!.pdf",]
 title = "USE AND POSSESSION OF CSC EXAMINATION RELATED MATERIALS"
 date_filed = "2005-01-25"
 long_title = "AN ACT DECLARING AS UNLAWFUL ANY FORM OF CHEATING IN CIVIL SERVICE EXAMINATIONS, UNAUTHORIZED USE AND POSSESSION OF CSC EXAMINATION RELATED MATERIALS, AND GRANTING THE COMMISSION EXCLUSIVE JURISDICTION OVER THESE CASES INCLUDING THOSE COMMITTED BY PRIVATE INDIVIDUALS"
@@ -15,6 +14,8 @@ subjects = [ "Civil Service Commission (Csc Exam)",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31652350!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1888"
 
 [[history]]
 date = "2005-01-25"

@@ -6,7 +6,6 @@ name = "SBN-01032"
 [meta]
 bill_number = 1032
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1032", "https://web.senate.gov.ph/lisdata/3898435435!.pdf",]
 title = "WORLD-CLASS FILMMAKERS' INCENTIVES ACT"
 date_filed = "2022-08-04"
 long_title = "AN ACT PROMOTING THE PRODUCTION OF OUTSTANDING AND WORLD-CLASS FILIPINO MOTION PICTURES, PROVIDING INCENTIVES TO FILMMAKERS AND ACTORS CLAIMING HONORS IN INTERNATIONAL FILM COMPETITIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Filmmakers", "Film/Movie Industry",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3898435435!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1032"
 
 [[history]]
 date = "2022-08-04"

@@ -6,7 +6,6 @@ name = "SBN-01179"
 [meta]
 bill_number = 1179
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1179", "https://web.senate.gov.ph/lisdata/86657218!.pdf",]
 title = "WOMEN'S MEDICAL AND HOSPITALIZATION BENEFITS ACT"
 date_filed = "2010-07-12"
 long_title = "AN ACT GRANTING FREE MEDICAL AND HOSPITALIZATION BENEFITS TO INDIGENT FILIPINO WOMEN SUFFERING FROM WOMEN’S DISEASES, ILLNESSES AND INJURIES DUE TO VIOLENCE INFLICTED ON WOMEN, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Women",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/86657218!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1179"
 
 [[history]]
 date = "2010-07-12"

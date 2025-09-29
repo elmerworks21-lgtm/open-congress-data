@@ -6,7 +6,6 @@ name = "SBN-01508"
 [meta]
 bill_number = 1508
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1508", "https://web.senate.gov.ph/lisdata/2631622633!.pdf",]
 title = "MANDATING THE REQUISITE PROPORTION OF FILIPINO LABORERS TO FOREIGN WORKERS (P.D. 442 )"
 date_filed = "2017-07-25"
 long_title = "AN ACT MANDATING THE REQUISITE PROPORTION OF FILIPINO LABORERS TO FOREIGN WORKERS, INCLUDING FOR THE PURPOSE BOOK I, TITLE II OF PRESIDENTIAL DECREE 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)", "China/Chinese Natio
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2631622633!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1508"
 
 [[history]]
 date = "2017-07-25"

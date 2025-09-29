@@ -6,7 +6,6 @@ name = "SBN-01799"
 [meta]
 bill_number = 1799
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1799", "https://web.senate.gov.ph/lisdata/93637907!.pdf",]
 title = "GREEN ENERGY FOR HOMES AND BUILDINGS ACT"
 date_filed = "2010-07-21"
 long_title = "AN ACT ESTABLISHING A GREEN ENERGY FOR HOMES AND BUILDINGS PROGRAM IN THE DEPARTMENT OF ENERGY TO PROVIDE FINANCIAL ASSISTANCE TO PROMOTE RESIDENTIAL, COMMERCIAL, AND INDUSTRIAL SCALE ENERGY EFFICIENCY AND ON-SITE RENEWABLE TECHNOLOGIES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Energy (DOE)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/93637907!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1799"
 
 [[history]]
 date = "2010-07-21"

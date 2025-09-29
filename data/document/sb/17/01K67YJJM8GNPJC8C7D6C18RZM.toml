@@ -6,7 +6,6 @@ name = "SBN-01969"
 [meta]
 bill_number = 1969
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1969", "https://web.senate.gov.ph/lisdata/2848424836!.pdf",]
 title = "DISASTER RESILIENCE ACT OF 2018"
 date_filed = "2018-08-30"
 long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS POWER AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Resilience", "Department of Disaster Resilience", "Disaster Risk R
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2848424836!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1969"
 
 [[history]]
 date = "2018-08-30"

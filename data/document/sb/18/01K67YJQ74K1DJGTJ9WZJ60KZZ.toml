@@ -6,7 +6,6 @@ name = "SBN-01215"
 [meta]
 bill_number = 1215
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1215", "https://web.senate.gov.ph/lisdata/3197428822!.pdf",]
 title = "AMENDING SECTION 55 OF B. P. BLG. 881 (OMNIBUS ELECTION CODE), AS AMEMDED"
 date_filed = "2019-12-09"
 long_title = "AN ACT AMENDING SECTION 55 OF BATAS PAMBANSA BLG. 881, OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE, AS AMENDED, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3197428822!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1215"
 
 [[history]]
 date = "2019-12-09"

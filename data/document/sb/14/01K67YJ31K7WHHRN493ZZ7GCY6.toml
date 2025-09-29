@@ -6,7 +6,6 @@ name = "SBN-03104"
 [meta]
 bill_number = 3104
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3104", "https://web.senate.gov.ph/lisdata/104099286!.pdf",]
 title = "VETERANS"
 date_filed = "2009-02-25"
 long_title = "AN ACT EXTENDING PREFERENCE OF EMPLOYMENT TO ANY ONE CHILD OF VETERANS IN THE GOVERNMENT, INCLUDING GOVERNMENT-OWNED AND CONTROLLED CORPORATIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government-Owned and Controlled Corporations (GOCC)", "Veterans",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/104099286!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3104"
 
 [[history]]
 date = "2009-02-25"

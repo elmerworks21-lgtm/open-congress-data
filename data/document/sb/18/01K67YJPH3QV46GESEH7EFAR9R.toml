@@ -6,7 +6,6 @@ name = "SBN-00213"
 [meta]
 bill_number = 213
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-213", "https://web.senate.gov.ph/lisdata/3047127349!.pdf",]
 title = "SPECIAL EMERGENCY POWERS ACT"
 date_filed = "2019-07-02"
 long_title = "AN ACT AUTHORIZING THE PRESIDENT, FOR A LIMITED PERIOD AND SUBJECT TO CERTAIN RESTRICTIONS, TO EXERCISE EMERGENCY POWERS TO EFFECTIVELY ADDRESS THE TRAFFIC AND CONGESTION CRISIS, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Emergency Powers", "President of the Philippines", "Traffic",]
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3047127349!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-213"
 
 [[history]]
 date = "2019-07-02"

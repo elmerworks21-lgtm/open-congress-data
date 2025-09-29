@@ -6,7 +6,6 @@ name = "SBN-01147"
 [meta]
 bill_number = 1147
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1147", "https://web.senate.gov.ph/lisdata/3181428674!.pdf",]
 title = "RESERVIST EMPLOYMENT RIGHTS ACT"
 date_filed = "2019-11-05"
 long_title = "AN ACT STRENGTHENING THE EMPLOYMENT RIGHTS OF MEMBERS OF THE RESERVE FORCE OF THE ARMED FORCES OF THE PHILIPPINES AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Reservist Employment", "Armed Forces of the Philippines Reservist"
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3181428674!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1147"
 
 [[history]]
 date = "2019-11-05"

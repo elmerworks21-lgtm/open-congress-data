@@ -6,7 +6,6 @@ name = "SBN-01860"
 [meta]
 bill_number = 1860
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1860", "https://web.senate.gov.ph/lisdata/31062303!.pdf",]
 title = "BASIC IMMUNIZATION SERVICES FOR INFANTS ACT"
 date_filed = "2004-11-18"
 long_title = "AN ACT REQUIRING MANDATORY BASIC IMMUNIZATION SERVICES AGAINST HEPATITIS B FOR INFANTS"
@@ -15,6 +14,8 @@ subjects = [ "Immunization Services (Hepatitis B)", "Infants (Hepatitis B Vaccin
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31062303!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1860"
 
 [[history]]
 date = "2004-11-18"

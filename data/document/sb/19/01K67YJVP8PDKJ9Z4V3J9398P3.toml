@@ -6,7 +6,6 @@ name = "SBN-01183"
 [meta]
 bill_number = 1183
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1183", "https://web.senate.gov.ph/lisdata/3922535661!.pdf",]
 title = "MEDIA AND ENTERTAINMENT WORKERS' WELFARE ACT"
 date_filed = "2022-08-16"
 long_title = "AN ACT PROVIDING ENHANCED PROTECTION, SECURITY AND BENEFITS FOR MEDIA AND ENTERTAINMENT WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Media and Entertainment Workers Welfare",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3922535661!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1183"
 
 [[history]]
 date = "2022-08-16"

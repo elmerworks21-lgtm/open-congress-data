@@ -6,7 +6,6 @@ name = "SBN-00093"
 [meta]
 bill_number = 93
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-93", "https://web.senate.gov.ph/lisdata/3779634237!.pdf",]
 title = "SATELLITE SPECIALTY HOSPITALS ACT OF 2022"
 date_filed = "2022-07-07"
 long_title = "AN ACT ESTABLISHING SATELLITE SPECIALTY HOSPITALS TO FACILITATE ACCESS TO SPECIALIZED MEDICAL CARE IN IDENTIFIED REGIONS OF THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Satellite Specialty Hospitals",]
 authors_raw = "Angara, Sonny, Revilla Jr., Ramon Bong"
 author_codes = ["ASONN", "RRAMO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3779634237!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-93"
 
 [[history]]
 date = "2022-07-07"

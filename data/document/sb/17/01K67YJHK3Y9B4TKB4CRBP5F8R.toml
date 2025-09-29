@@ -6,7 +6,6 @@ name = "SBN-00635"
 [meta]
 bill_number = 635
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-635", "https://web.senate.gov.ph/lisdata/2412320760!.pdf",]
 title = "BARANGAY DEVELOPMENT ACT OF 2016"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROVIDING FOR A TWENTY (20) YEAR BARANGAY DEVELOPMENT PROGRAM, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Development Program",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2412320760!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-635"
 
 [[history]]
 date = "2016-07-20"

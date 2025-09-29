@@ -6,7 +6,6 @@ name = "SBN-01643"
 [meta]
 bill_number = 1643
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1643", "https://web.senate.gov.ph/lisdata/2710923339!.pdf",]
 title = "NETWORK FREEDOM ACT"
 date_filed = "2018-01-09"
 long_title = "AN ACT PROMOTING CONSUMER PROTECTION AND FOSTERING COMPETITION IN THE TELECOMMUNICATIONS INDUSTRY BY PROHIBITING THE LOCKING OF MOBILE WIRELESS DEVICES TO A PUBLIC TELECOMMUNICATIONS ENTITY"
@@ -15,6 +14,8 @@ subjects = [ "Consumer Protection", "Telecommunications",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2710923339!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1643"
 
 [[history]]
 date = "2018-01-09"

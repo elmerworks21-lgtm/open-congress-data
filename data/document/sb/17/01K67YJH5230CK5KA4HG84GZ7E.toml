@@ -6,7 +6,6 @@ name = "SBN-00033"
 [meta]
 bill_number = 33
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-33", "https://web.senate.gov.ph/lisdata/2344620030!.pdf",]
 title = "PANTAWID PAMILYANG PILIPINO PROGRAM (4PS) ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT TO REDUCE CHRONIC POVERTY AND PROMOTE HUMAN CAPITAL DEVELOPMENT IN THE COUNTRY THROUGH THE INSTITUTIONALIZATION OF THE PANTAWID PAMILYANG PILIPINO PROGRAM (4PS)"
@@ -15,6 +14,8 @@ subjects = [ "Pantawid Pamilyang Pilipino Program (4PS)", "Poverty Alleviation",
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2344620030!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-33"
 
 [[history]]
 date = "2016-06-30"

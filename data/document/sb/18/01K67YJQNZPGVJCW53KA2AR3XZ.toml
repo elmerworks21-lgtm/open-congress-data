@@ -6,7 +6,6 @@ name = "SBN-01843"
 [meta]
 bill_number = 1843
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1843", "https://web.senate.gov.ph/lisdata/3358730443!.pdf",]
 title = "RENT RELIEF SUBSIDY ACT OF 2020"
 date_filed = "2020-09-22"
 long_title = "AN ACT INTRODUCING A RENT RELIEF SUBSIDY PROGRAM TO ASSIST RESIDENTIAL TENANTS AND LESSORS ADVERSELY IMPACTED BY THE ECONOMIC CRISIS BROUGHT UPON THE COVID-19 PANDEMIC, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Rental Housing Subsidy", "Covid-19", "Pandemic",]
 authors_raw = "De Lima, Leila M."
 author_codes = ["DLEIL"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3358730443!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1843"
 
 [[history]]
 date = "2020-09-22"

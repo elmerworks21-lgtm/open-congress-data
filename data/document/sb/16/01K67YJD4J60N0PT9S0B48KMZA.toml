@@ -6,7 +6,6 @@ name = "SBN-01324"
 [meta]
 bill_number = 1324
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1324", "https://web.senate.gov.ph/lisdata/1741914653!.pdf",]
 title = "OCEAN ACIDIFICATION RESEARCH AND MONITORING ACT"
 date_filed = "2013-08-15"
 long_title = "AN ACT PROVIDING FOR OCEAN ACIDIFICATION RESEARCH AND MONITORING"
@@ -15,6 +14,8 @@ subjects = [ "Ocean Acidification",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1741914653!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1324"
 
 [[history]]
 date = "2013-08-15"

@@ -6,7 +6,6 @@ name = "SBN-03130"
 [meta]
 bill_number = 3130
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3130", "https://web.senate.gov.ph/lisdata/1283210842!.pdf",]
 title = "NATIONAL GOVERNMENT HOSPITAL CORPORATE RESTRUCTING ACT"
 date_filed = "2012-02-21"
 long_title = "AN ACT INSTITUTING A CORPORATE RESTRUCTURING PROGRAM FOR NATIONAL GOVERNMENT HOSPITALS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Hospitals (Government Hospitals)",]
 authors_raw = "Drilon, Franklin M., Angara, Edgardo J."
 author_codes = ["AEDGA", "DFRAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1283210842!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-3130"
 
 [[history]]
 date = "2012-02-21"

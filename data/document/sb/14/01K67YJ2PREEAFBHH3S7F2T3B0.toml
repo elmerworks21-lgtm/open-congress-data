@@ -6,7 +6,6 @@ name = "SBN-02622"
 [meta]
 bill_number = 2622
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2622", "https://web.senate.gov.ph/lisdata/84357633!.pdf",]
 title = "SUPPLEMENTAL APPROPRIATION"
 date_filed = "2008-09-16"
 long_title = "AN ACT APPROPRIATING THE SUM OF TWENTY BILLION PESOS (P20,000,000,000.00) AS SUPPLEMENTAL APPROPRIATION FOR THE IMPLEMENTATION OF RELIEF OPERATIONS, RECONSTRUCTION AND REHABILITATION OF THE PROVINCES OF ILOILO, AKLAN, CAPIZ, ANTIQUE, AND ILOILO CITY, PANAY ISLAND, BACOLOD CITY, AND PROVINCES OF NEGROS OCCIDENTAL AND GUIMARAS WHICH SUFFERED DEVASTATION BROUGHT ABOUT BY TYPHOON FRANK, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Supplemental Appropriation", "Paglaum Fund",]
 authors_raw = "Roxas, Mar"
 author_codes = ["RMARA"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84357633!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2622"
 
 [[history]]
 date = "2008-09-16"

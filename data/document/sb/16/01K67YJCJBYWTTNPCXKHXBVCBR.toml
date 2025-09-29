@@ -6,7 +6,6 @@ name = "SBN-00444"
 [meta]
 bill_number = 444
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-444", "https://web.senate.gov.ph/lisdata/1635513596!.pdf",]
 title = "PARENTS' EMPOWERMENT ACT"
 date_filed = "2013-07-04"
 long_title = "AN ACT TO PROVIDE A CIVIL ACTION FOR A MINOR INJURED BY EXPOSURE TO AN ENTERTAINMENT PRODUCT CONTAINING MATERIAL THAT IS HARMFUL TO MINORS"
@@ -15,6 +14,8 @@ subjects = [ "Children/Child Care", "Parents",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1635513596!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-444"
 
 [[history]]
 date = "2013-07-04"

@@ -6,7 +6,6 @@ name = "SBN-02189"
 [meta]
 bill_number = 2189
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2189", "https://web.senate.gov.ph/lisdata/98058366!.pdf",]
 title = "FREEDOM OF INFORMATION ACT OF 2010"
 date_filed = "2010-07-28"
 long_title = "AN ACT IMPLEMENTING THE RIGHT OF THE PEOPLE TO INFORMATION ON MATTERS OF PUBLIC CONCERN GUARANTEED UNDER SECTION SEVEN, ARTICLE THREE OF THE 1987 CONSTITUTION AND THE STATE POLICY OF FULL PUBLIC DISCLOSURE OF ALL ITS TRANSACTIONS INVOLVING PUBLIC INTEREST UNDER SECTION TWENTY-EIGHT, ARTICLE TWO OF THE 1987 CONSTITUTION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Right to Information",]
 authors_raw = "Honasan II, Gregorio B."
 author_codes = ["HGREG"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98058366!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2189"
 
 [[history]]
 date = "2010-07-28"

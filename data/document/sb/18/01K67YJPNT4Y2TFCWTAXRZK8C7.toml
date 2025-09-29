@@ -6,7 +6,6 @@ name = "SBN-00425"
 [meta]
 bill_number = 425
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-425", "https://web.senate.gov.ph/lisdata/3077127619!.pdf",]
 title = "INCREASING THE SERVICE INCENTIVE LEAVE OF EMPLOYEES,"
 date_filed = "2019-07-15"
 long_title = "AN ACT INCREASING THE SERVICE INCENTIVE LEAVE OF EMPLOYEES, AMENDING FOR THE PURPOSE ARTICLE 95 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Service Incentive Leave", "Employees", "Labor Code of the Philippi
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3077127619!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-425"
 
 [[history]]
 date = "2019-07-15"

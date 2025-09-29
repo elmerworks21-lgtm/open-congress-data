@@ -6,7 +6,6 @@ name = "SBN-01335"
 [meta]
 bill_number = 1335
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1335", "https://web.senate.gov.ph/lisdata/3234129200!.pdf",]
 title = "FINANCIAL CONSUMER PROTECTION ACT OF 2020"
 date_filed = "2020-02-12"
 long_title = "AN ACT PROVIDING FOR THE FINANCIAL CONSUMER PROTECTION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Financial Consumer Protection",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3234129200!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1335"
 
 [[history]]
 date = "2020-02-12"

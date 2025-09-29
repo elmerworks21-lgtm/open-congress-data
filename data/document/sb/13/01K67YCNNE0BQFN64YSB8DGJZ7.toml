@@ -6,7 +6,6 @@ name = "SBN-00530"
 [meta]
 bill_number = 530
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-530", "https://web.senate.gov.ph/lisdata/16871018!.pdf",]
 title = "EARLY LEARNING TRUST FUND ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISHING EARLY LEARNING PROGRAMS FOR INDIGENT PRE-KINDERGARTEN CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Early Learning Trust Fund", "Indigent Children (Pre-Kindergarten)"
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/16871018!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-530"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00115"
 [meta]
 bill_number = 115
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-115", "https://web.senate.gov.ph/lisdata/2353020149!.pdf",]
 title = "LAW ON SECRECY OF BANK DEPOSITS"
 date_filed = "2016-06-30"
 long_title = "AN ACT AMENDING SECTION 2 OF THE REPUBLIC ACT NO. 1405, AS AMENDED, OTHERWISE KNOWN AS THE LAW ON SECRECY OF BANK DEPOSITS"
@@ -15,6 +14,8 @@ subjects = [ "Bank Deposits/Bank Accounts", "Secrecy of Bank Deposits Law (R.A.N
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2353020149!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-115"
 
 [[history]]
 date = "2016-06-30"

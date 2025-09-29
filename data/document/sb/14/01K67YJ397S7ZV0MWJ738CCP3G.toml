@@ -6,7 +6,6 @@ name = "SBN-03418"
 [meta]
 bill_number = 3418
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3418", "https://web.senate.gov.ph/lisdata/1232910984!.pdf",]
 title = "LPG INDUSTRY REGULATION AND SAFETY ACT OF 2009"
 date_filed = "2009-08-26"
 long_title = "AN ACT TO ESTABLISH THE REGULATORY FRAMEWORK FOR THE SAFE OPERATIONS OF THE LIQUEFIED PETROLEUM GAS (LPG) INDUSTRY, PROVIDE ADDITIONAL POWERS TO THE DEPARTMENT OF ENERGY, DEFINE AND PENALIZE CERTAIN ACTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Liquefied Petroleum Products (LPG), Gasoline, Kerosene",]
 authors_raw = "Villar, Manny, Roxas, Mar, Lapid, Manuel \"Lito\" M., Honasan II, Gregorio B."
 author_codes = ["HGREG", "LMANU", "RMARA", "VMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1232910984!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3418"
 
 [[history]]
 date = "2009-08-26"

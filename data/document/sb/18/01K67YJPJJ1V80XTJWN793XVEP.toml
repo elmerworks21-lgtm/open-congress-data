@@ -6,7 +6,6 @@ name = "SBN-00278"
 [meta]
 bill_number = 278
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-278", "https://web.senate.gov.ph/lisdata/3056527422!.pdf",]
 title = "LABOR EDUCATION ACT"
 date_filed = "2019-07-08"
 long_title = "AN ACT INTEGRATING LABOR EDUCATION INTO SOCIAL SCIENCE SUBJECTS IN THE TERTIARY EDUCATION CURRICULUM AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Labor Education", "Tertiary Education", "Curriculum/Curricula",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3056527422!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-278"
 
 [[history]]
 date = "2019-07-08"

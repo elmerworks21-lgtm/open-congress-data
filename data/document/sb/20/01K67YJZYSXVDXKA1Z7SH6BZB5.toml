@@ -6,7 +6,6 @@ name = "SBN-00258"
 [meta]
 bill_number = 258
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-258", "https://web.senate.gov.ph/lisdata/4673542740!.pdf",]
 title = "YOUTH SUICIDE PREVENTION ACT"
 date_filed = "2025-07-08"
 long_title = "AN ACT TO PROVIDE EARLY YOUTH SUICIDE INTERVENTION AND PREVENTION EXPANSION"
@@ -15,6 +14,8 @@ subjects = [ "Youth", "Suicide",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4673542740!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-258"
 
 [[history]]
 date = "2025-07-08"

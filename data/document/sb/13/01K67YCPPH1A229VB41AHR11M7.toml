@@ -6,7 +6,6 @@ name = "SBN-02264"
 [meta]
 bill_number = 2264
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2264", "https://web.senate.gov.ph/lisdata/53674449!.pdf",]
 title = "PENALTY OF IMPRISONMENT FOR ABORTION"
 date_filed = "2006-06-07"
 long_title = "AN ACT INCREASING THE PENALTY OF IMPRISONMENT FOR ABORTION PRACTICED BY PHYSICIANS, MIDWIVES, INCLUDING NURSES AND THE ACCESSORY PENALTY THEREFOR TO PERPETUAL LOSS OF LICENSE TO PRACTICE PROFESSION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Abortion (Penalty of Imprisonment)", "Revised Penal Code (Art. 259
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53674449!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2264"
 
 [[history]]
 date = "2006-06-07"

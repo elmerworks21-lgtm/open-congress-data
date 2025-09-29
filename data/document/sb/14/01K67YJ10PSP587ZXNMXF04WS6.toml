@@ -6,7 +6,6 @@ name = "SBN-00421"
 [meta]
 bill_number = 421
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-421", "https://web.senate.gov.ph/lisdata/45963943!.pdf",]
 title = "MIGRANT WORKERS HOSPITAL ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING A SPECIAL HOSPITAL FOR OVERSEAS FILIPINO WORKERS (OFWS) AND THEIR DEPENDENTS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Migrant Workers Hospital", "Overseas Contract Workers (OCWS)/Overs
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/45963943!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-421"
 
 [[history]]
 date = "2007-07-02"

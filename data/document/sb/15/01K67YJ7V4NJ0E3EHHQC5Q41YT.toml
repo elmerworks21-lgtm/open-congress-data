@@ -6,7 +6,6 @@ name = "SBN-00975"
 [meta]
 bill_number = 975
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-975", "https://web.senate.gov.ph/lisdata/84256977!.pdf",]
 title = "OCCUPATIONAL SAFETY AND HEALTH STANDARDS AND ENVIRONMENTAL PROTECTION"
 date_filed = "2010-07-08"
 long_title = "AN ACT TO RATIONALIZE THE ADMINISTRATION AND ENFORCEMENT OF ALL LAWS ON OCCUPATIONAL SAFETY AND HEALTH STANDARDS AND ENVIRONMENTAL PROTECTION AND OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Occupational Safety", "Environmental Protection",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/84256977!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-975"
 
 [[history]]
 date = "2010-07-08"

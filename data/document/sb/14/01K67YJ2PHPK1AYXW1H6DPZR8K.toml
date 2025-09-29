@@ -6,7 +6,6 @@ name = "SBN-02611"
 [meta]
 bill_number = 2611
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2611", "https://web.senate.gov.ph/lisdata/83947599!.pdf",]
 title = "MINIMUM PAYMENT EFFECTS DISCLOSURE ACT"
 date_filed = "2008-09-11"
 long_title = "AN ACT TO REQUIRE ENHANCED DISCLOSURE TO CONSUMERS REGARDING THE CONSEQUENCES OF MAKING ONLY MINIMUM REQUIRED PAYMENTS IN THE REPAYMENT OF CREDIT CARD DEBT"
@@ -15,6 +14,8 @@ subjects = [ "Credit Card Debt Minimum Payment Effects Disclosure",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/83947599!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2611"
 
 [[history]]
 date = "2008-09-11"

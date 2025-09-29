@@ -6,7 +6,6 @@ name = "SBN-01668"
 [meta]
 bill_number = 1668
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1668", "https://web.senate.gov.ph/lisdata/60635409!.pdf",]
 title = "SPECIAL EDUCATION CENTERS (DEAF-MUTE AND BLIND CHILDREN)"
 date_filed = "2007-10-02"
 long_title = "AN ACT PROVIDING FOR THE CREATION OF MUNICIPAL SPECIAL EDUCATION CENTERS FOR THE DEAF-MUTE AND BLIND CHILDREN APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/60635409!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1668"
 
 [[history]]
 date = "2007-10-02"

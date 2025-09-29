@@ -6,7 +6,6 @@ name = "SBN-00700"
 [meta]
 bill_number = 700
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-700", "https://web.senate.gov.ph/lisdata/3835534828!.pdf",]
 title = "THE P3,000.00 INCREASE IN THE MONTHLY PENSION FOR WAR VETERANS ACT OF 2022"
 date_filed = "2022-07-18"
 long_title = "AN ACT PROVIDING FOR A THREE THOUSAND PESO (P3,000.00) INCREASE IN THE MONTHLY PENSION OF WAR VETERANS AND THEIR DEPENDENTS"
@@ -15,6 +14,8 @@ subjects = [ "Veterans", "War Veterans", "Pension",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3835534828!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-700"
 
 [[history]]
 date = "2022-07-18"

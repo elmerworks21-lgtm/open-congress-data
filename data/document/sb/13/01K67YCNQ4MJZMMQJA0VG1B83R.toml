@@ -6,7 +6,6 @@ name = "SBN-00630"
 [meta]
 bill_number = 630
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-630", "https://web.senate.gov.ph/lisdata/18161191!.pdf",]
 title = "FIXED EXPENDITURES AUTOMATIC APPROPRIATIONS ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING SECTION 26, CHAPTER 4, BOOK VI OF THE ADMINISTRATIVE CODE OF 1987"
@@ -15,6 +14,8 @@ subjects = [ "Automatic Appropriation (Fix Expenditure", "Administrative Code of
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18161191!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-630"
 
 [[history]]
 date = "2004-06-30"

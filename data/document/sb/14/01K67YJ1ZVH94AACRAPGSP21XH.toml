@@ -6,7 +6,6 @@ name = "SBN-01635"
 [meta]
 bill_number = 1635
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1635", "https://web.senate.gov.ph/lisdata/59935328!.pdf",]
 title = "REQUIRED MINIMUM KNOWLEDGE AND COMPETENCIES IN BASIC EDUCATION (RMKC ACT)"
 date_filed = "2007-09-25"
 long_title = "AN ACT PRESCRIBING REQUIRED MINIMUM KNOWLEDGE AND COMPETENCIES (RMKC) FOR EVERY CURRICULAR SUBJECT IN EVERY GRADE AND YEAR LEVEL IN BASIC EDUCATION IN ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOLS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Basic Education Program",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/59935328!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1635"
 
 [[history]]
 date = "2007-09-25"

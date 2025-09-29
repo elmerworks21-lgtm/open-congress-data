@@ -6,7 +6,6 @@ name = "SBN-00475"
 [meta]
 bill_number = 475
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-475", "https://web.senate.gov.ph/lisdata/4699442995!.pdf",]
 title = "THE FREE MOBILE DISASTER ALERTS ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT PRESCRIBING PENALTIES FOR IMPROPER USE OF MOBILE DISASTER ALERTS SYSTEM, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10639, OTHERWISE KNOWN AS 'THE FREE MOBILE DISASTER ALERTS ACT'"
@@ -15,6 +14,8 @@ subjects = [ "Mobile Disaster Alerts",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4699442995!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-475"
 
 [[history]]
 date = "2025-07-14"

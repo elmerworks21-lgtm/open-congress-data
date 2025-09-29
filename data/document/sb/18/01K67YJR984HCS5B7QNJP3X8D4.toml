@@ -6,7 +6,6 @@ name = "SBN-02445"
 [meta]
 bill_number = 2445
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2445", "https://web.senate.gov.ph/lisdata/3661632972!.pdf",]
 title = "AUTOMATIC SUSPENSION OF EXCISE TAXES ON REGULAR GASOLINE, UNLEADED PREMIUM GASOLINE, AND DIESEL"
 date_filed = "2021-11-08"
 long_title = "AN ACT PROVIDING FOR THE AUTOMATIC SUSPENSION OF EXCISE TAXES ON REGULAR GASOLINE, UNLEADED PREMIUM GASOLINE, AND DIESEL, AMENDING FOR THE PURPOSE SECTION 148 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Excise Tax)", "Fuel",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3661632972!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2445"
 
 [[history]]
 date = "2021-11-08"

@@ -6,7 +6,6 @@ name = "SBN-02208"
 [meta]
 bill_number = 2208
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2208", "https://web.senate.gov.ph/lisdata/46103750!.pdf",]
 title = "LAND TRANSPORTATION OFFICE CLASS D DISTRICT OFFICE (ILOILO)"
 date_filed = "2006-02-13"
 long_title = "AN ACT ESTABLISHING A CLASS D DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF GUIMBAL, PROVINCE OF ILOILO"
@@ -15,6 +14,8 @@ subjects = [ "Land Transportation Office (Class D District Office, Iloilo)", "La
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46103750!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2208"
 
 [[history]]
 date = "2006-02-13"

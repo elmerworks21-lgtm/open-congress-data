@@ -6,7 +6,6 @@ name = "SBN-00208"
 [meta]
 bill_number = 208
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-208", "https://web.senate.gov.ph/lisdata/3791634359!.pdf",]
 title = "WAGE THEFT PREVENTION ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT PENALIZING THE ACT OF WAGE THEFT BY AMENDING FOR THIS PURPOSE ARTICLES 87 & 116 OF PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Wage Theft", "Labor Code of the Philippines (P.D.No. 442)", "Emplo
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3791634359!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-208"
 
 [[history]]
 date = "2022-07-07"

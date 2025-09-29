@@ -6,7 +6,6 @@ name = "SBN-01857"
 [meta]
 bill_number = 1857
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1857", "https://web.senate.gov.ph/lisdata/4070837103!.pdf",]
 title = "GREEN PUBLIC PROCUREMENT ACT"
 date_filed = "2023-02-09"
 long_title = "AN ACT ESTABLISHING A GREEN PUBLIC PROCUREMENT PROGRAM FOR ALL BRANCHES OF GOVERNMENT"
@@ -15,6 +14,8 @@ subjects = [ "Green Public Procurement",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["SDGIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4070837103!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1857"
 
 [[history]]
 date = "2023-02-09"

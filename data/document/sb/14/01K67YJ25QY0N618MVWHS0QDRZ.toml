@@ -6,7 +6,6 @@ name = "SBN-01886"
 [meta]
 bill_number = 1886
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1886", "https://web.senate.gov.ph/lisdata/64185709!.pdf",]
 title = "ANTI-PROSTITUTION ACT OF 2007"
 date_filed = "2007-11-20"
 long_title = "AN ACT PROMOTING THE ADMINISTRATION OF JUSTICE FOR WOMEN, CHILDREN AND OTHER OPPRESSED SECTOR, ESTABLISHING FOR THE PURPOSE AN OMNIBUS FRAMEWORK TO ADDRESS THE PROBLEM OF PROSTITUTION, SUPPORT SERVICES FOR ITS VICTIMS, HIGHER PENALTIES FOR PERPETRATORS AND PROMOTERS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Prostitution",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64185709!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1886"
 
 [[history]]
 date = "2007-11-20"

@@ -6,7 +6,6 @@ name = "SBN-00527"
 [meta]
 bill_number = 527
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-527", "https://web.senate.gov.ph/lisdata/2396720610!.pdf",]
 title = "EDUCATION PRINTING OFFICE ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT ESTABLISHING AN EDUCATION PRINTING OFFICE"
@@ -15,6 +14,8 @@ subjects = [ "Education Printing Office",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2396720610!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-527"
 
 [[history]]
 date = "2016-07-19"

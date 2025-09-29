@@ -6,7 +6,6 @@ name = "SBN-00751"
 [meta]
 bill_number = 751
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-751", "https://web.senate.gov.ph/lisdata/19411352!.pdf",]
 title = "STUDENTS' INTERNET PROTECTION ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING LIBRARIES OF PRIVATE AND PUBLIC EDUCATIONAL INSTITUTIONS WITH INTERNET ACCESS TO INSTALL A SOFTWARE TECHNOLOGY FOR BLOCKING INTERNET WEBSITES DISPLAYING OBSCENE AND VIOLENT MATERIALS PROVIDING PENALTIES THEREFORE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Students` Internet Protection Act", "Library (Limit Internet Acces
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19411352!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-751"
 
 [[history]]
 date = "2004-06-30"

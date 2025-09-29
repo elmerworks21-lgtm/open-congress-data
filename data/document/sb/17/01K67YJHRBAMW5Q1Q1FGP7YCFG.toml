@@ -6,7 +6,6 @@ name = "SBN-00880"
 [meta]
 bill_number = 880
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-880", "https://web.senate.gov.ph/lisdata/2443621019!.pdf",]
 title = "LOCAL MUSIC INDUSTRY INCENTIVES ACT OF 2016"
 date_filed = "2016-07-26"
 long_title = "AN ACT PROVIDING FOR TAX EXEMPTIONS AND SUBSIDIES FOR THE LOCAL MUSIC INDUSTRY AND AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 7160 OR THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Music Industry", "Local Government Code (R.A.No. 7160)", "Tax Exem
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2443621019!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-880"
 
 [[history]]
 date = "2016-07-26"

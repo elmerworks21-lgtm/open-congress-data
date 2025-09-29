@@ -6,7 +6,6 @@ name = "SBN-00112"
 [meta]
 bill_number = 112
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-112", "https://web.senate.gov.ph/lisdata/1589413133!.pdf",]
 title = "THE NATIONAL SEEDS PRODUCTION ACT OF 2013"
 date_filed = "2013-07-01"
 long_title = "AN ACT ESTABLISHING A CONTINUING NATIONAL PROGRAM FOR HYBRID AND OTHER QUALITY SEEDS PRODUCTION AND PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Seeds Industry",]
 authors_raw = "Marcos, Ferdinand \"Bongbong\" R."
 author_codes = ["MFERD"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1589413133!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-112"
 
 [[history]]
 date = "2013-07-01"

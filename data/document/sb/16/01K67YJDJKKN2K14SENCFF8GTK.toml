@@ -6,7 +6,6 @@ name = "SBN-02013"
 [meta]
 bill_number = 2013
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2013", "https://web.senate.gov.ph/lisdata/1842115584!.pdf",]
 title = "NATIONAL COMMISSION ON INDIGENOUS PEOPLES (NCIP)"
 date_filed = "2013-12-11"
 long_title = "AN ACT GRANTING THE NATIONAL COMMISSION ON INDIGENOUS PEOPLES (NCIP) A NEW TEN (10) YEAR PERIOD WITHIN WHICH TO TAKE APPROPRIATE LEGAL ACTION FOR THE CANCELLATION OF OFFICIALLY DOCUMENTED TITLES WHICH WERE ILLEGALLY ACQUIRED, AS PROVIDED UNDER SECTION 64 OF REPUBLIC ACT NO. 8371, OTHERWISE KNOWN AS 'AN ACT TO RECOGNIZE, PROTECT AND PROMOTE THE RIGHTS OF INDIGENOUS CULTURAL COMMUNITIES/ INDIGENOUS PEOPLES, CREATING THE NATIONAL COMMISSION ON INDIGENOUS PEOPLE, ESTABLISHING IMPLEMENTING MECHANISMS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES'"
@@ -15,6 +14,8 @@ subjects = [ "Indigenous Cultural Communities", "National Commission on Indigeno
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CULTU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1842115584!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2013"
 
 [[history]]
 date = "2013-12-11"

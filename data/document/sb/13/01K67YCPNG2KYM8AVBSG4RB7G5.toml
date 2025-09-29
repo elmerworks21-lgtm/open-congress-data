@@ -6,7 +6,6 @@ name = "SBN-02226"
 [meta]
 bill_number = 2226
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2226", "https://web.senate.gov.ph/lisdata/47803926!.pdf",]
 title = "BIOFUELS ACT OF 2006"
 date_filed = "2006-03-14"
 long_title = "AN ACT TO DIRECT THE USE OF BIOFUELS, ESTABLISHING FOR THIS PURPOSE THE BIOFUEL PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Biofuels Act",]
 authors_raw = "Defensor Santiago, Miriam, Pimentel Jr., Aquilino Q., Cayetano, Companera Pia S., Recto, Ralph G., Roxas, Mar, Gordon, Richard \"Dick\" J., Angara, Edgardo J., Revilla Jr., Ramon A."
 author_codes = ["AEDGA", "CPIAS", "GRICH", "PAQUI", "RMARA", "RRALP", "RRAMO", "SMIRI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47803926!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2226"
 
 [[history]]
 date = "2006-03-14"

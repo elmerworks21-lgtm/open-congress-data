@@ -6,7 +6,6 @@ name = "SBN-02151"
 [meta]
 bill_number = 2151
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2151", "https://web.senate.gov.ph/lisdata/41493461!.pdf",]
 title = "CIVIL CODE (COMPULSORY SUCCESSION)"
 date_filed = "2005-10-27"
 long_title = "AN ACT AMENDING THE CIVIL CODE, ALSO KNOWN AS REPUBLIC ACT NO. 386, SECTIONS 778 AND 779 ON SUCCESSION"
@@ -15,6 +14,8 @@ subjects = [ "Civil Code (Sections 778, 779)", "Compulsory Succession (R.A. No. 
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41493461!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2151"
 
 [[history]]
 date = "2005-10-27"

@@ -6,7 +6,6 @@ name = "SBN-00496"
 [meta]
 bill_number = 496
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-496", "https://web.senate.gov.ph/lisdata/2393620578!.pdf",]
 title = "INFANT MORTALITY INITIATIVE ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT TO ESTABLISH AN INFANT MORTALITY PROGRAM TO REDUCE THE RATE OF INFANT MORTALITY IN THE COUNTRY PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Infant Mortality Program",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2393620578!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-496"
 
 [[history]]
 date = "2016-07-19"

@@ -6,7 +6,6 @@ name = "SBN-00423"
 [meta]
 bill_number = 423
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-423", "https://web.senate.gov.ph/lisdata/4693642938!.pdf",]
 title = "DEPARTMENT OF SPORTS ACT OF 2025"
 date_filed = "2025-07-10"
 long_title = "AN ACT CREATING THE DEPARTMENT OF SPORTS, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Sports",]
 authors_raw = "Cayetano, Alan Peter \"Compañero\" S."
 author_codes = ["CALAN"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4693642938!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-423"
 
 [[history]]
 date = "2025-07-10"

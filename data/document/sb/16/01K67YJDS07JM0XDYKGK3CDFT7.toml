@@ -6,7 +6,6 @@ name = "SBN-02279"
 [meta]
 bill_number = 2279
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2279", "https://web.senate.gov.ph/lisdata/1931016441!.pdf",]
 title = "RARE DISEASES ACT OF THE PHILIPPINES"
 date_filed = "2014-06-10"
 long_title = "AN ACT PROMULGATING A COMPREHENSIVE POLICY IN ADDRESSING THE NEEDS OF PERSONS AFFLICTED BY RARE DISORDERS"
@@ -15,6 +14,8 @@ subjects = [ "Rare Diseases",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1931016441!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2279"
 
 [[history]]
 date = "2014-06-10"

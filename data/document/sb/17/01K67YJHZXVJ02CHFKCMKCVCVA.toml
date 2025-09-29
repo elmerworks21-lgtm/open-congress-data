@@ -6,7 +6,6 @@ name = "SBN-01215"
 [meta]
 bill_number = 1215
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1215", "https://web.senate.gov.ph/lisdata/2504221577!.pdf",]
 title = "PHILIPPINE HIV AND AIDS POLICY ACT OF 2016"
 date_filed = "2016-10-19"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE COMPREHENSIVE POLICY ON HUMAN IMMUNODEFICIENCY VIRUS (HIV) AND ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS) PREVENTION, TREATMENT, CARE AND SUPPORT, AND ESTABLISHING THE PHILIPPINE NATIONAL HIV AND AIDS PLAN, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 8504, OTHERWISE KNOWN AS THE ‘PHILIPPINE AIDS PREVENTION AND CONTROL ACT OF 1998’, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Human Immuno Deficiency Virus (HIV)", "Acquired Immune Deficiency 
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2504221577!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1215"
 
 [[history]]
 date = "2016-10-19"

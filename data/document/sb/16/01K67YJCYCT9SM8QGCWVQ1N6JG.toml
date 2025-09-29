@@ -6,7 +6,6 @@ name = "SBN-01023"
 [meta]
 bill_number = 1023
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1023", "https://web.senate.gov.ph/lisdata/1701914235!.pdf",]
 title = "OFFICE OF THE SOLICITOR GENERAL"
 date_filed = "2013-07-22"
 long_title = "AN ACT STRENGTHENING THE AUTONOMY AND INDEPENDENCE OF THE OFFICE OF THE SOLICITOR GENERAL AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Office of the Solicitor General",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1701914235!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1023"
 
 [[history]]
 date = "2013-07-22"

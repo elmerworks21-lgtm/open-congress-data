@@ -6,7 +6,6 @@ name = "SBN-00594"
 [meta]
 bill_number = 594
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-594", "https://web.senate.gov.ph/lisdata/1645913700!.pdf",]
 title = "CONGRESSIONAL OVERSIGHT COMMITTEE ON DEBT MANAGEMENT"
 date_filed = "2013-07-08"
 long_title = "AN ACT CONSTITUTING A CONGRESSIONAL OVERSIGHT COMMITTEE ON DEBT MANAGEMENT TO LOOK INTO ALL FOREIGN AND DOMESTIC BORROWINGS NEGOTIATED, CONTRACTED OR GUARANTEED BY THE PRESIDENT ON BEHALF OF THE PHILIPPINES AS WELL AS THOSE BY THE GOVERNMENT OR GOVERNMENT OWNED AND CONTROLLED CORPORATIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Oversight Committee on Debt Management",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1645913700!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-594"
 
 [[history]]
 date = "2013-07-08"

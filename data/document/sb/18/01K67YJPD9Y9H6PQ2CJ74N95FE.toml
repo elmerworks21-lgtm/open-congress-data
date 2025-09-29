@@ -6,7 +6,6 @@ name = "SBN-00046"
 [meta]
 bill_number = 46
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-46", "https://web.senate.gov.ph/lisdata/3026227095!.pdf",]
 title = "NATIONAL EMPLOYMENT ASSISTANCE PROGRAM ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT PROVIDING FOR A NATIONAL EMPLOYMENT ASSISTANCE PROGRAM AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Employment Assistance Program",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3026227095!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-46"
 
 [[history]]
 date = "2019-07-01"

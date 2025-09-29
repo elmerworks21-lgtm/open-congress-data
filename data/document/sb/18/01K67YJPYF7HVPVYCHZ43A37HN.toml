@@ -6,7 +6,6 @@ name = "SBN-00830"
 [meta]
 bill_number = 830
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-830", "https://web.senate.gov.ph/lisdata/3120828107!.pdf",]
 title = "PHILIPPINE MEDICAL ACADEMY AND SCHOLARSHIP ACT"
 date_filed = "2019-07-30"
 long_title = "AN ACT CREATING THE PHILIPPINE MEDICAL ACADEMY, ESTABLISHING THE PHILIPPINE MEDICAL SCHOLARSHIP PROGRAM AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Medical Academy", "Medical Scholarship",]
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3120828107!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-830"
 
 [[history]]
 date = "2019-07-30"

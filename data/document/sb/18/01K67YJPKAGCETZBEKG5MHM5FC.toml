@@ -6,7 +6,6 @@ name = "SBN-00312"
 [meta]
 bill_number = 312
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-312", "https://web.senate.gov.ph/lisdata/3059427453!.pdf",]
 title = "PNP, BFP AND BJMP HEIGHT EQUALITY ACT OF 2019"
 date_filed = "2019-07-10"
 long_title = "AN ACT REPEALING THE MINIMUM HEIGHT REQUIREMENT FOR APPLICANTS TO THE PHILIPPINE NATIONAL POLICE (PNP), THE BUREAU OF FIRE PROTECTION (BFP), AND THE BUREAU OF JAIL MANAGEMENT AND PENOLOGY (BJMP)"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine National Police (PNP)", "Bureau of Fire Protection", "Bureau of Jail Management and Penology",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F., Sotto III, Vicente C., Lacson, Panfilo \"Ping\" M."
 author_codes = ["LPANF", "SVICE", "ZJMIG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3059427453!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-312"
 
 [[history]]
 date = "2019-07-10"

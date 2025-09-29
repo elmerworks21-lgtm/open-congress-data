@@ -6,7 +6,6 @@ name = "SBN-01155"
 [meta]
 bill_number = 1155
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1155", "https://web.senate.gov.ph/lisdata/86097164!.pdf",]
 title = "FREE SPECIAL EDUCATION CLASSES FOR THE PHYSICALLY DISABLED PERSONS"
 date_filed = "2010-07-12"
 long_title = "AN ACT ESTABLISHING FREE SPECIAL EDUCATION CLASSES FOR THE PHYSICALLY DISABLED PERSONS WHO WILL ENROLL IN ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOLS OF THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Handicapped/Disabled", "Special Education",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/86097164!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1155"
 
 [[history]]
 date = "2010-07-12"

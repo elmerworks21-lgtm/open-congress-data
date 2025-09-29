@@ -6,7 +6,6 @@ name = "SBN-02128"
 [meta]
 bill_number = 2128
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2128", "https://web.senate.gov.ph/lisdata/70466288!.pdf",]
 title = "ISKOLAR NG BAYAN ACT OF 2008"
 date_filed = "2008-03-13"
 long_title = "AN ACT MANDATING ALL STATE COLLEGES AND UNIVERSITIES TO CONFER AUTOMATIC ADMISSION AND PROVIDE SCHOLARSHIP GRANTS TO THE TOP FIVE (5) PUBLIC HIGH SCHOOL STUDENTS OF THEIR GRADUATING CLASS, AND ALLOCATE FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Cayetano, Alan Peter \"Companero\" S."
 author_codes = ["CALAN"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/70466288!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2128"
 
 [[history]]
 date = "2008-03-13"

@@ -6,7 +6,6 @@ name = "SBN-02878"
 [meta]
 bill_number = 2878
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2878", "https://web.senate.gov.ph/lisdata/4529641191!.pdf",]
 title = "ECONOMY, PLANNING AND DEVELOPMENT ACT"
 date_filed = "2024-11-14"
 long_title = "AN ACT REORGANIZING THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY (NEDA) INTO THE DEPARTMENT OF ECONOMY, PLANNING AND DEVELOPMENT (DEPD), AND RECONSTITUTING THE NEDA BOARD INTO THE ECONOMY AND DEVELOPMENT COUNCIL, REPEALING FOR THE PURPOSE EXECUTIVE ORDER NO. 230 SERIES OF 1987 AND AMENDING EXECUTIVE ORDER NO. 292 SERIES OF 1987, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Economy, Planning and Development",]
 authors_raw = "Gatchalian, Win, Marcos, Imee R., Ejercito, Joseph Victor G., Zubiri, Juan Miguel \"Migz\" F., Tulfo, Raffy T., Villanueva, Joel, Revilla Jr., Ramon Bong"
 author_codes = ["EJOSE", "GSHER", "MIMEE", "RRAMO", "TRAFF", "VEMMA", "ZJMIG"]
 committee_codes = ["ECONO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4529641191!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2878"
 
 [[history]]
 date = "2024-11-25"

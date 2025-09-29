@@ -6,7 +6,6 @@ name = "SBN-02050"
 [meta]
 bill_number = 2050
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2050", "https://web.senate.gov.ph/lisdata/4136337680!.pdf",]
 title = "WOMEN IN BUSINESS DEVELOPMENT ACT"
 date_filed = "2023-03-30"
 long_title = "AN ACT CRAFTING A NATIONAL WOMEN'S BUSINESS ENTERPRISE POLICY AND PRESCRIBING ARRANGEMENTS FOR DEVELOPING, COORDINATING, AND IMPLEMENTING A NATIONAL PROGRAM FOR WOMEN'S ENTERPRISE"
@@ -15,6 +14,8 @@ subjects = [ "Women", "National Womens Business Enterprise",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4136337680!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2050"
 
 [[history]]
 date = "2023-03-30"

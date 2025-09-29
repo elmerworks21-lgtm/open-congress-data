@@ -6,7 +6,6 @@ name = "SBN-01313"
 [meta]
 bill_number = 1313
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1313", "https://web.senate.gov.ph/lisdata/25201892!.pdf",]
 title = "MARITIME ADMINISTRATION ACT OF 2004"
 date_filed = "2004-07-02"
 long_title = "AN ACT CONSOLIDATING ADMIRALTY AND MARITIME LAWS TO MODERNIZE THE MARITIME INDUSTRY, PROMOTE AND REGULATE MERCHANT MARINE ACTIVITIES, RATIONALIZE THE ORGANIZATION AND FUNCTIONS OF GOVERNMENT AGENCIES RELATED TO ADMIRALTY AND MARITIME MATTERS, AND INSURE THE PROTECTION OF THE MARINE WEALTH IN THE PHILIPPINE TERRITORY"
@@ -15,6 +14,8 @@ subjects = [ "Maritime Administration Act of 2004", "Merchant Marine Activity/Ma
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/25201892!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1313"
 
 [[history]]
 date = "2004-07-02"

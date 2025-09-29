@@ -6,7 +6,6 @@ name = "SBN-02188"
 [meta]
 bill_number = 2188
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2188", "https://web.senate.gov.ph/lisdata/3500931837!.pdf",]
 title = "YOUTH SUICIDE PREVENTION ACT"
 date_filed = "2021-05-12"
 long_title = "AN ACT TO PROVIDE YOUTH SUICIDE EARLY INTERVENTION AND PREVENTION"
@@ -15,6 +14,8 @@ subjects = [ "Youth", "Suicide",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3500931837!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2188"
 
 [[history]]
 date = "2021-05-12"

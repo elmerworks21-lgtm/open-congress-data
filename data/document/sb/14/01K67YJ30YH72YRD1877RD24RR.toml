@@ -6,7 +6,6 @@ name = "SBN-03075"
 [meta]
 bill_number = 3075
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3075", "https://web.senate.gov.ph/lisdata/103529227!.pdf",]
 title = "HERBAL MEDICINE AND FOOD SUPPLEMENT ACT"
 date_filed = "2009-02-17"
 long_title = "AN ACT REGULATING THE MANUFACTURE, IMPORTATION, MARKETING/PROMOTION, AND DISTRIBUTION OF HERBAL MEDICINES, FOOD SUPPLEMENTS AND SIMILAR PREPARATIONS AND ESTABLISHING STANDARDS WITH RESPECT THERETO FOR CONSUMER HEALTH PROTECTION"
@@ -15,6 +14,8 @@ subjects = [ "Herbal Medicines", "Food Supplements",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/103529227!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3075"
 
 [[history]]
 date = "2009-02-17"

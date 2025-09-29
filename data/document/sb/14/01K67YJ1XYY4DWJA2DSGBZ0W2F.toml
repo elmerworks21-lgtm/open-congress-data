@@ -6,7 +6,6 @@ name = "SBN-01612"
 [meta]
 bill_number = 1612
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1612", "https://web.senate.gov.ph/lisdata/59295293!.pdf",]
 title = "CHARTER OF THE OFFICE OF THE PHILIPPINE TRADE REPRESENTATIVE"
 date_filed = "2007-09-18"
 long_title = "AN ACT CREATING THE OFFICE OF THE TRADE REPRESENTATIVE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Trade Representative Office Charter",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/59295293!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1612"
 
 [[history]]
 date = "2007-09-18"

@@ -6,7 +6,6 @@ name = "SBN-02549"
 [meta]
 bill_number = 2549
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2549", "https://web.senate.gov.ph/lisdata/2037317480!.pdf",]
 title = "PUT SCHOOL COUNSELORS WHERE THEY ARE NEEDED ACT"
 date_filed = "2015-01-05"
 long_title = "AN ACT CREATING A DEMONSTRATION PROJECT TO FUND ADDITIONAL SECONDARY SCHOOL COUNSELORS IN TROUBLED SCHOOLS TO REDUCE THE DROPOUT RATE"
@@ -15,6 +14,8 @@ subjects = [ "School Counselors", "Students",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2037317480!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2549"
 
 [[history]]
 date = "2015-01-05"

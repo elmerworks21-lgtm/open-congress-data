@@ -6,7 +6,6 @@ name = "SBN-01390"
 [meta]
 bill_number = 1390
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1390", "https://web.senate.gov.ph/lisdata/3966135975!.pdf",]
 title = "NATIONAL DEFENSE ACT OF 2022"
 date_filed = "2022-10-13"
 long_title = "AN ACT TO ENHANCE THE CAPABILITY AND STREAMLINE ORGANIZATIONAL ROLE OF THE DEPARTMENT OF NATIONAL DEFENSE AND ITS BUREAUS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of National Defense (DND)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3966135975!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1390"
 
 [[history]]
 date = "2022-10-13"

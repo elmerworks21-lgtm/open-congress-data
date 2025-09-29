@@ -6,7 +6,6 @@ name = "SBN-01326"
 [meta]
 bill_number = 1326
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1326", "https://web.senate.gov.ph/lisdata/4797944001!.pdf",]
 title = "TAX DEDUCTIONS TO PARENTS AND LEGAL GUARDIANS"
 date_filed = "2025-09-02"
 long_title = "AN ACT GRANTING TAX DEDUCTIONS TO PARENTS AND LEGAL GUARDIANS OF CHILDREN WITH SPECIAL NEEDS"
@@ -15,6 +14,8 @@ subjects = [ "Tax Deductions", "Parents/Legal Guardians",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4797944001!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1326"
 
 [[history]]
 date = "2025-09-02"

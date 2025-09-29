@@ -6,7 +6,6 @@ name = "SBN-02482"
 [meta]
 bill_number = 2482
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2482", "https://web.senate.gov.ph/lisdata/3699333343!.pdf",]
 title = "COMPREHENSIVE LUPUS PREVENTION ACT"
 date_filed = "2022-01-24"
 long_title = "AN ACT INSTITUTING A NATONAL HEALTH PROGRAM TO COMBAT SYSTEMIC LUPUS ERYTHEMATOSUS (SLE) DISEASE AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Lupus Disease",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3699333343!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2482"
 
 [[history]]
 date = "2022-01-24"

@@ -6,7 +6,6 @@ name = "SBN-00971"
 [meta]
 bill_number = 971
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-971", "https://web.senate.gov.ph/lisdata/3878135236!.pdf",]
 title = "AMENDING SEC.5, PAR. 3 OF R.A. NO. 9225 (CITIZENSHIP RETENTION AND REACQUISITION ACT OF 2003)"
 date_filed = "2022-08-01"
 long_title = "AN ACT AMENDING SECTION 5, PARAGRAPH 3 OF REPUBLIC ACT NO. 9225, OTHERWISE KNOWN AS THE 'CITIZENSHIP RETENTION AND REACQUISITION ACT OF 2003'"
@@ -15,6 +14,8 @@ subjects = [ "Citizenship", "Citizenship Retention (Natural Born Citizen)",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3878135236!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-971"
 
 [[history]]
 date = "2022-08-01"

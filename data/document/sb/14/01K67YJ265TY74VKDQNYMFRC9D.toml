@@ -6,7 +6,6 @@ name = "SBN-01907"
 [meta]
 bill_number = 1907
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1907", "https://web.senate.gov.ph/lisdata/64835750!.pdf",]
 title = "WORKERS' RIGHTS IN SCHOOL CURRICULUM ACT OF 2007"
 date_filed = "2007-11-26"
 long_title = "AN ACT MANDATING A SEPARATE COURSE OR SUBJECT ON WORKERS' RIGHTS FOR COLLEGE AND HIGH SCHOOL STUDENTS"
@@ -15,6 +14,8 @@ subjects = [ "Curriculum",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/64835750!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1907"
 
 [[history]]
 date = "2007-11-26"

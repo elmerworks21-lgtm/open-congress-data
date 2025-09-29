@@ -6,7 +6,6 @@ name = "SBN-01124"
 [meta]
 bill_number = 1124
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1124", "https://web.senate.gov.ph/lisdata/86447197!.pdf",]
 title = "INTERAGENCY INITIATIVE TO ENHANCE SERVICES FOR INDIVIDUALS WITH AUTISM SPECTRUM DISORDERS"
 date_filed = "2010-07-12"
 long_title = "AN ACT ESTABLISHING AN INTERAGENCY INITIATIVE TO ENHANCE SERVICES FOR INDIVIDUALS WITH AUTISM SPECTRUM DISORDERS"
@@ -15,6 +14,8 @@ subjects = [ "Autism",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/86447197!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1124"
 
 [[history]]
 date = "2010-07-12"

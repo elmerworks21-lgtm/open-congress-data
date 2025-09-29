@@ -6,7 +6,6 @@ name = "SBN-02140"
 [meta]
 bill_number = 2140
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2140", "https://web.senate.gov.ph/lisdata/3492331748!.pdf",]
 title = "NATIONAL HOUSING AUTHORITY ACT OF 2021"
 date_filed = "2021-04-20"
 long_title = "AN ACT STRENGTHENING THE NATIONAL HOUSING AUTHORITY, EXTENDING ITS CORPORATE TERM, AND AMENDING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 757 (P. D. 757), ‘CREATING THE NATIONAL HOUSING AUTHORITY AND DISSOLVING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES’"
@@ -15,6 +14,8 @@ subjects = [ "National Housing Authority (NHA)",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3492331748!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2140"
 
 [[history]]
 date = "2021-04-20"

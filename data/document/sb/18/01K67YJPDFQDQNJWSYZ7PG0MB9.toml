@@ -6,7 +6,6 @@ name = "SBN-00055"
 [meta]
 bill_number = 55
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-55", "https://web.senate.gov.ph/lisdata/3028527113!.pdf",]
 title = "INCLUSIVE EDUCATION ACT"
 date_filed = "2019-07-01"
 long_title = "AN ACT INSTITUTING INCLUSIVE EDUCATION AND ESTABLISHING INCLUSIVE EDUCATION HUBS IN ALL PUBLIC SCHOOLS DIVISIONS, PROVIDING FOR STANDARDS AND GUIDELINES, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Educational Institutions", "Special Education",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3028527113!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-55"
 
 [[history]]
 date = "2019-07-01"

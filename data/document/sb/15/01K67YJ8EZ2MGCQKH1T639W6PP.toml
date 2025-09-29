@@ -6,7 +6,6 @@ name = "SBN-01958"
 [meta]
 bill_number = 1958
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1958", "https://web.senate.gov.ph/lisdata/95818080!.pdf",]
 title = "FAMILY BUILDING ACT"
 date_filed = "2010-07-22"
 long_title = "AN ACT REQUIRING COVERAGE FOR THE TREATMENT OF INFERTILITY IN ANY GROUP HEALTH PLAN OR HEALTH INSURANCE"
@@ -15,6 +14,8 @@ subjects = [ "Infertility", "Health Insurance",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/95818080!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1958"
 
 [[history]]
 date = "2010-07-22"

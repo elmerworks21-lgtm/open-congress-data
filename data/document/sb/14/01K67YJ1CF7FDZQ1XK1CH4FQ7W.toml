@@ -6,7 +6,6 @@ name = "SBN-00994"
 [meta]
 bill_number = 994
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-994", "https://web.senate.gov.ph/lisdata/52604642!.pdf",]
 title = "WILDLIFE RESOURCES CONSERVATION AND PROTECTION ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT PROVIDING FOR THE CONSERVATION AND PROTECTION OF WILDLIFE RESOURCES AND THEIR HABITATS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Wildlife", "Habitats",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52604642!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-994"
 
 [[history]]
 date = "2007-07-04"

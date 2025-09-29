@@ -6,7 +6,6 @@ name = "SBN-01269"
 [meta]
 bill_number = 1269
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1269", "https://web.senate.gov.ph/lisdata/24801848!.pdf",]
 title = "INCREASING CHANCES FOR POLITICAL REPRESENTATION OF WOMEN"
 date_filed = "2004-07-01"
 long_title = "AN ACT AMENDING REPUBLIC ACT SEVENTY NINE FORTY ONE, OTHERWISE KNOWN AS THE PARTY-LIST SYSTEM ACT"
@@ -15,6 +14,8 @@ subjects = [ "Women Sectoral Representation", "Party List System (R.A. 7940/Amen
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24801848!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1269"
 
 [[history]]
 date = "2004-07-01"

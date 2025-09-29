@@ -6,7 +6,6 @@ name = "SBN-00736"
 [meta]
 bill_number = 736
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-736", "https://web.senate.gov.ph/lisdata/19261330!.pdf",]
 title = "SHIP POLLUTION PREVENTION ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PREVENT AND CONTROL MARINE POLLUTION FROM SHIPS AND FIXED AND FLOATING DRILLING RIGS AND OTHER PLATFORMS, PROVIDE PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Ship Pollution Prevention Act", "Marpol 73/78 Provisions",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/19261330!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-736"
 
 [[history]]
 date = "2004-06-30"

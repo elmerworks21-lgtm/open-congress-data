@@ -6,7 +6,6 @@ name = "SBN-00235"
 [meta]
 bill_number = 235
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-235", "https://web.senate.gov.ph/lisdata/3794734390!.pdf",]
 title = "REGIONAL PENITENTIARIES ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT ESTABLISHING PENITENTIARY SYSTEMS IN REGIONS I, II, III, V, VI, VIII, IX, X, XII AND XIII TO DECONGEST THE NEW BILIBID PRISON (NBP) AND OTHER PENAL FARMS AND PROVINCES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Regional Penitentiaries", "Jail Facility/Prison Facility", "New Bi
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3794734390!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-235"
 
 [[history]]
 date = "2022-07-07"

@@ -6,7 +6,6 @@ name = "SBN-02325"
 [meta]
 bill_number = 2325
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2325", "https://web.senate.gov.ph/lisdata/1954516663!.pdf",]
 title = "PHILIPPINE INDEPENDENT FILM INCENTIVES ACT OF 2014"
 date_filed = "2014-07-28"
 long_title = "AN ACT SUPPORTING THE PRODUCTION OF PHILIPPINE INDEPENDENT FILMS BY PROVIDING INCENTIVES TO FILMMAKERS WHO ARE GIVEN HONORS IN NOTABLE INTERNATIONAL FILM COMPETITIONS"
@@ -15,6 +14,8 @@ subjects = [ "Film", "Movie Industry",]
 authors_raw = "Poe, Grace L., Legarda, Loren B."
 author_codes = ["LLORE", "PGRAC"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1954516663!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2325"
 
 [[history]]
 date = "2014-07-28"

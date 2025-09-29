@@ -6,7 +6,6 @@ name = "SBN-00159"
 [meta]
 bill_number = 159
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-159", "https://web.senate.gov.ph/lisdata/3786734569!.pdf",]
 title = "AMENDING R.A. NO. 11235 (MOTORCYCLE CRIME PREVENTION ACT)"
 date_filed = "2022-07-07"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11235, OTHERWISE KNOWN AS THE ‘MOTORCYCLE CRIME PREVENTION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Motorcycle",]
 authors_raw = "Ejercito, Joseph Victor G., Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA", "EJOSE"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3786734569!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-159"
 
 [[history]]
 date = "2022-07-07"

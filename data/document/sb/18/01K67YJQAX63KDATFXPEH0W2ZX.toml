@@ -6,7 +6,6 @@ name = "SBN-01366"
 [meta]
 bill_number = 1366
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1366", "https://web.senate.gov.ph/lisdata/3239429251!.pdf",]
 title = "FAIR DEBT COLLECTION PRACTICES ACT"
 date_filed = "2020-02-19"
 long_title = "AN ACT REGULATING THE DEBT COLLECTION PRACTICES OF DEBT COLLECTORS TO PROTECT BORROWERS FROM ABUSES, HARASSMENT, UNFAIR TREATMENT AND MISREPRESENTATIONS"
@@ -15,6 +14,8 @@ subjects = [ "Fair Debt",]
 authors_raw = "Gatchalian, Win"
 author_codes = ["GSHER"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3239429251!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1366"
 
 [[history]]
 date = "2020-02-19"

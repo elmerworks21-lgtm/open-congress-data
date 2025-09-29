@@ -6,7 +6,6 @@ name = "SBN-01048"
 [meta]
 bill_number = 1048
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1048", "https://web.senate.gov.ph/lisdata/1708914302!.pdf",]
 title = "AGOO-DAMORIS PROTECTED SEASCAPE AND LANDSCAPE ACT OF 2013"
 date_filed = "2013-07-23"
 long_title = "AN ACT ESTABLISHING THE AGOO-DAMORTIS PROTECTED SEASCAPE AND LANDSCAPE IN THE MUNICIPALITIES OF AGOO, STO. TOMAS AND ROSARIO, IN THE PROVINCE OF LA UNION AS A PROTECTED AREA, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Protected Area", "Protected Landscape",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1708914302!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1048"
 
 [[history]]
 date = "2013-07-23"

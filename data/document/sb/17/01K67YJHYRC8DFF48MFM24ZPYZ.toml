@@ -6,7 +6,6 @@ name = "SBN-01164"
 [meta]
 bill_number = 1164
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1164", "https://web.senate.gov.ph/lisdata/2486421418!.pdf",]
 title = "PERMANENT APPOINTMENT TO ALL GOVERNMENT CASUAL/CONTRACTUAL EMPLOYEES WITH 3 YEARS CONTINUOUS SERVICE"
 date_filed = "2016-09-20"
 long_title = "AN ACT PROVIDING FOR A PERMANENT APPOINTMENT TO ALL CASUAL AND CONTRACTUAL EMPLOYEES OF THE GOVERNMENT WHO HAVE RENDERED THE PRESCRIBED YEARS OF SERVICE IN THE NATIONAL GOVERNMENT AGENCIES AND THE LOCAL GOVERNMENT UNITS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Casual", "Contractual Employees",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2486421418!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1164"
 
 [[history]]
 date = "2016-09-20"

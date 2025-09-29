@@ -6,7 +6,6 @@ name = "SBN-00311"
 [meta]
 bill_number = 311
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-311", "https://web.senate.gov.ph/lisdata/3806934512!.pdf",]
 title = "AMENDING R.A. NO. 7277 (MAGNA CARTA FOR DISABLED PERSONS)"
 date_filed = "2022-07-12"
 long_title = "AN ACT INCREASING THE POSITIONS RESERVED FOR PERSONS WITH DISABILITIES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7277, AS AMENDED, OTHERWISE KNOWN AS THE MAGNA CARTA FOR DISABLED PERSONS"
@@ -15,6 +14,8 @@ subjects = [ "Persons with Disabilities (PWDS)", "Magna Carta for Persons with D
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3806934512!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-311"
 
 [[history]]
 date = "2022-07-12"

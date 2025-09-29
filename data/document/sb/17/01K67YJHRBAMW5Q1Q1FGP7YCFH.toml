@@ -6,7 +6,6 @@ name = "SBN-00881"
 [meta]
 bill_number = 881
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-881", "https://web.senate.gov.ph/lisdata/2443721020!.pdf",]
 title = "PILIPINONG MARINO ACT OF 2016"
 date_filed = "2016-07-26"
 long_title = "AN ACT TO PROTECT THE INTEREST AND WELFARE OF FILIPINO SEAMEN AND SEA-BASED MIGRANT WORKERS, ESTABLISHING FOR THE PURPOSE A NATIONAL SEAFARERS ADMINISTRATION, APPROPRIATING FUNDS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Seaman", "Seafarers",]
 authors_raw = "Poe, Grace L."
 author_codes = ["PGRAC"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2443721020!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-881"
 
 [[history]]
 date = "2016-07-26"

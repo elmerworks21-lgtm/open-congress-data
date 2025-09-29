@@ -6,7 +6,6 @@ name = "SBN-00285"
 [meta]
 bill_number = 285
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-285", "https://web.senate.gov.ph/lisdata/1443712!.pdf",]
 title = "BILLION TREES ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO SPUR THE PLANTING OF A BILLION TREES THROUGH COMPLEMENTARY TREE PLANTING PROGRAMS OF THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES AND VARIOUS GOVERNMENT AGENCIES, LOCAL GOVERNMENT UNITS, COMMUNITIES, SCHOOLS AND UNIVERSITIES, AND CIVIC AND NONGOVERNMENTAL ORGANIZATIONS, ESTABLISHING MINI-FOREST RESERVES IN CITIES, MUNICIPALITIES AND SUBDIVISION PROJECTS, PROMOTING FOREST PLANTATIONS, AND PROTECTING THE REMAINING NATURAL FORESTS, CREATING A FUND THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Tree Planting (Billion Trees Act)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1443712!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-285"
 
 [[history]]
 date = "2004-06-30"

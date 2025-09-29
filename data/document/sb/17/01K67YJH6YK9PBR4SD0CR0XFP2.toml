@@ -6,7 +6,6 @@ name = "SBN-00112"
 [meta]
 bill_number = 112
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-112", "https://web.senate.gov.ph/lisdata/2352720145!.pdf",]
 title = "THE MINDANAO RAILWAYS CORPORATION"
 date_filed = "2016-06-30"
 long_title = "AN ACT CREATING THE MINDANAO RAILWAYS CORPORATION PRESCRIBING ITS POWERS, FUNCTIONS, AND DUTIES, AND PROVIDING FOR THE NECESSARY FUNDS FOR ITS OPERATION"
@@ -15,6 +14,8 @@ subjects = [ "Mindanao Railways Corporation",]
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2352720145!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-112"
 
 [[history]]
 date = "2016-06-30"

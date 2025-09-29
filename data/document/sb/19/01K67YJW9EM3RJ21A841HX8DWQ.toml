@@ -6,7 +6,6 @@ name = "SBN-02004"
 [meta]
 bill_number = 2004
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2004", "https://web.senate.gov.ph/lisdata/4117037482!.pdf",]
 title = "PASSIG ISLET AQUA-ECOTOURISM ACT"
 date_filed = "2023-03-14"
 long_title = "AN ACT DECLARING PASSIG ISLET OF BARANGAY BATO IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF DAVAO DEL SUR AS AN AQUA-ECOTOURISM SITE AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Ecological Tourism Zone", "Ecotourism Site",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["TOURI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4117037482!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2004"
 
 [[history]]
 date = "2023-03-14"

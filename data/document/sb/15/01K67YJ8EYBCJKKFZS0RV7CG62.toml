@@ -6,7 +6,6 @@ name = "SBN-01956"
 [meta]
 bill_number = 1956
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1956", "https://web.senate.gov.ph/lisdata/95788202!.pdf",]
 title = "TEENAGE PREGNANCY REDUCTION ACT"
 date_filed = "2010-07-22"
 long_title = "AN ACT PROVIDING FOR THE EVALUATION OF PUBLIC AND PRIVATE PROGRAMS IN ORDER TO REDUCE THE RATE OF TEENAGE PREGNANCY"
@@ -15,6 +14,8 @@ subjects = [ "Pregnancy",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/95788202!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1956"
 
 [[history]]
 date = "2010-07-22"

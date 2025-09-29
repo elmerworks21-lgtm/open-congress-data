@@ -6,7 +6,6 @@ name = "SBN-03419"
 [meta]
 bill_number = 3419
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3419", "https://web.senate.gov.ph/lisdata/1230710986!.pdf",]
 title = "ENERGY TAX ON ELECTRIC POWER CONSUMPTION"
 date_filed = "2009-08-27"
 long_title = "AN ACT REPEALING BATAS PAMBANSA BILANG 36 AN ACT IMPOSING AN ENERGY TAX ON ELECTRIC POWER CONSUMPTION"
@@ -15,6 +14,8 @@ subjects = [ "Energy Tax", "Batas Pambansa (B.P. Blg. 36)",]
 authors_raw = "Enrile, Juan Ponce"
 author_codes = ["EJUAN"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1230710986!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3419"
 
 [[history]]
 date = "2009-08-27"

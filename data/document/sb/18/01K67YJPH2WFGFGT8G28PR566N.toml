@@ -6,7 +6,6 @@ name = "SBN-00211"
 [meta]
 bill_number = 211
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-211", "https://web.senate.gov.ph/lisdata/3046927347!.pdf",]
 title = "THE DEPARTMENT OF DISASTER MANAGEMENT ACT"
 date_filed = "2019-07-02"
 long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER MANAGEMENT, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Department of Disaster and Emergency Management", "Disaster Awaren
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3046927347!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-211"
 
 [[history]]
 date = "2019-07-02"

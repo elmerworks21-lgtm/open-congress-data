@@ -6,7 +6,6 @@ name = "SBN-03501"
 [meta]
 bill_number = 3501
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3501", "https://web.senate.gov.ph/lisdata/1279611503!.pdf",]
 title = "LABOR CODE OF THE PHILIPPINES (P.D. NO. 442)"
 date_filed = "2009-10-14"
 long_title = "AN ACT STRENGTHENING THE WORKERS' CONSTITUTIONAL RIGHT TO COLLECTIVE BARGAINING, REPEALING AND REPLACING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code (Pd 442)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1279611503!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3501"
 
 [[history]]
 date = "2009-10-14"

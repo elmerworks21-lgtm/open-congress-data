@@ -6,7 +6,6 @@ name = "SBN-00146"
 [meta]
 bill_number = 146
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-146", "https://web.senate.gov.ph/lisdata/2356920186!.pdf",]
 title = "DEPARTMENT OF MIGRATION AND DEVELOPMENT ACT OF 2016"
 date_filed = "2016-06-30"
 long_title = "AN ACT CREATING THE DEPARTMENT OF MIGRATION AND DEVELOPMENT, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFORE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Migrant Workers", "Department of Migration and Development",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2356920186!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-146"
 
 [[history]]
 date = "2016-06-30"

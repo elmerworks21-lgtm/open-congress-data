@@ -6,7 +6,6 @@ name = "SBN-01450"
 [meta]
 bill_number = 1450
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1450", "https://web.senate.gov.ph/lisdata/26652029!.pdf",]
 title = "PROHIBITING FUND RAISING ACTIVITY FOR POLITICAL PURPOSES"
 date_filed = "2004-07-22"
 long_title = "AN ACT AMENDING B.P. BLG. 881, AS AMENDED, OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE OF THE PHILIPPINES, SECTION 97"
@@ -15,6 +14,8 @@ subjects = [ "Elections/Electoral Reforms", "Omnibus Election Code (Fund-Raising
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26652029!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1450"
 
 [[history]]
 date = "2004-07-22"

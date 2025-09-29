@@ -6,7 +6,6 @@ name = "SBN-01475"
 [meta]
 bill_number = 1475
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1475", "https://web.senate.gov.ph/lisdata/3981236301!.pdf",]
 title = "MEDICAL RESERVE CORPS ACT"
 date_filed = "2022-11-08"
 long_title = "AN ACT INSTITUTING THE MEDICAL RESERVE CORPS AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Medical Reserve Corps",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3981236301!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1475"
 
 [[history]]
 date = "2022-11-08"

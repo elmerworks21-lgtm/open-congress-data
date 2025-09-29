@@ -6,7 +6,6 @@ name = "SBN-02340"
 [meta]
 bill_number = 2340
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2340", "https://web.senate.gov.ph/lisdata/4219938389!.pdf",]
 title = "OVERSEAS FILIPINO WORKERS HOSPITAL ACT"
 date_filed = "2023-07-24"
 long_title = "AN ACT CONVERTING THE OVERSEAS FILIPINO WORKERS HOSPITAL AS A LEVEL III HOSPITAL UNDER THE DIRECT SUPERVISION AND CONTROL OF THE DEPARTMENT OF MIGRANT WORKERS, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Overseas Filipino Workers (OFW)", "Hospitals, Conversion", "Department of Migrant Workers",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4219938389!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2340"
 
 [[history]]
 date = "2023-07-24"

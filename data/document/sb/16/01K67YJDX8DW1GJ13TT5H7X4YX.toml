@@ -6,7 +6,6 @@ name = "SBN-02445"
 [meta]
 bill_number = 2445
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2445", "https://web.senate.gov.ph/lisdata/2009017201!.pdf",]
 title = "ANTI-PREMATURE CAMPAIGNING ACT"
 date_filed = "2014-11-04"
 long_title = "AN ACT AMENDING SECTIONS 79, 80 AND 81 OF BATAS PAMBANSA BILANG 881 OTHERWISE KNOWN AS THE OMNIBUS ELECTION CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Omnibus Election Code (Batas Pambansa Blg. 881)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2009017201!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2445"
 
 [[history]]
 date = "2014-11-04"

@@ -6,7 +6,6 @@ name = "SBN-00087"
 [meta]
 bill_number = 87
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-87", "https://web.senate.gov.ph/lisdata/3032627155!.pdf",]
 title = "ORGAN AND TISSUE DONATION ACT OF 2019"
 date_filed = "2019-07-01"
 long_title = "AN ACT PROVIDING FOR AN ‘OPT-OUT’ SYSTEM OF ORGAN AND TISSUE DONATION, PROMOTING THE RIGHT TO HEALTH, PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Organ Donation",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3032627155!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-87"
 
 [[history]]
 date = "2019-07-01"

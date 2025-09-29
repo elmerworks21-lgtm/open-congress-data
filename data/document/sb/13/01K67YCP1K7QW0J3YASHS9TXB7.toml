@@ -6,7 +6,6 @@ name = "SBN-01201"
 [meta]
 bill_number = 1201
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1201", "https://web.senate.gov.ph/lisdata/24141780!.pdf",]
 title = "CABLE TELEVISION ACT OF 2004"
 date_filed = "2004-07-01"
 long_title = "AN ACT PROMOTING AND REGULATING THE OPERATION OF CABLE TELEVISION IN THE PHILIPPINES, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/24141780!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1201"
 
 [[history]]
 date = "2004-07-01"

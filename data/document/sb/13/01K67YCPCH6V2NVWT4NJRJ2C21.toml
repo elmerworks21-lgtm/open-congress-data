@@ -6,7 +6,6 @@ name = "SBN-01802"
 [meta]
 bill_number = 1802
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1802", "https://web.senate.gov.ph/lisdata/30252196!.pdf",]
 title = "NAVIGABLE WATERS POLLUTERS PENALTY INCREASE"
 date_filed = "2004-09-23"
 long_title = "AN ACT INCREASING THE PENALTY IMPOSED AGAINST POLLUTERS OF OUR NAVIGABLE WATERS BY AMENDING SECTION 7 OF PRESIDENTIAL DECREE NO. 979 PROVIDING FOR THE REVISION OF PRESIDENTIAL DECREE NO. 600 GOVERNING MARINE POLLUTION"
@@ -15,6 +14,8 @@ subjects = [ "Marine Pollution (P.D.No. 979)", "Pollution (Navigable Water Pollu
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/30252196!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1802"
 
 [[history]]
 date = "2004-09-23"

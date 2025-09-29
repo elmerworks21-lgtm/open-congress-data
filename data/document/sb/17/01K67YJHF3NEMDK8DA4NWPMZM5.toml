@@ -6,7 +6,6 @@ name = "SBN-00442"
 [meta]
 bill_number = 442
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-442", "https://web.senate.gov.ph/lisdata/2387920744!.pdf",]
 title = "THE PHILIPPINE MOTOR VEHICLE MANUFACTURING INDUSTRY COMPETITIVENESS ACT"
 date_filed = "2016-07-19"
 long_title = "AN ACT TO STRENGTHEN THE SUSTAINABILITY AND COMPETITIVENESS OF THE PHILIPPINE MOTOR VEHICLE MANUFACTURING INDUSTRY"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Motor Vehicle Manufacturing Industry", "Motor Vehicles"
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2387920744!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-442"
 
 [[history]]
 date = "2016-07-19"

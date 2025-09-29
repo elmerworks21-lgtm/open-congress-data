@@ -6,7 +6,6 @@ name = "SBN-00231"
 [meta]
 bill_number = 231
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-231", "https://web.senate.gov.ph/lisdata/3049127367!.pdf",]
 title = "POLICE SCHOLARSHIP PROGRAM"
 date_filed = "2019-07-04"
 long_title = "AN ACT PROVIDING POLICE SCHOLARSHIPS TO QUALIFIED STUDENTS IN ALL BARANGAY, ESTABLISHING FOR THIS PURPOSE THE POLICE SCHOLARSHIP PROGRAM, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Scholarship Grants", "Philippine National Police (PNP)", "Barangays",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3049127367!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-231"
 
 [[history]]
 date = "2019-07-04"

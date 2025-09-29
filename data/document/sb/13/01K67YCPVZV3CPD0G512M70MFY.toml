@@ -6,7 +6,6 @@ name = "SBN-02553"
 [meta]
 bill_number = 2553
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2553", "https://web.senate.gov.ph/lisdata/65005386!.pdf",]
 title = "ROAD SAFETY FOR CHILDREN ACT OF 2006"
 date_filed = "2006-12-05"
 long_title = "AN ACT INSTITUTING A POLICY FOR NATIONAL ROAD ACCIDENT PREVENTION AND SAFETY AWARENESS SCHEME FOR CHILDREN, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Road Safety for Children", "Children and Youth (Road Safety)",]
 authors_raw = "Lacson, Panfilo M."
 author_codes = ["LPANF"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/65005386!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2553"
 
 [[history]]
 date = "2006-12-05"

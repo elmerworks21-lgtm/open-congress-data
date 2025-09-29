@@ -6,7 +6,6 @@ name = "SBN-02450"
 [meta]
 bill_number = 2450
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2450", "https://web.senate.gov.ph/lisdata/58674848!.pdf",]
 title = "CHILD SAFETY DEVICE ACT OF 2006"
 date_filed = "2006-08-28"
 long_title = "AN ACT REQUIRING THE USE OF SAFETY DEVICES FOR CHILDREN RIDING IN MOTOR VEHICLES"
@@ -15,6 +14,8 @@ subjects = [ "Child Safety Device (Motor Vehicles)", "Motor Vehicles (Child Pass
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/58674848!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2450"
 
 [[history]]
 date = "2006-08-28"

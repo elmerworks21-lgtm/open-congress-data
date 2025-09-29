@@ -6,7 +6,6 @@ name = "SBN-01739"
 [meta]
 bill_number = 1739
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1739", "https://web.senate.gov.ph/lisdata/1790515130!.pdf",]
 title = "PREVENTION OF EQUINE CRUELTY ACT"
 date_filed = "2013-09-26"
 long_title = "AN ACT PROHIBITING CERTAIN CONDUCT RELATING TO THE USE OF HORSES FOR HUMAN CONSUMPTION"
@@ -15,6 +14,8 @@ subjects = [ "Horses", "Animal Welfare",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1790515130!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1739"
 
 [[history]]
 date = "2013-09-26"

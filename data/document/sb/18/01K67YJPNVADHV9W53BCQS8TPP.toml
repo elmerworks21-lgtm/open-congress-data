@@ -6,7 +6,6 @@ name = "SBN-00428"
 [meta]
 bill_number = 428
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-428", "https://web.senate.gov.ph/lisdata/3077427668!.pdf",]
 title = "MANDATORY AUTOPSY LAW"
 date_filed = "2019-07-15"
 long_title = "AN ACT REQUIRING MANDATORY AUTOPSY ON BODIES OF CRIME VICTIMS, DEATHS UNDER MYSTERIOUS AND SUSPICIOUS CIRCUMSTANCES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Autopsy",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3077427668!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-428"
 
 [[history]]
 date = "2019-07-15"

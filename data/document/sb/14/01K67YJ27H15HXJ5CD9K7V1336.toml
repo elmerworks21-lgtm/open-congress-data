@@ -6,7 +6,6 @@ name = "SBN-01971"
 [meta]
 bill_number = 1971
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1971", "https://web.senate.gov.ph/lisdata/66295871!.pdf",]
 title = "DRIVER'S PRIVACY PROTECTION ACT OF 2007"
 date_filed = "2007-12-18"
 long_title = "AN ACT TO PROVIDE PROTECTION OF PRIVACY OF INFORMATION IN MOTOR VEHICLE RECORDS"
@@ -15,6 +14,8 @@ subjects = [ "Motor Vehicle", "Drivers Privacy Protection",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/66295871!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1971"
 
 [[history]]
 date = "2007-12-18"

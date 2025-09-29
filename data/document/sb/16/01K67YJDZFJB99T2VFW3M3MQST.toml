@@ -6,7 +6,6 @@ name = "SBN-02550"
 [meta]
 bill_number = 2550
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2550", "https://web.senate.gov.ph/lisdata/2037417481!.pdf",]
 title = "FOOD ESTABLISHMENT SANITATION ACT OF 2014"
 date_filed = "2015-01-05"
 long_title = "AN ACT REQUIRING FOOD ESTABLISHMENTS TO COMPLY WITH SANITATION STANDARDS"
@@ -15,6 +14,8 @@ subjects = [ "Food Establishments", "Sanitation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2037417481!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2550"
 
 [[history]]
 date = "2015-01-05"

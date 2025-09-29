@@ -6,7 +6,6 @@ name = "SBN-01137"
 [meta]
 bill_number = 1137
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1137", "https://web.senate.gov.ph/lisdata/4770443724!.pdf",]
 title = "NATIONAL LAND USE ACT OF THE PHILIPPINES"
 date_filed = "2025-08-07"
 long_title = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Land Use",]
 authors_raw = "Ejercito, Jv"
 author_codes = ["JVEJE"]
 committee_codes = ["SDGIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4770443724!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1137"
 
 [[history]]
 date = "2025-08-07"

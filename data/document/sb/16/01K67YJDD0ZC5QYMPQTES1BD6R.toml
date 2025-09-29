@@ -6,7 +6,6 @@ name = "SBN-01731"
 [meta]
 bill_number = 1731
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1731", "https://web.senate.gov.ph/lisdata/1787615099!.pdf",]
 title = "THE FOREIGNERS LEASE ACT OF 2013"
 date_filed = "2013-09-24"
 long_title = "AN ACT STRENGTHENING THE RIGHTS OF FOREIGNERS TO LEASE PRIVATE LANDS, THEREBY REPEALING REPUBLIC ACT NO. 7652, ENTITLED 'AN ACT ALLOWING THE LONG-TERM LEASE OF PRIVATE LANDS BY FOREIGN INVESTORS', AND PRESIDENTIAL DECREE NO. 471, ENTITLED FIXING A MAXIMUM PERIOD FOR THE DURATION OF LEASES OF PRIVATE LANDS TO ALIENS"
@@ -15,6 +14,8 @@ subjects = [ "Foreign Investments",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1787615099!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1731"
 
 [[history]]
 date = "2013-09-24"

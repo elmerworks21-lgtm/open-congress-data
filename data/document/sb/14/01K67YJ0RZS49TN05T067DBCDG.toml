@@ -6,7 +6,6 @@ name = "SBN-00073"
 [meta]
 bill_number = 73
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-73", "https://web.senate.gov.ph/lisdata/41403543!.pdf",]
 title = "TOTAL LOG BAN"
 date_filed = "2007-06-30"
 long_title = "AN ACT TOTALLY BANNING LOGGING OPERATIONS FOR THE NEXT TWENTY-FIVE YEARS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Log Ban", "Logging Ban",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41403543!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-73"
 
 [[history]]
 date = "2007-06-30"

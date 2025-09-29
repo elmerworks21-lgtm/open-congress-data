@@ -6,7 +6,6 @@ name = "SBN-01354"
 [meta]
 bill_number = 1354
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1354", "https://web.senate.gov.ph/lisdata/1744814683!.pdf",]
 title = "INFLUENZA IMMUNIZATION"
 date_filed = "2013-08-22"
 long_title = "AN ACT PROVIDING FOR INFLUENZA IMMUNIZATION, EDUCATION, AND OUTREACH FOR CHILDREN"
@@ -15,6 +14,8 @@ subjects = [ "Influenza",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1744814683!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1354"
 
 [[history]]
 date = "2013-08-22"

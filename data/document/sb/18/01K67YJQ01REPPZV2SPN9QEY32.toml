@@ -6,7 +6,6 @@ name = "SBN-00905"
 [meta]
 bill_number = 905
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-905", "https://web.senate.gov.ph/lisdata/3124628144!.pdf",]
 title = "INCREASING SALARY GRADE LEVEL OF PUBLIC SCHOOL TEACHERS"
 date_filed = "2019-08-14"
 long_title = "AN ACT PROVIDING FOR A HIGHER SALARY GRADE LEVEL AND GRANTING RETIREMENT BENEFITS TO ALL PUBLIC SCHOOL TEACHERS AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Public School Teachers", "Salary Grade Level", "Retirement Benefit
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3124628144!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-905"
 
 [[history]]
 date = "2019-08-14"

@@ -6,7 +6,6 @@ name = "SBN-00517"
 [meta]
 bill_number = 517
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-517", "https://web.senate.gov.ph/lisdata/47264047!.pdf",]
 title = "SPECIAL EDUCATION ACT OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT ESTABLISHING AT LEAST ONE (1) SPECIAL EDUCATION (SPED) CENTER FOR EACH SCHOOL DIVISION AND AT LEAST THREE (3) SPED CENTERS IN EVERY SCHOOL DIVISIONS FOR CHILDREN WITH SPECIAL NEEDS (CSN), CREATING THE IMPLEMENTING MACHINERY THEREOF, PROVIDING GUIDELINES FOR GOVERNMENT FINANCIAL ASSISTANCE AND OTHER INCENTIVES AND SUPPORT AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Special Education (SPED)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47264047!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-517"
 
 [[history]]
 date = "2007-07-02"

@@ -6,7 +6,6 @@ name = "SBN-00017"
 [meta]
 bill_number = 17
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-17", "https://web.senate.gov.ph/lisdata/1582513062!.pdf",]
 title = "GOVERNMENT PROJECTS NAMED AFTER GOVERNMENT OFFICIALS, AS UNLAWFUL"
 date_filed = "2013-07-01"
 long_title = "AN ACT DECLARING AS UNLAWFUL ANY GOVERNMENT PROJECTS TO BE NAMED OR IDENTIFIED AFTER GOVERNMENT OFFICIALS AND OTHER PERSONS WHOSE NAME OR IDENTITY MAY IN ANY MANNER BE ASSOCIATED WITH SAID OFFICIALS"
@@ -15,6 +14,8 @@ subjects = [ "Government Projects",]
 authors_raw = "Escudero, Francis \"Chiz\" G."
 author_codes = ["EFRAN"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1582513062!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-17"
 
 [[history]]
 date = "2013-07-01"

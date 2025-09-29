@@ -6,7 +6,6 @@ name = "SBN-01483"
 [meta]
 bill_number = 1483
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1483", "https://web.senate.gov.ph/lisdata/26982063!.pdf",]
 title = "WOMEN'S PROTECTION ACT"
 date_filed = "2004-07-26"
 long_title = "AN ACT GRANTING WOMEN THE RIGHT TO KNOW WORK CONDITIONS AFFECTING THEIR HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Women`S Protection Act",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26982063!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1483"
 
 [[history]]
 date = "2004-07-26"

@@ -6,7 +6,6 @@ name = "SBN-02433"
 [meta]
 bill_number = 2433
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2433", "https://web.senate.gov.ph/lisdata/1994917067!.pdf",]
 title = "AMENDING SEC. 2, 3 & 8, RA NO. 6981 (WITNESS PROTECTION, SECURITY AND BENEFIT ACT)"
 date_filed = "2014-10-15"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6981, OTHERWISE KNOWN AS THE WITNESS PROTECTION, SECURITY AND BENEFIT ACT"
@@ -15,6 +14,8 @@ subjects = [ "Witness Protection",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1994917067!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2433"
 
 [[history]]
 date = "2014-10-15"

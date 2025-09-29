@@ -6,7 +6,6 @@ name = "SBN-00445"
 [meta]
 bill_number = 445
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-445", "https://web.senate.gov.ph/lisdata/79036705!.pdf",]
 title = "MUNICIPAL WATER, PART OF THE INTERNAL REVENUE ALLOTMENT COMPUTATION FOR MUNICIPALITIES"
 date_filed = "2010-07-06"
 long_title = "AN ACT MAKING MUNICIPAL WATER WITHIN THE FIFTEEN-KILOMETER RADIUS JURISDICTION PART OF THE INTERNAL REVENUE ALLOTMENT COMPUTATION FOR MUNICIPALITIES"
@@ -15,6 +14,8 @@ subjects = [ "Municipal Water",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79036705!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-445"
 
 [[history]]
 date = "2010-07-06"

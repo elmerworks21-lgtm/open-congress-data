@@ -6,7 +6,6 @@ name = "SBN-00243"
 [meta]
 bill_number = 243
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-243", "https://web.senate.gov.ph/lisdata/1400662!.pdf",]
 title = "NATIONAL IRRIGATION ADMINISTRATION (AMENDMENTS)"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING FOR THREE SMALL FARMERS' REPRESENTATIVES IN THE NATIONAL IRRIGATION ADMINISTRATION (NIA) BOARD BY AMENDING REPUBLIC ACT NUMBERED THIRTY-SIX HUNDRED AND ONE, AS AMENDED, `AN ACT CREATING THE NATIONAL IRRIGATION ADMINISTRATION', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Irrigation Administration (NIA)", "Farmer Empowerment (Ni
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1400662!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-243"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00968"
 [meta]
 bill_number = 968
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-968", "https://web.senate.gov.ph/lisdata/3877835233!.pdf",]
 title = "ABOGADO PARA SA BAYAN ACT"
 date_filed = "2022-08-01"
 long_title = "AN ACT TO ENCOURAGE MORE FILIPINO LAWYERS TO SERVE THE PEOPLE AND JOIN THE PUBLIC ATTORNEY'S OFFICE, ESTABLISHING FOR THE PURPOSE THE 'ABOGADO PARA SA BAYAN' RETURN SERVICE PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Abogado Para Sa Bayan", "Lawyers", "Public Attorneys Office (PAO)"
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3877835233!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-968"
 
 [[history]]
 date = "2022-08-01"

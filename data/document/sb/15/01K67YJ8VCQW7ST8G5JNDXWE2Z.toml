@@ -6,7 +6,6 @@ name = "SBN-02517"
 [meta]
 bill_number = 2517
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2517", "https://web.senate.gov.ph/lisdata/102098724!.pdf",]
 title = "SCHOOL NUTRITION AND BALANCED DIET ACT OF 2010"
 date_filed = "2010-09-14"
 long_title = "AN ACT TO IMPROVE THE NUTRITION QUALITY OF FOOD SERVED TO PRIMARY AND SECONDARY SCHOOL STUDENTS IN SCHOOL CANTEENS AND CAFETERIAS, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/102098724!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2517"
 
 [[history]]
 date = "2010-09-14"

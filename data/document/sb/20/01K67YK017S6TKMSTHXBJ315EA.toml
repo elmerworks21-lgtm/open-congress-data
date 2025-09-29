@@ -6,7 +6,6 @@ name = "SBN-00390"
 [meta]
 bill_number = 390
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-390", "https://web.senate.gov.ph/lisdata/4688242888!.pdf",]
 title = "MAGNA CARTA OF BARANGAY HEALTH WORKERS"
 date_filed = "2025-07-10"
 long_title = "AN ACT PROVIDING FOR THE MAGNA CARTA OF BARANGAY HEALTH WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta of Barangay Health Workers",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4688242888!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-390"
 
 [[history]]
 date = "2025-07-10"

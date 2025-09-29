@@ -6,7 +6,6 @@ name = "SBN-00256"
 [meta]
 bill_number = 256
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-256", "https://web.senate.gov.ph/lisdata/1415675!.pdf",]
 title = "SEAWEEDS & SEASHELLS PROTECTION AND CONSERVATION ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROTECT, CONSERVE AND REHABILITATE THE SEAWEEDS AND SEASHELLS RESOURCES IN ANY FORM AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Seaweeds/Seashells (Protection/Rehab.)", "Natural Resources Conser
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["AGRIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1415675!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-256"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00163"
 [meta]
 bill_number = 163
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-163", "https://web.senate.gov.ph/lisdata/13111100!.pdf",]
 title = "ISSUANCE OF THE CERTIFICATE OF VOTES"
 date_filed = "2004-06-30"
 long_title = "AN ACT REQUIRING THE PREPARATION AND ISSUANCE OF THE CERTIFICATE OF VOTES AS REPLICA OF THE ELECTION RETURNS AND PRESCRIBING A REVISED C.E. FORM NO. 13, AMENDING FOR THAT PURPOSE SECTION 215 OF THE OMNIBUS ELECTION CODE, AS AMENDED BY R.A. NO. 6646, SECTION 16"
@@ -15,6 +14,8 @@ subjects = [ "Certificate of Votes (Issuance)", "Omnibus Election Code (RA No. 6
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/13111100!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-163"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00077"
 [meta]
 bill_number = 77
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-77", "https://web.senate.gov.ph/lisdata/1205735!.pdf",]
 title = "TELECOMMUNICATIONS ACCESSIBILITY ENHANCEMENT ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING TELECOMMUNICATIONS SYSTEMS ACCESSIBILITY TO THE HEARING-IMPAIRED AND SPEECH-IMPAIRED"
@@ -15,6 +14,8 @@ subjects = [ "Telecommunications Accessibility", "Hearing-Impaired/Speech-Impair
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1205735!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-77"
 
 [[history]]
 date = "2004-06-30"

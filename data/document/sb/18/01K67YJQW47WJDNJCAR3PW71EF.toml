@@ -6,7 +6,6 @@ name = "SBN-02087"
 [meta]
 bill_number = 2087
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2087", "https://web.senate.gov.ph/lisdata/3463331452!.pdf",]
 title = "BLOODBORNE VIRAL HEPATITIES TESTING ACT OF 2021"
 date_filed = "2021-03-04"
 long_title = "AN ACT INSTITUTING A POLICY ON BLOODBORNE VIRAL HEPATITIS TESTING AND SCREENING"
@@ -15,6 +14,8 @@ subjects = [ "Hepatitis Testing and Screening", "Bloodborne Viral Hepatitis",]
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3463331452!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2087"
 
 [[history]]
 date = "2021-03-04"

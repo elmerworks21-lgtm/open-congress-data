@@ -6,7 +6,6 @@ name = "SBN-00285"
 [meta]
 bill_number = 285
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-285", "https://web.senate.gov.ph/lisdata/3054127331!.pdf",]
 title = "BICYCLE ACT OF 2019"
 date_filed = "2019-07-08"
 long_title = "AN ACT PROMOTING AND RECOGNIZING BICYCLES AS AN ALTERNATIVE MODE OF TRANSPORTATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Bicycle", "Transportation/Transport Sector",]
 authors_raw = "Cayetano, Pia S., Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["CPIAS", "PEMMA"]
 committee_codes = ["SDGIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3054127331!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-285"
 
 [[history]]
 date = "2019-07-08"

@@ -6,7 +6,6 @@ name = "SBN-02610"
 [meta]
 bill_number = 2610
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2610", "https://web.senate.gov.ph/lisdata/68965654!.pdf",]
 title = "POLITICAL PARTY SYSTEM"
 date_filed = "2007-02-07"
 long_title = "AN ACT STRENGTHENING THE POLITICAL PARTY SYSTEM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Political Party System (Strengthening)",]
 authors_raw = "Angara, Edgardo J., Recto, Ralph G., Pangilinan, Francis N., Ejercito-Estrada, Jinggoy P., Gordon, Richard \"Dick\" J., Drilon, Franklin M."
 author_codes = ["AEDGA", "DFRAN", "EJING", "GRICH", "PFRAN", "RRALP"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/68965654!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2610"
 
 [[history]]
 date = "2007-02-07"

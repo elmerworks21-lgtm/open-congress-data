@@ -6,7 +6,6 @@ name = "SBN-00979"
 [meta]
 bill_number = 979
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-979", "https://web.senate.gov.ph/lisdata/3878935244!.pdf",]
 title = "PHILIPPINE GERIATRIC MEDICAL CENTER ACT OR THE SENIOR CITIZENS' HOSPITAL ACT"
 date_filed = "2022-08-01"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE GERIATRIC MEDICAL CENTER, OTHERWISE KNOWN AS THE “SENIOR CITIZENS’ HOSPITAL”, AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Geriatric Health Center", "Senior Citizen/Elderly",]
 authors_raw = "Pimentel, Aquilino \"Koko\" III"
 author_codes = ["PAQUI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3878935244!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-979"
 
 [[history]]
 date = "2022-08-01"

@@ -6,7 +6,6 @@ name = "SBN-01052"
 [meta]
 bill_number = 1052
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1052", "https://web.senate.gov.ph/lisdata/22611393!.pdf",]
 title = "LAND ADMINISTRATION REFORM ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT INSTITUTIONALIZING REFORMS IN LAND ADMINISTRATION, CREATING FOR THE PURPOSE THE LAND ADMINISTRATION AUTHORITY AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Land Administration Reform Act",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/22611393!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1052"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-02309"
 [meta]
 bill_number = 2309
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2309", "https://web.senate.gov.ph/lisdata/1952416644!.pdf",]
 title = "SCHOOL NUTRITION AND DIETARY ACT OF 2014"
 date_filed = "2014-07-15"
 long_title = "AN ACT INSTITUTING A SCHOOL NOURISHMENT AND DIETARY PROGRAM TO ALL PUBLIC ELEMENTARY SCHOOL STUDENTS PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Nutrition", "Students",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1952416644!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2309"
 
 [[history]]
 date = "2014-07-15"

@@ -6,7 +6,6 @@ name = "SBN-02004"
 [meta]
 bill_number = 2004
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2004", "https://web.senate.gov.ph/lisdata/34302713!.pdf",]
 title = "LOCAL EMPLOYMENT AUTHORITY"
 date_filed = "2005-05-17"
 long_title = "AN ACT CREATING THE LOCAL EMPLOYMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Local Employment Authority (Creation)",]
 authors_raw = "Flavier, Juan M."
 author_codes = ["FJUAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34302713!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2004"
 
 [[history]]
 date = "2005-05-17"

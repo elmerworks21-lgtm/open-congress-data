@@ -6,7 +6,6 @@ name = "SBN-00459"
 [meta]
 bill_number = 459
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-459", "https://web.senate.gov.ph/lisdata/79336751!.pdf",]
 title = "APRIL 27 OF EVERY YEAR AS A SPECIAL NON-WORKING HOLIDAY, LAPU-LAPU DAY OR ADLAW NI LAPU LAPU"
 date_filed = "2010-07-06"
 long_title = "AN ACT TO DECLARE APRIL 27 OF EVERY YEAR AS A SPECIAL NON-WORKING HOLIDAY THROUGHOUT THE COUNTRY TO COMMEMORATE THE VICTORY OF LAPU-LAPU AND HIS MEN OVER THE SPANIARDS LED BY FERNANDO MAGALLANES IN THE HISTORIC BATTLE OF MACTAN ON APRIL 27, 1521, TO BE KNOWN AS LAPU-LAPU DAY OR ADLAW NI LAPU-LAPU"
@@ -15,6 +14,8 @@ subjects = [ "Holidays (Non-Working)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/79336751!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-459"
 
 [[history]]
 date = "2010-07-06"

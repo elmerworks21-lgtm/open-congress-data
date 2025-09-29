@@ -6,7 +6,6 @@ name = "SBN-02932"
 [meta]
 bill_number = 2932
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2932", "https://web.senate.gov.ph/lisdata/95058612!.pdf",]
 title = "POWERED EQUIPMENT NOISE REGULATION ACT OF 2008"
 date_filed = "2008-12-03"
 long_title = "AN ACT REGULATING THE USE OF POWERED EQUIPMENT IN RESIDENTIAL AREAS"
@@ -15,6 +14,8 @@ subjects = [ "Powered Equipment", "Noise Regulation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/95058612!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2932"
 
 [[history]]
 date = "2008-12-03"

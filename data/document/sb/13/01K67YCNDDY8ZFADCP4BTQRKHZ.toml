@@ -6,7 +6,6 @@ name = "SBN-00092"
 [meta]
 bill_number = 92
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-92", "https://web.senate.gov.ph/lisdata/1220756!.pdf",]
 title = "ANTI-PYRAMID PROMOTIONAL SCHEME ACT OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROHIBIT PYRAMID PROMOTIONAL SCHEMES"
@@ -15,6 +14,8 @@ subjects = [ "Anti-Pyramid Promotional Scheme Act", "Pyramiding Ban",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1220756!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-92"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-02214"
 [meta]
 bill_number = 2214
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2214", "https://web.senate.gov.ph/lisdata/4171237997!.pdf",]
 title = "AMENDING SEC. 4 OF R.A. NO. 10845 (ANTI-AGRICULTURAL SMUGGLING ACT OF 2016)"
 date_filed = "2023-05-18"
 long_title = "AN ACT AMENDING SECTION 4 OF REPUBLIC ACT NO. 10845 OTHERWISE KNOWN AS THE ANTI-AGRICULTURAL SMUGGLING ACT OF 2016, THEREBY IMPOSING DEATH PENALTY WHEN THE OFFENSE IS COMMITTED BY A PERSONNEL OF THE BUREAU OF CUSTOMS, THE ARMED FORCES OF THE PHILIPPINES, THE PHILIPPINE NATIONAL POLICE, OR ANY OTHER UNIFORMED OR LAW ENFORCEMENT AGENCY"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Smuggling", "Death Penalty", "Bureau of Customs", "Ph
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4171237997!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2214"
 
 [[history]]
 date = "2023-05-18"

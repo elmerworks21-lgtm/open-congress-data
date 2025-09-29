@@ -6,7 +6,6 @@ name = "SBN-00023"
 [meta]
 bill_number = 23
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-23", "https://web.senate.gov.ph/lisdata/1583113068!.pdf",]
 title = "LABOR CODE OF THE PHILIPPINES, AMENDMENT REDUCING MEMBERSHIP REQUIREMENTS FOR UNIONS TO 10%"
 date_filed = "2013-07-01"
 long_title = "AN ACT FURTHER STRENGTHENING WORKERS’ RIGHT TO SELF-ORGANIZATION, AMENDING FOR THIS PURPOSE ARTICLES 234, 235, 236 AND 237 OF PRESIDENTIAL DECREE NO. 442, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code of the Philippines (P.D.No. 442)",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1583113068!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-23"
 
 [[history]]
 date = "2013-07-01"

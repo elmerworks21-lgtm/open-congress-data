@@ -6,7 +6,6 @@ name = "SBN-00534"
 [meta]
 bill_number = 534
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-534", "https://web.senate.gov.ph/lisdata/4708943089!.pdf",]
 title = "AMENDING R.A. NO. 11900 (VAPORIZED NICOTINE AND NON-NICOTINE PRODUCTS REGULATION ACT)"
 date_filed = "2025-07-14"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 11900, OTHERWISE KNOWN AS THE 'VAPORIZED NICOTINE AND NON-NICOTINE PRODUCTS REGULATION ACT'"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Vaporized Nicotine Products", "Vape",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4708943089!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-534"
 
 [[history]]
 date = "2025-07-14"

@@ -6,7 +6,6 @@ name = "SBN-02168"
 [meta]
 bill_number = 2168
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2168", "https://web.senate.gov.ph/lisdata/71246358!.pdf",]
 title = "CRIME OF BETRAYAL OF DUTY IN THE CUSTODY OF PRISONERS"
 date_filed = "2008-04-17"
 long_title = "AN ACT DEFINING THE CRIME OF BETRAYAL OF DUTY IN THE CUSTODY OF PRISONERS PROVIDING FOR ADDITIONAL RULES ON THE IMPRISONMENT, DETENTION, CONFINEMENT AND CUSTODY OF PRISONERS AND DETAINEES, SPECIFYING ADDITIONAL WORK AND RESPONSIBILITIES OF GOVERNMENT PERSONNEL CHARGED WITH THE CUSTODY OF SUCH PRISONERS AND STATING THE PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners", "Custodial Infidelity",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/71246358!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2168"
 
 [[history]]
 date = "2008-04-17"

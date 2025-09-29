@@ -6,7 +6,6 @@ name = "SBN-00072"
 [meta]
 bill_number = 72
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-72", "https://web.senate.gov.ph/lisdata/1200717!.pdf",]
 title = "TAX EXEMPTION - EDUCATIONAL EXPENSES INCURRED BY TAXPAYERS"
 date_filed = "2004-06-30"
 long_title = "AN ACT PROVIDING TAX EXEMPTION ON THE EDUCATIONAL EXPENSES INCURRED BY A TAXPAYER, AMENDING SECTION 35 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Tax Exemption-Educational Expense", "National Internal Reve
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1200717!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-72"
 
 [[history]]
 date = "2004-06-30"

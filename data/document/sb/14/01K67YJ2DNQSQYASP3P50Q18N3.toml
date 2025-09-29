@@ -6,7 +6,6 @@ name = "SBN-02222"
 [meta]
 bill_number = 2222
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2222", "https://web.senate.gov.ph/lisdata/72046440!.pdf",]
 title = "PUBLIC OFFICERS AND EMPLOYEES SMOKING BAN ACT OF 2008"
 date_filed = "2008-04-29"
 long_title = "AN ACT BANNING PUBLIC OFFICERS AND EMPLOYEES FROM SMOKING WITHIN THE WORK PREMISES DURING OFFICIAL WORK HOURS AND PROVIDING PENALTIES THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Smoking Ban",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/72046440!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2222"
 
 [[history]]
 date = "2008-04-29"

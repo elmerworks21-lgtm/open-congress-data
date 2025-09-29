@@ -6,7 +6,6 @@ name = "SBN-00352"
 [meta]
 bill_number = 352
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-352", "https://web.senate.gov.ph/lisdata/76546174!.pdf",]
 title = "FOOD SAFETY MODERNIZATION ACT OF 2010"
 date_filed = "2010-07-06"
 long_title = "AN ACT TO ESTABLISH THE FOOD SAFETY ADMINISTRATION WITHIN THE DEPARTMENT OF HEALTH TO PROTECT THE PUBLIC HEALTH BY PREVENTING FOOD-BORNE ILLNESS, ENSURING THE SAFETY OF FOOD, IMPROVING RESEARCH ON CONTAMINANTS LEADING TO FOOD-BORNE ILLNESS, AND IMPROVING SECURITY OF FOOD FROM INTENTIONAL CONTAMINATION, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Food Safety",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/76546174!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-352"
 
 [[history]]
 date = "2010-07-06"

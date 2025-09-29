@@ -6,7 +6,6 @@ name = "SBN-02332"
 [meta]
 bill_number = 2332
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2332", "https://web.senate.gov.ph/lisdata/54584478!.pdf",]
 title = "MOTHER-CHILD FRIENDLY FACILITY ACT"
 date_filed = "2006-06-07"
 long_title = "AN ACT MANDATING THE ESTABLISHMENT OF A FACILITY FOR NON-SCHOOL AGE CHILDREN IN PRIVATE COMPANIES EMPLOYING AT LEAST 100 WOMEN WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Facility for Non-School Age Children (Private Companies)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/54584478!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2332"
 
 [[history]]
 date = "2006-06-07"

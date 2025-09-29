@@ -6,7 +6,6 @@ name = "SBN-02578"
 [meta]
 bill_number = 2578
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2578", "https://web.senate.gov.ph/lisdata/103418867!.pdf",]
 title = "BARANGAY TANODS MONTHLY ALLOWANCE"
 date_filed = "2010-11-04"
 long_title = "AN ACT GRANTING ONE THOUSAND (P1,000.00) PESOS MONTHLY ALLOWANCE TO ALL BARANGAY TANODS AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Barangay Tanod Brigades",]
 authors_raw = "Villar, Manny B."
 author_codes = ["VMANN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/103418867!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2578"
 
 [[history]]
 date = "2010-11-04"

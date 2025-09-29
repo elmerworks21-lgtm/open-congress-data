@@ -6,7 +6,6 @@ name = "SBN-02259"
 [meta]
 bill_number = 2259
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2259", "https://web.senate.gov.ph/lisdata/53474384!.pdf",]
 title = "ONE-TIME TAX AMNESTY"
 date_filed = "2006-06-05"
 long_title = "AN ACT DECLARING A ONE-TIME AMNESTY ON CERTAIN TAX AND DUTY LIABILITIES, INCLUSIVE OF FEES, FINES, PENALTIES, INTERESTS AND OTHER ADDITIONS THERETO, INCURRED BY CERTAIN BUSINESS ENTERPRISES OPERATING WITHIN THE SPECIAL ECONOMIC ZONES AND FREEPORTS CREATED UNDER EXECUTIVE ORDER NO. 80, SERIES OF 1993; PROCLAMATION NO. 216, SERIES OF 1993; PROCLAMATION NO. 420, SERIES OF 1994; AND PROCLAMATION NO. 984, SERIES OF 1997, PURSUANT TO SECTION 15 OF REPUBLIC ACT NO. 7227, AS AMENDED, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "One-Time Tax Amnesty", "Tax Amnesty (One-Time)", "Special Economic
 authors_raw = "Recto, Ralph G., Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH", "RRALP"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/53474384!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2259"
 
 [[history]]
 date = "2006-06-05"

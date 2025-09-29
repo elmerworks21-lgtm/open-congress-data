@@ -6,7 +6,6 @@ name = "SBN-00705"
 [meta]
 bill_number = 705
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-705", "https://web.senate.gov.ph/lisdata/4723643235!.pdf",]
 title = "REVISED NATIONAL APPRENTICESHIP PROGRAM ACT"
 date_filed = "2025-07-17"
 long_title = "AN ACT PROVIDING FOR A REVISED NATIONAL APPRENTICESHIP PROGRAM REPEALING FOR THE PURPOSE CHAPTERS I AND II OF TITLE II, BOOK II OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "National Apprenticeship Program",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4723643235!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-705"
 
 [[history]]
 date = "2025-07-17"

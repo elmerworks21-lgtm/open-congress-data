@@ -6,7 +6,6 @@ name = "SBN-02682"
 [meta]
 bill_number = 2682
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2682", "https://web.senate.gov.ph/lisdata/2072717827!.pdf",]
 title = "FAMILIES BEYOND BARS ACT"
 date_filed = "2015-03-09"
 long_title = "AN ACT TO AUTHORIZE A PROGRAM TO PROVIDE GRANTS TO NONPROFIT ORGANIZATIONS THAT CARRY OUT CHILD-PARENT VISITATION PROGRAMS FOR CHILDREN WITH INCARCERATED PARENTS"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners/Inmates", "Parents",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2072717827!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2682"
 
 [[history]]
 date = "2015-03-09"

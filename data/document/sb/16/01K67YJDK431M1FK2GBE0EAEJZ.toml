@@ -6,7 +6,6 @@ name = "SBN-02040"
 [meta]
 bill_number = 2040
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2040", "https://web.senate.gov.ph/lisdata/1844915615!.pdf",]
 title = "AMENDING SECS. 1, 2, RA 6850 (CIVIL SERVICE ELIGIBILITY TO GOVERNMENT EMPLOYEES)"
 date_filed = "2013-12-11"
 long_title = "AN ACT AMENDING SECTIONS 1 AND 2 OF REPUBLIC ACT NO. 6850, OTHERWISE KNOWN AS AN ACT TO GRANT CIVIL SERVICE ELIGIBILITY UNDER CERTAIN CONDITIONS TO GOVERNMENT EMPLOYEES APPOINTED UNDER PROVISIONAL OR TEMPORARY STATUS WHO HAVE RENDERED A TOTAL OF THREE (3) YEARS OF EFFICIENT SERVICE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Service Eligibility", "Government Employees (Casual/Contract
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1844915615!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2040"
 
 [[history]]
 date = "2013-12-11"

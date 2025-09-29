@@ -6,7 +6,6 @@ name = "SBN-01610"
 [meta]
 bill_number = 1610
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1610", "https://web.senate.gov.ph/lisdata/28462223!.pdf",]
 title = "WORKERS PREFERENCE IN CASE OF BANKRUPTCY"
 date_filed = "2004-08-03"
 long_title = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 442, AS AMENDED, ALSO KNOWN AS THE LABOR CODE OF THE PHILIPPINES, ARTICLE 110"
@@ -15,6 +14,8 @@ subjects = [ "Labor Code (Art 110; P.D. 442 as Amended", "Bankruptcy/Workers Pre
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/28462223!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1610"
 
 [[history]]
 date = "2004-08-03"

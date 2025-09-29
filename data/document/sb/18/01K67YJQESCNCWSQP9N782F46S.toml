@@ -6,7 +6,6 @@ name = "SBN-01528"
 [meta]
 bill_number = 1528
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1528", "https://web.senate.gov.ph/lisdata/3275329616!.pdf",]
 title = "MANDATORY REPORTING OF NOTIFIABLE DISEASES AND HEALTH EVENTS OF PUBLIC CONCERN"
 date_filed = "2020-05-13"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 11332, OTHERWISE KNOWN AS THE ‘MANDATORY REPORTING OF NOTIFIABLE DISEASES AND HEALTH EVENTS OF PUBLIC HEALTH CONCERN ACT’"
@@ -15,6 +14,8 @@ subjects = [ "Infectious Disease", "Healthcare Workers", "Department of Health (
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3275329616!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1528"
 
 [[history]]
 date = "2020-05-13"

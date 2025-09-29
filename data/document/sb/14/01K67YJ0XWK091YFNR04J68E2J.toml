@@ -6,7 +6,6 @@ name = "SBN-00282"
 [meta]
 bill_number = 282
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-282", "https://web.senate.gov.ph/lisdata/43823785!.pdf",]
 title = "PRISON WORK ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT TO REHABILITATE AND REFORM PRISONERS THROUGH PRISON WORK AND ALLOW THE PRODUCTIVE ENGAGEMENT OF QUALIFIED PRISONERS IN REFORESTATION, INFRASTRUCTURE, AND GOVERNMENT PROJECTS"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43823785!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-282"
 
 [[history]]
 date = "2007-06-30"

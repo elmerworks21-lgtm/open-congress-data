@@ -6,7 +6,6 @@ name = "SBN-02032"
 [meta]
 bill_number = 2032
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2032", "https://web.senate.gov.ph/lisdata/67465993!.pdf",]
 title = "PERSONAL PRIVATE SECURITY GUARDS, CHARGING SALARIES TO THE GOVERNMENT"
 date_filed = "2008-01-29"
 long_title = "AN ACT PROHIBITING PUBLIC OFFICERS, EMPLOYEES AND THEIR FAMILIES FROM CHARGING TO THE GOVERNMENT THE SALARIES OF THEIR PERSONAL PRIVATE SECURITY GUARDS"
@@ -14,6 +13,8 @@ scope = "National"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67465993!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2032"
 
 [[history]]
 date = "2008-01-29"

@@ -6,7 +6,6 @@ name = "SBN-00107"
 [meta]
 bill_number = 107
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-107", "https://web.senate.gov.ph/lisdata/3034727205!.pdf",]
 title = "PHILIPPINE IMMIGRATION ACT"
 date_filed = "2019-07-01"
 long_title = "PHILIPPINE IMMIGRATION ACT"
@@ -15,6 +14,8 @@ subjects = [ "Immigration Act",]
 authors_raw = "Zubiri, Juan Miguel \"Migz\" F."
 author_codes = ["ZJMIG"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3034727205!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-107"
 
 [[history]]
 date = "2019-07-01"

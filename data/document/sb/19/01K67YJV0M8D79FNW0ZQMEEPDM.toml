@@ -6,7 +6,6 @@ name = "SBN-00206"
 [meta]
 bill_number = 206
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-206", "https://web.senate.gov.ph/lisdata/3791434357!.pdf",]
 title = "FILIPINO FARMERS FINANCIAL ASSISTANCE PROGRAM ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING DIRECT FINANCIAL ASSISTANCE TO FILIPINO FARMERS, ESTABLISHING FOR THE PURPOSE ‘THE FILIPINO FARMERS FINANCIAL ASSISTANCE PROGRAM’, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Farmers", "Financial Assistance",]
 authors_raw = "Dela Rosa, Ronald \"Bato\""
 author_codes = ["DRONA"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3791434357!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-206"
 
 [[history]]
 date = "2022-07-07"

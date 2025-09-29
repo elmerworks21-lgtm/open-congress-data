@@ -6,7 +6,6 @@ name = "SBN-00569"
 [meta]
 bill_number = 569
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-569", "https://web.senate.gov.ph/lisdata/3085227816!.pdf",]
 title = "MOTORCYCLE SAFETY TRAINING ACT OF 2019"
 date_filed = "2019-07-17"
 long_title = "AN ACT MANDATING THE MOTORCYCLE SAFETY TRAINING PROGRAM TO BE INCLUDED IN THE REQUIREMENTS FOR THE REGISTRATION OF MOTORCYCLES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Motorcycle", "Safety Education and Awareness",]
 authors_raw = "Binay, Maria Lourdes Nancy S."
 author_codes = ["BMARI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3085227816!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-569"
 
 [[history]]
 date = "2019-07-17"

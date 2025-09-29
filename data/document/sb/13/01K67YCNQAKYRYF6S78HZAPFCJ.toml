@@ -6,7 +6,6 @@ name = "SBN-00639"
 [meta]
 bill_number = 639
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-639", "https://web.senate.gov.ph/lisdata/18251200!.pdf",]
 title = "PHILIPPINE OVERSEAS WORKERS BANK"
 date_filed = "2004-06-30"
 long_title = "AN ACT CREATING THE PHILIPPINE OVERSEAS WORKERS BANK, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Overseas Workers Bank",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/18251200!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-639"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01008"
 [meta]
 bill_number = 1008
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1008", "https://web.senate.gov.ph/lisdata/2458221165!.pdf",]
 title = "WILFUL OR INDISCRIMINATE DISCHARGE OF FIREARMS"
 date_filed = "2016-08-08"
 long_title = "AN ACT PROVIDING FOR STIFFER PENALTIES FOR WILFUL OR INDISCRIMINATE DISCHARGE OF FIREARMS, AMENDING FOR THE PURPOSE ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Firearms", "Revised Penal Code (R.A.No. 3815)",]
 authors_raw = "Gatchalian, Sherwin T."
 author_codes = ["GSHER"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2458221165!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1008"
 
 [[history]]
 date = "2016-08-08"

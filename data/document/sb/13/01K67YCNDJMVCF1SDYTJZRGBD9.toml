@@ -6,7 +6,6 @@ name = "SBN-00100"
 [meta]
 bill_number = 100
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-100", "https://web.senate.gov.ph/lisdata/1228963!.pdf",]
 title = "UNDERPRIVILEGED COLLEGE STUDENTS DISCOUNT ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT GRANTING DISCOUNTS TO UNDERPRIVILEGED COLLEGE STUDENTS ON BASIC AND EDUCATION SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Discount Privileges (College Students)", "Students (Underprivilege
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1228963!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-100"
 
 [[history]]
 date = "2004-06-30"

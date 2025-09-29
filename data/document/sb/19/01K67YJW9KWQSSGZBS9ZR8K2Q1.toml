@@ -6,7 +6,6 @@ name = "SBN-02012"
 [meta]
 bill_number = 2012
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2012", "https://web.senate.gov.ph/lisdata/4121137516!.pdf",]
 title = "BARANGAY LIBUTON (MUNICIPALITY OF SAWATA, PROVINCE OF DAVAO DEL NORTE)"
 date_filed = "2023-03-15"
 long_title = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY LIBUTON IN THE MUNICIPALITY OF SAWATA, PROVINCE OF DAVAO DEL NORTE"
@@ -15,6 +14,8 @@ subjects = [ "Barangay, Creation",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["RULES"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4121137516!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2012"
 
 [[history]]
 date = "2023-03-15"

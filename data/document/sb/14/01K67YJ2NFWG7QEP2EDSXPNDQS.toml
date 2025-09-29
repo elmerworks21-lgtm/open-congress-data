@@ -6,7 +6,6 @@ name = "SBN-02560"
 [meta]
 bill_number = 2560
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2560", "https://web.senate.gov.ph/lisdata/81487374!.pdf",]
 title = "FIVE YEAR MORATORIUM ON TUITION AND SCHOOL FEE INCREASE"
 date_filed = "2008-08-26"
 long_title = "AN ACT AMENDING SECTION 38 OF BATAS PAMBANSA BLG. 232, OTHERWISE KNOWN AS THE 'EDUCATION ACT OF 1982', BY IMPOSING A FIVE-YEAR MORATORIUM ON TUITION AND OTHER SCHOOL FEE INCREASE ON ALL STATE UNIVERSITIES AND COLLEGES"
@@ -15,6 +14,8 @@ subjects = [ "Tuition Fees (Moratorium)",]
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/81487374!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2560"
 
 [[history]]
 date = "2008-08-26"

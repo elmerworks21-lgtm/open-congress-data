@@ -6,7 +6,6 @@ name = "SBN-00494"
 [meta]
 bill_number = 494
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-494", "https://web.senate.gov.ph/lisdata/3071927563!.pdf",]
 title = "AMENDING THE PROVISION ON THE 'SITUS OF THE TAX' UNDER SEC. 150 OF R.A.NO. 7160"
 date_filed = "2019-07-15"
 long_title = "AN ACT AMENDING SECTION 150 OF REPUBLIC ACT 7160 , OTHERWISE KNOWN AS 'THE LOCAL GOVERNMENT CODE OF 1991'"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code (R.A.No. 7160)", "Taxes/Taxation",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3071927563!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-494"
 
 [[history]]
 date = "2019-07-15"

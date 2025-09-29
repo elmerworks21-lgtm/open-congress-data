@@ -6,7 +6,6 @@ name = "SBN-02492"
 [meta]
 bill_number = 2492
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2492", "https://web.senate.gov.ph/lisdata/3708533444!.pdf",]
 title = "REVISED HIGHER EDUCATION ACT OF 2022"
 date_filed = "2022-01-25"
 long_title = "AN ACT STRENGTHENING THE COMMISSION ON HIGHER EDUCATION, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 7722, OTHERWISE KNOWN AS THE 'HIGHER EDUCATON ACT OF 1994', AND FOR OTHER PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Higher Education Act",]
 authors_raw = "Villanueva, Joel, Cayetano, Pia S., Angara, Sonny"
 author_codes = ["ASONN", "CPIAS", "VEMMA"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3708533444!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2492"
 
 [[history]]
 date = "2022-01-25"

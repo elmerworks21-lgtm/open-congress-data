@@ -6,7 +6,6 @@ name = "SBN-00287"
 [meta]
 bill_number = 287
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-287", "https://web.senate.gov.ph/lisdata/4677642783!.pdf",]
 title = "NATIONAL LAND USE ACT OF 2025"
 date_filed = "2025-07-09"
 long_title = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Land Use",]
 authors_raw = "Pangilinan, Francis \"Kiko\" N."
 author_codes = ["PFRAN"]
 committee_codes = ["SDGIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4677642783!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-287"
 
 [[history]]
 date = "2025-07-09"

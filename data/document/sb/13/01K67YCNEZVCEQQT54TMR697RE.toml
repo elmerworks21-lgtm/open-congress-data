@@ -6,7 +6,6 @@ name = "SBN-00179"
 [meta]
 bill_number = 179
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-179", "https://web.senate.gov.ph/lisdata/13271126!.pdf",]
 title = "DEFINING AGRICULTURAL LANDS TO INCLUDE IDLE IRRIGABLE LANDS"
 date_filed = "2004-06-30"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6657, ALSO KNOWN AS THE COMPREHENSIVE AGRARIAN REFORM LAW, SECTION 3 (C)"
@@ -15,6 +14,8 @@ subjects = [ "Comprehensive Agrarian Reform (CARL)", "Agricultural Lands (Irriga
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["AGRAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/13271126!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-179"
 
 [[history]]
 date = "2004-06-30"

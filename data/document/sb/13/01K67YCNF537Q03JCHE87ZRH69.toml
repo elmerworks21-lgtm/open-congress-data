@@ -6,7 +6,6 @@ name = "SBN-00188"
 [meta]
 bill_number = 188
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-188", "https://web.senate.gov.ph/lisdata/13361140!.pdf",]
 title = "TEACHER'S HOUSING PROGRAM"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO PROVIDE FOR A HOUSING PROGRAM FOR TEACHERS"
@@ -15,6 +14,8 @@ subjects = [ "Teacher`S Housing Program",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P., Angara, Edgardo J."
 author_codes = ["AEDGA", "ELUIS"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/13361140!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-188"
 
 [[history]]
 date = "2004-06-30"

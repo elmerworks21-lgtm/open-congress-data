@@ -6,7 +6,6 @@ name = "SBN-01418"
 [meta]
 bill_number = 1418
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1418", "https://web.senate.gov.ph/lisdata/2580722186!.pdf",]
 title = "VOLUNTEER PROTECTION ACT OF 2017"
 date_filed = "2017-05-02"
 long_title = "AN ACT TO ENCOURAGE VOLUNTEERISM BY PROTECTING VOLUNTEERS FROM LIABILITY IN THE PERFORMANCE OF VOLUNTEER SERVICES"
@@ -15,6 +14,8 @@ subjects = [ "Volunteers",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2580722186!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1418"
 
 [[history]]
 date = "2017-05-02"

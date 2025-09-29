@@ -6,7 +6,6 @@ name = "SBN-00183"
 [meta]
 bill_number = 183
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-183", "https://web.senate.gov.ph/lisdata/13311132!.pdf",]
 title = "WOMEN'S WORK PROTECTION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT GRANTING WOMEN THE RIGHT TO KNOW WORK CONDITIONS AFFECTING THEIR HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Women`S Work Protection Act",]
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/13311132!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-183"
 
 [[history]]
 date = "2004-06-30"

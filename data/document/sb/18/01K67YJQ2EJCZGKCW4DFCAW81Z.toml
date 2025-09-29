@@ -6,7 +6,6 @@ name = "SBN-01018"
 [meta]
 bill_number = 1018
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1018", "https://web.senate.gov.ph/lisdata/3144428341!.pdf",]
 title = "ROAD CRASH VICTIMS REMEMBRANCE DAY"
 date_filed = "2019-09-09"
 long_title = "AN ACT DESIGNATING THE THIRD SUNDAY OF NOVEMBER AS THE PHILIPPINE DAY OF REMEMBRANCE FOR ROAD CRASH VICTIMS, SURVIVORS AND FAMILIES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Road Crash Victims",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3144428341!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1018"
 
 [[history]]
 date = "2019-09-09"

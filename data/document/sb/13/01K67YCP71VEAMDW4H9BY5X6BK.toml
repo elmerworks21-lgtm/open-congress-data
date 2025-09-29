@@ -6,7 +6,6 @@ name = "SBN-01499"
 [meta]
 bill_number = 1499
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1499", "https://web.senate.gov.ph/lisdata/27142079!.pdf",]
 title = "RESTORING THE ORIGINAL ARTICLE 73 OF THE FAMILY CODE"
 date_filed = "2004-07-26"
 long_title = "AN ACT AMENDING EXECUTIVE ORDER NO. 209, ALSO KNOWN AS THE FAMILY CODE OF THE PHILIPPINES, ARTICLE 73"
@@ -15,6 +14,8 @@ subjects = [ "Family Code (Restoring Art. 73)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/27142079!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1499"
 
 [[history]]
 date = "2004-07-26"

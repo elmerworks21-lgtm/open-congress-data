@@ -6,7 +6,6 @@ name = "SBN-00901"
 [meta]
 bill_number = 901
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-901", "https://web.senate.gov.ph/lisdata/3124028137!.pdf",]
 title = "ADOPT-A-WILDLIFE SPECIES ACT"
 date_filed = "2019-08-13"
 long_title = "AN ACT ESTABLISHING AN 'ADOPT-A -WILDLIFE SPECIES PROGRAM', PROVIDING INCENTIVES THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Wildlife", "Endangered Species",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3124028137!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-901"
 
 [[history]]
 date = "2019-08-13"

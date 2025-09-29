@@ -6,7 +6,6 @@ name = "SBN-02007"
 [meta]
 bill_number = 2007
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2007", "https://web.senate.gov.ph/lisdata/34332733!.pdf",]
 title = "NATIONAL BIOFUEL PROGRAM"
 date_filed = "2005-05-18"
 long_title = "AN ACT TO MANDATE THE USE OF BIOFUELS IN THE TRANSPORT SECTOR, ESTABLISHING FOR TH PURPOSE THE NATIONAL BIOFUEL PROGRAM, APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "National Biofuel Programs",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34332733!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2007"
 
 [[history]]
 date = "2005-05-18"

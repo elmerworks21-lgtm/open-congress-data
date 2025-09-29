@@ -6,7 +6,6 @@ name = "SBN-02026"
 [meta]
 bill_number = 2026
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2026", "https://web.senate.gov.ph/lisdata/4127337600!.pdf",]
 title = "ESTABLISHING A CENTER FOR AUTISM"
 date_filed = "2023-03-21"
 long_title = "AN ACT ESTABLISHING A CENTER FOR AUTISM AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Autism",]
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EJOSE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4127337600!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2026"
 
 [[history]]
 date = "2023-03-21"

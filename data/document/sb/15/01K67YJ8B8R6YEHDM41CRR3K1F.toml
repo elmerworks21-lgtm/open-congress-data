@@ -6,7 +6,6 @@ name = "SBN-01768"
 [meta]
 bill_number = 1768
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1768", "https://web.senate.gov.ph/lisdata/93327874!.pdf",]
 title = "GUN SAFETY EDUCATION ACT"
 date_filed = "2010-07-21"
 long_title = "AN ACT REQUIRING THE DEPARTMENT OF EDUCATION TO DEVELOP A GUN SAFETY EDUCATION PROGRAM AND INCLUDE THIS IN THE CURRICULUM OF ALL ELEMENTARY AND SECONDARY SCHOOLS"
@@ -15,6 +14,8 @@ subjects = [ "Department of Education, Culture and Sports (DepEd)", "Curriculum"
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/93327874!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-1768"
 
 [[history]]
 date = "2010-07-21"

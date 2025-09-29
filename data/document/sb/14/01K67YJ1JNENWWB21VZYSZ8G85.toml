@@ -6,7 +6,6 @@ name = "SBN-01300"
 [meta]
 bill_number = 1300
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1300", "https://web.senate.gov.ph/lisdata/56004912!.pdf",]
 title = "PROVIDING THAT 40% OF 5 NOMINEES FOR REGISTERED PARTY-LIST ORGANIZATION ARE WOMEN"
 date_filed = "2007-07-18"
 long_title = "AN ACT AMENDING REPUBLIC ACT SEVENTY-NINE FORTY-ONE, OTHERWISE KNOWN AS THE PARTY LIST SYSTEM ACT"
@@ -15,6 +14,8 @@ subjects = [ "Party List System (RA 7971)", "Womens Sectoral Representation",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56004912!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1300"
 
 [[history]]
 date = "2007-07-04"

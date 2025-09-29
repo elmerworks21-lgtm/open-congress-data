@@ -6,7 +6,6 @@ name = "SBN-00869"
 [meta]
 bill_number = 869
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-869", "https://web.senate.gov.ph/lisdata/4743943443!.pdf",]
 title = "PHILIPPINE BLOOD CENTER ACT"
 date_filed = "2025-08-04"
 long_title = "AN ACT INSTITUTIONALIZING THE PHILIPPINE BLOOD CENTER AND REGIONAL BLOOD CENTERS AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Philippine Blood Center",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4743943443!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-869"
 
 [[history]]
 date = "2025-08-04"

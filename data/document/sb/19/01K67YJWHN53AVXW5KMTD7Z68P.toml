@@ -6,7 +6,6 @@ name = "SBN-02344"
 [meta]
 bill_number = 2344
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2344", "https://web.senate.gov.ph/lisdata/4220338393!.pdf",]
 title = "CROWDSOURCING IN LEGISLATIVE POLICYMAKING ACT"
 date_filed = "2023-07-24"
 long_title = "AN ACT ESTABLISHING A FRAMEWORK FOR CITIZENS PARTICIPATION IN LEGISLATIVE POLICYMAKING THROUGH THE USE OF INFORMATION AND COMMUNICATIONS TECHNOLOGY PLATFORMS"
@@ -15,6 +14,8 @@ subjects = [ "Legislative Policymaking", "Crowdsourcing", "Information and Commu
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4220338393!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2344"
 
 [[history]]
 date = "2023-07-24"

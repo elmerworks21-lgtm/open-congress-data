@@ -6,7 +6,6 @@ name = "SBN-02259"
 [meta]
 bill_number = 2259
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2259", "https://web.senate.gov.ph/lisdata/98468394!.pdf",]
 title = "ANTI-STUDENT EXTORTION ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT PENALIZING REFUSAL TO ENROLL STUDENTS, RELEASE CARDS AND OTHER DOCUMENTS FOR CLEARANCE PURPOSES, IN PUBLIC SCHOOLS FOR FAILURE TO PAY MISCELLANEOUS AND OTHER FEES"
@@ -15,6 +14,8 @@ subjects = [ "Students",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98468394!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2259"
 
 [[history]]
 date = "2010-08-02"

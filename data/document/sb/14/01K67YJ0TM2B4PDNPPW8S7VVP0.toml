@@ -6,7 +6,6 @@ name = "SBN-00147"
 [meta]
 bill_number = 147
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-147", "https://web.senate.gov.ph/lisdata/42453633!.pdf",]
 title = "POLITICAL TURNCOATISM"
 date_filed = "2007-06-30"
 long_title = "AN ACT DEFINING AND PUNISHING POLITICAL TURNCOATS AND OPPORTUNISTS"
@@ -15,6 +14,8 @@ subjects = [ "Political Turncoatism",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42453633!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-147"
 
 [[history]]
 date = "2007-06-30"

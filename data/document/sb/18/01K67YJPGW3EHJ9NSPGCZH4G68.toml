@@ -6,7 +6,6 @@ name = "SBN-00203"
 [meta]
 bill_number = 203
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-203", "https://web.senate.gov.ph/lisdata/3046127339!.pdf",]
 title = "NATIONAL HOUSING DEVELOPMENT, PRODUCTION AND FINANCING (NHDPF) ACT OF 2020"
 date_filed = "2019-07-02"
 long_title = "AN ACT PROVIDING FOR A NATIONAL HOUSING DEVELOPMENT, PRODUCTION AND FINANCING PROGRAM, REGULARIZING ITS APPROPRIATION FOR ITS IMPLEMENTATION"
@@ -15,6 +14,8 @@ subjects = [ "National Housing Development, Production and Financing (Nhdpf)", "
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3046127339!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-203"
 
 [[history]]
 date = "2019-07-02"

@@ -6,7 +6,6 @@ name = "SBN-00987"
 [meta]
 bill_number = 987
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-987", "https://web.senate.gov.ph/lisdata/4744543449!.pdf",]
 title = "NATIONAL LAND USE POLICY"
 date_filed = "2025-08-06"
 long_title = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Land Use",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["SDGIF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4744543449!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-987"
 
 [[history]]
 date = "2025-08-06"

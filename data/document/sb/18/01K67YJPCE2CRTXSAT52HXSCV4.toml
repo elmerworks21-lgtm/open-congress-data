@@ -6,7 +6,6 @@ name = "SBN-00010"
 [meta]
 bill_number = 10
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-10", "https://web.senate.gov.ph/lisdata/3022627055!.pdf",]
 title = "14TH MONTH PAY LAW"
 date_filed = "2019-07-01"
 long_title = "AN ACT REQUIRING EMPLOYERS IN THE PRIVATE SECTOR TO PAY 14TH MONTH PAY"
@@ -15,6 +14,8 @@ subjects = [ "14th Month Pay",]
 authors_raw = "Sotto III, Vicente C."
 author_codes = ["SVICE"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3022627055!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-10"
 
 [[history]]
 date = "2019-07-01"

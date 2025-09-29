@@ -6,7 +6,6 @@ name = "SBN-02311"
 [meta]
 bill_number = 2311
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2311", "https://web.senate.gov.ph/lisdata/3532232213!.pdf",]
 title = "PANDEMIC PROTECTION ACT OF 2021"
 date_filed = "2021-07-05"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION AGAINST PANDEMIC AND THE DEVELOPMENT OF THE HEALTHCARE AND MANUFACTURING INDUSTRIES, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Pandemic",]
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3532232213!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2311"
 
 [[history]]
 date = "2021-07-05"

@@ -6,7 +6,6 @@ name = "SBN-00897"
 [meta]
 bill_number = 897
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-897", "https://web.senate.gov.ph/lisdata/2445321036!.pdf",]
 title = "ANTI-POLITICAL DYNASTY ACT OF 2016"
 date_filed = "2016-07-26"
 long_title = "AN ACT PROHIBITING THE ESTABLISHMENT OF POLITICAL DYNASTIES"
@@ -15,6 +14,8 @@ subjects = [ "Political Dynasty/Political Dynasties", "Elections/Electoral Refor
 authors_raw = "Ejercito, Joseph Victor G."
 author_codes = ["EVICT"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2445321036!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-897"
 
 [[history]]
 date = "2016-07-26"

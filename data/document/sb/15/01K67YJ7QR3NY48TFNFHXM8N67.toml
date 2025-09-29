@@ -6,7 +6,6 @@ name = "SBN-00807"
 [meta]
 bill_number = 807
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-807", "https://web.senate.gov.ph/lisdata/82316795!.pdf",]
 title = "LOCAL GOVERNMENT CODE (SECS. 447 AND 458, R.A. 7160)"
 date_filed = "2010-07-07"
 long_title = "AN ACT CREATING THE LOCAL HOUSING BOARD AND AMENDING SECTIONS 447 AND 458 OF R.A. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code, Amendments (R.A.No. 7160)", "Local Housing 
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["URBAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/82316795!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-807"
 
 [[history]]
 date = "2010-07-07"

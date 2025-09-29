@@ -6,7 +6,6 @@ name = "SBN-02306"
 [meta]
 bill_number = 2306
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2306", "https://web.senate.gov.ph/lisdata/74396655!.pdf",]
 title = "MAGNA CARTA FOR DAY CARE WORKERS"
 date_filed = "2008-05-21"
 long_title = "AN ACT GRANTING THE MAGNA CARTA FOR DAY CARE WORKERS, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Day Care Workers",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["JUSTI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/74396655!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2306"
 
 [[history]]
 date = "2008-05-21"

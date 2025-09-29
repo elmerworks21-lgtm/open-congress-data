@@ -6,7 +6,6 @@ name = "SBN-00561"
 [meta]
 bill_number = 561
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-561", "https://web.senate.gov.ph/lisdata/3084427800!.pdf",]
 title = "THE PEOPLE EMPOWERMENT ACT"
 date_filed = "2019-07-16"
 long_title = "AN ACT CREATING A SYSTEM OF PARTNERSHIP BETWEEN LOCAL GOVERNMENTS AND CIVIL SOCIETY ORGANIZATIONS THROUGH THE ESTABLISHMENT OF A PEOPLE'S COUNCIL IN EVERY LOCAL GOVERNMENT UNIT, PRESCRIBING ITS POWERS AND FUNCTIONS"
@@ -15,6 +14,8 @@ subjects = [ "People Empowerment", "Local Government Units (LGUS)", "Civil Socie
 authors_raw = "Drilon, Franklin M."
 author_codes = ["DFRAN"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3084427800!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-561"
 
 [[history]]
 date = "2019-07-16"

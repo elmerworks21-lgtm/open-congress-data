@@ -6,7 +6,6 @@ name = "SBN-02420"
 [meta]
 bill_number = 2420
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2420", "https://web.senate.gov.ph/lisdata/77116949!.pdf",]
 title = "15% INCREASE ON BASIC SALARY OF NATIONAL GOVERNMENT PERSONNEL"
 date_filed = "2008-06-30"
 long_title = "AN ACT AUTHORIZING COMPENSATION ADJUSTMENTS TO NATIONAL GOVERNMENT PERSONNEL"
@@ -15,6 +14,8 @@ subjects = [ "Compensation and Position Classification in the Government (R.A.No
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/77116949!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2420"
 
 [[history]]
 date = "2008-06-30"

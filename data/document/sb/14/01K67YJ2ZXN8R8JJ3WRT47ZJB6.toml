@@ -6,7 +6,6 @@ name = "SBN-03026"
 [meta]
 bill_number = 3026
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3026", "https://web.senate.gov.ph/lisdata/101869059!.pdf",]
 title = "SILICA REGULATORY ACT OF 2009"
 date_filed = "2009-01-29"
 long_title = "AN ACT REGULATING THE USE OF SILICA IN THE WORKPLACE"
@@ -15,6 +14,8 @@ subjects = [ "Silica Regulatory",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/101869059!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3026"
 
 [[history]]
 date = "2009-01-29"

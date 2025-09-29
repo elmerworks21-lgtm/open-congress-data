@@ -6,7 +6,6 @@ name = "SBN-01676"
 [meta]
 bill_number = 1676
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1676", "https://web.senate.gov.ph/lisdata/3317530018!.pdf",]
 title = "ENTREPRENEURIAL AGRICULTURAL EDUCATION ACT OF 2020"
 date_filed = "2020-07-08"
 long_title = "AN ACT TO DEVELOP AND STRENGTHEN THE AGRICULTURAL EDUCATION AND TRAINING IN THE COUNTRY THROUGH THE INSTITUTIONALIZATION OF MANPOWER DEVELOPMENT FOR AGRICULTURAL ENTREPREURSHIP IN THE POST-SECONDARY LEVEL"
@@ -15,6 +14,8 @@ subjects = [ "Entrepreneurial Agricultural Education", "Agricultural Education",
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3317530018!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1676"
 
 [[history]]
 date = "2020-07-08"

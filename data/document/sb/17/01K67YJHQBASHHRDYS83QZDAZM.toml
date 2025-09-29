@@ -6,7 +6,6 @@ name = "SBN-00833"
 [meta]
 bill_number = 833
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-833", "https://web.senate.gov.ph/lisdata/2437421005!.pdf",]
 title = "SCHOOL SITE DEVELOPMENT AND INFRASTRUCTURE PLAN ACT OF 2016"
 date_filed = "2016-07-21"
 long_title = "AN ACT REQUIRING ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOLS TO PREPARE AND IMPLEMENT A LAND USE DEVELOPMENT AND INFRASTRUCTURE PLAN FOR THE OPTIMUM UTILIZATION OF ITS RESOURCES IN ADDRESSING BASIC EDUCATION FACILITY SHORTAGES"
@@ -15,6 +14,8 @@ subjects = [ "School Sites/School Campus", "Basic Learning Resources", "Infrastu
 authors_raw = "Recto, Ralph G."
 author_codes = ["RRALP"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2437421005!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-833"
 
 [[history]]
 date = "2016-07-21"

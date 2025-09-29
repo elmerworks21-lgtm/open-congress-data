@@ -6,7 +6,6 @@ name = "SBN-00711"
 [meta]
 bill_number = 711
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-711", "https://web.senate.gov.ph/lisdata/2423020844!.pdf",]
 title = "MAGNA CARTA FOR WORKERS IN THE ENERGY SECTOR OF THE PHILIPPINES"
 date_filed = "2016-07-20"
 long_title = "AN ACT PROVIDING FOR A MAGNA CARTA FOR WORKERS IN THE ENERGY SECTOR OF THE PHILIPPINES, AUTHORIZING THE COLLECTION AND APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Workers in the Energy Sector",]
 authors_raw = "Aquino IV, Paolo Benigno \"Bam\""
 author_codes = ["APAOL"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2423020844!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-711"
 
 [[history]]
 date = "2016-07-20"

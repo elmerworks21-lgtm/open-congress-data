@@ -6,7 +6,6 @@ name = "SBN-00983"
 [meta]
 bill_number = 983
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-983", "https://web.senate.gov.ph/lisdata/4744943453!.pdf",]
 title = "BANNING THE IMPORTATION OF SOLID WASTE"
 date_filed = "2025-08-06"
 long_title = "AN ACT BANNING THE IMPORTATION OF SOLID WASTE, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Solid Waste",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4744943453!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-983"
 
 [[history]]
 date = "2025-08-06"

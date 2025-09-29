@@ -6,7 +6,6 @@ name = "SBN-00205"
 [meta]
 bill_number = 205
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-205", "https://web.senate.gov.ph/lisdata/3046327341!.pdf",]
 title = "DISASTER RESILIENCE ACT OF 2019"
 date_filed = "2019-07-02"
 long_title = "AN ACT CREATING THE DEPARTMENT OF DISASTER RESILIENCE, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Disaster Risk Reduction and Management", "Department of Disaster R
 authors_raw = "Go, Christopher Lawrence T."
 author_codes = ["GCHRI"]
 committee_codes = ["NDSPU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3046327341!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-205"
 
 [[history]]
 date = "2019-07-02"

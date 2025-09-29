@@ -6,7 +6,6 @@ name = "SBN-01885"
 [meta]
 bill_number = 1885
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1885", "https://web.senate.gov.ph/lisdata/31622346!.pdf",]
 title = "ANTI-ENFORCED OR INVOLUNTARY DISAPPEARANCE ACT OF 2005"
 date_filed = "2005-01-17"
 long_title = "AN ACT PENALIZING ENFORCED OR INVOLUNTARY DISAPPEARANCE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Involuntary Disappearance Act", "Anti-Enforced/Involuntary Disappe
 authors_raw = "Pangilinan, Francis N."
 author_codes = ["PFRAN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/31622346!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1885"
 
 [[history]]
 date = "2005-01-17"

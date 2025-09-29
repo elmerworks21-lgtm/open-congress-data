@@ -6,7 +6,6 @@ name = "SBN-00719"
 [meta]
 bill_number = 719
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-719", "https://web.senate.gov.ph/lisdata/3840634861!.pdf",]
 title = "AMENDING THE GROUNDS OF LEGAL SEPARATION"
 date_filed = "2022-07-18"
 long_title = "AN ACT AMENDING THE GROUNDS FOR LEGAL SEPARATION UNDER ARTICLE 55 OF THE FAMILY CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Legal Separation", "Family Code(E.O.No. 209)",]
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3840634861!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-719"
 
 [[history]]
 date = "2022-07-18"

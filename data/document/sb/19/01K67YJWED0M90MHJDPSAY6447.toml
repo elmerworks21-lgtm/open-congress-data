@@ -6,7 +6,6 @@ name = "SBN-02209"
 [meta]
 bill_number = 2209
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2209", "https://web.senate.gov.ph/lisdata/4170037984!.pdf",]
 title = "PLASTIC STRAWS BAN ACT"
 date_filed = "2023-05-17"
 long_title = "AN ACT MANDATING ALL RESTAURANTS, HOTELS, INNS, FASTFOOD, CENTERS, EATERIES AND SIMILAR ESTABLISHMENTS TO PROHIBIT THE USE OF DRINKING PLASTIC STRAWS AND PROVIDING PENALTIES FOR VIOLATION"
@@ -15,6 +14,8 @@ subjects = [ "Plastic", "Plastic Bags", "Plastic Products", "Plastic Waste",]
 authors_raw = "Villar, Cynthia A."
 author_codes = ["VCYNT"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4170037984!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2209"
 
 [[history]]
 date = "2023-05-17"

@@ -6,7 +6,6 @@ name = "SBN-01254"
 [meta]
 bill_number = 1254
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1254", "https://web.senate.gov.ph/lisdata/1732214560!.pdf",]
 title = "MAGNA CARTA FOR SMALL ENTERPRISES"
 date_filed = "2013-08-08"
 long_title = "AN ACT AMENDING REPUBLIC ACT NO. 6977, OTHERWISE KNOWN AS THE MAGNA CARTA FOR SMALL ENTERPRISES, TO PROMOTE COMPLIANCE AMONG SMALL AND MEDIUM ENTERPRISES"
@@ -15,6 +14,8 @@ subjects = [ "Magna Carta for Small Enterprises",]
 authors_raw = "Defensor Santiago, Miriam, Villar, Cynthia A."
 author_codes = ["SMIRI", "VCYNT"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1732214560!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1254"
 
 [[history]]
 date = "2013-08-08"

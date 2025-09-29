@@ -6,7 +6,6 @@ name = "SBN-01320"
 [meta]
 bill_number = 1320
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1320", "https://web.senate.gov.ph/lisdata/4796543987!.pdf",]
 title = "PHILIPPINE GERIATRIC CENTER ACT"
 date_filed = "2025-09-01"
 long_title = "AN ACT ESTABLISHING THE PHILIPPINE GERIATRIC CENTER UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Geriatric Health Center",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4796543987!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1320"
 
 [[history]]
 date = "2025-09-01"

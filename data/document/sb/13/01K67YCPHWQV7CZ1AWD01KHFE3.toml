@@ -6,7 +6,6 @@ name = "SBN-02043"
 [meta]
 bill_number = 2043
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2043", "https://web.senate.gov.ph/lisdata/34802916!.pdf",]
 title = "APO REEF"
 date_filed = "2005-06-08"
 long_title = "AN ACT ESTABLISHING APO REEF IN SABLAYAN, OCCIDENTAL MINDORO AS A PROTECTED AREA AND ITS PERIPHERAL WATERS AS BUFFER ZONES, PROVIDING FOR ITS MANAGEMENT, FUNDS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Apo Reef",]
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34802916!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2043"
 
 [[history]]
 date = "2005-06-08"

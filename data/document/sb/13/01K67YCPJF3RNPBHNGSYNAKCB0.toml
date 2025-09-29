@@ -6,7 +6,6 @@ name = "SBN-02074"
 [meta]
 bill_number = 2074
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2074", "https://web.senate.gov.ph/lisdata/35532948!.pdf",]
 title = "MERCURY REDUCTION ACT OF 2005"
 date_filed = "2005-08-03"
 long_title = "AN ACT PROVIDING MECHANISMS FOR THE REDUCTION OF THE DISTRIBUTION OF MERCURY-ADDED PRODUCTS AND ITS PROPER DISPOSAL THEREOF IN ORDER TO REDUCE THE INTRODUCTION OF MERCURY INTO THE ENVIRONMENT"
@@ -15,6 +14,8 @@ subjects = [ "Mercury Reduction",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/35532948!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2074"
 
 [[history]]
 date = "2005-08-03"

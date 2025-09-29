@@ -6,7 +6,6 @@ name = "SBN-00471"
 [meta]
 bill_number = 471
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-471", "https://web.senate.gov.ph/lisdata/46764000!.pdf",]
 title = "LOCAL HOUSING BOARD"
 date_filed = "2007-07-02"
 long_title = "AN ACT CREATING THE LOCAL HOUSING BOARD AND AMENDING SECTIONS 447 AND 458 OF R.A. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Code (RA 7160; Amendments)", "Local Housing Board
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/46764000!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-471"
 
 [[history]]
 date = "2007-07-02"

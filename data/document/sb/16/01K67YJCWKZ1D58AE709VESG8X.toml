@@ -6,7 +6,6 @@ name = "SBN-00933"
 [meta]
 bill_number = 933
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-933", "https://web.senate.gov.ph/lisdata/1696814197!.pdf",]
 title = "ATM FEE REGULATORY ACT"
 date_filed = "2013-07-18"
 long_title = "AN ACT REQUIRING CERTAIN FINANCIAL INSTITUTIONS TO POST TRANSACTION FEES FOR EACH AUTOMATED TELLER MACHINE TRANSACTION AND RESTRICTING TRANSACTION FEES FOR AUTOMATED TELLER MACHINES"
@@ -15,6 +14,8 @@ subjects = [ "Automated Teller Machines (ATM)", "Fees and Charges",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["BANKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1696814197!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-933"
 
 [[history]]
 date = "2013-07-18"

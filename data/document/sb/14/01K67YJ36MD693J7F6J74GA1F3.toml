@@ -6,7 +6,6 @@ name = "SBN-03314"
 [meta]
 bill_number = 3314
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3314", "https://web.senate.gov.ph/lisdata/1175510340!.pdf",]
 title = "ALLERGEN REGULATORY ACT OF 2009"
 date_filed = "2009-06-10"
 long_title = "AN ACT REGULATING ALLERGENS IN CONSUMER PRODUCTS"
@@ -15,6 +14,8 @@ subjects = [ "Allergens",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1175510340!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3314"
 
 [[history]]
 date = "2009-06-10"

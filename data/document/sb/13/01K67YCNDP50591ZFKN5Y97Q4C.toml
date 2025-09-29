@@ -6,7 +6,6 @@ name = "SBN-00107"
 [meta]
 bill_number = 107
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-107", "https://web.senate.gov.ph/lisdata/1235978!.pdf",]
 title = "MATURE AND OLDER WORKERS ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT ESTABLISH A JOB TRAINING PROGRAM FOR MATURE OR OLDER WORKERS"
@@ -15,6 +14,8 @@ subjects = [ "Mature and Older Workers Act", "Equal Employment (Mature/Older Wor
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P., Angara, Edgardo J."
 author_codes = ["AEDGA", "ELUIS"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1235978!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-107"
 
 [[history]]
 date = "2004-06-30"

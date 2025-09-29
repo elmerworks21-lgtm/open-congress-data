@@ -6,7 +6,6 @@ name = "SBN-02010"
 [meta]
 bill_number = 2010
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2010", "https://web.senate.gov.ph/lisdata/3430531105!.pdf",]
 title = "ANTI-WITHHOLDING OF STUDENT RECORDS ACT"
 date_filed = "2021-01-21"
 long_title = "AN ACT PROHIBITING EDUCATION INSTITUTIONS FROM WITHHOLDING THE OFFICIAL RECORDS OF STUDENTS BY REASON OF NONPAYMENT OF TUITION AND OTHER SCHOOL FEES, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Students", "Tuition Fees",]
 authors_raw = "Villanueva, Joel"
 author_codes = ["VEMMA"]
 committee_codes = ["BEAAC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3430531105!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-2010"
 
 [[history]]
 date = "2021-01-21"

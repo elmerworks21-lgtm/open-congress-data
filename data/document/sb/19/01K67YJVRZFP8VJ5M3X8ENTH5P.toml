@@ -6,7 +6,6 @@ name = "SBN-01305"
 [meta]
 bill_number = 1305
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1305", "https://web.senate.gov.ph/lisdata/3936235780!.pdf",]
 title = "DRUGS AND MEDICINES PRICE REGULATORY BOARD"
 date_filed = "2022-09-12"
 long_title = "AN ACT ESTABLISHING THE DRUG PRICE REGULATORY BOARD TO REGULATE THE PRICES OF DRUGS AND MEDICINES IN THE PHILIPPINES AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9502, OTHERWISE KNOWN AS THE UNIVERSALLY ACCESSIBLE CHEAPER AND QUALITY MEDICINES ACT OF 2008 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Drug Price Regulatory Board", "Cheaper Medicines",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3936235780!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1305"
 
 [[history]]
 date = "2022-09-12"

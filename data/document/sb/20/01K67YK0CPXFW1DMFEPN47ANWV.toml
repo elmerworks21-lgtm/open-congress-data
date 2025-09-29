@@ -6,7 +6,6 @@ name = "SBN-01000"
 [meta]
 bill_number = 1000
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1000", "https://web.senate.gov.ph/lisdata/4756343575!.pdf",]
 title = "THE NEW PNPA CHARTER"
 date_filed = "2025-08-06"
 long_title = "AN ACT TO STRENGTHEN THE CHARTER OF THE PHILIPPINE NATIONAL POLICE ACADEMY AS PROVIDED UNDER PRESIDENTIAL DECREE 1780 AND FOR OTHER PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Philippine National Police Academy (PNPA)",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4756343575!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1000"
 
 [[history]]
 date = "2025-08-06"

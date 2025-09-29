@@ -6,7 +6,6 @@ name = "SBN-02728"
 [meta]
 bill_number = 2728
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2728", "https://web.senate.gov.ph/lisdata/2111017989!.pdf",]
 title = "STOP AIDS IN PRISONS ACT"
 date_filed = "2015-04-16"
 long_title = "AN ACT PROVIDING FOR AN EFFECTIVE HUMAN IMMUNODEFICIENCY VIRUS (HIV) ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS) PROGRAM IN PRISONS"
@@ -15,6 +14,8 @@ subjects = [ "Acquired Immune Deficiency Syndrome (AIDS)", "Human Immuno Deficie
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2111017989!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2728"
 
 [[history]]
 date = "2015-04-16"

@@ -6,7 +6,6 @@ name = "SBN-03014"
 [meta]
 bill_number = 3014
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3014", "https://web.senate.gov.ph/lisdata/2255219247!.pdf",]
 title = "COMPREHENSIVE FIREARMS AND AMMUNITION REGULATION ACT"
 date_filed = "2015-11-24"
 long_title = "AN ACT INCREASING THE PENALTY FOR PLANTING EVIDENCE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10591, OTHERWISE KNOWN AS THE COMPREHENSIVE FIREARMS AND AMMUNITION REGULATIONS ACT"
@@ -15,6 +14,8 @@ subjects = [ "Firearms", "Tanim Bala",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2255219247!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-3014"
 
 [[history]]
 date = "2015-11-24"

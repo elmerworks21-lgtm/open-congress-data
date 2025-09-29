@@ -6,7 +6,6 @@ name = "SBN-01338"
 [meta]
 bill_number = 1338
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1338", "https://web.senate.gov.ph/lisdata/1743314667!.pdf",]
 title = "CALLER INFORMATION DISCLOSURE ACT"
 date_filed = "2013-08-22"
 long_title = "AN ACT PROHIBITING TELECOMMUNICATIONS COMPANIES FROM PROVIDING SERVICES WHICH PREVENT CALLER IDENTIFICATION INFORMATION FROM BEING SHOWN BY A DEVICE CAPABLE OF DISPLAYING CALLER IDENTIFICATION INFORMATION"
@@ -15,6 +14,8 @@ subjects = [ "Caller Identification Information", "Telecommunications Systems Ac
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1743314667!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-1338"
 
 [[history]]
 date = "2013-08-22"

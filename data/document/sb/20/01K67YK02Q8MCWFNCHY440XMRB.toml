@@ -6,7 +6,6 @@ name = "SBN-00470"
 [meta]
 bill_number = 470
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-470", "https://web.senate.gov.ph/lisdata/4698942991!.pdf",]
 title = "HUSTISYA PARA SA LAHAT ACT"
 date_filed = "2025-07-14"
 long_title = "AN ACT TO EXPAND FREE LEGAL ASSISTANCE TO ALL INDIGENT FILIPINOS, AMENDING FOR THE PURPOSE CHAPTER 5, TITLE III, BOOK IV OF EXECUTIVE ORDER NO. 292, OTHERWISE KNOWN AS THE 'ADMINISTRATIVE CODE OF 1987' APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Free Legal Assistance", "Hustisya Para Sa Lahat",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4698942991!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-470"
 
 [[history]]
 date = "2025-07-14"

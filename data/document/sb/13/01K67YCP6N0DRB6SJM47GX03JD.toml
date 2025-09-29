@@ -6,7 +6,6 @@ name = "SBN-01477"
 [meta]
 bill_number = 1477
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1477", "https://web.senate.gov.ph/lisdata/26922057!.pdf",]
 title = "COMPUTER EDUCATION AND TRAINING OF GOVERNMENT EMPLOYEES ACT"
 date_filed = "2004-07-26"
 long_title = "AN ACT REQUIRING COMPUTER EDUCATION AND TRAINING TO GOVERNMENT EMPLOYEES AND APPROPRIATING FUNDS FOR THE PURPOSE"
@@ -15,6 +14,8 @@ subjects = [ "Government Employees (Computer Education", "Computer Education and
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/26922057!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1477"
 
 [[history]]
 date = "2004-07-26"

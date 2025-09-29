@@ -6,7 +6,6 @@ name = "SBN-01563"
 [meta]
 bill_number = 1563
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1563", "https://web.senate.gov.ph/lisdata/4004636469!.pdf",]
 title = "THE 30 YEAR NATIONAL INFRASTRUCTURE PROGRAM ACT OF 2022"
 date_filed = "2022-11-29"
 long_title = "AN ACT PROVIDING FOR A 30-YEAR NATIONAL INFRASTRUCTURE PROGRAM"
@@ -15,6 +14,8 @@ subjects = [ "Infrastructures",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4004636469!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1563"
 
 [[history]]
 date = "2022-11-29"

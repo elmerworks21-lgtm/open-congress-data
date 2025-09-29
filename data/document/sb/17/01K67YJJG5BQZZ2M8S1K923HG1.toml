@@ -6,7 +6,6 @@ name = "SBN-01794"
 [meta]
 bill_number = 1794
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1794", "https://web.senate.gov.ph/lisdata/2781524078!.pdf",]
 title = "APPROPRIATING THE SUM OF P1,161,710,000 AS SUPPLEMENTAL APPROPRIATIONS FOR FY 2018"
 date_filed = "2018-05-03"
 long_title = "AN ACT APPROPRIATING THE SUM OF ONE BILLION ONE HUNDRED SIXTY-ONE MILLION SEVEN HUNDRED TEN THOUSAND PESOS (P1,161,710,000) AS SUPPLEMENTAL APPROPRIATIONS FOR FY 2018 AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Vaccine", "Appropriations/Supplemental Appropriations", "Dengvaxia
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2781524078!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-1794"
 
 [[history]]
 date = "2018-05-03"

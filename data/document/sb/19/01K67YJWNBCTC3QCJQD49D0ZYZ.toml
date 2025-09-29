@@ -6,7 +6,6 @@ name = "SBN-02484"
 [meta]
 bill_number = 2484
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2484", "https://web.senate.gov.ph/lisdata/4302139114!.pdf",]
 title = "SUSTAINABLE FOREST MANAGEMENT ACT"
 date_filed = "2023-11-09"
 long_title = "AN ACT PROVIDING FOR THE SUSTAINABLE MANAGEMENT OF FOREST AND FOREST LANDS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Sustainable Forest Management", "Forest Land/Forest Limits",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4302139114!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2484"
 
 [[history]]
 date = "2023-11-09"

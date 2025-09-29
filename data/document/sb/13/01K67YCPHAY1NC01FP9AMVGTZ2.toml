@@ -6,7 +6,6 @@ name = "SBN-02017"
 [meta]
 bill_number = 2017
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2017", "https://web.senate.gov.ph/lisdata/34432794!.pdf",]
 title = "HEPATITIS-C VIRUS INFECTION"
 date_filed = "2005-05-19"
 long_title = "AN ACT TO MANDATE A COMPREHENSIVE RESEARCH FOR THE PREVENTION, CONTROL AND MEDICAL MANAGEMENT OF HEPATITIS C VIRUS INFECTION"
@@ -15,6 +14,8 @@ subjects = [ "Hepatitis-C (Virus Infection)",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/34432794!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2017"
 
 [[history]]
 date = "2005-05-19"

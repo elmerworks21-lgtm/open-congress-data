@@ -6,7 +6,6 @@ name = "SBN-00231"
 [meta]
 bill_number = 231
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-231", "https://web.senate.gov.ph/lisdata/43313727!.pdf",]
 title = "NIGHT CLASSES OPENING ( ELEMENTARY/HIGH SCHOOL)"
 date_filed = "2007-06-30"
 long_title = "AN ACT INSTITUTIONALIZING THE OPENING OF NIGHT CLASSES USING EXISTING HIGH SCHOOL AND ELEMENTARY SCHOOL FACILITIES ALL OVER THE COUNTRY AND APPROPRIATING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Night Classes Opening (Elementary", "High School)",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43313727!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-231"
 
 [[history]]
 date = "2007-06-30"

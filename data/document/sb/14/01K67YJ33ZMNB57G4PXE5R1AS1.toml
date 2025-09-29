@@ -6,7 +6,6 @@ name = "SBN-03210"
 [meta]
 bill_number = 3210
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3210", "https://web.senate.gov.ph/lisdata/110829782!.pdf",]
 title = "FREEDOM OF INFORMATIION ACT OF 2009"
 date_filed = "2009-05-06"
 long_title = "AN ACT IMPLEMENTING THE RIGHT OF ACCESS TO INFORMATION ON MATTERS OF PUBLIC CONCERN GUARANTEED UNDER SECTION TWENTY-EIGHT, ARTICLE II AND SECTION SEVEN, ARTICLE III OF THE 1987 CONSTITUTION AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Right of Access to Information",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/110829782!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3210"
 
 [[history]]
 date = "2009-05-06"

@@ -6,7 +6,6 @@ name = "SBN-00013"
 [meta]
 bill_number = 13
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-13", "https://web.senate.gov.ph/lisdata/73815945!.pdf",]
 title = "GUN CONTROL ACT OF 2010"
 date_filed = "2010-07-01"
 long_title = "AN ACT AMENDING THE PROVISIONS OF PRESIDENTIAL DECREE NO. 1866, ENTITLED CODIFYING THE LAWS ON ILLEGAL/UNLAWFUL POSSESSION, MANUFACTURE, DEALING IN, AQUISITION OR DISPOSITION OF FIREARMS, AMMUNITIONS OR INSTRUMENTS USED IN THE MANUFACTURE OF FIREARMS AND AMMUNITION, AND IMPOSING STIFFER PENALTIES FOR CERTAIN VIOLATIONS THEREOF, AS AMENDED BY REPUBLIC ACT NOS. 8294 AND 9516"
@@ -15,6 +14,8 @@ subjects = [ "Firearms",]
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/73815945!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-13"
 
 [[history]]
 date = "2010-07-01"

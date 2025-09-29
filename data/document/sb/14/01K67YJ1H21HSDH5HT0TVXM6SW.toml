@@ -6,7 +6,6 @@ name = "SBN-01220"
 [meta]
 bill_number = 1220
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1220", "https://web.senate.gov.ph/lisdata/55164929!.pdf",]
 title = "PROSTATE CANCER FOR PUBLIC AWARENESS"
 date_filed = "2007-07-05"
 long_title = "AN ACT ESTABLISHING A PROGRAM FOR PUBLIC EDUCATION ON PROSTATE CANCER"
@@ -15,6 +14,8 @@ subjects = [ "Prostate Cancer Public Awareness",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/55164929!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1220"
 
 [[history]]
 date = "2007-07-04"

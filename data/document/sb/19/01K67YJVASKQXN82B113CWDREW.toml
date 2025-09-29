@@ -6,7 +6,6 @@ name = "SBN-00676"
 [meta]
 bill_number = 676
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-676", "https://web.senate.gov.ph/lisdata/3858935040!.pdf",]
 title = "REVISED HIGHER EDUCATION ACT OF 2022"
 date_filed = "2022-07-18"
 long_title = "AN ACT STRENGTHENING THE COMMISSION ON HIGHER EDUCATION, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 7722, OTHERWISE KNOWN AS THE 'HIGHER EDUCATION ACT OF 1994', AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Higher Education Act",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["HTAVE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3858935040!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-676"
 
 [[history]]
 date = "2022-07-18"

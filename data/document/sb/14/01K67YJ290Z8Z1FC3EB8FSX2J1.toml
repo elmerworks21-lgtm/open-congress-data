@@ -6,7 +6,6 @@ name = "SBN-02020"
 [meta]
 bill_number = 2020
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2020", "https://web.senate.gov.ph/lisdata/67445973!.pdf",]
 title = "SPECIAL EDUCATION ACT OF 2008"
 date_filed = "2008-01-29"
 long_title = "AN ACT ESTABLISHING AT LEAST ONE (1) SPECIAL EDUCATION CENTER FOR EACH SCHOOL DIVISION AND AT LEAST THREE (3) SPECIAL EDUCATION CENTERS IN BIG SCHOOL DIVISIONS FOR CHILDREN WITH SPECIAL NEEDS, GUIDELINES FOR GOVERNMENT FINANCIAL ASSISTANCE AND OTHER INCENTIVES AND SUPPORT"
@@ -15,6 +14,8 @@ subjects = [ "Special Education (SPED)",]
 authors_raw = "Defensor Santiago, Miriam, Pimentel Jr., Aquilino Q., Honasan II, Gregorio B., Ejercito-Estrada, Jinggoy P., Gordon, Richard \"Dick\" J."
 author_codes = ["EJING", "GRICH", "HGREG", "PAQUI", "SMIRI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/67445973!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2020"
 
 [[history]]
 date = "2008-01-29"

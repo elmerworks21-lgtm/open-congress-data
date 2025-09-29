@@ -6,7 +6,6 @@ name = "SBN-02364"
 [meta]
 bill_number = 2364
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2364", "https://web.senate.gov.ph/lisdata/75486789!.pdf",]
 title = "OPEN CONTAINER LAW OF 2008"
 date_filed = "2008-06-03"
 long_title = "AN ACT PROHIBITING THE UNLAWFUL POSSESSION OF OPEN ALCOHOLIC BEVERAGE IN MOTOR VEHICLE ON HIGHWAYS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Alcoholic Beverages", "Motor Vehicle",]
 authors_raw = "Trillanes IV, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/75486789!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2364"
 
 [[history]]
 date = "2008-06-03"

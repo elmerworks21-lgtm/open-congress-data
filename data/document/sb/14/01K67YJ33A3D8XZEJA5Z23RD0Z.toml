@@ -6,7 +6,6 @@ name = "SBN-03181"
 [meta]
 bill_number = 3181
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3181", "https://web.senate.gov.ph/lisdata/108769645!.pdf",]
 title = "NATIONAL INTERNAL REVENUE CODE (SECTION 199)"
 date_filed = "2009-04-22"
 long_title = "AN ACT GRANTING TAX RELIEF TO THE LIFE INSURANCE INDUSTRY BY ABOLISHING THE DOCUMENTARY STAMP TAX AND PREMIUM TAX ON LIFE INSURANCE, REPEALING FOR THIS PURPOSE SECTIONS 123 AND 183 AND AMENDING FURTHER SECTION 199 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
@@ -15,6 +14,8 @@ subjects = [ "Documentary Stamp Tax", "Life Insurance Premium Tax", "National In
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/108769645!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-3181"
 
 [[history]]
 date = "2009-04-22"

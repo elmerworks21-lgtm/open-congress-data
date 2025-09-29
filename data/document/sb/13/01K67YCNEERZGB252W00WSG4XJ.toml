@@ -6,7 +6,6 @@ name = "SBN-00150"
 [meta]
 bill_number = 150
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-150", "https://web.senate.gov.ph/lisdata/12851075!.pdf",]
 title = "PUBLIC SCHOOL HONOR GRADUATES PRIORITY ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT GRANTING PRIORITY TO HONOR GRADUATES OF STATE COLLEGES AND STATE UNIVERSITIES IN THE APPOINTMENT OF CIVIL SERVICE EMPLOYEES"
@@ -15,6 +14,8 @@ subjects = [ "Public School Honor Graduates Priority", "Civil Service Employees 
 authors_raw = "Ejercito Estrada, Luisa \"Loi\" P."
 author_codes = ["ELUIS"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/12851075!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-150"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00559"
 [meta]
 bill_number = 559
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-559", "https://web.senate.gov.ph/lisdata/4711843118!.pdf",]
 title = "'CHILD TOURIST SAFETY ACT' OR 'SANDY'S ACT'"
 date_filed = "2025-07-14"
 long_title = "AN ACT PREVENTING, MITIGATING, AND RESPONDING TO RISKS AFFECTING CHILDREN WHILE ON VACATION, ENGAGING IN LEISURE, OR PARTICIPATING IN ANY OTHER ACTIVITIES RELATED TO THE TOURISM INDUSTRY"
@@ -15,6 +14,8 @@ subjects = [ "Tourism Industry", "Child Tourist Safety",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["WOMEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4711843118!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-559"
 
 [[history]]
 date = "2025-07-14"

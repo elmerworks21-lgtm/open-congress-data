@@ -6,7 +6,6 @@ name = "SBN-00581"
 [meta]
 bill_number = 581
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-581", "https://web.senate.gov.ph/lisdata/47924123!.pdf",]
 title = "ABSORPTION OF NCMB BY THE NLRC"
 date_filed = "2007-07-02"
 long_title = "AN ACT ABOLISHING THE NATIONAL CONCILIATION AND MEDIATION BOARD OR NCMB"
@@ -15,6 +14,8 @@ subjects = [ "National Conciliation and Mediation Board (NCMB)", "Abolition (NCM
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47924123!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-581"
 
 [[history]]
 date = "2007-07-02"

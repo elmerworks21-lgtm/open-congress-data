@@ -6,7 +6,6 @@ name = "SBN-02229"
 [meta]
 bill_number = 2229
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2229", "https://web.senate.gov.ph/lisdata/47993934!.pdf",]
 title = "ELECTRONIC MEDICAL RECORDS ACT OF 2006"
 date_filed = "2006-03-15"
 long_title = "AN ACT MAKING AVAILABLE ELECTRONIC MEDICAL RECORDS OF ALL PATIENTS OF HOSPITALS AND CLINICS ESTABLISHING FOR THIS PURPOSE ELECTRONIC MEDICAL RECORD CENTER UNDER THE DEPARTMENT OF HEALTH, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Medical Records",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47993934!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2229"
 
 [[history]]
 date = "2006-03-15"

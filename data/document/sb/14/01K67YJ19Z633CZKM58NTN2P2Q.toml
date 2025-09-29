@@ -6,7 +6,6 @@ name = "SBN-00875"
 [meta]
 bill_number = 875
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-875", "https://web.senate.gov.ph/lisdata/51284496!.pdf",]
 title = "BUDGETARY REFORM ACT"
 date_filed = "2007-07-03"
 long_title = "AN ACT REQUIRING THE SUBMISSION TO CONGRESS OF THE CORPORATE BUDGET OF ALL GOVERNMENT- OWNED OR CONTROLLED CORPORATIONS, THEIR SUBSIDIARIES AND AFFILIATES, AMENDING FOR THE PURPOSE SECTION 13 OF PD 1177, OTHERWISE KNOWN AS THE BUDGETARY REFORM ACT OF 1977"
@@ -15,6 +14,8 @@ subjects = [ "Budget Reform", "Government-Owned and Controlled Corporations (GOC
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51284496!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-875"
 
 [[history]]
 date = "2007-07-03"

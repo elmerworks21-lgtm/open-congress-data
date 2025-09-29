@@ -6,7 +6,6 @@ name = "SBN-02140"
 [meta]
 bill_number = 2140
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2140", "https://web.senate.gov.ph/lisdata/41053417!.pdf",]
 title = "FREEDOM FROM THREATS ACT OF 2005"
 date_filed = "2005-10-13"
 long_title = "AN ACT IMPOSING HIGHER PENALTIES FOR THE ACT OF THREATENING OR INJURING A MEMBER OF A GOVERNMENT OFFICIAL'S AND LAW ENFORCEMENT OFFICER'S FAMILY IN ORDER TO INFLUENCE, IMPEDE, OR RETALIATE AGAINST HIM"
@@ -15,6 +14,8 @@ subjects = [ "Freedom From Threats",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["ILLEG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/41053417!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2140"
 
 [[history]]
 date = "2005-10-13"

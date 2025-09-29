@@ -6,7 +6,6 @@ name = "SBN-00566"
 [meta]
 bill_number = 566
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-566", "https://web.senate.gov.ph/lisdata/11081078!.pdf",]
 title = "UNIVERSITY OF THE PHILIPPINES CHARTER OF 2004"
 date_filed = "2004-06-30"
 long_title = "AN ACT TO STRENGTHEN THE UNIVERSITY OF THE PHILIPPINES AS THE NATIONAL UNIVERSITY"
@@ -15,6 +14,8 @@ subjects = [ "University of the Phil. (U.P. Charter)",]
 authors_raw = "Villar Jr., Manuel B."
 author_codes = ["VMANU"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/11081078!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-566"
 
 [[history]]
 date = "2004-06-30"

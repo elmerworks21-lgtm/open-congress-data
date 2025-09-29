@@ -6,7 +6,6 @@ name = "SBN-02305"
 [meta]
 bill_number = 2305
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2305", "https://web.senate.gov.ph/lisdata/1952016639!.pdf",]
 title = "AUDIOLOGY ACT OF 2014"
 date_filed = "2014-07-10"
 long_title = "AN ACT PROFESSIONALIZING THE PRACTICE OF AUDIOLOGY AND CREATING FOR THIS PURPOSE A PROFESSIONAL REGULATORY BOARD OF AUDIOLOGY, APPROPRIATING FUNDS THEREFOR, UPGRADING AUDIOLOGIC EDUCATION, INTEGRATING AUDIOLOGISTS, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Audiology",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1952016639!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-2305"
 
 [[history]]
 date = "2014-07-10"

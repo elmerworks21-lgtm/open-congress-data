@@ -6,7 +6,6 @@ name = "SBN-00995"
 [meta]
 bill_number = 995
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-995", "https://web.senate.gov.ph/lisdata/3140728308!.pdf",]
 title = "AMENDING THE REVISED PENAL CODE"
 date_filed = "2019-09-02"
 long_title = "AN ACT AMENDING ARTICLES 29, 97, 99, 171, AND 174, AND CREATING A NEW ARTICLE 99-A UNDER ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS ‘THE REVISED PENAL CODE"
@@ -15,6 +14,8 @@ subjects = [ "Revised Penal Code (R.A.No. 3815)", "Heinous Crimes", "Good Conduc
 authors_raw = "Angara, Sonny"
 author_codes = ["ASONN"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3140728308!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-995"
 
 [[history]]
 date = "2019-09-02"

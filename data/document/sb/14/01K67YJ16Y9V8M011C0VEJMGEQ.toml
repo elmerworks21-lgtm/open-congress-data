@@ -6,7 +6,6 @@ name = "SBN-00728"
 [meta]
 bill_number = 728
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-728", "https://web.senate.gov.ph/lisdata/49504334!.pdf",]
 title = "INFIDELITY IN THE CUSTODY OF PRISONERS"
 date_filed = "2007-07-03"
 long_title = "AN ACT PRESCRIBING STRICTER PENALTIES ON THE CRIME OF DELIVERING PRISONERS FROM JAIL AND INFIDELITY IN THE CUSTODY OF PRISONERS, AMENDING FOR THE PURPOSE ARTICLES 156, 223 AND 224 OF REPUBLIC ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Prisoners", "Custodial Infidelity", "Revised Penal Code (RA 3815; 
 authors_raw = "Revilla Jr., Ramon A."
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/49504334!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-728"
 
 [[history]]
 date = "2007-07-03"

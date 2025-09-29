@@ -6,7 +6,6 @@ name = "SBN-00450"
 [meta]
 bill_number = 450
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-450", "https://web.senate.gov.ph/lisdata/1607909!.pdf",]
 title = "RATIONALIZING THE TAX ON WINNINGS (HORSE RACING, LOTTO, ETC)"
 date_filed = "2004-06-30"
 long_title = "AN ACT RATIONALIZING THE TAX ON WINNINGS AND DOCUMENTARY STAMP TAX ON HORSE RACING, AMENDING FOR THE PURPOSE SECTIONS 126 AND 190 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, SECTIONS 11 AND 13 OF REPUBLIC ACT NO. 8407 AND SECTIONS 8 AND 10 OF REPUBLIC ACT NO. 7953"
@@ -15,6 +14,8 @@ subjects = [ "Taxes (Tax on Winnings)", "Documentary Stamp Tax on Horse Racing",
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["MEANS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1607909!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-450"
 
 [[history]]
 date = "2004-06-30"

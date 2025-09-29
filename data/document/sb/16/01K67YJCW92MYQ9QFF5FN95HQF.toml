@@ -6,7 +6,6 @@ name = "SBN-00924"
 [meta]
 bill_number = 924
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-924", "https://web.senate.gov.ph/lisdata/1695814187!.pdf",]
 title = "EARLY VOTING FOR ELECTORAL STAFF ACT OF 2013"
 date_filed = "2013-07-18"
 long_title = "AN ACT PROVIDING FOR EARLY VOTING FOR QUALIFIED MEMBERS OF THE STAFF OF ELECTORAL CANDIDATES AND REGISTERED NATIONAL POLITICAL PARTIES"
@@ -15,6 +14,8 @@ subjects = [ "Political Party", "Elections/Electoral Reforms",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["ELRPP"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1695814187!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-924"
 
 [[history]]
 date = "2013-07-18"

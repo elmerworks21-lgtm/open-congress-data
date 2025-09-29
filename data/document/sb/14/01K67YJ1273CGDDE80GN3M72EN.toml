@@ -6,7 +6,6 @@ name = "SBN-00493"
 [meta]
 bill_number = 493
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-493", "https://web.senate.gov.ph/lisdata/47004023!.pdf",]
 title = "BALIK SCIENTIST PROGRAM OF 2007"
 date_filed = "2007-07-02"
 long_title = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BALIK SCIENTIST PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Balik Scientist Program",]
 authors_raw = "Ejercito-Estrada, Jinggoy P."
 author_codes = ["EJING"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/47004023!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-493"
 
 [[history]]
 date = "2007-07-02"

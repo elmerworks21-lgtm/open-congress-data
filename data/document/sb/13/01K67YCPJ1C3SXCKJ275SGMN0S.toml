@@ -6,7 +6,6 @@ name = "SBN-02051"
 [meta]
 bill_number = 2051
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2051", "https://web.senate.gov.ph/lisdata/1027538!.pdf",]
 title = "SAN ISIDRO PROTECTED SEASCAPE ACT OF 2005"
 date_filed = "2005-06-08"
 long_title = "AN ACT DECLARING A PORTION OF THE SAN ISIDRO COASTAL WATERS AS PROTECTED AREA AND ITS PERIPHERAL AREAS AS BUFFER ZONES TO BE KNOWN AS THE SAN ISIDRO PROTECTED SEASCAPE AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Buffer Zones (San Isidro Protected Seascape)", "National Integrate
 authors_raw = "Cayetano, Companera Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1027538!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-2051"
 
 [[history]]
 date = "2005-06-08"

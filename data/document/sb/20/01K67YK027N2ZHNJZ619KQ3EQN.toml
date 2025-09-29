@@ -6,7 +6,6 @@ name = "SBN-00443"
 [meta]
 bill_number = 443
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-443", "https://web.senate.gov.ph/lisdata/4695743573!.pdf",]
 title = "MOTORCYCLES-FOR-HIRE ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT REGULATING THE OPERATION OF MOTORCYCLES-FOR-HIRE AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Motorcycles-For-Hire",]
 authors_raw = "Tulfo, Raffy T."
 author_codes = ["TRAFF"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4695743573!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-443"
 
 [[history]]
 date = "2025-07-10"

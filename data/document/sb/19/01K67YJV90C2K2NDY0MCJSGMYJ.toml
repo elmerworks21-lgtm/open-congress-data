@@ -6,7 +6,6 @@ name = "SBN-00593"
 [meta]
 bill_number = 593
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-593", "https://web.senate.gov.ph/lisdata/3837534826!.pdf",]
 title = "HUMAN RIGHTS VIOLATIONS VICTIMS COMPENSATION ACT OF 2021"
 date_filed = "2022-07-14"
 long_title = "AN ACT PROVIDING COMPENSATION FOR VICTIMS OF HUMAN RIGHTS VIOLATIONS AND APPROPRIATING FUNDS THEREFOR AND OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Human Rights", "Human Rights Violations",]
 authors_raw = "Hontiveros, Risa"
 author_codes = ["HANAT"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3837534826!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-593"
 
 [[history]]
 date = "2022-07-14"

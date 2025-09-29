@@ -6,7 +6,6 @@ name = "SBN-01645"
 [meta]
 bill_number = 1645
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1645", "https://web.senate.gov.ph/lisdata/4031136726!.pdf",]
 title = "PUBLICATION OF LAWS IN THE PRINT OR ONLINE VERSION OF THE OFFICIAL GAZETTE AND OF A NEWSPAPER"
 date_filed = "2023-01-09"
 long_title = "AN ACT PROVIDING FOR THE PUBLICATION OF LAWS IN THE PRINT OR ONLINE VERSION OF THE OFFICIAL GAZETTE AND OF A NEWSPAPER OF GENERAL CIRCULATION"
@@ -15,6 +14,8 @@ subjects = [ "Official Gazette", "Civil Code of the Philippines",]
 authors_raw = "Estrada, Jinggoy E."
 author_codes = ["EJING"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4031136726!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1645"
 
 [[history]]
 date = "2023-01-09"

@@ -6,7 +6,6 @@ name = "SBN-00366"
 [meta]
 bill_number = 366
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-366", "https://web.senate.gov.ph/lisdata/1523818!.pdf",]
 title = "INCREASING THE MINIMUM SALARY OF NBI AGENTS TO 10 THOUSAND"
 date_filed = "2004-06-30"
 long_title = "AN ACT INCREASING THE MINIMUM SALARY OF NATIONAL BUREAU OF INVESTIGATION AGENTS TO TEN THOUSAND PESOS (P10,000.00) A MONTH AND THOSE WITH FIVE (5) OR MORE YEARS EXPERIENCE TO FIFTEEN THOUSAND PESOS (P15,000.00) A MONTH, EXEMPTING SAID OFFICE FROM THE SALARY STANDARDIZATION LAW, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Bureau of Investigation (NBI)", "Salary Increase (Nbi Age
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["CIVIL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1523818!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-366"
 
 [[history]]
 date = "2004-06-30"

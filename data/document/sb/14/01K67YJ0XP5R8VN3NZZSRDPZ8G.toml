@@ -6,7 +6,6 @@ name = "SBN-00273"
 [meta]
 bill_number = 273
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-273", "https://web.senate.gov.ph/lisdata/43733776!.pdf",]
 title = "MOTORCYCLE LANES ON ALL MAIN ROADS AND HIGHWAYS"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROVIDING FOR MOTORCYCLE LANES ON ALL MAIN ROADS AND HIGHWAYS THROUGHOUT THE COUNTRY, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Motorcycle Lane",]
 authors_raw = "Pimentel Jr., Aquilino Q."
 author_codes = ["PAQUI"]
 committee_codes = ["WORKS"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43733776!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-273"
 
 [[history]]
 date = "2007-06-30"

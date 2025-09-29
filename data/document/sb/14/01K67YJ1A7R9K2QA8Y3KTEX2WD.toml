@@ -6,7 +6,6 @@ name = "SBN-00886"
 [meta]
 bill_number = 886
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-886", "https://web.senate.gov.ph/lisdata/51394512!.pdf",]
 title = "JUDICIARY SALARY SCHEDULE"
 date_filed = "2007-07-03"
 long_title = "AN ACT ADOPTING A SALARY SCHEDULE FOR THE MEMBERS OF THE BENCH AND OTHER LAWYERS IN THE JUDICIARY, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Judiciary",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51394512!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-886"
 
 [[history]]
 date = "2007-07-03"

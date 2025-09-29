@@ -6,7 +6,6 @@ name = "SBN-00103"
 [meta]
 bill_number = 103
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-103", "https://web.senate.gov.ph/lisdata/2351920137!.pdf",]
 title = "MINDANAO RAILWAY ACT"
 date_filed = "2016-06-30"
 long_title = "AN ACT CREATING THE MINDANAO RAILWAY CORPORATION TO ESTABLISH THE MINDANAO RAILWAY SYSTEM, AUTHORIZING THE ISSUANCE OF BONDS AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Mindanao Railways Corporation",]
 authors_raw = "Gordon, Richard J."
 author_codes = ["GRICH"]
 committee_codes = ["GOVCO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2351920137!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-103"
 
 [[history]]
 date = "2016-06-30"

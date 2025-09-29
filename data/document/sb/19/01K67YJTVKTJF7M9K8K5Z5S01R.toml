@@ -6,7 +6,6 @@ name = "SBN-00013"
 [meta]
 bill_number = 13
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-13", "https://web.senate.gov.ph/lisdata/3771434156!.pdf",]
 title = "SUSTAINABLE BUDGETING ACT"
 date_filed = "2022-07-05"
 long_title = "AN ACT PROVIDING A FRAMEWORK FOR SUSTAINABILITY-BASED BUDGETING"
@@ -15,6 +14,8 @@ subjects = [ "Sustainable Budgeting",]
 authors_raw = "Cayetano, Pia S."
 author_codes = ["CPIAS"]
 committee_codes = ["FINAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3771434156!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-13"
 
 [[history]]
 date = "2022-07-05"

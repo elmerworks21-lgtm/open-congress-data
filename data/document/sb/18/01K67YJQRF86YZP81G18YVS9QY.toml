@@ -6,7 +6,6 @@ name = "SBN-01937"
 [meta]
 bill_number = 1937
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1937", "https://web.senate.gov.ph/lisdata/3408630839!.pdf",]
 title = "ANTI-UNTRACEABLE FIREARMS ACT"
 date_filed = "2020-12-03"
 long_title = "AN ACT PROHIBITING UNTRACEABLE FIREARMS, PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Firearms",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3408630839!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-1937"
 
 [[history]]
 date = "2020-12-03"

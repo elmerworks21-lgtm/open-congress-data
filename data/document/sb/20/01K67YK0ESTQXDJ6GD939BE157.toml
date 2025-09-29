@@ -6,7 +6,6 @@ name = "SBN-01112"
 [meta]
 bill_number = 1112
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1112", "https://web.senate.gov.ph/lisdata/4765943676!.pdf",]
 title = "TRANSPORTATION NETWORK SERVICE ACT"
 date_filed = "2025-08-07"
 long_title = "AN ACT REGULATING TRANSPORTATION NETWORK SERVICES, IMPOSING AND AUTHORIZING FEES, PROVIDING PENALTIES FOR VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "Local"
 authors_raw = "Gatchalian, Win T."
 author_codes = ["GSHER"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4765943676!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1112"
 
 [[history]]
 date = "2025-08-07"

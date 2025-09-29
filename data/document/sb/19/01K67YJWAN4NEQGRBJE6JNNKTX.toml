@@ -6,7 +6,6 @@ name = "SBN-02048"
 [meta]
 bill_number = 2048
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2048", "https://web.senate.gov.ph/lisdata/4136137678!.pdf",]
 title = "FILM AND LIVE EVENTS RECOVERY ACT"
 date_filed = "2023-03-29"
 long_title = "AN ACT AMENDING SECTION 140 (A), (C) AND (E) OF REPUBLIC ACT NO. 7160, AS AMENDED, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
@@ -15,6 +14,8 @@ subjects = [ "Film/Movie Industry", "Music Industry", "Local Government Code (R.
 authors_raw = "Padilla, Robinhood C."
 author_codes = ["PROBI"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4136137678!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2048"
 
 [[history]]
 date = "2023-03-29"

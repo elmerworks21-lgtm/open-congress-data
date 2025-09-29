@@ -6,7 +6,6 @@ name = "SBN-01483"
 [meta]
 bill_number = 1483
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1483", "https://web.senate.gov.ph/lisdata/3982336310!.pdf",]
 title = "AMENDING ARTICLE 2206 OF R.A. NO. 386 (THE CIVIL CODE OF THE PHILIPPINES)"
 date_filed = "2022-11-09"
 long_title = "AN ACT AMENDING ARTICLE 2206 OF REPUBLIC ACT NO. 386, OTHERWISE KNOWN AS THE CIVIL CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Civil Code of the Philippines", "Death Indemnity",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["HUMAN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3982336310!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1483"
 
 [[history]]
 date = "2022-11-09"

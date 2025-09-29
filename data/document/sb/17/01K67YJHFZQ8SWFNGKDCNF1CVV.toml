@@ -6,7 +6,6 @@ name = "SBN-00481"
 [meta]
 bill_number = 481
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-481", "https://web.senate.gov.ph/lisdata/2392120557!.pdf",]
 title = "GOVERNMENT TRANSPARENCY ACT OF 2016"
 date_filed = "2016-07-19"
 long_title = "AN ACT PROMOTING TRANSPARENCY IN GOVERNMENT BY ESTABLISHING A LOCAL GOVERNMENT FINANCE WEBSITE"
@@ -15,6 +14,8 @@ subjects = [ "Local Government Public Finance Website", "Accountability/Transpar
 authors_raw = "Trillanes, Antonio \"Sonny\" F."
 author_codes = ["TANTO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2392120557!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-481"
 
 [[history]]
 date = "2016-07-19"

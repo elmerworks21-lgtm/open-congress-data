@@ -6,7 +6,6 @@ name = "SBN-00750"
 [meta]
 bill_number = 750
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-750", "https://web.senate.gov.ph/lisdata/3844634903!.pdf",]
 title = "INDUSTRIES ENGAGED IN THE EXPLOITATION OF NATURAL RESOURCES"
 date_filed = "2022-07-18"
 long_title = "AN ACT REQUIRING INDUSTRIES ENGAGED IN THE EXPLOITATION OF NATURAL RESOURCES TO GIVE PREFERENTIAL EMPLOYMENT TO LOCAL RESIDENTS, AMENDING FOR THE PURPOSE THE LABOR CODE OF THE PHILIPPINES"
@@ -15,6 +14,8 @@ subjects = [ "Employment", "Natural Resources", "Labor Code of the Philippines (
 authors_raw = "Tolentino, Francis \"Tol\" N."
 author_codes = ["TFRAN"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3844634903!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-750"
 
 [[history]]
 date = "2022-07-18"

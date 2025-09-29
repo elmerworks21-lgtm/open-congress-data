@@ -6,7 +6,6 @@ name = "SBN-01497"
 [meta]
 bill_number = 1497
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1497", "https://web.senate.gov.ph/lisdata/3985336326!.pdf",]
 title = "VACCINE INDEMNIFICATION FUND ACT"
 date_filed = "2022-11-10"
 long_title = "AN ACT ESTABLISHING THE GOVERNMENT VACCINE INDEMNIFICATION PROGRAM, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Vaccine Indemnification Fund",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3985336326!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1497"
 
 [[history]]
 date = "2022-11-10"

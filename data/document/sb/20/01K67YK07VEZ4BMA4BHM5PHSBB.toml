@@ -6,7 +6,6 @@ name = "SBN-00744"
 [meta]
 bill_number = 744
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-744", "https://web.senate.gov.ph/lisdata/4728243281!.pdf",]
 title = "YOUNG FARMERS AND AGRIPRENEURS ACT"
 date_filed = "2025-07-21"
 long_title = "AN ACT PROMOTING YOUTH PARTICIPATION IN AGRICULTURE AND AGRIBUSINESS, ESTABLISHING YOUNG FARMERS AND AGRIPRENEURS SUPPORT PROGRAM, AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Young Farmers and Agripreneurs", "Farmers",]
 authors_raw = "Ejercito, Jv"
 author_codes = ["JVEJE"]
 committee_codes = ["AFAAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4728243281!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-744"
 
 [[history]]
 date = "2025-07-21"

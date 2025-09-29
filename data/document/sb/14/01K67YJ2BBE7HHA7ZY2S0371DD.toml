@@ -6,7 +6,6 @@ name = "SBN-02121"
 [meta]
 bill_number = 2121
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2121", "https://web.senate.gov.ph/lisdata/70006239!.pdf",]
 title = "ELECTRIC POWER INDUSTRY REFORM ACT"
 date_filed = "2008-03-12"
 long_title = "AN ACT AMENDING SECTIONS 4, 9, 20, 21, 23, 25, 26, 30, 31, 32, 33, 34, 35, 38, 41, 43, 45, 48, 51 OF REPUBLIC ACT NO. 9136 ENTITLED AN ACT ORDAINING REFORMS IN THE ELECTRIC POWER INDUSTRY AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Electric Power Industry Reform (RA 9136", "Epira)",]
 authors_raw = "Lapid, Manuel \"Lito\" M., Ejercito-Estrada, Jinggoy P., Angara, Edgardo J., Enrile, Juan Ponce"
 author_codes = ["AEDGA", "EJING", "EJUAN", "LMANU"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/70006239!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-2121"
 
 [[history]]
 date = "2008-03-12"

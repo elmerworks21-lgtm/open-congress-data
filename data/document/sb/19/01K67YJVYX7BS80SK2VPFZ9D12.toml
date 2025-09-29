@@ -6,7 +6,6 @@ name = "SBN-01546"
 [meta]
 bill_number = 1546
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1546", "https://web.senate.gov.ph/lisdata/4001936443!.pdf",]
 title = "COMMEMORATION OF THE FOUNDING ANNIVERSARY OF IGLESIA NI CRISTO"
 date_filed = "2022-11-23"
 long_title = "AN ACT DECLARING JULY 27 OF EVERY YEAR A SPECIAL NATIONAL NON-WORKING HOLIDAY, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9645, OTHERWISE KNOWN AS THE COMMEMORATION OF THE FOUNDING ANNIVERSARY OF IGLESIA NI CRISTO"
@@ -15,6 +14,8 @@ subjects = [ "Commemoration", "Iglesia Ni Cristo (INC)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["CONST"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4001936443!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1546"
 
 [[history]]
 date = "2022-11-23"

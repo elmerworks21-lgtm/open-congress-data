@@ -6,7 +6,6 @@ name = "SBN-02138"
 [meta]
 bill_number = 2138
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2138", "https://web.senate.gov.ph/lisdata/4152437811!.pdf",]
 title = "NET-METERING PROGRAM (RENEWABLE ENERGY )"
 date_filed = "2023-05-08"
 long_title = "AN ACT PROMOTING THE USE OF RENEWABLE ENERGY TECHNOLOGY IN HOMES AND STRENGTHENING THE IMPLEMENTATION OF THE NET-METERING PROGRAM, AMENDING FOR THE PURPOSE REPUBLIC ACT. NO. 9513, OTHERWISE KNOWN AS THE RENEWABLE ENERGY ACT OF 2008"
@@ -15,6 +14,8 @@ subjects = [ "Renewable Energy", "Net-Metering Program",]
 authors_raw = "Lapid, Manuel \"Lito\" M."
 author_codes = ["LMANU"]
 committee_codes = ["ENERG"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4152437811!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2138"
 
 [[history]]
 date = "2023-05-08"

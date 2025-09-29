@@ -6,7 +6,6 @@ name = "SBN-02209"
 [meta]
 bill_number = 2209
 congress = 15
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2209", "https://web.senate.gov.ph/lisdata/98258310!.pdf",]
 title = "AGRICULTURAL LAND PROTECTION ACT"
 date_filed = "2010-08-02"
 long_title = "AN ACT REQUIRING THE DEPARTMENT OF AGRARIAN REFORM AND THE DEPARTMENT OF AGRICULTURE TO SUBMIT AN ANNUAL REPORT TO CONGRESS ON STATISTICS RELATING TO THE CONVERSION OF AGRICULTURAL LAND TO NON-AGRICULTURAL USERS INCLUDING A REVIEW OF EXISTING POLICIES AND PROCEDURES"
@@ -15,6 +14,8 @@ subjects = [ "Agricultural Land Conversion",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["AGRAR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/98258310!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=15&q=SBN-2209"
 
 [[history]]
 date = "2010-08-02"

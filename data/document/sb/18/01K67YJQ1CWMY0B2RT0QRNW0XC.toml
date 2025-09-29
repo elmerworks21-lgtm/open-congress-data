@@ -6,7 +6,6 @@ name = "SBN-00971"
 [meta]
 bill_number = 971
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-971", "https://web.senate.gov.ph/lisdata/3136828260!.pdf",]
 title = "ANTI-GAME FIXING ACT"
 date_filed = "2019-08-27"
 long_title = "AN ACT REDEFINING THE CRIME OF GAME-FIXING AND PRESCRIBING STIFFER PENALTIES THEREFOR, AMENDING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 483"
@@ -15,6 +14,8 @@ subjects = [ "Game-Fixing",]
 authors_raw = "Pacquiao, Emmanuel \"Manny\" D."
 author_codes = ["PEMMA"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3136828260!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-971"
 
 [[history]]
 date = "2019-08-27"

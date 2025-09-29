@@ -6,7 +6,6 @@ name = "SBN-00881"
 [meta]
 bill_number = 881
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-881", "https://web.senate.gov.ph/lisdata/3871435168!.pdf",]
 title = "ELECTRONIC AND ONLINE PUBLICATION OF LAWS ACT"
 date_filed = "2022-07-25"
 long_title = "AN ACT PRESCRIBING ELECTRONIC AND ONLINE MODALITIES FOR THE PROMULGATION OF LAWS, RESOLUTIONS, RULES AND OTHER ISSUANCES, AMENDING FOR THE PURPOSE SECTION 18, 24 AND 25 CHAPTER 5, BOOK 1 OF EXECUTIVE ORDER NO. 292 OTHERWISE KNOWN AS THE ADMINISTRATIVE CODE OF 1987"
@@ -15,6 +14,8 @@ subjects = [ "Electronic Publication", "Administrative Code of 1987 (E.O.No. 292
 authors_raw = "Poe, Grace"
 author_codes = ["PGRAC"]
 committee_codes = ["INFOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3871435168!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-881"
 
 [[history]]
 date = "2022-07-25"

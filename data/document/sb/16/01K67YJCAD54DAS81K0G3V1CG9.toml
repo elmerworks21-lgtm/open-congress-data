@@ -6,7 +6,6 @@ name = "SBN-00057"
 [meta]
 bill_number = 57
 congress = 16
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-57", "https://web.senate.gov.ph/lisdata/1586713106!.pdf",]
 title = "MAGNA CARTA FOR CALL CENTER WORKERS ACT"
 date_filed = "2013-07-01"
 long_title = "AN ACT PROVIDING FOR THE PROTECTION OF WORKERS IN THE CALL CENTER INDUSTRY"
@@ -15,6 +14,8 @@ subjects = [ "Call Center Industry",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["LABOR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1586713106!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=16&q=SBN-57"
 
 [[history]]
 date = "2013-07-01"

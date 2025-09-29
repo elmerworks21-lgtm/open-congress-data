@@ -6,7 +6,6 @@ name = "SBN-02253"
 [meta]
 bill_number = 2253
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2253", "https://web.senate.gov.ph/lisdata/4186438132!.pdf",]
 title = "YOUTH AWARENESS TO NATIONAL SYMBOLS AND FIGURES ACT"
 date_filed = "2023-05-29"
 long_title = "AN ACT MANDATING ALL GOVERNMENT AGENCIES TO POST AND DISPLAY NATIONAL SYMBOLS AND FIGURES TO REINSTILL FILIPINO YOUTH AWARENESS AND PATRIOTISM"
@@ -15,6 +14,8 @@ subjects = [ "National Symbols and Figures", "Youth",]
 authors_raw = "Villar, Mark A."
 author_codes = ["VMARK"]
 committee_codes = ["YOUTH"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4186438132!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-2253"
 
 [[history]]
 date = "2023-05-29"

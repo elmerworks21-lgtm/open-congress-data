@@ -6,7 +6,6 @@ name = "SBN-00226"
 [meta]
 bill_number = 226
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-226", "https://web.senate.gov.ph/lisdata/43263722!.pdf",]
 title = "MILK FEEDING ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT PROTECTING THE FILIPINO CHILDREN FROM MALNUTRITION INSTITUTIONALIZING FOR THIS PURPOSE ‘THE MILK FEEDING PROGRAM’, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Milk Feeding Program", "Malnutrition",]
 authors_raw = "Legarda, Loren B."
 author_codes = ["LLORE"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/43263722!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-226"
 
 [[history]]
 date = "2007-06-30"

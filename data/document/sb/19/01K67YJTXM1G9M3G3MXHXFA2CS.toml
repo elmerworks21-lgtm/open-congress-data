@@ -6,7 +6,6 @@ name = "SBN-00075"
 [meta]
 bill_number = 75
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-75", "https://web.senate.gov.ph/lisdata/3777834219!.pdf",]
 title = "PONDO SA PAGBABAGO AT PAG-ASENSO (P3) ACT"
 date_filed = "2022-07-07"
 long_title = "AN ACT PROVIDING A MICROFINANCING PROGRAM FOR MICRO ENTERPRISES THEREBY PROMOTING ENTREPRENEURSHIP"
@@ -15,6 +14,8 @@ subjects = [ "Pondo Sa Pagbabago At Pag-Asenso (P3)", "Micro, Small and Medium E
 authors_raw = "Pimentel, Aquilino \"Koko\" III, Villar, Cynthia A."
 author_codes = ["PAQUI", "VCYNT"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3777834219!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-75"
 
 [[history]]
 date = "2022-07-07"

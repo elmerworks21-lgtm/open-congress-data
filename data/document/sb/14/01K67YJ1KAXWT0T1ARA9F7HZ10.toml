@@ -6,7 +6,6 @@ name = "SBN-01334"
 [meta]
 bill_number = 1334
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1334", "https://web.senate.gov.ph/lisdata/56345024!.pdf",]
 title = "WOMEN'S HEALTH ENVIRONMENTAL FACTORS ACT OF 2007"
 date_filed = "2007-07-24"
 long_title = "AN ACT REQUIRING A REPORT REGARDING THE EFFECTS OF ENVIRONMENTAL FACTORS ON WOMEN’S HEALTH"
@@ -15,6 +14,8 @@ subjects = [ "Women Health Environmental Factors Act of 2007",]
 authors_raw = "Defensor Santiago, Miriam"
 author_codes = ["SMIRI"]
 committee_codes = ["HEALT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/56345024!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-1334"
 
 [[history]]
 date = "2007-07-24"

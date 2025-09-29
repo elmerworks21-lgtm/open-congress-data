@@ -6,7 +6,6 @@ name = "SBN-00997"
 [meta]
 bill_number = 997
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-997", "https://web.senate.gov.ph/lisdata/4735543354!.pdf",]
 title = "AMENDING REPUBLIC ACT NO. 9147 (WILDLIFE RESOURCES CONSERVATION AND PROTECTION ACT)"
 date_filed = "2025-08-06"
 long_title = "AN ACT STRENGTHENING THE WILDLIFE CONSERVATION AND PROTECTION MECHANISM IN THE PHILIPPINES, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9147, OTHERWISE KNOWN AS THE WILDLIFE RESOURCES CONSERVATION AND PROTECTION ACT, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Wildlife Resources Conservation and Protection",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["ENRCC"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4735543354!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-997"
 
 [[history]]
 date = "2025-08-06"

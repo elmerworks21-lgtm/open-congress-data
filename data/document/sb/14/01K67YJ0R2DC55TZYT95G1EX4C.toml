@@ -6,7 +6,6 @@ name = "SBN-00035"
 [meta]
 bill_number = 35
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-35", "https://web.senate.gov.ph/lisdata/42123475!.pdf",]
 title = "PROCEEDS FROM SALE OF GOVERNMENT PROPERTIES FOR THE BENEFITS OF THE VETERANS"
 date_filed = "2007-06-30"
 long_title = "AN ACT MANDATING THE USE OF THE PROCEEDS FROM THE DEVELOPMENT, LEASE OR USE OF CERTAIN GOVERNMENT PROPERTIES FOR PAYMENT OF PENSIONS AND OTHER BENEFITS OF THE VETERANS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Government Properties", "Veterans/Military Retirees Pensions/Benef
 authors_raw = "Biazon, Rodolfo G."
 author_codes = ["BRODO"]
 committee_codes = ["DEFEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42123475!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-35"
 
 [[history]]
 date = "2007-06-30"

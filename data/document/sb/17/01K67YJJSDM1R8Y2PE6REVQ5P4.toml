@@ -6,7 +6,6 @@ name = "SBN-02143"
 [meta]
 bill_number = 2143
 congress = 17
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2143", "https://web.senate.gov.ph/lisdata/2930525905!.pdf",]
 title = "COMPUTER SCIENCE IN SCHOOLS ACT OF 2019"
 date_filed = "2019-01-14"
 long_title = "AN ACT INTEGRATING COMPUTER SCIENCE IN THE CURRICULUM OF THE ENHANCED BASIC EDUCATION (K-12) PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Computer Science", "Curriculum/Curricula", "Basic Education Progra
 authors_raw = "Pimentel, Aquilino Koko III L."
 author_codes = ["PAQUI"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/2930525905!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=SBN-2143"
 
 [[history]]
 date = "2019-01-14"

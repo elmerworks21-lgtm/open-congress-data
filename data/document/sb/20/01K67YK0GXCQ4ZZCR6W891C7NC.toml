@@ -6,7 +6,6 @@ name = "SBN-01220"
 [meta]
 bill_number = 1220
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1220", "https://web.senate.gov.ph/lisdata/4784543863!.pdf",]
 title = "STRENGTHENING THE PHILIPPINE HEALTHCARE SYSTEM"
 date_filed = "2025-08-20"
 long_title = "AN ACT STRENGTHENING THE PHILIPPINE HEALTHCARE SYSTEM TO ACHIEVE EFFICIENCY, EQUITY AND INCLUSIVITY, AND TO IMPROVE PUBLIC HEALTH EMERGENCY PREPAREDNESS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNIVERSAL HEALTH CARE ACT"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Universal Health Care", "Public Health Emergency Response",]
 authors_raw = "Villar, Camille A."
 author_codes = ["VCAMI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4784543863!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-1220"
 
 [[history]]
 date = "2025-08-20"

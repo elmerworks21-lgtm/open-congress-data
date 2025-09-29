@@ -6,7 +6,6 @@ name = "SBN-00996"
 [meta]
 bill_number = 996
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-996", "https://web.senate.gov.ph/lisdata/52624644!.pdf",]
 title = "SEA DUMPING BAN ACT"
 date_filed = "2007-07-04"
 long_title = "AN ACT TO PROVIDE FOR TERMINATION OF SEA DUMPING OF SEWAGE SLUDGE AND INDUSTRIAL WASTE"
@@ -15,6 +14,8 @@ subjects = [ "Sea Dumping Ban", "Waste (Sewage Sludge/Industrial Waste)",]
 authors_raw = "Villar, Manny"
 author_codes = ["VMANU"]
 committee_codes = ["ENVIR"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/52624644!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-996"
 
 [[history]]
 date = "2007-07-04"

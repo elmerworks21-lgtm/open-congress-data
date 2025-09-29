@@ -6,7 +6,6 @@ name = "SBN-01512"
 [meta]
 bill_number = 1512
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1512", "https://web.senate.gov.ph/lisdata/3989436333!.pdf",]
 title = "BAGONG BAYANI WARD ACT"
 date_filed = "2022-11-16"
 long_title = "AN ACT ESTABLISHING OVERSEAS FILIPINO WORKER (OFW) WARD TO BE KNOWN AS THE 'BAGONG BAYANI WARD' IN EVERY GOVERNMENT HOSPITAL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
@@ -14,6 +13,8 @@ scope = "National"
 subjects = [ "Overseas Filipino Workers (OFWS)/ Migrant Workers", "Hospitals (Government Hospitals)",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3989436333!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1512"
 
 [[history]]
 date = "2022-11-16"

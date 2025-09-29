@@ -6,7 +6,6 @@ name = "SBN-01809"
 [meta]
 bill_number = 1809
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1809", "https://web.senate.gov.ph/lisdata/30322209!.pdf",]
 title = "AUTOMATIC RELEASE OF IRA ALLOCATED TO BARANGAYS/SK"
 date_filed = "2004-09-23"
 long_title = "AN ACT ALLOCATING TEN PERCENT (10%) OF THE INTERNAL REVENUE ALLOTMENT (IRA) ALLOCATED TO BARANGAYS TO THE SANGGUNIANG KABATAAN, MANDATING THE AUTOMATIC RELEASE THEREFOR, AMENDING FOR THIS PURPOSE THE PERTINENT PROVISIONS OF REPUBLIC ACT NUMBERED SEVENTY-ONE HUNDRED AND SIXTY (R.A. NO. 7160), OTHERWISE KNOWN AS THE 'LOCAL GOVERNMENT CODE' AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Internal Revenue Allotment (IRA)", "Sangguniang Kabataan (Ira Allo
 authors_raw = "Magsaysay Jr., Ramon B."
 author_codes = ["MRAMO"]
 committee_codes = ["LOCAL"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/30322209!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-1809"
 
 [[history]]
 date = "2004-09-23"

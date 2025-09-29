@@ -6,7 +6,6 @@ name = "SBN-00424"
 [meta]
 bill_number = 424
 congress = 13
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-424", "https://web.senate.gov.ph/lisdata/1580882!.pdf",]
 title = "NATIONAL TELECOMMUNICATIONS COMMISSION REORGANIZATION ACT"
 date_filed = "2004-06-30"
 long_title = "AN ACT REORGANIZING THE NATIONAL TELECOMMUNICATIONS COMMISSION, DEFINING ITS POWERS AND FUNCTIONS AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "National Telecommunications Commission", "Reorganization (NTC)",]
 authors_raw = "Osmena III, Sergio R."
 author_codes = ["OSERG"]
 committee_codes = ["SERVI"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/1580882!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=13&q=SBN-424"
 
 [[history]]
 date = "2004-06-30"

@@ -6,7 +6,6 @@ name = "SBN-01365"
 [meta]
 bill_number = 1365
 congress = 19
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1365", "https://web.senate.gov.ph/lisdata/3960435943!.pdf",]
 title = "CYBERSECURITY ACT"
 date_filed = "2022-10-05"
 long_title = "AN ACT INSTITUTIONALIZING AND STRENGTHENING THE NATIONAL CYBERSECURITY INTER-AGENCY COMMITTEE CREATED UNDER EXECUTIVE ORDER NO. 95 (S. 2019), RENAMING IT TO NATIONAL CYBERSECURITY COUNCIL, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Cybersecurity",]
 authors_raw = "Marcos, Imee R."
 author_codes = ["MIMEE"]
 committee_codes = ["SCIEN"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3960435943!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=19&q=SBN-1365"
 
 [[history]]
 date = "2022-10-05"

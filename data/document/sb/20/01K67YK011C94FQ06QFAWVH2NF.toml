@@ -6,7 +6,6 @@ name = "SBN-00379"
 [meta]
 bill_number = 379
 congress = 20
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-379", "https://web.senate.gov.ph/lisdata/4687042876!.pdf",]
 title = "ANTI GAME-FIXING ACT"
 date_filed = "2025-07-10"
 long_title = "AN ACT PROHIBITING GAME-FIXING AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
@@ -15,6 +14,8 @@ subjects = [ "Game-Fixing",]
 authors_raw = "Ejercito Estrada, Jinggoy"
 author_codes = ["EJING"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/4687042876!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-379"
 
 [[history]]
 date = "2025-07-10"

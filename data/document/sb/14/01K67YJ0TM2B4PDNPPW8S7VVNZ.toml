@@ -6,7 +6,6 @@ name = "SBN-00146"
 [meta]
 bill_number = 146
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-146", "https://web.senate.gov.ph/lisdata/42443632!.pdf",]
 title = "EDUCATION REVITALIZATION ACT OF 2007"
 date_filed = "2007-06-30"
 long_title = "AN ACT CREATING THE PHILIPPINE EDUCATION REHABILITATION CORPORATION, ESTABLISHING THE SPECIAL EDUCATION REVITALIZATION FUND, AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Education Revitalization",]
 authors_raw = "Gordon, Richard \"Dick\" J."
 author_codes = ["GRICH"]
 committee_codes = ["EDUCA"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/42443632!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-146"
 
 [[history]]
 date = "2007-06-30"

@@ -6,7 +6,6 @@ name = "SBN-00880"
 [meta]
 bill_number = 880
 congress = 14
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-880", "https://web.senate.gov.ph/lisdata/51334506!.pdf",]
 title = "AMENDING R.A.NO. 8293, TO INCLUDE INTERNET PIRACY"
 date_filed = "2007-07-03"
 long_title = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8293 OF THE ‘INTELLECTUAL PROPERTY CODE OF THE PHILIPPINES’ AND FOR OTHER PURPOSES"
@@ -15,6 +14,8 @@ subjects = [ "Intellectual Property Code (RA 8293)",]
 authors_raw = "Angara, Edgardo J."
 author_codes = ["AEDGA"]
 committee_codes = ["TRADE"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/51334506!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=14&q=SBN-880"
 
 [[history]]
 date = "2007-07-03"

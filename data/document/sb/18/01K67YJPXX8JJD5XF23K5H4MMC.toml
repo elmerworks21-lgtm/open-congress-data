@@ -6,7 +6,6 @@ name = "SBN-00805"
 [meta]
 bill_number = 805
 congress = 18
-url_sources = [ "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-805", "https://web.senate.gov.ph/lisdata/3117528074!.pdf",]
 title = "PHILIPPINE BOXING AND COMBAT SPORTS COMMISSION ACT"
 date_filed = "2019-07-29"
 long_title = "AN ACT CREATING THE PHILIPPINE BOXING AND COMBAT SPORTS COMMISSION AND PROVIDING FUNDS THEREFOR"
@@ -15,6 +14,8 @@ subjects = [ "Philippine Boxing and Combat Sports Commission",]
 authors_raw = "Revilla Jr., Ramon Bong"
 author_codes = ["RRAMO"]
 committee_codes = ["SPORT"]
+download_url_sources = ["https://web.senate.gov.ph/lisdata/3117528074!.pdf"]
+senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=18&q=SBN-805"
 
 [[history]]
 date = "2019-07-29"
