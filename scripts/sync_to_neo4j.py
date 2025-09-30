@@ -7,11 +7,14 @@ Performance improvements:
 - Batch UNWIND operations for multiple nodes at once
 - Single transaction per batch instead of per node
 - Reduced network round trips
+- Memory-efficient streaming for large document datasets
 
 Usage:
-    python sync_to_neo4j.py                # Sync data without clearing
-    python sync_to_neo4j.py --clear        # Clear database first (will prompt for confirmation)
-    python sync_to_neo4j.py --clear --yes  # Clear database first (skip confirmation - for CI/CD)
+    python sync_to_neo4j.py                           # Sync data without clearing
+    python sync_to_neo4j.py --clear                   # Clear database first (will prompt for confirmation)
+    python sync_to_neo4j.py --clear --yes             # Clear database first (skip confirmation - for CI/CD)
+    python sync_to_neo4j.py --batch-size 1000         # Use custom batch size for documents
+    python sync_to_neo4j.py --batch-size 5000 --yes   # High-end machine optimization
 """
 
 import os
@@ -19,6 +22,7 @@ import sys
 import logging
 import time
 import yaml
+import argparse
 from pathlib import Path
 from typing import Dict, List
 import tomlkit
@@ -400,140 +404,156 @@ class Neo4jSyncerOptimized:
         logger.info(f"Loaded {len(mapping)} Senate website key mappings")
         return mapping
 
-    def _load_document_files_batch(self, file_batch, congress_mapping, senate_key_mapping):
-        """Load a batch of document files sequentially."""
-        results = []
-        for _, file_path in file_batch:
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    data = tomlkit.load(f)
+    def load_house_website_key_mapping(self, people_dir: Path) -> Dict[str, str]:
+        """Load the House website key to person ID mapping."""
+        mapping_file = people_dir / ".house-website-key-mapping.yml"
+        if not mapping_file.exists():
+            logger.warning(f"House website key mapping file not found: {mapping_file}")
+            return {}
 
-                # Extract document data
-                doc_data = {
-                    'id': data.get('id'),
-                    'type': data.get('type'),
-                    'subtype': data.get('subtype'),
-                    'name': data.get('name')
-                }
+        with open(mapping_file, 'r', encoding='utf-8') as f:
+            mapping = yaml.safe_load(f)
 
-                congress_rel = None
-                author_rels = []
+        logger.info(f"Loaded {len(mapping)} House website key mappings")
+        return mapping
 
-                # Add meta fields if present
-                if 'meta' in data:
-                    meta = data['meta']
-                    doc_data.update({
-                        'bill_number': meta.get('bill_number'),
-                        'congress': meta.get('congress'),
-                        'title': meta.get('title'),
-                        'date_filed': meta.get('date_filed'),
-                        'long_title': meta.get('long_title'),
-                        'scope': meta.get('scope'),
-                        'subjects': meta.get('subjects', []),
-                        'authors_raw': meta.get('authors_raw'),
-                        'senate_website_permalink': meta.get('senate_website_permalink'),
-                        'download_url_sources': meta.get('download_url_sources', [])
-                    })
 
-                    # Create congress relationship
-                    if meta.get('congress') and meta['congress'] in congress_mapping:
-                        congress_rel = {
-                            'document_id': data['id'],
-                            'congress_id': congress_mapping[meta['congress']]
-                        }
+    def sync_documents_batch(self, document_dir: Path, congress_mapping: Dict[int, str], senate_key_mapping: Dict[str, str], house_key_mapping: Dict[str, str], batch_size: int = 500):
+        """Sync document data to Neo4j using streaming batch operations.
 
-                    # Create author relationships using senate_website_author_codes
-                    if meta.get('senate_website_author_codes'):
-                        for author_code in meta['senate_website_author_codes']:
-                            if author_code in senate_key_mapping:
-                                author_rels.append({
-                                    'document_id': data['id'],
-                                    'person_id': senate_key_mapping[author_code]
-                                })
+        Args:
+            document_dir: Directory containing bill documents
+            congress_mapping: Mapping of congress numbers to IDs
+            senate_key_mapping: Mapping of senate author codes to person IDs
+            house_key_mapping: Mapping of house author codes to person IDs
+            batch_size: Number of documents to load into memory at once (default: 500)
+                       Higher values use more memory but may be faster on high-end machines.
+                       Recommended: 500-1000 for CI, 1000-5000 for high-end local machines.
+        """
+        start_time = time.time()
+        total_documents_synced = 0
 
-                results.append((doc_data, congress_rel, author_rels))
-            except Exception as e:
-                logger.error(f"Failed to load {file_path.name}: {e}")
-
-        return results
-
-    def sync_documents_batch(self, document_dir: Path, congress_mapping: Dict[int, str], senate_key_mapping: Dict[str, str]):
-        """Sync document data to Neo4j using batch operations."""
-        # Collect all files from both HB and SB first
-        all_bill_files = []
-
+        # Process each bill type (HB and SB)
         for bill_type in ['hb', 'sb']:
             bill_dir = document_dir / bill_type
             if not bill_dir.exists():
                 logger.warning(f"Bill directory not found: {bill_dir}")
                 continue
 
-            # Collect all document files across all congresses
-            for congress_dir in sorted(bill_dir.iterdir()):
-                if congress_dir.is_dir() and congress_dir.name.isdigit():
-                    toml_files = list(congress_dir.glob('*.toml'))
-                    # Add bill type to each file for tracking
-                    all_bill_files.extend([(bill_type, f) for f in toml_files])
+            mapping_filename = f".{bill_type.replace('hb', 'house').replace('sb', 'senate')}-bill-number-mapping.yml"
 
-        total_files = len(all_bill_files)
-        logger.info(f"Found {total_files} total document files (HB + SB)")
+            # Process each congress directory (sorted numerically by congress number)
+            congress_dirs = [d for d in bill_dir.iterdir() if d.is_dir() and d.name.isdigit()]
+            for congress_dir in sorted(congress_dirs, key=lambda d: int(d.name)):
+                congress_num = int(congress_dir.name)
+                mapping_file = congress_dir / mapping_filename
 
-        if not all_bill_files:
-            logger.warning("No document files found to process")
-            return
+                if not mapping_file.exists():
+                    logger.warning(f"Mapping file not found: {mapping_file}")
+                    continue
 
-        start_time = time.time()
+                # Load mapping file (small memory footprint - just bill_number: doc_id pairs)
+                with open(mapping_file, 'r', encoding='utf-8') as f:
+                    bill_mapping = yaml.safe_load(f)
 
-        # Load all documents with progress tracking
-        logger.info(f"Loading {total_files} documents with progress tracking...")
+                if not bill_mapping:
+                    continue
 
-        all_documents = []
-        all_congress_rels = []
-        all_author_rels = []
+                total_bills_in_congress = len(bill_mapping)
+                logger.info(f"Processing {bill_type.upper()} Congress {congress_num}: {total_bills_in_congress} bills")
 
-        # Process files in chunks to show progress
-        chunk_size = 100
-        for i in range(0, len(all_bill_files), chunk_size):
-            chunk = all_bill_files[i:i + chunk_size]
-            chunk_results = self._load_document_files_batch(chunk, congress_mapping, senate_key_mapping)
+                # Stream through bills in memory-efficient batches
+                bill_items = list(bill_mapping.items())
 
-            for doc_data, congress_rel, author_rels in chunk_results:
-                all_documents.append(doc_data)
-                if congress_rel:
-                    all_congress_rels.append(congress_rel)
-                all_author_rels.extend(author_rels)
+                for batch_start in range(0, len(bill_items), batch_size):
+                    batch_end = min(batch_start + batch_size, len(bill_items))
+                    batch_items = bill_items[batch_start:batch_end]
 
-            # Show progress
-            loaded = min(i + chunk_size, total_files)
-            logger.info(f"Progress: Loaded {loaded}/{total_files} files ({loaded * 100 / total_files:.1f}%)")
+                    # Load only this batch of documents
+                    documents_batch = []
+                    congress_rels = []
+                    author_rels = []
 
-        logger.info(f"Loaded {len(all_documents)} documents in {time.time() - start_time:.1f} seconds")
+                    for bill_number, doc_id in batch_items:
+                        file_path = congress_dir / f"{doc_id}.toml"
 
-        # Use large batch size as default for better performance
-        batch_size = 1000  # Large batches for faster processing
+                        if not file_path.exists():
+                            logger.warning(f"Document file not found: {file_path}")
+                            continue
 
-        # Process all documents in large batches
-        total_batches = (len(all_documents) + batch_size - 1) // batch_size
+                        try:
+                            with open(file_path, 'r', encoding='utf-8') as f:
+                                data = tomlkit.load(f)
 
-        for batch_num in range(total_batches):
-            start_idx = batch_num * batch_size
-            end_idx = min(start_idx + batch_size, len(all_documents))
+                            # Extract document data
+                            doc_data = {
+                                'id': data.get('id'),
+                                'type': data.get('type'),
+                                'subtype': data.get('subtype'),
+                                'name': data.get('name')
+                            }
 
-            documents_batch = all_documents[start_idx:end_idx]
+                            # Add meta fields if present
+                            if 'meta' in data:
+                                meta = data['meta']
+                                doc_data.update({
+                                    'bill_number': meta.get('bill_number'),
+                                    'congress': meta.get('congress'),
+                                    'title': meta.get('title'),
+                                    'date_filed': meta.get('date_filed'),
+                                    'long_title': meta.get('long_title'),
+                                    'scope': meta.get('scope'),
+                                    'subjects': meta.get('subjects', []),
+                                    'authors_raw': meta.get('authors_raw'),
+                                    'senate_website_permalink': meta.get('senate_website_permalink'),
+                                    'download_url_sources': meta.get('download_url_sources', []),
+                                    'congress_website_title': meta.get('congress_website_title'),
+                                    'congress_website_abstract': meta.get('congress_website_abstract')
+                                })
 
-            # Filter relationships for this batch
-            doc_ids_in_batch = {doc['id'] for doc in documents_batch}
-            congress_batch = [rel for rel in all_congress_rels
-                            if rel['document_id'] in doc_ids_in_batch]
-            author_batch = [rel for rel in all_author_rels
-                          if rel['document_id'] in doc_ids_in_batch]
+                                # Create congress relationship
+                                if meta.get('congress') and meta['congress'] in congress_mapping:
+                                    congress_rels.append({
+                                        'document_id': data['id'],
+                                        'congress_id': congress_mapping[meta['congress']]
+                                    })
 
-            self._process_document_batch(documents_batch, author_batch, congress_batch)
+                                # Create author relationships using senate_website_author_codes
+                                if meta.get('senate_website_author_codes'):
+                                    for author_code in meta['senate_website_author_codes']:
+                                        if author_code in senate_key_mapping:
+                                            author_rels.append({
+                                                'document_id': data['id'],
+                                                'person_id': senate_key_mapping[author_code]
+                                            })
 
-            logger.info(f"Batch {batch_num + 1}/{total_batches}: Synced {end_idx}/{len(all_documents)} documents")
+                                # Create author relationships using congress_website_author_codes (House bills)
+                                if meta.get('congress_website_author_codes'):
+                                    for author_code in meta['congress_website_author_codes']:
+                                        if author_code in house_key_mapping:
+                                            author_rels.append({
+                                                'document_id': data['id'],
+                                                'person_id': house_key_mapping[author_code]
+                                            })
+
+                            documents_batch.append(doc_data)
+
+                        except Exception as e:
+                            logger.error(f"Failed to load {file_path.name}: {e}")
+
+                    # Sync this batch to Neo4j
+                    if documents_batch:
+                        self._process_document_batch(documents_batch, author_rels, congress_rels)
+                        total_documents_synced += len(documents_batch)
+
+                        logger.info(
+                            f"  Progress: {batch_end}/{total_bills_in_congress} "
+                            f"({batch_end * 100 / total_bills_in_congress:.1f}%) - "
+                            f"Total synced: {total_documents_synced}"
+                        )
 
         total_time = time.time() - start_time
-        logger.info(f"Document sync completed in {total_time:.1f} seconds ({len(all_documents) / total_time:.1f} docs/sec)")
+        logger.info(f"Document sync completed in {total_time:.1f} seconds ({total_documents_synced / total_time:.1f} docs/sec)")
 
     def _process_document_batch(self, documents_batch: List[dict], author_relationships_batch: List[dict], congress_relationships_batch: List[dict]):
         """Process a batch of documents and their relationships."""
@@ -595,6 +615,50 @@ class Neo4jSyncerOptimized:
 
 def main():
     """Main execution function."""
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description="Sync Philippine Congress data to Neo4j database",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  %(prog)s                              # Sync with default settings (batch_size=500)
+  %(prog)s --clear --yes                # Clear database and sync (for CI/CD)
+  %(prog)s --batch-size 1000            # Use larger batches (faster, more memory)
+  %(prog)s --batch-size 5000 --yes      # High-end machine optimization
+
+Batch Size Recommendations:
+  - CI/CD (GitHub Actions):     500-1000  (conservative)
+  - Standard laptop (8-16GB):   1000-2000 (balanced)
+  - High-end workstation (32GB+): 2000-5000 (fast)
+        """
+    )
+    parser.add_argument(
+        '--clear',
+        action='store_true',
+        help='Clear database before syncing'
+    )
+    parser.add_argument(
+        '--yes', '-y',
+        action='store_true',
+        help='Skip confirmation prompts (useful for CI/CD)'
+    )
+    parser.add_argument(
+        '--batch-size',
+        type=int,
+        default=500,
+        metavar='N',
+        help='Number of documents to load into memory per batch (default: 500). Higher values are faster but use more memory.'
+    )
+
+    args = parser.parse_args()
+
+    # Validate batch size
+    if args.batch_size < 1:
+        logger.error("Batch size must be at least 1")
+        sys.exit(1)
+    if args.batch_size > 10000:
+        logger.warning(f"Batch size {args.batch_size} is very large and may cause memory issues")
+
     load_dotenv()
 
     # Get configuration
@@ -633,13 +697,12 @@ def main():
     try:
         syncer = Neo4jSyncerOptimized(neo4j_uri, neo4j_username, neo4j_password)
 
-        # Parse command line arguments
-        clear_db = "--clear" in sys.argv
-        skip_confirmation = "--yes" in sys.argv
+        # Log configuration
+        logger.info(f"Configuration: batch_size={args.batch_size}, clear_db={args.clear}, auto_confirm={args.yes}")
 
         # Optional: Clear database
-        if clear_db:
-            syncer.clear_database(skip_confirmation=skip_confirmation)
+        if args.clear:
+            syncer.clear_database(skip_confirmation=args.yes)
 
         # Create indexes first for better performance
         logger.info("Creating database indexes...")
@@ -678,12 +741,13 @@ def main():
 
         # 5. Sync Documents (after Congress, Group, and Person nodes)
         if document_dir.exists():
-            logger.info("Loading Senate website key mapping...")
+            logger.info("Loading author key mappings...")
             senate_key_mapping = syncer.load_senate_website_key_mapping(people_dir)
+            house_key_mapping = syncer.load_house_website_key_mapping(people_dir)
 
-            logger.info("Syncing documents...")
+            logger.info(f"Syncing documents (batch_size={args.batch_size})...")
             document_start = time.time()
-            syncer.sync_documents_batch(document_dir, congress_mapping, senate_key_mapping)
+            syncer.sync_documents_batch(document_dir, congress_mapping, senate_key_mapping, house_key_mapping, batch_size=args.batch_size)
             logger.info(f"Document sync completed in {time.time() - document_start:.1f}s")
         else:
             logger.warning(f"Document directory not found: {document_dir}. Skipping document sync.")
