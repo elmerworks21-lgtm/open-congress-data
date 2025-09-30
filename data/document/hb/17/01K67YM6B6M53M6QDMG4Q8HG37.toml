@@ -7,11 +7,16 @@ name = "HBN-07373"
 bill_number = 7373
 congress = 17
 title = "GREEN BUILDING ACT"
+date_filed = "2018-03-12"
 long_title = "AN ACT REQUIRING THE PLANTING OF TREES FOR ANY CONSTRUCTION OF RESIDENTIAL, COMMERCIAL, INDUSTRIAL AND PUBLIC BUILDINGS"
 scope = "National"
 subjects = [ "Green Building Code", "Tree Planting",]
+congress_website_author_codes = ["G003","G022","H062","H092","I048","H019","I030","H064"]
+congress_website_coauthors_raw = ["PRIMICIAS-AGABAS, MARLYN L.","TAMBUNTING, GUSTAVO S.","NIETO, YUL SERVO","ATIENZA, JOSE JR. L.","LOPEZ, CARLO V.","MALAPITAN, DALE GONZALO R.","DEL MAR, RAUL V."]
+congress_website_committee_codes = ["B505","0532"]
+congress_website_primary_keys = [1712]
+congress_website_title = "AN ACT REQUIRING THE PLANTING OF TREES FOR ANY CONSTRUCTION OF RESIDENTIAL, COMMERCIAL, INDUSTRIAL AND PUBLIC BUILDINGS"
 senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-7373"
-download_url_sources = ["https://web.senate.gov.ph/lisdata/2824424560!.pdf"]
 
 [[history]]
 date = "2018-08-02"
@@ -28,4 +33,3 @@ date = "2018-08-06"
 [[committees]]
 name = "Environment and Natural Resources"
 type = "primary"
-
