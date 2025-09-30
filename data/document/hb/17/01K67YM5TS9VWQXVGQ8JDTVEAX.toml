@@ -7,11 +7,16 @@ name = "HBN-05000"
 bill_number = 5000
 congress = 17
 title = "PAYMENT SYSTEMS ACT"
+date_filed = "2017-02-08"
 long_title = "AN ACT PROVIDING FOR THE REGULATION AND SUPERVISION OF PAYMENT SYSTEMS"
 scope = "National"
 subjects = [ "Payment System",]
+congress_website_author_codes = ["G060","G042","H057","I046","H045","G005","I016","F084","I027","I092","G119","H075","H021","I096"]
+congress_website_coauthors_raw = ["TEJADA, JOSE \"PING-PING\" I.","YAP, ARTHUR C.","PRIMICIAS-AGABAS, MARLYN L.","DALIPE, MANUEL JOSE M."]
+congress_website_committee_codes = ["0505","0532"]
+congress_website_primary_keys = [28061]
+congress_website_title = "AN ACT PROVIDING FOR THE REGULATION AND SUPERVISION OF PAYMENT SYSTEMS"
 senate_website_permalink = "https://web.senate.gov.ph/lis/bill_res.aspx?congress=17&q=HBN-5000"
-download_url_sources = ["https://web.senate.gov.ph/lisdata/2586422219!.pdf"]
 
 [[history]]
 date = "2017-05-04"
@@ -72,4 +77,3 @@ date = "2018-10-30"
 [[committees]]
 name = "Banks, Financial Institutions and Currencies"
 type = "primary"
-

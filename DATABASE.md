@@ -110,31 +110,39 @@ Represents legislative documents such as House Bills (HB) and Senate Bills (SB).
 
 **Properties:**
 - `id` (string, required) - Unique identifier (ULID format)
-- `type` (string) - Document type (e.g., "document")
-- `subtype` (string) - Document subtype (e.g., "hb", "sb")
-- `name` (string) - Document name/identifier
-- `bill_number` (string) - Bill number (e.g., "HB00001", "SB00001")
+- `type` (string) - Document type (e.g., "bill")
+- `subtype` (string) - Document subtype ("HB" for House Bills, "SB" for Senate Bills)
+- `name` (string) - Document name/identifier (e.g., "HBN-00001", "SBN-00001")
+- `bill_number` (integer) - Numeric bill number (e.g., 1, 59, 1000)
 - `congress` (integer) - Congress number when filed
 - `title` (string) - Short title of the bill
 - `date_filed` (string) - Date when the bill was filed (YYYY-MM-DD)
 - `long_title` (string) - Full descriptive title of the bill
-- `scope` (string) - Scope of the bill (e.g., "National")
-- `subjects` (array of strings) - Subject categories
+- `scope` (string) - Scope of the bill (e.g., "National", "Local")
+- `subjects` (array of strings) - Subject categories/tags
 - `authors_raw` (string) - Raw author information from source
-- `senate_website_permalink` (string) - Permalink to Senate website
-- `download_url_sources` (array of strings) - URLs to download the document
+- `senate_website_permalink` (string) - Permalink to Senate website (for Senate Bills)
+- `download_url_sources` (array of strings) - URLs to download the document PDF
+- `congress_website_title` (string) - Title as it appears on the House of Representatives website (for House Bills)
+- `congress_website_abstract` (string) - Abstract/summary from the House of Representatives website (for House Bills)
 
 **Example Cypher Query:**
 ```cypher
 // Find all Senate Bills in 19th Congress
-MATCH (d:Document {subtype: "sb", congress: 19})
+MATCH (d:Document {subtype: "SB", congress: 19})
 RETURN d.bill_number, d.title
 ORDER BY d.bill_number
 
-// Find House Bills by bill number
-MATCH (d:Document)
-WHERE d.bill_number = "HB00001"
+// Find House Bills by bill number in 18th Congress
+MATCH (d:Document {subtype: "HB", congress: 18})
+WHERE d.bill_number = 59
 RETURN d
+
+// Search House Bills by abstract content
+MATCH (d:Document {subtype: "HB"})
+WHERE d.congress_website_abstract CONTAINS "foreign investment"
+RETURN d.bill_number, d.title, d.congress_website_abstract
+ORDER BY d.congress, d.bill_number
 ```
 
 ## Relationships
@@ -184,21 +192,32 @@ RETURN com.name, con.name
 
 ### 3. AUTHORED
 
-Connects people to the documents they authored.
+Connects people to the documents they authored (both House Bills and Senate Bills).
 
 **Direction:** `(Person)-[:AUTHORED]->(Document)`
 
 **Properties:** None
 
+**How authorship is determined:**
+- **Senate Bills:** Uses `meta.senate_website_author_codes` mapped via `data/person/.senate-website-key-mapping.yml`
+- **House Bills:** Uses `meta.congress_website_author_codes` mapped via `data/person/.house-website-key-mapping.yml`
+
 **Example Cypher Query:**
 ```cypher
 // Find all bills authored by a specific person
 MATCH (p:Person {last_name: "Marcos"})-[:AUTHORED]->(d:Document)
-RETURN p.full_name, d.bill_number, d.title
+RETURN p.first_name, p.last_name, d.subtype, d.bill_number, d.title
+ORDER BY d.congress, d.subtype, d.bill_number
 
-// Find authors of a specific bill
-MATCH (p:Person)-[:AUTHORED]->(d:Document {bill_number: "SB00001"})
+// Find authors of a specific House Bill
+MATCH (p:Person)-[:AUTHORED]->(d:Document {subtype: "HB", congress: 18})
+WHERE d.bill_number = 59
 RETURN p.last_name, p.first_name
+
+// Count bills authored by person type
+MATCH (p:Person)-[:MEMBER_OF]->(g:Group {congress: 19})-[:BELONGS_TO]->(c:Congress)
+MATCH (p)-[:AUTHORED]->(d:Document)-[:FILED_IN]->(c)
+RETURN g.subtype as chamber, COUNT(DISTINCT d) as bills_authored
 ```
 
 ### 4. FILED_IN
@@ -378,9 +397,12 @@ The database is populated by `scripts/sync_to_neo4j.py` which:
    - `data/group/chamber/*.toml` - Chamber (Senate/House) entities
    - `data/committee/*.toml` - Committee entities
    - `data/person/*.toml` - Person entities
-   - `data/person/.senate-website-key-mapping.yml` - Mapping of Senate website keys to person IDs
-   - `data/document/hb/[congress]/*.toml` - House Bill documents
-   - `data/document/sb/[congress]/*.toml` - Senate Bill documents
+   - `data/person/.senate-website-key-mapping.yml` - Mapping of Senate website author codes to person IDs
+   - `data/person/.house-website-key-mapping.yml` - Mapping of House website author codes to person IDs
+   - `data/document/hb/[congress]/*.toml` - House Bill documents (organized by congress number)
+   - `data/document/hb/[congress]/.house-bill-number-mapping.yml` - Mapping of bill numbers to document IDs
+   - `data/document/sb/[congress]/*.toml` - Senate Bill documents (organized by congress number)
+   - `data/document/sb/[congress]/.senate-bill-number-mapping.yml` - Mapping of bill numbers to document IDs
 
 2. Creates nodes with MERGE operations (create if not exists, update if exists) using batch operations for performance
 
@@ -390,31 +412,43 @@ The database is populated by `scripts/sync_to_neo4j.py` which:
    - Person TOML files contain `memberships` array with chamber details → creates MEMBER_OF relationships to appropriate Group nodes
    - Document TOML files contain:
      - `meta.congress` → creates FILED_IN relationships to Congress
-     - `meta.senate_website_author_codes` → creates AUTHORED relationships from Person nodes (using the mapping file)
+     - `meta.senate_website_author_codes` → creates AUTHORED relationships from Person nodes (using Senate mapping file)
+     - `meta.congress_website_author_codes` → creates AUTHORED relationships from Person nodes (using House mapping file)
 
 4. Creates indexes for optimized querying
 
 ### Performance Optimizations
 
-The sync script uses several optimizations for faster data import:
-- **Large batch operations**: Processes 1000 documents per batch by default
+The sync script uses several optimizations for faster data import with large datasets (150k+ House Bills):
+
+- **Memory-efficient streaming**: Processes documents congress-by-congress using mapping files
+- **Configurable batch size**: Default 500 documents per batch (configurable via `--batch-size`)
+  - CI/CD environments: 500-1000 (conservative memory usage)
+  - Local development: 1000-2000 (balanced)
+  - High-end workstations: 2000-5000 (maximum speed)
 - **Reduced network round trips**: Groups related operations together
-- **Progress tracking**: Shows real-time progress during file loading
+- **Progress tracking**: Shows real-time progress per congress and bill type
 - **Optimized relationship creation**: Groups relationships by target nodes
 - **Single transaction batches**: All batch operations use explicit transactions
-- **Sequential loading**: Reliable progress tracking without threading issues
+- **Numerical congress ordering**: Processes congresses in correct order (8, 9, 10... not 10, 11, 12... 8, 9)
 
 ### Command Line Options
 
 ```bash
-# Normal sync (update existing data)
+# Normal sync with default batch size (500)
 python scripts/sync_to_neo4j.py
+
+# Sync with custom batch size for faster processing
+python scripts/sync_to_neo4j.py --batch-size 2000
 
 # Clear database first (will prompt for confirmation)
 python scripts/sync_to_neo4j.py --clear
 
-# Clear database without confirmation (for CI/CD)
-python scripts/sync_to_neo4j.py --clear --yes
+# Clear database and sync with high performance settings (for CI/CD)
+python scripts/sync_to_neo4j.py --clear --yes --batch-size 1000
+
+# Get help and see all options
+python scripts/sync_to_neo4j.py --help
 ```
 
 ## Membership Structure in Person TOML Files
