@@ -4,7 +4,7 @@ congress_website_author_keys = [ "A069",]
 senate_website_keys = [ "RRALP",]
 last_name = "Recto"
 first_name = "Ralph"
-middle_name = "G"
+middle_name = "Gonzalez"
 
 [[memberships]]
 type = "chamber"
@@ -23,6 +23,11 @@ subtype = "house"
 
 [[memberships]]
 type = "chamber"
+congress = 12
+subtype = "senate"
+
+[[memberships]]
+type = "chamber"
 congress = 13
 subtype = "senate"
 
@@ -31,16 +36,16 @@ type = "chamber"
 congress = 15
 subtype = "senate"
 
-[[memberships]]
-type = "chamber"
-congress = 16
-subtype = "senate"
-
-# TODO(njncalub): To verify
+# TODO: Verify
 [[memberships]]
 type = "chamber"
 congress = 16
 subtype = "house"
+
+[[memberships]]
+type = "chamber"
+congress = 16
+subtype = "senate"
 
 [[memberships]]
 type = "chamber"
