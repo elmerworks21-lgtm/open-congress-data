@@ -391,8 +391,14 @@ class Neo4jSyncerOptimized:
 
             return stats
 
-    def load_senate_website_key_mapping(self, people_dir: Path) -> Dict[str, str]:
-        """Load the Senate website key to person ID mapping."""
+    def load_senate_website_key_mapping(self, people_dir: Path) -> Dict:
+        """Load the Senate website key to person ID mapping.
+
+        Returns:
+            Dict with structure:
+            - If congress-aware: {congress_number: {code: person_id}}
+            - If legacy: {code: person_id}
+        """
         mapping_file = people_dir / ".senate-website-key-mapping.yml"
         if not mapping_file.exists():
             logger.warning(f"Senate website key mapping file not found: {mapping_file}")
@@ -401,7 +407,15 @@ class Neo4jSyncerOptimized:
         with open(mapping_file, 'r', encoding='utf-8') as f:
             mapping = yaml.safe_load(f)
 
-        logger.info(f"Loaded {len(mapping)} Senate website key mappings")
+        # Detect if this is the new congress-aware format
+        if mapping and isinstance(next(iter(mapping.values())), dict):
+            # Congress-aware format: {congress_num: {code: person_id}}
+            total_mappings = sum(len(codes) for codes in mapping.values())
+            logger.info(f"Loaded congress-aware Senate website key mappings: {len(mapping)} congresses, {total_mappings} total code mappings")
+        else:
+            # Legacy format: {code: person_id}
+            logger.info(f"Loaded {len(mapping)} Senate website key mappings (legacy format)")
+
         return mapping
 
     def load_house_website_key_mapping(self, people_dir: Path) -> Dict[str, str]:
@@ -520,11 +534,23 @@ class Neo4jSyncerOptimized:
 
                                 # Create author relationships using senate_website_author_codes
                                 if meta.get('senate_website_author_codes'):
+                                    doc_congress = meta.get('congress')
                                     for author_code in meta['senate_website_author_codes']:
-                                        if author_code in senate_key_mapping:
+                                        person_id = None
+
+                                        # Check if senate_key_mapping is congress-aware
+                                        if senate_key_mapping and isinstance(next(iter(senate_key_mapping.values())), dict):
+                                            # Congress-aware format: {congress_num: {code: person_id}}
+                                            if doc_congress and doc_congress in senate_key_mapping:
+                                                person_id = senate_key_mapping[doc_congress].get(author_code)
+                                        else:
+                                            # Legacy format: {code: person_id}
+                                            person_id = senate_key_mapping.get(author_code)
+
+                                        if person_id:
                                             author_rels.append({
                                                 'document_id': data['id'],
-                                                'person_id': senate_key_mapping[author_code]
+                                                'person_id': person_id
                                             })
 
                                 # Create author relationships using congress_website_author_codes (House bills)
