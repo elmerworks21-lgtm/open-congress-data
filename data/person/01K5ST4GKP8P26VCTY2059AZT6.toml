@@ -1,4 +1,5 @@
 id = "01K5ST4GKP8P26VCTY2059AZT6"
+senate_website_keys = [ "VEMMA",]
 congress_website_primary_keys = [ 525,]
 congress_website_author_keys = [ "D089",]
 last_name = "Villanueva"
@@ -21,6 +22,11 @@ type = "chamber"
 congress = 14
 subtype = "house"
 
+[[memberships]]
+type = "chamber"
+congress = 18
+subtype = "senate"
+
 # TODO: Double check this
 [[memberships]]
 type = "chamber"
@@ -30,4 +36,9 @@ subtype = "house"
 [[memberships]]
 type = "chamber"
 congress = 19
+subtype = "senate"
+
+[[memberships]]
+type = "chamber"
+congress = 20
 subtype = "senate"
