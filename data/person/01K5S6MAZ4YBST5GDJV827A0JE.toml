@@ -3,7 +3,12 @@ senate_website_keys = [ "LPANF",]
 last_name = "Lacson"
 middle_name = "Morena"
 first_name = "Panfilo"
-aliases = ["Ping",]
+aliases = [ "Ping",]
+
+[[memberships]]
+type = "chamber"
+congress = 12
+subtype = "senate"
 
 [[memberships]]
 type = "chamber"
