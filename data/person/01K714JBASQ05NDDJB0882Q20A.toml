@@ -1,12 +1,18 @@
-id = "01K5S6MAZ4YBST5GDJV827A0J3"
-senate_website_keys = [ "FJUAN",]
-last_name = "Flavier"
-middle_name = "Martin"
-first_name = "Juan"
+id = "01K714JBASQ05NDDJB0882Q20A"
+last_name = "Guingona"
+middle_name = "Tayko"
+first_name = "Teofisto"
+name_suffix = "Jr"
+aliases = [ "Tito",]
 
 [[memberships]]
 type = "chamber"
-congress = 10
+congress = 8
+subtype = "senate"
+
+[[memberships]]
+type = "chamber"
+congress = 9
 subtype = "senate"
 
 [[memberships]]
@@ -16,10 +22,5 @@ subtype = "senate"
 
 [[memberships]]
 type = "chamber"
-congress = 12
-subtype = "senate"
-
-[[memberships]]
-type = "chamber"
-congress = 13
+congress = 11
 subtype = "senate"
