@@ -40,6 +40,15 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Restore tracking files from cache
+      uses: actions/cache/restore@v4
+      id: cache-tracking
+      with:
+        path: data/document/${{ matrix.type }}/${{ matrix.congress }}/.r2-*
+        key: r2-tracking-${{ matrix.type }}-${{ matrix.congress }}-${{ github.run_id }}
+        restore-keys: |
+          r2-tracking-${{ matrix.type }}-${{ matrix.congress }}-
+
     - name: Upload PDFs to R2
       env:
         R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
@@ -53,6 +62,13 @@ jobs:
           --congress ${{ matrix.congress }} \
           --workers 10
         echo "Upload completed for ${{ matrix.type }} Congress ${{ matrix.congress }}"
+
+    - name: Save tracking files to cache
+      if: always()
+      uses: actions/cache/save@v4
+      with:
+        path: data/document/${{ matrix.type }}/${{ matrix.congress }}/.r2-*
+        key: r2-tracking-${{ matrix.type }}-${{ matrix.congress }}-${{ github.run_id }}
 
     - name: Upload tracking files as artifacts
       if: always()

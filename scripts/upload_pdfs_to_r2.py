@@ -83,9 +83,9 @@ class PDFUploader:
             region_name='auto',  # R2 uses 'auto' for automatic region
         )
 
-    def download_pdf_with_retry(self, url: str, max_retries: int = 5) -> Optional[bytes]:
+    def download_pdf_with_retry(self, url: str, max_retries: int = 3) -> Optional[bytes]:
         """Download PDF with exponential backoff retry logic."""
-        delay = 5  # Start with 5 seconds
+        delay = 3  # Start with 3 seconds
 
         for attempt in range(max_retries):
             try:
@@ -141,23 +141,21 @@ class PDFUploader:
             return False
 
 
-def parse_yaml_line_by_line(yaml_file: Path, limit: Optional[int] = None) -> List[tuple]:
-    """Parse YAML mapping file line by line without loading into memory."""
-    mappings = []
-
+def parse_yaml_line_by_line(yaml_file: Path, limit: Optional[int] = None):
+    """Parse YAML mapping file line by line as a generator to avoid loading into memory."""
     with open(yaml_file, 'r') as f:
+        count = 0
         for line in f:
             # Match pattern like: '123': DOCUMENT_ID
             match = re.match(r"'(\d+)':\s+(\w+)", line.strip())
             if match:
                 bill_number = int(match.group(1))
                 document_id = match.group(2)
-                mappings.append((bill_number, document_id))
+                yield (bill_number, document_id)
+                count += 1
 
-                if limit and len(mappings) >= limit:
+                if limit and count >= limit:
                     break
-
-    return mappings
 
 
 def get_bill_metadata(bill_type: str, congress: int, document_id: str) -> Optional[dict]:
@@ -341,17 +339,10 @@ def main():
         help='Congress number'
     )
 
-    # Mutually exclusive group for single or multiple documents
-    doc_group = parser.add_mutually_exclusive_group()
-    doc_group.add_argument(
+    parser.add_argument(
         '--document',
-        type=int,
-        help='Single document number to upload (will overwrite if exists)'
-    )
-    doc_group.add_argument(
-        '--documents',
         type=str,
-        help='Range of document numbers to upload (format: lowest,highest)'
+        help='Single document ULID to upload (will overwrite if exists)'
     )
 
     parser.add_argument(
@@ -405,83 +396,80 @@ def main():
         print("Skipping - this is not an error.")
         sys.exit(0)
 
-    # Parse mappings
+    # Determine processing mode
     if args.document:
-        # Single document mode - always force overwrite for single document
+        # Single document mode by ULID - always force overwrite
         print(f"Processing single document: {args.document}")
-        mappings = [(args.document, None)]  # Will look up document_id from mapping
+        process_single = True
         force = True
-    elif args.documents:
-        # Range mode: lowest,highest
-        doc_range = [int(d.strip()) for d in args.documents.split(',')]
-        if len(doc_range) != 2:
-            print("Error: --documents requires exactly 2 numbers (lowest,highest)")
-            sys.exit(1)
-
-        lowest, highest = min(doc_range), max(doc_range)
-        doc_numbers = list(range(lowest, highest + 1))
-        print(f"Processing document range {lowest} to {highest} ({len(doc_numbers)} documents)")
-        mappings = [(num, None) for num in doc_numbers]
-        force = args.force  # Use --force flag for range mode
     else:
-        # Process all bills
+        # Process all bills - will stream from generator
         print(f"Processing all bills from {mapping_file}")
-        mappings = parse_yaml_line_by_line(mapping_file)
-        force = args.force  # Use --force flag for all bills mode
+        process_single = False
+        force = args.force
 
-    if force:
+    if force and not args.document:
         print("FORCE MODE: Will re-upload all files, ignoring tracking files and R2 checks\n")
 
-    # If document_id is None, look it up from mapping
-    full_mapping_dict = {}
-    with open(mapping_file, 'r') as f:
-        for line in f:
-            match = re.match(r"'(\d+)':\s+(\w+)", line.strip())
-            if match:
-                full_mapping_dict[int(match.group(1))] = match.group(2)
-
-    # Create tasks
-    tasks = []
-    for bill_number, document_id in mappings:
-        if document_id is None:
-            document_id = full_mapping_dict.get(bill_number)
-            if not document_id:
-                print(f"Warning: No document ID found for bill number {bill_number}")
-                continue
-
-        task = create_upload_task(args.type, args.congress, bill_number, document_id)
-        tasks.append(task)
-
-    print(f"\nTotal tasks: {len(tasks)}")
-    print(f"Using {args.workers} workers\n")
-
-    # Process tasks with thread pool
+    # Process bills
     success_count = 0
     failed_count = 0
+    total_count = 0
 
-    with ThreadPoolExecutor(max_workers=args.workers) as executor:
-        futures = {
-            executor.submit(
-                process_bill, task, args.type, args.congress, uploader, tracker, force
-            ): task for task in tasks
-        }
+    if process_single:
+        # Single document mode - process directly by ULID
+        document_id = args.document
 
-        for future in as_completed(futures):
-            task = futures[future]
-            try:
-                result = future.result()
-                if result:
-                    success_count += 1
-                else:
+        # Try to find the bill number from the TOML file
+        metadata = get_bill_metadata(args.type, args.congress, document_id)
+        if not metadata:
+            print(f"Error: Could not find document {document_id}")
+            sys.exit(1)
+
+        bill_number = metadata.get('meta', {}).get('bill_number', 0)
+        task = create_upload_task(args.type, args.congress, bill_number, document_id)
+
+        result = process_bill(task, args.type, args.congress, uploader, tracker, force)
+        total_count = 1
+        if result:
+            success_count = 1
+        else:
+            failed_count = 1
+    else:
+        # Process all bills with thread pool - stream to avoid loading all in memory
+        print(f"Starting upload with {args.workers} workers...\n")
+
+        with ThreadPoolExecutor(max_workers=args.workers) as executor:
+            futures = {}
+
+            # Generator function to create tasks on-demand
+            def task_generator():
+                for bill_number, document_id in parse_yaml_line_by_line(mapping_file):
+                    yield create_upload_task(args.type, args.congress, bill_number, document_id)
+
+            # Submit tasks as they're generated
+            for task in task_generator():
+                future = executor.submit(process_bill, task, args.type, args.congress, uploader, tracker, force)
+                futures[future] = task
+                total_count += 1
+
+            # Process results as they complete
+            for future in as_completed(futures):
+                task = futures[future]
+                try:
+                    result = future.result()
+                    if result:
+                        success_count += 1
+                    else:
+                        failed_count += 1
+                except Exception as e:
+                    print(f"Exception processing {task.bill_name}: {e}")
                     failed_count += 1
-            except Exception as e:
-                print(f"Exception processing {task.bill_name}: {e}")
-                failed_count += 1
 
     print(f"\n{'='*60}")
     print(f"Upload Summary")
     print(f"{'='*60}")
-    print(f"Total tasks:     {len(tasks)}")
+    print(f"Total tasks:     {total_count}")
     print(f"Successful:      {success_count}")
     print(f"Failed:          {failed_count}")
     print(f"{'='*60}\n")
