@@ -29,6 +29,10 @@ class BillUploadTask:
     document_id: str
     bill_name: str
     download_url: Optional[str]
+    title: Optional[str] = None
+    long_title: Optional[str] = None
+    date_filed: Optional[str] = None
+    scope: Optional[str] = None
 
 
 class UploadTracker:
@@ -113,14 +117,23 @@ class PDFUploader:
         except Exception:
             return False
 
-    def upload_to_r2(self, pdf_content: bytes, key: str) -> bool:
-        """Upload PDF content to R2 bucket."""
+    def upload_to_r2(self, pdf_content: bytes, key: str, metadata: dict = None) -> bool:
+        """Upload PDF content to R2 bucket with optional metadata."""
         try:
+            # Prepare metadata - ensure all values are strings
+            s3_metadata = {}
+            if metadata:
+                for k, v in metadata.items():
+                    if v is not None:
+                        # Convert to string and limit length (S3 metadata has size limits)
+                        s3_metadata[k] = str(v)[:2000]  # Limit to 2000 chars per field
+
             self.s3_client.put_object(
                 Bucket=self.bucket_name,
                 Key=key,
                 Body=pdf_content,
-                ContentType='application/pdf'
+                ContentType='application/pdf',
+                Metadata=s3_metadata
             )
             return True
         except Exception as e:
@@ -193,7 +206,34 @@ def create_upload_task(bill_type: str, congress: int, bill_number: int, document
     download_urls = metadata.get('meta', {}).get('download_url_sources', [])
     download_url = filter_download_url(download_urls, bill_type)
 
-    return BillUploadTask(bill_number, document_id, bill_name, download_url)
+    # Extract metadata for R2 based on bill type
+    meta_section = metadata.get('meta', {})
+
+    if bill_type == 'sb':
+        # Senate bills use senate_website_title and senate_website_long_title
+        title = meta_section.get('title')
+        long_title = meta_section.get('long_title')
+    else:  # 'hb'
+        # House bills use congress_website_title and congress_website_abstract
+        title = meta_section.get('congress_website_title')
+        long_title = meta_section.get('congress_website_abstract')
+
+    date_filed = meta_section.get('date_filed')
+    scope = meta_section.get('scope')
+    # Transform scope to uppercase if it exists
+    if scope:
+        scope = scope.upper()
+
+    return BillUploadTask(
+        bill_number=bill_number,
+        document_id=document_id,
+        bill_name=bill_name,
+        download_url=download_url,
+        title=title,
+        long_title=long_title,
+        date_filed=date_filed,
+        scope=scope
+    )
 
 
 def process_bill(task: BillUploadTask, bill_type: str, congress: int,
@@ -241,10 +281,39 @@ def process_bill(task: BillUploadTask, bill_type: str, congress: int,
         tracker.mark_erroring(task.bill_number)
         return False
 
+    # Prepare metadata for R2
+    r2_metadata = {
+        'document-id': task.document_id,
+        'document-canonical-number': str(task.bill_number),
+        'document-canonical-name': task.bill_name,
+        'congress': str(congress),
+        'resource-type': 'Document',
+        'document-type': bill_type.upper(),
+    }
+
+    # Add optional metadata with different keys based on bill type
+    if bill_type == 'sb':
+        # Senate bills use senate-website-* keys
+        if task.title:
+            r2_metadata['senate-website-title'] = task.title
+        if task.long_title:
+            r2_metadata['senate-website-long-title'] = task.long_title
+    else:  # 'hb'
+        # House bills use congress-website-* keys
+        if task.title:
+            r2_metadata['congress-website-title'] = task.title
+        if task.long_title:
+            r2_metadata['congress-website-abstract'] = task.long_title
+
+    if task.date_filed:
+        r2_metadata['date-filed'] = task.date_filed
+    if task.scope:
+        r2_metadata['scope'] = task.scope
+
     # Upload to R2
     print(f"  Uploading to R2: {r2_key}...")
 
-    if uploader.upload_to_r2(pdf_content, r2_key):
+    if uploader.upload_to_r2(pdf_content, r2_key, r2_metadata):
         print(f"  Successfully uploaded {task.bill_name}")
         tracker.mark_finished(task.bill_number)
         return True
@@ -292,6 +361,12 @@ def main():
         help='Number of concurrent workers (default: 10)'
     )
 
+    parser.add_argument(
+        '--force',
+        action='store_true',
+        help='Force re-upload of all files, ignoring tracking files and R2 existence checks'
+    )
+
     args = parser.parse_args()
 
     # Load environment variables
@@ -328,7 +403,7 @@ def main():
 
     # Parse mappings
     if args.document:
-        # Single document mode
+        # Single document mode - always force overwrite for single document
         print(f"Processing single document: {args.document}")
         mappings = [(args.document, None)]  # Will look up document_id from mapping
         force = True
@@ -343,12 +418,15 @@ def main():
         doc_numbers = list(range(lowest, highest + 1))
         print(f"Processing document range {lowest} to {highest} ({len(doc_numbers)} documents)")
         mappings = [(num, None) for num in doc_numbers]
-        force = False
+        force = args.force  # Use --force flag for range mode
     else:
         # Process all bills
         print(f"Processing all bills from {mapping_file}")
         mappings = parse_yaml_line_by_line(mapping_file)
-        force = False
+        force = args.force  # Use --force flag for all bills mode
+
+    if force:
+        print("FORCE MODE: Will re-upload all files, ignoring tracking files and R2 checks\n")
 
     # If document_id is None, look it up from mapping
     full_mapping_dict = {}
