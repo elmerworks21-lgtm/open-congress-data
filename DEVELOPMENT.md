@@ -253,6 +253,99 @@ The script creates the following graph structure:
 - Neo4j Python Driver: https://neo4j.com/docs/python-manual/current/
 - Cypher Query Language: https://neo4j.com/docs/cypher-manual/current/
 
+## Uploading PDFs to Cloudflare R2
+
+### Overview
+
+The `upload_pdfs_to_r2.py` script downloads bill PDFs from congressional websites and uploads them to a Cloudflare R2 bucket for permanent storage.
+
+### Setting Up Cloudflare R2
+
+1. **Create a Cloudflare R2 Bucket**
+   - Log in to your Cloudflare dashboard
+   - Navigate to R2 Object Storage
+   - Create a new bucket for your PDFs
+
+2. **Generate R2 API Tokens**
+   - Go to R2 → Manage R2 API Tokens
+   - Create a new API token with read/write permissions
+   - Save the Access Key ID and Secret Access Key
+
+3. **Configure Environment Variables**
+
+Add the following to your `.env` file:
+
+```env
+R2_ENDPOINT_URL=https://<account_id>.r2.cloudflarestorage.com
+R2_ACCESS_KEY_ID=your_access_key_id
+R2_SECRET_ACCESS_KEY=your_secret_access_key
+R2_BUCKET_NAME=your_bucket_name
+```
+
+Replace `<account_id>` with your Cloudflare account ID (found in R2 settings).
+
+### Running the Upload Script
+
+**Upload all bills for a specific congress and type:**
+
+```bash
+# Upload all House Bills from 13th Congress
+python scripts/upload_pdfs_to_r2.py --type hb --congress 13
+
+# Upload all Senate Bills from 20th Congress
+python scripts/upload_pdfs_to_r2.py --type sb --congress 20
+```
+
+**Upload a specific bill (overwrites if exists):**
+
+```bash
+python scripts/upload_pdfs_to_r2.py --type sb --congress 16 --document 2518
+```
+
+**Upload a range of bills:**
+
+```bash
+# Upload bills 1 through 100
+python scripts/upload_pdfs_to_r2.py --type hb --congress 13 --documents 1,100
+```
+
+**Adjust worker threads for faster uploads:**
+
+```bash
+# Use 20 concurrent workers (default is 10)
+python scripts/upload_pdfs_to_r2.py --type sb --congress 20 --workers 20
+```
+
+### How It Works
+
+1. **Reads bill metadata** from TOML files in `data/document/{type}/{congress}/`
+2. **Filters download URLs** based on bill type:
+   - House Bills: Uses URLs from `docs.congress.hrep.online`
+   - Senate Bills: Uses URLs from `web.senate.gov.ph/lisdata/`
+3. **Checks if file exists** in R2 to avoid re-downloading
+4. **Downloads PDF** with exponential backoff retry (5s → 10s → 20s → 40s → 80s)
+5. **Uploads to R2** with path: `{type}/{congress:02d}/{bill_name}.pdf`
+   - Example: `hb/13/HBN-00002.pdf`
+   - Example: `sb/20/SBN-02518.pdf`
+
+### Tracking Files
+
+The script creates tracking files in `data/document/{type}/{congress}/`:
+
+- **`.r2-finished-uploading-pdfs`** - Successfully uploaded bills
+- **`.r2-missing-pdfs`** - Bills with no matching download URL
+- **`.r2-erroring-pdfs`** - Bills that failed after retries
+
+These files contain bill numbers (zero-padded to 5 digits) one per line.
+
+### Resume After Interruption
+
+The script automatically skips files that:
+- Are listed in `.r2-finished-uploading-pdfs`
+- Already exist in the R2 bucket
+
+This makes it safe to re-run after network interruptions or failures.
+
 ## Development Tips
 
 ### Modifying the Script
