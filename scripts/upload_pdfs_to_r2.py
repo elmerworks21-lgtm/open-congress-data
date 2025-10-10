@@ -387,9 +387,11 @@ def main():
     uploader = PDFUploader(endpoint_url, access_key, secret_key, bucket_name)
     base_path = Path(f"data/document/{args.type}/{args.congress}")
 
+    # Fail gracefully if path doesn't exist
     if not base_path.exists():
-        print(f"Error: Path {base_path} does not exist")
-        sys.exit(1)
+        print(f"No data found for {args.type.upper()} Congress {args.congress} at {base_path}")
+        print("Skipping - this is not an error.")
+        sys.exit(0)
 
     tracker = UploadTracker(base_path)
 
@@ -397,9 +399,11 @@ def main():
     mapping_file_name = f".{'senate' if args.type == 'sb' else 'house'}-bill-number-mapping.yml"
     mapping_file = base_path / mapping_file_name
 
+    # Fail gracefully if mapping file doesn't exist
     if not mapping_file.exists():
-        print(f"Error: Mapping file {mapping_file} does not exist")
-        sys.exit(1)
+        print(f"No mapping file found at {mapping_file}")
+        print("Skipping - this is not an error.")
+        sys.exit(0)
 
     # Parse mappings
     if args.document:
